@@ -1,10 +1,10 @@
 # Documents by Teaching Purpose
 
-This folder contains 3,631 Markdown documents copied from D:\Sites\Livros\USA Docs\Markdowns and organized by their main teaching subject.
+This folder contains 3,631 Markdown documents organized by teaching category and publication year.
 
-The classification uses the document title, opening pages, and publication series. When a scanned title was unclear, the file name and manual series guided placement. The complete file-by-file listing is in Catalog.csv.
+Each numbered category contains subfolders named for the book's publication year. Documents without an identifiable publication year are stored under `Undated`.
 
-Original files remain in the Markdowns folder.
+Publication years come from the date printed in a document or an explicit release year in its filename. Historical dates mentioned in a document's body are not treated as publication dates.
 
 ## Categories
 
