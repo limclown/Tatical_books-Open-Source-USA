@@ -1,0 +1,7861 @@
+# misc_fm34_54_technical_intelligence  ---
+
+                                                                                                                                   FM 34-54
+
+                                           PREFACE
+
+          This field manual provides guidance to commanders and staffs of military intelligence (MI)
+and other units responsible for technical intelligence (TECHINT) or having an association with
+TECHINT. It provides general guidance and identifies the tactics, techniques, and procedures
+(TTP) used in the collection, exploitation, and dissemination of TECHINT in satisfying the
+warfighter's requirements.
+
+          TECHINT is an integral part of the overall battlefield operating system (BOS) and supports
+Army operations through the analysis and exploitation of foreign equipment, weapons, and other
+war materiel.
+
+          This field manual describes the TECHINT process at all echelons and identifies
+responsibilities. It further describes the MI TECHINT organizations, other services, and the
+strategic level intelligence agencies supporting the process.
+
+          On today's battlefield, Army forces will likely deploy as part of a joint or combined military
+operation. For that reason, while this manual supports Army operations, it does so in the context
+of Army operations as part of a joint or combined task force.
+
+          This field manual applies to all Army personnel, to include Active Component (AC) and
+Reserve Components (RC) commanders and their staffs, US Army Training and Doctrine
+Command (TRADOC) Centers and Schools, and MI elements.
+
+          The proponent of this publication is US Army Intelligence Center and Fort Huachuca
+(USAIC&FH). Send comments and recommendations on DA Form 2028 (Recommended
+Changes to Publications and Blank Forms) directly to Commander, US Army Intelligence Center
+and School, ATTN: ATZS-TDL-D, Fort Huachuca, AZ 85613-6000.
+
+          The doctrine in this publication conforms with and supports the principles in FM 34-1 and
+FM 100-5. This manual does not implement any international standardization agreements but
+complies with the following Standardization Agreements:
+
+          STANAG 1059 - National Distinguishing Letters for Use by NATO Forces (Edition 6).
+          STANAG 2014 - Operations Plans, Warning Orders, and Administrative/Logistics Orders
+
+                                (Edition 7).
+          STANAG 2044 - Procedures for Dealing With Prisoners of War (Edition 5).
+          STANAG 2084 - Handling and Reporting of Captured Enemy Equipment and Documents
+
+                             (Edition 5).
+          STANAG 2097 - Nomenclature and Classification of Equipment (Edition 6).
+          STANAG 2143 - Explosive Ordnance Reconnaissance/Explosive Ordnance Disposal
+
+                                 (Edition 4).
+          STANAG 2389 - Minimum Standards of Proficiency for Trained Explosive Ordnance
+
+                               Disposal Personnel (Edition 1).
+          STANAG 2834 - The Operation of the Explosive Ordnance Disposal Technical
+
+                                 Information Center (EODTIC) (Edition 2).
+          Unless this publication states otherwise, masculine nouns and pronouns do not refer
+
+                                                                                                                                              v
+
+
+---
+
+FM 34-54
+exclusively to men. The use or mention of any commercial or private organization's name or
+trademark and the organization's services and/or funds by the US Army does not express or imply
+an endorsement of the sponsor or its products and services by the US Army.
+
+vi
+
+
+---
+
+
+
+---
+
+FM 34-54
+
+                                                                     Page
+
+               Disseminate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-6
+               Battlefield TECHINT Reporting Sequence . . . . . . . . . . . . . . . . . . . . 4-7
+               Battlefield TECHINT Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-8
+
+CHAPTER 5   RESPONSIBILITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-1
+             Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-1
+             Staff Sections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-1
+             Assistant Chief of Staff, J1/G1, Personnel . . . . . . . . . . . . . . . . . . . . 5-1
+             Assistant Chief of Staff, J2/G2, Intelligence . . . . . . . . . . . . . . . . . . . 5-2
+             Assistant Chief of Staff, J3/G3, Operations . . . . . . . . . . . . . . . . . . . . 5-3
+             Assistant Chief of Staff, J4/G4, Logistics . . . . . . . . . . . . . . . . . . . . . . 5-4
+             Assistant Chief of Staff, J5/G5, Civil Affairs . . . . . . . . . . . . . . . . . . . . 5-4
+             Special Staff Officers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-5
+             Units and Organizations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-7
+
+APPENDIX A     MEASUREMENT AND SIGNATURE INTELLIGENCE . . . . . . . . . . A-1
+APPENDIX B     JCMEC OPERATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B-1
+APPENDIX C     HANDLING AND EVACUATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . C-1
+APPENDIX D     INTELLIGENCE ANNEX WITH TECHINT INPUT . . . . . . . . . . . . . . D-1
+APPENDIX E     TECHNICAL INTELLIGENCE REPORTS . . . . . . . . . . . . . . . . . . . . E-1
+APPENDIX F     COLLECTION AND EXPLOITATION REQUIREMENTS . . . . . . . . . F-1
+APPENDIX G     FOREIGN LANGUAGE TEXT RECOGNITION . . . . . . . . . . . . . . . . G-1
+APPENDIX H     CHEMICAL AND BIOLOGICAL WARFARE SAMPLING
+               PROCEDURES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . H-1
+APPENDIX I     FACILITY EXPLOITATION CHECKLISTS . . . . . . . . . . . . . . . . . . . . . I-1
+
+GLOSSARY
+
+            Acronyms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Glossary-1
+            Terms and Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Glossary-12
+
+REFERENCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . References-1
+
+INDEX Index-1
+
+                                                    LIST OF FIGURES
+ii
+
+
+---
+
+                                                                                                                               FM 34-54
+
+Figure 2-1. Department of Defense S&TI community. 2-2                                                                          Page
+Figure 3-1. TECHINT operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Figure 3-2. The 203d MI Battalion (TECHINT) organization. . . . . . . . . . . . . . . . . . . . . . . .                        3-2
+Figure 3-3. TECHINT team organization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            3-3
+Figure 3-4. Possible locations of TECHINT LNEs when supporting a JTF. . . . . . . . . . . .                                    3-5
+Figure 4-1. Planning and directing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     3-9
+Figure 4-2. TECHINT target folder. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       4-1
+Figure 4-3. Flow of CEM guidance and decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   4-2
+Figure 4-4. Transportation operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        4-4
+Figure 5-1. Staff sections responsibilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        4-5
+Figure A-1. HQDA agencies and their MASINT responsibilities. . . . . . . . . . . . . . . . . . . . .                           5-2
+Figure B-1. Joint Captured Materiel Exploitation Center (JCMEC) Organization. . . . . . .                                      A-3
+Figure B-2. TECHINT communications architecture . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      B-4
+Figure C-1. Evacuation of captured petroleum, oils, and lubricants . . . . . . . . . . . . . . . . .                           B-7
+Figure C-2. Evacuation of captured ammunition and explosives . . . . . . . . . . . . . . . . . . .                             C-4
+Figure C-3. Captured medical materiel evacuation system . . . . . . . . . . . . . . . . . . . . . . . .                        C-4
+Figure C-4. Evacuation of captured aviation items . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                C-5
+Figure C-5. Front and reverse sides of an EPW tag. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   C-5
+Figure C-6. Front and reverse sides of a CEE tag. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  C-11
+Figure C-7. Example of a CEE tag flagged for TECHDOCs. . . . . . . . . . . . . . . . . . . . . . . .                           C-12
+Figure D-1. Example of an extract from a Theater Army Intelligence Annex . . . . . . . . . .                                   C-13
+Figure D-2. Example of a Joint Theater TECHINT Appendix . . . . . . . . . . . . . . . . . . . . . .                            D-1
+Figure D-3. Example of a TAB D to a TECHINT Appendix of a Theater Army                                                         D-4
+
+                    Intelligence Annex. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  D-11
+Figure E-1. Example of a SALUTE report. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              E-2
+Figure E-2. Format for a PRETECHREP. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               E-3
+Figure E-3. Format for a COMTECHREP - Type A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        E-4
+Figure E-4. Format for a COMTECHREP - Type B. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      E-7
+Figure E-5. Format for a COMTECHREP - Type C. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      E-9
+Figure G-1. A partial list of spoken languages and locations where they are spoken. . . .                                      G-3
+Figure G-2. Table of diacritics. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   G-4
+Figure G-3. The occurrence of diacritics in various languages. . . . . . . . . . . . . . . . . . . . .                         G-5
+Figure G-4. Distinguishing major Slavic languages from Russian. . . . . . . . . . . . . . . . . . .                            G-10
+Figure G-5. Cyrillic alphabet and transliteration chart. . . . . . . . . . . . . . . . . . . . . . . . . . . . .               G-12
+Figure G-6. International, Arabic, and Persian numbers. . . . . . . . . . . . . . . . . . . . . . . . . . .                    G-16
+Figure G-7. The Arabic alphabet. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       G-17
+Figure G-8. The diacritics of Arabic and Persian. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              G-18
+Figure G-9. Printed Arabic. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  G-18
+Figure G-10. Typewritten Arabic. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     G-19
+Figure G-11. Printed Persian (arrows indicate distinguishing features). . . . . . . . . . . . . . .                            G-19
+Figure G-12. Sample of Chinese text. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         G-21
+Figure G-13. Sample of Japanese text. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          G-21
+Figure G-14. Shows Korean with fewer Chinese symbols used. . . . . . . . . . . . . . . . . . . . .                             G-22
+Figure G-15. The fifty most common Chinese character radicals. . . . . . . . . . . . . . . . . . . .                           G-23
+Figure G-16. The Japanese Hiragana syllabary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  G-24
+Figure G-17. The Japanese Katakana syllabary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  G-24
+
+                                                                                                                                     iii
+
+
+---
+
+FM 34-54
+
+Figure G-18. The Korean alphabet. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            G-25
+Figure H-1. Sample DA Form 1971-6-R (Chemical/Biological Sample Documentation) .                                             H-4
+Figure H-2. Example of an equipment list. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          H-5
+Figure H-3. Description of responsibilities for a sample evacuation. . . . . . . . . . . . . . . . . .                       H-10
+Figure H-4. Sample collection guidelines. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        H-13
+Figure H-5. Sample identification and control. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           H-14
+Figure I-1. Collection Checklist-Airfields. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      I-1
+Figure I-2. Collection Checklist-Electric Power. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           I-5
+Figure I-3. Checklist-Petroleum and Natural Fields. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              I-8
+Figure I-4. Facility Physical Security Checklist. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          I-11
+Figure I-5. Checklist-Railways. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  I-14
+Figure I-6. Checklist-Underground Facilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          I-18
+
+iv
+
+
+---
+
+                                            FM 34-54
+
+                               Chapter 1
+TECHNICAL INTELLIGENCE MISSION AND SUPPORT
+
+GENERAL
+
+         This chapter describes the TECHINT mission, how it supports the
+         warfighter, and presents TECHINT in a historical perspective. TECHINT
+         results from the collection, evaluation, and analysis of foreign warfighting
+         equipment and associated materiel. At the strategic level, the exploitation
+         and interpretation of foreign weapons systems, materiel, and technologies
+         is referred to as scientific and technical intelligence (S&TI). This S&TI
+         covers—
+
+              Foreign developments in basic and applied research and in applied
+              engineering techniques.
+
+              Scientific and technical (S&T) characteristics, capabilities, and
+              limitations of all foreign military systems, weapons, weapon systems,
+              and material.
+
+              Research and development (R&D) related to these systems and the
+              production methods employed for their manufacture.
+
+MISSION
+
+         The TECHINT mission ensures that the warfighter has a clear
+         understanding of the full technological capabilities residing in his
+         opponent’s equipment. With this knowledge, the warfighter adopts
+         countermeasures, operations, and tactics, as necessary, to be successful
+         in any assigned mission.
+
+TECHINT SUPPORT TO THE WARFIGHTER
+
+        STRATEGIC LEVEL:
+
+                       The US has relied on its military strength as a strategic deterrent to war.
+                       The strength of the US military lies, in part, to the diversity and extent of its
+                       technology base. While the US aspires to be the leader in integrating
+                       technology, the actual products are available to any buyer. An adversary
+                       can achieve temporary technological parity or advantage by acquiring
+                       modern systems or capabilities. The world arms market is willing to provide
+                       these advanced systems to countries or individuals with the resources to
+
+                                            1-1
+
+
+---
+
+FM 34-54
+
+                              pay for them. A concerted TECHINT program is vital to providing precise
+                              direction and purpose within the US R&D process to ensure that this parity
+                              or advantage is neutralized quickly and efficiently.
+
+               OPERATIONAL AND TACTICAL LEVEL:
+
+                              For the Army, technology is changing how we organize, how we train and
+                              develop leaders, and how we conduct operations. Advances in electronics,
+                              communications, automation, reconnaissance and surveillance (R&S),
+                              contamination avoidance, precision-guided munitions, and the exploitation
+                              of space-based capabilities have increased the lethality, range, accuracy,
+                              and reliability of our weaponry.
+
+                              Operational and tactical commanders rely on this technological advantage
+                              to successfully synchronize and execute complex modern Army operations.
+                              The introduction of a surprise technological capability by an adversary
+                              causes confusion and delay mission accomplishment until the capability is
+                              understood and countered. TECHINT is the key to the early identification of
+                              an adversary’s technical capabilities and the development of
+                              countermeasures for the operational and tactical commander.
+
+     HISTORICAL PERSPECTIVE
+
+                              In the 1920's, Germany was developing the weapons and systems it would
+                              use against the Allies in the 1940's. Because Allied nations did not
+                              integrate TECHINT into peacetime collection efforts, German S&T
+                              advances went largely unnoticed. When information did come to light,
+                              Washington and London ignored or ridiculed it. Later, when
+                              the Germans fielded their advanced weapons and systems in war, the
+                              resulting technological surprise on the battlefield was devastating.
+
+               WORLD WAR II:
+
+                              During the air battle for Europe, the British used TECHINT to counter the
+                              German antiaircraft and night-fighter defenses. This was accomplished by
+                              exploiting captured aircraft radios and a captured radar station. (See below
+                              a discussion of the Bruneval Raid.)
+
+                              The Allies captured many German and Italian weapons in North Africa.
+                              This collection led to the publishing of new technical material, such as—
+
+                                   Technical manual E9 series handbooks on enemy weapons.
+
+                                   Special series publications on German weapons.
+
+                                   Training aids.
+
+1-2
+
+
+---
+
+                                                                                                                  FM 34-54
+
+                    Updates to handbooks on the German and Italian armies.
+
+               TECHINT exploitation of captured German Tiger and Panther tanks led to
+               several important battlefield countermeasures. One of these was the
+               adoption of new armor tactics while another was the development of more
+               powerful antitank rockets.
+
+               The United States started a successful TECHINT program in the fall of
+               1943 called the ALSOS mission. This unit was made up of
+               Counterintelligence (CI) Corps agents, scientists, and interpreters. Their
+               mission was to capture and exploit personnel and material of S&T value.
+
+               The successes of this unit included:
+
+                    Exploitation of Italian and German nuclear scientists.
+
+                    Removal of significant quantities of uranium ore from the Albert Canal.
+
+                    Recovery of the international radium standards from what was to be
+                    the Soviet occupied sector of Germany.
+
+               Throughout the remainder of the 1940's a Foreign Materiel Intelligence
+               Branch at the Ordnance Center, Aberdeen Proving Grounds, MD,
+               continued to conduct exploitation work on captured German and Japanese
+               equipment.
+
+THE RAID ON BRUNEVAL—AN OFFENSIVE TECHINT OPERATION:
+
+               At 2100Z on 27 February 1942, 119 British soldiers of Company C, 2nd
+               Battalion, the Parachute Regiment, parachuted into a drop zone near the
+               small village of Bruneval, in Occupied France. The company's mission was
+               to raid a suspected German radar site on a cliff a few hundred yards from
+               an accessible beach to bring back an item of extreme TECHINT
+               interest—the WUERZBURG radar.
+
+               The WUERZBURG radar was believed to be a mobile, short-range, high-
+               precision radar responsible for the sudden and serious increase in Allied
+               heavy bomber losses. Routine Allied photographic reconnaissance
+               originally discovered the installation in January 1942. French resistance
+               forces were sent to investigate. They confirmed the site as well as a
+               garrison troop strength of nearly 200 enemy signal, support, and security
+               troops. They also reported that the nearby beach was not mined.
+
+               It was the intelligence and urgent need to protect Allied planes that resulted
+               in the commando raid that night. Once on the ground, the commandos
+               moved quickly and split into three equal groups. The first group secured
+
+                                                                                                                           1-3
+
+
+---
+
+FM 34-54            the beach. The second group spread out and took up positions to act as a
+1-4                 reserve or blocking force. The last group, the collection team and a special
+                    radar technical expert, moved forward to take the target.
+
+                    The collection team slipped through enemy defender positions, entered the
+                    installation, and found the radar. They used hacksaws, crowbars, and
+                    precision hand tools to dismantle the main components. As each part of
+                    the radar was exposed, it was sketched and photographed. The team also
+                    captured a German signalman—the radar operator.
+
+                    When they finished, the team destroyed what they couldn't take with them
+                    and began their move to the beach under progressively heavy fire. The
+                    surviving commandos were picked up by Allied landing craft and escaped
+                    across the Channel to England.
+
+                    Exactly three and one-half hours after the mission began it was over.
+                    Although two men were killed, six wounded, and six more listed as missing
+                    in action, the raid was deemed a great success. Not only was it the first
+                    raid on the continent following the disaster at Dunkirk but also it resulted in
+                    the successful capture of a valuable piece of enemy material—material that
+                    later proved to be of vital TECHINT interest.
+
+                    Allied TECHINT experts examined the material as soon as they got it. The
+                    exploitation of this radar, along with the sketches and the photographs,
+                    quickly began to provide valuable TECHINT. For example, just from the
+                    recovered metal manufacturer's plates, analysts accurately determined
+                    how many Wuerzburg radars had been produced and their current rate of
+                    production. When the German signalman was interrogated, he provided
+                    valuable information about the level of operator skills and operator training.
+                    Most important, though, TECHINT scientists
+                    used the captured material to build an operational Wuerzburg radar
+                    mockup.
+
+                    When the mockup was completed, they had a multifrequency radar that
+                    seemed, at first, to be almost impossible to jam. Scientists went to work to
+                    develop countermeasures to neutralize the radar's capabilities. Their
+                    efforts resulted in thin metallic strips cut to different lengths that could be
+                    dropped from airplanes. These strips reflected radar signals and effectively
+                    jammed the new radars. They dubbed these strips chaff. CHAFF turned
+                    out to be one of the most successful countermeasures developed during
+                    World War II—being particularly useful during the Normandy Invasion.
+
+          THE KOREAN WAR:
+
+                    It wasn't until the beginning of the Korean War, when North Korean troops
+                    in Soviet-designed and Chinese-built armor rolled south, that the United
+                    States discovered it had little confirmed data on enemy weapons systems.
+
+
+---
+
+                                                                                                                  FM 34-54
+
+               We realized that to be able to develop effective countermeasures,
+               TECHINT had to be an ongoing process. As a result, we once again began
+               a concerted TECHINT effort, with the Foreign Material Intelligence Branch
+               at Aberdeen Proving Grounds training and fielding TECHINT teams to
+               Korea.
+
+               In the Korean War, the warfighters found that their 2.36-inch bazooka
+               rockets could not penetrate the T-34/85 tanks' frontal armor. With this
+               combat deficit identified, commanders began to support the TECHINT
+               process by evacuating captured T-34/85 tanks and other material to
+               TECHINT elements for exploitation. TECHINT both in the theater and back
+               in the United States at the Chrysler Corporation analyzed the captured
+               material. The US Army responded by giving combat commanders new
+               tactics, a redesigned M-48 tank, and a 3.5-inch bazooka.
+
+               The TECHINT effort also supported the political effort to prove Soviet
+               involvement on behalf of the North Korean aggressor. Captured modern
+               Soviet weapons were regularly paraded before the UN Security Council as
+               evidence of Soviet support.
+
+THE VIETNAM WAR:
+
+               Following the Korean War, the United States did not disband its TECHINT
+               capability completely, as had been done at the conclusion of all previous
+               hostilities. But neither did we maintain it at its wartime level. Three small
+               TECHINT detachments remained in place at the Army's research and
+               development centers. By 1962 two of the detachments merged to form the
+               Army's Foreign Science and Technology Center. The third detachment
+               established the Missile Intelligence Agency at Redstone
+               Arsenal. The Surgeon General also operated a Medical Intelligence
+               Center at Fort Detrick, MD.
+
+               An agency called the Captured Materiel Exploitation Center (CMEC) came
+               into being in 1966. Its wartime mission was to manage, coordinate, and
+               analyze captured enemy equipment (CEE), and technical captured enemy
+               documents (CEDs). The CMEC did this on a tactical level by dispatching
+               teams of experts and analysts into the tactical zone of each corps. These
+               teams analyzed captured materiel in the field and recommended
+               countermeasures to tactical commanders. American personnel working in
+               the CMEC were assigned to Delta Company, 519th MI Battalion.
+
+               The North Vietnamese employed Soviet designed man-portable systems
+               with considerable success. The Soviet AT-3 Sagger antitank guided
+               missile (ATGM) was used against South Vietnamese armored vehicles,
+               communications bunkers, and even small outposts. In addition, the SA-7
+               heat-seeking surface-to-air missile (SAM) was employed and became an
+               even more serious threat because it could disrupt allied control of the air
+
+                                                                                                                           1-5
+
+
+---
+
+FM 34-54
+
+                              space over the battlefield. Lastly, the 122-mm rocket was employed as the
+                              North Vietnamese Army's (NVA) primary artillery weapon in a variety of
+                              configurations. While samples of these weapons undoubtedly fell into the
+                              hands of the South Vietnamese, nothing was done with them because of
+                              the September 1969 inactivation of American TECHINT units in Vietnam.
+                              And, by October 1971, the 55th Military Intelligence Detachment, a corps
+                              support unit with a TECHINT capability, had also been inactivated.
+
+               GRENADA (OPERATION URGENT FURY) :
+
+                              Following the commitment of US forces to Grenada on 25 October 1983,
+                              large quantities of foreign military equipment were discovered thus
+                              requiring TECHINT support.
+
+                              Two elements of the 203d MI Battalion, 513th MI Group, were deployed to
+                              Grenada. Five soldiers participated as members of a Defense Intelligence
+                              Agency (DIA) Team formed at the request of the Commander in Chief,
+                              Atlantic (CINCLANT) operational commander for URGENT FURY. The first
+                              element arrived in Grenada on 31 October 1983 and was tasked to identify,
+                              sort, and provide approximate inventories of foreign material and to
+                              establish priorities for shipment to the United States. Nineteen other
+                              soldiers established the 203d MI Battalion (Forward) and operated a
+                              modified CMEC. Together the 203d soldiers type-classified and developed
+                              inventories; assisted combat units in searches for materiel; operated a
+                              collection point for CEE and captured enemy materiel (CEM); and shipped
+                              appropriate items to the continental United States (CONUS).
+
+                              In 1985 the 203d MI Battalion was redesignated the Foreign Materiel
+                              Intelligence Group. In 1989 it was again redesignated as the Foreign
+                              Materiel Intelligence Battalion (FMIB).
+
+               THE GULF WAR (OPERATIONS DESERT SHIELD and DESERT STORM):
+
+                              DESERT SHIELD and DESERT STORM were the largest battlefield
+                              TECHINT operations since the Vietnam War, and the largest joint and
+                              combined TECHINT operations since World War II. The Joint Captured
+                              Materiel Exploitation Center (JCMEC) was formed with the Army's FMIB to
+                              serve as the nucleus and headquarters. Augmentation to the FMIB
+                              included TECHINT personnel from every element of the Department of
+                              Defense (DOD), the national S&TI community, Great Britain, Canada, and
+                              Australia.
+
+                              During Sadaam Hussein's attack on the Saudi Arabian city of Khafji in
+                              February 1991, a previously unseen and highly modified tank was
+                              captured. This tank, a modified T-55, had vastly improved external armor
+                              and possibly new fire control, weapons, and optical systems. A team from
+                              the JCMEC was dispatched forward to conduct a hasty exploitation and to
+
+1-6
+
+
+---
+
+                                                                                                                  FM 34-54
+
+               find out if this tank required a tactical capabilities reassessment. In
+               layman's terms, could this new tank, with its improved armor, defeat a
+               broader array of friendly weaponry? Within 2 days, the TECHINT collection
+               team soldiers, analysts at the JCMEC, and national S&TI agencies in the
+               United States were able to report their findings to the theater commander
+               and his staff.
+
+               DESERT SHIELD and DESERT STORM produced the largest amount of
+               CEM in the shortest amount of time since World War II. As a result of
+               lessons learned from prior deployments, TECHINT provided
+               unprecedented timely and accurate information to the warfighter and the
+               national S&TI community.
+
+SOMALIA (OPERATION RESTORE HOPE) :
+
+               On 4 December 1992, the FMIB alerted a TECHINT liaison element (LNE)
+               for deployment in support of the US Marine Corps (USMC) II Expeditionary
+               Force, the core headquarters for Joint Task Force (JTF) Somalia.
+
+               The TECHINT LNE deployed to Somalia on 16 December and established
+               operations at the US Embassy compound in southwest Mogadishu on 18
+               December. The TECHINT LNE made several significant contributions to
+               the operations and intelligence efforts in Somalia.
+
+               On 21 December, the LNE accompanied a delegation from the JTF
+               Somalia headquarters on a tour of compounds controlled by rival warlords
+               in Mogadishu. During the 5 to 10 minutes the LNE was inside of each of
+               the five compounds, the TECHINT LNE personnel compiled lists of the
+               foreign and US weapons, equipment, and ordnance controlled by the
+               warlords. This order of battle (OB) intelligence was key in planning the
+               eventual US forces attack against one of those compounds.
+
+               After determining there was no theater-wide plan for the collection and
+               processing of CEM, the TECHINT LNE established the Centralized
+               Weapons Collection Center (CWCC). In conjunction with explosive
+               ordnance disposal (EOD) personnel, the CWCC processed, screened for
+               intelligence value, and disposed of thousands of captured weapons and
+               hundreds of thousands of rounds of ammunition.
+
+               On 6 January, several SA-7 man-portable SAMs were captured in the
+               Mogadishu area. In conjunction with EOD personnel, and with input from
+               the US Missile and Space Intelligence Center (MSIC), the TECHINT LNE
+               reported that the missiles were functional. This intelligence prompted a
+               change in the air defense artillery (ADA) threat status and flight operations
+               in Somalia.
+
+               On 14 January, several French MILAN antitank missiles were captured in
+
+                                                                                                                           1-7
+
+
+---
+
+FM 34-54
+
+                              the Mogadishu area. The TECHINT LNE conducted testing and evaluation
+                              of captured missiles with personnel from the French contingent
+                              of Commander, Joint Task Force (CJTF) Somalia. The missiles were
+                              functional and capable of defeating all but the heaviest armor in the Somali
+                              theater of operations.
+
+               HAITI (OPERATIONS RESTORE DEMOCRACY and UPHOLD DEMOCRACY) :
+
+                              In September 1994 FMIB deployed a 14-soldier TECHINT contingency
+                              support detachment (CSD) and a 2-soldier LNE in support of US
+                              Operation RESTORE DEMOCRACY. TECHINT LNE personnel, in
+                              conjunction with JTF 180 and JTF 190 planners, developed handling and
+                              processing procedures for CEM, including weapons received as part of the
+                              "Cash for Guns" program.
+
+                              The CSD established the JCMEC (Forward) in Port-au-Prince. The CSD
+                              screened, processed, and inventoried over 10,000 weapons and thousands
+                              of rounds of ammunition by hand without the benefit of materiel-handling
+                              equipment. The resulting database provided OB analysts a tool for
+                              assessing the threat to US forces as well as the success of the "Cash for
+                              Guns" program. Additionally, the "by serial number" inventory was
+                              forwarded to national law enforcement agencies via CI liaison channels to
+                              aid in arms smuggling investigations.
+
+                              At the time of redeployment, CSD personnel had accomplished all
+                              assigned national TECHINT collection requirements, and through
+                              intelligence discipline integration, played key roles in various signals
+                              intelligence (SIGINT) and human intelligence (HUMINT) operations.
+
+     LESSONS LEARNED
+
+                              The historical experience of the nation in times of peace and war clearly
+                              demonstrates the need for a fully operational Army TECHINT capability. A
+                              robust TECHINT collection and analysis capability, with dynamic links to
+                              S&TI centers in the United States is especially vital in the future's
+                              technologically sophisticated battlefield. This capability is required to
+                              correctly portray the battlespace for warfighting commanders. Furthermore,
+                              TECHINT enhances force protection. To neglect TECHINT during the
+                              planning and execution of Army operations invites the possibility of
+                              technological surprise.
+
+1-8
+
+
+---
+
+                                       FM 34-54
+
+                         Chapter 2
+SCIENTIFIC AND TECHNICAL INTELLIGENCE
+
+INTRODUCTION
+
+                       TECHINT is the end product of a complex process. It is the result of
+                       collecting, analyzing, and processing information on foreign technological
+                       developments. It is also the result of studying the performance of foreign
+                       materiel and its operational capabilities.
+
+                       TECHINT has two goals:
+
+                             To ensure the US armed forces maintain technological advantage
+                             against any adversary.
+
+                             To provide tailored, timely, and accurate TECHINT support to the
+                             warfighter throughout the entire range of military operations.
+
+                       This support includes providing US forces information and training on
+                       foreign weapons systems to an extent that allows use of the CEE. The
+                       TECHINT system accomplishes both missions.
+
+THE S&TI COMMUNITY
+
+                       The S&TI community satisfies the nation's overall TECHINT objectives
+                       during peacetime, and the strategic TECHINT requirements in wartime.
+                       The S&TI community starts at the DOD level. Figure 2-1 shows this
+                       organizational structure.
+
+                       S&TI is designed to track and analyze foreign technological developments.
+                       It is used to analyze the performance and operational capabilities of foreign
+                       materiel that may have military application.
+                       Although the primary function of the S&TI community is to satisfy strategic
+                       TECHINT objectives, it also makes significant contributions toward fulfilling
+                       operational and tactical TECHINT requirements. Strategic communications
+                       between battlefield TECHINT units and S&TI centers allow the use of their
+                       comprehensive databases and expertise to rapidly satisfy the TECHINT
+                       requirements of the warfighter.
+
+                                       2-1
+
+
+---
+
+FM 34-54
+2-2
+
+
+---
+
+                                                                                                                              FM 34-54
+
+ STRUCTURE
+
+DEFENSE INTELLIGENCE AGENCY:
+
+                         DIA manages and reviews overall TECHINT activities throughout DOD
+                         during peacetime and war. The S&TI directorate within DIA is the action
+                         element for TECHINT. This directorate coordinates with external
+                         TECHINT agencies on nonpolicy matters concerning the production of
+                         S&TI.
+
+                         Armed Forces Medical Intelligence Center (AFMIC). AFMIC, based at
+                         Fort Detrick, MD, is a DOD intelligence production center under control of
+                         DIA. AFMIC is responsible for exploiting foreign medical materiel. The
+                         director supports the Army Foreign Materiel Exploitation Program (FMEP)
+                         and Army medical R&D requirements. The director coordinates with the
+                         Deputy Chief of Staff, Intelligence (DCSINT) in planning, programming,
+                         and budgeting. AFMIC—
+
+                              Studies and reports foreign medical S&TI and general medical
+                              intelligence to DOD and other Federal agencies.
+
+                              Studies and reports foreign biological warfare S&TI capabilities.
+
+                              Administers the DOD Foreign Medical Materiel Exploitation Program
+                              (FMMEP).
+
+                              Provides "quick response" foreign medical intelligence support to DOD
+                              and other Federal agencies.
+
+                              Maintains a mutually beneficial S&TI exchange with the US Army
+                              Intelligence and Security Command (INSCOM) to complement Army
+                              capabilities.
+
+                         Missile and Space Intelligence Center (MSIC). MSIC, based at Redstone
+                         Arsenal, AL, is a DOD intelligence production center under control of DIA
+                         and supports the FMEP. The MSIC acquires, produces, maintains, and
+                         disseminates S&TI pertaining to missile and space weapons systems,
+                         subsystems, components, and activities. The S&TI produced at MSIC also
+                         covers foreign state-of-the-art technology and research applicable to
+                         missiles. MSIC analyzes—
+
+                              Directed energy weapons.
+
+                              Antisatellite technology.
+
+                              Tactical air defense.
+
+                                                                                                                                      2-3
+
+
+---
+
+FM 34-54
+
+                                   Short-range ballistic missiles (SRBMs).
+
+                                   Antitank guided missiles (ATGMs).
+
+                              Defense HUMINT Service (DHS). DHS conducts worldwide HUMINT
+                              operations in support of foreign materiel acquisition and exploitation.
+
+               NATIONAL SECURITY AGENCY (NSA):
+
+                              NSA is the SIGINT organization of the US Government. It is responsible
+                              for exploiting cryptologic and electronic warfare (EW) materiel.
+
+               DEFENSE ADVANCED RESEARCH PROJECTS AGENCY (DARPA):
+
+                              DARPA is the central R&D organization for DOD. It manages and directs
+                              selected basic and applied R&D projects for DOD and pursues research
+                              and technology where risk and payoff are both very high and where
+                              success may provide dramatic advances for traditional military roles and
+                              missions. DARPA sponsors R&D in all aspects of TECHINT, including
+                              imagery intelligence (IMINT), SIGINT, HUMINT, and measurement and
+                              signature intelligence (MASINT). For the latest description of DARPA
+                              projects, visit the DARPA World Wide Web site on the Internet:
+                              http://www.arpa.mil/.
+
+               AIR FORCE:
+
+                              National Air Intelligence Center (NAIC). NAIC is the primary DOD
+                              agency producing foreign aerospace S&TI. It satisfies DIA requirements
+                              and supports the Air Force Assistant Chief of Staff for Intelligence
+                              (AFACSI). NAIC acquires, analyzes, produces, and disseminates S&TI
+                              related to current and future enemy aerospace capabilities.
+
+               NAVY:
+
+                              Naval EOD Technical Division and Fire Support and Armament
+                              Command EOD. These are the primary training centers of all Joint EOD
+                              personnel. Augmented by Army EOD specialists from Picatinny Arsenal,
+                              they act as primary centers establishing identification, render safe
+                              procedures (RSPs) and demolition procedures for foreign ordnance.
+
+                              Office of Naval Intelligence. The Navy proponent for TECHINT in the
+                              Office of Naval Intelligence (ONI) is designated ONI-23. ONI-23 provides
+
+2-4
+
+
+---
+
+ARMY:                                                                                                   FM 34-54
+
+       S&TI on technical characteristics and capabilities of foreign naval forces
+       and merchant systems. It provides S&TI support to the Commander of
+       the ONI and the Chief of Naval Operations.
+
+       Office of the Deputy Chief of Staff, Intelligence (ODCSINT). Although
+       ODCSINT does not produce intelligence, it does have general staff
+       responsibility for all Army TECHINT activities. The ODCSINT—
+
+            Formulates policies and procedures for S&TI activities.
+
+            Supervises and carries out the Army S&TI program.
+
+            Coordinates Department of the Army (DA) staff and major subordinate
+            command requirements for TECHINT.
+
+            Is responsible for the Army Foreign Materiel Program (FMP).
+
+       US Army Materiel Command (AMC). AMC is a major Army command
+       (MACOM) with a significant support role in TECHINT. Among AMC
+       elements are a series of research, development, and engineering centers
+       (RDECs), the Army Research Laboratory System, and the US Army Test
+       and Evaluation Command (TECOM). Each plays a role in wartime in
+       conducting highly technical evaluations of foreign equipment. In
+       peacetime, the AMC conducts foreign materiel exploitation (FME) on
+       equipment purchased by each laboratory and RDEC for the intelligence
+       community and for DOD as part of the International Materiel Evaluation
+       Program (IMEP).
+
+       AMC's Foreign Ordnance exploitation team is at the Fire Support
+       Armaments Center (FSAC) EOD (Picatinny Arsenal). They exploit foreign
+       ground ordnance and develop RSP for foreign ordnance. They also
+       prepare detailed intelligence reports to support EOD, Intelligence, and US
+       munitions developer communities.
+
+       Additionally, AMC operates the Scientific Intelligence Center Europe
+       (STICEUR ) and Scientific Intelligence Center Far East (STICFE) with the
+       purpose of overtly collecting information on foreign technical developments
+       by attending arms shows and technology exhibitions.
+
+       AMC's Chemical and Biological Defense Command (CBDCOM) is the
+       headquarters for the US Army Technical Escort Unit (TEU). This unit has
+       the mission to collect and escort nuclear, biological, and chemical (NBC)
+       samples from the battlefield to CONUS for testing and evaluation.
+
+       2-5
+
+
+---
+
+FM 34-54  US Army Intelligence and Security Command (INSCOM). Under the
+2-6       direction of Headquarters, Department of the Army (HQDA), INSCOM is
+          responsible for peacetime TECHINT operations. Headquarters, INSCOM,
+          fulfills its responsibilities through its TECHINT oversight function and
+          manages the Army's Foreign Materiel for Training (FMT) Program and
+          FMEP. It does this by—
+
+               Providing the interface with strategic S&TI agencies in support of
+               foreign materiel exploitation.
+
+               Organizing, training, and equipping echelons above corps (EAC)
+               TECHINT organizations during peacetime.
+
+          Headquarters, INSCOM, controls two organizations that facilitate
+          TECHINT: National Ground Intelligence Center (NGIC) and the 203d MI
+          Battalion.
+
+          National Ground Intelligence Center :
+
+          Headquarters, INSCOM, exercises direct operational control over the
+          NGIC. NGIC produces and maintains intelligence on foreign scientific
+          developments, ground force weapons systems, and associated
+          technologies. NGIC analysis includes, but is not limited to, military
+          communications-electronics (C-E) systems which include—
+
+               Types of aircraft used by foreign ground forces (usually rotary wing).
+
+               NBC systems.
+
+               Basic research in civilian technologies with possible military
+               applications.
+
+          203d Military Intelligence Battalion:
+
+          The 203d MI Battalion, headquartered at Aberdeen Proving Ground, MD, is
+          the only AC TECHINT battalion. The 203d MI Battalion is subordinate to
+          the Force Projection Brigade (FPB) supporting national level S&TI. It—
+
+               Conducts TECHINT and MASINT collection and reporting in support of
+               validated S&TI objectives and MASINT data requirements (MDRs).
+
+               Acts as the HQDA executive agent for foreign materiel used for training
+               purposes.
+
+               Conducts formalized TECHINT and MASINT training for DOD analysts
+
+
+---
+
+                                                                                                 FM 34-54
+     and RC TECHINT personnel.
+     Supports INSCOM's foreign materiel acquisition (FMA) operations and
+     FME operations as directed.
+     Supports the Technical Reconnaissance and Surveillance (TECRAS)
+     Program through its MASINT detachment. See Appendix A for MASINT
+     support to TECHINT operations.
+All TECHINT assets that reside in the RC are Wartraced to the 203d MI
+Battalion. Their primary peacetime mission focuses on training. However,
+certain RC TECHINT units and individuals are tasked to augment real
+world S&TI missions.
+
+                                                                                                          2-7
+
+
+---
+
+                                               FM 34-54
+
+                                Chapter 3
+BATTLEFIELD TECHNICAL INTELLIGENCE OPERATIONS
+
+INTRODUCTION
+
+This chapter describes battlefield TECHINT operations, functions, and
+procedures. Battlefield TECHINT operations consist of collection, hasty
+exploitation, initial TECHINT reporting, analysis, evacuation (as necessary),
+detailed exploitation and analysis, and production and dissemination of final
+TECHINT products. The term "battlefield" includes any area of operation
+that US forces occupy while conducting the full range of military operations.
+
+Battlefield TECHINT can start with one conscientious soldier identifying
+something new in the area of operations and taking the proper steps to
+report it. The information or item is initially exploited to ascertain if it
+represents an advantage for the enemy. If it does, the information or item
+then undergoes increasing levels of analysis until a countermeasure is
+developed and the technological advantage is neutralized. While a single
+weapon or technology seldom means the difference between final victory or
+defeat, it can give one side a battlefield advantage.
+
+A mutually dependent relationship exists between the support the
+warfighter gets from the TECHINT process and the support TECHINT gets
+from the warfighter. Operational and tactical commanders identify, capture,
+protect, and evacuate CEM that undergoes analysis for TECHINT value.
+TECHINT analysts receive CEM, conduct detailed exploitation, and
+recommend countermeasures to overcome an enemy's technological
+advantage.
+
+Another result of this analysis is the development of a new US technology
+or an enhancement to an existing technology. In any case the end result is
+the neutralization of the adversary’s technological advantage.
+
+Commanders further ensure the success of the process by demanding
+TECHINT support to accomplish their assigned missions.
+
+                                               3-1
+
+
+---
+
+FM 34-54
+3-2
+
+
+---
+
+                                                                                                                           FM 34-54
+
+203D MI BATTALION (TECHINT):
+
+                       The 203d MI Battalion (TECHINT) mission during conflict and war is to
+                       provide near-real-time (NRT) intelligence derived from the exploitation of
+                       weapons, equipment, and other materiel found, captured, or acquired within
+                       the theater area of operations. This includes all items of an S&T nature.
+                       This battalion is the centerpiece of the theater TECHINT mission; task-
+                       organizing personnel and equipment to support several echelons. Figure
+                       3-2 shows the 203d MI Battalion (TECHINT) organization. The HHC and
+                       the TECHINT Exploitation Company form the CMEC. This union is
+                       discussed below.
+
+                                                                                                                                    3-3
+
+
+---
+
+FM 34-54
+
+          HEADQUARTERS AND HEADQUARTERS COMPANY (HHC):
+
+                         HHC conducts normal service support operations. In addition, its  The S4
+          personnel may be tasked to perform duties as LNEs at various echelons.
+          section, besides its normal maintenance and logistics staff
+          responsibilities, also plays a significant role in the TECHINT concept of
+          operations. The S4—
+
+          Conducts warehouse operations for all CEE maintained at the CMEC.
+
+          Monitors CEE at the Corps level collection points.
+
+          Monitors captured ammunition and ordnance at Corps ammunition
+          points.
+
+          Assists in the transportation and tracking of equipment from theater to
+          CONUS.
+
+          TECHINT EXPLOITATION COMPANY:
+
+          The TECHINT Exploitation Company consists of TECHINT collection
+          managers and senior technical analysts in weapons and armaments,
+          mobility systems, EW and communications systems, and chemical,
+          medical, and logistics systems.
+
+          During joint and/or combined operations the CMEC may receive joint
+          and/or combined augmentees. In this case, the CMEC is redesignated as
+          the JCMEC or Combined Joint Captured Materiel Exploitation Center
+          (CJCMEC). In all three configurations, the CMEC is commanded by the
+          Commander, 203d MI Battalion. See Appendix B for JCMEC operations
+          and responsibilities.
+
+          TECHINT COLLECTION COMPANY:
+
+          The TECHINT Collection Company consists of three TECHINT collection
+          teams that normally are attached one per Corps MI brigade. The teams'
+          mission is to conduct the initial identification and exploitation of foreign
+          equipment in support of the Corps and, when directed, theater and national
+          requirements. Additionally, the teams help monitor evacuation of the
+          equipment off the battlefield.
+
+          The MI Team (TECHINT) (Collection) serves as the intelligence collection
+          system for the battalion. It consists of TECHINT-qualified soldiers trained in
+          the military occupational specialties (MOSs) shown in Figure 3-3. These
+          teams, trained in TECHINT analysis, deploy forward of the JCMEC
+
+          into the Corps area and receive their taskings from the CMEC through
+
+3-4
+
+
+---
+
+                                                           FM 34-54
+
+                   TECHINT LNEs at the Corps G2. CEE is stored in the theater COSCOM.
+
+NTC AND MASINT DETACHMENTS:
+
+                   The Naval Technical Center (NTC) TECHINT Detachment, currently
+
+                   C Detachment, 203d MI Battalion (TECHINT), is similar to the TECHINT
+
+                   Collection Company in its mission to conduct initial identification and
+
+                   exploitation of foreign equipment in support of Corps, theater, and national
+
+                   requirements. It is organized similar to the TECHINT collection teams
+
+                   that are subordinate to the TECHINT Collection Company. During wartime
+
+or contingency it would have the same command and control  relationships as a TECHINT
+
+collection team. It also has the additional mission of supporting INSCOM's FMT Program at the
+
+National Training  Center.
+
+                   The MASINT Detachment attaches MASINT analysts to the TECHINT
+                   collection teams and also provides senior analysts to the TECHINT
+                   Collection Company.
+
+                                                                                                 3-5
+
+
+---
+
+FM 34-54
+
+     BATTLEFIELD TECHINT CHANNELS
+
+                              The battlefield TECHINT channels are designed to support both operational
+                              and tactical levels of war. They support warfighting commanders at all
+                              levels (see Figure 2-1).
+
+                              EAC TECHINT support consists of the Joint Technical Intelligence Branch
+                              (JTIB) located at the Theater Joint Intelligence Center (JIC), the CMEC
+                              formed around the 203d MI Battalion, and TECHINT LNEs located at
+                              various EAC analysis and control elements (ACEs). These EAC TECHINT
+                              assets provide general support to the theater.
+
+                              Echelons corps and below (ECB) TECHINT support initially consists of
+                              TECHINT collection teams and TECHINT LNEs detached from the 203d MI
+                              Battalion. At a minimum, one TECHINT collection team is attached to each
+                              Corps MI Brigade. The team takes operational direction from the G2 via the
+                              TECHINT liaison officer (LNO) in providing direct support to ECB units from
+                              forward locations on the battlefield. A TECHINT LNE is attached to each
+                              Corps G2 or component equivalent. Upon mobilization, RC TECHINT units
+                              augment the 203d MI Battalion.
+
+                              Regardless of the echelon, TECHINT elements are equipped to give the
+                              supported commander timely, relevant, accurate, and predictive information
+                              and recommended countermeasures based on CEM exploitation. This
+                              exploitation includes identifying, analyzing, and coordinating the evacuation
+                              of CEE, CED, and other CEM. See
+                              Appendix C for procedures for handling and evacuating CEM.
+
+     JOINT TECHNICAL INTELLIGENCE BRANCH
+
+                              The JTIB is formed during joint operations. The JTIB is located at the
+                              Theater JIC and is composed of military and civilian TECHINT subject
+                              matter experts (SMEs). The JTIB chief is normally the DIA representative
+                              and serves as the senior advisor on TECHINT matters to the Theater
+                              Commander and the J2.
+
+                              The JTIB conducts the following missions:
+
+                                   Coordinates all national, operational, and tactical TECHINT
+                                   requirements for the theater.
+
+                                   Develops the theater TECHINT collection plan.
+
+                                   Coordinates with the J2 and the JCMEC to execute all TECHINT
+
+3-6
+
+
+---
+
+                                                                                                                           FM 34-54
+
+                            requirements.
+
+                            Provides liaison and coordination support for the JCMEC and the
+                            TECHINT collection teams at the JTF level.
+
+CAPTURED MATERIEL EXPLOITATION CENTER
+
+                       The main effort of the TECHINT mission is executed through a CMEC
+                       formed from TECHINT personnel from the 203d MI Battalion. The CMEC is
+                       the first major processor of CEM of TECHINT value. The CMEC—
+
+                            Exploits CEM based on national, Theater, and supported commanders'
+                            requirements.
+
+                            Produces TECHINT reports (including countermeasures) for tactical
+                            commanders.
+
+                            In coordination with EOD, provides render safe procedures (RSPs) for
+                            foreign munitions to combat units.
+
+                            Coordinates the safe handling and evacuation of CEM.
+
+                            Coordinates evacuation of special-interest CEM from ECB locations to
+                            the CMEC.
+
+                            Supervises evacuation of CEM from theater to CONUS.
+
+                            Coordinates with the Theater or Joint Interrogation Facility for the
+                            selection and technical interrogation of enemy prisoners of war (EPWs)
+                            assessed to have TECHINT-related knowledge. TECHINT analysts
+                            may assist interrogators and strategic debriefers during interrogation of a
+                            wide range of HUMINT sources of TECHINT interest by conducting
+                            "quarterback" debriefing operations with the debriefers.
+
+                            Provides accountability for CEE and CEDs within the theater TECHINT
+                            structure.
+
+                            Recommends CEM disposition to the Theater and Corps commands.
+
+                            Maintains the theater TECHINT database.
+
+                            Maintains the theater S&TI and battlefield TECHINT requirements.
+
+                       The CMEC normally is located in the theater rear area near main supply
+                       routes (MSRs) and air and sea ports to accommodate rapid evacuation of
+
+                                                                                                                                     3-7
+
+
+---
+
+FM 34-54
+
+          equipment. Every effort should be made to collocate the CMEC with the
+          Theater Interrogation Facility to enhance the integration of HUMINT and
+          TECHINT operations.
+
+          Additionally, being collocated provides a single geographical area where
+          subordinate units bring captured personnel and CEM, as well as
+          consolidating many transportation and security requirements. Regardless of
+          its location, it is fully equipped with sensitive and sophisticated test and
+          communication equipment. Analyst teams use this equipment to perform
+          detailed in-theater exploitations.
+
+          The CMEC can also organize a team from organic CMEC assets to meet
+          immediate requirements of echelons without TECHINT support. These
+          teams can deploy forward or support rear area units as required.
+
+     JCMEC AND CJCMEC
+
+                            The JCMEC and CJCMEC are organized and conduct the same missions
+                            as the CMEC. The JCMEC and CJCMEC differ as follows. They—
+
+                                 Allow a free flow of information, reports, and TECHINT exploitation
+                                 summaries between joint forces and/or allies; this is because the
+                                 intelligence support staff is joint and/or combined.
+
+                                 Coordinate scientific exploitation assistance from joint and/or allied
+                                 TECHINT analysts.
+
+                                 May provide direct support US and allied TECHINT teams to joint and/or
+                                 allied ECB units as required.
+
+     TECHINT LIAISON ELEMENTS
+
+                            The TECHINT LNEs are composed of TECHINT personnel from the 203d MI
+                            Battalion. The LNEs serve as advisors on all TECHINT-related matters.
+                            The TECHINT LNEs provide coordination and tasking support for the CMEC
+                            and the theater TECHINT effort. The TECHINT LNEs consist of one to three
+                            TECHINT personnel. Figure 3-4 shows the possible locations of TECHINT
+                            LNEs if deployed as part of a JTF.
+
+3-8
+
+
+---
+
+                                                                                                                           FM 34-54
+
+CORPS CMEC (FORWARD)
+
+                       An RC TECHINT section may staff a Corps level CMEC (Forward) normally
+                       located at the Corps Support Command (COSCOM) area
+                       Class VII collection point. Its primary mission is to inventory and identify
+                       CEE located at the COSCOM Class VII collection point and screen it for
+                       items of TECHINT value.
+                       After identifying an item of TECHINT value, the CMEC (Forward)
+                       coordinates with the Corps G4 through the supporting TECHINT LNE for the
+                       transportation of the item back to the CMEC. The CMEC (Forward)
+                       supports the movement of the CEE by packing or crating it when required.
+                       The RC TECHINT section conducts preliminary exploitation and reporting
+                       on the identified materiel and assists the Corps TECHINT teams as
+                       required.
+                       The RC TECHINT section normally consists of 15 personnel with organic
+                       transportation. The section's detailed analysis of CEE may be limited due to
+                       number of personnel and organic equipment.
+
+BATTLEFIELD TECHINT COLLECTION TEAMS
+
+                       The 203d MI Battalion provides direct support TECHINT collection teams to
+                       ECB MI Brigades or Marine Expeditionary Force (MEF) intelligence
+                       elements. These teams are mobile and organized according to available
+                       resources and subordinate command requirements.
+
+                                                                                                                                     3-9
+
+
+---
+
+FM 34-54  TECHINT collection teams perform their mission as a tactical extension of
+3-10      the CMEC. They concentrate on the initial identification and exploitation of
+          CEM and provide TECHINT assistance to Corps and Division G2s. Detailed
+          analysis by these teams is limited due to personnel limitations and lack of
+          extensive diagnostic equipment. The TECHINT collection team normally will
+          have 14 TECHINT analysts and 2 MASINT analysts.
+
+          TECHINT collection teams are usually staffed with analysts capable of
+          exploiting threat equipment and documents in eight functional areas:
+          C-E, automation systems, weapons, munitions, NBC, medical, mobility, and
+          signatures analysis. The areas are described below:
+
+               C-E TECHINT is the analysis and exploitation of foreign and threat
+               communications, computers, radars, intercept and jamming equipment,
+               and like systems, including electro-optic and directed-energy
+               technology.
+
+               Automation systems TECHINT is the analysis and exploitation of foreign
+               automation hardware and software.
+
+               Weapons TECHINT involves the analysis of threat weapons and
+             weapon systems, including rocket, tube artillery, mortars, small arms,
+              ATGMs, other missiles, and associated fire control.
+
+               Munitions TECHINT involves the analysis of threat munitions including
+               missiles, NBC munitions, direct and indirect fire weapons ammunition,
+               explosives, and mines.
+
+               NBC TECHINT is based on the analysis of threat offensive and
+               defensive NBC material including NBC samples, flame materials, and
+               obscurants. This analysis determines threat strengths and vulnerabilities
+               in relation to NBC operations.
+
+               Medical TECHINT focuses on the identification, evaluation, and
+               exploitation of medical materiel, general purpose systems modified for
+               medical support, and biological agents sampling.
+
+               Mobility TECHINT exploits threat vehicles, engineer equipment,
+               materiel handling equipment, and power generation. Mobility TECHINT
+               determines the capabilities and vulnerabilities of the enemy to maneuver
+               and support its combat forces on the battlefield.
+
+               Signatures analysis involves collecting and analyzing the acoustic,
+               infrared, and hyperspectral and seismic signatures of foreign equipment.
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+                                            Historical Vignette
+
+The XVIII Airborne Corps in support of a JTF is engaged in military operations in the country of
+Zula. During search operations, Company A of the 1st Battalion, 25th Infantry, discovers a
+recently vacated facility that contains chemicals.
+The commander notifies the 1st Battalion S2 and secures the facility until a permanent security
+force arrives. The Battalion S2 notifies the Brigade S2, who in turn requests that the battlefield
+TECHINT collection team investigates the facility.
+The battlefield TECHINT collection team arrives at the facility and does a cursory evaluation.
+Upon initial identification, several chemical samples are removed and transported to the Corps
+CMEC (Forward). The battlefield TECHINT collection team submits a report through channels to
+the JTF J2 stating that certain suspect chemicals have been found; they've been identified as
+nerve gas; they will be moved to the Corps CMEC (Forward), and the team will confirm its initial
+findings in a follow-up report within 4 hours.
+Upon receipt, the Corps CMEC (Forward) coordinates with the Corps G4, through the supporting
+TECHINT LNE, to transport the chemicals to the Corps CMEC.
+If identification is made at the Corps CMEC, then the Corps G2 submits a report through the
+Corps ACE to the JTF J2, for dissemination to the XVIII Airborne Corps G2, 1st Brigade S2, and
+1st Battalion S2 for further dissemination to the Commander of Company A (the unit that found
+the chemicals). The Corps G2 also provides the report to other commanders and staffs within
+the AO. If identification or further analysis is required, the Corps CMEC coordinates the safe
+handling and evacuation of chemicals to CONUS for identification and reporting.
+
+                                                                                                                                         3-11
+
+
+---
+
+           FM 34-54
+
+Chapter 4
+
+INTELLIGENCE CYCLE APPLIED TO TECHNICAL
+              INTELLIGENCE OPERATIONS
+
+          The five-step process known as the intelligence cycle is applied to
+          TECHINT operations to ensure synchronization with the overall all-source
+          intelligence mission and collection plan.
+
+PLAN AND DIRECT
+
+                       Intelligence preparation of the battlefield (IPB ) is the primary intelligence
+                       task which helps the J2/G2 focus and direct this step of TECHINT and the
+                       remaining steps of the intelligence cycle. Figure 4-1 shows an example of
+                       planning and directing.
+
+The JTIB develops the commander's TECHINT priority intelligence
+requirements (PIR), TECHINT information requirements (IR), and specific
+information requests (SIR). The JTIB helps develop TECHINT
+commander’s critical information requirements (CCIR) and SIR of a
+TECHINT nature. The JTIB ensures requirements are closely coordinated
+with combatant command J2, or theater Army G2 as well as major
+subordinate commands; for example, corps G2. The JTIB then integrates
+and deconflicts these CCIR and SIR with other items of special interest to
+the S&TI community and develops a prioritized TECHINT collection list.
+
+                                                                                                          4-1
+
+
+---
+
+FM 34-54
+
+          The TECHINT CCIR and SIR and the prioritized TECHINT collection list
+          normally are found in the TECHINT Appendix to the Intelligence Annex to
+          the operations order (OPORD) at all echelons maneuver brigade or group
+          and above.
+
+          Through all-source analysis, the JTIB and JCMEC template are where
+          items of TECHINT interest are most likely to be found on the battlefield.
+          This is referred to as "TECHINT templating." Appropriate units are notified,
+          through intelligence, that these items may be within their areas of
+          operations and are tasked for collection through collection management
+          channels. The taskings must be translated into terms that combat, support,
+          and specific collectors can understand.
+
+          The taskings should include a TECHINT target folder (TTF). Figure 4-2
+          shows an example of a TTF. At a minimum, the TTF should include a
+          description of the item, with what major combat systems the item is
+          associated, as well as handling instructions, reporting instructions, and a
+          photograph or sketch if available. The JCMEC and Corps level CMEC
+          (Forward) are responsible for producing TTFs.
+
+1. General information:
+              a. Target folder inventory/index.
+              b. Record of changes/updates.
+              c. Validation/review sheet.
+              d. Target identification data—
+                      (1) Name.
+                      (2) Description.
+                      (3) Photographs or sketches (imagery showing location on major end
+                           item if TECHINT item is subcomponent).
+                      (4) Country of origin.
+                      (5) Other equipment associated with materiel.
+                      (6) General description/significance (brief explanation of importance of
+                           materiel in terms of direct results should its use be denied partially
+                           or totally).
+                      (7) Type of unit materiel is associated with (unit designation if available).
+                      (8) Disposition instructions.
+                      (9) References.
+
+                                       Figure 4-2. TECHINT target folder.
+
+                            Additionally, the JCMEC must develop TECHINT-related indicators and
+                            SOR for other intelligence disciplines to augment and complement the
+                            single-source TECHINT effort. One example would be the development of
+                            TECHINT-related screening questions for EPWs as they are processed.
+                            Another might be to request that imagery analysts keep an
+
+4-2
+
+
+---
+
+COLLECT                                                                                                   FM 34-54
+
+         eye out for a suspected external modification on a particular model of
+         main battle tank during the normal course of their duty.
+
+         TECHINT collection is acquiring foreign materiel, associated technical
+         documents, or other information of TECHINT interest and providing these to
+         the processing and production elements. It includes the maneuver and
+         positioning of intelligence assets to locations favorable to satisfying
+         TECHINT collection objectives.
+
+         All TECHINT collection is guided by CCIR, SIR, and the TECHINT
+         collection list. Battlefield TECHINT collection includes capturing, reporting,
+         and evacuating CEM. For that reason, tactical TECHINT and intelligence
+         planners must include a CEM appendix in the Logistics Annex to the
+         OPORD. Logistics is critical in TECHINT collection operations.
+
+         Forward deployed units capture or collect items of known or possible
+         TECHINT interest. Capturing units will normally safeguard CEM and report
+         it through intelligence channels to the first TECHINT element in the
+         reporting chain, normally the TECHINT LNE at Corps G2. The Corps
+         TECHINT LNE then forwards the report simultaneously to the JCMEC and
+         JTIB and verifies if the type of materiel captured is required. Further
+         disposition is determined, appropriate coordination is made by the Corps
+         TECHINT LNE with G2/G3 staff, and the capturing unit receives guidance
+         through operational (G3/S3) channels. Figure 4-3 describes the flow of
+         CEM guidance and decisions.
+
+         A TECHINT collection team may be sent forward to confirm the
+         identification and conduct initial exploitation of the materiel at the site.
+         Often the items of TECHINT value are subcomponents of major end items.
+         In this case, the collection team removes and evacuates the items using
+         organic transportation, as shown in Figure 4-4.
+
+         The capturing unit may be ordered to evacuate the materiel with its organic
+         equipment. In this instance, they will receive detailed instructions from the
+         Corps LNE or direct support TECHINT collection team via G3/S3 channels.
+         The Corps LNE or TECHINT collection team moves to the materiel's
+         location at the Corps CEM collection point when the materiel is not taken
+         directly to a Corps CMEC (Forward) or Theater JCMEC.
+
+         TECHINT collection can prove to be a significant force protection multiplier.
+         One example is TECHINT team identification of NBC materiel prior to
+         transport, handling, or destruction of munitions or samples.
+
+         4-3
+
+
+---
+
+FM 34-54
+4-4
+
+
+---
+
+FM 34-54
+        4-5
+
+
+---
+
+FM 34-54
+
+PROCESS
+
+          Processing is the conversion of collected information into a suitable form
+          that can be readily used to produce intelligence. Processing includes data
+          from conversion, photographic development, and transcription and
+          translation of foreign language materiel. Effective processing management
+          ensures that critical information is extracted and processed ahead of
+          information of lesser immediate value. Reports are generated and sent to
+          all appropriate theater and national assets during this process.
+
+          TECHINT processing starts with the capture of a piece of equipment of
+          TECHINT value. This confirms that the enemy is indeed employing this
+          materiel. A TECHINT collection team normally conducts a hasty
+          exploitation at the capture site. After the hasty exploitation, a decision is
+          made at the JCMEC or JTIB as to whether the process continues. If it
+          does, the items are sent to the Corps CMEC (Forward) or Theater JCMEC.
+          If the item is deemed to yield no immediate tactical intelligence value, it may
+          still be evacuated to the S&TI centers in CONUS for further analysis if the
+          systems represent a change in the technological posture of an enemy.
+
+PRODUCE
+
+          Producing involves the integration, evaluation, analysis, and synthesis of
+          information from single or multiple sources into intelligence. At the tactical
+          level, time constraints and demands of the battle tend to make the
+          processing and producing steps indistinguishable.
+
+          TECHINT reports (along with interrogation reports from EPWs with
+          TECHINT knowledge) and digital imagery both funnel into the JCMEC
+          where they undergo the dynamics of production mentioned above. They
+          are then sent to the JTIB and Theater ACE as a single-source TECHINT
+          product.
+
+DISSEMINATE
+
+                       Dissemination is the timely conveyance of intelligence to users in an easily
+                       consumable form. The diversity of forms and means requires
+                       interoperability among command, control, communications, and intelligence
+                       (C3I) systems. TECHINT reporting from JCMEC to the Theater ACE will be
+                       conducted through existing communications links (See Appendix B for
+                       communications architecture).
+
+                              The JCMEC sends its completed products to the JTIB and to the Theater
+                              ACE. This report is based on the standard intelligence information report
+
+4-6
+
+
+---
+
+                                                                                                                           FM 34-54
+
+                       (IIR) format. TECHINT reports are then disseminated through two
+                       channels. The ACE fuses the TECHINT single-source product into its all-
+                       source reports and disseminates them through normal J2/G2/S2 channels.
+                       While the TECHINT single-source product is being integrated into the ACE
+                       all-source product, the JTIB disseminates the single-source TECHINT
+                       product through TECHINT communications channels to the national S&TI
+                       centers in CONUS. This ensures both the rapid dissemination of TECHINT
+                       and the fusion of TECHINT into all-source products.
+
+                       The intelligence cycle is a continuous process in which steps are executed
+                       concurrently, although not always sequentially. For example, while new
+                       information is being collected to satisfy one set of TECHINT requirements,
+                       a new TECHINT item may be reported on the battlefield. The JTIB plans
+                       and redirects efforts while the intelligence produced from the previously
+                       collected materiel or information is disseminated. One or several iterations
+                       of the intelligence cycle may be conducted depending on the time
+                       constraints of the mission.
+
+BATTLEFIELD TECHINT REPORTING SEQUENCE
+
+         THE CAPTURE:
+
+                       A soldier either captures or observes an item of possible TECHINT interest
+                       and does not tamper with it. The soldier quickly reports the encounter via
+                       the size, activity, location, unit, time, and equipment (SALUTE) spot report
+                       format through the chain of command to the Battalion S2. The soldier then
+                       either safeguards the items or continues the mission as directed (see
+                       Figure 3-1).
+
+        BATTALION S2:
+
+                       The battalion S2 coordinates security or continued observation of the item
+                       with the S3 and ensures the item is not tampered with in any way.
+
+                                                                 WARNING
+                                        Components, control knobs, and switches on
+                                       C-E equipment MUST NOT be touched until the
+                                         equipment is photographed or positions
+                                         recorded by TECHINT or other trained
+                                         personnel to avoid the possibility of immediate
+                                       personal injury or damage to equipment.
+
+                       The battalion S2 reports the items in the SALUTE format to the brigade S2,
+                       and continues security or observation of the items until receiving further
+                       instructions. When possible, the capturing units identify associated items
+                       requiring immediate screening for combat information by other supporting
+
+                                                                                                                                    4-7
+
+
+---
+
+FM 34-54
+
+                              MI elements. This could include C-E systems, code books, or technical
+                              documents such as operator manuals.
+
+               TECHINT LNE:
+
+                              The TECHINT LNE at Corps (or lowest level) receives the SALUTE report
+                              through intelligence reporting channels. He then compares report
+                              information with outstanding requirements to see if collection is necessary.
+                              Depending on the priority of the requirement and tactical situation, the
+                              Corps LNE may—
+
+                                   Coordinate with the G3 and MI Brigade Commander to dispatch the
+                                   Corps direct support TECHINT collection team to the capture site.
+
+                                   Give further instructions for exploitation and/or evacuation procedures
+                                   to the capturing unit S2.
+
+                              If an intelligence requirement no longer exists for the captured equipment,
+                              the LNE informs the capturing S2 who disposes of the materiel within
+                              normal logistics channels.
+
+                              In any case, the Corps TECHINT LNE forwards an information copy of the
+                              SALUTE report with details of initial actions taken to the JTIB, JCMEC, and
+                              other TECHINT LNEs.
+
+     BATTLEFIELD TECHINT ANALYSIS
+
+                              Once a TECHINT unit takes custody of a TECHINT item, battlefield
+                              TECHINT exploitation begins. TECHINT analysts and specialists use
+                              checklists established by S&TI agencies and the JCMEC to exploit each
+                              type of threat equipment for which requirements exist. S&TI and the
+                              JCMEC develop battlefield exploitation procedures from four sources:
+
+                                   The US Army Test and Evaluation Command's international test
+                                   operation procedures.
+
+                                   Coordination with S&TI analysts.
+
+                                   Theater and Corps TECHINT requirements.
+
+                                   Their own experience.
+
+                              Exploitation procedures are standardized yet constantly updated and
+                              included in different exploitation plans based on the type of equipment or
+                              documents being exploited. These plans steer the analysis process.
+
+4-8
+
+
+---
+
+                                                                                                 FM 34-54
+As the materiel moves through the TECHINT chain, each succeeding level
+of the exploitation process is completed. TECHINT units maintain
+procedures and plans for sampling, exploiting, and handling materiel in the
+following categories:
+
+     Missile guidance systems, warheads, fuses, and propellants.
+     Munitions, mines, explosives, and their effects.
+     Direct and indirect fire systems of all types and their effects.
+     Tracked and wheeled vehicles and transports.
+     Various types of armor, radios, and radar.
+     EW, intercept, and jamming equipment.
+     Communications, antenna, relay, and telephone equipment.
+     Teletypes.
+     Directed energy weapons.
+     Automated data processing (ADP) hardware and software.
+     NBC offensive and defensive equipment.
+     Tactical aviation.
+     Medical equipment capabilities and vulnerabilities.
+Although exploitation plans are extremely useful, it is the analyst who
+determines the actual steps to use in each procedure. Analysis always
+begins with what is, and what is not, known about the piece of equipment.
+
+                                                                                                          4-9
+
+
+---
+
+                                FM 34-54
+
+                     Chapter 5
+              RESPONSIBILITIES
+
+INTRODUCTION
+
+                       This chapter outlines the various responsibilities of each staff element in
+                       units on the battlefield when supporting the overall battlefield TECHINT
+                       effort. Battlefield TECHINT elements are resourced and responsible for
+                       collecting and processing CEM. Yet to work properly, the battlefield
+                       TECHINT structure relies on many other units for mission support, such as
+                       combat units which capture items, and the transportation units which
+                       evacuate items of TECHINT interest. Figure 5-1 shows staff
+                       responsibilities.
+
+STAFF SECTIONS
+
+                       The duties of coordination staff sections and how they relate to TECHINT
+                       direction, collection, processing, production, and dissemination are
+                       discussed below. From the J1/G1 to the J5/G5, every staff section
+                       contributes in some way to the successful production and use of TECHINT.
+
+ASSISTANT CHIEF OF STAFF, J1/G1, PERSONNEL
+
+                       The J1/G1 is the principal staff element for the commander on all matters
+                       concerning human resources. The J1/G1's involvement in the battlefield
+                       TECHINT effort is a result of their primary staff responsibilities for—
+
+                            Planning and handling EPW evacuation and processing. The prisoner
+                            evacuation channel is one of the richest sources of CEM. All J1/G1
+                            annexes to OPORDs and operations plans (OPLANs) need to state that
+                            all CEE will be inspected by TECHINT personnel, and/or be transported
+                            to the Corps Captured Equipment Point by the transportation unit within
+                            the Corps.
+
+                            Directing the command surgeon in captured medical supply disposition
+                            and medical intelligence responsibilities.
+
+                            Coordinating with the J3/G3 to identify and assign special duty
+                            personnel such as JCMEC translators and SMEs.
+
+                                5-1
+
+
+---
+
+FM 34-54
+
+     ASSISTANT CHIEF OF STAFF, J2/G2, INTELLIGENCE
+
+                              The J2/G2 is the principal staff section for the commander on all
+                              intelligence matters and, as such, has primary responsibility for the
+                              command's battlefield TECHINT effort. The J2/G2's primary battlefield
+                              TECHINT responsibilities include, but are not limited to—
+
+                                   Providing staff supervision over captured and detained persons with
+                                   S&T expertise and exploiting CEM.
+                                   Supervising battlefield TECHINT planning, directing, processing,
+                                   producing, and disseminating.
+                                   Exercising staff supervision over the JCMEC or attached battlefield
+                                   TECHINT team operations.
+                                   Coordinating battlefield TECHINT collection tasking, with the J3/G3, MI,
+                                   EOD, NBC, and other combat and combat support units.
+                                   Coordinating with the JCMEC to provide instructions to units capturing
+                                   enemy materiel, captured medical materiel exploitation, evacuation, and
+                                   disposition with the command surgeon.
+                                   Coordinating CEM evacuation with the J4/G4. This includes
+                                   coordinating transportation priorities, disposition, and opportunities to
+                                   screen CEM in logistic channels.
+
+5-2
+
+
+---
+
+                                                                                                                         FM 34-54
+
+                            Coordinating with the J5/G5 the TECHINT screening of materiel
+                            obtained from local nationals, displaced persons, and civilian detainees.
+
+                            Coordinating with the staff judge advocate (SJA) to ensure compliance
+                            with the Geneva Conventions regarding exploitation of captured
+                            personnel and materiel. Ensure that the SJA includes instructions on
+                            CEM in the legal annex to OPORDs and OPLANs regarding war
+                            trophies and souvenirs.
+
+                            Coordinating with the military historical officer to ensure all items of
+                            possible historical value are initially screened for TECHINT value.
+
+ASSISTANT CHIEF OF STAFF, J3/G3, OPERATIONS
+
+                       The J3/G3 is the principal staff section for the commander in matters
+                       concerning operations, plans, organization, and training. The J3/G3's
+                       involvement in the battlefield TECHINT effort is a result of their primary
+                       staff responsibilities. As they relate to battlefield TECHINT, these
+                       responsibilities include—
+
+                            Coordinating terrain management and clearance or movement issues
+                            for TECHINT teams to move about the battlefield as missions dictate.
+
+                            Exercising primary staff responsibility over the supporting aviation,
+                            chemical, engineer, fire support coordination officers, and the provost
+                            marshal (PM).
+
+                            Preparing, coordinating, and publishing the command standing
+                            operating procedures (SOPs), OPLANs, and OPORDs. This includes
+                            instructions for handling CEM, such as collection, reporting,
+                            exploitation, evacuation, and disposition.
+
+                            Reviewing subordinate command SOPs, OPLANs, and OPORDs to
+                            ensure provisions for battlefield TECHINT are included.
+
+                            Incorporating TECHINT into current and future operations and plans.
+
+                            Assigning, attaching, and detaching battlefield TECHINT assets to
+                            subordinate and adjacent commands.
+
+                            Advising the commander on friendly use of CEM. This includes to
+                            whom the materiel should be allocated, such as irregular or other local
+                            national forces.
+
+                            Training US troops in the safe disposition and use of CEM.
+
+                                                                                                                                    5-3
+
+
+---
+
+FM 34-54
+
+     ASSISTANT CHIEF OF STAFF, J4/G4, LOGISTICS
+
+                              The J4/G4 is the principal staff section for the commander in matters
+                              concerning supply, maintenance, transportation, and services. As the
+                              logistical planner, the J4/G4 conducts vital coordination for the TECHINT
+                              system. This includes—
+
+                                   Exercising primary staff responsibility over the EOD officer and the
+                                   transportation officer.
+
+                                   Coordinating with the Support Command Commander, who is
+                                   responsible for logistical support operations; and the J3/G3 for support
+                                   of battlefield TECHINT collection operations.
+
+                                   Coordinating and developing command policy for the evacuation and
+                                   disposition of CEM. Give particular attention to "back-haul"
+                                   transportation plans for CEM.
+
+                                   Ensuring that the Service Support Annex to the OPORD has an
+                                   appendix that addresses CEM.
+
+                                   Recommending to the J3/G3 the MSR and the main evacuation route of
+                                   EPWs and CEM.
+
+                                   Supervising the establishment and the operation of CEM collection
+                                   points in the unit support area, normally near the Class VII collection
+                                   point.
+
+                                   Coordinating the setup and support of the JCMEC and CMEC
+                                   (Forward) at the Corps collection points.
+
+                                   Ensuring inventory and storage location records are properly
+                                   maintained and are reported through materiel management centers
+                                   (MMC) and TECHINT or JCMEC channels.
+
+                                   Recommending policies and procedures for the use of captured
+                                   nonintelligence-value equipment and providing technical staff
+                                   assistance to the command's MI unit.
+
+     ASSISTANT CHIEF OF STAFF, J5/G5, CIVIL AFFAIRS
+
+                              The J5/G5 is the commander's principal staff officer in all matters
+
+5-4
+
+
+---
+
+                                                                                                                         FM 34-54
+
+                       concerning civilians and their impact on military operations. This includes
+                       the political, economic, and social effects of military operations on civilian
+                       personnel. The J5/G5's involvement in the battlefield TECHINT effort is a
+                       result of their primary coordinating staff responsibilities for civilian liaison
+                       and Civil Affairs (CA). These responsibilities include—
+
+                            Supervising CA functions of the command regarding care and handling
+                            of displaced persons, refugees, and any incidental foreign S&T materiel
+                            CA personnel may secure.
+
+                            Ensuring inclusion of TECHINT collection and notification procedures in
+                            all CA SOPs, OPLANs, and OPORDs.
+
+                            Coordinating with the command's battlefield TECHINT unit for the
+                            screening, exploitation, and evacuation of any CA-secured CEM.
+
+                            Coordinating with the J2/G2 and J4/G4 for the return of CEM to the
+                            civilian populace.
+
+SPECIAL STAFF OFFICERS
+
+                       Because TECHINT covers such a broad spectrum of disciplines, activities,
+                       and operations performed on the battlefield, the following special staff
+                       officers also play an important role in battlefield TECHINT.
+
+        AVIATION OFFICER:
+
+                            Coordinates with staff movement and transportation personnel for air
+                            evacuations of CEM and chemical and biological (CB) samples.
+
+        CHEMICAL OFFICER:
+
+                            Advises the commander on NBC intelligence matters.
+
+                            Recommends employment of chemical troops in support of battlefield
+                            TECHINT teams, analysis, and collection operations.
+
+                            Plays a key role in the success of the CB sampling mission; ensures
+                            that the mission is explained in the chemical Annex of the OPORD.
+
+        ENGINEER OFFICER:
+
+                            Plans and constructs engineering requirements.
+
+                            Incorporates battlefield TECHINT analyses and studies regarding
+
+                                                                                                                                    5-5
+
+
+---
+
+FM 34-54
+
+                                   mobility and survivability characteristics of enemy weapon systems into
+                                   these OPLANs and OPORDs.
+
+                                   Provides construction support to JCMEC activities.
+
+               EXPLOSIVE ORDNANCE DISPOSAL OFFICER:
+
+                                   Establishes, operates, and supervises EOD-related TECHINT reporting
+                                   procedures; includes these reporting procedures in the EOD portion of
+                                   the OPLAN.
+
+                                   Coordinates with EOD TECHINT personnel at the JTIB, JCMEC, and
+                                   TECHINT collection teams for dissemination of EOD TECHINT
+                                   information.
+
+               PROVOST MARSHAL:
+
+                                   Provides security for designated units, facilities, and convoys, including
+                                   CEM, along the evacuation route and for TECHINT facilities when
+                                   tasked by the J3/G3.
+
+                                   Coordinates with customs for the TECHINT screening of all CEM found
+                                   at US redeployment or staging sites.
+
+                                   Establishes procedures to ensure military police confiscate, tag, report,
+                                   and turn over to TECHINT personnel new or unidentified CEM
+                                   discovered incidental to EPW handling operations.
+
+               THEATER AND SUPPORTING COMMAND SURGEON:
+
+                                   Uses TECHINT when advising the commander on medical effects of
+                                   NBC weapons on personnel.
+
+                                   Coordinates with the theater chemical officer to implement CB sampling
+                                   procedures.
+
+                                   Includes CB sampling procedures in the medical portion of the OPLAN.
+
+                                   Coordinates TECHINT support to examine and process captured
+                                   medical supplies and equipment; this includes planning and
+                                   coordinating medical laboratories and personnel to assist in sample
+                                   analyses.
+
+                                   Recommends medically related TECHINT PIR and IR to the J2/G2.
+
+                                   Coordinates the analysis of biological warfare agent specimens
+                                   collected on the battlefield at the theater medical laboratory.
+
+5-6
+
+
+---
+
+                                                                                                                         FM 34-54
+
+                            Coordinates with the J2/G2 and J3/G3 and provides countermeasures,
+                            quarantine recommendations, and other appropriate actions to
+                            safeguard friendly forces.
+
+        AMMUNITION OFFICER:
+
+                            Establishes policies for the safe storage and accountability of foreign
+                            munitions; also is responsible for the safety certification of foreign
+                            munitions designated for reissue to friendly troops.
+
+        STAFF JUDGE ADVOCATE:
+
+                            Coordinates the Theater war souvenir policy with the JCMEC
+                            Commander, JTIB, and the J2. This policy is determined by the
+                            deploying commander, based upon recommendations from JAG, G4,
+                            and TECHINT procedures.
+
+                            Advises on legal matters concerning the movement of CEM out of the
+                            Theater.
+
+UNITS AND ORGANIZATIONS
+
+                       This section describes the responsibilities and duties of specific
+                       organizations and units on the battlefield that support TECHINT operations.
+
+        JOINT CAPTURED MATERIEL EXPLOITATION CENTER:
+
+                       The JCMEC's primary function is processing CEM into combat information
+                       and TECHINT. The JCMEC is organized around the 203d MI Battalion.
+                       When it is further augmented by experts from other nations, it becomes a
+                       CJCMEC. Regardless of the command or echelon it supports, it has the
+                       same capabilities. The JCMEC—
+
+                            Exploits CEE, CED, and CEM.
+
+                            Produces TECHINT reports, that include countermeasures, for tactical
+                            commanders.
+
+                            Provides studies, OPLANs, OPORDs, maps, and special reports to
+                            disseminate the JCMEC findings.
+
+                            Provides RSPs to combat units for found enemy weapons and enemy
+                            munitions, with coordination through joint EOD.
+
+                            Coordinates the safe handling and evacuation of CEM with EOD
+                            elements.
+
+                                                                                                                                    5-7
+
+
+---
+
+FM 34-54
+
+                                   Coordinates evacuation of special-interest CEM from ECB locations to
+                                   JCMEC.
+
+                                   Supervises evacuation of CEM from theater to CONUS.
+
+                                   Coordinates with the joint interrogation facility the selection of EPWs for
+                                   TECHINT exploitation. Supplies interrogators with TECHINT
+                                   requirements for EPW interrogation.
+
+                                   Provides accountability for CEM within the theater TECHINT structure.
+
+                                   Recommends CEM disposition to the Theater and Corps commands.
+
+                                   Maintains the theater TECHINT database.
+
+                                   Maintains S&TI and battlefield PIR, IR, and list of special interest items.
+
+               CAPTURING UNITS:
+
+                              Combat units are usually the first to encounter new or modified threat
+                              materiel. However, other units such as engineers, military police, NBC
+                              teams, and logistic units may also encounter or capture such materiel. This
+                              materiel often comes with operating instructions and other technical
+                              documents. The intelligence officer at each echelon coordinates with
+                              J2/G2/S2 regarding TECHINT and captured or encountered threat materiel
+                              and documents. Together, they establish unit security, RSPs, reporting,
+                              and dissemination procedures for CEM.
+
+                              Capturing units must strive not to destroy TECHINT materiel known or
+                              believed to answer PIR, IR, special interest lists, or unidentified or new
+                              items before receiving disposition instructions. CEM and logistics
+                              complexes must be safeguarded and reported through intelligence
+                              channels. Captured items known or believed to answer TECHINT
+                              requirements are reported via SALUTE format to higher command normally
+                              to the Corps TECHINT LNE.
+
+               MILITARY INTELLIGENCE UNITS:
+
+                              The attachments of TECHINT teams less operational control (OPCON) to
+                              MI units (for example, one TECHINT team per corps MI brigade) enhances
+                              TECHINT operations, as well as improves coordination and synergy among
+                              all MI disciplines. MI units are normally best able to provide administrative
+                              and logistical support to forward deployed TECHINT teams due to like
+                              missions and collocation.
+
+                              All MI units are responsible for establishing SOPs and having procedures
+                              for handling, screening, and reporting TECHINT-related items or
+
+5-8
+
+
+---
+
+                                                                                                                FM 34-54
+
+               information encountered incidental to normal organizational activities.
+               The following items relate to enemy C-E systems:
+
+                    Code books.
+
+                    Frequency tables.
+
+                    C-E operations instructions.
+
+                    C-E standing instructions.
+
+                    Cryptographic data.
+
+                    Cryptographic items.
+
+                    Encrypted items.
+
+                    C-E hardware or software.
+
+                    Examples of materiel, including CEE and CED, requiring immediate MI
+                    screening.
+
+SPECIAL OPERATIONS FORCES:
+
+               Special Operations Forces consist of special forces and ranger units,
+               special operations aviation units, psychological operations (PSYOP) teams,
+               and CA elements.
+
+               Special Forces and Ranger Units. These forces usually operate deep in
+               enemy-controlled areas. This means they are generally the first to
+               discover, identify, and provide information on a variety of TECHINT-related
+               CEE, CEDs, or facilities. They can provide—
+
+                    New or previously unacquired materiel.
+
+                    Locations of enemy materiel.
+
+                    Other technical data.
+
+                    Capture of enemy S&T personnel.
+
+               Special Operations Aviation Units. Special operations aviation units
+               provide aviation support to units conducting special operations missions
+               usually deep within enemy-controlled areas. These units can provide
+               technical data on enemy radars, as well as on observed enemy equipment.
+               Incidental to assigned air missions, special operations aviation units can
+               often "back-haul" limited amounts of priority CEM to rear areas.
+
+                                                                                                                           5-9
+
+
+---
+
+FM 34-54
+
+                              Psychological Operations Teams. PSYOP personnel support theater,
+                              corps, and division. Historically, PSYOP has supported TECHINT
+                              collection through creative PSYOP designed to secure TECHINT-related
+                              CEM, information, and/or personnel.
+
+                              An example of a PSYOP success comes from the Korean War. A North
+                              Korean pilot was paid a $100,000 bounty for flying his Soviet MiG-15 to the
+                              south, after the bounty was offered by leaflet and radio. The benefits were
+                              enormous. The Communists grounded all MiG flights for eight days; and
+                              getting the MiG turned out to be a TECHINT windfall.
+
+                              PSYOP specifically designed to provide TECHINT occurred during the
+                              Vietnam War. A PSYOP campaign encouraged enemy soldiers to
+                              surrender with their weapons and equipment intact; rewards were offered
+                              and paid to Viet Cong and NVA troops who did this. This type of campaign
+                              not only reduced the number of weapons available to the enemy but also
+                              provided a continuous source of materiel for the CMEC to exploit.
+
+                              Civil Affairs Elements. These elements provide support to tactical and
+                              operational commanders by coordinating between military forces, civil
+                              authorities, and area of operations personnel. CA support to the battlefield
+                              TECHINT process includes—
+
+                                   Providing SMEs to assist in the TECHINT analysis of food and
+                                   agriculture; public communications, health, transportation, and supply;
+                                   public works and utilities; and centers of commerce and industry.
+
+                                   Securing TECHINT-related materiel and foreign experts having CA
+                                   wartime responsibility for civil administration and refugee handling.
+
+               ENGINEER TOPOGRAPHIC AND TERRAIN UNITS:
+
+                              These units are responsible for collecting, evaluating, and disseminating
+                              topographic information and terrain intelligence. They normally function at
+                              theater, corps, and division levels. TECHINT units use engineer
+                              topographic and terrain products to support TECHINT collection planning.
+                              Engineers also support analysis and exploitation of CEM and facilities
+                              when this materiel is within their field of expertise.
+
+               MILITARY POLICE:
+
+                              The military police fulfill a wide range of duties on the battlefield, to include
+                              providing route security for evacuating CEM and handling EPWs. In
+                              performance of these duties they often confiscate CEM from EPWs.
+                              Military police follow specific procedures for notifying MI personnel of
+                              equipment or documents of intelligence interest discovered incidental to
+                              EPW handling operations.
+
+5-10
+
+
+---
+
+                                                                                                                FM 34-54
+
+               If not done previously, military police mark or tag all CEM and personnel in
+               their custody. Since EPWs and materiel may become separated, military
+               police use a three-part capture tag to clearly identify which prisoner the
+               CEM came from. Accurate identification of the capture tag helps TECHINT
+               analysts and interrogators match materiel with associated EPWs. It also
+               makes it easier to return certain property to the EPW. (See Appendix C for
+               an example of an EPW capture tag.)
+
+NBC RECONNAISSANCE TEAMS:
+
+               NBC reconnaissance teams locate, identify, and mark contaminated areas.
+               They collect, identify, and evacuate suspected samples of nuclear
+               materials and CB warfare agents. This function is an important
+               supplement to normal TECHINT collection capabilities. Collecting,
+               handling, storing, and shipping these samples must be done using SOPs
+               developed in a coordinated effort between the command surgeon, the staff
+               NBC officer, and the staff S2. All parties involved must ensure they
+               maintain a legal chain of custody of NBC samples for later possible war
+               crimes processing.
+
+MEDICAL UNITS:
+
+               Combat zone and communications zone medical support units are capable
+               of giving specialized medical, laboratory, and medical intelligence
+               assistance to TECHINT and other MI disciplines. The medical unit's S2
+               coordinates this assistance to MI units.
+
+EXPLOSIVE ORDNANCE DISPOSAL:
+
+               One of the most critical and early sources of TECHINT on the battlefield is
+               explosive ordnance. To safely exploit this source, EOD units provide
+               specially trained personnel to support TECHINT collection teams and units
+               in the area of operations. EOD personnel examine existing
+               databases and prepare reports on new and unusual items of explosive
+               ordnance for TECHINT purposes.
+
+               TECHINT personnel should be familiar with EOD activities, capabilities,
+               and responsibilities, as described in AR 75-15. Foreign explosive
+               ordnance is extremely important to TECHINT analysts. TECHINT
+               personnel coordinate closely with EOD personnel for proper disposal and
+               evacuation of explosive ordnance, particularly when conducting initial
+               inspections during hasty exploitations of CEM on the battlefield.
+
+                                                                                                                         5-11
+
+
+---
+
+FM 34-54
+
+                                                      DANGER
+                          Exercise extreme care and awareness when
+                          encountering possible booby-trapped CEM.
+                          Materiel may be booby trapped and cause
+                          immediate death or permanent injury.
+
+          Only EOD personnel actually handle explosive ordnance. Conversely,
+          EOD units must notify TECHINT personnel of the types and locations of
+          foreign equipment and munitions they encounter.
+
+5-12
+
+
+---
+
+                                                 FM 34-54
+
+                                     Appendix A
+         MEASUREMENT AND SIGNATURE INTELLIGENCE
+INTRODUCTION
+
+                       This appendix describes the MASINT mission, organization,
+                       responsibilities, and their relevance to TECHINT. Specific definitions are in
+                       the glossary. This appendix delineates MASINT’s dual mission of
+                       supporting the S&TI community as well as providing unique time-critical
+                       information to the supported tactical commander that contributes to
+                       battlespace dominance.
+
+MISSION
+
+        PEACETIME:
+
+                       The mission of MASINT operations in peacetime includes fulfillment of
+                       intelligence collection and transition to war requirements. Army MASINT
+                       efforts are focused at EAC MI force at the force projection brigades.
+                       Technical reconnaissance and surveillance (TECRAS) systems fielded at
+                       EAC demonstrate the feasibility of MASINT support at that level.
+
+                       Successful demonstration is expected to lead to the development of tactical
+                       intelligence and related activities (TIARA) systems and their progressive
+                       fielding at appropriate EAC and ECB units. EAC conducts operations to
+                       fulfill collection requirements levied by the Army component command,
+                       theater, DOD, or national levels. The force projection brigade’s mission
+                       includes the collection of S&TI to support baseline signature requirements
+                       for reprogrammable munitions in support of Army, DOD, and national
+                       requirements.
+
+        WARTIME:
+
+                       In addition to its contributions to S&TI, MASINT also serves the warfighting
+                       commander. MASINT collection of threat battlefield equipment signatures
+                       aids in the prevention of technological surprise and is critical to US ability to
+                       produce effective countermeasures. Continued signature collection by
+                       MASINT sensors permits reprogramming of precision-guided, smart, or
+                       brilliant munitions. Specific MASINT missions are to—
+
+                            Detect, identify, and locate targets with sufficient timeliness and
+                            accuracy for operational planning, targeting, and combat action.
+
+                                                                                                                                   A-1
+
+
+---
+
+FM 34-54
+
+          Support IPB.
+
+          Support force protection via identification, friend or foe (IFF) systems.
+
+          Support terrain visualization and geographic intelligence.
+
+          Provide intelligence on threat signatures and equipment and
+          technological advances not discernible by other intelligence collection
+          means.
+
+          Support indications and warnings (I&W) intelligence in peacetime and
+          provide an indication of threat escalation from conventional to nuclear
+          war.
+
+          Provide intelligence to support the commanders' demands for situation
+          development, target development, battle damage assessment (BDA),
+          and intelligence operations in close, deep, and rear operations.
+
+          Provide information to detect or confirm enemy deception operations.
+
+          Provide information of threat strategic facilities, such as power plants,
+          design bureaus, production facilities, proving grounds, and test areas.
+
+          Provide commanders with information of friendly signature profiles.
+          This information will be used for IFF to minimize fratricide and to alter
+          signatures for operations security (OPSEC) or friendly deception
+          operations.
+
+ORGANIZATION
+
+                       The Army’s MASINT organization is shown at Figure 2-1.
+
+RESPONSIBILITIES
+
+                       Figure A-1 shows the responsible agencies, along with their MASINT
+                       functions.
+
+                          AGENCY  RESPONSIBILITY
+A-2
+
+
+---
+
+                                                              FM 34-54
+
+DIA, Central MASINT Office  Executive agent for MASINT.
+HQDA, DCSINT
+AMC, DCSINT                 Functional manager of TECRAS Program.
+INSCOM, DCSOPS
+                            Materiel developer.
+NGIC, Signatures Division
+Force Projection Brigades   Manages and oversees operational MASINT
+                            EAC collection operations.
+
+                            Develops operational requirements
+                            documents and mission needs statements.
+
+                            Primary consumer of TECRAS data.
+
+                            Ensure national MASINT sensors are tasked
+                            to support commander's PIR. Serve as focal
+                            point for collection management and
+                            dissemination for MASINT.
+
+                            Collect baseline signatures in support of the
+                            TECRAS Program.
+
+                            Augment the Theater IPC upon request.
+
+                            Act as the conduit for fielding selected RDTE
+                            MASINT systems.
+
+Figure A-1. HQDA agencies and their MASINT responsibilities.
+
+DEFINITIONS
+
+               The definitions for MASINT and electro-optical intelligence (ELECTRO-
+               OPTINT), as defined in JCS Publication 1-02, are shown in the terms and
+               definitions section of the glossary.
+
+ELECTRO-OPTINT:
+
+               ELECTRO-OPTINT may provide detailed information on the radiant
+               intensities, dynamic motion, spectral and spatial characteristics, and the
+               materials composition of the targeted objective. Electro-optical data
+               collected has broad applications to a variety of tasks. Data may be
+               collected by a variety of optically sensitive devices, such as radiometers,
+               spectrometers, non-literal imaging systems, lasers or laser radar—laser
+               detection and ranging (LIDAR).
+
+                                                                                                                          A-3
+
+
+---
+
+FM 34-54
+
+               RADAR INTELLIGENCE (RADINT):
+
+                              RADINT is the collection, processing, analysis, and exploitation of radar
+                              energy reflected (re-radiated) from a target or objective. Instruments for
+                              active target illuminations may include monostatic or bistatic, line-of-sight
+                              (LOS) phased array, synthetic aperture radar (SAR), and over-the-horizon
+                              systems. RADINT collection provides information on radar cross-sections,
+                              tracking, precise spatial measurements of components, motion, and radar
+                              reflectance and absorption characteristics for dynamic targets and
+                              objectives.
+
+               RADIO FREQUENCY INTELLIGENCE:
+
+                              This includes radio frequency/electromagnetic pulse intelligence
+                              (RF/EMPINT) and unintentional radiation intelligence (RINT).
+
+                                   RF/EMPINT is the collection, processing, analysis, and exploitation of
+                                   radio frequency electromagnetic pulse emissions associated with
+                                   nuclear testing or other high energy events for the purpose of
+                                   determining power levels, operating characteristics, and signatures of
+                                   advanced technologic weapons, power, or propulsion systems.
+
+                                   RINT is the integration and specialized application of multiple MASINT
+                                   collection, processing, analysis, and exploitation techniques against
+                                   unintentional radiation sources that are incidental to the design and
+                                   operating characteristics of military and civil propulsion units, power
+                                   sources, weapons systems, electronic systems, machinery, equipment,
+                                   or instruments. These techniques may be valuable in detecting,
+                                   tracking, and monitoring a variety of activities of interest.
+
+               GEOPHYSICAL INTELLIGENCE:
+
+                              This is the collection, processing, exploitation, and analysis of emitted or
+                              reflected sounds, pressure waves, or vibration in the atmosphere
+                              (acoustic), in the water (acoustical intelligence), or in the earth’s surface
+                              (seismic). Acoustic and seismic sensors may be valuable in target
+                              detection and classification, measuring aircraft and ship performance
+                              characteristics, detecting weapons testing and large military movements.
+
+               MATERIALS INTELLIGENCE:
+
+                              This is the physical collection, processing, analysis, and exploitation of
+                              atmospheric trace elements; gaseous, liquid, or solid particulate; effluents;
+                              or debris. Materials intelligence has specific applications to NBC warfare,
+                              military and civil production, and economic and environmental problems.
+
+               NUCLEAR INTELLIGENCE (NUCINT):
+
+A-4
+
+
+---
+
+                                                                                                                           FM 34-54
+
+                       NUCINT is intelligence information derived from the collection and analysis
+                       of radiation and other effects resulting from radioactive sources, such as
+                       nuclear weapons, processes, materials, devices, or facilities. Nuclear
+                       monitoring includes nuclear radiation detection, identification, and
+                       characterization of sources and events. Data exploitation results in nuclear
+                       signature of weapons or materials.
+
+        TECHNICAL RECONNAISSANCE AND SURVEILLANCE:
+
+                       TECRAS is DA's special program using a low density of instrumented
+                       collection sensors which provide a quick-reaction capability for collection.
+
+        ARMY REPROGRAMMING ANALYSIS TEAM (ARAT):
+
+                       The ARAT is involved in altered signatures identification and associated
+                       weapon systems impact. The US Army target sensing systems (TSSs)
+                       incorporate software algorithms used to make threat identification based on
+                       embedded preprogrammed threat parameter data.
+
+                       As the threat capabilities change, or as new threats become operational,
+                       there is a risk that these systems will not correctly identify the threats. To
+                       the extent the threat is misidentified, incorrect countermeasures may be
+                       implemented putting friendly forces at risk.
+
+                       Reprogramming the weapon systems provides the commander an
+                       essential element in battle space dominance by allowing him to defeat
+                       enemy countermeasures. The production centers and the intermediate
+                       processing centers (IPCs) validate suspected change signatures or
+                       countermeasures. The ARAT receives data upon which the threat change
+                       is identified and system assessments made. The ARAT determines impact
+                       of validated threat changes on assigned Army equipment and weapon
+                       systems and develops a suitable and achievable counter to the changes.
+                       The mission requirements center (MRC) within the systems manager’s
+                       organization determines requirements for Army systems. The software
+                       support center (SSC) is responsible for developing the change program
+                       and validating the change.
+
+CONCLUSIONS
+
+                       MASINT’s chief contribution to the Army to date has been support to force
+                       modernization, a role which is likely to continue. However, it is also an
+                       evolving discipline which holds significant potential for warfighting
+                       intelligence as adversaries develop means to deceive or evade imagery
+
+                                                                                                                                   A-5
+
+
+---
+
+FM 34-54
+
+          and signals sensors.
+
+          Much can be gained by integrating MASINT and TECHINT. The disciplines
+          are not competing but complementary. Many MASINT technologies and
+          subdisciplines lend themselves towards bringing traditional TECHINT into
+          the information age. Sensors are used to derive
+          information in NRT, so that it can be fed to the supported commander in
+          time to effect the decision cycle.
+
+A-6
+
+
+---
+
+                  FM 34-54
+
+Appendix B
+
+JCMEC OPERATIONS
+
+This appendix provides an overview of JCMEC operations and
+responsibilities; it is used as an example for an annex to a combatant
+command's TTP document. Each reference to the "supported Theater
+Commander" may be replaced by the appropriate unified or joint combatant
+command acronym (for example, ACOM, PACOM, CENTCOM).
+
+INTRODUCTION
+
+                       The JCMEC (in part or whole) normally will be established for any operation
+                       where significant amounts or types of CEM will be available and/or require
+                       field exploitation. The supported Theater commander has the mission of
+                       establishing and operating a JCMEC through the 203d MI Battalion
+                       (TECHINT), FPB, and provides for the day-to-day operation of the JCMEC
+                       to include administration, logistics, systems, communications, and
+                       maintenance.
+
+                       The supported Theater commander also has staff responsibility for—
+
+                            Ensuring security of the materiel.
+
+                            Arranging for the evacuation and movement of CEM.
+
+                            Providing legal guidance concerning disposition of certain CEM,
+                            structures, and facilities.
+
+                            Coordinating for EOD.
+
+                            Coordinating the issue of CEM to US forces.
+
+                       The Theater J2 exercises operational control of the JCMEC through the
+                       JTIB located at the JIC. The JTIB consists of the senior TECHINT
+                       representatives from DIA's Technical Directorate and Service TECHINT
+                       organizations (National Ground, Air, and Maritime Intelligence Centers as
+                       needed). The JTIB will be augmented with an LNE from the 203d MI
+                       Battalion (TECHINT).
+
+                       The purpose of a JCMEC is to provide a central in-theater location for the
+                       collection, safeguarding, identification, battlefield exploitation and
+
+                       reporting, and destruction and/or evacuation of specified captured foreign
+                       and US manufactured materiel. The JTIB—
+
+                                                                                                                                   B-1
+
+
+---
+
+FM 34-54
+
+          Provides TECHINT advice and assistance to the Theater J2.
+          Acts as the TECHINT collection manager for the Theater J2.
+
+CONCEPT
+
+          The JCMEC will be sited by the supported Theater commander. The site
+          should facilitate evacuating, storing, and shipping CEM. The JCMEC also
+          will—
+
+               Locate to facilitate security.
+
+               Ensure safety for nearby forces and the local populace.
+
+               Provide easy access to communications, transportation, and other
+               support facilities.
+
+               Locate near the Theater ordnance storage site.
+
+          JCMEC facilities have common site selection criteria and complementary
+          functions which provide efficient allocation of assets for evacuation,
+          movement, safeguarding, and exploitation of EPWs and CEM.
+
+          JCMEC will be staffed by the 203d MI Battalion (TECHINT) and augmented
+          by selected service technical representatives and support personnel.
+          Through the supported Theater commander, the JCMEC will have support
+          from military police or security forces, ground and aviation transportation
+          elements, EOD, and other activities as needed.
+
+          In accordance with DOD directives, service regulations, and other
+          established policies, all units will collect, identify, tag, secure, and evacuate
+          CEM to designated collection points.
+
+          In coordination with the JCMEC, and through technical teams and liaisons,
+          Corps and equivalent units will transport or arrange for the transportation of
+          selected items to the JCMEC. In cases of the reported capture of
+          designated CEM of high TECHINT priority and/or time sensitivity, a
+          TECHINT collection team will be deployed to the capture site to conduct
+          initial exploitation and then coordinate and prepare the materiel for hasty
+          evacuation directly to the JCMEC.
+
+                              JCMEC will function as the Theater's central captured materiel exploitation
+                              facility. As such it will—
+
+                                   Establish procedures for the exploitation, destruction, or other
+
+B-2
+
+
+---
+
+                                                                                                                           FM 34-54
+                            disposition of CEM in coordination with the J4.
+                            Recommend the theater souvenir and war trophy policy, to include
+                            demilitarization procedures.
+                            Issue and provide training on the operation of CEM to US forces, allied,
+                            and host nation forces based upon J3 requirements and priorities.
+                            Return specified CEM to the sovereign nation at the end of the conflict
+                            as directed.
+
+ORGANIZATION
+
+                       The JCMEC and its components can and will be tailored for each operation
+                       depending on types and quantities of CEM. Although operationally
+                       responsible through the supported Theater commander for the JCMEC, the
+                       commander and deputy are responsible to the J2 through the JTIB for
+                       intelligence collection management and oversight of the JCMEC. Figure B-
+                       1 shows the JCMEC organization. Following are specific functions of the
+                       JCMEC components.
+        COMMANDER AND THE DEPUTY:
+                       The 203d MI Battalion (TECHINT) commander is dual hatted also as the
+                       JCMEC commander and is assisted by a deputy, battalion S3, or Executive
+                       Officer (XO). The commander will tailor the CMECs to meet the worldwide
+                       mission.
+        LIAISON ELEMENTS:
+                       FME LNEs will be attached to each component G2, Air Force and Navy
+                       Intelligence, and Corps, or the equivalent subordinate command. These
+                       LNEs will advise the supported command on CEM handling, control, and
+                       evacuation procedures and coordinate these efforts with the JCMEC.
+
+                                                                                                                                   B-3
+
+
+---
+
+FM 34-54
+
+               OPERATIONS CENTER (OPCEN):
+                              The OPCEN director works directly for the JCMEC commander. The
+                              OPCEN is responsible for planning and coordinating all current and
+                              projected JCMEC operations, to include deploying TECHINT
+                              collection teams and maintaining the current intelligence situation.
+
+               SUPPORT CENTER (SUPCEN):
+                              The SUPCEN director works directly for the JCMEC commander. The
+                              SUPCEN provides administrative and logistics support to all JCMEC
+                              elements.
+                              The warehouse section chief works directly for the SUPCEN director. This
+                              section maintains all records on CEM, structures, and facilities that are
+                              processed through or by the JCMEC. Specifically, the Warehouse
+                              Section—
+
+B-4
+
+
+---
+
+                                                                                                                  FM 34-54
+
+                    Serves as the point of contact (POC) for the various units or
+                    organizations delivering and/or transferring materiel.
+
+                    Ensures that documents, manuals, inventory records, and other related
+                    items are cataloged and properly exploited.
+
+                    Ensures exploitation elements are informed of materiel and documents
+                    received at the JCMEC.
+
+                    Coordinates and monitors the shipping of materiel to CONUS and/or
+                    issuance to US forces, allies, or host nation as directed.
+
+EXPLOITATION CENTER (EXCEN):
+
+               The EXCEN director works directly for the JCMEC commander. The
+               EXCEN director prioritizes, coordinates, and deconflicts the efforts of his
+               subordinate elements based on the JCMEC commander's guidance.
+               Elements subordinate to the EXCEN director and their functions are as
+               follows:
+
+                    Ground Exploitation Element. This element processes validated
+                    requirements; exploits captured ground materiel (to include helicopters
+                    and ground-based missile systems); produces tactical TECHINT
+                    reports; ensures that reports are forwarded to the CM&D section
+                    expeditiously; and participates in technical interrogations in
+                    coordination with the joint interrogation facility.
+
+                    Air and Missile Exploitation Element. The structure and functions are
+                    the same as for the Ground Exploitation Element except that the focus
+                    is on aviation (aircraft, air delivered weapons systems, and associated
+                    radar and tracking systems) and missile-related materiel.
+
+                    Maritime Exploitation Element. The structure and function are the same
+                    as the Ground Exploitation Element except that the focus is on naval
+                    and marine materiel (to include naval mines, vessels, naval aviation,
+                    and naval-related missile systems).
+
+                    Medical and NBC Exploitation Element. This element's function, in
+                    addition to exploitation and reporting on NBC weapons and materiel, is
+                    to be responsible for removal and shipment of samples from the area of
+                    operation. This element will ship suspected samples to the Theater
+                    Army Medical Laboratory (TAML), if available, or to CONUS- based
+                    laboratories for analysis.
+
+                    C-E and IEW Exploitation Element. This element focuses on
+
+                                                                                                                          B-5
+
+
+---
+
+FM 34-54
+
+                                   communications, computers, intelligence and electronic warfare (IEW),
+                                   and related systems.
+
+                                   CM&D Element. The collection management and dissemination
+                                   (CM&D) element provides a single POC to ensure that effective
+                                   coordination is maintained between the JCMEC and the numerous
+                                   component, theater, national, allied, and host government
+                                   units. This element will ensure the receipt and satisfaction of all
+                                   requirements. Specific functions are as follows:
+
+                                   — Operate joint and Army automated file servers and associated work
+                                        stations that are used for receiving requirements and disseminating
+                                        technical reports. Figure B-2 shows the TECHINT communications
+                                        architecture.
+
+                                   — Coordinate directly with the J2 TECHINT collection manager for
+                                        receipt of validated requirements (collection and production).
+                                        Ensure that exploitation elements receive these requirements;
+                                        monitor the status of the requirements; and close them when
+                                        appropriate.
+
+                                   — Take reports from the elements and ensure that they are
+                                        disseminated expeditiously to units and organizations that need the
+                                        information. Dissemination can be by any or all means; for
+                                        example, secure voice, facsimile, message, Joint Deployable
+                                        Intelligence Support System (JDISS). Information should be given
+                                        the widest dissemination possible.
+
+               SIGNAL CENTER (SIGCEN):
+
+                              The SIGCEN director works directly for the JCMEC commander. The
+                              SIGCEN provides communications, systems, and related maintenance
+                              support to all of the JCMEC elements. It acts as the focal point for all
+                              communications in and out of the JCMEC.
+
+               COLLECTION COMPANY:
+
+                              The commander of the TECHINT Collection Company works directly for the
+                              JCMEC commander. This company is augmented by a Joint EOD
+                              detachment and forward deploys three TECHINT collection teams. The
+                              collection teams assist in recovering, processing, tagging, and shipping
+                              materiel to the JCMEC. They also perform screening and make field
+                              assessments of "first seen" materiel encountered by US personnel.
+                              The EOD detachment consists of personnel from the Services who are
+                              familiar with weapons systems, ammunition, and ordnance related to their
+
+B-6
+
+
+---
+
+FM 34-54
+        B-7
+
+
+---
+
+FM 34-54
+
+                              respective areas. This detachment works for the TECHINT Collection
+                              Company commander but provides EOD support to all JCMEC elements.
+
+               SPECIAL ACTIVITIES:
+
+                              There will be times and places where other US, allied, or host nation
+                              government agencies, organizations, or elements may be required to
+                              support the foreign materiel efforts of the JCMEC.
+
+     COMMUNICATIONS
+
+                              The supported commander provides communications for the JCMEC. The
+                              J2/G2 validates all requirements and coordinates with the J6 to ensure that
+                              the required bandwidth and types of circuits are provided.
+
+                              Normal JCMEC operations will require the following minimum intelligence
+                              processors and connective communications capabilities:
+
+                                   JDISS and/or a compatible file server and workstations. This system is
+                                   essential for access to databases, collection and production
+                                   requirements processing, and dissemination. Since there will be a
+                                   requirement for a Sensitive Compartmented Information Facility (SCIF),
+                                   and split-based operations to and from Aberdeen Proving Ground, MD,
+                                   both DSNET 1 and DSNET 3 connectivity with a minimum of 32 Kb
+                                   bandwith will be essential.
+
+                                   Disk operating system (DOS) stand-alone terminals for report writing
+                                   and records administration.
+
+                                   Automated message access.
+
+                                   Dial-up STU-III secure telephone.
+
+                                   Classified and unclassified facsimile.
+
+                                   Other specialized communications as required to support the forward
+                                   teams (such as tactical high frequency, ultra high frequency, super high
+                                   frequency, and satellite communications [SATCOM]).
+
+     OTHER REQUIREMENTS
+
+                              See DIAMs 58-4, 58-13, and 75-1 and references herein for procedures
+                              and requirements for identifying, safeguarding, controlling, and disposing of
+                              CEM.
+
+B-8
+
+
+---
+
+                         FM 34-54
+
+             Appendix C
+HANDLING AND EVACUATION
+
+INTRODUCTION
+
+                       This appendix covers the procedures for handling and evacuating routine
+                       CEM, as well as TECHINT CEM. Some basic guidelines and procedures
+                       on how to handle TECHINT interest items follow:
+
+                            CEM evacuation channels and handling procedures are usually the
+                            same as similar US end items. A captured tank generally will go to the
+                            same location as a US tank at the Class VII point. (Definitions for
+                            classes of supply are in the glossary.)
+
+                            The element requiring a specific type item is responsible for
+                            coordinating and tasking evacuation and handling.
+
+                            As time permits, as much CEM should be collected from the battlefield
+                            and taken to the echelon's CEM points for disposition.
+
+                            The capturing unit always notifies higher command of capture and then
+                            safeguards the known or possible TECHINT item, if possible, until
+                            higher command provides disposition instructions.
+
+                            All echelons will establish CEM points and keep logistical and
+                            intelligence channels informed of their status.
+
+                            Special handling and evacuation procedures are often situation
+                            dependent and cannot always be included in SOPs and OPORDs.
+
+                       The plans, policies, and procedures for evacuating foreign materiel are
+                       prescribed by joint, unified, and theater headquarters. These plans are
+                       based on DA and DOD policies and guidance. Each command echelon in
+                       theater must ensure that its plans comply with theater directives and the
+                       Joint TECHINT plan. The final disposition of CEM and associated technical
+                       documents rests with the theater commander.
+
+                       As stated before, the CMEC is responsible for coordinating the handling
+                       and evacuation of CEM of TECHINT value. Routine CEM evacuation
+                       guidance, such as raw material found in railroad yards, is best established
+                       in advance in the command's various OPORDs and SOPs. CEM should be
+                       policed off the battlefield to the prescribed collection points as soon as
+                       possible. Special situations, as in the case of high priority TECHINT
+
+                         C-1
+
+
+---
+
+FM 34-54
+
+          interest items, require active coordination among the JCMEC and the
+          command's different assets to move the item quickly.
+
+          Coordinating and tasking is the job of the echelon commander's staff for
+          normal CEM movement. Their ability to coordinate between the logistic
+          units that move the item and the specialist elements such as TECHINT,
+          EOD, and NBC is the key to the reuse, intelligence exploitation, and
+          removal of CEM.
+
+     LOGISTIC CHAIN OF RESPONSIBILITIES AND FUNCTIONS
+
+                            Logistic assets will evacuate CEM to the collection points, Corps CMEC
+                            (Forward), theater CMEC, or CONUS. They do this according to available
+                            assets and the priorities set by the commander and staff. The J4/G4 is the
+                            principal staff element charged with coordinating this task. The
+                            command surgeon, responsible for medical items, coordinates disposition
+                            of Class VIII not of TECHINT value.
+
+                            The J4/G4 provides staff guidance to the MMC and the movement control
+                            office (MCO) or the movement control center (MCC). The MMC controls
+                            combat service support (CSS) and maintenance inventories and is the
+                            management arm that ensures proper accountability of CEM during transit.
+
+                            The support commands are the Division Support Command (DISCOM),
+                            COSCOM, and Theater Army Area Command (TAACOM). They
+                            exercise command and control over supporting units in carrying out the
+                            directives issued by the J4/G4. The division medical supply officer (DMSO)
+                            or the medical, supply, optical, and maintenance (MEDSOM) are the first
+                            elements that manage the command's collection, inventory, and evacuation
+                            procedures and functions for captured medical materiel.
+
+                            The MMC manages the command's collection, inventory, and evacuation
+                            functions. This includes the operation of the CEM point. The MMC
+                            operations staff is organized by function and commodity, Class I through
+                            Class VII, and Class IX materiels. CEM will normally be managed by the
+                            Class VII operations staff. The MMC keeps the records of the CEM at the
+                            CEM point. TECHINT elements, such as the Corps CMEC (Forward) or
+                            TECHINT teams, would provide support to logistical personnel operating
+                            the CEM point for identification of CEM.
+
+C-2
+
+
+---
+
+                                                                                                                           FM 34-54
+
+TRANSPORTATION PLANNING AND ALLOCATION
+
+                       The J4/G4 coordinates logistic support for evacuation of CEM operations
+                       by developing a command transportation plan. The command
+                       transportation officer and the movement control element use the
+                       transportation plan to task individual transportation units. Transportation
+                       elements can be effectively used to backhaul CEM to the CEM points on
+                       their return trips from forward units. Transportation elements are tasked to
+                       support critical TECHINT missions when required.
+
+EVACUATION CHANNELS
+
+                       As stated in the introduction, US forces will usually evacuate CEM along
+                       the same channels as like US items. The system must, however, have the
+                       flexibility to evacuate high priority intelligence items directly from division
+                       collection points to the Theater CMEC and CONUS when required. This
+                       evacuation will be described in the logistical and intelligence appendixes to
+                       OPLANs. The routine evacuation channels are described below. Figures
+                       C-1 to C-4 provide examples of evacuation channels for CEM.
+
+                       Abandoned or unserviceable US and captured foreign materiel are
+                       evacuated to each echelon's collection points for classification,
+                       segregation, and disposition. Collection points operate wherever needed
+                       throughout the theater of operations and should always be planned for
+                       ahead of time. In stability and support operations (SASO), it may take more
+                       time to evacuate larger items due to limited resources and environment.
+
+                       In the Corps area, at least one materiel collection point is established.
+                       Other points are established in the TAACOM. Collection points in the
+                       communications zone (COMMZ) are generally operated by the collection
+                       and classification element of the general support maintenance battalion
+                       near the Class VII point.
+
+                       In the division areas, DISCOM maintenance companies operate CEM
+                       points. During offensive operations, these points will be temporary until the
+                       Corps elements take control. CEM is handled and processed the same
+                       way as similar US items.
+
+                       Salvage points, including Class VII, established by related supply units are
+                       located near unit maintenance collection points. These two points handle
+                       the collection, classification, inventory, and disposition of Classes II, VII,
+                       and IX materiel. The heavy division and Corps have the most
+
+                                                                                                                                   C-3
+
+
+---
+
+FM 34-54
+C-4
+
+
+---
+
+FM 34-54
+        C-5
+
+
+---
+
+FM 34-54
+
+          suitable assets for evacuation of large amounts of foreign materiel, such
+          as tanks. The process is much the same in the light divisions. However,
+          evacuation of the heavier items will be normally handled by COSCOM
+          assets since the division lacks heavy transportation elements.
+
+          Petroleum, oils, and lubricants (POL) units establish their own collection
+          sites to handle captured POL materiel. Supply units can also establish
+          POL collection sites. Commanders will test and use captured POL at the
+          lowest echelon possible. Samples will always be taken and sent to the
+          Corps CMEC or TECHINT collection teams.
+
+          Class V ordnance, including missiles, is evacuated through conventional
+          ammunition supply points (ASPs). Ammunition supply units will establish
+          their own collection sites to handle captured Class V. It is critical that the
+          CEM ASPs provide a detailed inventory of ammunition to logistical and
+          intelligence channels. TECHINT elements must move assets to the CEM
+          ASP to assist in identifying ammunition of intelligence value.
+
+          Class VIII medical items are evacuated through established medical supply
+          points, the DMSO, and the MEDSOM elements. TECHINT elements must
+          have full access to the medical materiel to identify items of medical value.
+
+          Captured aviation items, especially airframes, are evacuated to either the
+          Class VIII CEM collection points, or the nearest aviation units airfield.
+          All CEM, except NBC hazardous materiel and war trophies, that require
+          evacuation to CONUS are eventually shipped to the Transportation Officer,
+          Military Operations Division, Aberdeen Proving Ground, MD.
+
+RESPONSIBILITIES
+
+                       The personnel, activities, and elements responsible for the recovery and
+                       evacuation of CEM are usually the same as those responsible for
+                       handling like US items. A good example is the military police
+                       responsibilities.
+
+                       Since military police are responsible for controlling prisoners, they have
+                       similar evacuation responsibilities for EPW and CEM. MI interrogators and
+                       TECHINT analysts exploit these sources of intelligence along the
+                       evacuation chain.
+
+     THE CAPTURING UNIT
+
+C-6
+
+
+---
+
+                                                                                                                                   FM 34-54
+
+                              The capturing unit always is responsible for reporting, safeguarding, and
+                              initiating accountability of CEM. The capturing unit reports the capture with
+                              a SALUTE report (see Figure E-1). It safeguards the materiel, within its
+                              mission parameters, until relieved or as long as possible. It initiates
+                              accountability by marking and tagging the item according to established
+                              procedures.
+
+                              The capturing unit may be tasked to move CEM wanted for intelligence
+                              exploitation to a collection point. If the capturing unit is tasked with
+                              evacuation, it coordinates any assistance with the command responsible
+                              for direct support maintenance at their echelon.
+
+                              The capturing unit may be tasked with the destruction of the item. This may
+                              require coordination with either EOD or NBC assets to do it safely. It is
+                              illegal to destroy captured enemy medical materiel. According to the Laws
+                              of Land Warfare, if friendly forces cannot use it for EPWs, refugees,
+                              and indigenous population, the medical materiel will remain in place and
+                              unharmed.
+
+                              The capturing unit must report the discovery of unusual mechanisms used
+                              as booby traps through intelligence channels to the nearest TECHINT
+                              element and EOD by SALUTE report. Countermeasures must be
+                              coordinated with EOD personnel. EOD personnel are responsible for the
+                              final disposition of explosive components or hazardous materials
+                              associated with such devices and recovered ammunition.
+
+     EXPLOSIVE ORDNANCE DISPOSAL
+
+                              As discussed, TECHINT units have a profound interest in foreign explosive
+                              ordnance. The assistance of EOD personnel in the examination,
+                              movement, and evacuation of explosive ordnance cannot be
+                              overemphasized. All items of foreign ordnance should first be rendered
+                              safe by EOD personnel. If this is not feasible, the item should be rendered
+                              safe in place by any destructive method that minimizes damage to the
+                              item.
+
+                              Collection of TECHINT data may require dismantling of ordnance and
+                              stripping fuses and other dangerous components. These operations will
+                              be performed only by experienced personnel. Dismantling and stripping
+                              are conducted only in response to a specific requirement for such action.
+                              The request must be placed through TECHINT and EOD staffs. Only
+
+                              trained weapons and munitions specialists should analyze or test
+captured mines and booby traps.
+
+                                                                                                                                           C-7
+
+
+---
+
+FM 34-54
+
+                                     DANGER
+          Exercise extreme caution when encountering taut
+          wire, pull releases, or similar devices due to the
+          possibility of immediate death or permanent injury.
+
+NUCLEAR, BIOLOGICAL, AND CHEMICAL
+
+                              All CB hazardous items are handled and shipped in accordance with
+                              command SOPs, national policy, and theater TECHINT plan. Evacuation is
+                              best handled after coordination with either an NBC reconnaissance team,
+                              NBC qualified TECHINT team, or a task-organized medical element. NBC
+                              samples, after theater tactical exploitation, will be shipped to CONUS
+                              laboratories.
+
+     TECHINT ELEMENTS ECB, EAC, AND THE CMEC
+
+                              When evacuation is either unknown or is delayed, TECHINT personnel will
+                              be tasked to perform onsite analysis. This can provide immediate tactical
+                              information and countermeasures vital to the combat force commander.
+                              Onsite analysis also ensures the recovery of intact components which
+                              become useless once wires are clipped and subcomponents have been
+                              disturbed. This type of analysis is limited by the battlefield situation and
+                              available assets.
+
+                              During onsite analysis, TECHINT teams look for—
+
+                                   Equipment operational characteristics, performance, capabilities, and
+                                   vulnerabilities.
+
+                                   New weapons and devices.
+
+                                   Modifications.
+
+                                   Possible countermeasures.
+
+                                   Identification and proper handling of radioactive materiel.
+
+                                   Specific orientation and siting of equipment.
+
+                                   Recovery and evacuation of explosive ordnance and NBC munitions.
+
+                              At times, a large number of like items will be acquired. The TECHINT
+                              teams or elements must have the opportunity to examine the materiel
+
+C-8
+
+
+---
+
+                                                                                                                           FM 34-54
+
+                       thoroughly. They will be especially interested in any modifications done to
+                       the equipment.
+
+                       TECHINT teams may also be tasked to supervise the materiel handling and
+                       evacuation onsite. The Corps TECHINT LNE or theater TECHINT
+                       elements will coordinate with appropriate staffs to evaluate the need to use
+                       TECHINT personnel to—
+
+                            Supervise the evacuation.
+
+                            Arrange necessary technical escorts to the Corps CMEC (Forward),
+                            CMEC, or CONUS.
+
+                       TECHINT elements are capable of coordinating the handling and shipping
+                       with necessary medical, intelligence, NBC, and strategic level elements for
+                       captured CB materiel.
+
+MARKING AND TAGGING
+
+                       Labeling CEM properly is vital to the timely exploitation of the item. It
+                       speeds up the often slow process of producing effective countermeasures
+                       for the soldier in combat. Proper labeling provides the analyst information
+                       necessary for the item's timely exploitation. It also allows interrogators and
+                       TECHINT elements to match up knowledgeable prisoners with the CEM
+                       from which they became separated in the evacuation process.
+
+        RESPONSIBILITIES:
+
+                       The capturing unit is responsible for properly marking and tagging CEM.
+                       The responsibilities must be clearly established by command SOP. The
+                       equipment and document tags accompany the materiel to its final
+                       destination. Article 103 of the Uniform Code of Military Justice is printed on
+                       the reverse side of the tag to prevent indiscriminate tampering.
+
+                       As part of core training, all personnel should be instructed on how to tag
+                       CEM. They should know the consequences when personnel and
+                       equipment are not properly tagged. Training should stress protecting and
+                       preserving the original markings on materiel at the time of capture.
+                       Weather-resistant capture tags are used. They are normally produced
+                       within the theater. They are securely attached to the item itself and to the
+                       shipping container. If weather-resistant tags are not available, use any
+                       material (for example, rations packing) on which pertinent capture data
+                       can be recorded.
+
+                       There are two procedures for marking and tagging CEM. The procedure
+                       used depends on whether or not the captured item is associated with a
+
+                                                                                                                                   C-9
+
+
+---
+
+FM 34-54
+                              captured person.
+
+               CEM WITH EPWs:
+                              For CEM with personnel, tag the captured person and any associated CEM
+                              with the three-part tag (Form PE 96C-18). An example of this tag is at
+                              Figure C-5.
+
+               CEM BY ITSELF:
+                              For CEM by itself, tag the piece of equipment and associated document
+                              with the tag shown at Figure C-6. Be careful to use this tag to label ONLY
+                              items captured with or known to be associated with a particular EPW. In
+                              addition, label all documents believed to be of a technical nature (such as
+                              operator manuals) with the flag word “TECHDOC." An example is shown in
+                              Figure C-7.
+
+C-10
+
+
+---
+
+FM 34-54
+      C-11
+
+
+---
+
+FM 34-54
+C-12
+
+
+---
+
+FM 34-54
+      C-13
+
+
+---
+
+FM 34-54
+
+     SECURITY AND ESCORT
+
+                              Many items of foreign materiel acquired by US forces and determined to be
+                              of TECHINT value require safeguarding in storage as well as during
+                              evacuation. Such items may be sensitive due to their criticality or because
+                              of the US classification assigned. At all stages during the
+                              exploitation process, CEM will be placed under guard to prevent looting,
+                              misuse, or destruction.
+
+                              Initially, the capturing unit is responsible for safeguarding materiel, based
+                              on instruction from the next higher headquarters. When foreign materiel is
+                              sensitive or of special value, military police elements normally provide
+                              physical security during its evacuation.
+
+     RECOVERY AND EVACUATION OF TECHNICAL DOCUMENTS
+
+                              Technical publications and manuscripts of concern to TECHINT relate to
+                              the technical design or operation of the materiel. Such documents may be
+                              acquired from the materiel to which they refer. Therefore, it is essential that
+                              TECHINT personnel coordinate with interrogation elements to exchange
+                              information about related documents.
+
+               CEM BY ITSELF:
+
+                              All enemy documents captured on the battlefield are sent immediately to
+                              the first intelligence staff officer in the chain. The S2/G2 routes all CEDs
+                              to the nearest interrogation element for tactical exploitation. Interrogators
+                              screen the documents for immediate information and forward them to
+                              higher command, as required.
+
+                              In any case, all known or suspected technical documents are marked
+                              “TECHDOC” and treated with highest priority and forwarded through
+                              intelligence channels to the higher command until their value has been
+                              determined.
+
+               CEM ASSOCIATED WITH EPWs:
+
+                              Documents obtained through liaison with interrogation elements should be
+                              accompanied by pertinent interrogation reports. These reports can be in—
+
+                                   SALUTE reports.
+
+                                   Tactical interrogation reports.
+
+C-14
+
+
+---
+
+                                                   FM 34-54
+
+Special interrogation reports.
+Intelligence information reports.
+Biographic reports in accordance with DIAM 58-13.
+Knowledgeability briefs.
+
+CRYPTOGRAPHIC AND OTHER ELECTRONIC EQUIPMENT AND
+DOCUMENTS
+
+                       TECHINT units use special procedures for handling captured C-E
+                       equipment and documents. These items are tagged and evacuated to the
+                       nearest target exploitation (TAREX) element as soon as possible after the
+                       initial tactical exploitation.
+
+WAR TROPHIES
+
+                       Foreign equipment is frequently a target of souvenir hunters. An effective
+                       war trophy policy must be established to ensure that these items are not
+                       retained by the capturing unit.
+
+FOREIGN MATERIEL NUMBERING SYSTEM
+
+                       It is the responsibility of the COSCOM and Theater support command to
+                       tag all CEE that is sent to them in accordance with the foreign materiel
+                       numbering system. All inventories of CEE will use this system to keep
+                       track of materiel.
+
+                                                   C-15
+
+
+---
+
+                                                                           FM 34-54
+
+                       THIS APPENDIX COMPLIES WITH STANAG 2044
+                                  AND IMPLEMENTS STANAG 2084.
+
+                                     Appendix D
+            INTELLIGENCE ANNEX WITH TECHINT INPUT
+
+INTRODUCTION
+
+                            This appendix provides examples of TECHINT input to an intelligence
+                            annex and TECHINT-related tabs to that annex. The TECHINT appendix is
+                            used—
+
+                                 As the primary example for the J4/G4 appendix on captured weapons.
+
+                                 As the example for the J1/G1 appendix on equipment taken from
+                                 EPWs. (See Figures C-1 through C-3 for CEE and EPW tags.)
+
+             THEATER ARMY INTELLIGENCE ANNEX:
+
+                            Figure D-1 shows input for TECHINT operations. This example is tailored
+                            for a Theater Army headquarters. All headquarters, however, should
+                            include TECHINT operations input.
+
+1. SUMMARY OF ENEMY SITUATION.
+
+2. INTELLIGENCE REQUIREMENTS.
+
+    a. PIR:
+         (1) Does the enemy have significant quantities of night vision devices?
+         (2) Is there unusual or unexplained damage to US equipment and materiel?
+         (3) Has there been unexpected defensive and/or offensive capabilities of enemy
+
+equipment?
+
+    b. IR:
+         (1) What are the capabilities and/or limitations of the AT-5 ATGM?
+
+3. INTELLIGENCE ACQUISITION TASKS.
+
+Figure D-1. Example of an extract from a Theater Army Intelligence Annex.
+
+                                                                           D-1
+
+
+---
+
+FM 34-54
+
+    a. General: Capture of any enemy materiel will be immediately reported through
+intelligence channels in accordance with priorities described below.
+
+     (1) 15th Corps. Priority of collection on foreign equipment is T-64B, AT-5, and SA-13.
+
+         (2) 25th Corps. Priority of collection on foreign equipment is BTR-70, BMP-l, and
+individual protective vest (body armor).
+
+     (3) 23d MI Brigade (EAC).
+
+          (a) 1st Battalion.
+
+          (b) 2d Battalion.
+
+          (c) 3d Battalion.
+
+                     1 One TECHINT collection team and TECHINT LNE to operate within each
+corps area, attached to each corps MI brigade (command less OPCON).
+
+                   2 Screening and exploitation of captured IEW priorities described in     FM
+
+34-54, Appendix B.
+
+                   3 Fully integrate TECHINT operations and teams with IEW and EPW
+
+operations.
+
+4. MEASURES FOR HANDLING PERSONNEL, DOCUMENTS, AND MATERIEL.
+
+     a. Personnel.
+
+     b. Documents.
+
+     c. Materiel.
+
+        (1) All materiel will be reported in accordance with procedures and priorities described in
+Appendix , TECHINT.
+
+        (2) All materiel will be evacuated to the nearest collection point and held for TECHINT
+screening in accordance with Appendix , TECHINT.
+
+        (3) Items designated by TECHINT personnel as possessing intelligence value will be
+evacuated to destinations designated by TECHINT personnel in accordance with priorities
+described in Appendix , TECHINT.
+
+Figure D-1. Example of an extract from a Theater Army Intelligence Annex (continued).
+
+D-2
+
+
+---
+
+                                                                                                                                 FM 34-54
+        (4) No materiel will be diverted for other uses until screened and released by TECHINT
+personnel.
+        5. REPORTS AND DISTRIBUTION. All equipment-related intelligence, SALUTE, and
+EPW reports will include the J2/G2 and CMEC as an addressee.
+
+ Figure D-1. Example of an extract from a Theater Army Intelligence Annex (continued).
+                                                                                                                                         D-3
+
+
+---
+
+FM 34-54
+
+               (TAB B) JOINT THEATER TECHNICAL INTELLIGENCE APPENDIX:
+
+                              Figure D-2 is an example of a Joint Theater TECHINT appendix. It shows
+                              how CEM must be handled, reported, and disposed of.
+
+              Appendix , TECHINT, to Annex , Intelligence, to OPLAN/OPORD .
+
+ REFERENCES:
+
+         a. OPLAN _____
+
+         b. FM 34-54.
+
+         c. FM 3-19-1.
+
+         d. Chemical and Biological Sampling, Transport, and Evaluation Management
+ Procedures, dated February 1986.
+
+ 1. PURPOSE: This appendix establishes policy and prescribes responsibilities and
+ procedures for the proper handling, reporting, intelligence assessment, and disposition of CEM.
+ Additionally, it establishes the procedures for the safe and expedient collection of suspected CB
+ agents to the laboratory for processing, analysis, and identification.
+
+ 2. POLICY:
+
+         a. The J2 controls and directs the theater captured materiel exploitation program. The
+ CMEC OPCON to the J2 carries out exploitation activities.
+
+         b. The CMEC will be formed from elements of the 203d MI Battalion (TECHINT), _____
+ MI Brigade.
+
+         c. The __________ J2 exercises staff responsibility over the intelligence exploitation of
+ CEM throughout the area of operations and establishes requirements for evacuation of specific
+ items to CONUS for further exploitation. An LNE from the JCMEC will be located in the J2.
+
+         d. Commander, 203d MI Battalion (TECHINT)—
+
+              (1) Establishes the CMEC and attaches a TECHINT team to each Corps; positions
+ an LNE with the J2, each Corps G2, the theater MI Brigade, and theater interrogation.
+
+              (2) In coordination with the Theater/Army Surgeon General, advises the J2/G2 on all
+ matters of CB sampling.
+
+                       Figure D-2. Example of a Joint Theater TECHINT Appendix .
+
+D-4
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+          (3) Recommends a theater souvenir and war trophy policy in accordance with
+FM 34-54, Appendix C.
+
+           e. The J3—
+
+                 (1) In coordination with the J2, approves requests and assigns priorities for issue
+of CEM to US units engaged in special missions or training based on the following prioritized
+uses of captured materiel:
+
+                     (a) Intelligence.
+
+                      (b) Special warfare.
+
+                      (c) Special Operation Forces.
+
+                      (d) Issue to friendly forces.
+
+                      (e) Internal defense.
+
+                      (f) Substitutes or supplements to US equipment.
+
+                      (g) Distribution to friendly foreign units or groups.
+
+                (2) Coordinates provisions of EOD support as required in the exploitation of CEM
+in accordance with AR 75-15 and to fill requirements stated by the J2.
+
+            f. The J4 exercises staff supervision over the evacuation and movement of CEM of
+intelligence value in the theater to the JCMEC, and coordinates evacuation of high priority items
+back to CONUS.
+
+            g. The Staff Judge Advocate provides legal guidance concerning the disposition of
+certain categories of enemy materiel, structures, and facilities.
+
+            h. See Tab D of this appendix for CB sampling responsibilities.
+
+3. RESPONSIBILITIES:
+
+            a. The CMEC is charged with the conduct and coordination of assessment of CEM
+within the command. Support in the assessment of enemy naval and aerodynamic systems
+and materiel will be provided by intelligence personnel from the Navy and Air Force
+components attached to the CMEC. The scope of responsibilities include:
+
+                (1) Assign an LNE to the J2, G2, and the theater interrogation facility.
+
+             Figure D-2. Example of a Joint Theater TECHINT Appendix (continued) .
+
+                                                                                                                                         D-5
+
+
+---
+
+FM 34-54
+
+                 (2) Deploy TECHINT collection teams forward to each deployed Corps to conduct
+preliminary screening of evacuated materiel and to respond to targets of opportunity which
+cannot be processed in a normal manner.
+
+            (3) Receive and process validated intelligence requirements for items of enemy
+
+materiel.
+
+            (4) Participate in the technical interrogation of EPWs and assist in screening
+
+CEDs.
+
+            (5) Examine and evaluate TECHINT reporting and classification of CEM.
+
+            (6) Participate with TAREX elements to fully integrate the exploitation of specified
+
+C-E items.
+
+                  (7) Participate with medical, NBC, and Special Operations units for coordinating
+the delivery of CB samples through MI channels to the TAML.
+
+       b. Subordinate Commands:
+
+                 (1) Each Corps will—
+
+                     (a) Designate and operate collection points. Report locations of collection
+points where CEM will be stored and amounts and types stored at each location. Forward
+reports to Cdr, CMEC, with an information copy to the J2/G2 and J4/G4s. The collection point
+will receive, store and, only upon direction, dispose or issue CEM.
+
+                     (b) Designate and operate ammunition storage areas for the storage of
+captured ammunition and explosive items, as required. Store captured chemical munitions
+similarly to like US chemical munitions. Report locations of ammunition storage areas and
+amounts and types stored to Cdr, CMEC, with an information copy to J2/G2 and J4/G4.
+
+                     (c) Provide necessary logistics support, as required, to evacuate CEM and CB
+samples needed for intelligence operations, or other purposes, from collection points to the
+CMEC.
+
+            (d) Ensure all CEM is promptly tagged.
+
+                     (e) Provide logistics and administrative support for all TECHINT assets
+operating within their areas.
+
+                (2) NBC reconnaissance units, Special Operations units, and medical units are
+responsible for the transfer of CB samples to TEUs or TECHINT collection teams at Corps, or
+directly to the TAML.
+
+           Figure D-2. Example of a Joint Theater TECHINT Appendix (continued) .
+
+D-6
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+4. PROCEDURES:
+
+        a. Procedures for handling and processing CEM.
+
+              (1) The recovery and evacuation of CEM is a command responsibility at all levels.
+The prescribed method of evacuation is through normal logistics channels and in accordance
+with priorities established in Tab A and Tab B to this Appendix.
+
+              (2) Enemy materiel captured by US military personnel is the property of the United
+States and must be protected from pilferage, cannibalizing, and souvenir hunters.
+Commanders at all levels will provide adequate security for CEM until it has been screened by
+TECHINT personnel.
+
+              (3) Specific intelligence collection requirements and Top Ten End Item
+requirements items of enemy materiel for which the tactical commander and intelligence
+agencies have a need are listed at Tab A and Tab B to this Appendix. These Tabs will be
+published upon execution of the OPLAN.
+
+                    (a) When items listed in Tab A and Tab B or any of their updates are captured
+or otherwise obtained, commanders will ensure that the acquisition is reported through
+intelligence channels to the Corps TECHINT LNE to Cdr, CMEC, with an information copy to
+J2/G2.
+
+                      (b) Report as in (a) above (at a PRIORITY precedence) the capture of
+standard types of foreign materiel that have been apparently modified in a major way or are
+having a greater impact on combat operations than expected. These items will be evacuated to
+COSCOM collection points by available backhaul capabilities on a PRIORITY basis.
+Equipment will be held pending further disposition instructions from the J2 through the Corps
+TECHINT LNE.
+
+                      (c) The capture of items listed in Tab A and Tab B will be reported by
+IMMEDIATE precedence through intelligence channels and expeditiously evacuated to at least
+the supporting collection point to await further disposition instructions from J2.
+
+                      (d) Report as in (a) above (at a ROUTINE precedence) all CEM. These items
+will be evacuated to collection points by available backhaul capabilities on a space-available
+basis. They will be held at the collection point until screened by TECHINT personnel.
+Disposition will be per paragraph 4d below.
+
+                      (e) The J2, in coordination with the J4, is the focal point for evacuation of key
+items of intelligence interest to CONUS for national exploitation.
+
+             Figure D-2. Example of a Joint Theater TECHINT Appendix (continued) .
+
+                                                                                                                                         D-7
+
+
+---
+
+FM 34-54
+
+                (4) The assessment of CEM below division and separate brigade levels will be
+limited. Their primary responsibility is the recovery, reporting the capture, and initial evacuation
+of enemy materiel from the capture location to the nearest collection point. Exception is for
+medical supplies which will be handled through medical supply channels. Significant items of
+CEM which cannot be evacuated, either because of the tactical situation or due to their size, will
+be left in place and reported immediately.
+
+                (5) Assessment of CEM at division and separate brigade level is performed by
+intelligence and operations personnel to the extent necessary to determine the immediate
+tactical significance of the materiel. Assessment at this level does not replace the need for
+detailed evaluation and analysis of CEM by technical specialists from the JCMEC. For this
+reason, the prompt evacuation of significant items of CEM must not be delayed.
+
+                (6) Screening and preliminary field assessment of CEM is performed by JCMEC
+TECHINT collection teams. These teams will operate in the Corps areas and are attached
+(command less OPCON) to the Corps MI Brigade. When required, these teams can also
+provide assistance to capturing units. Assessment functions are normally carried out at the
+Corps support area collection points. Items of intelligence interest or items needed to fill other
+requirements by the JCMEC are selected for evacuation. Selected items will be evacuated to
+the JCMEC, or a designated location, by collection point personnel through logistics channels.
+
+                (7) Selected CEM evacuated to the CMEC is subjected to detailed examination
+and evaluation to—
+
+            (a) Determine enemy materiel threats, performance capabilities, and limitations.
+
+            (b) Produce information from which military countermeasures may be
+
+developed.
+
+                    (c) Provide inputs continuously to the national and integrated S&TI Program in
+accordance with DIA and Theater policies.
+
+            (d) Provide intelligence that can be of timely use to the tactical commander.
+
+     b. Materiel Requiring Special Handling.
+
+                (1) C-E Equipment. All CEM in this category must be evacuated immediately with
+their dial settings, frequencies, and so forth, and recorded and sent to the supporting EW unit by
+the quickest and most secure means possible. All such materiel will be evacuated to Corps
+support area collection points for screening by TECHINT and other specialized personnel.
+
+          Figure D-2. Example of a Joint Theater TECHINT Appendix (continued) .
+
+D-8
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+                (2) Ammunition and Explosives. The complete recovery and expeditious
+evacuation of enemy ammunition and components is essential to the identification of known or
+new enemy weapons systems and the threat posed by each. EOD teams are responsible for
+preparing PRETECHREPs on first-time-seen enemy ammunition or explosives. If there are no
+TECHINT personnel to assist in the area, EOD teams will also be responsible for preparing
+COMTECHREPs.
+
+                (3) Medical Materiel. Medical materiel normally will not be destroyed. It will be left
+in place if it cannot be evacuated. It will be handled in accordance with normal Class VIII
+procedures.
+
+                (4) Significant Items: All intelligence requirements specified in Tab A and Tab B
+will be afforded special handling as described in paragraph 4a above.
+
+                (5) Technical Documents: Captured or recovered technical documents consist of
+firing tables, logbooks, packing slips, and other documentation. If the tactical situation does not
+permit the equipment to be evacuated, the documents will be forwarded to the JCMEC and will
+include a description of the equipment.
+
+                (6) CB Samples. See Tab D to this appendix.
+
+       c. Requirements.
+
+               (1) DIA provides national intelligence requirements for CEM to the Theater. In-
+theater intelligence requirements for enemy materiel are submitted through J2 and G2.
+
+               (2) In-theater operational and training requirements for other than Army
+subordinate units are submitted through J3 to the J2 for review, approval, and assignment of
+priority.
+
+               (3) The intelligence requirements are published in Tab A and Tab B.
+
+       d. Disposition.
+
+               (1) Items required in support of operational requirements or for distribution to host-
+country forces will be separately designated by the J3. Tab C to this Appendix contains such
+equipment.
+
+               (2) Items determined by the J2 to have no intelligence significance and by the J3 to
+have no operational need will then be identified and reported through logistics channels to the
+J4. Items will be retained within designated collection points for further disposition by the J4.
+No items will be released for war trophies until released by J2.
+
+             Figure D-2. Example of a Joint Theater TECHINT Appendix (continued) .
+
+                                                                                                                                         D-9
+
+
+---
+
+FM 34-54
+        e. Destruction. The destruction of CEM, excluding medical items, will be accomplished
+
+ only in the event that recapture is imminent, due to its location, or in those cases where materiel
+ is declared by EOD or TECHINT personnel to be hazardous to the safety of troops. In the
+ event destruction of materiel is necessary, all factory markings should be carefully recorded
+ and photographs taken, if possible, before the materiel is destroyed. Medical items normally
+ will not be destroyed, but left in place.
+ OFFICIAL:
+ TABS:
+ A = Top Ten Priority Items (TBP)
+ B = General Collection Requirements (TBP)
+ C = Equipment Releasable to Allies (TBP)
+ D = Chemical, Biological, and Biomedical Sampling
+
+              Figure D-2. Example of a Joint Theater TECHINT Appendix (continued) .
+D-10
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+   (TAB D) CHEMICAL, BIOLOGICAL, AND BIOLOGICAL SAMPLING PROCEDURES:
+
+                            Figure D-3 is an example of a Tab D to a TECHINT Appendix of a Theater
+                            Army Intelligence Annex. It shows disposition instructions for CB samples.
+
+1. PURPOSE: To establish the procedures for the safe and expedient collection and
+evacuation of suspected CB agents to the laboratory for processing, analysis, and identification.
+
+2. RESPONSIBILITY:
+
+    a. The Cdr, JCMEC, with the Army and Theater Surgeon General, are responsible for
+advising the J2/G2 and J3/G3 on all matters of CB samplings.
+
+    b. Corps G2, SOCCENT J2, MARCENT G2, Navy intelligence, and Air Force intelligence
+will be responsible for transferring samples to MI channels via TEU teams or TECHINT
+collection teams.
+
+    c. Medical personnel will coordinate with combat units and Graves Registration Service
+units through local medical units and hospitals for obtaining biomedical samples, for the
+expedient transfer of personnel deceased as a result of a CB attack.
+
+    d. The Cdr, JCMEC, will be responsible for coordinating shipment of suspected biological
+samples to the TAML for preliminary analysis, and suspected chemical or biological-chemical
+mixed to CONUS-based laboratories.
+
+    e. The TEU is responsible for coordinating shipment to the US Army Chemical Research
+Development and Engineering Center (ERDEC) at Aberdeen Proving Ground, MD, if it is a
+chemical sample; or to the US Army Research Institute of Infectious Diseases (USARlID) at
+Fort Detrick, MD, if it is a combination CB sample or if it is a suspected biological sample only.
+
+3. SAMPLING RESPONSIBILITY: Samples suspected of containing CB agents are divided
+into environmental and biomedical samples on the basis of their origin. Both medical and
+nonmedical teams are responsible for collecting samples suspected of containing CB agents.
+
+    a. ENVIRONMENTAL SAMPLES. Environmental CB agent samples are collected in the
+field. They include samples like aerosols or vapors; liquids other than water, soil, vegetation;
+water; used chemical equipment; and ordnance. The acquisition of these samples is the
+responsibility of—
+
+        (1) NBC reconnaissance teams.
+
+                     Figure D-3. Example of a TAB D to a TECHINT Appendix of
+                                      a Theater Army Intelligence Annex.
+
+                                                                                                                                       D-11
+
+
+---
+
+FM 34-54
+
+          (2) Technical escort field teams.
+          (3) TECHINT collection teams.
+          (4) Preventative medicine units (potable water sources only).
+          (5) Special operation teams.
+      b. BIOMEDICAL SAMPLES. Biomedical samples are derived primarily from acutely ill
+ soldiers who exhibit symptoms of CB agent intoxication or from personnel who were killed in an
+ attack. Collection of the biomedical samples will be the responsibility of personnel in—
+          (1) Battalion-level medical units.
+          (2) Division-level medical treatment facilities.
+          (3) Combat support hospitals.
+          (4) Evacuation hospitals.
+          (5) Theater medical hospitals.
+          (6) NBC reconnaissance teams (small animals only).
+          (7) Technical escort field teams.
+          (8) TECHINT collection teams.
+ 4. SAMPLING: Sampling will be initiated if the following are observed:
+      a. Significant numbers of unexplained sickness or death of personnel or animals occur.
+      b. Ordnance (munitions) are found which contain known or suspected CB agents.
+      c. An attack is suspected or is known to have occurred but the causative agent cannot be
+ identified.
+      d. The widespread outbreak of unusual mission-degrading behavior occurs.
+      e. Sampling of known identified agents to verify first use is required.
+
+                       Figure D-3. Example of a TAB D to a TECHINT Appendix of
+                                a Theater Army Intelligence Annex (continued).
+
+D-12
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+5. PROCEDURES:
+
+    a. Procedures for the collection, packaging, documentation, and transporting of CB samples
+to laboratories must be precise to ensure the credibility of the analysis conducted on the
+samples. Ensuring the credible analysis of suspected CB samples is critical for both battlefield
+commanders concerned with possible retaliation and contamination avoidance, and medical
+personnel concerned with prophylactic or post-contamination treatments.
+
+    b. When possible, a background sample from "clean" areas beyond the perimeter of the
+attack site should be obtained as baseline data for comparison; collection should be identified to
+sample collected data from contaminated areas and packaged separately.
+
+    c. The best biomedical sample is an acutely ill soldier or a cadaver which is sent back to
+CONUS immediately. A copy of the physical examination or an extract of significant findings
+will be enclosed with biomedical samples. Samples will be collected in triplicate, distributing
+two to CONUS and one to the TAML.
+
+    d. All samples will be forwarded from the TAML to either ERDEC or USAMRIID laboratories
+12 to 24 hours after collection; delay beyond 24 hours rapidly degrades the intelligence value
+of the samples.
+
+6. NOTIFICATION MESSAGE: A notification message will be sent from the TAML or
+TECHINT unit by PRIORITY precedence upon receipt and screening of samples to the Theater
+Surgeon General, J2, J3, and CDR, ERDEC APG MD//CBATEB//: The notification message
+will contain the following information:
+
+    a. The sample identification number and details which relate to the acquisition of the
+sample. This message will be confirmed to provide the following information:
+
+        (1) Background information.
+
+        (2) Physical description.
+
+        (3) Results of preliminary tests after sample collection.
+
+        (4) Where, when, and under what conditions the sample was acquired.
+
+        (5) Description of incident.
+
+        (6) Casualty symptoms (if applicable).
+
+        (7) Shipment information, such as—
+
+                     Figure D-3. Example of a TAB D to a TECHINT Appendix of
+                              a Theater Army Intelligence Annex (continued).
+
+                                                                                                                                       D-13
+
+
+---
+
+FM 34-54
+          (a) Date of shipment.
+          (b) Mode of transportation.
+         (c) Flight number and destination.
+          (d) Estimated time of arrival CONUS.
+          (e) Description of shipment (for example, size and weight).
+          (f) Names of escort personnel.
+
+                       Figure D-3. Example of a TAB D to a TECHINT Appendix of
+                                a Theater Army Intelligence Annex (continued).
+
+D-14
+
+
+---
+
+                                FM 34-54
+
+                   Appendix E
+TECHNICAL INTELLIGENCE REPORTS
+
+INTRODUCTION
+
+                       This appendix describes the nine basic reports, which are listed below, that
+                       battlefield TECHINT analysts use.
+
+                            SALUTE report (Figure E-1).
+
+                            Preliminary Technical Report (PRETECHREP) (Figure E-2).
+
+                            Complementary Technical Intelligence Report (COMTECHREP)
+                            (Figures E-3, E-4, and E-5).
+
+                            Detailed Technical Report (DETECHREP).
+
+                            Technical Intelligence Update Report.
+
+                            Technical Intelligence Summary (TECHSUM).
+
+                            Technical Intelligence Report (TIR).
+
+                            Special technical reports. These reports are generated in response to
+                            requests for information. The formats vary by request and usually
+                            address a specific question or requirement from a TECHINT consumer.
+
+                            Other equipment information reports. These reports focus on aspects
+                            of equipment that do not necessarily relate to intelligence needs
+                            per se. For example, the Theater commander may have a war trophy
+                         policy that permits units to evacuate certain equipment to their home
+                       stations for static displays. These reports may include driver's
+                       instructions, handling considerations, render-safe procedures, and
+                       demilitarization standards for equipment.
+
+                       The SALUTE report is an oral or written report prepared by the acquiring
+                       units or intermediate command echelons. It is used to report rapidly, by
+                       electrical or other means, the capture of foreign materiel. These reports are
+                       forwarded to either the TECHINT LNEs at Corps, other TECHINT LNEs, or
+                       directly to the JCMEC. As a result of this information, a TECHINT team
+                       could be dispatched or the CEM could be moved to the
+                       Corps CMEC or the theater JCMEC. Figure E-1 gives an example of a
+                       completed SALUTE report.
+
+                                E-1
+
+
+---
+
+                                                             FM 34-54
+
+    TO: G2 V Corps            SALUTE REPORT
+FROM: G2 24th Inf Div (Mech)
+                                        DTG: 230900Z Aug 98
+                              REPORT NO: 07-0623
+
+1. SIZE: NA.
+
+2. ACTIVITY: Capture of shoulder-fired laser target designator by 1/64th Armor Bn 2d Bde
+     24th Inf Div (Mech) (include capturing unit).
+
+3. LOCATION: Town of Al-Dahran (UTM EH556937) (as a minimum always give grid
+     coordinates).
+
+4. UNIT: 3d Republican Guards Regiment (include enemy unit if known).
+
+5. TIME: Item captured on 230230Z AUG 98 (always use ZULU time).
+
+6. EQUIPMENT: One laser target designator and sighting device (give best possible
+     description).
+
+                                  Figure E-1. Example of a SALUTE report.
+
+   PRELIMINARY TECHNICAL REPORT
+
+                            The PRETECHREP contains a general description of the CEE. It alerts the
+                            CMEC, other technical elements, and the tactical units to significant
+                            technical information of immediate tactical importance. It can also be used
+                            for reporting inventories at collection points through intelligence channels
+                            so that location, quantities, and type of equipment can be monitored.
+                            Figure E-2 shows an example of a PRETECHREP.
+
+                            Corps TECHINT teams and possibly CMEC teams will prepare a
+                            PRETECHREP on all CEM after preliminary screening. This report is first
+                            transmitted by radio directly to the Corps TECHINT LNE, from the captured
+                            equipment site. It is then forwarded to the CMEC. The report will normally
+                            be treated as unclassified during this transmission.
+
+                            The CMEC's technical analysts determine what is of importance from the
+                            report, and give the team instructions through the LNE on what items need
+                            more detailed reporting or evacuation. During this time the team will collect
+                            all documents off the CEE and will record—
+
+E-2
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+                                                      (Classification)
+PRETECHREP
+A. Type of equipment and quantity.
+B. Date and time of capture.
+C. Location (map reference).
+D. Capturing unit and circumstances of capture.
+E. Enemy formation from which captured and origin.
+F. Brief description with serial numbers and, if possible, manufacturer.
+G. Technical characteristics with an immediate value, including information or any
+photographs available.
+H. Time and origin of message.
+I. Present location of CEE.
+
+                                                      (Classification)
+
+                                   Figure E-2. Format for a PRETECHREP .
+                                 All radio frequencies of communication equipment.
+                                 All serial markings of important equipment.
+                                 The battle damage done to the CEE.
+                            These information requirements and actions will be taken at all CEE sites.
+                            The radio frequencies will be sent only by secured means.
+
+   COMPLEMENTARY TECHNICAL INTELLIGENCE REPORT
+
+                            The COMTECHREP is categorized by Types A, B, or C, depending on
+                            what type of CEE is being reported. The COMTECHREP contains a more
+                            detailed description of the CEE than the PRETECHREP. It alerts the
+                            JCMEC, other technical elements, and the tactical units to significant
+                            detailed technical information of immediate tactical and technical
+                            importance.
+
+                                                                                                                                         E-3
+
+
+---
+
+                                                                                                                                   FM 34-54
+
+                              Corps TECHINT teams, and possibly JCMEC teams, will prepare a
+                              COMTECHREP on all CEM that the JCMEC tells it to do. If the TECHINT
+                              collection team is out of contact with the JCMEC, it will follow the TECHINT
+                              collection plan and use its best judgment on reporting.
+
+                              This report is first transmitted normally by secure computer data
+                              transmission over landline to the Corps TECHINT LNE from the team's
+                              base. If possible, it is transmitted from the CEE site over secure computer
+                              or radio data transmission via satellite. It is then transmitted to the JCMEC.
+                              The report normally will be treated as classified during this transmission.
+
+                              All electronic images of the CEE and computer scanning of critical CED will
+                              be transmitted with the COMTECHREP. If data transmission is not on
+                              hand, the report will be transmitted by the nearest message center at no
+                              less than PRIORITY precedence.
+
+     COMPLEMENTARY INTELLIGENCE TECHNICAL
+     REPORT - TYPE A
+
+                              The COMTECHREP - Type A is provided to Air Force TECHINT
+                              personnel. Air Force teams usually are not on the scene of captured or
+                              downed enemy aircraft before destruction, recapture, or loss. Army
+                              TECHINT personnel usually are the first elements on the scene and will
+                              examine the CEM and submit a COMTECHREP - Type A. This report often
+                              constitutes the only information that can be provided to Air Force TECHINT.
+                              If naval CEM is acquired, the Type A report format can be modified for
+                              reporting such acquisition. Figure E-3 shows an example of a
+                              COMTECHREP - Type A.
+
+                                                    (Classification)
+
+ COMTECHREP - TYPE A
+
+ The COMTECHREP - Type A is used to report information about aircraft. The JCMEC normally
+ will require this report to be done right after the PRETECHREP on the aircraft.
+
+ A. Type of Aircraft, fixed wing (examples):
+       (1) Air-superiority (F-15C, SU-27B)
+       (2) Multi-role fighter (F-l6, MiG-29C)
+
+                                                       (Classification)
+                              Figure E-3. Format for a COMTECHREP - Type A.
+
+E-4
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+                                                      (Classification)
+
+    (3) Fighter-bomber (F-111, YAK-141)
+    (4) Close Air Support/Ground Attack (A-10, SU-25, SU-22)
+    (5) Bomber (B-2, TU-160)
+    (6) Observation (OV-10)
+    (7) Transport (C-130, IL-76)
+    (8) Airborne Early Warning (AWACS, Israeli PHZ)
+    (9) Electronic Warfare/Suppression of Enemy Air Defense (EA-63, F-4G)
+    (10) Special Mission (for example, Intelligence Collection)
+
+B. General Aircraft Configuration:
+    (1) Overall length
+    (2) Wingspan
+    (3) Wing sweep angle
+    (4) Variable geometry wings
+    (5) Number of vertical stabilizers and orientation
+    (6) Number of seats and orientation
+    (7) Number of engines
+    (8) Intake type and location
+    (9) Landing gear type and orientation
+    (10) Distinct control surfaces present (flaperons, elevons)
+    (11) Other distinguishing features (wing fences, wingtip winglets, antennas, canards)
+
+C. Identifying Marks:
+    (1) Fin flashes
+    (2) Paint scheme
+    (3) Individual or squadron markings
+
+D. Overall Condition:
+    (1) Describe extent of damage and salvageable parts
+    (2) Assess cause of crash, if possible
+    (3) Did Aircrew survive
+
+E. Cockpit Avionics (not all equipment is present in every aircraft):
+    (1) Type (brand and model) of airborne intercept, bombing and navigation, weather radars
+    (2) Type of communications gear, frequency settings if possible
+    (3) IFF or Transponder type, settings
+    (4) Type EA equipment
+    (5) Type of RWR gear
+    (6) Type of weapon guidance gear (laser designation equipment, TV guidance
+
+equipment)
+                                                      (Classification)
+
+                    Figure E-3. Format for a COMTECHREP-Type A (continued).
+
+                                                                                                                                         E-5
+
+
+---
+
+                                                                                                                                   FM 34-54
+
+                                                       (Classification)
+
+      (7) Type of IRSTS if present
+      (8) Are the following flight controls present: HUD, fly-by-wire controls, MFD, HOTAS (9)
+ Type of chaff or flare dispenser system
+
+ F. Armament:
+      (1) Number of cannons present, caliber, and location
+      (2) Bombs or rockets present
+      (3) Air-to-air missiles present
+      (4) Air-to-surface missiles present
+      (5) Number of launch rails or weapon mounts present and location
+
+ G. General remarks and special points or unusual features not mentioned.
+
+ H. Photos of at least:
+      (1) Airframe
+      (2) Engine
+      (3) All other items that could be of importance
+
+ I. Designation of TECHINT collection team conducting exploitation:
+
+ J. Time and origin of message:
+
+                                                       (Classification)
+                      Figure E-3. Format for a COMTECHREP - Type A (continued).
+
+     COMPLEMENTARY TECHNICAL INTELLIGENCE
+     REPORT - TYPE B
+
+                              The COMTECHREP - Type B is used to report information about explosive
+                              ordnance. TECHINT teams prepare these reports, normally done by the
+                              EOD member of the team. EOD companies will also prepare them in
+                              absence of TECHINT personnel or when required by higher headquarters.
+                              This report must be as complete and detailed as possible. EOD personnel
+                              prepare and send this report by the fastest means through an EOD control
+                              unit. The JCMEC coordinates with EOD battalions to receive copies of
+                              these reports as soon as possible.
+
+E-6
+
+
+---
+
+                                                         FM 34-54
+
+NOTE: Initial overall classification of EOD Reports. Non-nuclear (COMTECHREP B) will be in
+accordance with OPNAVINST S5513.3B-24.1.
+
+The initial classification of the COMTECHREP B with RSP is Confidential and will not be released
+to non-US personnel without the written consent of Commanding Officer, NAVEODTECHDIV.
+The release of RSP to non-EOD qualified personnel is forbidden.
+
+A complete and accurate report is essential; lives of other EOD personnel rely on this report, strive
+for the most complete report possible. However, when a detailed report might result in serious
+delay and the items are of extreme significance, complete as much of the report as possible.
+Items of EOD interest will at a minimum be photographed (with electronic imaging systems if
+available), X-rays (digital) and have detailed drawings with measurements (metric).
+Figure E-4 shows an example of a COMTECHREP - TYPE B.
+
+The unit completing the report will distribute copies of the COMTECHREP - TYPE B (EOD Report)
+to all deployed US EOD units and provide copies to:
+
+Commander              Commander
+USATECHDET             USAARDEC
+2008 Stump Neck Road   ATTN: AMSTA-AR-FSX
+Indian Head, MD 20640  Picatinny Arsenal, NJ 07806-5000
+
+Commanding Officer      Commander
+NAVEODTECHDIV           NGIC
+2008 Stump Neck Road    ATTN: IANGIC-RMS
+Indian Head, MD 20640   220 7th Street, NE
+                       Charlottesville, VA 22901-5396
+
+                                             (Confidential when filled in)
+
+COMTECHREP-TYPE B (EOD Report)
+
+Section I. (U) DESCRIPTIVE INFORMATION
+
+1. (U) IDENTIFICATION. See Figure for physical appearance and dimensions.
+NOTE: This will be an external view (when possible) and not show internal components.
+
+   a. (U) Designation. Ordnance designation (if known) with transliteration of foreign alphabet.
+Example: M45.
+
+   b. (U) Type. Used to summarize the key functional aspects of the items.
+Example: This is a High Explosive Rocket Assist (HERA) projectile.
+
+                            Figure E-4. Format for a COMTECHREP - TYPE B.
+
+                                                                                            E-7
+
+
+---
+
+                                                                                          FM 34-54
+
+     c. (U) Painting and Markings. Record all paintings, surface treatments, and markings.
+
+   d. (U) Features. Point out unique or distinguishing external features of the item that are not
+obvious in the drawings.
+
+2. (U) DESCRIPTION.
+
+   a. (U) Material. Include information pertaining to the major external components; for
+example, "plastic," "aluminum."
+
+     b. (U) Weight. Give the approximate weight if known.
+
+3. (U) HAZARDOUS COMPONENTS.
+
+ITEM  QTY            LOCATION          EXPLOSIVE           HE WEIGHT
+
+List Hazardous components (if known).
+
+4. (U) FUNCTIONING. Explain the operation of the ordnance, particularly the components of
+the ordnance involved with initiating the explosive train.
+
+5. (U) APPEARANCE. It must be known for certain that the item is unarmed if the item is to be
+treated as such.
+
+     a. (U) Unarmed Condition. Example: The item is unarmed if not fired.
+
+     b. (U) Armed Condition. Example: Consider the item armed if it has been fired.
+
+Section II. (C) EOD PROCEDURES. (EOD USE ONLY)
+
+6. (U) RENDER SAFE PROCEDURE FOR THE UNARMED CONDITION.
+
+     a. (C) PROPOSED: (Develop and record prior to completing RSP).
+
+     b. (U) Proceed to disposal.
+
+7. (U) RENDER SAFE PROCEDURE FOR THE ARMED CONDITION WARNINGS.
+
+     a. (C) PROPOSED: (Develop and record prior to completing RSP).
+
+   b. (U) Proceed to Disposal.
+continued:
+
+8. (U) DISPOSAL PROCEDURE.
+
+      Figure E-4. Format for a COMTECHREP - Type B (continued).
+
+E-8
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+   a. (U) Unarmed. Transport hazardous components to safe disposal area and dispose of by
+detonation.
+
+   b. (C) Armed.
+       (1) (Include quantity of explosives used to dispose of item).
+       (2) Detonate remotely.
+                                             (Confidential when filled in)
+                    Figure E-4. Format for a COMTECHREP - Type B (continued).
+
+   COMPLEMENTARY TECHNICAL INTELLIGENCE
+   REPORT - TYPE C
+
+                            The COMTECHREP - Type C is used to report items not reported under
+                            COMTECHREP (Types A and B). COMTECHREP - Type C is submitted
+                            as soon as possible. Figure E-5 shows an example of a COMTECHREP -
+                            Type C.
+
+                                                      (Classification)
+COMTECHREP - TYPE C
+A. Date found and location (map reference).
+B. Type of equipment and quantity.
+C. Origin.
+D. Description with distinguishing marks (additional details).
+E. Condition of equipment.
+F. Technical characteristics of immediate tactical value (additional details).
+G. Recommended disposal.
+H. Name plates photographed.
+I. Photographs taken.
+
+                                                      (Classification)
+                            Figure E-5. Format for a COMTECHREP - Type C.
+
+                                                                                                                                         E-9
+
+
+---
+
+                                                                                                                                   FM 34-54
+
+                                                       (Classification)
+
+ J. Other information.
+
+ K. Designation of TECHINT collection team doing this initial exploitation.
+
+ L. Time and origin of message.
+
+                                                       (Classification)
+                      Figure E-5. Format for a COMTECHREP - Type C (continued).
+
+     DETAILED TECHNICAL REPORT
+
+                              The DETECHREP normally is prepared at the JCMEC by the Exploitation
+                              Company, with the assistance of the national S&TI analysis personnel at
+                              the JCMEC. The DECTECHREP normally is classified. The CM&D
+                              section of the Exploitation Company sends the DETECHREP through the
+                              JTIB to the national S&TI community. They also send a summary of the
+                              report to Theater units.
+
+     TECHNICAL INTELLIGENCE UPDATE REPORT
+
+                              The TECHINT Update Report is a one- to two-paragraph report on an item
+                              of equipment that has an impact on tactical operations. The report comes
+                              from information provided in PRETECHREPs and COMTECHREPs, and is
+                              unclassified. The goal of the report is to reach the lowest level—the
+                              soldier—with information of value to the soldier. The CM&D section of the
+                              Operations Company sends the report by electronic message and
+                              computer data transmission.
+
+     TECHNICAL INTELLIGENCE SUMMARY
+
+                              The TECHINT Summary is a collection of information on more than one
+                              item of equipment that has an impact on theater tactical operations. The
+                              information comes from PRETECHREPs and COMTECHREPs from over a
+                              period of time or from a large CEE location. The report normally is
+                              unclassified, but if put into an overall intelligence summary, it can be
+                              classified. The CM&D section of the Exploitation Company sends the
+                              report by electronic message and computer data transmission to the JTIB.
+                              The JTIB then makes dissemination to the lowest possible level with JTF
+                              C3I assets.
+
+E-10
+
+
+---
+
+                                                                                                                           FM 34-54
+
+TECHNICAL INTELLIGENCE REPORT
+
+                       The TIR is a critical report which goes to the highest levels of the
+                       intelligence hierarchy. The report comes from information from
+                       PRETECHREPs, COMTECHREPs, and DETECHREPs. This report is
+                       always classified and follows the format in DIAM 58-13. The CM&D section
+                       sends TIRs by electronic message to the JTIB. The JTIB disseminates
+                       them to the highest and lowest intelligence units and agencies possible.
+
+                                                                                                                                  E-11
+
+
+---
+
+                                                 FM 34-54
+
+                                     Appendix F
+       COLLECTION AND EXPLOITATION REQUIREMENTS
+INTRODUCTION
+
+                       This appendix includes guidance on how to develop a TECHINT collection
+                       plan, and a listing of general exploitation categories regarding items of
+                       interest to battlefield TECHINT. It is included only as a field guide, and is
+                       not an all-inclusive exploitation plan.
+
+TECHINT COLLECTION PLAN GUIDANCE
+
+                       TECHINT elements are a very limited resource requiring specific collection
+                       planning to be effective. The most critical TECHINT items for collection are
+                       found in the TECHINT Appendix to the OPLAN or OPORD. The following
+                       steps help determine pertinent items in the collection plan before it is
+                       accepted.
+
+                       STEP 1. Identify the equipment OB for the threat; for example, items such
+                       as individual soldier's equipment, maps, small arms, heavy weapons, and
+                       explosives. Also include every type of equipment the threat could have on
+                       the battlefield. This is an ongoing effort, with the OB always being updated.
+                       In addition to the collection plan, include overlays of locations of ASPs,
+                       maintenance points, SAMs, communications centers, and other locations
+                       that contain quantities of equipment for collection.
+
+                       STEP 2. In coordination with DIA, national S&TI requirements, and Theater
+                       and Corps PIR and IR, the TECHINT unit prioritizes collection of items from
+                       the OB. If coordination is not possible, the equipment that is the greatest
+                       threat to the conduct of tactical operations is prioritized.
+
+                       STEP 3. The DOD Foreign Acquisition List is used to guide TECHINT
+                       priorities. These collection priorities are published in the Intelligence Annex
+                       to the OPORD in the form of a collection plan. As collection takes place,
+                       the updated collection plan is then sent to TECHINT and theater units in
+                       message format.
+
+                       STEP 4. The TECHINT collection requirements are then cross-referenced
+                       to the known threat OB. TECHINT elements are then tasked, if possible,
+                       with specific collection of items from the threat units that they are facing. In
+                       addition, the Corps TECHINT LNE coordinates with the Corps G2 to give
+                       specific collection requirements to the Corps units. The JTIB coordinates
+
+                                                                                                                                    F-1
+
+
+---
+
+FM 34-54
+
+          with the Theater J2 to give collection requirements to theater units such as
+          Special Operations units.
+
+          STEP 5. In addition to the TECHINT collection priority list for equipment,
+          TECHINT elements are tasked to collect, inspect, or develop the following
+          items:
+
+               Threat equipment manuals or documents.
+
+               Threat installations.
+
+               Listing of TECHINT questions for the interrogation of EPWs.
+
+               CB laboratories and samples.
+
+          STEP 6. The 203d MI Battalion, in coordination with national S&TI
+          agencies, maintains contingency TECHINT collection plans for possible
+          threat forces. When a TECHINT element deploys, it is given the TECHINT
+          collection plan in order to prepare and train for operations.
+
+     EXPLOITATION PLANS AND REQUIREMENTS
+
+             GENERAL EXPLOITATION PLAN:
+
+                            The JCMEC is expected to conduct this level of exploitation on all
+                            equipment in theater. The Corps RC TECHINT sections at the CMEC
+                            conduct this level on equipment that matched the MOSs in their elements.
+                            The TECHINT collection teams are prepared to do this, but normally would
+                            not do it on a large scale.
+
+                            Preliminary requirements for exploitation include—
+
+                                 Preliminary photographs of CEM outside and inside (to shows status of
+                                 equipment before assessment).
+
+                                 An inventory.
+
+                                 — Examine system for any written information (documents, operator
+                                      manuals, maps), markings, data plates, or operating instructions.
+
+                                 — Identify all individual equipment components requiring separate
+                                      analysis.
+
+                                 If equipment requires further analysis beyond initial exploitation, begin
+                                 planning for further detailed exploitation with national S&TI personnel.
+
+F-2
+
+
+---
+
+                                                                                                 FM 34-54
+     The exploitation, with finished report, is accomplished within 48 hours.
+The JCMEC normally is the primary center for all detailed exploitations in
+theater.
+Once the general exploitation is accomplished, a more detailed exploitation
+begins. This is in coordination with the national S&TI SME at the JCMEC.
+The plan is provided by the national S&TI community.
+The JCMEC maintains in the Exploitation Company detailed exploitation
+plans for collection priority equipment. These plans are part of the
+contingency database for the threat equipment. The time limit for a detailed
+exploitation is determined by the tactical needs of the theater and national
+requirements.
+
+                                                                                                          F-3
+
+
+---
+
+                                   FM 34-54
+
+                       Appendix G
+FOREIGN LANGUAGE TEXT RECOGNITION
+
+INTRODUCTION
+
+                       When TECHINT personnel are able to correctly identify foreign languages
+                       used in documents or equipment, it has two immediate benefits. First, it
+                       helps identify the equipment or type of document and where or who is using
+                       it. Second, it ensures that TECHINT personnel request the correct
+                       linguistic support.
+
+                       This appendix contains language identification hints that will enable
+                       TECHINT personnel to quickly identify some of the many languages used
+                       in documents, on equipment plates, and on other materiel. TECHINT
+                       personnel can speed up the entire battlefield TECHINT process by
+                       following the guidance herein.
+
+                       The language identification hints were compiled by NGIC. There are
+                       thousands of languages and dialects in use in the world today; therefore,
+                       this material is not complete. The following include examples of the use of
+                       language identification during TECHINT operations.
+
+                            A TECHINT team discovers an ADA system that looks like a Russian
+                            ZPU-4 ADA gun. But on closer examination, the technical analysis
+                            identifies Chinese characters on a data plate and on the tires. This
+                            could mean that this ADA gun is from China, and this observation
+                         needs to be reported to TECHINT elements and to the CMEC.
+
+                            TECHINT personnel find a document in Arabic, but the country they are
+                            in speak and write only Spanish. This document could be of
+                            intelligence value and would require being reported to TECHINT
+                            elements and to document exploitation (DOCEX) personnel.
+
+LANGUAGE SYSTEMS
+
+                       The world's written languages can be divided into alphabet languages and
+                       character languages. The only present-day character system is the
+                       Chinese system, which has been borrowed by other languages. But there
+                       are many alphabets. The most important alphabets currently in use are—
+
+                            The Roman alphabet (used by English and many other languages).
+
+                                   G-1
+
+
+---
+
+FM 34-54
+
+               The Cyrillic alphabet (used by Russian, some other Slavic languages,
+               and most of the minority languages of Russia).
+
+               The Arabic alphabet (used in the Middle East and other areas
+               influenced by Islam).
+
+          Other alphabets exist, but their use is more restricted. (Figure G-1 shows
+          some of these spoken languages and some of the locations where they are
+          spoken.)
+
+               The Hebrew alphabet for Hebrew and Yiddish; the Greek alphabet for
+               Greek.
+
+               The Devanagari alphabet for Sanskrit and other languages of India.
+
+          In addition, there are special alphabets for languages like Georgian,
+          Telugu, the other Dravidian languages in southern India, Laos, and other
+          languages in southeast Asia, and Amharic in Ethiopia.
+
+          Illustrations of the main alphabets are normally available in standard
+          desktop dictionaries. Many unusual scripts are illustrated in Romanization
+          Guides, revised and enlarged edition, put out by the Office of the
+          Geographer, Directorate for Functional Research, Bureau of Intelligence
+          and Research, US Department of State, and the US Board on Geographic
+          Names, dated 1 April 1972.
+
+          Reliable detailed information about foreign languages for people who
+          cannot actually read them is available in manuals compiled for professional
+          librarians. These manuals can be found at your local library.
+
+     ROMAN ALPHABET LANGUAGES
+
+                            The most complex language recognition problem is to distinguish between
+                            the numerous languages that use the Roman alphabet. The 26-letter
+                            alphabet is used here as the basic alphabet. The other Roman alphabet
+                            languages use these same letters, but many use fewer than 26 and a few
+                            use more.
+
+                            Unfortunately, just because a letter is not used is not a very useful
+                            language recognition criterion. This is because it is difficult to know
+                            whether a letter is absent because it is never used or because it simply was
+                            not needed to write the text in question.
+
+G-2
+
+
+---
+
+                                 FM 34-54
+
+Language               Location
+
+Chinese                People's Republic of China, Taiwan, Hong Kong, Thailand
+English                United States, Canada, Great Britain, Ireland, Australia, New Zealand
+Spanish                Spain, South America, Central America, Mexico
+Hindi                  North Central India
+Russian                Soviet Union, Europe
+Arabic                 Saudi Arabia, Yemen, South Yemen, United Arab Emirates, Oman,
+                       Kuwait, Bahrain, Qatar, Iraq, Syria, Jordan, Lebanon, Egypt,
+Portuguese             Sudan, Libya, Tunisia, Algeria, Morocco
+Japanese               Portugal, Brazil, Africa, Asia
+German                 Japan
+Urdu                   Germany, Austria, Switzerland
+French                 Pakistan, India
+                       France, Belgium, Switzerland, Canada, Morocco, Tunisia, Algeria,
+Korean                 Lebanon, Syria, Laos, Cambodia, Vietnam
+Italian                Korea, China, Japan
+Vietnamese             Italy, Switzerland
+Turkish                Vietnam
+Persian (Farsi, Dari)  Turkey, Bulgaria, Greece, Cyprus
+Polish                  Iran, Afghanistan (Tadzhik, USSR)
+Ukrainian              Poland, United States, Soviet Union
+Rumanian               Ukrainian SSR
+Serbian (Croatian)     Romania, Moldavian SSR
+Pashto                 Yugoslavia
+Czech (Slovak)         Afghanistan, Northwest Pakistan
+Dutch                  Czechoslovakia
+Hungarian              Netherlands, Suriname, Belgium
+Danish (Norwegian)     Hungary, Romania, Czechoslovakia, Yugoslavia
+Bulgarian              Denmark, Norway
+Swedish                Bulgaria
+Belorussian            Sweden
+Finnish                Belorussian SSR
+Albanian               Finland
+Lithuanian             Albania, Yugoslavia
+Latvian                Lithuanian SSR
+Slovenian              Latvian SSR
+Estonian               Slovenia (Northwest Yugoslavia)
+Macedonian             Estonian SSR
+                       Macedonia (Yugoslavia)
+
+Figure G-1. A partial list of spoken languages and locations where they are spoken.
+
+                                                                                              G-3
+
+
+---
+
+FM 34-54
+
+               Five of the letters <a, e, i, o, u> are referred to collectively as "vowels,"
+               while the rest are called collectively "consonants." The rules designating
+               letters as vowels or consonants vary from language to language. Some
+               languages, for instance, consider <l>, <r>, or <y> to be vowels. Most of the
+               Roman alphabet languages modify letters by putting extra marks above, in,
+               or below them. These marks are called diacritics. They are among the
+               best criteria for language recognition.
+
+     DIACRITICS
+
+                            Figure G-2 shows the principal diacritics used by various languages to
+                            modify the Roman alphabet. Figure G-3 shows the languages that use
+                            these diacritics. It also summarizes the occurrence of various diacritics in
+                            selected Roman alphabet languages and gives examples of letters with
+                            diacritics on them. The diacritics are divided into three groups, depending
+                            on whether they are written above, in, or below the letter. They are given
+                            standard names for convenience; their actual names vary from language to
+                            language.
+
+               DIACRITICS ABOVE THE LETTER
+
+Grave     < >  Acute    <>       Circumflex      <^>
+          <V>                                    <->
+Hacek          Breve    < >      Macron          <.>
+                        <O>
+Tilde     <~>  Krouzek           Dot
+Dieresis <u>
+               Double Acute <_>  Apostrophe      <'>
+
+Question <?>   Umlaut   <ä>      Back Apostrophe <ë>
+
+               DIACRITICS IN THE LETTER
+
+Bar       <->  Slash    </>      Horn            <>
+
+               DIACRITICS UNDER THE LETTER
+
+Cedilla   <î>  Ogonek   < >      Comma           <,>
+
+               Low Dot  <.>
+
+               Figure G-2. Table of diacritics.
+
+     WESTERN EUROPEAN LANGUAGES
+
+                            Western European languages include those commonly called Romance
+                            and Germanic languages.
+
+G-4
+
+
+---
+
+                                                                              FM 34-54
+
+<`> grave:                 DIACRITICS WRITTEN ABOVE THE LETTER
+< >acute:             French, Italian, Portuguese, Vietnamese, e.g., <à>
+                      Croatian, Czech, French, Greek, Hungarian, Italian, Polish <N, O, S,
+<^> circumflex:
+                         C, Z>, Slovak, Spanish, Portuguese, Vietnamese; e.g., <á, ó>
+<v> hacek:            French, Italian, Portuguese, Rumanian, Vietnamese, Turkish, e.g.,<â,
+
+< > breve:               ô>
+< > macron:           Croatian, Czech, Estonian, Latvian, Lithuanian <S, Z, C>,Slovak,
+<~> tilde:
+<O> krouzek:             Slovenian, e.g., < , >
+<.> dot:              Rumanian, Turkish, Vietnamese; e.g., < , >
+<u> dieresis:         Latvian, Lithuanian; e.g., < , >
+                      Estonian, Portuguese, Spanish, Vietnamese; e.g., <ã, ñ>
+<"> double acute:     Czech, Danish, Norwegian, Swedish; e.g., <å, e>
+<'> apostrophe:       Lithuanian <e>, Polish, Turkish, e.g., < , >
+<?> question:         Albanian, Estonian, Finnish, French, German, Hungarian, Slovak,
+<{> back apostrophe:
+                        Portuguese <ü>, Spanish, Swedish, Turkish; e.g., <ä, ë>
+                      Hungarian; e.g., < , >
+                      Czech, French, Slovak; e.g., < , >
+                      Vietnamese; e.g., <a, e>
+                      Latvian; e.g., <g>
+
+<-> bar:                     DIACRITICS WRITTEN IN (OR TOUCHING) THE LETTER
+</> slash:               Croatian, Polish, Vietnamese; e.g., <d,1, a>
+<»> horn:                Danish, Norwegian, Polish; e.g., <1, 0>
+
+< > cedilla:             Vietnamese; e.g., < , õ>
+<O> ogonek:
+<,> comma:                   DIACRITICS WRITTEN UNDER THE SEAT
+<.> low dot:             Albanian, French, Portuguese, Turkish, e.g., <ç, >
+                         Lithuanian
+                         Latvian, Rumanian; e.g., <k, >
+                         Vietnamese; e.g., <a, e>
+
+              Figure G-3. The occurrence of diacritics in various languages.
+
+DISTINGUISHING FRENCH, GERMAN, AND DUTCH
+
+FRENCH:
+
+               French is generally easiest to recognize because it is so familiar and has
+               so many words in common with English. French uses acute < > and
+               grave <`> on <e>. Acute is not used on any other letters, but grave is used
+               occasionally on <a> and <u>. Circumflex <^> is used on <a, e, i, o, u> and
+               cedilla < > is used under <c>. The French commonly omit
+               diacritics over capital letters and in typescript. Definite article forms: le, la,
+               les. French also uses a trëma <oe, ï, ë>.
+
+                                                                                            G-5
+
+
+---
+
+FM 34-54
+
+              GERMAN:
+                           German uses the umlaut <u> on <a, o, u>. This is the language's only
+                              diacritic. German also uses a special letter, the Eszett < >, which does not
+                              begin a word. In regular prose, capitalization is rather frequent since all
+                              nouns are capitalized. Definite article forms: der, die, das, des, dem, den.
+
+               DUTCH:
+
+                              Dutch can be mistaken for German; however, Dutch does not capitalize its
+                              nouns in regular prose. Dutch adopted a few diacritical forms from the
+                              French language. These include: acute <een>; grave <crepe>;
+                              apostrophe <'t, z'n, d'r, etc.>; dieresis <België>; and sometimes the cedilla
+                              < >. Definite article forms: de and het.
+
+     DISTINGUISHING SPANISH, PORTUGUESE, AND ITALIAN
+
+                              For Spanish, look for acutes occasionally over vowels, tilde <~> over <n>
+                              but not over vowels, no grave accents, and words that end in <n>. For
+                              Portuguese look for the tilde over <a> and <o> but not over <n>, the cedilla
+                              under <c>, and some words that end in <m>. For Italian look for occasional
+                              graves over vowels, no tildes or cedillas, and numerous doubled
+                              consonants; for example, <tt>, <gg>, <pp>, <vv>, and so forth. Of course,
+                              look for the definite articles; they are frequently used and mostly different in
+                              the three languages.
+
+               SPANISH:
+
+                              Spanish uses acute < > on vowels <a, e, i, o, u> and tilde <~> on <n>.
+                              Since the acute marks irregular word accent, there will normally be no more
+                              than one acute per word and it will appear on the last vowel or third from
+                           last vowel. Dieresis <u> is used occasionally over <u>. Grave <`> and
+                              circumflex <^> are not used. Definite article forms: el, la, los, las.
+
+               PORTUGUESE:
+
+                              Portuguese uses acute <'>, grave <'>, and circumflex <^> occasionally over
+                              vowels, and tilde <~> frequently over <a> and <o>. Cedilla < > is used
+                           under <c>. Dieresis <u> is used over vowels occasionally. Definite article
+                              forms: o, os, a, as.
+
+G-6
+
+
+---
+
+                                                                                                                           FM 34-54
+
+        ITALIAN:
+
+                       Italian uses acute < > on <e> and grave <`> on vowels <a, e, i, o, u> to
+                       indicate unusual accent. Some type fonts may substitute circumflex <^> for
+                       grave. Normally there will be no more than one grave per word, and it will
+                       appear on the last vowel or third from last vowel. Definite article forms: il,
+                       lo, i, gli, la, le.
+
+NORTHERN EUROPEAN LANGUAGES
+
+                       Northern European languages include North Germanic and Slavic, as well
+                       as unique languages of the Finno-Ugric family. The distinguishing features
+                       of each are described below.
+
+        SWEDISH:
+
+                     Swedish uses dieresis <u> on <a> and <o> and krouzek <O> on <a>. A
+                       frequent word is och; meaning "and."
+
+        DANISH AND NORWEGIAN:
+
+                       Danish and Norwegian use the same alphabet as Swedan. They use
+                       krouzek <O> on <a> and slash </> on <o>, and a special letter, the ae
+                       digraph < E, æ>. Written Danish and Norwegian are difficult to tell apart,
+                       but anyone who can read one can make sense out of the other. A frequent
+                       word in both languages is og; meaning "and."
+
+        FINNISH:
+
+                       Finnish is very different from the other northern European languages, but it
+                     is similar to Estonian. Finnish uses dieresis < u> on <a> and <o>. About 60
+                       percent of the average text consists of vowels (including <y>). Look for
+                       frequent double vowels; <aa>, <ee>, <ii>, etc.
+
+        ESTONIAN:
+
+                     Estonian uses tilde <~> on <o>, dieresis < u> on <a, o, u>, and hacek <V>
+                       on <s, z> infrequently in foreign words. At first glance Estonian looks very
+                       much like Finnish, and both are of the Finno-Ugric family. To tell the two
+                       languages apart, look for <y> (Finnish) or <u> with dieresis (Estonian).
+
+        HUNGARIAN:
+
+                     Hungarian uses acute < > on <a, e, i, o, u>, dieresis <u> on <o, u>, and
+                       double acute < > on <o, u>. These three diacritics are very frequent and
+                       should all appear in an average paragraph. Definite article forms: a, az.
+                       Although not Northern European, Hungarian is listed here because it is in
+                       the Finno-Ugric family.
+
+                                                                                                                                   G-7
+
+
+---
+
+FM 34-54
+
+     ROMAN ALPHABET SLAVIC LANGUAGES
+
+                   It is often difficult to distinguish between the Roman alphabet Slavic
+                   languages. Of these languages, Polish is easiest to distinguish from the
+                   rest because it does not use hacek < V>, whereas the others do; and
+                   because it uses <w> frequently and <v> almost never, whereas the
+                   opposite situation occurs in the other languages.
+
+                   The languages of Czechoslovakia—Czech and Slovak—can be
+                   distinguished from the Roman alphabet languages of the former
+                   Yugoslavia, Croatia, and Serbia because Czech and Slovak use acute <'>
+                   on vowels (including <y>) and Croatian and Slovenian do not. Acutes are
+                   so frequent in Czech and Slovak that the absence of acutes in an average-
+                   length sentence can be taken as a valid negative test.
+
+                   The presence of the diacritics listed above for Croatian indicate that it may
+                   be Croatian; but there is no convenient way to test for Slovenian against
+                   Croatian. If in doubt between Croatian and Slovenian, assume Croatian
+                   unless it can be established that the text was published in Ljubljana.
+
+          POLISH:
+
+                   Polish uses acute < > on <c, n, o, s, z>; ogonek < > on <a, e>; bar <->
+                   (occasionally depending on font as a substitute for slash) on <L,1, Z>, such
+                   as <L, 1, Z>; and < > dot on <z>. Letters <w> and <z> are very frequent in
+                   Polish, and the <v> almost never occurs.
+
+          CZECH:
+
+                   Czech uses acute < > on <a, e, i, o, u, y>, hacek <V> on <c, d, e, n, r, s, t,
+                   z>, krouzek <O> on <u>. The letter <r> with hacek is frequent in Czech and
+                   lacking in Slovak.
+
+          SLOVAK:
+
+                   Slovak uses acute < > on <a, e, i, l, r, o, u, y>; dieresis <u> on <a>;
+                   circumflex <^> on <o>; hacek <V> on <c, d, l, n, s, t, z>; and apostrophe <'>
+                   on <d, l, t>. The digraph <ie> is fairly frequent in Slovak and very
+                   infrequent in Czech. Slovak is used in eastern Czechoslovakia. Suspect
+                   Slovak if Bratislava is the origin.
+
+          CROATIAN:
+
+                   Croatian uses acute < > on <c>, hacek <V> on <c, s, z>, and bar <-> on
+                   <d>. Croatian is used in northern and coastal Yugoslavia around the city of
+                   Zargreb.
+
+G-8
+
+
+---
+
+                                                                                                                           FM 34-54
+
+        SLOVENIAN:
+
+                       Slovenian uses hacek <V> on <c, s, z> and no other diacritics. Slovenian is
+                       used in extreme northwest Yugoslavia around the city of Ljubljana.
+
+        RUMANIAN:
+
+                       Rumanian uses breve <V> on <a>, circumflex <^> on <a, i>, and comma
+                       <,> under <s, t>.
+
+        ALBANIAN:
+
+                     Albanian uses dieresis <u> on <e> and cedilla < > under <c>. The <e>
+                       with dieresis is very common. Another recognition mark of Albanian is the
+                       use of <q> without <u>.
+
+        LITHUANIAN:
+
+                       Lithuanian uses hacek <V> on <c, s, z>, macron <-> on <u>, dot < > on <e>,
+                       and ogonek < > under <a, e, i, u>. The frequent occurrence of ogonek is a
+                       good recognition sign for Lithuanian.
+
+        LATVIAN:
+
+                       Latvian uses hacek <V> on <c, s, z>, macron <-> on <a, e, i, o, u>, and
+                       comma <,> under <k, l, n>. Comma is also used under <G> (upper case
+                       letter only), while back apostrophe <`> is used on <g> (lower case letter
+                       only). In this case the two marks are variant forms of the same diacritic.
+                       The macrons and commas are a good recognition sign for Latvian.
+
+OTHER ROMAN ALPHABET LANGUAGES
+
+                       Turkish and Vietnamese use the Roman alphabet with unusual diacritics.
+
+        TURKISH:
+
+                     Turkish uses breve <V> on <g>, dieresis <u> on <o, u>, and cedilla < > on
+                       <c>. Turkish has two forms of the letter <i>. One has the upper case < >
+                       and a corresponding lower < > that looks like an "i" without the dot.
+                       The other letter has the lower case form <i> (the same as English) and a
+                       corresponding upper case form that looks like English " " with a dot < >.
+                       Turkish also uses circumflex <^ > <latif> <lugat>.
+
+                                                                                                                                   G-9
+
+
+---
+
+FM 34-54
+               VIETNAMESE:
+                              Vietnamese uses a very complex system of diacritics. It uses breve < V> on
+                              <a>, circumflex <^> on <a, e, o>, horn <´> on <o, u>, and bar <-> on <d>.
+                              In addition to these, the following five diacritics are used with vowels to
+                              indicate tone: grave <`>, acute < >, low dot <.>, question <?>, and tilde
+                              <~>. Vowels with breve, circumflex, and horn can, and often do, have a
+                              tone diacritic. So, in Vietnamese, one letter can have two diacritics on it.
+
+     CYRILLIC ALPHABET LANGUAGES
+
+                              The Cyrillic alphabet is used to write Russian, Ukrainian, Belorussian, and
+                              many minority languages from the former Soviet Union. It is also used to
+                              write Bulgarian and Serbian. The Cyrillic alphabet and the Roman alphabet
+                              are both derived from forms of the Greek alphabet so there is a general
+                              resemblance. Some Cyrillic letters seem to Americans to be backwards or
+                              oddly shaped. Figure G-4 shows the characters and diacritics not found in
+                              Russian. With the exception of one letter, , which is only used sometimes
+                              in Russian, none of these letters appear in the normal Russian text.
+
+               SLAVIC LANGUAGES:
+                              Figure G-4 gives the simplest recognition guide for identifying documents
+                              that look like Russian but are actually other Slavic languages or minority
+                              languages.
+
+G-10
+
+
+---
+
+                                                                                                                                   FM 34-54
+
+TRANSLITERATION:
+
+                              Figure G-5 shows the different forms of the Cyrillic alphabet for five
+                              principal Cyrillic alphabet languages and the recommended transliterations
+                              for each letter. Pay particular attention to the transliteration of Russian.
+                              These equivalents must be used when reporting on materiel bearing
+                              Russian nameplates. DO NOT REPORT ON FOREIGN EQUIPMENT
+                              AND DOCUMENTS USING THE ORIGINAL CYRILLIC CHARACTER.
+                              The Figure classifies each letter as "C" for consonant or "N" for
+                              nonconsonant.
+
+               RUSSIAN:
+
+                              Russian is the most frequently encountered Cyrillic alphabet language and
+                              should always be the prime suspect. The key to recognizing Russian is the
+                              fact that it uses both letter 12 and letter 39 and does not use letter 13 at all.
+                              (See Figure G-5.)
+
+               BULGARIAN:
+
+                              Bulgarian is perhaps the second most frequently encountered Cyrillic
+                              alphabet language and the most difficult for the nonspecialists to
+                              differentiate from Russian. Bulgarian uses fewer letters than Russian.
+
+                              NOTE: In the following discussion, the letters are referred to by their
+                              numbers on the chart in Figure G-5.
+
+                              For example, a letter used often in Russian and never in Bulgarian is the
+                              letter 39; however, the way to be sure that it is not Bulgarian is to see if the
+                              letter 38 comes before a consonant or "C" letter. Note that letter 38 is
+                              frequent in Bulgarian and rare in Russian; moreover, when letter 38 occurs
+                              in Russian, it always occurs before an "N" letter.
+
+                              Proper transliteration is very important. When an analyst reads a Russian
+                              nameplate and writes down P-105A, but it is actually an R-105D (P is not P,
+                              rather "R," and < > is wrongly symbolized by A); then it results in incorrect
+                              reporting.
+
+                              The column in Figure G-5 marked "Other" is not supplied with any
+                              transliteration equivalents. This column contains similar letters that are
+                              encountered in the written languages of various minority nationalities in the
+                              former USSR. These languages belong mainly to the Uralic family or the
+                              Altaic family, and a Russian linguist will be unable to make any sense out of
+                              them. Recognition of any documents in these languages as non-Slavic is a
+                              helpful first step in DOCEX.
+
+                                                                                                                                         G-11
+
+
+---
+
+FM 34-54
+G-12
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+NOTES:
+
+1. The letters are numbered sequentially for ease of reference. The alphabetic order given is
+the convenient one, which is not necessarily the traditional one.
+
+2. The letters marked "N" are nonconsonants; and the letters marked "C" are consonants.
+
+3. Letters 7 and 8 have alternate transliterations for Russian and Belorussian. In all cases, the
+first transliteration is used when the letter occurs after a "C" letter; the second transliteration is
+used in all other cases, including when the letter begins the word.
+
+4. Letter 8 is not considered a separate letter and its dieresis is often omitted.
+
+5. Letter 4 is pronounced something like "h" in Ukrainian and Belorussian and "h" is often the
+recommended transliteration. However, transliteration "g" is recommended here to eliminate
+confusion with the letters transliterated "sh" and "zh."
+
+6. The "Other" category refers to various minority languages in the Soviet Union, many of
+which are Uralic or Altaic languages.
+
+                  Figure G-5. Cyrillic alphabet and transliteration chart (continued) .
+
+             UKRAINIAN:
+
+                            Ukrainian is distinguished by the use of letters 12 and 13 and the non-use
+                            of letter 39. Letters 9 and 14 also are unique to Ukrainian, but their
+                            frequency is low and their absence may be accidental. When Ukrainian is
+                            identified, pay particular attention to the transliteration of letter 12. The
+                            recommended transliteration for letter 4 is "g" even though its pronunciation
+                            is closer to English "h."
+
+             BELORUSSIAN:
+
+                            Belorussian is distinguished by the use of letters 13 and 39 and the
+                            non-use of letter 12. Letter 30 is unique to Belorussian, but its frequency is
+                            not high enough to use it as an identification sign. As in Ukrainian, letter 4
+                            in Belorussian is transliterated "g" and pronounced like "h."
+
+             SERBIAN:
+
+                            Serbian is spotted easily by the several unique letters it uses: letters 6, 16,
+                            19, 22, 28, and 35. Serbian is conventionally transliterated into Croatian,
+                            and this is what the chart gives. The diacritics of the Croatian script are
+                            discussed in the "ROMAN ALPHABET LANGUAGES" section above.
+
+                                                                                                                                       G-13
+
+
+---
+
+FM 34-54
+
+               MACEDONIAN:
+
+                              Macedonian is spoken by perhaps two million people in southeastern
+                              Yugoslavia. The Macedonian alphabet is similar to the Serbian, except that
+                              letters 6 and 28 are not used and three other letters are added. The added
+                              letters are letter 4 with an acute < >, letter 17 with an acute < >, and <S, s>.
+                              Macedonian language documents are rare.
+
+     ARABIC ALPHABET LANGUAGES
+
+                              The Arabic alphabet has generally followed the spread of Islam and has
+                              been used to write numerous languages, some of which (notably Turkish)
+                              no longer use it. This alphabet, appropriately modified, currently is used for
+                              all the dialects of Arabic and for Persian, Urdu, and other Indo-Iranian
+                              languages, such as Dari, Pashto, and Kurdish. The Russian and Cyrillic
+                              alphabets seem even more related to one another when compared to
+                              Arabic.
+
+               ARABIC AND PERSIAN:
+
+                              The best distinction a nonlinguist can make is to separate Persian
+                              documents from Arabic documents. Persian linguists cannot read Arabic,
+                              and vice versa, unless they know both languages.
+
+               ARABIC:
+
+                              Arabic is spoken over a large area extending from Morocco on the west to
+                              borders of ancient Persia (modern Iran) on the east. The spoken language
+                              varies widely in this area, but the written language is fairly standard. Only a
+                              specialist could hope to distinguish the varieties of Arabic, but a sharp-eyed
+                              nonlinguist can learn to recognize Arabic and distinguish it from Persian.
+                              The best indication is perhaps the presence of letter 32, which is not used
+                              in Persian. The next best indication is perhaps the frequent occurrence of
+                              the definite article < >, which is spelled with letter 1 (initial) and letter 27
+                              (initial). A final characteristic is the absence of the special Persian letters:
+                              letters 3, 7, 14 , and 26. Since this is a negative indication, however, it
+                              cannot be used by itself to prove that a text is Arabic.
+
+               PERSIAN:
+
+                              Persian is used in Iran. It is indicated by the presence of the special
+                              Persian letters 3, 7, 14, and 26, and by the absence of letter 32. Other
+                              indications are a paucity of letter 1 and 27 combinations (the Arabic definite
+                              article) and a slightly different preference in numeral usage.
+
+G-14
+
+
+---
+
+                  FM 34-54
+
+ARABIC NUMERALS:
+
+             In school, the numerals used in the United States and most of the rest of
+             the world are often called "Arabic numerals," but these are not the same
+             forms used in Arabic alphabet languages. The real Arabic numerals are
+             illustrated in Figure G-6. This figure also shows Arabic and Persian
+             variants of the numerals along with their international equivalents. Unlike
+             the Arabic alphabet (which is, of course, read from right to left), ARABIC
+             NUMERALS ARE READ FROM LEFT TO RIGHT, THE SAME WAY AS
+             OUR OWN NUMERALS ARE READ.
+
+             Document collectors should familiarize themselves with the Arabic
+             numerals so they can read page numbers in collected documents and
+             properly reassemble documents that have come apart. Collectors should
+             remember that one of the results of the right-to-left orientation of the Arabic
+             alphabet is that the apparent "back" of a document is actually the front.
+
+             Figure G-7 illustrates the Arabic alphabet in its Arabic and Persian variants.
+             Notice that each letter has four forms, labeled "alone," "final," "medial," and
+             "initial." Notice that "initial" is to the right of "final." These column labels
+             indicate two of the main differences between Arabic script and Roman
+             script: First, the letters change in order to connect to other letters, and
+             second, THE SCRIPT IS WRITTEN FROM RIGHT TO LEFT.
+             The letters with asterisks by their numbers cannot connect to a following
+             letter. The initial form is used to begin a word or when the letter follows a
+             nonconnectable letter. The medial form is used after a connectable letter or
+             when it is used by itself; for example, to letter paragraphs in a document.
+
+DIACRITICS:
+
+             Another feature of the Arabic alphabet is the use of diacritics to differentiate
+             many of the letters. Figure G-8 illustrates the diacritics used in Arabic and
+             Persian.
+
+             Using Figures G-7 and G-8, note that letters 2, 3, 4, 5, 29, and (partially) 33
+             have the same base form with the following diacritics: high dot < >, letter
+             29; low dot <$>, letter 2; high double dot <¨>, letter 4; low double dot <..>,
+             letter 33, initial and medial only; high triple dot < ˆ>, letter 5; and low triple
+             dot <‡>, letter 3.
+
+             Letter 8 is the base form for another diacritic set: High dot < >, letter 9; low
+             dot <$>, letter 6; low triple dot <‡>, letter 7. Letter 10 is the base form, and
+             letter 11 adds high dot < >. Letter 12 is the base form. A Letter 13 adds
+             high dot < >, and letter 14 adds high triple dot < ˆ>. Letter 15 is the base
+             form and letter 16 adds high triple dot < ˆ>.
+
+                  G-15
+
+
+---
+
+FM 34-54
+
+                              Letters 17, 19, and 21 are the base forms for letters 18, 20, and 22
+                              respectively; the added diacritic for all three is high dot < >. Letters 23
+                              and 24 have approximately the same base form with high dot < > on letter
+                              23 and high double dot <¨> on letter 24. Letters 25 and 26 have the same
+                              base form. Letter 25 uses flag <´> on its initial and medial forms and
+                              hamza sign <À> on its final and alone forms.
+                              Letter 26 uses double flag < > on all its forms and hamza sign <¸> on its
+                              final and alone forms. Letter 31 is the base form, and letter 32 uses high
+                              double dot <¨>. For grammatical reasons, letter 32 is not used initially or
+                              medially.
+
+     SAMPLES OF ARABIC AND PERSIAN
+
+                              Figure G-9 gives a sample of printed Arabic. Note the frequent
+                              occurrences of letter 1 and letter 27: the definite article at word beginnings.
+                              Remember, words begin on the right. The seventh line from the top, for
+                              instance, has four obvious occurrences and two other occurrences in
+                              modified forms that have not been discussed here. There are 18
+                              occurrences of letter 32, at least one occurrence in every line except lines 9
+                              and 11 and four occurrences in lines 3 and 8.
+
+G-16
+
+
+---
+
+FM 34-54
+      G-17
+
+
+---
+
+FM 34-54
+
+                              Figure G-10 illustrates typewritten Arabic. Note that lines 1, 2 5, and 10
+                              begin (on the right) with the definite article (letter 1 and letter 27). There are
+                              20 other obvious occurrences of these letters at the beginning of words and
+                              several others that are less obvious. Lines 1, 2, and 9 end (on the left) with
+                              letter 32. Letter 32 occurs five other times in the sample. Arabic script
+                              permits some letters to be stretched in order to even out text on the left.
+                              The long lines at the left of the sample are instances of this.
+
+G-18
+
+
+---
+
+                                                                                                 FM 34-54
+
+Figure G-11 illustrates printed Persian. Note the double flags < >, two in
+the first line and eight more in the rest of the sample. Note the low triple
+dots <‡>, one in the first line and eight more in the rest of the sample.
+Neither of these diacritics occurs in Arabic.
+
+                                                                                                        G-19
+
+
+---
+
+FM 34-54
+
+      OTHER ARABIC ALPHABET LANGUAGES
+
+          DARI:
+
+                 Dari is used in Afghanistan and favored by the government. Since its
+                 written form is heavily influenced by Persian models, there is no easy way
+                 for the nonspecialist to distinguish it from Persian.
+
+          KURDISH, PASHTO, AND URDU:
+
+                 The other notable Arabic alphabet languages are Kurdish, Pashto, and
+                 Urdu. Kurdish is spoken by the Kurdish tribes of Iraq, Iran, and Turkey.
+                 Pashto is used widely in Afghanistan, and Urdu is the predominant
+                 language of Pakistan. These languages contain letters and diacritics not
+                 listed for Arabic or Persian. If one of these languages is suspected, refer
+                 the problem to a linguist.
+
+      CHARACTER LANGUAGES
+
+                             Character languages use writing systems with symbols that stand for words
+                             or meaningful elements of words rather than for sounds. Character
+                             languages, such as hieroglyphic Egyptian, existed in earlier times; but
+                             today, the only character languages are Chinese and languages that have
+                             wholly or partially borrowed the Chinese system, such as Japanese and
+                             Korean.
+
+              DISTINGUISHING CHINESE, JAPANESE, AND KOREAN:
+
+                             The easy way to distinguish the three languages is to look for the distinctive
+                             phonetic symbols of Japanese and Korean. If these symbols are not
+                             present, conclude that the language is Chinese. Chinese is the model for
+                             the other two, and these languages borrow freely from Chinese. Figures
+                             G-12, G-13, and G-14 give sample texts of Chinese, Japanese, and
+                             Korean.
+
+                             Figure G-12 shows Chinese characters. They are more detailed, complex,
+                             and square or precise than Japanese or Korean.
+
+                             Korean and Japanese language texts use Chinese characters whenever it
+                             might be unclear to use one of their own symbols. This means that the
+                             higher or more academic a text is the more Chinese characters it will have.
+
+G-20
+
+
+---
+
+FM 34-54
+      G-21
+
+
+---
+
+FM 34-54
+
+                              NOTE: North Korean text seldom has any Chinese characters as a matter
+                              of official policy.
+               CHINESE:
+                              Chinese is written with several thousand symbols called characters.
+                              International numerals are widely used and scientific and technical Chinese
+                              will contain quoted European words in Roman letters. The characters are
+                              constructed according to a complex system based on the use of only a few
+                              different stroke types (less than 10) and a large set of elements called
+                              "radicals" (about 200). Radicals are made up of one or more elements
+                              associated with them. These radicals and strokes are used to construct the
+                              characters. The characters are thought of as occupying a rectangular
+                              space and good calligraphy allots about the same area to each character,
+                              regardless of complexity.
+                              Figure G-15 shows the 50 most common radicals in Chinese. Some will
+                              occur by themselves as characters. Most will more frequently occur as
+                              constituents of more complex characters. The People's Republic of China
+                              has recently changed the form of some of these elements, but most are
+                              unchanged and the traditional forms still occur even there.
+                              Except for numerical zeroes and the small circles that are used as
+                              punctuation marks to indicate the end of a sentence, printed Chinese does
+                              not have any circles. If the text has a lot of circles and curves, suspect
+                              some language other than Chinese.
+
+G-22
+
+
+---
+
+                                                                                                                  FM 34-54
+
+JAPANESE:
+               Japanese has a mixed writing system. Like the Chinese, the Japanese
+               normally use international numerals in their S&T literature; but this is not the
+               real reason their writing system is mixed. Japanese writing is mixed
+               because, in general, it uses Chinese characters to write the lexical stem of
+               nouns and verbs (the part of the word that conveys the basic meaning); and
+               a set of phonetic symbols invented in Japan called hiragana to write the
+               grammatical affixes of the nouns and verbs as well as entire auxiliary
+               words.
+               Japanese also use another set of phonetic symbols, also invented in
+               Japan, called katakana to write words borrowed from European languages.
+               The presence of these katakana symbols distinguishes Japanese. Normal
+               prose will contain perhaps 60 to 70 percent hiragana symbols. Unlike
+               Chinese characters, hiragana are written with curved strokes. Katakana
+               are less frequent.
+               The hiragana are illustrated in Figure G-16 and the katakana are illustrated
+               in Figure G-17. Pay particular attention to the fifth symbol from the left in
+               the bottom row of the hiragana (Figure G-16), the one labeled "no." This
+               symbol is used to write a very common grammatical affix. It will almost
+               always occur frequently in any Japanese text.
+
+                                                                                                                        G-23
+
+
+---
+
+FM 34-54
+
+          KOREAN:
+
+                         Korean can be written entirely in its native alphabet. Therefore, symbols
+                         from this script will overwhelmingly predominate in any normal Korean text.
+                         Chinese characters, however, are considered learned and prestigious, so a
+                         certain number of them will be encountered in quantities that vary with the
+                         pretensions of the author.
+
+                         The Korean alphabet was developed under the influence of Chinese writing
+                         models, so to the untrained eye Korean alphabetic writing looks like Chinese
+                         characters. The letters of European alphabets form words, but the symbols
+                         of the Korean alphabet are grouped together to form a syllable. This means
+                         that a Korean word may extend over several groupings.
+                         Also, while the letters of European words are read horizontally, Korean
+
+G-24
+
+
+---
+
+                                                                                                 FM 34-54
+alphabetic symbols are read vertically—from the top to the bottom of each
+group—with the left preceding the right when the symbols are side-by-side.
+Figure G-18 illustrates the symbols of the Korean alphabet. Pay close
+attention to the second symbol from the left in the third row, the one that
+looks like a circle with a stem at the 12 o'clock position. It is a very frequent
+symbol and does not look like anything that occurs in Chinese or Japanese.
+
+                                                                                                          G-25
+
+
+---
+
+                                                                                                                                   FM 34-54
+
+                                          Appendix H
+
+CHEMICAL AND BIOLOGICAL WARFARE SAMPLING PROCEDURES
+
+     INTRODUCTION
+
+                              This appendix provides procedures for the safe and expeditious collection,
+                              transportation, and receipt of suspected CB agent samples from the
+                              integrated battlefield to approved CONUS and OCONUS laboratories for
+                              processing, analysis, and identification.
+
+     BACKGROUND
+
+                              During the 1980's, at the time of the Soviet occupation of Afghanistan and
+                              the Iran-Iraq War, the ability of US forces to collect and analyze toxic
+                              agents was questionable.
+
+                              In response to this concern, an examination was conducted on the
+                              mechanisms in place to preserve the integrity of the suspected CB samples
+                              collected on the battlefield.
+
+                              Procedures for collecting, packaging, documenting, and transporting CB
+                              samples to laboratories must be precise to ensure the credibility of the
+                              analysis conducted on the samples.
+
+                              The credible analysis of suspected CB samples is critical for both battlefield
+                              commanders concerned with chemical retaliation and contamination
+                              avoidance, and medical personnel concerned with prophylactic or post-
+                              contamination treatment.
+
+     OPERATIONAL CONCEPT
+
+               SITUATION:
+
+                              Current battle doctrine describes a nonlinear battlefield where the Threat
+                              NBC weapons are tactically integrated. The principles of NBC
+                              reconnaissance and detection and TECHINT teams apply equally across
+                              the battlefield.
+
+               SAMPLING:
+
+                                                                                                                                           H-1
+
+
+---
+
+FM 34-54
+
+                              Sampling will be initiated when the following are observed:
+
+                                   Significant numbers of unexplained sickness or death of personnel or
+                                   animals occur.
+
+                                   Ordnance (munitions) are found which contain known or suspected CB
+                                   agents.
+
+                                   An attack is suspected or is known to have occurred but the causative
+                                   agent cannot be identified.
+
+                                   The widespread outbreak of unusual mission-degrading behavior
+                                   occurs.
+
+                                   Sampling of known or identified agents to verify first use is required.
+
+               SAMPLING RESPONSIBILITY:
+
+                              Samples suspected of containing CB agents are divided into environmental
+                              and biomedical samples on the basis of their origin. Both medical and
+                              nonmedical units and teams have the responsibility for collecting samples
+                              suspected of containing CB agents.
+
+                                   Environmental Samples. Environmental CB agent samples are
+                                   collected in the field. They include samples of aerosols or vapors,
+                                   liquids other than water, soil, vegetation, water, used equipment, and
+                                   ordnance. The acquisition of these samples is the responsibility of—
+
+                                   — NBC reconnaissance teams.
+
+                                   — TEU field teams.
+
+                                   — Preventive medicine units (potable water sources only).
+
+                                   — TECHINT collection teams.
+
+                                   — Biological Integrated Detection System (BIDS) team.
+
+                                   Biomedical Samples. Biomedical samples are derived primarily from
+                                   acutely ill soldiers who exhibit symptoms of CB agent intoxication or
+                                   from personnel who were killed in an attack. Collection of the
+                                   biomedical samples will be the responsibility of personnel in—
+
+                                   — Battalion-level medical units.
+                                   — Division-level medical treatment facilities.
+
+H-2
+
+
+---
+
+                                                  FM 34-54
+
+— Combat support hospitals.
+— Evacuation hospitals.
+— NBC reconnaissance teams (small animals only).
+— TECHINT collection teams.
+— BIDS teams.
+
+SAMPLE ACQUlSITION
+
+            ENVIRONMENTAL SAMPLES:
+
+                      Responsible personnel for collection:
+
+                           Commander, NBC reconnaissance teams.
+
+                           Commander, TEU.
+
+                           — Commander, CMEC.
+
+                           — Commander, preventive medicine units.
+
+                      NOTE: When possible, background samples from "clean" areas beyond
+                      the perimeter of the attack site should be obtained as baseline data for
+                      comparisons. Collect these identically to samples from contaminated
+                      areas and package them separately.
+
+                      The methodology for collecting environmental samples in order to analyze
+                      them for CB-agent presence will be specific for the type of sample (for
+                      example, liquid aerosols or vapors, soil, vegetation, water, other liquids,
+                      ordnance, equipment). Complete DA Form 1971-6-R for all environmental
+                      samples. A sample form is at Figure H-1.
+
+                      In conjunction with collection of environmental samples, any positive results
+                      using the chemical agent detector kits should be recorded on
+                      DA Form 1971-6-R. Sampling will be accomplished as instructed.
+                      Figure H-2 is an example of an equipment list containing components of
+                      a suggested environmental sampling kit. (See FM 3-3.)
+
+                                                  H-3
+
+
+---
+
+FM 34-54
+H-4
+
+
+---
+
+FM 34-54
+        H-5
+
+
+---
+
+FM 34-54
+
+Description:                                                                                        7530-00-577-4376
+labels, paper, pressure sensitive                                                                   8415-00-J02-2802
+Edmont Wilson gloves 8-9                                                                            8415-00-634-4639
+Edmont Wilson goves 9-9                                                                             7510-00-582-4772
+tape, pressure, sensitive, adhesive 1"                                                              8820-00-543-5350
+pliers #47 8"                                                                                       5120-00-596-5653
+screwdriver, flat tip 1/4 inch                                                                      AF 15-202-5
+tongs, Teflon tips
+micro spatula with Teflon ends AF 21-401-50A                                                        AF 08-951-30
+scissors, universal type                                                                            AF 14-241-10A
+sterile sampler scoops 2 oz                                                                         AF 14-356-10
+spoon spatula with Teflon                                                                           5110-00-526-8740
+knife, pocket                                                                                       CP J-6103-50
+PFA sample bottles, 6 oz                                                                            AF 13-711-7
+pipet, jumbo transfer type                                                                          AF 13-711-9A
+pipet, graduated transfer type                                                                      AF 01-814-8
+insulated bag, type 1                                                                               AF 01-814-10
+insulated bag, type 2                                                                               AF 01-812-6B
+whirl/pak bag, 6 oz                                                                                 SW 8-65271
+ph paper; non-bleeding plastic strip
+SEP-PAK C18                                                                                         6515-00-168-8913
+syringe, hyp 50 or 60 mL                                                                            AF 14-169-3B
+R3602 clear laboratory tubing                                                                       AF 13-381
+marking pen, waterproof                                                                             EC ST-023
+Tenax tubes                                                                                         6515-00-860-0007
+blade surgical knife detach no. 21                                                                  6515-01-009-5297
+blade surgical os 21 1508
+igloo type container                                                                                CP TR-6345-20
+ice pack                                                                                            6510-00-111-0708
+pad, non-adherent 3 x 4 100s                                                                        6530-00-133-4299
+pad, cooling chemical 49
+piglette                                                                                            8030-00-889-3535
+tape, antiseizing                                                                                   LSS G4980 +
+personal air sampler                                                                                GJ4981
+methanol
+distilled water                                Example of an equipment list.
+matches, waterproof
+myler bags
+Field Expedient Packing Materials
+tin foil
+Saran wrap polyethylene without plasticizers
+Thermos bottles
+pressure sensitive tape
+Cool Paks
+butcher paper
+newspaper
+igloo cooler
+canteens
+Mess kits
+glass bottles
+packing material
+Teflon plumbers tape
+medical supplies
+
+                                  Figure H-2.
+
+          Contaminated sampling equipment not transported with the sample will be
+          decontaminated and double wrapped in plastic and undergo a sampling
+          protocol to certify the items as "XXX." The XXX refers to decontamination
+          to the point that equipment can be reused, but is not releasable from DOD.
+
+H-6
+
+
+---
+
+                                                                                                 FM 34-54
+
+Liquid Aerosol and Vapor Samples:
+
+     Use an electric or hand pump (record the run time for electric pump or
+     number of aspirations for hand pump to determine volume), collect the
+     liquid aerosol remove (LAR) in two Tenax GC-Type Sorbent Tubes.
+
+     Return the sampling tube to the piglette, mark on the outside with a
+     sample identification code and close the ends tightly. Attach a
+     DA Form 1971-6-R. Pack the sample.
+
+Vegetation Samples:
+
+     Collect vegetation which appears in any way to be different from
+     normal, nearby vegetation (for example, discolored or withered
+     vegetation, or vegetation having powder or droplets present).
+
+     Collect vegetation samples at several locations within suspected
+     contaminated areas.
+
+     Cut several affected leaves and/or a handful of grass. Do not crush the
+     sample. Instead, place it in a mylar bag and seal. Collect similar
+     reference vegetation from an unaffected area and place it in a separate
+     mylar bag and seal it. The minimum sample size of value is three
+     leaves or three handfuls of grass. One leaf is of little value (but it is
+     better than nothing). Bark is acceptable but not preferred.
+
+     Mark the bag with a sample identification number.
+
+Soil Samples: Collect samples from areas stained with oils or powders,
+from areas that are discolored, or from areas that are otherwise different in
+appearance from the surrounding soil. A similar soil sample from an
+unaffected area is required for reference (soil of the same type and texture
+is preferred). The minimum sample volume is approximately that of a
+cigarette pack laying on its side.
+
+     Use a knife, spoon, spatula, or piece of metal to collect the sample.
+
+     Place the sample in a mylar bag.
+
+     Mark the bag with a sample identification number.
+
+Water Samples: Use the M272 water test kit or other appropriate test kit to
+determine the presence of chemical agents, record the test
+results on a DA Form 1971-6-R. Take samples at standing pools or along
+streams where dead animals are observed.
+
+                                                                                                         H-7
+
+
+---
+
+FM 34-54       Collect bulk water samples (preferred when oily globules or suspended
+H-8            solids are present) as follows:
+
+               — Skim surface water into Teflon bottle.
+
+               — Fill the bottle, screw on the top, and ensure that the seal is leak
+                    proof with parrafin wax or plumber's antiseize tape.
+
+               — Mark a sample identification number on the bottle.
+
+               When using the SepPak Cartridge for liquid sampling, consider the
+               following:
+
+               — The C-18 SepPak cartridge extracts and concentrates contaminants
+                    from a water source.
+
+               — Methanol and distilled water are used to prime the SepPak.
+
+               — 200 milliliter (mL) of sample water is drawn slowly through cartridge
+                    with a 50 mL syringe. Discard liquid and syringe.
+
+               — The cartridge is placed in a Teflon bottle marked with a sample
+                    identification number.
+
+               When obtaining a sample of sludge on the shore or in a shallow bottom,
+               scoop the top of solids with an open bottle; close the bottle and seal it
+               with parrafin wax. Mark the bottle with an identification number.
+
+          Packaging Samples: Place several sample bags in one mylar bag. Place
+          the reference samples in a separate mylar bag. Do not overfill. Press
+          excess air from the bag and seal the adhesive end. Seal the package with
+          tape, and mark sample identification numbers. Include the DA Form 1971-
+          6-R.
+
+          Packaging Small Animals (Mammals Preferred): Place the animal in a
+          mylar bag, press excess air from the bag, and seal it. Mark the bag with
+          the sample identification number and place the marked bag into a second
+          mylar bag. Press excess air from the bag, seal the adhesive flap, and seal
+          the bag with tape. Mark with sample identification numbers and attach the
+          DA Form 1971-6-R.
+
+          Packaging Ordnance or Protective Equipment or Clothing: Prior to
+          approaching or handling any ordnance, exploded or unexploded, contact
+          the EOD unit in the area for assistance. The EOD unit will attempt to
+          identify the ordnance by physical characteristics or markings and render it
+          safe. If the ordnance is CB in origin, EOD will perform initial packing in the
+
+
+---
+
+                                                                                                                  FM 34-54
+
+               field and transfer the sample to an MI unit for transfer to CONUS. The
+               sample must be marked with a sample identification number and
+               documented with the DA Form 1971-6-R and DD Form 1911.
+
+               Protective equipment and clothing from casualties can be an important
+               source of a CB agent for identification purposes. To do this, place the
+               equipment or clothing in a large mylar bag, fold, expel excess air from the
+               bag, and seal it. Mark the bag with a sample identification number. Place
+               the bag in a second mylar bag, seal, and mark with a sample identification
+               number. Then complete and attach the DA Form 1971-6-R. Finally,
+               forward the sample to Technical Intelligence for transfer to Corps G2.
+               Document the transfer on DA Form 3147.
+
+BIOMEDICAL SAMPLES:
+
+               Responsible personnel for collecting samples are located in—
+
+                    Battalion-level medical units.
+
+                    Division-level medical treatment facilities.
+
+                    Combat support hospitals.
+
+                    Evacuation hospitals.
+
+                    TECHINT collection teams. In the theater of operations, the TECHINT
+                    teams will have the capability to obtain biomedical samples from
+                    patients and cadavers.
+
+               The best biomedical sample is an acutely ill soldier sent back to CONUS
+               immediately. DA Form 1971-6-R is to be completed on all biomedical
+               samples. In addition, a copy of the physical examination or an extract of
+               significant findings are to be enclosed with the biomedical samples.
+
+               Additionally, the following samples should be collected whenever
+               casualties occur and should be collected in triplicate, distributing two within
+               CONUS and one to the TAML. Once collected, the samples should be
+               refrigerated or chilled immediately. DO NOT FREEZE.
+
+               DA Form 1971-6-R will be completed on all biomedical samples. Medical
+               personnel should perform biomedical sample collection to obtain a valid
+               sample.
+
+               Use the following guidance to collect samples:
+
+                    Collect samples from patients during acute phase and at day 7.
+
+                                                                                                                          H-9
+
+
+---
+
+FM 34-54       Collect urine samples (20 to 50 mL per sample x 3) in urine specimen
+H-10           cups, the top secured with wide tape, and placed in individual sealable
+               bags.
+
+               Collect whole blood or serum samples (5 mL per sample x 3) in red-top
+               blood tubes and placed in individual, sealable bags.
+
+               Collect sputum only from acutely ill patients (x 3). They should be
+               collected in urine cups. Secure the cup with wide tape and place in
+               individual sealable mylar bags.
+
+               Collect cerebral spinal fluid (2 mL per sample x 3) in red-top blood
+               tubes and placed in individual, sealable bags.
+
+               Take at least 30 grams of organs and tissues (human, post-mortem
+              x 3), place in a sterile container in individual, sealable bags, and
+               refrigerate immediately: liver, spleen, lung, subcutaneous fat, cerebral
+               spinal fluid, kidney, heart, and brain.
+
+               Collect at least two mediastinal lymph nodes.
+
+               Take animal tissue samples as a lower priority to human samples.
+               Animals should be mammalian (no birds).
+
+               Once critical and significant biomedical samples are identified in
+               OCONUS, these samples should be turned over to the tactical
+               intelligence channel for disposition to appropriate laboratories (CONUS
+               or OCONUS).
+
+               Sample and corroborative information is provided for on
+               DA Form 1971-6-R.
+
+          Packaging Biomedical Samples: Place the mylar bags or sample
+          containers in a plastic bag. Remove excess air and seal tightly. Mark the
+          container with a sample identification number. Place 1 to 2 inches of
+          packing material (for example vermiculate or foam) around the sample bag
+          in a rigid container. Wrap jars, tubes, or specimen cups in bubble wrap or
+          other suitable material so they do not move in the container. Place a lid on
+          the container and seal with wide tape. Place a warning on the outside of
+          the container as follows:
+
+                                                    DANGER
+                           Do not open. Contains hazardous material or
+                          suspected CB agents which may cause
+                         immediate death or personal injury.
+
+
+---
+
+                                                                      FM 34-54
+
+DISPOSITION OF ENVIRONMENTAL AND BIOMEDICAL SAMPLES:
+
+               Place the environmental and biomedical samples in an insulated chest;
+               ensure that the sample is packed tightly and an adequate supply of
+               refrigerant is available. Seal the chest and label accordingly prior to its
+               departure from the OCONUS theater of operation to CONUS.
+
+               The procedure should further meet the specifications contained in
+               TM 38-250, paragraph 10-51, for etiologic agents. Document all samples
+               with DA Form 1971-6-R. Number the samples. Units are responsible for
+               forwarding samples through intelligence channels to Corps G2. Document
+               the sample transfer with DA Form 3147. Figures H-3 through H-5 are
+               examples of responsibilities, collection guidelines, and identification and
+               control for a sample evacuation.
+
+                    SAMPLE EVACUATION
+
+A. RESPONSIBILITY:
+
+     1. Field units are responsible for the transfer of samples to MI channels for forwarding to
+Corps G2. Additional packaging and consolidation of double-contained samples, if required,
+will be accomplished prior to shipping to CONUS. Complete the sample identification.
+Document sample transfers on DA Form 3147.
+
+     2. Corps or Division surgeons are responsible for coordinating the delivery of samples from
+MI channels to Corps G2. The Corps and/or Division Surgeon will coordinate with combat units
+and graves registration units for expedient transfer of personnel deceased as a result of a CB
+attack to battalion, division, or corps level medical units and hospitals for obtaining biomedical
+samples. Document the sample transfers on DA Form 3147.
+
+     3. Corps G2 is responsible for coordinating shipment of samples to approved CONUS and
+OCONUS laboratories and the TAML, as well as dispatching the required notification
+messages. Notification to the US Army Chemical and Biological Agent Technical Evaluation
+Board (CBATEB) of the acquisition of a sample suspected of containing CB agents is requested
+within 1 hour of receipt by Corps G2.
+
+Figure H-3. Description of responsibilities for a sample evacuation.
+
+                                                                                                  H-11
+
+
+---
+
+FM 34-54
+
+                                                 *IMPORTANT NOTES*
+            (a) Properly packaged samples do not constitute a hazard to personnel.
+            (b) All outer packaging is to be inspected visually for physical evidence of leakage or
+ loss of envelope integrity.
+            (c) DO NOT UNWRAP. Overwrap if any irregularities exist.
+            (d) If overwrapping is required, provide the time, date, place, and the reason.
+            (e) Refrigerate or chill (DO NOT FREEZE) all samples.
+            (f) Delay must be minimized.
+            (g) All samples will be forwarded from the theater to approved CONUS and OCONUS
+ laboratories and TAML 12 to 24 hours after collection. Delay beyond 24 hours rapidly
+ degrades the operational and intelligence value of the samples. The most efficient means of
+ shipment will be used; address all samples to CBATEB, Aberdeen Proving Ground, MD, and
+ TAML.
+ B. DOCUMENTATION REQUIRED ON ALL SAMPLES:
+      1. DA Form 1971-6-R.
+      2. DA Form 3147.
+ C. NOTIFICATION MESSAGE: The notification message sent by Corps G2 should be sent as
+ an IMMEDIATE precedence and with appropriate security classification. The action addressee
+ is Technical Director, ERDEC APG MD//CBATEB//. The notification message will contain the
+ sample identification number and details which relate to the acquisition of the sample. The
+ message will be configured to provide the following information:
+      1. Background information.
+      2. Physical description.
+      3. Results of preliminary tests after sample collection.
+      4. Where, when, and under what conditions the sample was acquired.
+
+     Figure H-3. Description of responsibilities for a sample evacuation (continued).
+
+H-12
+
+
+---
+
+                                                                          FM 34-54
+
+5. Description of incident.
+
+6. Casualty symptoms (if applicable).
+
+7. Shipment information, such as—
+
+(a) Date of shipment.
+
+(b) Mode of transportation.
+
+(c) Flight number and destination.
+
+(d) Estimated time of arrival CONUS.
+
+(e) Description of shipment (size, weight, and so forth).
+
+D. NOTIFICATION: Upon receipt of the notification message, the Chairman, CBATEB, is
+responsible for notifying the appropriate agencies.
+
+REFERENCES:
+
+1. FM 3-3    Chemical and Biological Contamination Avoidance, 16 Nov 92.
+
+2. FM 3-5    NBC Decontamination, 17 Nov 93.
+
+3. FM 3-101-2 NBC Reconnaissance Squad/Platoon Operations Tactics, Techniques,
+                       and Procedures, 10 Aug 94.
+
+4. AR 59-8   Department of Defense (DOD) Common User Airlift, 20 Aug 82.
+
+5. TM 38-250 Preparing of Hazardous Materials for Military Air Shipments, 25 Nov 94.
+
+Figure H-3. Description of responsibilities for a sample evacuation (continued).
+                                                                                                                                  H-13
+
+
+---
+
+FM 34-54
+
+                                       SAMPLE COLLECTION GUIDELINES
+
+ 1. PROTECT YOURSELF:
+
+      Do not handle contaminated samples with your bare hands. If neoprene gloves are not
+      available, use a stick or other object to move a sample into a container. Respiratory and/or
+      skin protective equipment may also be required.
+
+ 2. TAKE THE SAMPLE:
+
+      If an area appears to have been contaminated, use whatever field expediency is necessary
+      to get a sample.
+
+ 3. LABEL THE SAMPLE:
+
+      Once a sample is collected, the container should be labeled immediately so that it is not
+      confused with another sample.
+
+ 4. PROTECT THE SAMPLE:
+
+      Most environmental and biomedical samples should be sealed and chilled to avoid cross-
+      contamination and decomposition. Samples should not be frozen if possible. Above all,
+      avoid freeze-and-thaw situations.
+
+ 5. DOCUMENT THE SAMPLE:
+
+      Record the circumstances surrounding the collection of the sample. Data such as how,
+      where, when, why, and by whom is required. Diagrams and maps of areas are useful.
+
+ 6. FORWARD THE SAMPLE:
+
+      CB samples are time sensitive. They should be reported and forwarded for analysis as
+      quickly as possible (within 12 to 24 hours).
+
+ 7. PROTECT YOUR SOURCE:
+
+      All transactions involving CBW samples are highly sensitive. All knowledge and information
+      (written and verbal) pertaining to the source are automatically considered SECRET. All
+      samples and associated papers and diagrams, for example, will be released only to
+      individuals known to be cleared and having a need to know; and they will be SIGNED FOR.
+      All samples and associated papers must remain in the physical custody of authorized US
+      persons only.
+
+                                    Figure H-4. Sample collection guidelines.
+
+H-14
+
+
+---
+
+                                                                                       FM 34-54
+
+         SAMPLE IDENTIFICATION AND CONTROL
+
+1. Samples acquired by a governmental source or provided by another source must be
+carefully controlled to be of the greatest value. To accomplish this, physical custody of the
+sample is maintained by a government representative. A sample identification number is also
+assigned and affixed to the sample or its container.
+
+2. To prevent confusion, the sample number must be used when referring to the sample or to
+information concerning its acquisition. A sample number consists of the following elements:
+
+    (a) Country of Acquisition. This is a 2-digit alphabetic code for the country in which the
+sample was collected. The codes are found in DIAM 58-13, Volume II, Section E, dated 28
+March 1988.
+
+    (b) Date Acquired. DTG sample acquired (local or Zulu time, as directed by higher
+headquarters).
+
+    (c) Sample Sequence Number. This is a 3-digit numerical code which is assigned per
+collector, and begins each collection day. The first sample collected is 001, the second is 002,
+and so forth.
+
+    (d) Unit Identification Code. UIC of the unit that the collector is assigned to.
+
+    (e) Collector Identification. The initials of the collector.
+
+EXAMPLE
+
+LA-12l300Z FEB 90-002-WH60AA-JD
+
+LA       = Sample was acquired in Laos
+
+121300Z FEB 9 = DTG sample was collected
+
+002      = This is the second sample obtained on the date above by the collector
+
+WH60AA   = Unit of assignment of collector
+
+JD       = The sample was collected by John Doe
+
+         Figure H-5. Sample identification and control.
+
+                                                                                       H-15
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+                                         Appendix I
+
+                     FACILITY EXPLOITATION CHECKLISTS
+
+                            The following sample checklists can be used to guide the actual eyes-on or
+                            hands-on exploitation of facilities or to guide the interrogation of EPWs with
+                            knowledge of facilities.
+
+                                    COLLECTION CHECKLIST-AIRFIELDS
+ 1. IDENTIFICATION. Local name (both romanized and ideograph) and military designation.
+
+ 2. LOCATION.
+
+     a. Map reference. Include series and sheet number(s) of both tactical and air-ground
+series.
+
+     b. Political unit, area, nearest town, and specified reference point (both UTM and
+geographic coordinates).
+
+ 3. AIRFIELD CATEGORY. Liaison, surveillance, light lift, medium lift, tactical, or heavy lift.
+
+ 4. STATUS.
+
+ 5. TYPE. Civilian, military, or joint.
+
+ 6. PRINCIPAL USE.
+
+ 7. LAYOUT.
+
+ 8. ELEVATION (feet and meters).
+
+ 9. NUMBER OF RUNWAYS.
+
+10. EACH RUNWAY.
+
+     a. Identification.
+     b. Azimuth.
+     c. Length and width.
+     d. Surface, base, subbase course (material, thickness, and condition).
+     e. Longitudinal grade (minimum and maximum change per 100 feet).
+     f. Transverse grade (maximum).
+
+                                  Figure I-1. Collection Checklist-Airfields.
+
+                                                                                                                                          I-1
+
+
+---
+
+FM 34-54
+
+       g. Shoulders, clear area, and overrun (width, transverse grade, and surface material).
+       h. Lateral safety zone (width, transverse slope, and obstacles).
+       i. End clear zones (length, width, and maximum slope).
+       j. Approach zones (length, width, glide slope, and obstacles).
+       k. Condition.
+
+ 11. EACH TAXIWAY.
+
+       a. Identification.
+       b. Azimuth.
+       c. Length and width.
+       d. Grade (maximum longitudinal and transverse).
+       e. Surface, base, subbase material (thickness).
+       f. Bearing capacity (pounds per square inch).
+       g. Shoulders and clear area (width, transverse grade, surface, and obstacles).
+       h. Turn radii.
+       i. Condition.
+
+ 12. PARKING AND WARM-UP APRONS.
+
+       a. Number.
+       b. Total area and individual area.
+       c. Description of each apron.
+       d. Total capacity (specify aircraft type).
+
+ 13. HARDSTANDS.
+
+       a. Total number.
+       b. Aircraft capacity (specify).
+       c. Description of each hardstand.
+
+ 14. PETROLEUM, OIL, AND LUBRICANTS. Describe facilities and storage.
+
+       a. Jet fuel by type (J rating).
+       b. Aviation gasoline.
+       c. Jet oil.
+       d. Aviation oil.
+       e. Lubricants.
+       f. Pipelines (cross-reference to pipeline collection file).
+
+ 15. NAVIGATION FACILITIES. Describe the type of facility.
+
+ 16. LIGHTING FACILITIES. Describe all lighting at airfield.
+
+                           Figure I-1. Collection Checklist-Airfields (continued).
+
+I-2
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+17. COMMUNICATION FACILITIES. Cross-reference to communication collection file.
+18. MAINTENANCE FACILITIES (aircraft).
+19. OXYGEN AVAILABILITY.
+20. SPECIAL EQUIPMENT.
+
+     a. Crash and fire.
+     b. Construction and ground maintenance.
+21. COVERED STORAGE.
+22. SANITATION.
+23. HANGARS.
+     a. Number and locations.
+     b. Type and material.
+     c. Condition.
+24. HOUSING FACILITIES.
+     a. Type, location, and number.
+     b. Capacity and condition.
+25. MUNITIONS STORAGE.
+     a. Type and location.
+     b. Cubage, normal use, and condition.
+26. ADMINISTRATION BUILDINGS (identify).
+27. ELECTRICITY. Cross-reference to electric power collection file.
+     a. Sources.
+     b. Current characteristics.
+28. JET STARTING UNITS.
+29. AUXILIARY POWER UNITS.
+
+                          Figure I-1. Collection Checklist-Airfields (continued).
+
+                                                                                                                                          I-3
+
+
+---
+
+FM 34-54
+ 30. ANTI-DETONATION FLUID OR WATER-ALCOHOL.
+       a. Type and location.
+       b. Quantities.
+ 31. DEFENSES.
+ 32. ADJACENT TERRAIN. Cross-reference to appropriate collection files.
+ 33. MEDICAL FACILITIES.
+       a. Type and location.
+       b. Capacity and characteristics.
+ 34. WEATHER FACILITIES. Cross-reference to weather collection file.
+       a. Type and location.
+       b. Characteristics and condition.
+
+                           Figure I-1. Collection Checklist-Airfields (continued).
+I-4
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+                              COLLECTION CHECKLIST-ELECTRIC POWER
+                                                    POWERPLANTS
+
+ 1. IDENTIFICATION. Local name and military designation.
+
+     a. Map reference. Include series and sheet numbers of both tactical and air-ground
+series.
+
+     b. Political unit, area, nearest town, UTM coordinates, and geographical coordinates.
+
+ 2. TYPE. Conventional-steam thermal, nuclear-steam thermal, internal combustion-thermal,
+hydro-turbine storage, hydro-turbine run-of-river, solar, wind, tidal, and so forth.
+
+ 3. OWNERSHIP. Government or private.
+
+ 4. FUNCTION. Public utility, industrial, or both.
+
+ 5. AREA SERVED.
+
+ 6. PURPOSE. Base load, peak load, or stand-by.
+
+ 7. STATISTICS.
+
+     a. Total capacity (kW or kVA) and annual production (kWh).
+     b. Generators (numbers, type, and rating of each).
+
+ 8. CURRENT CHARACTERISTICS.
+
+     a. Type (direct current; alternating current).
+     b. Generating voltage.
+     c. Phase and hertz.
+
+ 9. OVERALL CONDITION AND AGE.
+
+10. POWERHOUSE CONSTRUCTION. Material, number of stories, windows, and so forth.
+
+11. TRANSMISSION LINE CONNECTIONS. Number and voltage.
+
+12. FUEL DATA (thermal plants only).
+
+     a. Type (by grades).
+     b. Quantity used per annum (tons, gallons, cubic feet, pounds, and so forth).
+     c. Sources.
+
+                              Figure I-2. Collection Checklist-Electric Power.
+
+                                                                                                                                          I-5
+
+
+---
+
+FM 34-54
+
+       d. Calorific content (conventional-steam).
+       e. Waste disposal (nuclear-steam).
+
+ 13. BOILER, REACTOR OR ENGINE DATA (thermal powerplants only).
+
+       a. Number, manufacturer, and rating (kW; hp).
+       b. Cooling facilities (type and source).
+       c. Steam pressure in psi (conventional-steam only).
+       d. Efficiency (calories; Btu/kWh) (conventional-steam only).
+       e. Operating temperature (conventional-steam only).
+       f. Neutron flux (nuclear-steam only).
+       g. Shielding and control mechanism (nuclear-steam only).
+
+ 14. WATER SOURCE, HYDRO-TURBINE POWERPLANTS.
+
+       a. Identification.
+       b. Flow, cubic feet per second (average, minimum, and maximum).
+       c. Reservoirs (location, volume, area, head, and so forth).
+       d. Dams (name, location, dimensions, diversion canal).
+
+ 15. HYDRO-TURBINES (HYDRO-TURBINE POWERPLANTS ONLY).
+
+       a. Type, number, and rating (hp).
+       b. Heat (feet; meters) and Flow (cubic meters per second).
+
+                                                       SUBSTATION
+
+   1. IDENTIFICATION. Local name and military designation.
+
+   2. LOCATION.
+
+       a. Map reference. Include series and map sheet numbers of both tactical and air-ground
+ series.
+
+       b. Political unit, area, UTM coordinates, and geographic coordinates.
+
+   3. TYPE. Transmission, distribution, or industrial.
+
+   4. FUNCTION. Switching, transforming, converting, or inverting.
+
+   5. OWNERSHIP. Government or private.
+
+   6. TRANSFORMERS. Number, capacity (kVA), and voltage ratio (220/110, and so forth).
+
+   7. CONVERTERS OR INVERTERS. Number and capacity (kW; kVA).
+                       Figure I-2. Collection Checklist-Electric Power (continued).
+
+I-6
+
+
+---
+
+                                                                      FM 34-54
+
+ 8. LINES. Number and voltage (kV).
+ 9. AREA SERVED.
+
+                                               TRANSMISSION LINES
+ 1. LOCATION. (Same as 2 above.)
+ 2. NUMBER OF LINES.
+ 3. OWNERSHIP. Government or private.
+ 4. PLACEMENT. Overhead, underground, submarine cable, and so forth.
+ 5. WIRE CHARACTERISTICS.
+ 6. TYPE OF TOWER. Metal, wood, or concrete.
+ 7. ALIGNMENT AND LENGTH.
+ 8. VOLTAGE (kV).
+ 9. PHASE.
+10. MAINTENANCE. Failure causes, effects, and frequency.
+
+Figure I-2. Collection Checklist-Electric Power (continued).
+                                                                                                                  I-7
+
+
+---
+
+FM 34-54
+
+                         CHECKLIST-PETROLEUM AND NATURAL GAS FIELDS
+   1. IDENTIFICATION. Local name and military designation.
+   2. LOCATION.
+
+       a. Map reference. Include series and sheet numbers of both tactical and air-ground
+ series.
+
+       b. Political unit, area, nearest town, UTM coordinates, and geographic coordinates.
+   3. OWNERSHIP. Government or private.
+   4. TYPE. Wet or dry.
+   5. AREA EXTENT.
+   6. STATUS. Exploited or unexploited.
+   7. PRODUCTION. Barrels, tons, cubic feet, per time unit.
+   8. NUMBER OF PRODUCING WELLS.
+   9. PERCENTAGE OF NATIONAL PRODUCTION.
+ 10. PRODUCT. Type and characteristics.
+ 11. RESERVES. Proven and unproven.
+ 12. PLANNED EXPANSION. Expected increase, date, and method.
+ 13. TRANSPORTATION.
+
+       a. Method (pipeline, railroad, road, water).
+       b. Identification and destination.
+
+                                                 PROCESSING PLANTS
+   1. IDENTIFICATION. (Same as 1 above.)
+   2. LOCATION. (Same as 2 above.)
+   3. TYPE OF PLANT. Complete, skimming, cracking, distilling, synthetic, and so forth (oil or
+ gas).
+
+                             Figure I-3. Checklist-Petroleum and Natural Fields.
+
+I-8
+
+
+---
+
+ 4. OWNERSHIP. Government or private.                                               FM 34-54
+ 5. PERCENTAGE OF NATIONAL REFINING OR CRACKING CAPACITY.                                    I-9
+ 6. YEAR COMPLETED.
+ 7. GENERAL CONDITION.
+ 8. RATED PRODUCTION CAPACITY. Barrels, tons, cubic feet, per time unit.
+ 9. EQUIPMENT.
+
+     a. Number and type.
+     b. Rated capacity and condition.
+10. OUTPUT. Product, quantity, and quality.
+11. POWER SOURCE.
+12. WATER SOURCE.
+13. TRANSPORTATION.
+     a. Raw materials in (identification, method, and origin).
+     b. Finished products out (identification, method, and destination).
+14. PLANNED EXPANSION.
+15. BUILDINGS. Type, number, and characteristics.
+
+                                               STORAGE FACILITIES
+ 1. IDENTIFICATION. (Same as 1 above.)
+ 2. LOCATION. (Same as 2 above.)
+ 3. TYPE. Gas or petroleum.
+ 4. OWNERSHIP. Government or private.
+ 5. TOTAL STORAGE CAPACITY. Barrels, tons, or cubic meters.
+ 6. PERCENTAGES OF NATIONAL TOTAL.
+
+                   Figure I-3. Checklist-Petroleum and Natural Fields (continued).
+
+
+---
+
+FM 34-54
+   7. GENERAL CONDITION.
+   8. STORAGE TANKS.
+   9. STORAGE DRUMS.
+       a. Manufacturing (location and capacity).
+       b. Cleaning and reclamation (location and capacity).
+       c. Filling facilities (location, equipment, and capacity).
+
+ 10. TRANSPORTATION.
+       a. In (method and origin).
+       b. Out (method and destination).
+
+ 11. BUILDINGS. Number, type, and characteristic.
+
+                    Figure I-3. Checklist-Petroleum and Natural Fields (continued).
+I-10
+
+
+---
+
+                              FACILITY PHYSICAL SECURITY CHECKLIST  FM 34-54
+1. IDENTIFICATION.                                                         I-11
+
+a. Local and official name.
+b. Functional description.
+c. Local address.
+d. Map reference.
+e. Geographic coordinates.
+f. Additional information.
+
+2. BUILDING DESCRIPTION.
+
+a. Identification.
+b. Type of construction material.
+c. Type of roof.
+d. Blueprints.
+e. Floor plans.
+f. Description of roof.
+
+(1) Entrances to building.
+(2) Skylights.
+(3) Air-conditioning ducts.
+(4) Maintenance accesses.
+(5) Elevator shafts.
+(6) Emergency exits and fire escapes.
+(7) Ventilation systems.
+(8) Ladders.
+(9) Additional information.
+
+g. Entrances to building.
+
+(1) Main entrance.
+(2) Other entrances or exits.
+(3) Non-standard access points.
+
+h. Sewage and drainage systems.
+i. Water system.
+j. Interior description of building.
+
+(1) Floors.
+(2) Corridors.
+(3) Doors.
+(4) Windows.
+
+                Figure I-4. Facility Physical Security Checklist.
+
+
+---
+
+FM 34-54
+
+      (5) Locks.
+      (6) Stairways.
+      (7) Elevators.
+      (8) Physical barriers.
+      (9) Lighting
+
+      k. Active security.
+
+      (1) Security guards.
+
+          (a) Posts.
+          (b) Arms
+          (c) Ammunition.
+          (d) Riot control devices.
+          (e) Additional information.
+
+      (2) Contract watchmen.
+      (3) National police agents.
+      (4) Additional information.
+
+      l. Communications equipment available.
+
+MODEL TYPE                 NUMBER LOCATION FREQUENCY/CHANNELS              ANTENNAS
+
+      m. Telephone system.
+      n. Emergency lighting and power system.
+      o. Additional information.
+
+3. DESCRIPTION OF GROUNDS.
+
+      a. Structures.
+      b. Entrances to grounds.
+      c. Perimeter fence.
+      d. Terrain.
+      e. Vegetation.
+      f. Lighting-external.
+      g. Map or sketch.
+
+4. DESCRIPTION OF SURROUNDING AREA (24 Block Area).
+
+      a. Possible observation points.
+      b. Relative distances of key terrain.
+      c. Additional information.
+
+            Figure I-4. Facility Physical Security Checklist (continued).
+
+I-12
+
+
+---
+
+                                          FM 34-54
+
+5. KEY TERRAIN.
+
+    a. Predominant terrain.
+    b. Drop zones.
+    c. Landing and Pickup Zones.
+    d. Airfields.
+    e. Critical lines of communications.
+    f. Additional information.
+
+6. MEDICAL CONSIDERATIONS.
+
+    a. Medical staff and facilities.
+    b. Civilian hospitals.
+    c. Additional information.
+
+Figure I-4. Facility Physical Security Checklist (continued).
+                                                                                                                I-13
+
+
+---
+
+FM 34-54
+
+                                                CHECKLIST-RAILWAYS
+   1. IDENTIFICATION. Route designation (native, military, or other) and segment being
+ studied.
+
+   2. LOCATION.
+
+       a. Map reference. Include series and sheet numbers on both tactical and air-ground
+ series.
+
+       b. End points of segment. Political unit, area, UTM coordinates, and geographical
+ coordinates.
+
+   3. OWNERSHIP.
+
+   4. TOTAL TRACK LENGTH. Double and single tracks in kilometers.
+
+   5. END POINTS OF DOUBLE TRACK SECTIONS. Location (UTM) and area name.
+
+   6. TRACK.
+
+       a. Gage (millimeters).
+       b. Rails.
+       c. Roadway (total width and double or single track).
+       d. Ditches (depth, width, side slope, lining, condition, cross-section, and structures).
+
+   7. ROADBED. Material, total width, and width of shoulders.
+
+   8. SUBBALLAST. Material and thickness.
+
+   9. BALLAST. Material, size, thickness, and condition.
+
+ 10. TIES. Material, length, width, depth, and spacing.
+
+ 11. SPACING OF TRACKS. Centerline-to-centerline.
+
+ 12. RADIUS OF TIGHTEST CURVE. Location (UTM) and radius.
+
+ 13. MAXIMUM GRADE. Direction of travel and location.
+
+ 14. BRIDGES. Cross-reference to bridge collection file.
+
+       a. Total number of bridges in segment.
+       b. Total length of bridging in segment.
+
+                                           Figure I-5. Checklist-Railways.
+
+I-14
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+15. FERRIES. Cross-reference to ferry collection file.
+
+16. TUNNELS, GALLERIES, AND SNOW SHEDS (TGSS). Cross-reference to TGSS
+collection file.
+
+17. UNDERPASSES. Cross-reference to bridge collection file.
+
+18. MINIMUM CLEARANCES. Horizontal and vertical.
+
+19. AXLE LOAD LIMIT. Metric tons.
+
+20. CULVERTS. Location (UTM) and total number, type, construction material, and bypasses.
+
+21. ELECTRIFICATION.
+
+     a. End points of electrified sections (UTM).
+     b. Power feed (overhead or third rail).
+     c. Current characteristics (direct current; alternating current).
+     d. Source of power.
+
+22. MAINLINE JUNCTIONS. Location (UTM), identification of connecting line, and type switch.
+
+23. CROSSOVERS. Location (UTM) and type of switch.
+
+24. PASSING SIDINGS. Locations (UTM), number, double-end or single-end, length, and type
+of turn.
+
+25. STATIONS.
+
+     a. Location (local name and UTM coordinates).
+     b. Function (passenger, freight, or both).
+     c. Facilities.
+
+26. FREIGHT-HANDLING FACILITIES.
+
+     a. Location (local name and UTM coordinates).
+     b. Side-loading platforms (number and length).
+     c. End-loading bays.
+     d. Sidings with access roads.
+     e. Freight sheds.
+
+                                 Figure I-5. Checklist-Railways (continued).
+
+                                                                                                                                         I-15
+
+
+---
+
+FM 34-54
+
+       f. Turntables (number and diameter).
+       g. Cranes (type, number, and capacity).
+
+ 27. YARDS.
+
+       a. Location (local name and UTM coordinates).
+       b. Function (receiving, classification, departure, storage, and so forth).
+       c. Hump or flat.
+       d. Number of tracks.
+       e. Fuel facilities (type of fuel, quantity normally on hand, and maximum storage capacity).
+       f. Other facilities (water, sand, compressed air, and so forth).
+       g. Electrification (overhead or third rail).
+
+ 28. FUEL FACILITIES.
+
+       a. Location (local name and UTM coordinates).
+       b. Type of fuel.
+       c. Type of storage and capacity.
+       d. Quantity of fuel normally on hand.
+       e. Method of loading.
+
+ 29. REPAIR SHOPS AND LOCOMOTIVE TERMINALS.
+
+       a. Location (local name and UTM coordinates).
+       b. Engine house or turntable.
+       c. Service facilities.
+
+ 30. WATERING FACILITIES.
+
+       a. Location (local name and UTM coordinates).
+       b. Source and type of storage.
+
+ 31. SIGNALS AND TRAIN CONTROL. Location (UTM) and type.
+
+ 32. CRITICAL POINTS.
+
+       a. Type (points subject to rock slides, snow slides, flooding, or subject to interdiction and
+ ambush).
+
+       b. Location (local name and UTM coordinates).
+
+ 33. USE. Average number of trains per day (both passenger and freight).
+
+                                   Figure I-5. Checklist-Railways (continued).
+
+I-16
+
+
+---
+
+                                                                                                                                 FM 34-54
+34. SECTIONS IN NEED OF REPAIR. Location and nature of repair, and effort required to
+repair.
+35. CONSTRUCTION, MAINTENANCE, AND REPAIR EQUIPMENT.
+
+     a. Type and characteristics of equipment.
+     b. Location of park where kept (UTM coordinates).
+36. MAINTENANCE SCHEDULE.
+37. PLANNED EXTENSIONS AND IMPROVEMENTS.
+38. MAINTENANCE AND CONSTRUCTION STANDARDS.
+39. SAFETY AND SECURITY STANDARDS.
+40. ROLLING STOCK.
+
+                                 Figure I-5. Checklist-Railways (continued).
+                                                                                                                                         I-17
+
+
+---
+
+FM 34-54
+
+                                   CHECKLIST-UNDERGROUND FACILITIES
+
+   1. IDENTIFICATION. Native name, military designation, and tunnel number.
+
+   2. LOCATION OF PORTALS.
+
+       a. Map reference. Include series and sheet numbers of both tactical and air-ground
+ series.
+
+       b. Political unit, kilometer points, UTM coordinates, and geographic coordinates.
+       c. Landmark reference. Description and location of landmark, and azimuth and distance
+ from landmark to nearest portal.
+
+   3. LENGTH (portal to portal).
+
+   4. TYPE. TGSS.
+
+   5. CROSS-SECTION.
+
+       a. Shape (semicircular, elliptical, horseshoe, square with arched ceiling).
+       b. Width of traveled way.
+       c. Width at widest part.
+       d. Height of widest part.
+       e. Height of ceiling at center.
+       f. Height of ceiling at edge of traveled way.
+       g. Rise of arch.
+
+   6. CONSTRUCTIONS (HORIZONTAL AND VERTICAL). Type, least clearance, and
+ location (meters from nearest portal).
+
+   7. RAILROAD TRACKS.
+
+       a. Number for which tunnel was designed.
+       b. Number in use.
+       c. Gage.
+       d. Center-to-center spacing.
+       e. Cross-reference to railway collection file.
+
+   8. HIGHWAY.
+
+       a. Wearing surface (material, thickness, and condition).
+       b. Base course.
+       c. Subgrade.
+       d. Cross-reference to highway collection file.
+
+                                 Figure I-6. Checklist-Underground Facilities.
+
+I-18
+
+
+---
+
+                                                                                                                                 FM 34-54
+
+ 9. CHANNEL (water tunnels).
+
+     a. Cross-section dimensioned.
+     b. Sides (material and thickness).
+     c. Bottom (material and thickness).
+     d. Normal depth.
+     e. Normal current velocity.
+
+10. ALIGNMENT.
+
+     a. Horizontal (position, curve radius, and curve location).
+     b. Vertical (grade percent, length, and location).
+
+11. NUMBER OF MANWAYS. Dimensions and spacing.
+
+12. OBSTACLE TUNNELED.
+
+13. PORTAL. Design and material.
+
+14. LINING MATERIAL. Type, thickness, condition, and points of change.
+
+15. SHORING AND BRACING.
+
+     a. Location and spacing.
+     b. Design.
+     c. Materials.
+     d. Dimensions of members.
+     e. Arrangement and spacing of members.
+
+16. STRUCTURAL DESIGN, MATERIALS, AND DIMENSIONS OF GALLERIES AND
+SNOWSHEDS.
+
+17. GEOLOGICAL DATA.
+
+     a. Material through which tunnel passes.
+     b. Geology of adjacent areas.
+
+18. OVERHEAD COVER. Material and depth.
+
+19. DEMOLITION CHAMBERS. Location and dimensions.
+
+20. VENTILATION. Description and adequacy.
+
+                       Figure I-6. Checklist-Underground Facilities (continued).
+
+                                                                                                                                         I-19
+
+
+---
+
+FM 34-54
+ 21. DRAINAGE. Description, location, and adequacy.
+ 22. LIGHTING FACILITIES. Type, location, and power source.
+ 23. YEAR COMPLETED.
+ 24. BYPASSES. Location, condition, effort required to establish.
+ 25. ALTERNATE ROUTES. (Cross-reference to highway collection file).
+ 26. TRAFFIC CONTROL MARKINGS.
+ 27. APPROACHES. Characteristics, grade, surface, curves, turnouts, and parking areas.
+ 28. SURFACE FEATURES OVER TUNNELS. Vegetation, structures, and surface
+ configuration.
+ 29. EFFECTS OF CLIMATE AND WEATHER.
+       a. Snow blockage (probable occurrence, effects, and duration).
+       b. Flooding (periods of occurrence, effects, and duration).
+ 30. SPECIAL GEOPHYSICAL PHENOMENA.
+ 31. SUSCEPTIBILITY TO ABOVE-GROUND DEMOLITIONS.
+ 32. CAMOUFLAGE AND DEFENSES.
+ 33. PRESENT USE.
+
+                         Figure I-6. Checklist-Underground Facilities (continued).
+
+I-20
+
+
+---
+
+        GLOSSARY                                                                FM 34-54
+
+        ACRONYMS                                      Defense Command
+                                                    commander's critical
+AC      Active Component                CCIR
+ACE     analysis and control element                  information requirements
+ACOM    US Atlantic Command             C-E         communications-electronics
+ADA     air defense artillery           CED         captured enemy document
+ADP     automated data processing       CEE         captured enemy equipment
+AFACSI  Air Force Assistant Chief of    CEM         captured enemy materiel
+                                        CENTCOM     US Central Command
+AFMIC     Staff for Intelligence        CHATS       CI/HUMINT Automation Tool
+        Armed Forces Medical
+AL                                      CI            Set
+AMB       Intelligence Center           CINCLANT    counterintelligence
+AMC     Alabama                         CJCMEC      Commander in Chief, Atlantic
+ammo    aviation maintenance battalion              Combined Joint Captured
+APG     US Army Materiel Command        CJTF
+ARAT    ammunition                      CM&D          Materiel Exploitation Center
+        Aberdeen Proving Ground                     Commander, Joint Task Force
+ARCENT  Army Reprogramming              CMEC        collection management and
+ASP
+ATGM      Analysis Team                 COMTECHREP    dissemination
+ATP     US Army Central Command                     Captured Materiel Exploitation
+Aug     ammunition supply point         COMMZ
+AVIM    antitank guided missile         CONUS         Center
+        ammunition transfer point       COSCOM      Complementary Technical
+AWACS   August                          CSA
+AZ      aviation intermediate           CSD            Intelligence Report
+                                                    communication zone
+BDA       maintenance                   CSS         continental United States
+BIDS    Airborne Early Warning          CWCC        Corps Support Command
+        Arizona                                     corps storage area
+bn                                      DA          contingency support
+BOS     battle damage assessment        DARPA
+Btu     Biological Integrated                         detachment
+                                        DCSINT      combat service support
+C3I       Detection System                          Centralized Weapons
+        battalion                       DCSOPS
+CA      battlefield operating system                  Collection Center
+CB      British thermal unit            DETECHREP
+CBATEB                                              Department of the Army
+        command, control,               DHS         Defense Advanced Research
+CBDCOM    communications, and           DIA
+          intelligence                  DIAM          Projects Agency
+                                                    Deputy Chief of Staff,
+        Civil Affairs
+        chemical and biological                       Intelligence
+        US Army Chemical and                        Deputy Chief of Staff for
+
+          Biological Agent Technical                  Operations
+          Evaluation Board                          Detailed Technical Report
+                                                    Defense HUMINT Service
+        Chemical and Biological                     Defense Intelligence Agency
+                                                    Defense Intelligence Agency
+
+                                                      Manual
+
+                                                    Glossary-1
+
+
+---
+
+FM 34-54
+
+DISCOM          Division Support Command         G2      Assistant Chief of Staff, G2,
+DISE            Deployable Intelligence                    Intelligence
+                                                 G3
+div               Support Element                        Assistant Chief of Staff, G3,
+DMSO            division                         G4        Operations
+DOD             division medical supply officer
+DOCEX           Department of Defense            G5      Assistant Chief of Staff, G4,
+DOS             document exploitation                      Logistics
+DSNET           disk operating system            HERA
+DTG             Defense Secure Network           HHC     Assistant Chief of Staff, G5,
+DTO             date-time group                            Civil Affairs
+                district transportation officer  HOTAS
+                                                 HQDA    High Explosive Rocket Assist
+EA              electronic attack                        headquarters and
+EAC             echelons above corps             hp
+EACIC           echelons above corps             HUD       headquarters company
+                intelligence center              HUMINT  hands on throttle and stick
+ECB             echelons corps and below                 Headquarters, Department of
+                electro-optical intelligence     I&W
+ELECTRO-OPTINT  explosive ordnance disposal      IEW       the Army
+                Explosive Ordnance Disposal              horsepower
+EOD                                              IFF     heads-up display
+EODTIC            Technical Information          IIR     human intelligence
+                  Center                         IMEP
+EP              electronic protection                    indications and warnings
+EPW             enemy prisoner of war            IMINT   intelligence and electronic
+ERDEC           US Army Chemical Research        inf
+                  Development and                INSCOM    warfare
+EW                Engineering Center                     identification, friend or foe
+EXCEN           electronic warfare               IPB     intelligence information report
+                exploitation center                      International Materiel
+                                                 IPC
+FSAC            Fire Support Armaments                     Evaluation Program
+                  Center                         IR      imagery intelligence
+FMA                                              IRSTS   infantry
+FME             foreign materiel acquisition             US Army Intelligence and
+FMEP            foreign materiel exploitation    J1
+                Foreign Materiel Exploitation              Security Command
+FMMEP                                            J2      intelligence preparation of the
+                  Program
+FMIB            Foreign Medical Materiel         J3        battlefield
+                                                 J4      intermediate processing
+FMP               Exploitation Program           J5
+FMT             Foreign Materiel Intelligence    J6        center
+FPB                                                      information requirements
+                  Branch                         JCMEC   infrared search and track set
+                Foreign Materiel Program
+                Foreign Materiel for Training            Assistant Chief of Staff, J1,
+                Force Projection Brigade                   Personnel
+
+G1              Assistant Chief of Staff, G1,            Assistant Chief of Staff, J2,
+                                                           Intelligence
+                Personnel
+                                                         Operations Directorate
+                                                         Logistics Directorate
+                                                         Joint staff plans and policy
+                                                         Communications-Electronic
+
+                                                           Directorate
+                                                         Joint Captured Materiel
+
+Glossary-2
+
+
+---
+
+JDISS     Exploitation Center            NAIC                                       FM 34-54
+        Joint Deployable Intelligence
+JIC                                      NATO           National Air Intelligence
+JTF       Support System                                  Center
+JTIB    Joint Intelligence Center        NAVEODTECHDIV
+        Joint Task Force                                North Atlantic Treaty
+Kb      Joint Technical Intelligence     NBC              Organization
+kV
+kVA       Branch                         NETC           Naval EOD Technical Division
+kW                                       NGIC           nuclear, biological, and
+kWh     kilobyte
+        kilovolt                         NO               chemical
+LAR     kilovoltampere                   NRT            see NAVEODTECHCEN
+LIDAR   kilowatt                         NSA            National Ground Intelligence
+LNE     kilowatthour                     NTC
+LNO                                      NUCINT           Center
+LOS     liquid aerosol remove            NVA            number
+        laser detection and ranging                     near-real time
+MACOM   liaison element                  OB             National Security Agency
+MASINT  liaison officer                  OCONUS         Naval Technical Center
+        line-of-sight                                   nuclear intelligence
+MCC                                      ODCSINT        North Vietnamese Army
+MCO     major Army command
+MD      measurement and signature        ONI            order of battle
+MDR                                      OPCON          outside continental United
+mech      intelligence                   OPCEN
+med     movement control center          OPLAN            States
+MEDLOG  movement control office          OPORD          Office of the Deputy Chief of
+MEDSOM  Maryland                         OPSEC
+        MASINT data requirements                          Staff, Intelligence
+MEF     mechanized                       PACOM          Office of Naval Intelligence
+MFD     medical                          PIR            operational control
+MI      medical logistic battalion                      operations center
+mL      medical, supply, optical, and    POC            operations plan
+MMC                                      POL            operations order
+MOS       maintenance                    PM             operations security
+MRC     Marine Expeditionary Force
+MSB     multifunctional display          PRETECHREP     US Pacific Command
+MSE     military intelligence                           priority intelligence
+        milliliter                       PSYOP
+MSIC    materiel management center       psi              requirements
+        military occupational specialty                 point of contact
+MSR     mission requirements center      RADINT         petroleum, oils, and lubricants
+        maintenance support battalion                   provost marshal
+NA      mobile subscriber equipment                     Preliminary Technical
+
+        US Missile and Space                              Intelligence Report
+        Intelligence Center                             psychological operations
+        main supply route                               pounds per square inch
+
+        not applicable                                  radar intelligence
+
+                                                        Glossary-3
+
+
+---
+
+FM 34-54
+
+RC          Reserve Components               STU-III   Secure Telephone Unit-Third
+RDTE        research, development, test,                 Generation
+                                             sup
+R&D           and evaluation                 SUPCEN    supply
+R&S         research and development                   support center
+            reconnaissance and
+RDEC                                         TA        Theater Army
+              surveillance                   TAACOM    Theater Army Area Command
+RF/EMPINT   research, development, and       TAMCA     Theater Army Movement
+
+RINT          engineering center             TAML        Control Agency
+RSP         radiofrequency/                            Theater Army Medical
+RWR                                          TAREX     Laboratory
+              electromagnetic pulse          TBP       target exploitation
+              intelligence                   TECHSUM   to be published
+            radiation intelligence                     Technical Intelligence
+            render safe procedure            TECHINT
+            radar warning receiver           TECOM       Summary
+                                                       technical intelligence
+S2          Intelligence Officer (US Army)   TECRAS    US Army Test and Evaluation
+S3          Operations and Training
+                                             TEU         Command
+S4            Officer (US Army)                        technical reconnaissance and
+S&T         Supply Officer (US Army)         TGSS
+S&TI        scientific and technical                     surveillance
+            scientific and technical         TIARA     US Army Technical Escort
+SALUTE
+              intelligence                   TIR         Unit
+SAM         size, activity, location, unit,  TRADOC    tunnels, galleries, and snow
+SAR
+SASO          time, equipment (spot report   trans       sheds
+              format)                        TSS       tactical intelligence and
+SATCOM      surface-to-air missile           TTF
+SCIF        synthetic aperture radar         TTP         related activities
+            stability and support                      Technical Intelligence Report
+SIGCEN        operations                     TV        US Army Training and
+SIGINT      satellite communications                   Doctrine Command
+SIR         Sensitive Compartmented                    transportation
+SJA           Information Facility                     target sensing system
+SME         signal center                              TECHINT target folder
+SOP         signals intelligence                       tactics, techniques, and
+SOR         specific information requests
+SRBM        Staff Judge Advocate                         procedures
+SSC         subject matter expert                      television
+STANAG      standing operating procedure
+STICEUR     specific orders and requests     UAV       unmanned aerial
+            short-range ballistic missile                vehicle
+STICFE      software support center          UIC
+            Standardization Agreement        US        unit identification code
+            Scientific Intelligence Center   USAARDEC  United States
+              Europe                                   US Army Armament
+            Scientific Intelligence Center   USAF      Research, Development,
+              Far East                       USAIC&FH
+                                                         and Engineering Center
+                                                       US Air Force
+                                                       US Army Intelligence Center
+
+                                                         and Fort Huachuca
+
+Glossary-4
+
+
+---
+
+USAMRIID    US Army Medical Research   UTM                              FM 34-54
+              Institute of Infectious  XO   universal transverse mercator
+USATECHDET    Diseases                      Executive Officer
+
+USMC        US Army Technical
+            Detachment
+            US Marine Corps
+
+                                            Glossary-5
+
+
+---
+
+FM 34-54
+
+                          TERMS AND DEFINITIONS
+
+acoustic intelligence     Intelligence derived from the collection and
+captured enemy document   processing of acoustic phenomena.
+captured enemy equipment
+captured enemy materiel   Documents captured from the enemy.
+Class I
+Class II                  Equipment captured from the enemy.
+
+Class III                 The combination of documents, equipment, and
+                          material captured from the enemy.
+Class IV
+Class V                   Subsistence items and gratuitous health and
+                          welfare items (B-rations; meals, ready to eat;
+                          fresh fruits; and vegetables).
+
+                          Equipment, other than principal items, prescribed
+                          in authorization and allowance tables (individual
+                          equipment, clothing items, tentage, tool sets,
+                          administrative supplies, housekeeping supplies).
+
+                          POL, which are petroleum fuels, hydraulic and
+                          insulating oils, chemical products, antifreeze
+                          compounds, compressed gases, and coal.
+                          Class III (bulk) is normally fuel; for example,
+                          diesel, motor gasoline, and aviation fuel. Class
+                          III (package) is other elements such as
+                          lubricants, antifreeze, and fog oil.
+
+                          Construction and barrier materials (lumber,
+                          sandbags, and barbed wire).
+
+                          Ammunition (small-arms ammunition, artillery
+                          rounds, hand grenades, explosives, mines,
+                          fuzes, detonators, missiles, and bombs,
+                          including special ammunition—chemical and
+                          nuclear rounds).
+
+Class VI                  Personal demand items; the items that are
+Glossary-6                normally sold through the exchange system
+
+
+---
+
+Class VII                                                                            FM 34-54
+Class VIII
+Class IX                      (cigarettes, candy, soap, and so forth, contained
+Class X                       in ration supplemental sundries packs).
+combined operations
+communications intelligence   Major end items (final combinations of items that
+etiologic agent               are assembled for their intended use: vehicles,
+electro-optical intelligence  self-propelled artillery pieces, missile launchers,
+                              and major weapon systems—the weapons
+foreign materiel              themselves, not the crews).
+
+                              Medical material (medicines, stretchers, surgical
+                              instruments, and medical equipment repair
+                              parts).
+
+                              Repair parts and components, including kits and
+                              assemblies, and items required for maintenance
+                              support of all equipment (batteries, spark plugs,
+                              and axles).
+
+                              Material required to support nonmilitary
+                              programs; the items used to support CA
+                              operations (commercial design tractor for use by
+                              local civilians, farms tools, and so forth).
+
+                              Operations conducted by forces of two or more
+                              allied nations acting together for the
+                              accomplishment of a single mission.
+
+                              Technical and intelligence information
+                              derived from foreign communications by other
+                              than the intended recipients. Also called
+                              COMINT.
+
+                              The cause of a disorder or disease as
+                              determined by medical diagnosis.
+
+                              Intelligence other than signal intelligence derived
+                              from the optical monitoring of the
+                              electromagnetic spectrum from ultraviolet (0.01
+                              micrometers) through far infrared (1,000
+                              micrometers). Also called ELECTRO-OPTINT.
+                              The collection, processing, exploitation, and
+                              analysis of emitted or reflected energy across
+                              the optical portion (infrared, visible, and
+                              ultraviolet) of the electromagnetic spectrum.
+
+                              The all-encompassing term for the weapons
+
+                                                                                      Glossary-7
+
+
+---
+
+FM 34-54                                systems, equipment, apparatus, documents, and
+Foreign Material Program                supplies of a foreign military force or nonmilitary
+                                        organization.
+joint operations
+measurement and signature intelligence  The Army program for exploiting, developing, or
+materials                               providing foreign military materiel, commercial
+materiel                                representations of foreign materiel with potential
+                                        miliary application, related foreign documents in
+Glossary-8                              the Army inventory, and exploitation reports on
+                                        this materiel of value to US intelligence, RDTE,
+                                        and military planning, operations, and training.
+
+                                        This includes planning concerning intelligence
+                                        and non-intelligence acquisition requirements,
+                                        management of signature and simulator
+                                        programs, participation in evacuation efforts, and
+                                        support to the Opposing Forces Program.
+
+                                        The integrated military activities of two or more
+                                        service components—Army, Navy, Air Force,
+                                        Marine Corps—of the US military.
+
+                                        S&TI information obtained by quantitative and
+                                        qualitative analysis of data (metric, angle, spatial,
+                                        wavelength, time dependence, modulation,
+                                        plasma, and hydromagnetic) derived from
+                                        specific technical sensors for the purpose of
+                                        identifying any distinctive features associated
+                                        with the source, emitter, or sender and to
+                                        facilitate subsequent identification and/or
+                                        measurement of the same. Also called MASINT.
+
+                                        Raw substances, scrap, semifinished and
+                                        finished; supplies.
+
+                                        All items (including ships, tanks, self-propelled
+                                        weapons, aircraft, and so forth, and related
+                                        spares, repair parts and support equipment, but
+                                        excluding real property, installations, and
+                                        utilities) necessary to equip, operate, maintain,
+
+                                        and support military activities without distinction
+                                        as to its application for administrative or combat
+                                        purposes.
+
+
+---
+
+medical intelligence                                                                          FM 34-54
+
+nuclear intelligence                   That category of intelligence resulting from
+radar intelligence                     collection, evaluation, analysis, and
+scientific and technical intelligence  interpretation of foreign medical, bio-scientific,
+                                       and environmental information which is of
+technical intelligence                 interest to strategic planning and to military
+                                       medical planning and operations for the
+unintentional radiation intelligence   conservation of the fighting strength of friendly
+                                       forces and the formation of assessments of
+                                       foreign medical capabilities in both military and
+                                       civilian sectors.
+
+                                       Intelligence information derived from the
+                                       collection and analysis of radiation and other
+                                       effects resulting from radioactive sources. Also
+                                       called NUCINT.
+
+                                       Intelligence derived from data collected by radar.
+                                       Also called RADINT.
+
+                                       The product resulting from the collection,
+                                       evaluation, intelligence analysis, and
+                                       interpretation of foreign scientific and technical
+                                       information which covers: a. foreign
+                                       developments in basic applied research and in
+                                       applied engineering techniques; and b. scientific
+                                       and techical characteristics, capabilities, and
+                                       limitations of all foreign military systems, and
+                                       materiel, the research and development related
+                                       thereto, and the production methods employed
+                                       for their manufacture. Also called S&TI.
+
+                                       Intelligence derived from exploitation of foreign
+                                       material, produced for strategic, operational, and
+                                       tactical level commanders. Technical
+                                       intelligence begins when an individual service
+                                       member finds something new on the battlefield
+                                       and takes the proper steps to report it. The item
+                                       is then exploited at succeedingly higher levels
+                                       until a countermeasure is produced to neutralize
+                                       the adversary's technological advantage. Also
+                                       called TECHINT.
+
+                                       Intelligence derived from the collection and
+                                       analysis of noninformation-bearing elements
+                                       extracted from the electromagnetic energy
+                                       unintentionally emanated by foreign devices,
+                                       equipment, and systems, excluding those
+
+                                                                                               Glossary-9
+
+
+---
+
+FM 34-54
+
+             generated by the detonation of nuclear weapons.
+             Also called RINT.
+
+Glossary-10
+
+
+---
+
+                                                                                    FM 34-54
+
+                        REFERENCES
+
+                        REQUIRED PUBLICATIONS
+
+      Required publications are sources that users must read in order to understand or to
+comply with this publication.
+
+Field Manuals (FMs)
+
+3-3           Chemical and Biological Contamination Avoidance, 16 Nov 92.
+3-5           NBC Decontamination, 17 Nov 93.
+34-1          Intelligence and Electronic Warfare Operations, 27 Sep 94.
+34-37         Echelons Above Corps (EAC) Intelligence and Electronic Warfare (IEW)
+              Operations, 15 Jan 91.
+100-5         Operations, 14 Jun 93.
+101-5-1       Operational Terms and Symbols, 21 Oct 85.
+
+                        RELATED PUBLICATIONS
+
+      Related publications are sources of additional information. They are not required in
+order to understand this publication.
+
+Army Regulations (ARs)
+
+27-52         Consular Protection of Foreign Nationals Subject to the Uniform Code of Military
+                 Justice, 5 Nov 68.
+59-8
+75-15         Department of Defense (DOD) Common User Airlift, 20 Aug 82.
+350-2         Responsibilities and Procedures for Explosive Ordnance Disposal, 1 Nov 78.
+380-5         Opposing Force Program, 15 Jun 83.
+380-6         Department of the Army Information Security Program, 25 Feb 88.
+(S) 381-26    Laser Guidance System Security Classification Guide, 1 Dec 83.
+700-99        Army Foreign Materiel Exploitation Program (U), 27 May 91.
+              Acquisition, Accounting, Control, and Disposal of Captured Enemy Equipment
+
+                   and Foreign Materiel, 27 Apr 76.
+
+Defense Intelligence Agency Manual (DIAM)
+
+(S) 58-4      Defense Intelligence Collection Operations Manual (DICOM) (U) Jun 65.
+(U) 58-8      Measurements and Signature Intelligence (MASINT) Requirements, 30 Jul 87.
+(C) 75-1      Scientific and Technical Intelligence Production (U), 24 Oct 88
+
+Forms
+
+DA Form 1971-6-R Chemical/Biological Specimen Documentation, Aug 92.
+
+DA Form 2028 Recommended Changes to Publications and Blank Forms, 1 Feb 74.
+
+DD Form 1911  Materiel Courier Receipt, May 82.
+
+                                                                      References-1
+
+
+---
+
+FM 34-54
+
+Field Manuals (FMs)
+
+3-101-2       NBC Reconnaissance Squad/Platoon Operations, Tactics, Techniques, and
+                Procedures, 10 Aug 94.
+5-30
+9-15          Engineer Intelligence, 22 Sep 67.
+21-3          Explosive Ordnance Disposal Service and Unit Operations, 8 May 96.
+34-3          Soldier's Manual of Common Tasks (Skill Levels 2, 3, and 4), 1 May 81.
+34-52         Intelligence Analysis, 15 Mar 90.
+34-130        Intelligence Interrogation, 2 Sep 92.
+101-5         Intelligence Preparation of the Battlefield, 8 Jul 94.
+              Staff Organization and Operations, 25 May 84.
+
+Joint Chiefs of Staff Publication (JCS Pub)
+
+1-02          Department of Defense Dictionary of Military and Associated Terms,
+
+              23 Mar 94.
+
+Standardization Agreements (STANAGs)
+
+1059          National Distinguishing Letters for Use by NATO Forces, Edition 5
+2014          Operations Orders, Warning Orders, and Administrative/Logistics Orders,
+
+2044            Edition 5
+2084          Procedures for Dealing with Prisoners of War, Edition 4
+              Handling and Reporting of Captured Enemy Equipment and Documents,
+2097
+                Edition 5
+              Nomenclature for Soviet Bloc Army Weapons and Equipment, Edition 5
+
+Supply Bulletin (SB)
+
+708-21        Federal Supply Classification: Part I, Groups and Classes, 1 Jan 89.
+
+Technical Manual (TM)
+
+38-250        Preparing of Hazardous Materials for Military Air Shipments, 25 Nov 94.
+
+References-2
+
+
+---
+
+                                                                                     FM 34-54
+
+                                            INDEX
+
+AFMIC, 2-2, 2-3                                      definition, 3-1
+                                                     elements, 5-1
+Air and Missile Exploitation Element, B-4,           engineer officer role, 5-5
+  B-5, See also JCMEC                                EOD role, 5-6
+                                                     exploitation, 4-7
+Air Force, 2-2, 2-4                                  Exploitation Company, 3-3
+                                                     JCMEC role, 5-7
+ammunition officer, 5-7                              MASINT Detachment, 3-3
+                                                     NTC Detachment, 3-3
+ARAT. See also MASINT                                provost marshal role, 5-6
+  IPC, A-5                                           reporting sequence, 4-7
+  production centers, A-5                            reports, E-1
+  TSS, A-5                                           responsibilities, 5-1
+                                                     Staff Judge Advocate role, 5-7
+areas of exploitation, 3-8
+                                                   BDA, A-2. See also MASINT
+Army, 2-2, 2-5
+  AMC, 2-2, 2-5                                    biomedical samples, Appendix H
+  INSCOM, 2-2, 2-3, 2-5, 2-6
+  ODCSINT, 2-2, 2-5                                CA elements, 5-10
+
+Army Foreign Materiel Program, 2-5                 CB sampling
+                                                     enviornmental, H-2
+Army Materiel Command                                liquid and vapor, H-7
+  CBDCOM, 2-2, 2-5                                   packaging, H-8
+  STICEUR, 2-2, 2-5, A-3                             procedures, H-1
+  STICFE, 2-2, 2-5                                   soil, H-7
+  TECOM, 2-2, 2-5                                    vegetation, H-7
+  TEU, 2-2, 2-5                                      water, H-7
+
+automation systems, 3-9                            CBDCOM, 2-5
+
+aviation officer, 5-5                              CCIR, 4-1
+
+battlefield TECHINT, 3-1                           C-E and IEW Exploitation Element, B-4,
+  203d MI Battalion role, 3-1, 3-3                   B-6, See also JCMEC
+  ammunition officer role, 5-7
+  analysis, 4-8                                    C-E TECHINT, 3-10
+  aviation officer role, 5-5
+  channels, 3-5                                    CED. See CEM
+  chemical officer role, 5-5
+  CMEC role, 3-2, 3-6                              CEE. See CEM
+  Collection Company, 3-3
+  command surgeon role, 5-6
+
+                                                                                     Index-1
+
+
+---
+
+FM 34-54                                       responsibilities, 4-2, 4-6
+
+CEM, 1-6, 1-7, 3-1                           collection. See TECHINT collection
+  aviation officer role, 5-5
+  battlefield TECHINT responsibilities for,  collection company, B-4, B-6. See Also
+     3-1, 4-3, 5-1,                            JCMEC
+  CMEC responsibilities, 3-3 through 3-9,
+     D-5                                     collection managers, 3-3
+  command responsibilities, D-6
+  disposition and destruction, D-9, D-10     collection plan, F-1
+  exploitation of, 3-4, 3-5
+  exploitation requirements, F-2             command surgeon, 5-6
+  handling and evacuation of, Appendix C,
+     D-4                                     COMTECHREP, E-1, E-3
+  handling and processing, B-2 through D-8,    Type A, E-4
+  information flow, 4-4                        Type B, E-6
+  JCMEC responsibilities, 5-7, Appendix B      Type C, E-9
+  marking and tagging, B-2, C-9 through
+     C-13, D-6                               conflict. See military environments
+  policy, D-4
+  provost marshal role, 5-6                  DARPA, 2-2, 2-4
+  recovery, C-14
+  reporting, D-3, D-4, Appendix E            Defense Intelligence Agency
+  reporting procedures, Appendix E             AFMIC, 2-2, 2-3
+  requirements, D-9                            DHS, 2-2, 2-4
+  S4 responsibilities, 3-4                     MSIC, 2-2, 2-3
+  SJA role, 5-7
+  staff responsibilities, 5-1 through 5-4    DETECHREP, E-1, E-10
+
+checklists, Appendix I                       DHS, 2-2, 2-4
+
+chemical officer, 5-5                        dissemination, See also
+                                                  TECHINT
+CJCMEC, 3-3, 3-4, 3-8, 5-7. See also
+  CMEC and JCMEC                               definition, 4-6
+                                               of CEM, 5-8
+CM&D element, B-4, B-6. See also JCMEC         of EOD information, 5-6
+                                               of TECHINT products, 3-1, 4-6
+CMEC, 1-5, 3-2, C-1, C-2, C-6, C-8, F-2        of TIRs, E-1, E-11
+     See also CJCMEC; JCMEC; JTIB              staff section duties, 5-1
+
+  functions, 3-3 through 3-10, D-6           DOD S&TI community, 2-2
+  S4 responsibilities, 3-4
+                                             EAC, 2-6
+CMEC (Forward)                                 at force projection brigades, A-1
+  functions, 3-7                               TECHINT support, 3-6, D-2
+  handling CEM, 4-3, 4-5, C-9
+  J4/G4 responsibilities, 5-4
+  logistic functions, C-2
+
+Index-2
+
+
+---
+
+ELECTRO-OPTINT, A-3                                                                         FM 34-54
+
+engineer officer, 5-6                          Haiti, 1-8
+                                               Korean War, 1-5
+engineer topographic and terrain units,        Raid on Bruneval, 1-3
+  5-11                                         Somalia, 1-7
+                                               Vietnam, 1-5
+EPW                                            World War II, 1-2
+  evacuation and processing, 5-1, C-6
+  tags, C-9 through C-13                     information requirements, 5-6, D-1, F-1
+                                               developed by JTIB, 4-1
+EXCEN, B-4, B-5. See also JCMEC                JCMEC role, 5-7
+  Air and Missile Exploitation Element, B-5
+  C-E and IEW Exploitation Element, B-6      INSCOM functions, 2-6
+  CM&D Element, B-6                            FPB, 2-2, 2-6
+  Ground Exploitation Element, B-5             FMEP 2-3, 2-6
+  Maritime Exploitation Element, B-5           FMT Program, 2-5
+  Medical and NBC Exploitation Element,        MASINT responsibilities, A-2
+    B-5                                        NGIC, 2-2, 2-6
+                                               S&TI exchange, 2-3
+force projection brigades, 2-2, 2-6, A-3       TECHINT operations responsibilities, 2-5
+
+foreign materiel exploitation, 2-5, 2-7,     intelligence collection
+  B-3                                          management, B-3
+                                               MASINT mission, A-1
+Foreign Materiel Exploitation Program,
+  2-3, 2-6                                   intelligence cycle, 4-1, 4-6
+
+Foreign Materiel for Training Program,       intelligence production center
+  2-6, 3-5                                     AFMIC, 2-3
+                                               MSIC, 2-3
+Foreign Materiel Intelligence Branch,
+  1-6                                        intermediate processing centers, A-5
+
+Foreign Medical Materiel Exploitation        J1/G1
+Program, 2-3                                   responsibilities, 5-1, D-1
+
+foreign technological developments, 2-1      J2/G2, 3-2
+                                               compliance with Geneva Convention, 5-3
+geophysical intelligence, A-4                  relationship with capturing units, 5-8
+                                               relationship with Command Surgeon,
+Ground Exploitation Element, B-4, B-5.            5-6, D-4
+  See also JCMEC                               responsibilities, 4-1, 5-2
+
+historical perspectives                      J3/G3 responsibilities, 5-1 through 5-6
+  Grenada, 1-6
+  Gulf War, 1-6                              J4/G4 responsibilities, 5-4, C-3
+
+                                             J5/G5 responsibilities, 5-5
+
+                                                                                               Index-3
+
+
+---
+
+FM 34-54                                          medical TECHINT, 3-10
+
+JCMEC, 1-6, 3-4, 3-8. See also JTIB;              medical units, 5-11, D-12
+     CMEC; CJCMEC                                   collection of samples, H-2, H-9, H-11
+
+  exploitation requirements, 3-7, F-2,            MEF intelligence element, 3-9
+  in joint or combined operations, 3-4
+  LNE, 4-8, D-4                                   military environments
+  organization, 3-3, B-4                            conflict, 1-2, 3-3, B-3
+  purpose, B-1                                      peacetime, 1-2, 2-5, A-1
+  responsibilities, 3-8, 4-2, 5-7, B-1,             war, 1-2, 1-5, 1-8, 3-3, 3-6, A-1
+
+     D-11                                         military police, 5-6, C-6
+  role in intelligence cycle, 4-1 through 4-8       CEM role, 5-6, 5-8, 5-11, C-6, C-14
+  required reports, 4-7, Appendix E                 duties on the battlefield, 5-11
+                                                    in support of JCMEC, B-2
+JTIB, 4-1, B-1, B-2. See also JCMEC;                responsibilities of, 5-6, 5-11, C-6, C-14
+     CMEC; CJCMEC
+                                                  mobility TECHINT, 3-10
+  in joint operations, 3-6
+  missions, 3-6, 4-7                              MSIC, 2-2, 2-3
+  TECHINT reports, 4-6, E-1
+                                                  munitions TECHINT, 3-10
+lessons learned, 1-8
+                                                  NAIC, 2-2, 2-4
+liaison elements. See also TECHINT
+  composition, 3-2, 3-8, B-1, B-3                 National Ground Intelligence Center, 2-2,
+  responsibilities, 3-4, 3-5, 4-3, 4-8, B-3, E-1    2-6, A-3, G-1
+
+Maritime Exploitation Element, B-4, B-5.          Navy, 2-2, 2-4
+  See also JCMEC                                    MCIA, 2-2
+                                                    ONI, 2-2, 2-4
+MASINT, 2-4, 2-6, A-1                               EOD training, 2-4
+  agency responsibilities, A-2
+  BDA, A-2                                        NBC, B-5, C-2, C-6, C-8, H-1, H-3, H-13
+  data requirements, 2-6                            capturing unit role, 5-8
+  in support of                                     chemical officer role, 5-5
+     collection teams, 3-4, 3-8                     command surgeon role, 5-6
+     force modernization, A-6                       equipment, 4-9
+     S&TI, 2-6                                      functional area of TECHINT, 3-10,
+     TECRAS, 2-6                                       4-3, 4-9, C-7
+  mission, 3-3, A-1                                 J2/G2 responsibilities, 5-2
+  RINT integration, A-4                             materials intelligence, A-4
+  TIARA systems, A-1
+  training, 2-7                                   NBC (continued)
+                                                    role of TEU, 2-2,2-5
+materials intelligence, A-4                         samples, 5-11, D-11, H-3
+
+Medical and NBC Exploitation
+     Element, B-4, B-5. See also JCMEC
+
+Index-4
+
+
+---
+
+NBC reconnaissance teams                                                                       FM 34-54
+  responsibilities, 5-11, H-2, H-3, D-6, D-11,
+     D-12                                       RDEC, 2-5
+
+NBC TECHINT, 3-10                               responsibilities of
+                                                  capturing units, 5-8
+NSA, 2-2, 2-4                                     engineer topographic and terrain
+                                                     units, 5-10
+NTC mission, 3-5                                  EOD, 5-6, 5-12
+                                                  J1/G1, 5-1
+NUCINT, A-5                                       J2/G2, 5-2
+                                                  J3/G3, 5-3
+ODCSINT, 2-2                                      J4/G4, 5-4
+  responsibilities, 2-3, 2-5, A-3                 J5/G5, 5-5
+                                                  JCMEC, 3-8, 4-2, 5-7, B-1, D-11
+OPCEN, B-4. See also JCMEC                        military police, 5-6, 5-11, C-6, C-14
+                                                  MI units, 5-9
+operational support, H-1, 3-4 through 3-10        NBC reconnaissance teams, 5-11
+  role of commanders, 1-2, B-3                    SOF, 5-9
+  TECHINT requirements, 2-1, 3-4, 3-5             staff officers, 5-5
+
+peacetime engagement. See military              S&TI. See also S&T
+  environments                                    203d MI Bn, 2-6, 2-7
+                                                  AFMIC role, 2-3
+PIR, D-1, F-1                                     Air Force role, 2-4
+  capturing units, 5-8                            Army role, 2-5
+  command surgeon, 5-6                               characteristics, 1-1
+  JCMEC, 5-8                                      CMEC role, 3-7
+                                                  community structure, 2-1, 2-2, F-3
+POL, C-4, C-6, I-2                                definition of, 1-1
+                                                  DIA role, 2-3, F-1
+PRETECHREP, E-1, E-2, E-3                         directorate responsibilities, 2-3
+                                                  exploitation of, 4-8
+processing. See TECHINT                           fulfilling TECHINT requirements, 2-3
+                                                  historical perspective, 1-6, 1-7, 1-8
+production. See TECHINT                           JCMEC role, 5-8, F-3
+                                                  JTIB role, 4-2, 4-6
+provost marshal, 5-6                              MSIC role, 2-3
+                                                  NAIC role, 2-4
+PSYOP teams, 5-9, 5-10                            Navy role, 2-4
+                                                  ODCSINT responsibilities, 2-5
+radar intelligence, A-4                           process and procedures, 4-6, 4-8
+                                                  purpose of, 2-1
+radio frequency intelligence, A-4
+                                                                                                  Index-5
+RC TECHINT, 3-6, 3-9
+
+
+---
+
+FM 34-54
+
+S&TI community, 2-1, 2-2, 4-2            target folder, 4-2
+
+S&TI directorate, 2-3                    target sensing systems, A-5
+
+SALUTE                                   TECHINT
+  example of, E-1, E-2                     at operational level, 1-2
+  reporting, 4-7, 5-8, C-7, C-14, D-3      at strategic level, 1-1, 2-1
+                                           at tactical level, 1-2
+scientific and technical information.      battlefield operations, 3-1, 3-2
+     See S&TI                              CEM, C-1
+                                           collection, 3-1 through 3-10 4-3, F-1
+SIGCEN, B-4, B-6. See also JCMEC           definition, 2-1
+                                           dissemination, 4-6
+signatures analysis, 3-10                  goals, 2-1
+                                           historical perspective, 1-1 through 1-9
+SIR, 4-1, 4-3                              in force protection, 1-9
+                                           input to Intelligence Annex, D-1
+SJA, 5-3. See also J2/G2                   in relation to MASINT, A-1, A-6
+                                           intelligence cycle, 4-1, 4-7
+SOF                                        lessons learned, 1-8
+  aviation units, 5-10                     liaison elements, 3-5, 3-9, 4-3, 4-8, D-2,
+  CA elements, 5-10                           F-1
+  PSYOP teams, 5-10                        mission, 1-1
+  ranger units, 5-9                        objectives, 2-1
+                                           processing, 4-6
+Special Forces and Ranger Units, 5-9       production, 4-6
+                                           reports, E-1
+Special Operations Aviation Units, 5-10    responsibilities, 5-1
+                                           support to the warfighter, 1-1
+special technical reports, E-1             target folder, 4-2
+                                           templating, 4-2
+SUPCEN, B-4
+                                         TECHINT analysts, 3-7
+STICEUR, 2-5                               CEM responsibilities, 3-1, 5-12
+                                           exploitation function, 3-4, 3-8, 4-8, 4-9,
+203d MI Battalion, 2-6            H-12        C-6
+  CMEC function, 3-3, 3-4                  reports, E-1
+  collection company, 3-3, 3-4
+  exploitation company, 3-3, 3-4         TECHINT collection, 3-1 through 3-10,
+  HHC, 3-3                                    5-11
+  JCMEC and CJCMEC, 3-3, 3-8
+  MASINT Detachment, 3-3, 3-5              chemical officer role, 5-5
+  mission, 2-6, 3-3, F-2                   CM&D, B-6
+  NGIC, 3-3                                definition, 4-3
+  NTC Detachment, 3-3, 3-5                 historical perspective, 1-8
+  organization, 3-3                      TECHINT Collection (continued)
+                                           intelligence cycle, 4-1 through 4-7
+TAML, B-5, D-6, D-13, H-9, H-11,           J2/G2 role, 5-2
+
+Index-6
+
+
+---
+
+  J4/G4 role, 5-4                                                                            FM 34-54
+  J5/G5 role, 5-5                               TECHSUM, E-1, E-10
+  JCMEC role, B-1 through B-6                   TIR, E-1, E-11
+  JTIB role, B-2
+  NBC reconnaissance role, 5-11               TECHINT training, 2-6
+  of CB samples, D-11 through D-14
+  of CEM, D-4, B-2                            technical escort unit, 2-5, H-2, H-3
+  POL unit role, C-4, C-6
+  priorities, D-7                             technical intelligence. See TECHINT
+
+TECHINT Collection Company, 3-4,              Technical Intelligence Update Report.
+  B-6                                           See TECHINT reports
+
+TECHINT collection plan, F-1                  TECHSUM. See TECHINT reports
+
+TECHINT collection teams                      TECOM, 2-5
+  automation systems, 3-10
+  C-E, 3-10                                   TECRAS, 2-7, A-1, A-3
+  Medical, 3-10
+  Mobility, 3-10                              templating, 4-2
+  Munitions, 3-10
+  NBC, 3-10                                   Theater ACE, 4-6
+  Weapons, 3-10
+                                              Theater and Supporting Command
+TECHINT Exploitation Company, 3-3.                 Surgeon, 5-6
+  See also HHC and CMEC
+                                              Theater Surgeon General, D-4, D-11, D-13
+TECHINT LNEs, 3-2 through 3-8
+  at Corps, 4-8, 5-8, C-9, E-1, E-4           TIARA, A-1
+  composition, 3-8
+                                              TIR. See TECHINT reports
+TECHINT operations, 3-2
+                                              war. See military environments
+TECHINT reports
+  COMTECHREP, E-1 through E-10                warfighter
+  DETECHREP, E-1, E-10                          mission, 1-1
+  PRETECHREP, E-1, E-2, E-3                     TECHINT support, 1-1, 1-7, 2-1, 3-1
+  SALUTE, E-1, E-2
+  special technical reports, E-1              war trophies, 5-3, B-3, C-6, C-15
+  Technical Intelligence Update Report, E-1,
+     E-10                                     weapons TECHINT, 3-10
+
+                                              Index-7
+
+
+---
+
+
+
+--- 

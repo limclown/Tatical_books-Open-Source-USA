@@ -1,0 +1,5771 @@
+# fm_90-7-c1_undated  FM 90-7
+Combined Arms
+Obstacle Integration
+
+               HEADQUARTERS, DEPARTMENT OF THE ARMY
+
+ DISTRIBUTION RESTRICTION: Approved for public release; distribution is
+ unlimited.
+
+
+---
+
+Change 1                                                                                   FM 90-7
+                                                                                                  C1
+
+                                                                                    Headquarters
+                                                                      Department of the Army
+                                                             Washington, DC, 10 April 2003
+
+Combined Arms Obstacle Integration
+
+1. Change FM 90-7, 29 September 1994, as follows:
+
+Remove Old Pages                                   Insert New Pages
+
+B-3 and B-4                                        B-3 and B-4
+
+2. A bar ( ) marks new or changed material.
+
+3. File this transmittal sheet in front of the publication.
+
+DISTRIBUTION RESTRICTION: Approved for public release; distribution is unlimited.
+
+By Order of the Secretary of the Army:
+
+                                                         ERIC K. SHINSEKI
+                                                   General, United States Army
+
+                                                              Chief of Staff
+
+Official:
+
+               JOEL B. HUDSON
+       Administrative Assistant to the
+
+             Secretary of the Army
+                                0307104
+
+DISTRIBUTION:
+
+Active Army, Army National Guard, and US Army Reserve: To be distributed in accordance with the
+initial distribution number 115197, requirements for FM 90-7.
+
+
+---
+
+                                    FM 90-7
+
+FIELD MANUAL                                            FM 90-7
+No. 90-7
+                                            HEADQUARTERS
+                           DEPARTMENT OF THE ARMY
+                 Washington, DC, 29 September 1994
+
+                 Combined Arms
+              Obstacle Integration
+
+Contents
+
+              i
+
+
+---
+
+FM 90-7
+                                                                               ii
+
+
+---
+
+                                                                    FM 90-7
+iii
+
+
+---
+
+FM 90-7
+                                                                               iv
+
+
+---
+
+                                                                   FM 90-7
+v
+
+
+---
+
+FM 90-7
+                                                                               vi
+
+
+---
+
+                                                                    FM 90-7
+vii
+
+
+---
+
+FM 90-7
+                                                                              viii
+
+
+---
+
+                                                                                                                                                   FM 90-7
+
+                         Preface
+
+Field Manual (FM) 90-7 is intended for the combined arms commander and staff. It encom-
+passes doctrine established in FMs 5-100, 6-20 series, 71-100, 100-5, and 100-7. The doctrine
+presented in the following chapters seeks to develop the full potential of obstacles as a compo-
+nent of combat power. Each chapter contains tactics, techniques, and procedures (TTP) that
+take the doctrinal foundation and provide the “How To” connection.
+This manual initially defines and establishes the principles for obstacle operations then
+applies them at echelons from corps to company team, concentrating on essential TTPs.
+ Chapter 2 provides the key obstacle terms that will be used throughout the manual. Chapter 3
+covers obstacle integration theory. Chapter 4 covers obstacle planning from corps through
+brigade level. Chapter 5 covers obstacle planning from task force (TF) through company team
+level. Chapters 4 and 5 build on the foundations in Chapters 1 through 3 and establish eche-
+ lon-specific TTPs. Chapters 6 through 8 provide considerations for specific types of obstacles.
+Three appendixes provide the additional tools that facilitate successful planning and execu-
+tion. Appendix A provides information on individual obstacles. Appendix B addresses the crit-
+ical activities in reporting, recording, and tracking. Finally, Appendix C describes obstacle
+resourcing and supply.
+ Throughout this manual, the terms brigade, TF, and company team are used to refer to all
+ friendly brigade-, battalion-, and company-size units (to include cavalry units) unless other-
+ wise noted. The terms regiment, battalion, and company are used only when referring to
+ enemy units unless otherwise noted.
+ This publication implements international Standardization Agreement (STANAG) 2017.
+
+ The proponent for this publication is Headquarters (HQ), United States (US) Army Training
+ and Doctrine Command (TRADOC). Submit comments and recommendations on Department
+ of the Army (DA) Form 2028 and forward it to: Commandant, US Army Engineer School,
+ ATTN: ATSE-T-PD-P, Fort Leonard Wood, MO 65473-6500.
+ Unless otherwise stated, masculine nouns and pronouns do not refer exclusively to men.
+
+                                                                                ix
+
+
+---
+
+                                                                                                              FM 90-7
+
+              Chapter 1
+
+  Obstacles and the
+Combined Arms Team
+
+Obstacles are any characteristics of the ter-     companies. The company was to provide him
+rain that impede the mobility of a force.         with a work detail to install the mines and,
+Some obstacles, such as mountains, rivers,        more importantly, provide the location of the
+railway embankments, and urban areas,             minefield.
+exist before the onset of military operations.
+Military forces create other obstacles to sup-    At 2330 hours, he arrived at the infantry com-
+port their operations. Commanders use             pany command post (CP), but no one at the
+these obstacles to support their scheme of        CP could tell him the whereabouts of the work
+maneuver. When integrated with maneuver           detail. Nor could anyone tell him where the
+and fires, obstacles can create a decisive bat-   minefield should go or what role the mine-
+tlefield effect. Obstacle plans must mature       field was to play in the defense. The company
+as the commanders’ plans mature.                  executive officer (XO) told the engineer to go
+                                                  down the road in the direction of the enemy.
+ HISTORICAL USE OF OBSTACLES                      He assured the lieutenant that somewhere
+                                                  along the road he would meet someone who
+History shows that obstacles rarely have a        undoubtedly was waiting for him.
+significant effect on the enemy if units do
+not integrate them with friendly fires. The       At 0130 hours, the lieutenant returned to the
+following historical vignette from World War      CP after searching along the road and find-
+II is an example of obstacles that were not       ing no one. He insisted on speaking with the
+integrated with fires.                            infantry company commander who was sleep-
+                                                  ing. The infantry company commander told
+In February 1942, an engineer lieutenant          the lieutenant that he would provide him
+with two noncommissioned officers (NCOs)          with a forty-man detail, led by an infantry
+received orders to supervise the installation of  lieutenant who would show the engineer
+a minefield to support the defense of an          where to install the minefield.
+American infantry battalion near the Kasse-
+rine Pass in Tunisia. The lieutenant set off      At 0330 hours, the infantry lieutenant
+at 1930 hours with a truckload of mines, to       showed up with a twelve-man detail. Apolo-
+link up with one of the infantry battalion’s      gizing for the small number of men, the
+                                                  infantry lieutenant also told the engineer
+
+                                                  Obstacles and the Combined Arms Team 1-1
+
+
+---
+
+FM 90-7
+
+that he had no idea where the mines were to     dismounted infantry forward to breach the
+go. The engineer lieutenant moved out with      minefield. When the infantry reached the
+the detail to choose a site for the minefield   minefield, the Americans would open up
+himself. Unfortunately, he had never seen the   with machine-gun fire and pound the enemy
+site in daylight and was unable to ensure that  with artillery and mortar fire. Simulta-
+the obstacle was covered by fire (it was not).  neously, the American tanks and AT weapons
+Additionally, the lieutenant had a small,       would start firing at the North Korean
+untrained work crew, without the tools to       armored vehicles.
+bury the mines.
+                                                In one night engagement, the Americans
+When the first Germans arrived at the mine-     destroyed eighteen North Korean tanks, four
+field, they found mines hastily strewn across   self-propelled guns, and many trucks and
+the road, from a hill on one side to the road   personnel carriers, while taking only light
+embankment on the other (about 100 meters).     casualties. Although the obstacles alone did
+Most mines were not even partially buried.      not defeat the enemy, friendly fires combined
+German engineers quickly removed the mines      with the effects of the obstacles inflicted
+from the road, and the German force contin-     heavy losses on the enemy and halted their
+ued forward, unmolested by American fires.      attack.
+The minefield was virtually useless.
+                                                         CHARACTERISTICS OF
+Despite all of the problems that the lieuten-
+ant encountered, his efforts would not have                      OBSTACLES
+been for nothing if the minefield had been
+integrated with fires. Small arms and artil-    Some obstacles, such as antitank ditches
+lery might have wreaked havoc on the dis-       (ADs), wire, road craters (RCs), and many
+mounted German engineers, while a single        types of roadblocks, have virtually remained
+antitank (AT) weapon might have done the        the same since World War II. They rely on a
+same to the German tanks halted behind the      physical object to impede vehicles or dis-
+minefield.                                      mounted soldiers. Normally, they do not
+                                                damage or destroy equipment, nor do they
+The following historical vignette from the      injure or kill soldiers. One exception is a
+Korean War illustrates the possibilities        booby-trapped obstacle that, when it is
+when a unit integrates fires and obstacles.     moved, triggers an explosive device; there-
+                                                fore, these obstacles are passive in nature.
+In August of 1950, an American infantry regi-
+ment was defending along a stretch of the       Mine warfare, however, has changed signifi-
+Taegu-Sangju Road known as the “Bowling         cantly. Mines, with different fuze types and
+Alley” in the Republic of Korea. The regiment   explosive effects, are different from the
+had artillery and a few tanks in support.       mines of the World War II era (which
+                                                required physical contact and relied on blast
+The attacking North Koreans had the advan-      effect). Today’s mines are triggered by pres-
+tage of superior numbers of armored vehicles.   sure, seismic, magnetic, or other advanced
+However, as part of their defense, the Ameri-   fuzes. Mines that self-destruct (SD) at
+cans laid AT minefield close to their infantry  preset times give commanders influence
+positions so that they could cover the mine-    over how long they remain an obstacle.
+field with small-arms fire. They also prereg-   The invention of programmable mines that
+istered artillery and mortar fires on the       can recognize and attack specific types of
+minefield.                                      vehicles within an area brings another
+                                                dimension to the battlefield. Mine warfare
+When the North Koreans attacked, they
+would invariably halt their tanks and send
+
+1-2 Obstacles and the Combined Arms Team
+
+
+---
+
+                                                FM 90-7
+
+technology continues to outpace counter-        flexible plans, sound organizations, and
+mine technology.                                logistical support.
+
+Commanders at every echelon consider            Effective obstacle integration enhances the
+obstacles and their role in multiplying the     force’s ability to gain, retain, or secure the
+effects of combat power to integrate obsta-     positional advantage. The commander and
+cles into all combined arms operations.         staff use obstacle integration to develop an
+Obstacles that are not properly integrated      obstacle plan as they develop the maneuver
+with the scheme of maneuver are a hin-          plan. They use obstacle control to preserve
+drance and may be detrimental to the            and protect friendly maneuver and shape
+friendly scheme of maneuver by restricting      enemy maneuver. They use obstacles to put
+future maneuver options. They will inhibit      the enemy into a positional disadvantage
+maneuver until they are breached or             relative to the friendly force.
+bypassed and ultimately cleared. The tech-
+nology used to create obstacles may continue                      FIREPOWER
+to become more complex; however, the basic
+concepts that affect the integration of obsta-  Firepower provides the destructive force to
+cles into the commander’s plan will remain      defeat the enemy’s ability and will to fight.
+the same.                                       It facilitates maneuver by suppressing the
+                                                enemy’s fires and disrupting the movement
+   DYNAMICS OF COMBAT POWER                     of his forces.
+
+   AND OBSTACLE INTEGRATION                     Obstacle integration multiplies the effects
+                                                and capabilities of firepower. Obstacle inte-
+Commanders combine four primary ele-            gration establishes a direct link between
+ments (the dynamics of combat power as          fires, fire-control measures, and obstacle
+described in FM 100-5) to create combat         effects. The combination of firepower and
+power. They are—                                obstacles causes the enemy to conform to the
+                                                friendly scheme of maneuver. Obstacles
+      Maneuver.                                 magnify the effects of firepower by—
+      Firepower.
+      Protection.                                     Increasing target acquisition time.
+      Leadership.                                     Creating target-rich environments.
+                                                      Creating vulnerabilities to exploit.
+Obstacles, when properly planned and inte-
+grated into the scheme of maneuver, contrib-                      PROTECTION
+ute to combat power.
+                                                Protection is the conservation of the fighting
+                   MANEUVER                     potential of a force so that commanders can
+                                                apply it at the decisive time and place. Pro-
+Maneuver is the movement of combat forces       tection has the following components:
+to gain positional advantage, usually to
+deliver—or threaten delivery of—direct and            Maintaining operations security
+indirect fires. The effects of maneuver also          (OPSEC) and deception.
+may be achieved by allowing the enemy to              Keeping soldiers healthy.
+move into a disadvantageous position.                 Maintaining soldiers’ fighting morale
+Effective maneuver demands air and ground             and safety.
+mobility, knowledge of the enemy and ter-             Avoiding fratricide.
+rain, effective command and control (C2),
+
+                                                Obstacles and the Combined Arms Team 1-3
+
+
+---
+
+FM 90-7
+
+Friendly forces use OPSEC to deny the            obstacle effects and affect both enemy and
+enemy information about friendly force           friendly maneuver. The maneuver com-
+obstacles to inhibit the enemy’s breaching or    mander uses obstacles integrated with fires
+bypassing efforts. They use phony obstacles      and maneuver to create vulnerabilities and
+to deceive the enemy about locations of          ensure the enemy’s defeat. Combat service
+actual obstacles and friendly positions.         support (CSS) units anticipate and trans-
+They use obstacles to prevent enemy entry        port obstacle material to support the obsta-
+into friendly positions and installations to     cle effort. Effective C2 provides the unity of
+help protect soldiers from enemy assaults.       effort that drives obstacle integration
+Friendly forces record, report, and dissemi-     throughout all echelons of the force.
+nate obstacle information and take other
+actions to protect soldiers from friendly                    OTHER OBSTACLE
+obstacle impacts. These impacts range from
+injuries or damage to equipment, resulting                   CONSIDERATIONS
+from unexpected encounters with barbed
+wire obstacles, to fratricide caused by hitting  The overriding consideration in planning
+mines installed by friendly units.               obstacles is accomplishment of the mission;
+                                                 however, there are two considerations that
+                  LEADERSHIP                     may not be apparent in terms of the current
+                                                 military mission. They are—
+The essential element of combat power is
+competent and confident leadership. Leader-            Obstacle clearing at the cessation of
+ship provides purpose, direction, and moti-            hostilities.
+vation in combat. It is the leader who                 Obstacle effects on noncombatants and
+combines the elements of combat power and              their environment.
+brings them to bear against the enemy. The
+competent leader must know and under-            The Army’s keystone warfighting doctrine,
+stand soldiers and the tools of war to be suc-   FM 100-5, states that “even in war, the
+cessful in combat.                               desired strategic goal remains directed at
+                                                 concluding hostilities on terms favorable to
+Obstacle integration is a leader task. Obsta-    the US and its allies and returning to peace-
+cle integration ensures that obstacles have      time as quickly as possible.” Once US forces
+the right priority and that units construct      have accomplished their mission, obstacles
+them in the right place and at the right time    in the theater of operations (TO) must be
+and cover them with fire. Successful obsta-      cleared. Many of these obstacles will
+cle integration allows leaders to—               include mines, booby traps, and unexploded
+                                                 ordnance (UXO) that pose a threat to per-
+      Establish a clear link between force       sons attempting to clear the obstacles.
+      allocation, direct-and indirect-fire
+      plans, maneuver, and the obstacle plan.             OBSTACLE CLEARING
+      Ensure that weapons capabilities and
+      obstacle effects are compatible.           Obstacle-clearing operations continued for
+      Provide obstacle control.                  years in Kuwait following the end of the
+       nsure that obstacles are designed to      1990-1991 Persian Gulf War, largely due to
+      achieve the desired effect.                a lack of accurate minefield records by the
+                                                 defending Iraqi forces. The minefield con-
+Obstacle integration cuts across all func-       tinued to threaten civilians long after hostil-
+tional areas of the combined arms force.         ities were concluded and caused numerous
+Intelligence and obstacle integration provide    casualties to military and civilian personnel.
+the commander with the means to maximize
+
+1-4 Obstacles and the Combined Arms Team
+
+
+---
+
+                                                 .FM 90-7
+
+Appendix B addresses the procedures that         Commanders minimize the effects of obsta-
+the Army uses to report, record, and track       cles on noncombatants and the environment
+obstacles of the friendly force and of the       if militarily possible. For example, if the
+enemy. Accurate reporting, recording, and        enemy can be prevented from using a bridge
+tracking not only will prevent fratricide but    by means other than demolishing it,
+will expedite clearing operations when peace     commanders choose the less damaging
+is restored.                                     course of action (COA). Commanders avoid
+                                                 unnecessary destruction of farmland or for-
+      EFFECTS ON NONCOMBATANTS                   ests or pollution of water sources when cre-
+                                                 ating obstacles. Care exercised by
+Commanders also consider the effects of          commanders will alleviate long-term nega-
+obstacles on noncombatants and their envi-       tive effects on noncombatants and the envi-
+ronment. Obstacles frequently modify ter-        ronment.
+rain through demolition, excavation, and
+other means. Some obstacle actions, such as      Obstacle integration occurs because of the
+destroying levees, setting fires, felling trees  deliberate actions of commanders and staffs.
+in forested areas, or demolishing bridges,       The remainder of this manual focuses on
+may have immediate impacts on noncomba-          providing the doctrine and the TTP that
+tants and often will have long-term effects      commanders and staffs use to ensure that
+on them and their environment.                   obstacle integration is successful.
+
+                                                 Obstacles and the Combined Arms Team 1-5
+
+
+---
+
+                                                                                         FM 90-7
+
+   Chapter 2
+
+ Obstacle
+Framework
+
+This chapter provides a framework of terms                  EXISTING OBSTACLES
+and definitions that apply to obstacle plan-    Existing obstacles are obstacles that are
+ning and integration. Precise use of these      present on the battlefield as inherent
+terms creates a common language and pre-        aspects of the terrain. The types of existing
+vents confusion during planning and execu-      obstacles are—
+tion. The terms are presented in the
+following general categories:                         Natural.
+                                                      Cultural.
+      Obstacle classification.
+      Obstacle intent.                          Natural obstacles are terrain features, such
+      Obstacle protection.                      as rivers, forests, or mountains. Cultural
+      Obstacle C2.                              obstacles are man-made terrain features,
+                                                such as towns, canals, or railroad embank-
+    OBSTACLE CLASSIFICATION                     ments.
+
+Obstacles are any physical characteristics of            REINFORCING OBSTACLES
+the terrain that impede the mobility of a       Reinforcing obstacles are obstacles specifi-
+force. Obstacles fall into the following cate-  cally constructed, emplaced, or detonated by
+gories (see Figure 2-1, page 2-2):              military forces. The categories of reinforcing
+                                                obstacles are—
+      Existing obstacles.
+      Reinforcing obstacles.                          Tactical.
+                                                      Protective.
+Although not a separate type of obstacle,
+units can use phony obstacles. Phony obsta-                       Tactical Obstacles
+cles give the appearance of actual obstacles
+but require only minimal resources to           The primary purposes of tactical obstacles
+emplace. They deceive the enemy by provid-      are to—
+ing the visual signature, or other signa-
+tures, of actual tactical or protective               Attack the enemy maneuver.
+obstacles. Appendix A describes phony                 Multiply the effects and capabilities of
+obstacles.                                            firepower.
+
+                                                                                     Obstacle Framework 2-1
+
+
+---
+
+FM 90-7
+
+Tactical obstacles directly attack the           tasks to a subordinate unit. Units plan, pre-
+enemy’s ability to move, mass, and reinforce.    pare, and execute directed obstacles during
+Commanders integrate these obstacles into        the preparation of the battlefield. Most tacti-
+the force’s scheme of maneuver and direct-       cal obstacles are directed obstacles, and
+and indirect-fire plans to enhance the effects   most directed obstacles are planned at TF
+of friendly fires. The types of tactical obsta-  level. Chapter 5 provides details on planning
+cles are clearly distinguished by the differ-    directed obstacles in the context of TF obsta-
+ences in execution criteria. The three types     cle planning, although the process is the
+are—                                             same at any level.
+
+     Directed obstacles.                         Situational Obstacles. Situational obsta-
+                                                 cles are obstacles that units plan, and
+     Situational obstacles.                      possibly prepare, before beginning an opera-
+     Reserve obstacles.                          tion; however, they do not execute the obsta-
+                                                 cles unless specific criteria are met.
+Directed Obstacles. The higher com-              Therefore, units may or may not execute
+mander directs these obstacles as specified
+
+2-2 Obstacle Framework
+
+
+---
+
+                                                FM 90-7
+
+situational obstacles, depending on the situ-   the defending force from the enemy’s final
+ation that develops during the battle. They
+are “be prepared” obstacles and provide the     assault (see Figure 2-2). Base commanders
+commander flexibility for emplacing tactical    and base cluster commanders may emplace
+obstacles based on battlefield development.     hasty protective obstacles to protect against
+Chapter 7 provides specific considerations      all levels of threat in the rear area when
+for planning situational obstacles.             sites are to be occupied temporarily.
+
+Reserve Obstacles. Reserve obstacles are
+obstacles for which the commander restricts
+execution authority. These are “on-order”
+obstacles. The commander usually specifies
+the unit responsible for emplacing, guard-
+ing, and executing the obstacle. Units nor-
+mally plan and prepare reserve obstacles
+during preparation of the battlefield. They
+execute the obstacles only on command of
+the authorizing commander or based on spe-
+cific criteria that the commander identifies.
+Chapter 6 provides specific considerations
+for planning reserve obstacles.
+
+Tactical Obstacle Design. Units base tac-
+tical obstacle designs (width, depth, and
+composition) on the intended obstacle effect
+and formation of the attacker. They develop
+tactical obstacle designs to achieve one of
+four obstacle effects—disrupt, turn, fix, or
+block. Standard designs simplify obstacle
+resourcing, training, and effectiveness. See
+Appendix A for more information.
+
+                Protective Obstacles            Deliberate Protective Obstacles. These
+                                                are protective obstacles that are more per-
+Protective obstacles are a key component of     manent and that require more detailed
+survivability operations. Like final protec-    planning and usually more resources. Units
+tion fires (FPF), protective obstacles provide  employ deliberate protective obstacles in
+the friendly force with close-in protection.    strongpoints or at relatively fixed sites. Dur-
+The two types of protective obstacles are—      ing operations other than war (OOTW),
+                                                units emplace deliberate protective obsta-
+    Hasty.                                      cles as part of their force protection plan.
+    Deliberate.
+                                                Units base the composition of protective
+Hasty Protective Obstacles. These are           obstacles on analysis of the situational
+protective obstacles that are temporary in      template. They design protective obstacles
+nature. Soldiers can rapidly emplace and
+recover or destroy them. Platoons and
+company teams employ hasty protective
+obstacles next to their positions to protect
+
+                                                Obstacle Framework 2-3
+
+
+---
+
+FM 90-7
+
+against the most severe and the most likely          Disrupt.
+close combat threat. Emplacing units                 Turn.
+remove protective obstacles—or turn them             Fix.
+over to relieving units—before departing the         Block.
+area. A unit must report if it abandons pro-
+tective obstacles due to tactical necessity.                         Disrupt Effect
+Chapter 8 covers protective obstacles in
+greater detail.                                 The disrupt effect focuses fire planning and
+                                                obstacle effort to cause the enemy to break
+            OBSTACLE INTENT                     up its formation and tempo, interrupt its
+                                                timetable, commit breaching assets prema-
+Obstacle intent is how the commander            turely, and piecemeal the attack. It also
+wants to use tactical obstacles to support his  helps to deceive the enemy concerning the
+scheme of maneuver. Obstacle intent con-        location of friendly defensive positions, to
+sists of the following components:              separate combat echelons, or to separate
+                                                combat forces from their logistical support.
+      Target.                                   Figure 2-3 depicts a disrupt effect on an
+      Obstacle effect.                          attacking battalion. To achieve a disrupt
+      Relative location.                        effect, normally the obstacles must attack
+                                                half the enemy’s AA. The obstacles should
+                     TARGET                     not require extensive resources. They
+                                                should not be visible at long range but
+The target is the enemy force that the com-     should be easily detected as the enemy
+mander wants to affect with tactical obsta-     nears them. Commanders normally use the
+cles. The commander usually identifies the      disrupt effect forward of engagement areas
+target in terms of the size and type of enemy   (EAs).
+force, the echelon, the avenue of approach
+(AA), or a combination of these things.                            Turn Effect
+
+              OBSTACLE EFFECT                   The turn effect integrates fire planning and
+                                                obstacle effort to divert an enemy formation
+Tactical obstacles and fires manipulate the     off one AA to an adjacent AA or into an EA.
+enemy in a way that supports the com-           Its development requires well-defined
+mander’s intent and scheme of maneuver.         mobility corridors (MCs) and AAs. Fig-
+The intended effect that the commander          ure 2-4, page 2-6, depicts a turn effect on an
+wants the obstacles and fires to have on the    attacking battalion. To achieve this effect,
+enemy is called the obstacle effect. The        the obstacles have a subtle orientation rela-
+obstacle effect—                                tive to the enemy’s approach. The obsta-
+                                                cles and fires allow bypasses in the
+     Drives integration.                        direction desired by the friendly scheme of
+     Focuses subordinates’ fires.               maneuver. Obstacles at the start of the turn
+     Focuses obstacle effort.                   are visible and look more complex than
+     Multiplies the effects of firepower.       those in the direction of the turn. Finally,
+                                                the obstacles tie into impassable terrain at
+It is important to remember that obstacle       the initial point of the turn. Commanders
+effects occur because of fires and obstacles,   normally use the turn effect on the flanks of
+not just obstacles alone. All tactical obsta-   an EA.
+cles produce one of the following obstacle
+effects:
+
+2-4 Obstacle Framework
+
+
+---
+
+                                                  FM 90-7
+
+                         Fix Effect               units array obstacles in depth to cause the
+
+The fix effect focuses fire planning and obsta-   enemy formation to react and breach repeat-
+cle effort to slow an attacker within a speci-    edly. The obstacles must span the entire
+fied area, normally an EA. Primary use of         width of the AA, but they must not make the
+this effect is to give the friendly unit time to  terrain impenetrable. The individual obsta-
+acquire, target, and destroy the attacking
+enemy with direct and indirect fires through-     cles must look as if they could be easily
+out the depth of an EA or AA. The fix effect      bypassed or breached. A combination of
+may generate the time necessary for the
+friendly force to break contact and disengage     obstacles that are clearly visible and others
+as the enemy maneuvers into the area. Fig-        that are unseen (such as buried mines and
+ure 2-5, page 2-7, depicts a fix effect on an     obstacles on the reverse slope) help to con-
+attacking battalion. To achieve the fix effect,   fuse the enemy once it encounters the obsta-
+
+                                                  cles. Commanders normally use the fix
+                                                  effect inside the EA.
+
+                                                  Obstacle Framework 2-5
+
+
+---
+
+FM 90-7
+
+   NOTE: The fix effect is different           achieve the block effect, units integrate com-
+   from the maneuver action fix,
+   which requires preventing the ene-          plex obstacles with intense fires to defeat
+   my from moving any part of its              the enemy’s breaching effort. Complex
+   force from a specific location. Care-
+   ful use of the term “fix effect” will       obstacles are obstacles that require more
+   prevent confusion.
+                                               than one breaching technique to breach the
+                   Block Effect
+                                               obstacle. Units array obstacles successively
+The block effect integrates fire planning      in a shallow area. When the enemy breaches
+and obstacle effort to stop an attacker along
+a specific AA or prevent him from passing      one obstacle integrated with intense fires, it
+through an EA. Figure 2-6, page 2-8, depicts   encounters another obstacle integrated
+a block effect on an attacking battalion. To   with intense fires. Obstacles must defeat
+
+                                               the enemy’s mounted and dismounted
+                                               breaching effort. They must span the
+
+                                               entire width of the AA, allowing no bypass.
+                                               Obstacles intended to stop the enemy along
+
+                                               a specific AA should be readily visible to
+
+2-6 Obstacle Framework
+
+
+---
+
+                                               FM 90-7
+
+discourage the enemy. Obstacles used to pre-                Obstacle Effect Graphics
+vent an enemy from passing through an
+EA should not be as visible so that they       Commanders depict obstacle effects graphi-
+do not discourage the enemy from entering      cally. There is a separate graphic for each
+the EA. The block effect is used in one of     effect (see Figure 2-7, page 2-9). Command-
+two instances. The first is to stop the enemy  ers use obstacle effect graphics to convey the
+from using an AA and force it into another     effect they want the obstacles to have on the
+avenue that better supports the friendly       enemy.
+scheme of maneuver. The second is to stop
+the enemy’s forward movement and assist in                  RELATIVE LOCATION
+the complete destruction of its force at the
+base of the EA.                                The relative location is where the com-
+                                               mander wants the obstacle effect to affect
+
+                                               Obstacle Framework 2-7
+
+
+---
+
+FM 90-7
+
+the target. Wherever possible, commanders               Conducting counterreconnaissance
+give obstacle locations relative to maneuver            operations.
+or fire-control measures to integrate the               Targeting and destroying breaching
+effects of obstacles with fires.                        equipment.
+                                                        Repairing breached obstacles.
+      OBSTACLE PROTECTION                               Using phony obstacles.
+
+Obstacle protection is protecting the integrity          COUNTERRECONNAISSANCE
+of obstacles. Both the emplacing unit (the
+unit that constructs the obstacle) and the        Enemy reconnaissance operations begin
+owning unit (normally the company team            well ahead of any planned operation.
+responsible for siting the obstacle) play a role  Friendly forces conduct counterrecon-
+in obstacle protection. The following activi-     naissance to prevent the enemy from gath-
+ties ensure obstacle protection:                  ering information on friendly preparations.
+
+2-8 Obstacle Framework
+
+
+---
+
+                                                  FM 90-7
+
+FMs 71-2 and 71-3 discuss counterreconnais-       actions in conducting a patrol. A listening
+sance operations in detail. The reconnais-        post/observation post (LP/OP) that main-
+sance and surveillance (R&S) plan includes        tains constant observation on the obsta-
+obstacle protection as part of the counter-       cle is also depicted. Other assets, such as
+reconnaissance plan.                              ground surveillance radars (GSRs) or
+                                                  remote sensors, can aid in detecting infil-
+Establishing obstacle responsibility is critical  trating enemy forces that are attempting
+to obstacle protection. Commanders must           reconnaissance or a covert breach.
+enforce obstacle ownership. Company teams
+use patrols and constant observation to               BREACHING ASSET DESTRUCTION
+ensure that the enemy does not conduct
+reconnaissance of friendly obstacles. This        Once the battle begins, early identification
+not only prevents the enemy from gain-            and destruction of the enemy’s breach-
+ing detailed information but also prevents        ing equipment, along with C2 vehicles,
+a small enemy force from covertly breach-         ensure maximum effectiveness of obstacles.
+ing the obstacle before its attack. Figure        Destroying a tank with an attached
+2-8, page 2-10, depicts one company team’s        mine plow or roller reduces the enemy’s
+
+                                                  Obstacle Framework 2-9
+
+
+---
+
+FM 90-7
+
+breaching capability. This increases the time        Between enemy echelons or during a
+for the friendly force to engage and destroy         lull in the battle.
+other combat vehicles. Units identify high
+pay-off targets (HPTs) in the enemy’s order    Overmatching forces rely on quick repair
+of battle and establish priority of engage-    methods, such as using modular pack mine
+ment by friendly weapon systems.               systems (MOPMS) or hand emplacing two to
+                                               three mines in the enemy’s breaching lane.
+              OBSTACLE REPAIR                  Units must plan, resource, and rehearse
+As part of obstacle protection, the com-       obstacle-repair contingencies.
+mander must plan for obstacle-repair contin-
+gencies. Obstacle repair must occur in the                  PHONY OBSTACLES
+following instances:
+                                               Phony obstacles can support the complete
+      When a patrol detects enemy covert       obstacle protection plan. Examples include
+      breach attempts in tactical obstacles.   minefield marking where no minefield exists
+
+2-10 Obstacle Framework
+
+
+---
+
+                                              FM 90-7
+
+or shallow excavations and berms that look    granted, they have the authority in their
+like ADs. Phony obstacles serve to confuse    area of operations (AO), unless the authority
+enemy reconnaissance and breaching ele-       is subsequently withheld (or otherwise
+ments concerning the location of actual       restricted) by a higher commander. Com-
+obstacles.                                    manders subordinate to corps and divisions
+                                              do not have the authority to emplace obsta-
+          OBSTACLE COMMAND                    cles unless the higher commander gives
+               AND CONTROL                    them that authority for the current opera-
+                                              tion. Commanders use control measures and
+Obstacle C2 focuses on—                       other specific guidance or orders to grant
+     Obstacle-emplacement authority.          obstacle-emplacement authority to subordi-
+     Obstacle control.                        nate commanders. Higher commanders nor-
+                                              mally delegate the authority to emplace
+         OBSTACLE-EMPLACEMENT                 protective obstacles to the commanders of
+                   AUTHORITY                  company teams, bases, or installations.
+                                              Emplacement authority for the family of
+Obstacle-emplacement authority is the         scatterable mines (FASCAM) depends on the
+authority that a unit commander has to        particular system characteristics. Table 2-1
+emplace reinforcing obstacles. In a TO, the-  contains a detailed description of scatterable
+ater commanders have the authority to         mine (SCATMINE) emplacement authority.
+emplace obstacles. In almost all cases, they
+delegate the authority to corps commanders                 OBSTACLE CONTROL
+who further delegate the authority to divi-
+sion commanders. Once this authority is       Obstacle control is the control that com-
+                                              manders exercise to ensure that obstacles
+
+                                              Obstacle Framework 2-11
+
+
+---
+
+FM 90-7
+
+support current and future operations. Obsta-   emplacement authority and providing obsta-
+cle control ensures that subordinate com-       cle control. Table 2-2 summarizes some con-
+manders emplace obstacles to best support       siderations for use of obstacle-control
+the higher commander’s scheme of maneuver.      measures. Figure 2-9 shows the obstacle-
+Obstacle control also ensures that subordi-     control- measure graphics. Chapter 3 covers
+nate commanders do not emplace obstacles        the use of obstacle-control measures to sup-
+that will interfere with future operations.     port obstacle integration. Obstacle-control
+Commanders maintain obstacle control by—        measures are—
+
+      Focusing or withholding emplacement            Zones.
+      authority.
+      Restricting types or locations of obsta-       Belts.
+      cles.
+                                                     Groups.
+Commanders use control measures, specific
+guidance, and orders to maintain obstacle            Restrictions.
+control.
+                                                Obstacle Zones. Obstacle zones are a
+          Obstacle-Control Measures             graphic control measure that corps and divi-
+                                                sion commanders use to grant obstacle-
+Obstacle-control measures are specific control  emplacement authority to brigades (includ-
+measures that simplify granting obstacle-       ing armored cavalry regiments (ACR) and
+                                                other major subordinate units). Corps
+                                                and division commanders also use zones to
+
+2-12 Obstacle Framework
+
+
+---
+
+                                                FM 90-7
+
+ensure that subordinates emplace obstacles      Obstacle zones do not cross brigade bound-
+that support the higher commander’s             aries. Commanders assign zones to a single
+scheme of maneuver and that do not              subordinate unit to ensure unity of effort,
+interfere with future operations. Chapter 4     just as they would defensive sectors or battle
+                                                positions (BPs). This keeps tactical obstacle
+covers the use of obstacle zones for obstacle   responsibility along the same lines as con-
+planning.                                       trol of direct and indirect fires. This does not
+                                                normally create a vulnerability on the
+Corps and divisions plan obstacle zones         boundary between units since commanders
+based on brigade AOs. When defending            base both sectors and obstacle zones on
+against an enemy of similar composition and     defined AAs.
+capability, they align brigades and zones
+with enemy division AAs as defined by           Adjacent brigades may rarely cover the
+regimental MCs. However, a light division       same AA, but obstacle zones still do not
+defending against a mechanized enemy may        cross unit boundaries. Commanders give
+plan obstacle zones based on enemy regimen-     adjacent brigades obstacle zones that meet
+tal AAs as defined by battalion-size MCs. In    along their boundaries. To ensure unity of
+the offense, zone planning is more flexible.    obstacle effort, the commander designates a
+Corps and divisions still align obstacle zones  contact point for obstacle coordination
+with areas for which brigades are responsi-     between the adjacent brigades. The division
+ble. In any case, if the obstacle zone encom-   commander also may assign more than
+passes the entire brigade sector, another       one zone to a unit. This technique is useful
+graphic is unnecessary. Commanders may          when the commander wants to constrain
+designate the entire sector as an obstacle      tactical obstacle employment to two or more
+zone, with the unit boundaries defining the     specific areas, leaving the remainder free for
+geographical limits of the zone.                division maneuver.
+
+                                                Obstacle Framework 2-13
+
+
+---
+
+FM 90-7
+
+Commanders can assign an obstacle intent         boundaries. A single unit is responsible for a
+to an obstacle zone, but they normally do        belt; however, commanders may assign
+not. Although the target (normally an enemy      more than one belt to a unit. TF command-
+division) and relative location (the area of     ers cannot plan or emplace obstacles outside
+the zone) are apparent, commanders nor-          brigade-directed obstacle belts. Command-
+mally do not specify an obstacle effect for      ers use the same techniques as for obstacle
+a zone. This allows the subordinate com-         zones to ensure coordination along unit
+mander flexibility in using obstacles. Estab-    boundaries and may designate entire TF
+lishing zone priorities helps identify the       sectors as obstacle belts.
+division obstacle main effort to subordinates.
+                                                 Brigade commanders normally assign an
+Obstacle zones also assist the corps or divi-    obstacle intent to each obstacle belt. As with
+sion staff to resource and plan obstacle logis-  the obstacle zone, the target and relative
+tics throughput to the brigades. Staffs          location are apparent. The addition of a spe-
+resource obstacle zones by anticipating how      cific obstacle effect gives purpose and direc-
+the brigades will use obstacles based on         tion to TF obstacle planning. When brigade
+their assigned mission, intelligence prepara-    commanders assign an obstacle effect, they
+tion of the battlefield (IPB), task organiza-    ensure that obstacles within the belt com-
+tion, and division commander’s intent.           plement the brigade fire plan. The combina-
+Appendix C contains a detailed discussion of     tion of obstacle belts with specific effects is
+obstacle resourcing and supply.                  the commander’s obstacle intent. It conveys
+                                                 the effect that must be achieved by fires and
+Obstacle Belts. Obstacle belts are the           obstacles (obstacle effect) against a specific
+graphic control measure that brigade com-        enemy (target) within the defined belt (rela-
+manders use to constrain tactical obsta-         tive location) to his TF commanders.
+cle employment. They plan obstacle belts
+within assigned obstacle zones to grant          Obstacle belts refine the area authorized for
+obstacle-emplacement authority to their          tactical obstacles; however, they still give
+major subordinate units. Obstacle belts also     TF commanders the latitude they need to
+focus obstacles in support of the brigade        develop detailed obstacle plans based on
+scheme of maneuver and ensure that obsta-        direct-fire planning. The brigade com-
+cles do not interfere with the maneuver of       mander’s obstacle intent is descriptive
+any higher HQ Chapter 4 contains a               rather than prescriptive. Assigning a spe-
+detailed discussion of the use of obstacle       cific obstacle effect to a belt does not prevent
+belts for obstacle planning.                     TF commanders from employing the full
+                                                 range of tactical obstacle effects within the
+Brigade commanders use obstacle belts to         belt; however, the combined effect must
+attack the maneuver of enemy regiments (or       achieve the assigned intent of the belt.
+enemy brigade-size units). They plan and
+allocate belts against regimental AAs based      Obstacle belts are also critical tools in
+on battalion MCs. This is consistent with        resourcing and planning obstacle logistics.
+brigade planning, which allocates companies      There are two key components to logistically
+against battalion MCs and task organizes         sustaining the obstacle effort:
+TFs to defeat enemy regiments. As with
+obstacle zones, light units defending against          The commander and staff must
+mechanized forces focus obstacle belts one             resource the belt with the material,
+echelon down.                                          manpower, and time required to
+                                                       emplace the obstacles to meet the
+For the same reasons as discussed in obsta-            intent.
+cle zones, obstacle belts do not cross unit
+
+2-14 Obstacle Framework
+
+
+---
+
+                                                  FM 90-7
+
+      The brigade must develop a plan for         forces. Unlike obstacle zones or belts,
+      getting the necessary resources to the      obstacle groups are not areas but are rela-
+      right place, in the right amount, and in    tive locations for actual obstacles. Com-
+      sufficient time.                            manders normally show obstacle groups
+                                                  using the obstacle effect graphics. When
+Obstacle belts help the staff to identify         detailed planning is possible (to include
+requirements and plan transportation.             detailed on-the-ground reconnaissance),
+Appendix C contains a more detailed descrip-      commanders may show obstacle groups
+tion of belt resourcing and supply.               using individual obstacle graphics. Chapter
+                                                  5 contains a detailed discussion of the use
+   NOTE: The commander at corps, di-              of obstacle groups in obstacle planning.
+   vision, or brigade level may autho-
+   rize emplacement authority for                 Commanders can plan obstacle groups with-
+   certain types of protective obsta-             in the limits of their obstacle-emplacement
+   cles outside of obstacle zones or              authority. Corps and division commanders
+   belts. Normally, the commander                 can plan obstacle groups anywhere in
+   will authorize company team and                their AOs. Brigade and TF commanders
+   base commanders to emplace pro-                can plan them anywhere in their obstacle
+   tective obstacles within 500 meters            zones or belts, respectively. Because of the
+   of their positions (mission, enemy,            requirement for detailed integration with
+   troops, terrain, and time available            the fire plan, very few obstacle groups
+   (METT-T) dependent). The com-                  are planned above TF level. Unless solely
+   mander usually limits the types of             integrated with indirect fires, obstacle
+   obstacles that a unit may use for              groups planned at corps, division, or bri-
+   protective obstacles that are out-             gade level ultimately are integrated with
+   side of obstacle-control measures              fire at the TF level. When given a belt with
+   (for example, allowing only wire               an assigned intent, the TF commander can
+   and antipersonnel (AP) mines out-              use any combination of group effects if the
+   side of control measures for protec-           sum effect of all groups achieves the belt
+   tive obstacles and requiring that              intent.
+   minefield be fenced on all sides to
+   prevent fratricide).                           Obstacle groups impose strict limitations
+                                                  on company team commanders to preserve
+Obstacle Groups. Obstacle groups are one          the link between obstacle effects and the
+or more individual obstacles grouped to pro-      fire plan. The limitations are similar to the
+vide a specific obstacle effect. TFs use obsta-   limitations imposed by a BP. A group does
+cle groups to ensure that company teams           not give the exact location of obstacles in
+emplace individual obstacles that support         the group just as a BP does not show the
+the TF scheme of maneuver. In rare cases,         exact location of each weapon in the com-
+brigades, divisions, or even corps may use        pany team. The company team commander
+obstacle groups for specific tactical obstacles.  and the emplacing unit leader, usually an
+Also, units integrate obstacle groups with        engineer, coordinate these details directly.
+direct- and indirect-fire plans in detail.
+                                                  The company team commander and the
+Obstacle groups usually attack the maneu-         engineer can adjust obstacles in the group
+ver of enemy battalions. Normally, com-           if the intent and link to the fire plan
+manders plan obstacle groups along enemy          remain intact. Company team commanders
+battalion AAs as defined by company MCs.          make minor changes to obstacles and fire-
+They may plan a group along a company-size        control measures based on the reality of the
+AA. This is especially true for friendly light    terrain. For example, a commander may
+
+                                                  Obstacle Framework 2-15
+
+
+---
+
+FM 90-7
+
+move a fixing obstacle group and direct-fire     that impair future operations. It also allows
+target reference points (TRPs) a few hun-        commanders to focus the use of limited
+dred meters to avoid having them masked          resources for the main effort by restricting
+by rolling terrain. A major change to the        their use elsewhere. Commanders also may
+obstacle-group location requires the             use restrictions to prevent subordinates
+approval of the commander who ordered the        from emplacing obstacles in a certain area.
+obstacle group emplacement.                      This type of restriction may be shown graph-
+                                                 ically as an obstacle restricted area.
+Obstacle-ADgroup responsibility falls along
+the same lines as fire control. Normally,        Units also may indicate this type of restric-
+company team fire plans are relatively sim-      tion in the operation order (OPORD). For
+ple, massing the company team’s fires on a       example, the order may state that there will
+single AA at a time. Simplicity is essential in  be no obstacles along a designated main
+ensuring that company team commanders            supply route (MSR) or no demolition of a
+can focus their C2 on maximizing the             certain bridge. This type of restriction also
+effects of the obstacle group. A TF should       may be implied. For example, a planned
+not assign a company team more than              corps counterattack (CATK) axis implies to
+two obstacle groups; however, it can effec-      the division that the axis is an obstacle
+tively fight only one group at a time. To        restricted area. Subordinate commanders
+mass fires on an obstacle group, more than       have the right to be more restrictive than
+one company team will often cover a sin-         the higher commander; however, the subor-
+gle obstacle group. In these cases, the com-     dinate commander cannot relax the higher
+mander who is responsible for establishing       commander’s restrictions.
+the EA is also in charge of integrating the
+obstacle group. Normally, the TF com-                           Obstacle Numbers
+mander or Operations and Training Officer
+(US Army) (S3) plays a significant role in       Obstacle zones, belts, and groups are labeled
+building and synchronizing an EA covered         with alphanumeric designators. An obstacle
+by two or more companies.                        number is a twelve-character designator
+                                                 that is given to each individual obstacle.
+Obstacle groups, resource factors, and stan-     The first four characters designate the HQ
+dard individual obstacles are the basis of TF    that ordered the obstacle zone. The next
+obstacle logistics planning. They enable the     three characters are a letter for the obstacle
+commander and staff to allocate the neces-       zone, a number for the obstacle belt, and
+sary resources to each obstacle group, EA, or    another letter for the obstacle group. The
+company team BP. These tools also enable         next two characters are an abbreviation of
+the staff to identify critical shortfalls, plan  the individual obstacle type. This is fol-
+the flow of materials within the TF area, and    lowed by a two-digit number indicating the
+schedule resupply, Appendix C addresses          number of the individual obstacle in the
+obstacle resourcing in detail.                   group. The last character is a status code.
+                                                 Appendix B contains a detailed explanation
+Obstacle Restrictions. Commanders at all         of the use of the alphanumeric designator in
+levels may use obstacle restrictions to pro-     the obstacle reporting and recording system.
+vide additional obstacle control. Command-
+ers may use obstacle restrictions to limit the   The terms and definitions used in this chap-
+specific types of obstacles used (for example,   ter lay the groundwork for understanding
+no buried mines or no SCATMINEs). These          the remainder of this manual. The following
+restrictions ensure that subordinates do         chapters explain obstacle integration and
+not use obstacles with characteristics           planning.
+
+2-16 Obstacle Framework
+
+
+---
+
+                                                                                                           FM 90-7
+
+            Chapter 3
+
+Obstacle-Integration
+       Principles
+
+Obstacle integration is the process of ensur-   process (FM 34-130 covers the IPB process
+ing that the obstacle effects support the       in detail). The IPB integrates enemy doc-
+scheme of maneuver. Obstacle integration        trine with the terrain and weather, mission,
+cuts across all functional areas and all eche-  and current battlefield situation. The IPB
+lons. An understanding of the basic princi-     process helps the commander to—
+ples behind obstacle integration is essential
+for commanders and staffs at all levels.              Decide where to kill the enemy.
+These principles are the cornerstone for              Define the decisive point based on the
+obstacle planning discussed in Chapters 4             terrain, enemy doctrine, and vulnera-
+and 5.                                                bilities.
+
+Commanders and staffs consider the follow-      Key steps in the IPB process are to—
+ing to ensure that obstacles have the desired         Analyze the terrain.
+impact on the battle:                                 Determine enemy force size.
+                                                      Determine enemy vulnerability.
+      Intelligence.
+      Obstacle intent.                                     ANALYZE THE TERRAIN
+      Fires and obstacle effects.
+      Obstacles and operations in depth.        Staffs conduct terrain analysis based on the
+      Obstacle control.                         five military aspects of terrain: observation
+      Echelons of obstacle planning.            and fields of fire, cover and concealment,
+                                                obstacles, key terrain, and avenues of
+               INTELLIGENCE                     approach (OCOKA). The obstacles in
+                                                OCOKA are normally existing obstacles;
+Battlefield success depends largely on the      however, reinforcing obstacles from previ-
+ability of the commander to see the battle-     ous military operations may be present in
+field. He identifies enemy vulnerabilities      some situations. The identification of MCs
+and how the enemy may use the existing ter-     and AAs helps the commander to decide
+rain to gain an advantage. The maneuver         where the enemy can maneuver and to iden-
+commander does this through the IPB             tify any limitations on friendly maneuver.
+
+                                                Obstacle Integration Principles 3-1
+
+
+---
+
+FM 90-7
+
+      DETERMINE ENEMY FORCE SIZE                 block. This provides a common expectation
+The next step is to determine the size of the    of the effect that the commander wants
+enemy force that each AA can support. The        their fires and obstacles to have on enemy
+primary reason for determining the size of       maneuver.
+the enemy force is to allocate friendly forces.
+An important consideration is to identify                     RELATIVE LOCATION
+any terrain that may cause the enemy to
+change formation.                                Obstacle location is a vital component of
+                                                 obstacle intent since it ties the obstacle
+   DETERMINE ENEMY VULNERABILITY                 effect and target to the scheme of maneuver.
+                                                 Subordinates must understand the relative
+In the last step, the commander and staff        location of obstacles to ensure that the
+consider where the enemy is vulnerable.          desired effect occurs at the right place. Com-
+Attacking the enemy at the point of vulnera-     manders establish their obstacle intent con-
+bility with fires and obstacles can lead to a    current with organizing and developing the
+decisive victory. Also, obstacles should be      fire plan or scheme of maneuver. Each com-
+designed against an enemy’s breaching vul-       ponent of obstacle intent directly influences
+nerability. If some types of obstacles can be    the fire plan or scheme of maneuver. Obsta-
+easily breached by the enemy, using those        cle planning does not drive fire planning or
+obstacles to shape the battlefield may be        the scheme of maneuver. Subordinates
+ineffective.                                     plan, adjust, and execute obstacles and fire-
+                                                 and maneuver-control measures to meet the
+            OBSTACLE INTENT                      commander’s obstacle intent.
+
+The commander decides how he wants to use        Figure 3-1 illustrates the impact that obsta-
+obstacles to support his scheme of maneu-        cle intent can have on adjusting fire-control
+ver. He defines the end result that fires and    measures at the TF level. The TF com-
+obstacles must achieve. His obstacle intent      mander assigns Team A to occupy and
+provides purpose and unity of effort to the      defend BP 10 oriented in EA Blue on TRPs
+obstacles emplaced by subordinates. At TF        01 and 02. The commander intends to use
+level and normally at brigade level, obstacle    the obstacles and fires in EA Blue to turn an
+intent identifies the following:                 enemy battalion to the south. To mass fires
+                                                 at the initial turning point, the TF com-
+      Target.                                    mander adds TRP 03. The company team
+      Obstacle effect.                           commander must first mass all fires
+      Relative location.                         between TRPs 01 and 03. Once the enemy
+                                                 force begins turning, the commander will
+                     TARGET                      shift some or all fires between TRPs 02 and
+                                                 03.
+Obstacles are a force-oriented combat multi-
+plier. Subordinates must understand the             FIRES AND OBSTACLE EFFECT
+target of the obstacles so that they can prop-
+erly design and site obstacles.                  All leaders (from TF commander to squad
+                                                 leader) must understand how obstacles and
+              OBSTACLE EFFECT                    fires mesh to achieve the obstacle effect.
+Subordinates must know the commander’s           This enables them to maximize the effective-
+desired obstacle effect: disrupt, turn, fix, or  ness of available fires and obstacles, exploit
+
+3-2 Obstacle Integration Principles
+
+
+---
+
+                                                  FM 90-7
+
+the weaknesses they create in the enemy,          obstacles in the disrupt obstacle group. They
+and defeat the enemy attack. Fire control         use indirect fires with the obstacles to slow
+requires that named areas of interest (NAIs),     the part of the enemy force that makes con-
+targeted areas of interst (TAIs), and TRPs        tact with the obstacles. Commanders also
+synchronize indirect fires with direct fires      use every means available to disrupt enemy
+and obstacles.                                    C2 throughout the enemy formation. Com-
+                                                  manders use electronic warfare (EW),
+        FIRES AND DISRUPT EFFECT                  smoke, and indirect fires to disrupt the
+                                                  enemy’s decision cycle and increase the
+Commanders use the disrupt effect to cause        direct-fire window on the unimpeded part of
+an enemy to—                                      the enemy force.
+
+     Break up his formation and tempo.            Commanders use TRPs to mass direct fires
+     Interrupt his timetable.                     against that part of the enemy formation not
+     Commit breaching assets prematurely.         impeded by obstacles and indirect fires.
+     Piecemeal his attack.                        They do not execute those fires until the
+                                                  force separates from its parent formation.
+The disrupt effect also helps to deceive the      They use direct-fire weapons that can
+enemy concerning the location of friendly         deliver a lethal initial volley of fire. A quick
+defensive positions, separate combat eche-        volley is critical if the enemy has good C2
+lons, or separate combat forces from their        and can react quickly to the disruption of its
+logistical support. To accomplish the disrupt     formation. Disengagement criteria are also
+effect, the obstacles and fires must—             a consideration in weapons selection. If com-
+                                                  manders plan a short engagement, they
+      Cause the enemy to deploy early.            choose a weapon system that can fire and
+      Slow and disrupt part of the enemy          maneuver without becoming decisively
+      force.                                      engaged. If they expect a long engagement,
+      Allow part of the enemy force to ad-        they select a weapon system that can sus-
+      vance unimpeded.                            tain rapid fire with sufficient survivability
+                                                  to support the engagement.
+Commanders use indirect fires and long-
+range direct fires to force the enemy to          Commanders plan fire-control measures
+change from a march formation to a prebattle      that allow for the shift of direct or indirect
+or attack formation. Generally, indirect fires    fires to the enemy slowed by the obstacle or
+alone will not force an enemy to deploy           to the enemy bypassing the obstacle. They
+except when he is dismounted.                     position themselves to make an assessment
+                                                  of the obstacle effect. If the enemy is rapidly
+Commanders plan suppression and neutral-          breaching the obstacles, they may shift
+ization indirect-fire targets (or groups) on the
+
+                                                  Obstacle Integration Principles 3-3
+
+
+---
+
+FM 90-7
+
+direct fires against the enemy’s breaching       fires with the long-range TOW fires, which
+assets. On the other hand, if too large a force  causes the enemy to button up and deploy
+bypasses, commanders may shift all fires         into prebattle formation.
+against the unimpeded enemy to inflict max-
+imum losses and then reposition friendly         The commander orders the company team
+forces to their subsequent positions.            FIST to execute group A1B to coincide with
+                                                 the enemy’s encounter with the obstacles in
+Figure 3-2 illustrates the integration of fires  the obstacle group. Group A1B includes
+with obstacles to achieve a disrupt effect. In   dual-purpose improved conventional muni-
+this example, the TF commander assigns           tions (DPICM) and smoke. The combination
+Team D to defend BP 14 oriented in EA Red        of fires, smoke, and obstacles slows the
+to disrupt the lead enemy battalion forward      northern half of the enemy. As the enemy
+of the TF EA. Team D will then reposition to     loses C2 over its formation, the southern
+a subsequent BP to help in the fight in the      half of the enemy separates from the
+TF EA. Team D is a balanced company team         remainder of the battalion and continues
+with one armor platoon, one mechanized           forward.
+infantry platoon, and an armor company HQ.
+Fire-control measures include TRPs 03 and        As the southern half of the enemy formation
+04 forward of the obstacle group and TRPs        reaches the line defined by TRPs 01 and 02,
+01 and 02 south of the obstacle group. The       the company team commander masses all
+TF commander orders the TF fire support          direct fires on the lead enemy vehicles. The
+officer (FSO) to plan artillery group AIB as a   company team commander uses volley fires
+suppression mission to cover the disrupt         to destroy the southern half of the enemy
+obstacle group. The FSO assigns the Team D       battalion. He then shifts all direct fires to
+fire support team (FIST) the responsibility      the remainder of the enemy force, fires one
+for execution of A1B.                            volley, and repositions to his subsequent BP.
+
+As the attacking enemy approaches the                      FIRES AND TURN EFFECT
+obstacle group, the company team com-
+mander orders the mechanized platoon to          Commanders use the turn effect to integrate
+engage using the Bradley fighting vehicles’      fires and obstacles to divert an enemy for-
+(BFV’s) tube-launched, optically tracked,        mation off one AA to an adjacent AA or into
+wire-guided (TOW) missiles between TRPs          an EA. To accomplish the turn effect, the
+03 and 04. The commander uses indirect           obstacles and fires must—
+
+                                                       Prevent the enemy from bypassing or
+                                                       breaching at the start of the turn.
+                                                       Force the enemy to bypass in the
+                                                       desired direction.
+                                                       Maintain pressure on the enemy
+                                                       throughout the turn and exploit its
+                                                       exposed flank.
+
+                                                 Commanders normally anchor turning
+                                                 obstacle groups to restrictive terrain or to a
+                                                 strongpoint. They plan fire-control measures
+                                                 that focus all available fires first at the
+                                                 anchor point. When the enemy hits the
+                                                 obstacle, the combination of fires, obstacles,
+
+3-4 Obstacle Integration Principles
+
+
+---
+
+                                                  FM 90-7
+
+terrain, and forces must seal any bypass at       obstacles in the obstacle group and register-
+the anchor point.                                 ing TRPs during preparation will make indi-
+                                                  rect fires more responsive.
+Commanders plan an indirect-fire target or
+group to turn the enemy away from the             Commanders develop a fire plan and fire-
+anchor point. They focus enough direct-fire       control measures that allow them to shift
+assets to deal with the size of the enemy         fires as necessary to cover the turn effect.
+force expected at that point. For example, if a   Both direct and indirect fires shift in unison
+commander expects an enemy company at             to attack and maintain pressure on the
+the anchor point, he should allocate at least a   flank of the enemy force. Fires covering the
+friendly platoon to mass fires at that point. If  length of the turn effect are less focused
+the enemy breaches the obstacle at the            than at the turn point. Company team com-
+anchor point, the turning effect could be lost.   manders give platoons sectors of fire
+This could unhinge the entire operation.          between TRPs. Commanders usually exe-
+                                                  cute indirect fires in groups instead of aim-
+The critical task in achieving the turn effect    ing at individual targets. Direct and indirect
+is to use obstacles and overwhelming fires to     fires continue throughout the length and
+force the enemy to move in the direction          depth of the turn effect. These fires simulta-
+desired by the friendly commander. As the         neously exploit the vulnerability created by
+engagement progresses, the friendly force         the turn effect and protect the integrity of
+stops any attempt to breach the obstacle and      the obstacles:
+makes breaching assets priority targets.
+Direct-fire systems are the primary means         Figure 3-3 illustrates how a unit can inte-
+for destroying enemy breaching equipment.         grate direct and indirect fires with obstacles
+Indirect fires can attack individual targets,     to achieve the turn effect. In this example,
+but they may be less timely. Targeting all        the TF commander assigns Team C the
+
+                                                  Obstacle Integration Principles 3-5
+
+
+---
+
+FM 90-7
+
+mission to defend BP 12 oriented in EA          destruction and continue the attack, bypass-
+Green to turn the enemy into the main TF        ing to the south. When the lead enemy vehi-
+EA to the south. Team C is a tank-heavy         cles pass TRP 04, the company team
+company team with two armor platoons—a          commander shifts fires from BPs T2 and B1
+mechanized infantry platoon and an armor        to the area between TRPs 02 and 03. First,
+company HQ. The company team com-               the BFVs engage with TOWs only between
+mander positions one tank platoon each in       TRPs 01 and 02. The change in orientation
+BPs T1 and T2. He separates the mecha-          to cover the turn effect reduces the range of
+nized platoon into a mounted element in BP      fire, and the BFVs begin using all weapon
+B1 and a dismounted element in BP D1. The       systems. Simultaneously, the tank platoon
+commander has tied the anchor point of the      in BP T1 shifts its fires to the area between
+turning obstacles into restricted terrain and   TRPs 02 and 03 but remains prepared to
+the dismounted infantry position. Fire-con-     shift back to TRP 01. The dismounts in BP
+trol measures include TRPs 01 and 02 to         D1 continue to orient on TRP 01. The com-
+focus fires on the turning point and TRPs 03    pany team FIST adjusts group A1B to sup-
+and 04 to cover the length of the turn effect.  port the turn effect. All units maintain a
+The TF commander allocates artillery group      high volume of fire to ensure that the enemy
+A1A as a destroy mission to cover the anchor    bypasses the turn obstacle group to the
+point and group A1B as a neutralize group       south and into the main TF EA.
+to support the turn effect. He also allocates
+one mortar FPF that the company team                        FIRES AND FIX EFFECT
+commander uses to protect the flank of BP
+D1. The company team commander gives the        Commanders use the fix effect to focus fire
+dismounted-element forward observer (FO)        planning and obstacle effort to slow an
+the primary responsibility for firing A1A and   attacker within a specified area, normally
+the FPF. The company team FIST serves as        an EA. The fix effect helps fires to defeat the
+backup for A1A and is responsible for exe-      enemy in detail or to gain the necessary
+cuting A1B.                                     time for forces to reposition while inflicting
+                                                maximum casualties. To accomplish the fix
+As the enemy approaches the anchor point of     effect, the obstacles and fires must—
+the turning obstacle group, the dismounted
+FO executes group A1A, which also triggers            Cause the enemy to deploy into attack
+the direct-fire engagement. The platoons in           formation early.
+BPs T1 and B1 engage the enemy, orienting             Allow the enemy to advance slowly into
+on TRPs 01 and 02. The dismounts in BP D1             the EA.
+engage the enemy orienting on TRP 01, get-            Make the enemy fight in multiple
+ting the short-range weapons of the dis-              directions once he is in the EA.
+mounted infantry into the fight. The
+dismounted FO can fire the mortar FPF to        Commanders plan indirect fires forward of
+help destroy any dismounted attack on BP        the obstacles to suppress or neutralize the
+D1 or any dismounted breaching attempts at      enemy. They synchronize indirect fires with
+the anchor point. The combination of massed     long-range direct fires that cause the enemy
+fires, obstacles, and terrain seals all         to deploy out of a march or a prebattle for-
+bypasses in the north and forces the enemy      mation. Ideally, units site obstacles at the
+to begin bypassing to the south.                enemy’s maximum-fire range but inside the
+                                                friendly effective fire range. If the enemy is
+The enemy begins bypassing as the result of     in attack formation, this allows obstacles
+small-unit actions. Small-unit leaders and      and fires to attack the full frontage of the
+individual vehicle commanders seek to avoid     enemy.
+
+3-6 Obstacle Integration Principles
+
+
+---
+
+                                                FM 90-7
+
+Initially, commanders orient fires on the       further confuses the attacker. For direct
+enemy force as a whole. However, destroying     fires, commanders consider the use of TRPs
+enemy breaching assets becomes increas-         and supplementary positions to reorient
+ingly important as the enemy continues to       fires. They also consider the use of protec-
+advance into the EA. To maximize obstacle       tive obstacles to protect the force. The FSO
+effect and inflict maximum losses on the        and FISTs plan targets to hold the enemy
+enemy, the fire plan requires an increase in    in the EA and FPFs on critical MCs that
+the intensity of fires as the enemy advances.   may let the enemy threaten friendly posi-
+Commanders plan successive TRPs, synchro-       tions.
+nized with obstacles closer to the BPs, which
+trigger engagement by additional weapons.       Figure 3-4 illustrates some considerations
+They vary the intensity of fires through fire   for integrating fires and obstacles to
+control to allow the enemy to continue a
+slowed advance. When the enemy fully            achieve a fix effect. The TF commander has
+commits, friendly forces complete its           arrayed two company teams oriented into
+destruction.                                    EA Black to destroy two enemy battalions.
+                                                Team A, with two mechanized platoons and
+Once the enemy commits in the EA, the fire      one tank platoon, occupies BP 21 oriented
+plan forces the enemy to fight in as many       between TRPs 02 and 04. Team B has two
+directions as possible. This serves to further  tank platoons, one mechanized platoon, and
+slow its advance, disrupt its C2, reduce        one AT platoon and occupies BP 31 oriented
+its mass, and provide interlocking fires        between TRPs 01 and 02. The TF com-
+with flank shots on individual targets. Com-    mander assigns Teams A and B subsequent
+bining fires from multiple directions with the  positions in BPs 22 and 32, respectively.
+random orientation of individual obstacles      The TF commander directs his FSO to plan
+                                                two artillery groups, A1A and A1B. Group
+
+                                                Obstacle Integration Principles 3-7
+
+
+---
+
+FM 90-7
+
+A1A is a neutralize mission to help force the         Maintain a standoff.
+enemy to deploy into prebattle or attack for-         Posture the force to disengage.
+mations. Group A1B is a destroy mission to
+support the enemy’s destruction in EA           The TF commander allocates Team A one
+Black. The FSO assigns Team A’s FIST the        mortar FPF and Team B one artillery FPF.
+responsibility for A1A and A1B, with Team       Each team commander places his FPF to
+B’s FIST providing backup. Team B is            protect the flanks of his position. He may
+responsible for establishing EA Black and       also use these targets to contain assaulting
+siting obstacles; however, they coordinate all  forces. Team A and B commanders also des-
+TRP and obstacle locations with Team A.         ignate supplementary positions within their
+                                                BPs to which they can shift forces to address
+The TF commander plans to vary the inten-       a threat to their flanks.
+sity of fires in the EA through effective fire
+control. As the enemy approaches the EA,                 FIRES AND BLOCK EFFECT
+Team A’s FIST executes group A1A. Accord-
+ing to the TF execution matrix, this triggers   Commanders use the block-obstacle effect to
+the long-range TOW fires from Team B’s          integrate fire planning and obstacle effort to
+mechanized and AT platoons between TRPs         stop an attacker along a specific AA or to
+01 and 02. The enemy begins deploying into      prevent the enemy from advancing through
+a prebattle formation and continues to          an EA. To accomplish the block effect, the
+advance.                                        obstacles and fires must—
+
+As the enemy passes the line defined by               Prevent the enemy from bypassing or
+TRPs 01 and 02, Team A’s commander                    breaching the obstacles.
+orders his mechanized platoons to begin
+engaging the enemy with TOWs oriented on              Maximize available standoff.
+TRP 02. The enemy begins deploying to an
+attack formation. As the lead enemy vehicles          Stop the enemy’s forward movement.
+approach the line defined by TRPs 03 and
+04, Team A’s FIST executes group A1B. This      Commanders consider obstacle protection
+triggers the fires of all weapons in both com-  when planning fire-control measures. The
+pany teams. Team A orients between TRPs         first mission of the overmatching force is to
+02 and 04, and Team B orients between           stop any bypassing or breaching attempt.
+TRPs 03 and 04.                                 They respond to any attempt to breach or
+                                                bypass with a quick volley of direct and indi-
+In the example, the enemy encounters            rect fires. Blocking obstacles stop enemy
+increasing fires as it advances into the EA.    maneuver and force the enemy to commit
+The combined fires of both company teams        breaching assets that friendly forces destroy
+and the indirect fires from A1B do not attack   by fire. Higher level commanders may allo-
+the enemy until it reaches TRPs 03 and 04.      cate other forces to the task of completing
+More importantly, the commander commits         the enemy’s destruction, such as a joint air
+Team A’s fires when obstacles affect the        attack team (JAAT) or a ground CATK.
+enemy’s mobility the most. This kind of fire
+control requires a detailed execution matrix    To support survivability, commanders posi-
+and detailed rehearsals by every leader.        tion forces to provide standoff so that the
+                                                force can survive. The EA must cover the
+The TF commander can reposition the com-        entire AA. The maximum effective range of
+pany teams to BPs 22 and 32 to—                 the overmatching weapons, minus standoff,
+                                                limits the depth of the EA. The commander
+      Confuse the enemy.                        positions his forces so that he can mass
+                                                interlocking fires across the entire AA. The
+                                                defending force must be able to concentrate
+
+3-8 Obstacle Integration Principles
+
+
+---
+
+                                                FM 90-7
+
+all available fires within the obstacle group.  platoon. Team A’s commander positions one
+Commanders array weapon systems in depth        armor platoon each in BPs 15 and 25 and the
+based on their maximum effective ranges.        AT platoon in BP 35. The company team
+                                                commander positions the BPs to allow each
+The success of the blocking effect is mea-      weapon to engage about 1,000 meters beyond
+sured by its impact on the enemy advance,       the obstacles and still achieve acceptable
+not by enemy losses. The block effect requires  standoff. Fire-control measures include TRPs
+the most resource intensive type of tactical    01 and 04 at the north and south ends of the
+obstacle. Commanders only use it at critical    obstacle group, TRP 02 forward of the obsta-
+points on the battlefield. Normally, the mis-   cle group, and TRP 03 at the rear of the
+sion of forces overmatching a blocking obsta-   obstacle group. The TF commander orders
+cle effect is to defeat lead enemy units and    the FSO to plan artillery group AID as a
+cause the attacker to reconsider the            destroy mission on the obstacle group. He
+deployment of follow-on forces. Normally,       also plans two linear targets along the rear
+commanders cannot expect a force over-          trace of the obstacle group. Team A’s FIST is
+matching a blocking group to both protect the   responsible for executing all indirect targets.
+obstacles and defeat the enemy.
+                                                As the enemy vehicles enter EA Gold, they
+Figure 3-5 illustrates some considerations to   are still in a march formation. As the lead
+integrate fires and the block effect. The TF    enemy units pass the line defined by TRPs
+commander has assigned Team A the mis-          01 and 04, and the line defined by TRPs
+sion to defend BP 5 oriented into EA Gold to    04 and 02, they hit the first obstacles in
+stop an enemy battalion from advancing          the block-obstacle group. The company team
+along this AA. Team A is an armor company       commander initiates volley fires from all
+team with two armor platoons and an AT
+
+                                                Obstacle Integration Principles 3-9
+
+
+---
+
+FM 90-7
+
+platoons. The tank platoons in BPs 15 and 25                  DEEP OPERATIONS
+orient between TRPs 04 and 02 and between
+TRPs 01 and 04, respectively. The AT pla-       Normally, commanders use situational
+toon orients between TRPs 01 and 02. The        obstacles to support deep operations. In the
+tank platoons concentrate on TRPs 01 and 02     offense, they use obstacles to help interdict
+to defeat any bypass attempts where the         enemy reinforcements or reserves. In the
+obstacles tie into the impassable terrain. All  defense and in the retrograde, they use
+forces concentrate on destroying any breach-    obstacles to attack enemy follow-on forma-
+ing assets as they move forward.                tions or subsequent echelons. Commanders
+                                                use these obstacles to support counterfire
+As the enemy continues to advance, some         activities against enemy indirect-fire units.
+breaching attempts are successful through       They also use obstacles to attack enemy
+the initial obstacles. The company team com-    assets at fixed airfields or logistics sites.
+mander emplaced obstacles in depth and
+shifts fires from BP 15 to between TRPs 01                   CLOSE OPERATIONS
+and 03 and from BP 25 to between TRPs 03
+and 02. The company team FIST executes          During close operations, commanders use
+group AID to help in the destruction of         the full range of tactical and protective
+breaching assets. The company team com-         obstacles. Offensive, defensive, or retrograde
+mander shifts the fires from BP 35 to concen-   operations usually require different types of
+trate on breaching equipment.                   obstacles.
+
+Because of the depth and complexity of the      In the offense, commanders use situational
+obstacles, the high volume of fires destroyed   obstacles to support the defeat of defending
+most of the enemy’s breaching assets. The       enemy forces. They attack enemy reserves or
+company team continues a high volume of         reinforcing units with these obstacles. Com-
+fire to defeat further breaching attempts       manders use them to prevent forces from
+and to discourage the enemy from commit-        repositioning or to fix part of a defending
+ting follow-on forces along this AA.            enemy force while massing on the remainder
+                                                of the force. They also use obstacles to pro-
+   OBSTACLES AND OPERATIONS                     tect the flanks of friendly units, and they
+                                                plan obstacles on the objective to support
+                    IN DEPTH                    their transition to the defense. Reconnais-
+                                                sance and security forces use situational
+Commanders use obstacles to support opera-      obstacles to help delay or defeat enemy
+tions in depth. Mission analysis drives the     CATKs. During movements to contact
+need for and the types of obstacles; however,   (MTCs), security forces use situational
+analyzing requirements throughout the           obstacles to help fix enemy forces while the
+depth of the battlefield provides some idea     friendly main body maneuvers into a posi-
+of how to use obstacles. Commanders consi-      tion of advantage. Commanders ensure
+der three complementary elements when           that obstacles do not interfere with the
+planning obstacles to support operations.       maneuver of the reserve.
+They are—
+                                                In the defense, commanders integrate all
+      Deep operations.                          types of obstacles to slow, canalize, and
+                                                defeat the enemy’s major units. In an area
+      Close operations.                         defense, the commander uses protective
+      Rear operations.                          obstacles to enhance survivability. He relies
+
+3-10 Obstacle Integration Principles
+
+
+---
+
+                                                 FM 90-7
+
+on directed and reserve obstacles focused on     operations. In the offense, most protective
+retaining key and decisive terrain. He may       obstacles are hasty. In the defense, deliber-
+use situational obstacles to deal with unex-     ate protective obstacles are common around
+pected threats or to support economy-of-         strongpoints and fixed sites. Units in BPs
+force efforts. For a mobile defense, the com-    normally use hasty protective obstacles. In
+mander uses directed obstacles to create the     the retrograde, units use deliberate protec-
+conditions for destroying the enemy. He uses     tive obstacles around fixed sites, but hasty
+situational obstacles to support CATKs and       protective obstacles are most common. Units
+reserve obstacles to maintain control over       design protective obstacles specifically for
+MCs. The commander tailors obstacles to          the anticipated threat. Protective-obstacle
+ensure the mobility of the force.                effort is proportionate to the threat level. As
+                                                 the threat level increases, the protective-
+Although obstacle use in the retrograde is       obstacle effort must increase. The force may
+very similar to that in the defense, reserve     employ tactical obstacles to counter any
+obstacles are extremely important in the ret-    major threat to the rear operations.
+rograde. Commanders focus on critical
+points along high-speed AAs. The enemy is                  OBSTACLE CONTROL
+usually attempting to advance over the same
+routes that a unit is using for the retrograde.  Obstacle control varies with echelon and
+Commanders retain positive control over          METT-T. The basic idea is to limit subordi-
+these routes with reserve obstacles.             nates only as necessary to synchronize their
+                                                 obstacle efforts with the commander’s intent
+In the defense or retrograde, security forces    and scheme of maneuver. A lack of obstacle
+use different reinforcing obstacles depending    control can cause obstacles to interfere with
+on the security force mission. Requirements      the higher commander’s scheme of maneu-
+for reinforcing obstacles increase from the      ver. Too much obstacle control can cause a
+screen to guard and cover missions. A            lack of obstacles that support the refined
+screening force uses directed and situational    fire plans of subordinate commanders.
+obstacles to help harass and impede the
+enemy or to assist in its displacement. A        To provide obstacle control, commanders
+guard force uses all types of tactical obsta-    focus or withhold obstacle-emplacement
+cles to assist in the delay. It may use hasty    authority or restrict obstacles. They use
+protective obstacles for protection against      obstacle-control measures, orders, or other
+the enemy’s assault. A covering force not        specific guidance. Commanders and staffs
+only attacks, defends, and delays but also       consider width, depth, and time when they
+deceives the enemy regarding the location,       conduct obstacle-control planning. The fol-
+size, and strength of forces in the main bat-    lowing concepts guide this planning:
+tle area (MBA). The covering force employs
+obstacles to a greater extent than the guard           Support current operations.
+force. The number of obstacles must resem-             Maximize subordinate flexibility.
+ble the number in the MBA to support the               Facilitate future operations.
+deception of the location of the MBA.
+                                                     SUPPORT CURRENT OPERATIONS
+              REAR OPERATIONS
+                                                 Commanders and staffs use obstacle control
+Protective obstacles are the primary rein-       to focus obstacle effort where it will clearly
+forcing obstacle employed in support of rear     support the scheme of maneuver and com-
+                                                 mander’s intent. They also plan obstacle
+
+                                                 Obstacle Integration Principles 3-11
+
+
+---
+
+FM 90-7
+
+control to ensure that obstacles will not         wants a brigade to defend well forward. The
+interfere with current operations.                commander gives the brigade an obstacle
+                                                  zone that includes only the forward part of
+  MAXIMIZE SUBORDINATE FLEXIBILITY                its sector. The division commander thus
+                                                  ensures that any obstacles the brigade
+Commanders normally give subordinates             emplaces will support a defense forward in
+flexibility to employ obstacles similar to the    the sector.
+flexibility to conduct tactical missions. For
+example, defending in sector requires flexi-      Other specific guidance or orders provide a
+bility in obstacle employment. A com-             means to focus obstacle-emplacement
+mander will give subordinates maximum             authority. For example, a corps commander
+emplacement authority to support the              may include in his OPORD instructions for a
+defender’s freedom to maneuver and decen-         division to concentrate obstacle effort along
+tralized fire planning. A commander will          a specific enemy AA. A second example is a
+probably focus obstacle-emplacement               brigade commander that wants a TF to force
+authority for a unit defending from a BP.         the enemy into an adjacent TF sector. The
+Defending from a BP requires more obstacle        brigade commander gives the TF an obstacle
+control because the BP dictates the               belt that encompasses most of the TF sector,
+defender’s position and orientation of fires.     but he assigns an intent (target, obstacle
+In the offense, commanders normally retain        effect, and relative location) to the belt. The
+a higher degree of control due to limited         target helps to focus the type of obstacles the
+opportunities for obstacle emplacement and        subordinate will choose. The effect (here it is
+more requirements for friendly mobility.          to turn the enemy into the adjacent TF sec-
+Commanders frequently withhold emplace-           tor) helps focus the obstacle array. The rela-
+ment authority or restrict the use of most        tive location, within the belt, still allows the
+obstacles.                                        TF commander maximum flexibility to
+                                                  develop his own scheme of maneuver and
+     FACILITATE FUTURE OPERATIONS                 obstacle plan.
+
+The need for future mobility drives the need      Commanders withhold obstacle-emplace-
+for obstacle control to facilitate future opera-  ment authority using control measures,
+tions. A CATK axis and objective are exam-        orders, or other specific guidance. For exam-
+ples of future mobility needs. Another            ple, a commander withholds authority by
+example is a route for units that need to         shaping obstacle-control measures so that
+reposition forward as part of a higher com-       they do not overlap the CATK axis and
+mander’s plan. Commanders usually with-           objective, ensuring the freedom of the CATK
+hold emplacement authority or use                 force.
+restrictions to ensure that obstacles do not
+interfere with future maneuver; however,          Obstacle restrictions are an important tool
+they may focus obstacle efforts to develop a      for providing obstacle control. For example,
+situation that will support future opera-         a corps commander may designate a CATK
+tions.                                            axis, through a division AO, as an obstacle
+                                                  restricted area. A division commander
+Commanders can focus obstacle-emplace-            may restrict obstacles in objectives and
+ment authority using obstacle-control mea-        planned BPs within the division sector to
+sures. For example, a division commander          SCATMINEs with a not later than (NLT)
+                                                  SD time.
+
+3-12 Obstacle Integration Principles
+
+
+---
+
+                                               FM 90-7
+
+The commander considers the following          emplace and integrate the directed obstacles
+dimensions when planning obstacle control:     in the TF obstacle groups.
+
+     Width.                                    The echelonment of obstacle planning
+     Depth.                                    requires that commanders at each level pro-
+     Time.                                     vide subordinates with the right combina-
+                                               tion of positive control and flexibility. At
+Maneuver control measures can aid in           each level, obstacle planning builds on the
+tailoring the width and depth of obstacle-     obstacle plan from higher echelons. Without
+control measures. Typical graphics that aid    obstacle zones and belts, units must submit
+in focusing the width and depth of obstacle-   a report of intention (see Appendix B) for
+control measures are—                          every obstacle. The report doubles as a
+                                               request when units initiate it at levels below
+      Unit boundaries and phase lines (PLs).   emplacement authority. Units do not submit
+      Battle handover lines (BHLs) and for-    the report if the higher HQ grants emplace-
+      ward edges of the battle area (FEBAs).   ment authority. Commanders give the
+      Lines of departure (LDs) and lines of    authorization to install obstacles when they
+      contact (LCs).                           establish obstacle-control measures. As an
+      Fire-support coordination lines          exception, units do not submit reports of
+      (FSCLs), no-fire areas (NFAs), and       intention for conventional obstacles that are
+      coordinated fire lines (CFLS).           part of an operation plan (OPLAN) or gen-
+      Passage lanes and corridors.             eral defense plan (GDP) if the authorizing
+      CATK axis and movement routes.           commander approves the plan.
+      Objectives, future BPs, and AAs.
+                                                         CORPS-LEVEL PLANNING
+Commanders also consider time when plan-
+ning obstacle control. For example, the use    Corps-level obstacle planning primarily
+of an on-order obstacle zone gives the com-    centers on obstacle control. The corps devel-
+mander the ability to give a subordinate       ops obstacle restrictions to ensure that divi-
+obstacle-emplacement authority only after a    sion obstacles do not interfere with the
+certain time or event. Also, the use of mines  corps’ scheme of maneuver and future oper-
+with a SD time within a control measure        ations. The corps also provides obstacle-
+allows a commander to limit the time that      emplacement authority to ACRs and sepa-
+obstacles affect an area.                      rate brigades using obstacle zones; however,
+                                               they do not provide obstacle-emplacement
+       ECHELONS OF OBSTACLE                    authority to divisions. Divisions already
+                                               have the authority to emplace conventional
+                  PLANNING                     obstacles within their AOs. The corps plans
+                                               reserve or situational obstacle groups only
+The nature of obstacle integration from        as they are necessary to support the corps’
+corps to company team leads to an echelon-     scheme of maneuver. In very rare instances,
+ment of obstacle planning. At each lower       the corps may plan directed obstacle groups.
+level, commanders and staffs conduct more
+detailed planning. At corps level, planning    Figure 3-6, page 3-14, shows a corps defend-
+mainly consists of planning obstacle restric-  ing with two divisions on line, an ACR as a
+tions, although the corps may plan reserve,    covering force, and a separate brigade in
+situational, or directed obstacle groups. At   reserve. The corps plans a zone in the
+the company-team level, planning consists of   ACR covering force area to provide the ACR
+the detailed design and siting plans to
+
+                                               Obstacle Integration Principles 3-13
+
+
+---
+
+FM 90-7
+
+commander with obstacle-emplacement             that brigade obstacles do not interfere with
+authority and to focus the ACR obstacle         corps- or division-level operations. Divisions
+effort close to the forward line of own troops  plan reserve and situational obstacle groups
+(FLOT). Because the corps commander             to support the division’s and corps’ scheme of
+wants to allow the ACR commander flexibil-      maneuver. Again, the planning of directed
+ity, he does not assign a specific obstacle     obstacle groups is rare.
+effect to the zone. To ensure that the corps
+CATK is not hindered by obstacles, the com-     In Figure 3-7, the 52d Infantry Division (ID)
+mander designates in the OPORD that the         (mechanized) of the defending corps con-
+corps CATK axis is an obstacle restricted       ducts its defense with two brigades on
+area, with no obstacles allowed.                line and a brigade in reserve. The division
+                                                plans a zone well forward in 3d Brigade’s
+         DIVISION-LEVEL PLANNING                sector and targeted at an enemy division AA.
+                                                This constrains the brigade’s obstacle-
+At the division level, obstacle planning is     emplacement authority and ensures that its
+more directive than at corps level. Divisions   obstacles do not interfere with the corps’ or
+concentrate on planning obstacle zones to       division’s CATK routes. Note that the divi-
+give brigades and other major subunits          sion does not need to designate either
+(such as a cavalry squadron) obstacle-          CATK axis as an obstacle restricted area.
+emplacement authority. Divisions also use       No one who is subordinate to the division
+restrictions with the obstacle zones to ensure  has authority to emplace obstacles in these
+
+3-14 Obstacle Integration Principles
+
+
+---
+
+                                               FM 90-7
+
+areas. In the north, the division designates   Based on his analysis of METT-T, the 1st
+the entire 1st Brigade sector as a zone, tar-  Brigade commander of the 52d ID decides
+geted at an enemy division; therefore, no      to defend as shown in Figure 3-8, page
+additional graphic is required. However, the
+division has designated a contact point on     3-16. He has positioned TF 4-27 in a BP and
+the brigades’ boundaries and has directed      has assigned it responsibility for a block
+them to coordinate obstacles on the ground.
+                                               obstacle belt to defeat a second echelon
+         BRIGADE-LEVEL PLANNING                enemy regiment. TF 2-27 has responsibility
+                                               for a fix obstacle belt in the north to destroy
+Brigade-level units conduct more detailed
+obstacle planning. Brigades plan obstacle      an enemy first echelon regiment. In the
+belts that give obstacle-emplacement           south, the commander assigns TF 1-93 a
+authority to TFs. Brigades also use obstacle   turn obstacle belt, positioned well forward
+restrictions. Frequently, they plan situa-
+tional obstacle groups and reserve obstacle    in the sector to prevent an enemy regiment
+groups. Directed obstacle group planning is    from advancing along the boundary with
+more common than at division level; how-       the 3d Brigade. Note that the commander
+ever, it is still rare.
+                                               has specified an effect for each belt. Also,
+                                               the commander has designated a contact
+
+                                               point between the two TFs to facilitate
+                                               obstacle coordination.
+
+                                               Obstacle Integration Principles 3-15
+
+
+---
+
+FM 90-7
+
+       TASK-FORCE-LEVEL PLANNING                     COMPANY-TEAM-LEVEL PLANNING
+
+TFs conduct the majority of detailed obstacle    At the company team level, obstacle plan-
+planning. They plan most obstacle groups         ning focuses on the detailed design and sit-
+that are executed at the company team level.     ing plans to execute the directed,
+Most of these obstacle groups are directed       situational, and reserve obstacle groups
+obstacles, but TFs can also plan reserve and     planned at higher levels.
+situational obstacles. TFs may use restric-
+tions, but normally do not because of the level  Figure 3-10 shows the obstacles Team A
+of detail of the TF obstacle plan.               designed and sited to support the obstacle
+                                                 group intent. Note that the obstacles are in
+TF 1-93 plans to defend as shown in Fig-         depth and tied into terrain. The company
+ure 3-9 and plans two obstacle groups to sup-    team designed and sited the obstacles on
+port his defense. He assigns responsibility for  the ground. The company team commander
+the turn obstacle group to Team A in BP A,       integrated the obstacles with direct and
+but Team A must coordinate the siting of the     indirect fires to achieve the block effect.
+obstacle with Team D in BP D. Team B in BP
+B is responsible for the block obstacle group.   Obstacle planning is an inherent part of
+Note that the TF commander plans his obsta-      the tactical decision-making process.
+cle groups to support his direct-fire plan and   Chapters 4 and 5 provide the TTP necessary
+the brigade commander’s intent to turn the       for commanders and staffs to conduct obsta-
+enemy north.                                     cle planning and provide information on
+                                                 how to integrate obstacles.
+
+3-16 Obstacle Integration Principles
+
+
+---
+
+                                             FM 90-7
+Obstacle Integration Principles 3-17
+
+
+---
+
+                                                                                                                           FM 90-7
+
+                    Chapter 4
+
+Obstacle Planning at Corps,
+Division, and Brigade Levels
+
+Commanders and staffs consider the use of         plays a key role in the process, with the
+obstacles when planning offensive, defensive,     staff providing advice and information
+and retrograde operations. This chapter           related to their areas. Figure 4-1, page 4-2,
+describes obstacle planning as it applies at      shows the decision-making process with
+corps, division, and brigade levels. At these     major considerations for obstacles at each
+levels, concentration is on granting obstacle-    step. These steps are—
+emplacement authority or providing obsta-
+cle control. At corps and division level, com-          Mission analysis.
+manders focus on developing obstacle zones              Course-of-action development (COA).
+and restrictions. At the brigade level, com-            COA analysis and comparison.
+manders focus on developing obstacle belts              Decision and execution.
+and restrictions. At all three levels, com-
+manders may plan obstacle groups, but this        Before beginning the decision-making pro-
+is rare.                                          cess, the commander receives his mission or
+                                                  deduces the mission based on an analysis of
+At each level, commanders include obstacle        the current operation. The staff quickly
+planning in the decision-making process.          identifies the type of operation, current
+This ensures that obstacle integration is         intelligence situation, and time available
+effective and that the obstacle plan is flexible  (estimate).
+enough to allow changes during the plan-
+ning, preparation, and execution phases of                      MISSION ANALYSIS
+an operation. The following is a method for
+integrating obstacle planning at corps, divi-     The first step of the decision-making pro-
+sion, and brigade levels, using the decision-     cess involves the following activities:
+making doctrine in FM 101-5.
+                                                        Determine the facts and develop
+     DECISION-MAKING PROCESS                            assumptions.
+             AND OBSTACLES
+                                                       Analyze the mission of the higher HQ
+The decision-making process is as detailed or           and the commander’s intent.
+as simple as time permits. The commander
+                                                       Analyze the relative combat power.
+
+                                                        Issue the commander’s guidance.
+
+Obstacle Planning at Corps, Division, and Brigade Levels 4-1
+
+
+---
+
+FM 90-7
+
+4-2 Obstacle Planning at Corps, Division, and Brigade Levels
+
+
+---
+
+                                               FM 90-7
+
+Determine Facts and Develop Assumptions        Obstacle planning requires information
+                                               from the following estimates:
+The commander relies on the staff to provide
+the facts and assumptions on which he can           Intelligence.
+base his mission analysis, restated mission,        Logistics.
+commander’s guidance, and COA develop-              Fire support.
+ment. The staff prepares or updates esti-           Engineer.
+mates to determine the facts and
+assumptions used in the decision-making        The staff may not prepare written esti-
+process. Table 4-1 lists some METT-T con-      mates but uses the general format and the
+siderations for the staff when developing its  thought process involved at every level. At
+estimates. The staff uses these estimates as   each lower level, the amount of detail
+the framework for developing facts and         required increases. For example, at corps
+assumptions on obstacles.                      level, logisticians address Class IV and
+                                               Class V obstacle material in terms of short
+
+Obstacle Planning at Corps, Division, and Brigade Levels 4-3
+
+
+---
+
+FM 90-7
+
+tons. At brigade level, the staff must deal      logistics. The engineer uses this information
+with numbers of obstacle packages or mines.      in the engineer estimate.
+
+Intelligence Estimate. The entire staff has      Fire-Support Estimate. The primary pur-
+input into the intelligence estimate; how-       pose of the fire-support estimate is to pro-
+ever, the Assistant Chief of Staff G2 (Intelli-  vide information to integrate fires with the
+gence)/Intelligence Officer (US Army) (S2)       scheme of maneuver; however, the fire-
+has general responsibility. A detailed           support estimate also helps to integrate
+description of this estimate can be found        obstacles properly. The following informa-
+in FMs 101-5, 34-1, and 34-10. The IPB           tion is useful for obstacle planning:
+includes the intelligence information
+required to integrate obstacles, such as—              Total fire-support capability (such as
+                                                       batteries, battalions, attack helicop-
+      AAs (friendly and enemy)                         ters, or fixed-wing sorties).
+                                                       FASCAM capable assets (artillery or
+      Allocation of enemy combat power.                air-delivered).
+
+      Array of enemy forces two levels lower     Engineer Estimate. The staff engineer
+      (location and formation).                  conducts an engineer estimate to provide
+                                                 the necessary engineer-related information
+      Enemy objectives, main effort, and         for use in the decision-making process.
+      options.                                   Although there are several steps to the engi-
+                                                 neer estimate, the engineer uses the engi-
+      NAIs/TAIs/decision points (DPs).           neer battlefield assessment (EBA) for facts
+                                                 and assumptions. The EBA provides the fol-
+      Enemy vulnerabilities and enemy DPs.       lowing information for obstacle planning:
+
+      Enemy breaching capabilities.                    Terrain analysis.
+                                                       Enemy engineer mission and mobility/
+Logistics Estimate. The logistics estimate             survivability (M/S) capabilities.
+helps the staff determine the unit’s obstacle          Friendly M/S capabilities.
+capability. The resources available and the
+transportation assets available to move the      The commander and staff use these esti-
+resources are both important. Normally,          mates to complete the decision-making pro-
+transportation assets are not dedicated          cess.
+assets but are available only during a speci-
+fied time window. Therefore, the staff must        Analyze Higher Headquarters’ Mission
+consider where and when the unit will need                  and Commander’s Intent
+the resources. The following information
+concerning Class IV and Class V obstacle         An analysis of the higher headquarters’ mis-
+materials is important for obstacle planning:    sion and the commander’s intent identifies
+                                                 information that may impact on the mission
+      Type and quantity of material avail-       and which the staff uses in later steps of the
+      able.                                      decision-making process. The staff finds
+                                                 this information in the higher unit’s OPORD
+      Location of the material.                  or OPLAN and in annexes that are included.
+                                                 Components of this analysis are—
+      Location where the material is
+      required.                                       Intent.
+
+      Distance from current location to re-           AOs and deception.
+      quired location.
+                                                      Tasks.
+      Transportation assets available to
+      move the material.
+
+      Schedule for moving the material.
+
+This information will help the staff deter-
+mine the feasibility of a COA based on
+
+4-4 Obstacle Planning at Corps, Division, and Brigade Levels
+
+
+---
+
+                                                 FM 90-7
+
+     Limitations.                                employment. Limitations include the fol-
+     Assets available.                           lowing:
+     Risk.
+     Time analysis.                                    Must emplace obstacle groups from
+                                                       higher HQ.
+Intent. The staff analyzes the higher com-
+mander’s intent to determine the purpose for           Must emplace obstacles to support
+obstacles and the desired end state for obsta-         zones with specified effects (brigade).
+cles to support future operations. Even if
+the higher commander does not explicitly               Cannot emplace obstacles outside
+state an intent for obstacles, the staff must          obstacle zones (brigade).
+identify information from his intent that will
+impact on obstacle planning. For example,              Cannot emplace obstacles in areas that
+the commander’s intent states that the pur-            violate obstacle restrictions.
+pose of the current defense is to set the stage
+for a major offensive operation. The staff             Cannot use obstacles that violate
+must consider the measures necessary to                obstacle restrictions.
+prevent obstacles from hindering that future
+offensive operation.                             Assets Available. To determine the assets
+                                                 that are available, the staff uses the various
+AOs and Deception. The AO dictates the           staff estimates and analyzes the task orga-
+physical limits of any obstacle use. The staff   nization of the higher HQ. Some assets that
+must be aware of the requirements for the        may affect obstacle planning include—
+deception plan of the higher HQ as it devel-
+ops an obstacle plan.                                  Intelligence assets that can support
+                                                       obstacle execution.
+Tasks. The staff determines the specified
+and implied tasks from its higher HQ that              Assets (ground and air) for moving or
+impact on obstacle planning.                           handling obstacle materials.
+
+Specified tasks include—                               Engineer units for tactical obstacle
+                                                       emplacement.
+      Obstacle groups (directed, situational,
+      or reserve) from higher HQ.                      Other units with manpower or equip-
+      Obstacle zones with specified effects            ment to support obstacle emplacement.
+      (brigade).
+      Obstacle restrictions.                           Air or artillery assets with SCATMINE
+                                                       capability.
+Implied tasks include—
+                                                 Risks. The staff identifies any risks that
+      Obstacle restrictions for attack/CATK      the higher HQ is willing to accept to accom-
+      axis, BPs, objectives, and AAs.            plish a mission. One example is putting the
+      Obstacle-handover coordination during      priority obstacle effort in a defense on the
+      a relief-in-place mission.                 most likely enemy AA while planning situa-
+      Requirement to grant obstacle-             tional obstacles on the most dangerous AA.
+      emplacement authority and provide          Another example is identifying where the
+      obstacle control to subordinates.          higher HQ is using economy-of-force mea-
+                                                 sures along a secondary AA. The staff may
+Limitations. The staff determines the limi-      plan for additional obstacles along that AA
+tations (things that cannot be done or that      to help compensate for the smaller maneu-
+must be done) that will affect obstacle          ver force allocated for the defense.
+
+                                                 Time Analysis. The staff determines the
+                                                 time available and the decision cycle and
+                                                 receives the time allocation from the com-
+                                                 mander. The staff should consider the 1/3 to
+                                                 2/3 rule; however, the staff must understand
+                                                 that obstacles are usually time intensive. It
+
+Obstacle Planning at Corps, Division, and Brigade Levels 4-5
+
+
+---
+
+FM 90-7
+
+pushes known information to lower levels                Authority to emplace different types of
+early so that units do not waste valuable               obstacles and obstacle restrictions.
+time. The staff also uses the time analysis to          Use of air or artillery assets (employ-
+help determine total obstacle capability. For           ment of area denial artillery munition
+example, an engineer unit of a certain size             (ADAM) /remote antiarmor mine
+can complete an approximate number of                   (RAAM) versus artillery on firing tar-
+obstacles in a specified time.                          gets of opportunity).
+
+The commander considers all of the informa-             Use of digging assets (survivability ver-
+tion discussed previously when determining              sus countermobility).
+the essential tasks and a restated mission.
+However, obstacles by themselves are nor-               Use of maneuver forces in the obstacle
+mally not essential tasks or a part of the              effort.
+restated mission.                                       Risk acceptance of M/S tasks.
+
+       Analyze Relative Combat Power                    Obstacle turnover and lane closure
+                                                        information.
+The staff analyzes relative combat power. It            Proposed CATK and other movement
+normally establishes a comparative base for             routes.
+friendly and enemy units, computes the rela-
+tive combat power, and evaluates the                 COURSE-OF-ACTION DEVELOPMENT
+results. Obstacles, like many other factors
+(such as air power, terrain, or leadership),      In the next step of the planning process, the
+have an effect when integrated with fires,        commander and staff develop the maneuver
+but the commander and staff subjectively          COA in broad terms. After they develop the
+assign a value for obstacles. They may have       maneuver COA, they develop a supporting
+to wait until they develop a COA before they      obstacle plan, which is also in broad terms.
+can assign a value for obstacles and then         The staff determines the details concerning
+recompute the ratio of combat power.              obstacles during the analysis of the COA
+                                                  (war gaming) phase. The COA development
+        Issue Commander’s Guidance                consists of the following steps:
+
+The commander issues his concept and                   Array initial forces.
+states how he visualizes the conduct of the            Develop a scheme of maneuver.
+battle. FM 101-5 covers this area in detail.           Determine C2 means.
+The commander must articulate how he will              Prepare COA statement and sketches.
+integrate obstacles to shape the battle and
+enhance the fire plan. He issues guidance on      Once the staff prepares the COA statement
+obstacle control, obstacle priority, and          and sketch, it considers how to support the
+desired effects. The level of specificity that a  COA with obstacles. The staff considers
+commander provides in his guidance is             using obstacles throughout the depth of the
+based on the experience of the staff, the time    battlefield. Table 4-2 and Table 4-3, page
+available, established habitual relation-         4-8, show some considerations for obstacles
+ships, and standing operating procedures          in the offense and defense respectively.
+(SOPs). The commander should provide the
+following guidance:                               The staff tentatively sketches obstacle-
+                                                  control measures that support the units
+      Location where friendly forces will         two levels lower. When the staff arrays
+      mass fires to kill the enemy.               forces, it considers the terrain and enemy.
+      Obstacle intent.                            When the staff determines the location
+                                                  and size of the obstacle-control measures,
+
+4-6 Obstacle Planning at Corps, Division, and Brigade Levels
+
+
+---
+
+                                                FM 90-7
+
+it considers the terrain, the enemy, the        zones. The brigade staff draws obstacle belts
+                                                based on the tentative groups. Both the divi-
+friendly force array, and the scheme of         sion and brigades may draw obstacle
+maneuver. For example, when the corps is        restricted areas or identify other restrictions
+in the defense, it arrays brigades along        to support the scheme of maneuver. Zones
+enemy division AAs. The corps staff             and belts must fall within the subordinate
+sketches in tentative obstacle zones, consid-   unit’s boundaries. The staff considers the
+ering the terrain, targeting the enemy divi-    obstacle-integration principle of obstacle-
+sion, and supporting the arrayed brigades       control when drawing the obstacle-control
+and the corps’ scheme of maneuver. At the       measures.
+division level, the staff uses obstacle belts,
+while at the brigade level, it uses groups. At  Other considerations may affect the obstacle
+each level, the staff identifies those areas    plan. The staff also considers the use of
+where mobility needs may require obstacle       obstacles to support the reserve force. With
+restrictions. These tentative control mea-      Assistant Chief of Staff, G3 (Operations and
+sures may also provide a starting point for     Plans) (G3)/S3 approval, the staff prepares a
+resourcing obstacles (discussed in detail in    scheme-of-obstacles sketch that addresses
+                                                how obstacles support the maneuver COA.
+Appendix C) and for developing the obstacle
+plan to support the COA.                              COURSE-OF-ACTION ANALYSIS
+
+The staff uses the tentative obstacle-control   Staff analysis identifies the best COA for
+measures to develop obstacle-control mea-       recommendation to the commander. To
+sures that support the COA. The corps staff     analyze the COAs, the staff uses war
+draws separate obstacle zones for ACRs or       gaming techniques. They war-game the
+separate brigades. It draws obstacle            obstacle plan with the supported COA, not
+restricted areas or identifies areas requiring  separately. Considerations for the staff dur-
+obstacle restriction within the division        ing war gaming are as follows:
+areas. The division staff uses the tentative
+obstacle belts to assist in drawing obstacle
+
+Obstacle Planning at Corps, Division, and Brigade Levels 4-7
+
+
+---
+
+FM 90-7
+
+     Resources required for obstacle plan      plans, information requirements, subordi-
+     (see Appendix C).
+                                               nate unit tasks, and additional require-
+     Priorities, if requirements exceed capa-  ments for combat support. Added
+     bilities.
+                                               considerations at this point are—
+     Obstacle plan that supports the COA
+      and commander’s intent.                        Changes to the size or location of con-
+                                                     trol measures, based on changes to the
+     Adequate restrictions to ensure freedom         scheme of maneuver, boundaries, axis
+      of maneuver for friendly forces during         of advance, objectives, EAs, or the
+     current and future operations.                  addition of branches.
+     Plan that addresses all specified and
+      implied tasks.                                 Requirements for reserve obstacles
+                                                     (see Chapter 6 for specific consider-
+     G2/S2 integration of enemy breaching            ations).
+      capability and reactions to obstacles.
+                                                     Requirements for situational obstacles
+If necessary, the staff modifies the COA fol-        (see Chapter 7 for specific consider-
+lowing war gaming. It also identifies branch         ations).
+
+                                                     Requirements for directed obstacles.
+
+4-8 Obstacle Planning at Corps, Division, and Brigade Levels
+
+
+---
+
+                                                   FM 90-7
+
+      Taskings to subunits to emplace              COA, modify a COA, or combine parts of
+      obstacles.                                   several COAs. In any event, the commander
+      Additional engineer units required for       decides and issues additional guidance to
+      tactical obstacle emplacement.               the staff for developing the plan. The staff
+                                                   then completes the plan and prepares the
+After each COA is war-gamed, the staff com-        order.
+pares the results to analyze the advantages
+and disadvantages of a COA relative to the                         Plans and Orders
+other plans. It compares each COA to the
+others, using specific evaluation criteria that    The engineer normally prepares the obstacle
+it develops or that the commander directs.         plan, and the commander approves the
+Relevant criteria that commanders and staff        plan or the order. The staff coordinates with
+may find useful in comparing COAs include          and receives permission from the higher HQ
+the following:                                     for obstacles required outside an obstacle-
+                                                   control measure. It coordinates obstacles
+      Which COA requires the least obstacle        planned on flanks with adjacent units. The
+      resource expenditure?                        staff coordinates guidance on obstacles in
+      Which COA has the least impact on            the rear area with the operations officer and
+      local infrastructure by obstacles (such      controlling units. The staff also distributes
+      as destroyed bridges)?                       the obstacle plan to higher and subordinate
+      Which COA causes the fewest hin-             units.
+      drances to future mobility due to obsta-
+      cles?                                        Obstacle plans at the corps, division, and
+                                                   brigade levels normally contain the follow-
+         DECISION AND EXECUTION                    ing:
+
+The final step of the decision-making process            Obstacle restrictions (either graphi-
+is deciding on and executing a COA.                      cally or clearly stated).
+                                                         Reserve obstacle groups (especially for
+       Recommendation and Decision                       passage lanes) and execution criteria
+                                                         and plans (see Chapter 6 for details).
+The objective of the comparison is to make a             Situational obstacle groups (if any) and
+unified recommendation to the commander                  an execution matrix (see Chapter 7 for
+on the best COA. The staff may give greater              details).
+consideration to a COA that requires a more              Engineer unit task organization.
+difficult obstacle plan if it looks like the best
+selection based on other battlefield operat-       At the corps level, the following is added to
+ing system (BOS) perspectives. The staff           the plan:
+informs the commander where he must
+accept risk regarding obstacles or request               Obstacle zones for separate brigades
+additional assets to avoid that risk. The staff          and ACRs (and intent, if specified).
+must also be prepared to inform the com-
+mander where those assets may be obtained          See Figure 4-2, page 4-10, for an example of
+and what influence he may have to exert to         a corps obstacle overlay.
+get them. Knowledge of the higher and adja-
+cent unit assets is important.                     At the division level, the plan also includes
+                                                   the following:
+The commander chooses the COA to adopt
+for final planning. He may select a specific             Obstacle zones for brigades (and
+                                                         intent, if specified).
+                                                         Guidance on the use and reporting of
+                                                         protective obstacles.
+
+Obstacle Planning at Corps, Division, and Brigade Levels 4-9
+
+
+---
+
+FM 90-7
+
+      Engineer unit task organization.                     Execution and Supervision
+
+See Figure 4-3 for an example of a division      Units refine obstacle plans. They—
+obstacle overlay.                                      Continue to analyze incoming intelli-
+                                                       gence to ensure the validity of the
+At the brigade level, the plan also includes           obstacle plan in comparison to the
+the following:                                         expected threat.
+                                                       Ensure that subunits report obstacle-
+      Obstacle belts for the TF (and intent, if        control measures and obstacles as they
+      included).                                       develop and execute their plans (see
+      Guidance on the use and reporting of            Appendix B).
+      protective obstacles..                           Shift assets, request additional assets,
+      Guidance on obstacle ownership and               or modify the plan based on the obsta-
+      emplacement.                                     cle effort completed and new or devel-
+                                                       oping requirements.
+See Figure 4-4, page 4-12, for an example of a         Continue planning.
+brigade obstacle overlay.
+
+4-10 Obstacle Planning at Corps, Division, and Brigade Levels
+
+
+---
+
+                                                FM 90-7
+
+The following paragraphs contain a defen-       forces and the AAs in sector (see Figure
+sive scenario for obstacle planning at the      4-5, page 4-13): The enemy has five
+division level. The process is the same at the  regimental-size AAs in the division sector. In
+corps or brigade level.                         the north, two regimental AAs turn into a
+                                                division-size AA and then revert to three reg-
+  DIVISION DEFENSIVE SCENARIO                   imental AAs. In the south, there are three
+                                                regimental AAs that change into a
+This scenario illustrates the integration of    division-size AA.
+obstacles into the division decision-making
+process in the defense. Note that this illus-   The staff has completed all other estimates
+tration highlights only certain aspects of the  and gathered the information necessary for
+decision-making process and focuses on a        planning. It has analyzed relative combat
+single COA.                                     power and determined that the ratios sup-
+                                                port a defense. In addition, it has analyzed
+              MISSION ANALYSIS                  the higher HQ commander’s mission and
+As part of facts and assumptions, the staff     intent. In this case, there are no specific
+determines the following concerning enemy       impacts on division obstacle planning in the
+                                                corps’ plan. The staff incorporated the com-
+                                                mander’s guidance into the plan.
+
+Obstacle Planning at Corps, Division, and Brigade Levels 4-11
+
+
+---
+
+FM 90-7
+
+   COURSE-OF-ACTION DEVELOPMENT                The staff sketches tentative obstacle belts
+                                               (see Figure 4-7, page 4-15). It also draws in
+The staff developed the following COA (see     areas that require obstacle restrictions. The
+Figure 4-6, page 4-14): The division defends   following paragraphs describe the decisions
+in sector to defeat two first-echelon motor-   the staff made during this process.
+ized rifle divisions (MRDs) and a second ech-
+elon MRD. The division uses the division       The staff anticipates that the cavalry squad-
+cavalry squadron to screen between PL River    ron could employ three disrupting obstacle
+and PL Ocean and then conducts battle han-     belts to shape the battle. It groups these ten-
+dover to two brigades defending on line. The   tative belts into Obstacle Zone Alpha. Based
+northern brigade will defeat an enemy divi-    on the covering-force mission, the obstacle
+sion forward of PL Stream. The brigade will    zone must allow maximum flexibility to
+then delay back to PL Lake, allowing enemy     employ tactical obstacles. PL River (BHL)
+penetration into an apparent salient. The      directly impacts on the obstacle zone’s
+southern brigade will defend forward of PL     design. The staff adjusts the rear of the
+Stream and allow penetration no greater        obstacle zone forward of PL River to allow
+than platoon size. The reserve brigade will    MBA forces to employ tactical obstacles to
+CATK along Axis Copperhead into Objective      support the battle handover.
+Viper to destroy a second echelon MRD. The
+aviation brigade will CATK along Axis Rat-     The northern brigade defends in sector
+tler into Objective Cobra, targeting the sec-  between PL River and PL Lake. The staff
+ond echelon MRD’s C2 and CSS assets.           considers the mobility requirements for
+                                               the reserve brigade’s mission forward of PL
+
+4-12 Obstacle Planning at Corps, Division, and Brigade Levels
+
+
+---
+
+                                               FM 90-7
+
+Stream along Axis Copperhead and Objec-        the zone provides for battle handover of the
+tive Viper. The staff anticipates that the     northern two regimental AAs. To facilitate
+brigade could employ two fixing obstacle       the division’s CATK, the commander
+belts forward of PL Stream, one on each AA.    restricts the depth of the obstacle zone to
+The staff also anticipates that the brigade    Objective Viper. These requirements dictate
+will require two blocking belts on the north-  the shape of Obstacle Zone Bravo.
+ern two AAs. Based on these consider-
+ations, and to keep the division’s CATK axis   Obstacle Zone Charlie is deep in the brigade
+and objective restricted from obstacle         sector. This zone has three regimental AAs.
+emplacement, the staff plans two obstacle      To give the brigade commander maximum
+zones for the northern brigade.                flexibility, the zone width will cover from the
+                                               northern boundary to Axis Copperhead.
+Obstacle Zone Bravo encompasses the BHL        This covers two of the three AAs. The CATK
+(PL River). This zone has two regimental       force will use the third AA. The forward
+AAs. To give the brigade commander maxi-       edge of the zone is in the vicinity of Objective
+mum flexibility, the width of this obstacle    Viper. The depth of the zone requires no
+zone covers the entire sector. The depth of
+
+Obstacle Planning at Corps, Division, and Brigade Levels 4-13
+
+
+---
+
+FM 90-7
+
+restriction; therefore, the brigade’s rear        Note: The examples used to illus-
+boundary dictates the zone’s depth.               trate obstacle resourcing above TF
+                                                  level in Appendix C relate directly
+For the southern brigade, the staff uses the      to this scenario.
+same approach to develop the shape of
+Obstacle Zone Delta. To support the com-             COURSE-OF-ACTION ANALYSIS
+mander’s intent and show a strong defense
+forward, the staff puts the zone’s rear        The staff analysis of the COA results in
+boundary forward of PL Stream. This will       some modifications to the obstacle plan.
+cause a concentration of countermobility       They plan a “be-prepared” Obstacle Zone
+effort along the BHL to PL Stream.             Golf to support the division reserve’s CATK
+                                               into Objective Viper. Obstacle resources allo-
+The staff must plan for the rearward pas-      cated to this zone will be for situational
+sage of the cavalry. It recommends to the G3   obstacles to fix the enemy formations.
+that Lane Blue and Lane Red be restricted
+from any obstacle emplacement. The bri-        The aviation brigade is conducting a sup-
+gades must coordinate directly with the divi-  porting attack against the second echelon
+sion for reserve obstacle groups to close      division’s rear in Objective Cobra. Tactical
+these lanes, if required.                      obstacles would aid the attack helicop-
+                                               ters in their fight. The staff tailors Obstacle
+Based on the obstacle plan to support the      Zones Echo and Foxtrot to support the fight
+COA, the staff determines the resources        in Objective Cobra and Python respectively.
+required to support the plan.
+
+4-14 Obstacle Planning at Corps, Division, and Brigade Levels
+
+
+---
+
+                                                  FM 90-7
+
+ADAM and RAAM are available. ADAM                 The staff does not plan protective obstacles,
+and RAAM allocations will require coor-           but it does provide guidance on emplace-
+dination with the fire-support coordinator        ment authority and allocates resources for
+(FSCOORD).                                        protective obstacles in the division rear. In
+                                                  this case, the division authorizes the bri-
+         DECISION AND EXECUTION                   gades to delegate protective-obstacle-
+Based on their analysis, the staff recom-         emplacement authority for all types of obsta-
+mended the COA in this scenario to the com-       cles to company team level within obstacle
+mander, and he approved. The staff prepares       zones. Outside obstacle zones, units only use
+the actual orders, to include the obstacle plan   wire obstacles for protective obstacles.
+and overlay Figure 4-8, page 4-16, shows
+this division’s obstacle overlay. The staff also  In the division rear, the division delegates
+fills in the details required for a complete      protective-obstacle-emplacement authority
+plan. One detail that the staff addresses is      to the base cluster commanders. CSS assets
+guidance on protective obstacles.                 must survive to provide sustainment to
+
+Obstacle Planning at Corps, Division, and Brigade Levels 4-15
+
+
+---
+
+FM 90-7
+
+combat units. Protective obstacles are impor-   scheme of maneuver. In addition, most tacti-
+tant for ensuring survivability of CSS assets   cal obstacles are situational. Therefore,
+in the rear. The staff determines that the      obstacle planning must result in a plan that
+major rear area threat is from air-inserted     is flexible enough to allow emplacement
+dismounted enemy troops. Therefore, the         authority and ensure obstacle control during
+staff allocates wire and AP mines to the base   the fluid offensive operation.
+cluster commanders.
+                                                   TYPES OF OFFENSIVE OPERATIONS
+ OFFENSIVE OBSTACLE PLANNING
+                                                There are certain obstacle-planning consid-
+The following paragraphs provide special        erations that are dependent on the type of
+considerations and some tools for planning      offensive operation. One common consider-
+obstacles to support offensive operations. It   ation is that offensive operations normally
+is harder to plan obstacles to support offen-   rely on situational obstacles due to the vari-
+sive operations than to support defensive       ety of actions that may occur. The types of
+operations. In the offense, it is difficult to  offensive operations are—
+determine where obstacles will support the
+                                                     Movement to contact.
+
+4-16 Obstacle Planning at Corps, Division, and Brigade Levels
+
+
+---
+
+                                                FM 90-7
+
+     Attack.                                          Prevent enemy withdrawal.
+     Exploitation.                                    Provide flank protection.
+     Pursuit.                                         Assist in cutting enemy lines of com-
+                                                      munication (LOC).
+             Movement to Contact
+                                                                      Pursuit
+A unit conducts an MTC to develop the situ-
+ation or to gain or regain contact with the     The pursuit is the desired outcome of an
+enemy. The primary consideration for an MTC     attack or exploitation. The pursuit involves
+is anticipating actions during movement and     total destruction of a retreating enemy force.
+requirements for maneuver and fire support      Commanders use air and ground assets to
+when the unit makes contact. A unit con-        intercept, capture, or destroy the enemy.
+ducting an MTC normally organizes with          Considerations for obstacle planning in sup-
+forward, flank, and rear security elements;     port of pursuit include using them to—
+an advance guard; and a main body. Consid-
+erations for planning obstacles in support of         Cut off enemy withdrawal routes.
+an MTC include using them to—                         Allow the friendly force to fix and
+                                                      destroy the enemy.
+      Fix the enemy while the main body
+      maneuvers (forward security element              TECHNIQUES FOR OFFENSIVE
+      or advance guard).                                    OBSTACLE PLANNING
+      Assist in defeating enemy attacks
+      (flank or rear security elements).        There are two techniques for planning
+      Support a hasty defense.                  obstacle zones and belts to support the dif-
+                                                ferent types of offensive operations. They
+                      Attack                    are to—
+
+Attacks defeat, destroy, or neutralize the           War-game.
+enemy. The same fundamentals apply to all            Use a grid system.
+types of attacks, including hasty, deliberate,
+spoiling, CATKs, and raids. Considerations                          War Game
+for planning obstacles in support of attacks
+include using them to—                          War-game to determine the most likely
+                                                areas where obstacles will support the
+      Attack reserves or CATK forces.           scheme of maneuver, and then plan zones or
+      Prevent defending forces from reposi-     belts in those areas. If requirements for
+      tioning.                                  additional obstacle-control measures arise,
+      Support the protection of friendly        the staff quickly plans and disseminates the
+      flanks during the attack.                 additional control measures. It can use this
+      Support a hasty defense following the     technique in obstacle planning in support of
+      offense.                                  MTCs and attacks.
+
+                   Exploitation                 Figure 4-9, page 4-18, shows an example of
+                                                obstacle zones developed to support an
+In exploitation, the attacker maintains         MTC. Obstacle Zone S supports the advance
+offensive pressure to extend the destruction    guard as it fixes the lead of a moving enemy
+of the defending force. Considerations for      force. As the advance guard assumes a
+planning obstacles in support of exploitation   hasty defense, the main body maneuvers to
+include using them to–                          conduct a hasty attack against the flank of
+
+Obstacle Planning at Corps, Division, and Brigade Levels 4-17
+
+
+---
+
+FM 90-7
+
+the enemy force. Obstacle Zone T assists in     develops a grid system that encompasses
+protecting the flank of the main body. The      the
+use of the same technique to support a
+deliberate attack is shown in Figure 4-10.      entire division sector. In this case, the staff
+The unit plans Obstacle Zones A and B to        uses PLs, grid lines, and boundaries. As the
+support a hasty defense following seizure of    division crosses PL Puma (LD), the com-
+its objectives. They also plan Obstacle Zone    mander activates zones Alpha and Bravo to
+C to support the aviation brigade’s attack on   allow units to emplace obstacles to provide
+the enemy reserve or CATK force.                flank protection. No other proposed obstacle
+                                                zone is active.
+               Use a Grid System
+                                                Based on the developing enemy situation,
+Use a grid system covering the entire AO.       the commander orders the division to
+The grid system is defined by grid lines, PLs,  assume a hasty defense along PL Stallion
+and boundaries. This technique is useful for    and activates Obstacle Zones Delta and
+all offensive operations.                       Echo. To allow a division CATK, the
+                                                commander orders the areas of Obstacle
+Figure 4-11 illustrates the grid-system         Zones Delta and Echo north of the 45 east-
+technique. In this example, the staff           west grid line to be obstacle-restricted
+                                                areas. This technique allows the com-
+                                                mander to grant obstacle-emplacement
+
+4-18 Obstacle Planning at Corps, Division, and Brigade Levels
+
+
+---
+
+                                                 FM 90-7
+
+authority and provide obstacle control despite   This chapter focused on obstacle planning
+a very fluid situation, using only one overlay.  at the corps, division, and brigade levels.
+                                                 The de-tail at these levels ensures the right
+                                                 amount of obstacle control balanced with the
+                                                 maximum amount of flexibility for subordi-
+
+Obstacle Planning at Corps, Division, and Brigade Levels 4-19
+
+
+---
+
+                                                                                                                          FM 90-7
+
+                    Chapter 5
+
+     Obstacle Planning at
+Task-Force Level and Below
+
+The goal of obstacle planning is to support          Analyze the higher HQ’s mission and
+the commander’s intent through optimum               the commander’s intent.
+obstacle emplacement and integration                 Analyze the relative combat power.
+with fires. The focus at the corps, division,        Issue the commander’s guidance.
+and brigade levels is to grant obstacle-
+emplacement authority and provide obstacle              Determine Facts and Develop
+control. The focus at the TF level and below                        Assumptions
+is the actual integration of fires and obsta-
+cles. At the TF level, obstacle planning is    Obstacle planning begins with intelligence
+very directive and detailed and centers on     facts and assumptions, focused on the situa-
+obstacle groups. Below the TF level, obstacle  tion template (SITEMP). The SITEMP
+planning deals with the actual siting and      includes the modified combined obstacle
+emplacement of individual obstacles.           overlay (MCOO). The MCOO is the basic
+                                               product of the battlefield area evaluation,
+       OBSTACLE PLANNING AT                    terrain analysis, and weather analysis from
+           TASK-FORCE LEVEL                    the IPB. It includes the combined obstacles
+                                               overlay, AA overlay (with MCs), friendly
+As with planning at higher levels, TF-level    operational graphic, key terrain, and known
+obstacle planning is part of the decision-     potential enemy objectives. Since tactical
+making process. The following paragraphs       obstacles attack the enemy’s maneuver and
+provide techniques and considerations for      reinforce the existing terrain, the MCOO is
+obstacle planning integrated with the deci-    vital to obstacle planning. It helps ensure
+sion-making process.                           that the obstacles correctly address the
+                                               enemy AAs and MCs.
+                 MISSION ANALYSIS
+                                               The SITEMP depicts an estimate of how the
+The key activities during mission analysis     enemy will attack in terms of the size and
+are to—                                        the type of units and formations. The
+                                               SITEMP should identify the probable
+      Determine the facts and develop          locations where the enemy changes from a
+      assumptions.
+
+Obstacle Planning at Task-Force Level and Below 5-1
+
+
+---
+
+FM 90-7
+
+march formation to a prebattle formation       determine how he wants to use obstacles to
+and finally to an attack formation. This       support his concept of the operation and
+information helps select how and what part     achieve the desired end state. Normally, the
+of the enemy formation obstacles will attack   brigade commander will have given each
+and the effect the obstacles will have on the  obstacle belt a specific effect; thus, the com-
+enemy’s maneuver.                              mander’s obstacle intent is clear. If the com-
+                                               mander does not provide the specific effects
+The SITEMP also may depict the likely          for each obstacle belt, the staff must deter-
+routes for enemy reconnaissance elements.      mine his intent from the context of the
+This helps determine requirements for R&S      order.
+patrols that defeat enemy attempts to recon-
+noiter the obstacles and reduce their effec-   The TF must identify the tasks and limi-
+tiveness before they attack.                   tations received from the brigade. These
+                                               might include obstacle belts with or without
+The engineer provides information on cur-      a specified effect. They also include
+rent and projected engineer task organiza-     restricted areas or restrictions on types of
+tion and the capabilities of engineer          obstacles. Also, the brigade may specify
+units supporting the TF. In addition, he pro-  obstacle groups (situational, reserve, or
+vides facts concerning SCATMINE systems        directed).
+that are available and specific information
+about his engineer equipment or obstacle       The available assets determine the total
+materials that may not be known to the         obstacle capability in the TF. Available
+remainder of the staff,                        assets include engineer units, SCATMINE
+                                               systems (artillery, air, or ground), infantry
+The FSO provides information on artillery-     units that can provide more manpower for
+or aircraft-delivered SCATMINEs that are       obstacle emplacement, and trucks and util-
+available. The Supply Officer (US Army)        ity aircraft for moving obstacle materials.
+(S4) identifies the quantity and location of   Although not considered an asset, time is an
+obstacle material on hand, the transporta-     important resource that the staff must con-
+tion assets available for moving obstacle      sider as it continues planning. Delays in
+material, and the maintenance status of        completing a plan can have a major negative
+equipment that can contribute to the obsta-    impact on the obstacle effort.
+cle effort.
+
+        Analyze Relative Combat Power                    Issue Commander’s Guidance
+
+The staff compares friendly and enemy com-     The commander’s initial planning guidance
+bat power and identifies possible require-     on obstacles should be as specific as possi-
+ments for obstacles to help offset enemy       ble. If the commander narrows the number
+advantages. The actual inclusion of obstacles  of COAs, or if some aspect of the different
+normally occurs after COA development.         COAs remains unchanged, he may provide
+                                               specific guidance on obstacles in certain
+   Analyze Higher Headquarters’ Mission        areas. Any head start that the TF can get in
+             and Commander’s Intent            emplacing obstacles is helpful.
+
+The staff goes through each step of the anal-      COURSE-OF-ACTION DEVELOPMENT
+ysis and identifies information that will
+impact on obstacle planning. The staff ana-    After the staff develops a COA, the detailed
+lyzes the brigade commander’s intent to        obstacle planning begins. The staff focuses
+
+5-2 Obstacle Planning at Task-Force Level and Below
+
+
+---
+
+                                                 FM 90-7
+
+on three specifics when developing the           The staff decides which specific effect each
+obstacle plan to support the COA.                directed obstacle group must achieve. It
+                                                 plans obstacle groups to—
+     Fires analysis.
+     Obstacle intent integration.                      Disrupt the enemy.
+     Obstacle priorities.                              Turn the enemy into areas where
+                                                       friendly units can mass fires.
+                     Fires Analysis                    Fix the enemy in the EA and enhance
+                                                       fires.
+Fires analysis starts with reviewing the TF            Block the enemy along an AA.
+commander’s intent. The staff examines how
+it can use obstacles integrated with maneu-      The staff integrates these directed obstacle
+ver in the COA to achieve the commander’s        groups (location, target, and specific effect
+intent.                                          (intent)) with the COA. It shows the obstacle
+                                                 groups on the COA overlay using the obsta-
+The staff uses the COA that it normally          cle effect graphics. The staff draws the
+depicts graphically on an overlay. The           graphic to reflect the location of the obstacle
+maneuver graphics include maneuver and           group as accurately as possible.
+fire-control measures. Fire-control mea-
+sures indicate how and where combat forces                         Obstacle Priorities
+will mass, shift, and lift fires to destroy the
+enemy. The staff should draw planning            The staff sets priorities for the directed
+range fans for friendly weapon systems on        obstacle groups that it placed on the COA
+the overlay. Combined with the fire-control      overlay. The staff aligns the obstacle group
+measures, these range fans give the staff a      priorities to support the TF direct-fire main
+feeling for where company teams can inte-        effort. It numbers the obstacle effects graph-
+grate obstacles with fires. Understanding        ics on the overlay starting with 1 and con-
+the maneuver and fire plans and the organi-      tinuing in sequence. These piorities help to
+zation of the EA are fundamental to inte-        determine resource allocations and to
+grating obstacles with fires.                    ensure that units emplace the obstacles that
+                                                 are most critical to the overall plan first.
+            Obstacle Intent Integration
+                                                         COURSE-OF-ACTION ANALYSIS
+Based on the TF commander’s intent and
+the fires analysis, the staff determines loca-   The staff conducts war gaming to determine
+tions for directed obstacle groups. It starts    which COA it should recommend to the com-
+by giving the obstacle groups a battlefield      mander. The staff should consider obstacles
+placement to support the maneuver plan.          within the total context of the COA. How-
+This location is for planning and is adjusted    ever, some specific considerations for the
+on the ground.                                   staff during war gaming are—
+
+Each directed obstacle group targets a spe-            Enemy reactions at obstacle groups
+cific enemy element based on the SITEMP.               versus the desired obstacle effect.
+The staff normally allocates groups against            Enemy breaching capability that may
+enemy battalion-size MCs just as they allo-            make one or more varieties of individ-
+cate a company team to defeat an enemy                 ual obstacles preferable (see Appen-
+battalion. Company team fire responsibility,           dix A).
+therefore, drives the placement of obstacle            Obstacle locations that inhibit friendly
+groups.                                                maneuver.
+
+Obstacle Planning at Task-Force Level and Below 5-3
+
+
+---
+
+FM 90-7
+
+      Compatible obstacle effects and weapon       planning for the obstacle plan that supports
+      system capabilities.                         that COA. Specifically, the staff can deter-
+      Adequate fire-control measures to sup-       mine the tentative design and resourcing for
+      port obstacle effect.                        the obstacle plan. Final design and resourc-
+                                                   ing occurs after the commander approves
+After war gaming, the staff adjusts the COA        the COA and any final changes. In fact, final
+to include the obstacle plan. These adjust-        design normally occurs at the company team
+ments may include the following:                   and emplacing unit level. Nevertheless, the
+                                                   staff can develop a detailed concept that will
+      Changes to locations of directed obsta-      require only minor modifications to support
+      cle groups.                                  the final approved plan.
+      Changes to the obstacle effect at a spe-
+      cific location.                              The staff begins by resourcing the groups
+      Addition of situational obstacle groups      based on the MC widths and the desired
+      (see Chapter 6 for specific consider-        effect. It determines MC widths from the
+      ations).                                     SITEMP. The total amount of linear obsta-
+      Addition of reserve obstacle groups (see     cles required in a particular group is equal
+      Chapter 7 for specific considerations).      to the width of the MC multiplied by the
+      Identification of other mobility require-    resource factor for the obstacle effect,
+      ments.                                       Appendix C explains resourcing in detail,
+                                                   The TF staff resources the obstacle groups
+               Mobility Requirements               according to the obstacle group priorities.
+                                                   Once the staff resources the obstacle groups,
+The staff identifies mobility requirements to      the engineer plans the individual obstacles.
+determine which obstacles need lanes or
+bypasses available for friendly forces. Lanes      Use of standard obstacles supports resource
+and bypasses are normally required for tac-        planning and obstacle group design. The
+tical repositioning, C2, and sustainment           plan for the individual obstacles, which
+traffic. The staff identifies locations for lanes  make up a group, serves as a guide for the
+and bypasses based on tactical repositioning       TF staff to adjust the resource allocation. If
+from the maneuver graphics, such as a              time is available for detailed reconnais-
+route, axis, or subsequent position. It also       sance, the design of the group may provide
+identifies C2 mobility requirements, to            the company teams the actual obstacle
+include plans for rehearsals and physical          design for each group. However, the design
+placement of TRPs. Lastly, the staff identi-       of the obstacle groups usually serves as a
+fies lanes and bypasses that are needed to         guide to company teams, and they conduct
+support sustainment traffic. Considerations        the actual design of the individual obstacles
+are the MSRs into and through the TF area,         with the emplacing unit leader.
+the TF logistics release point (LRP), the
+routes the company team takes from its posi-                  DECISION AND EXECUTION
+tion to the LRP, and the location of key TF
+logistics nodes.                                   Once the commander selects a COA, the
+                                                   staff completes the plan and publishes the
+       Obstacle Design and Resourcing              order. The staff makes final adjustments to
+                                                   the plan and provides subordinate units
+After comparing the COAs and determining           with oral, written, and graphical informa-
+the COA for recommendation to the com-             tion, with sufficient detail to allow the
+mander, the staff can conduct more detailed
+
+5-4 Obstacle Planning at Task-Force Level and Below
+
+
+---
+
+                                                 FM 90-7
+
+subordinates to conduct the operation. The       and provide examples of obstacle-execution
+TF staff normally gives information concern-     matrices for reserve and situational obsta-
+ing obstacles to subordinates using two tools.   cles respectively Figure 5-1, page 5-6, is an
+They are the—                                    example of a directed obstacle-execution
+                                                 matrix.
+      Scheme-of-obstacles overlay.
+      Obstacle-execution matrix.                 As a minimum, a directed obstacle-execu-
+                                                 tion matrix should include the following:
+          Scheme-of-Obstacles Overlay
+                                                       Zone/belt/group designation and
+The scheme-of-obstacles overlay depicts the            individual obstacle numbers (see
+location of obstacle belts, brigade obstacle          Appendix B).
+groups (if any), and TF obstacle groups,               Location (grid coordinates appropriate
+within the TF sector. It also includes obstacle        to the detail of the plan. This may be a
+restrictions from any higher level (the staff          center of mass grid for the group, start
+annotates restrictions that it cannot show             and end points of the group trace, or
+graphically). The overlay portrays obstacle            grid coordinates for individual obsta-
+groups using an obstacle-effect graphic.               cles, if known).
+These obstacle graphics define the general             Obstacle effect for the group.
+location and the effect to be achieved by indi-        Priority for the group.
+vidual obstacles.                                      Emplacing and owning unit.
+                                                       Location of any lanes and closure
+The obstacle overlay does not normally                 instructions or reference to a reserve-
+depict individual obstacle locations. How-             obstacle matrix, if appropriate.
+ever, the staff may depict individual obsta-           Material or assets allocated for the
+cles if detailed reconnaissance has been done          group (possibly listed by number of
+and exact obstacle locations are identified.           standard obstacles. See Appendix A).
+Alternately, the staff may include individual          Location of the obstacle materials (the
+proposed obstacle graphics with the obstacle-          Class IV and Class V point or other
+effect graphic to guide the emplacing unit             site. See Appendix C).
+and the owning unit on the general configu-            Any special instructions for each
+ration of the obstacle group. Commanders               group.
+must exercise caution if they use individual
+proposed obstacles on an overlay. They must             TASK-FORCE OBSTACLE
+ensure that inexperienced subordinates do
+not attempt to emplace obstacles exactly as                        SCENARIO
+depicted on an overlay, instead of properly
+siting the obstacle. The TF scenario that fol-   The following scenario highlights some con-
+lows includes an example of a TF obstacle        siderations for obstacle planning at the TF
+overlay.                                         level. The TF commander has the mission to
+                                                 defend in sector to defeat an enemy regi-
+            Obstacle-Execution Matrix            ment. Based on the TF mission, the com-
+                                                 mander directs the staff to develop the
+The obstacle-execution matrix includes spe-      COA depicted in Figure 5-2, page 5-7. The
+cific instructions and detailed information      scouts will screen forward. Teams A and C
+concerning the obstacles on the scheme of        and Company D defend from BPs A, C, and
+obstacle overlay. Normally, there is a sepa-     D, respectively, to mass fires in EA Tee.
+rate execution matrix for each type of           Team B defends along a secondary AA in
+tactical obstacle. Chapters 6 and 7 describe     the south from BP B. On order, Team B
+
+Obstacle Planning at Task-Force Level and Below 5-5
+
+
+---
+
+ FM 90-7
+5-6 Obstacle Planning at Task-Force Level and Below
+
+
+---
+
+                                                 FM 90-7
+
+repositions to a subsequent BP to support        which it identified during mission analysis.
+the fight in EA Tee.                             The staff uses obstacle-effect graphics to
+                                                 show the relative location of the obstacle
+The staff develops an obstacle plan to sup-
+port the COA. First, it analyzes the fire plan   groups and indicate the desired obstacle
+to determine the areas where fires are           effect. The obstacle groups target enemy
+massed to destroy the enemy. The staff           battalion-size formations (see Figure 5-4,
+sketches in rough range fans based on the
+probable weapon systems in each BP. These        page 5-9). Finally, the TF staff sets priorities
+areas suggest locations where the staff can      for the obstacle groups based on the
+integrate obstacles with fires (see Figure 5-3,  importance of the obstacle group to the suc-
+page 5-8). The staff selects locations for
+directed obstacle groups. It confines the        cess of the COA. Figure 5-4 also shows the
+obstacle group locations to obstacle belt A1,    priorities that support the commander’s
+                                                 desire to stop the enemy in the south, force it
+                                                 to piecemeal into the EA, and destroy it in
+                                                 the EA.
+
+Obstacle Planning at Task-Force Level and Below 5-7
+
+
+---
+
+FM 90-7
+
+The staff analyzes the COA and makes            Following the commander’s decision to
+adjustments based on the analysis. These        accept the COA as it is, the staff finalizes
+adjustments include the addition of a           the obstacle plan. The final plan includes a
+situational obstacle group to support           scheme-of-obstacles overlay (see Figure
+the withdrawal of the scouts. The staff also    5-6, page 5-11) and obstacle execution
+identifies mobility requirements. These         matrices.
+requirements include lanes for passage of
+the TF scouts and marked bypasses in the           OBSTACLE PLANNING BELOW
+EA to support EA rehearsals. Figure 5-5,                   TASK-FORCE LEVEL
+page 5-10, shows the situational obstacle
+group and mobility requirements annotated       The following paragraphs outlines princi-
+on the obstacle plan.                           ples for siting tactical obstacles to support
+                                                the company team. The focal point is the
+The staff conducts obstacle design and          coordination that must occur between the
+resourcing for the obstacle plan. Obstacle      emplacing unit leader (normally an engi-
+resourcing to support an obstacle plan is dis-  neer platoon leader) and the company team
+cussed in Appendix C. The design of obstacle    commander. This coordination is perhaps
+groups is discussed in Appendix A.
+
+5-8 Obstacle Planning at Task-Force Level and Below
+
+
+---
+
+                                                 FM 90-7
+
+the most vital component of effective obsta-     the obstacle group is essential to making the
+cle integration. It is at this level that units  obstacles a combat multiplier. The emplac-
+directly integrate obstacles with the effects    ing engineer is the company team com-
+and capabilities of weapons and the fire         mander’s team engineer for the mission. The
+plan. Once the coordination is complete, the     engineer and the company team commander
+emplacing unit physically sites the obstacle     work closely to ensure complete integration
+with the company team.                           of obstacles with the company team plan.
+
+   COORDINATION WITH THE MANEUVER                The emplacing engineer and company team
+                      COMMANDER                  commander use a common set of information
+                                                 when conducting coordination. The follow-
+Effective coordination with the company          ing tools or information will improve coordi-
+team commander who is responsible for            nation:
+
+Obstacle Planning at Task-Force Level and Below 5-9
+
+
+---
+
+FM 90-7
+
+SITEMP.                              During coordination, a checklist or frame-
+Commander’s intent.                  work is a useful tool for organizing thoughts
+Maneuver graphics and fire plan.     and formulating questions. Table 5-1, page
+Obstacle execution matrix/matrices.  5-12, provides a checklist of some consider-
+Scheme-of-obstacle overlay.          ations for use during coordination between
+Fire-support plan.                   the emplacing engineer and the company
+CSS graphics.                        team commander. These considerations are
+                                     organized using the BOSs to provide a logi-
+                                     cal framework.
+
+5-10 Obstacle Planning at Task-Force Level and Below
+
+
+---
+
+                                                      FM 90-7
+
+              SITING THE OBSTACLE                     mass fires and marks the necessary fire-
+                                                      control measures on the ground. The loca-
+The emplacing engineer and the company                tion of these control measures must be clear
+team commander site individual obstacles to           since they are the basis for obstacle siting.
+achieve synchronization between the obsta-            Second, the commander identifies tentative
+cle effect and fires. Both must devote suffi-         locations for his key weapons within his
+cient time to the siting effort, since it represents  position or sector. Finally, he and the engi-
+the final adjustments to obstacle location            neer must both understand the intent of the
+and fire control before emplacement.                  obstacle group.
+
+To site individual obstacles, certain precon-         Obstacle siting concentrates on marking the
+ditions are necessary. First, the company             obstacle group as a whole instead of each
+team commander decides where he plans to
+
+Obstacle Planning at Task-Force Level and Below 5-11
+
+
+---
+
+FM 90-7
+5-12 Obstacle Planning at Task-Force Level and Below
+
+
+---
+
+                                                  FM 90-7
+
+individual obstacle; however, in broken ter-      obstacles (if this has not already been done).
+rain, it may be easier to site individual         To mark individual obstacles, the engineer
+obstacles. The company team commander             platoon uses the group markers as a guide.
+and emplacing engineer use vehicles or sol-       As shown in Figure 5-7, page 5-15, the group
+diers from the company team, the engineer         markers may lend themselves well as the
+platoon, or both to simulate the enemy force      start and end points of individual obstacles;
+and do the physical marking. The simulated        however, this is not always the case. As the
+enemy forces move into the EA to the enemy        engineer platoon refines the group limits
+side of the obstacle group. The engineer pla-     into the site of individual obstacles, the pla-
+toon leader and the company team com-             toon can then begin the necessary site lay-
+mander collocate near the weapons covering        out based on the method of obstacle
+the obstacle. As a technique, one or all of the   emplacement.
+tanks, Bradleys or other crew-served weap-
+ons may occupy their position and contribute      Siting is not the last thing done during prep-
+to the siting process. All participants in the    arations. The time and resources involved in
+siting process use a common FM net to com-        emplacing tactical obstacles requires that
+municate during siting.                           siting begin concurrently with establishing
+                                                  the defensive position. It is imperative that
+The simulated enemy forces move into the          the unit sites the obstacles as soon as the
+EA simulating the enemy’s attack. They            company team commander establishes the
+deploy into a formation of similar frontage       EA and identifies tentative positions for key
+as the expected enemy formation. Once they        weapons. It is not necessary that all weap-
+are near the marked fire-control measures,        ons are in place and dug in before siting.
+they place markers at intervals as they drive     Normally, well-marked fire-control mea-
+the trace of the obstacle group effect (or indi-  sures and one known position per maneuver
+vidual obstacles in broken terrain). They         platoon (not dug in) are all that is required
+remain oriented on key fire-control mea-          to effectively site the obstacles.
+sures to ensure that the obstacle location
+and effect are synchronized with fires. Dur-        OBSTACLE TURNOVER AND TRANSFER
+ing the process, each participant verifies
+that he can cover the obstacle, notes the         Once an obstacle group is completed, the
+location of fire-control measures and obsta-      emplacing unit conducts obstacle turnover
+cles, and records the appropriate data on         with the owning unit. Occasionally, an own-
+range cards. As the platoon drives the obsta-     ing unit will transfer responsibility for an
+cle trace, siting participants also identify      obstacle to another unit. Obstacle turnover
+dead space and requirements to refine the         or transfer ensures that the commander of
+location of the obstacle group and fire-con-      the owning unit is familiar with the obstacle
+trol measures. The siting process also may        and understands its responsibilities con-
+identify the need for other fire-control mea-     cerning the obstacle. Considerations for
+sures. Figure 5-7, page 5-15, illustrates how     obstacle turnover and transfer are as fol-
+the engineer and the company team com-            lows:
+mander work together to site a turn and a
+fix obstacle group respectively.                        Mutual identity check (normally only
+                                                        for obstacle transfer).
+Once the company team marks the general                 Briefing on local friendly and enemy
+limits and orientation of the obstacle group,           situations.
+the engineers can begin marking individual
+
+Obstacle Planning at Task-Force Level and Below 5-13
+
+
+---
+
+FM 90-7
+
+Description of the obstacle, to include               or information on the reserve obstacle
+location, type, marking, and composi-                 (if applicable).
+tion.
+                                                      Coordination completed or still
+   Conventional- mine fields (types of                required with the FIST.
+   mines, fuzing, and antihandling
+   devices (AHDs)).                                   Transfer of graphics and documenta-
+   Scatterable minefield (types of                    tion (minefield records, demolition tar-
+   mines, duration/SD time, and safety                get folders, orders for the demolition
+   zone).                                             guard, or other written records).
+
+   Other obstacles (booby traps and                   Guidance on obstacle protection mea-
+   other hazards).                                    sures taken or required (counterrecon-
+Information on lanes, to include num-                 naissance, targeting enemy breachers,
+ber, locations, marking, and closure plan             obstacle repair, or phony obstacles).
+
+5-14 Obstacle Planning at Task-Force Level and Below
+
+
+---
+
+                                                                          FM 90-7
+Obstacle Planning at Task-Force Level and Below 5-15
+
+
+---
+
+                                                                                       FM 90-7
+
+  Chapter 6
+
+ Reserve
+Obstacles
+
+ This chapter implements STANAG 2017.          site. They also commit an engineer unit to
+                                               provide the technical expertise to ensure
+This chapter outlines the procedures to plan,  that the obstacle is executed. Both the
+prepare, and execute reserve obstacle          maneuver and engineer units that the com-
+groups. Reserve obstacle groups are those for  mander dedicates to the reserve obstacle
+which the commander restricts execution        have other potential missions. The com-
+authority. These are "on-order" obstacles,     mander must conclude that the reserve
+The commander specifies the unit responsi-     obstacle group is so critical that the loss of
+ble for obstacle emplacement, guarding, and    units to protect and execute the obstacle
+execution. Units normally plan and prepare     outweighs the combat potential of those
+reserve obstacles during preparation of the    units in other areas.
+battlefield. Units execute them only on com-
+mand of the authorizing commander or           The commander must clearly identify the
+based on specific criteria that the com-       criteria for executing the obstacle. Reserve
+mander identifies. The purpose of a reserve    obstacles require detailed coordination and
+obstacle group is to retain control over the   synchronization to ensure success.
+mobility along an AA. Commanders use
+reserve obstacles when failure to maintain     Units normally install, but do not execute,
+control over the mobility along an AA will     reserve obstacles early in the preparation
+have disastrous effects on the current battle  phase because they are a critical part of the
+or future operations.                          plan. Units may use a reserve obstacle to
+                                               close a lane in a larger obstacle. Obstacles
+      EMPLOYMENT PRINCIPLES                    used for rapid lane closure are often demoli-
+                                               tion obstacles or mines; however, the type of
+Commanders carefully select and have their     obstacle used is only limited by imagination
+staffs plan reserve obstacles. Normally, the   and ingenuity.
+commanders assign a maneuver unit as a
+guard element to protect the reserve obstacle              RESPONSIBILITIES
+
+                                               Key persons involved in the execution of a
+                                               reserve obstacle (see Figure 6-1, page 6-2)
+                                               are the—
+
+                                               Reserve Obstacles 6-1
+
+
+---
+
+FM 90-7
+
+     Authorizing commander.                      Selects the code words for the execu-
+     Guard commander.                            tion of the obstacle.
+     Firing commander.
+                                                 Establishes other specific criteria for
+          AUTHORIZING COMMANDER                  executing the obstacle if he does not
+                                                 withhold the execution authority. He
+The authorizing commander is the maneu-          may authorize the guard commander
+ver commander who determines the require-        to execute the target based on his own
+ment for a reserve obstacle. The authorizing     initiative or based on other criteria.
+commander—
+                                                 Determines the need for a separate
+      Establishes the criteria and procedures    guard force. If a small guard force can
+      for executing the obstacle. Typically, he  protect the obstacle site, he may
+      withholds authority to execute until he    choose to combine the duties of the
+      gives the order, using specific code       guard force and the firing party. In
+     words.                                      this case, the guard commander and
+                                                 the firing commander are the same
+                                                 person.
+
+6-2 Reserve Obstacles
+
+
+---
+
+                                                FM 90-7
+
+      Determines the need for a separate fir-   The commander determines the require-
+      ing party. If the reserve obstacle        ment for a reserve obstacle during the
+      requires an engineer technical expert     COA analysis or possibly following the COA
+      on site to ensure obstacle execution,     development. The commander may also
+      then the firing party is separate         receive a requirement for a reserve obstacle
+      from the guard force.                     from a higher commander as a specified
+                                                task. If so, the staff identifies the require-
+               GUARD COMMANDER                  ment during the mission analysis.
+
+The guard commander is the leader of the        If the commander decides that he needs to
+unit that protects the obstacle. He is a        retain control over mobility along an AA, he
+commissioned officer or an NCO. The guard       has two options. He can—
+commander—
+                                                      Assign a specified task to a subordinate
+      Ensures that the obstacle site is not           unit to maintain a lane.
+      captured by the enemy.
+      Gives the firing commander the order            Use a reserve obstacle.
+      to execute the obstacle (based on the
+      criteria that the authorizing com-        The commander must consider the effect of
+      mander established).                      the premature loss of mobility along an AA.
+                                                For example, if an ACR is withdrawing
+                FIRING COMMANDER                under pressure through a division sector,
+                                                premature loss of mobility along the AA may
+The firing commander is the leader of the       slow or even stop the ACR's withdrawal.
+firing party and is an engineer NCO, unless     The corps commander may specifically task
+the commander determines that there is no       the division commander to ensure that the
+need for an engineer technical expert on site.  ACR’s withdrawal lanes are clear until the
+The firing commander—                           ACR has withdrawn. Thus he allows the
+                                                division commander to determine the need
+      Executes the obstacle when the guard      for reserve obstacles. The corps commander
+      commander orders him to do so.            may also decide to use reserve obstacles (see
+      Inspects and repairs the obstacle, as     Figure 6-3, page 6-6).
+      required.
+                                                If the commander decides to use reserve
+The specific orders to the guard and firing     obstacles, he again has two options. If spe-
+commanders are shown on the sample              cific obstacle sites are obvious, such as
+STANAG Form 2017 (see Figure 6-2,               bridges across a major river, the corps com-
+pages 6-4 and 6-5.                              mander may designate those sites as corps
+                                                reserve obstacles. This will require detailed
+  RESERVE-OBSTACLE PLANNING                     planning by the corps staff and coordination
+             CONSIDERATIONS                     down to the executing unit. If obstacle sites
+                                                are not obvious, the corps commander may
+The staff plans reserve obstacles during        specify that any obstacles along the with-
+the decision-making process. The following      drawal lanes are corps reserve targets. This
+paragraphs contain some considerations for      will require subordinate units to conduct
+determining the requirement for, and the        detailed planning and then coordinate
+planning, preparation, and execution of,        through operational and engineer channels
+reserve obstacles.                              with the corps.
+
+                                                Reserve Obstacles 6-3
+
+
+---
+
+FM 90-7
+
+6-4 Reserve Obstacles
+
+
+---
+
+                       FM 90-7
+Reserve Obstacles 6-5
+
+
+---
+
+FM 90-7
+
+The need for reserve obstacles is not limited               ADDITIONAL FACTS AND
+                                                                   ASSUMPTIONS
+to ensuring successful rearward passage of
+friendly units. The reserve obstacle may con-  Once the commander decides on the need for
+trol key terrain along a CATK axis that is     a reserve obstacle, the staff examines the
+                                               SITEMP. It is used to determine the–
+along the most dangerous enemy AA (see
+Figure 6-4). Control of the key terrain (a           Size of the guard force required.
+choke point) along the CATK axis may be              Requirement to secure the obstacle,
+critical to success in the battle. The com-          either by fire or occupation.
+mander may reserve the obstacle controlling          Size of the obstacle required.
+the key terrain to retain his flexibility to         Most effective type of obstacle.
+
+commit the CATK force along the axis and       The expected threat determines the size
+have a means to close the AA if the enemy      of the guard force. The enemy and terrain
+uses the most dangerous AA.
+
+6-6 Reserve Obstacles
+
+
+---
+
+                                                 FM 90-7
+
+situation dictate whether the guard force        site is dictated by a higher commander or
+must secure the site by occupation or            the terrain. A reserve obstacle directed by
+whether they can do so from a distance by        the higher HQ may require the subordinate
+fire. The terrain that determines the size of    unit to adjust its positions to cover the
+the AA may determine the size of the obsta-      obstacle by fire. In some terrain, there may
+cle. The enemy’s breaching capability may        be only a few sites where a commander can
+determine the most feasible obstacle. For        use reserve obstacles to control mobility
+example, if the enemy does not have organic      along an AA. This terrain is usually domi-
+assault bridging, then tank ditches and RCs      nated by some type of existing obstacle (such
+may be the best obstacle.                        as a river, canal, or canyon). If the com-
+                                                 mander decides to use a reserve obstacle, he
+                    FIRES ANALYSIS               repositions forces to ensure that the obstacle
+                                                 is covered by fire.
+The staff analyzes the COA to determine
+the—                                                   OBSTACLE INTENT INTEGRATION
+
+      Location of the obstacle relative to sub-  The staff places the reserve obstacle group
+      ordinate units’ positions.                 relative to the terrain and friendly maneu-
+      Ability of the unit to cover the reserve   ver graphics to support the COA. Normally,
+      obstacle group by fire following execu-    the desired obstacle effect of a reserve obsta-
+      tion.                                      cle is to block. Even if it is used to close a
+      Most likely subordinate unit to assign to  lane in a directed fix obstacle group, the
+      the guard force mission.                   commander uses the reserve obstacle to
+                                                 block the AA, in this case the lane; however,
+The best spot for an obstacle may not be the     the commander may use reserve obstacles to
+best spot to bring overwhelming combat           achieve any of the four obstacle effects. The
+power to bear. When the unit uses the            staff indicates the location of reserve obsta-
+reserve obstacle to close a lane in a properly   cles by using the obstacle effect graphics and
+planned directed obstacle, the reserve           annotating them as reserve obstacles.
+obstacle is already integrated with fires.
+However, in some cases, a reserve obstacle
+
+                                                 Reserve Obstacles 6-7
+
+
+---
+
+FM 90-7
+
+              OBSTACLE PRIORITIES                required time. The obstacle-emplacement
+                                                 unit is dedicated to the reserve obstacle,
+Reserve obstacles are high-priority obsta-       which makes it an "on-order" mission. The
+cles. Because a reserve obstacle is critical to  staff identifies potential situations where
+the plan, units must emplace reserve obsta-      SCATMINE assets may not be available and
+cles early in the preparation phase.             ensures that the commander understands
+                                                 any risk associated with their nonavailabil-
+           MOBILITY REQUIREMENTS                 ity.
+
+The commander’s decision to use reserve                     DECISION AND EXECUTION
+obstacles is based on—
+                                                 The staff prepares orders and provides
+      Analysis of the COA.                       mation on reserve obstacles on the SCI
+      Detection of mobility requirements.        of-obstacles overlay, in a reserve-obstacle-
+                                                 execution matrix, and in a demolition order
+An additional consideration is the establish-    for the unit with the guard force mission.
+ment of procedures for traffic control and
+lane marking. Figure 6-5 shows a possible            SCHEME-OF-OBSTACLES OVERLAY
+lane-marking system based on lane-marking
+guidance from FM 90-13-1.                        Reserve obstacles are included on the
+                                                 scheme-of-obstacles overlay. The staff uses
+After the commander decides on a COA, the        the obstacle effects graphics and, in many
+staff can do the detailed planning for reserve   cases, the individual obstacle symbols (if the
+obstacles. This detailed planning involves       commander intends to use a specific type of
+designing and resourcing the reserve obs-        individual obstacle for the reserve obsta-
+tacle group.                                     cle). This provides the emplacing unit with
+                                                 clear guidance on what obstacle effect is
+  OBSTACLE DESIGN AND RESOURCING                 desired and what individual obstacles to
+                                                 use.
+The staff determines—
+      What obstacle assets are available.          OBSTACLE-EXECUTION MATRIX
+      Which type of obstacle asset is best to
+      use.                                       The obstacle-execution matrix for reserve
+                                                 obstacle groups is similar to the matrix for
+The staff must know the obstacle emplace-        directed obstacles (see Figure 6-6, page
+ment assets that are available. It finds this    6-10). Typical information shown on the
+information by reexamining the facts and         matrix includes—
+assumptions for the mission. The staff
+limits its consideration of available                  Zone/belt/group designation and indi-
+assets to those that are quickly executed.             vidual obstacle numbers.
+Demolition obstacles, preconstructed                   Location, effect, and priority of the
+obstacles (like the falling blocks used in             group.
+Korea), and SCATMINEs are examples of                  Emplacing and owning units.
+easily executed obstacles. For small                   Designation of the firing and guard
+lanes, hand-emplaced conventional mines                commanders.
+may be suitable. If the commander decides              Emplacing asset and asset location.
+to use SCATMINEs, the staff ensures that              Any special instructions for each group.
+the asset directed to emplace the reserve
+obstacle is available for the mission at the
+
+6-8 Reserve Obstacles
+
+
+---
+
+                 FM 90-7
+
+Reserve Obstacles 6-9
+
+
+---
+
+FM 90-7
+6-10 Reserve Obstacles
+
+
+---
+
+                                               FM 90-7
+
+           DEMOLITION ORDER                          The combination of an enemy and a
+                                                     friendly action.
+The demolition order, STANAG Form 2017,
+consists of a single sheet printed on both     If the commander does not establish emer-
+sides. This order can be used for any obsta-   gency firing orders, he takes the risk of the
+cle, not just demolitions. Figure 6-2, pages   enemy destroying the guard unit and the
+6-4 and 6-5, includes an example of a com-     obstacle not being executed. If he estab-
+pleted demolition order.                       lishes emergency firing orders, he takes the
+                                               risk that the premature execution of the
+The demolition order may include emergency     obstacle may hamper future operations.
+firing orders (indicated on STANAG Form        The commander makes a decision on execu-
+2017, items 5 and 6). The commander per-       tion criteria and issues clear orders concern-
+forms a risk assessment on the execution cri-  ing the authority to execute the obstacle (see
+teria. The commander has two options:          Figure 6-7).
+withhold execution authority or grant execu-
+tion authority to the guard commander                          REHEARSALS
+based on—
+                                               Once the order is published, the next
+      The possibility that the enemy is about  step is to rehearse the execution of the
+      to capture the obstacle.                 obstacle. Reserve obstacles require detailed
+      A NLT time being reached.                coordination and execution. The focus of
+                                               the rehearsal is to confirm the timing
+      Specific friendly action.
+      Specific enemy action.
+
+                                               Reserve Obstacles 6-11
+
+
+---
+
+FM 90-7
+
+requirements. Units should conduct this        considerations for execution in reduced
+rehearsal as part of a larger rehearsal with   visibility, such as smoke, darkness, or fog.
+minimal simulation. The following timing       Once these times are determined through
+requirements are considered during the         rehearsal, the firing commander informs the
+rehearsal (see Figure 6-8):                    guard commander.
+
+      Time required for the guard commander    Another time consideration is the arming
+      to notify the firing commander to exe-   and duration times. If SCATMINEs are
+      cute the target.                         used, the arming and duration times can be
+                                               a significant factor. For example, it takes
+      Time required to execute the target.     two minutes for a MOPMS dispensed mine
+                                               to arm. The duration on MOPMS is sixteen
+      SCATMINE arming and duration time,       hours (assuming the mines are recycled
+      if applicable.                           three times) from the time the mines are
+                                               armed; however, the mines begin to SD at
+The guard force and the firing party rehearse  80 percent of their expected life. It is impor-
+notification procedures, using redundant       tant not to execute this and similar systems
+communication procedures, such as wire and     too late or too early.
+radio. They rehearse the time required to
+receive notification and move to the firing    During the rehearsal, the guard commander
+point under all conditions.                    also identifies the decision point for execut-
+                                               ing the obstacle according to emergency fir-
+The firing commander and the guard com-        ing orders. Emergency firing orders may not
+mander calculate how long it will take to
+execute the obstacle. The full rehearsal
+includes rehearsal of the backup plan and
+
+6-12 Reserve Obstacles
+
+
+---
+
+                                               FM 90-7
+
+require a physical DP but may require execu-   the DP to execute the obstacle. Ideally, the
+tion of the obstacle based on enemy or         point should be clearly marked with a TRP.
+friendly actions that the guard commander      This spot may change based on visibility
+cannot see. If so, the guard commander con-    conditions.
+firms, with the authorizing commander,
+how he will get the information that drives    If the reserve obstacle is also a lane, the
+the decision to execute the obstacle (such as  coordination required is similar to the coor-
+a report from the TF scouts that the enemy     dination required to conduct a passage of
+has reached a certain location).               lines. The guard commander must know the
+                                               following:
+If execution depends on imminent enemy
+capture of the obstacle site, the guard com-        The number of vehicles to expect.
+mander makes assumptions about how much
+combat power he must have to retain control         The near and far recognition signals.
+of the site. He must also consider the time
+requirements for execution that will affect         The passage time.
+the DP. For example, he must determine at
+what point during the fight to retain control  Another important element to consider dur-
+that he can order execution and still have     ing the rehearsal is the commitment of
+enough time for notification, execution, and   assets, especially if the assets have other
+arming.                                        missions. For example, artillery assets must
+                                               be available to fire a reserve ADAM/RAAM
+If execution is based on a certain size enemy  obstacle. During the rehearsal, the staff ver-
+force reaching the obstacle site, the guard    ifies the availability of the asset and identi-
+commander uses the time required for obsta-    fies additional situations where the asset
+cle execution and works backwards to locate    may not be available. It ensures that the
+                                               executing unit understands the com-
+                                               mander’s priorities.
+
+                                               Reserve Obstacles 6-13
+
+
+---
+
+                                                                                        FM 90-7
+
+   Chapter 7
+
+Situational
+Obstacles
+
+This chapter outlines the procedures to                         IDENTIFY THE NEED
+determine the requirements for situational
+obstacles and to plan, prepare, and execute     The commander anticipates situations that
+them. Situational obstacles are obstacles       require him to modify the maneuver and
+that units plan, and possibly prepare, before   fire plans to defeat the threat, and he con-
+starting an operation; however, they do not     siders the use of situational obstacles to
+execute them unless specific criteria are met.  support these modifications. He can use sit-
+Unlike directed or reserve obstacles, a situa-  uational obstacles as a combat multiplier
+tional obstacle may never be executed. Nor-     for branch plans or sequels since they
+mally, units plan several situational           enable him to use economy-of-force mea-
+obstacles that rely on the same assets for      sures. The commander can use situational
+emplacement. This allows the commander to       obstacles to—
+shift scarce assets to the location where he
+needs them the most, based on the situation.          Attack an enemy vulnerability.
+                                                      Exploit success.
+      EMPLOYMENT PRINCIPLES                           Separate follow-on enemy forces.
+                                                      Provide flank protection.
+Commanders and staffs consider the follow-
+ing basic principles when planning, prepar-                  PLAN FOR RESOURCES
+ing, and executing situational obstacles:
+                                                Obstacle emplacement is normally resource
+      Identify the need.                        intensive. By their very nature, situational
+      Plan for appropriate resources.           obstacles must be able to be installed
+      Integrate the obstacle with friendly      quickly but still achieve the desired obsta-
+      fires.                                    cle effect. Units normally use SCATMINEs
+      Plan the obstacle.                        for situational obstacles, but they may use
+      Identify obstacle execution triggers.     any type of individual obstacle. Staffs con-
+      Withhold execution of the obstacle until  sider that emplacing the obstacle may
+      it is needed.                             require multiple assets. For example, using
+                                                air Volcano requires helicopter transport to
+                                                emplace the obstacle, soldiers to load the
+
+                                                Situational Obstacles 7-1
+
+
+---
+
+FM 90-7
+
+Volcano mine canisters, and enough canis-         DATK. Finally, the commitment of forces
+ters to achieve the desired effect on the tar-    along an AA and enemy movement to attack
+get.                                              an assailable flank is an example of a combi-
+                                                  nation of friendly and enemy actions that
+      INTEGRATE WITH FRIENDLY FIRES               can trigger a situational obstacle (see Figure
+                                                  7-1).
+Like any obstacle, units integrate situa-
+tional obstacles into the fire plan. Since          WITHHOLD EXECUTION UNTIL NEEDED
+obstacle execution depends on development
+of an expected situation, integrating the         The commander withholds execution of a sit-
+obstacles with fires is difficult. Commanders     uational obstacle until the obstacle effect is
+and staffs consider where they can employ         required. Commanders and staffs consider
+situational obstacles and ensure that the         that the obstacle assets, once committed, are
+combination of fires and obstacles are suffi-     no longer available to support other mis-
+cient to achieve the obstacle effect. Without     sions. They also consider that SCATMINEs
+fires, the obstacle may interfere with the        have a SD time. Emplacing the obstacle too
+enemy, but he can breach the obstacle at          early may result in self-destruction of the
+will. For example, using SCATMINEs, with-         mines before the enemy arrives.
+out fires, to delay repairs to an enemy air-
+field will hinder the repairs; however, the        SITUATIONAL OBSTACLES IN THE
+enemy can identify and clear the mines                               DEFENSE
+without a major risk.
+                                                  In the defense, the focus of situational obsta-
+              PLAN THE OBSTACLES                  cles is to help negate the attacker’s initial
+                                                  advantage (see Figure 7-2, page 7-4). Some
+Situational obstacles are not used to attack      possible uses of situational obstacles in the
+targets of opportunity. Commanders and            defense are—
+staffs identify them during the planning pro-
+cess. The time required to commit the asset             Reinforce or repair tactical obstacles
+and integrate the obstacle with fires nor-              already emplaced.
+mally exceeds the window of opportunity                 Emplace obstacles where previously
+against a target. Also, the use of obstacle             there were none.
+emplacement assets (such as ADAM/RAAM)                  Defeat penetrations in the rear area.
+against targets of opportunity may waste a              Protect the flanks of CATK forces.
+valuable obstacle asset that the commander              Separate attacking enemy echelons.
+will need later during the battle.                      Reinforce existing (natural or cultural)
+                                                        obstacles on AAs or MCs used by the
+       IDENTIFY EXECUTION TRIGGERS                      enemy.
+                                                        Shape the battlefield for the deep
+Situational obstacles are triggered based on            battle.
+friendly actions, enemy actions, or a combi-
+nation of both. For example, the commit-           SITUATIONAL OBSTACLES IN THE
+ment of the friendly reserve may trigger the
+execution of situational obstacles to separate                       OFFENSE
+enemy forces. Another example of a situa-
+tional obstacle trigger is identification of the  In the offense, the commander uses the flex-
+enemy attempting to reposition during a           ibility of situational obstacles to help reduce
+                                                  risk, maintain the initiative, and preserve
+
+7-2 Situational Obstacles
+
+
+---
+
+                            FM 90-7
+Situational Obstacles 7-3
+
+
+---
+
+FM 90-7
+
+freedom of action (see Figure 7-3). Some pos-           SITUATIONAL OBSTACLE
+sible uses for situational obstacles in the                        PLANNING
+offense are–
+                                                 The staff or the commander normally iden-
+      Interdict commitment of enemy              tifies the need for a situational obstacle
+      reserves in conjunction with air inter-    during analysis of the COAs. However, the
+      diction (AI), close air support (CAS), or  staff gathers information or conducts ear-
+      JAATs.                                     lier planning which impacts on situational
+                                                 obstacle planning.
+      Assist ground forces (follow and sup-
+      port) in defeating enemy CATKs threat-                     MISSION ANALYSIS
+      ening flanks or penetration.
+                                                 The staff gathers facts and develops
+      Obstruct enemy withdrawal or escape        assumptions during mission analysis. As
+      routes in conjunction with enveloping      part of the facts and assumptions, it—
+      the force.
+                                                      Determines the unit’s capability to col-
+      Isolate adjacent forces from influencing         lect intelligence.
+      or reinforcing the main effort.                  Considers the friendly assets that the
+                                                       unit can use to emplace situational
+      Transition to a hasty defense to allow           obstacles.
+      force buildup or passage of fresh forces.
+
+7-4 Situational Obstacles
+
+
+---
+
+                                                FM 90-7
+
+      Considers the assets from higher or       actual obstacle planning in conjunction
+      adjacent HQ that may be available to      with the analysis of the COA.
+      support intelligence gathering or obsta-
+      cle emplacement.                                 COURSE-OF-ACTION ANALYSIS
+      Determines if there are any require-
+      ments from higher HQ to plan a situa-     The staff uses the event template and deci-
+      tional obstacle.                          sion support template (DST) to assist in sit-
+      Determines if the higher HQ’s scheme      uational obstacle planning. The staff
+      of maneuver implies the need for a situ-  develops the event template and DST as
+      ational obstacle.                         part of the analysis of the COAs.
+
+    COURSE-OF-ACTION DEVELOPMENT                As the staff war-games a COA, it—
+                                                      Develops an event template that
+As the staff develops the COA, it may make            depicts NAIs which allow the staff to
+note of specific actions, or areas, where             confirm or deny a particular enemy
+situational obstacles can support the friendly        COA based on identification of an
+scheme of maneuver. However, it does the              enemy activity or lack of enemy activ-
+                                                      ity.
+
+                                                Situational Obstacles 7-5
+
+
+---
+
+FM 90-7
+
+      Uses the event template to identify      action may be impossible. If the threat of not
+      areas where fires and maneuver can       having an obstacle in the TAI is great
+      influence the enemy and designates       enough, the staff may decide to use a
+      these areas as TAIs on the DST.          friendly action as the trigger for executing
+                                               the situational obstacle. The staff focuses
+      Identifies DPs where the commander       situational obstacle planning on those TAIs
+      must make a decision whether or not to   where obstacles can support friendly fire
+      commit fires or forces to attack the     and maneuver (see Figure 7-4).
+      enemy at the TAI.
+                                                                    Fires Analysis
+Every TAI will not necessarily require, or be
+an appropriate location for, a situational     The staff analyzes weapon system ranges
+obstacle. In some cases, the time that it      and effects to determine locations within
+takes the enemy to travel from an NAI to a     TAIs where it can integrate fires and
+TAI will be so short that triggering situa-
+tional obstacle emplacement based on enemy
+
+7-6 Situational Obstacles
+
+
+---
+
+                                                  FM 90-7
+
+obstacles. The fire supporter, air liaison        obstacle emplacement asset has sufficient
+officer (ALO), and other special staff officers   time to plan and rehearse each mission.
+are involved in planning to ensure integra-
+tion of CAS or JMT missions, if applicable.                      Mobility Requirements
+
+            Obstacle Intent Integration           The commander and staff consider the
+                                                  impact of situational obstacles on friendly
+After determining where they can use obsta-       mobility. As a minimum, they should con-
+cles within TAIs, the commander and staff         sider the impact on the following:
+narrow planning even further by determin-
+ing the obstacle intent within the TAIs. A              Overall scheme of maneuver of the
+TAI is a location where friendly forces can             higher HQ.
+influence the enemy. That enemy is the tar-            Branches or sequels in the higher HQ’s
+get of the situational obstacle planned within          plan.
+the TAI. A general location for the obstacle is        Specified or implied tasks for follow-on
+determined by the TAI and the range and                 forces.
+effects of friendly weapons and forces allo-           Branches or sequels in their own plan.
+cated to the TAI. The mission of the friendly
+force drives the specific obstacle effect and     The commander and his staff must ensure
+refines the general obstacle location into a      synchronization, unity of effort, and support
+location relative to the friendly force or the    to the overall plan. They must also consider
+terrain.                                          any obstacle-control measures imposed by
+                                                  the higher commander’s order. As with any
+                  Obstacle Priorities             tactical obstacle, situational-obstacle
+                                                  employment is authorized only within the
+The commander and staff prioritize the situ-      higher commander’s obstacle-control mea-
+ational obstacles. It is possible that they will  sures, unless the subordinate unit obtains
+develop several “be-prepared” missions            approval to put obstacles outside of the con-
+for an obstacle emplacement asset. They use       trol measure.
+the priorities to constrain the situational-
+obstacle plan based on actual available                  Obstacle Design and Resourcing
+assets. More importantly, they can use these
+priorities to assist in decision making during    To select the size and type of situational
+execution of the operation if two or more com-    obstacle required to best meet the com-
+peting requirements for the same asset            mander’s intent, the staff analyzes the tar-
+develop (see Figure 7-5, page 7-8).               get, the relative location, and the desired
+                                                  effect. It considers the following:
+Normally, the commander and staff plan for
+the same obstacle emplacement asset in sev-             Size of obstacle required to meet the
+eral TAIs with the expectation that the                 obstacle intent.
+enemy target will appear in only one. How-              Location of the obstacle.
+ever, the unit controlling the obstacle                 Accuracy of the emplacement asset.
+emplacement capability must understand                  Trigger for obstacle execution and the
+which obstacle has priority, should the situa-          DP.
+tion call for the same asset in different loca-         Time for the enemy to move from the
+tions at the same time. The commander and               NAI to the TAI.
+staff must ensure that the element with the             Time to commit the obstacle emplace-
+                                                        ment asset to the TAI.
+
+                                                  Situational Obstacles 7-7
+
+
+---
+
+FM 90-7
+
+      Time for the asset to emplace the obsta-    location of the obstacle required and the
+     cle.                                         requirement for accuracy in emplacing the
+                                                  obstacle. For example, locations far forward
+     Arming and SD time for SCATMINEs,            of friendly positions or behind enemy posi-
+     if applicable.                               tions may eliminate the possibility of using
+      Time for allocated fires or force to cover  conventional obstacles or ground-emplaced
+      the TAI.                                    SCATMINEs. The large size requirements
+                                                  of an obstacle could eliminate the use of
+      Availability of the obstacle emplace-       ADAM/RAAM. The accuracy required may
+      ment asset.                                 also eliminate ADAM/RAAM or Gator from
+                                                  consideration.
+      C2 requirements, to include observa-
+      tion of the NAI and reporting responsi-     The trigger and time considerations reflect
+     bilities.                                    the necessity of having the obstacle
+                                                  emplaced and armed before the enemy
+The staff considers the feasibility of
+using obstacle assets based on the size and
+
+7-8 Situational Obstacles
+
+
+---
+
+                                                FM 90-7
+
+arrives at the TAI. The commander must be                DECISION AND EXECUTION
+able to—
+                                                The staff provides subordinate units with
+      Decide to emplace the obstacle.           information on the situational obstacle plan
+                                                in the scheme of obstacles overlay and the
+      Move the asset to the TAI.                situational obstacle execution matrix. Sub-
+                                                unit instructions or the operational execu-
+      Emplace the obstacle, to include ensur-   tion matrix refer appropriate subunits to the
+      ing that it is armed and has not          situational obstacle matrix.
+      reached its SD time.
+                                                         Scheme-of-Obstacles Overlay
+      Ensure that the TAI is covered by
+      friendly fires before the enemy arrives.  As with reserve obstacles, the staff uses the
+                                                obstacle effect graphic and the specific indi-
+The staff must select an obstacle design and    vidual obstacle symbols (because the com-
+emplacement asset that can meet the time        mander normally intends to use a specific
+requirements.                                   type of individual obstacle). This ensures
+                                                that the force attacking the enemy in the
+The availability of an emplacement asset is     TAI and the unit emplacing the obstacle
+a major consideration. The staff identifies     understand the intent of the obstacle.
+other mission requirements that may com-
+pete for the same asset. For example, the           Situational-Obstacle-Execution Matrix
+artillery may not be able to fire ADAM/
+RAAM at the expected point in the battle        The situational-obstacle-execution matrix is
+because of other mission requirements.          similar to other obstacle-execution matrixes
+                                                (see Figure 7-6, page 7-10). Information nor-
+The staff also determines who will observe      mally shown on the matrix includes—
+the event that triggers the situational-
+obstacle execution. The unit must clearly             Zone/belt/group designation and indi-
+identify the observer and a backup observer.          vidual obstacle numbers.
+If situational obstacles are tasked to subor-         Location (to include TAI designation
+dinate units, they must have the observation          and exact grid coordinates), effect, and
+platform to identify the target. The unit             priority.
+must also identify clear and concise execu-           Emplacing and owning unit.
+tion criteria and ensure that communication           Trigger for the obstacle.
+links are understood. Control procedures              NAI/DP for the obstacle.
+should be clearly established. For example,           Emplacing asset and its source.
+if the higher commander retains the obstacle          Unit responsible for observing and
+at his level, the C2 needed to gain approval          reporting on the NAVDP.
+at a later time should be clearly defined.            Any special instructions for each group.
+
+The staff relies on the expertise of special                       Rehearsals
+staff officers, depending on the assets
+needed, to emplace the obstacle. The engi-      Once the order is published, the next
+neer may work closely with the ALO or air       step is to rehearse the execution of the
+mission commander in planning the delivery      obstacle. The focus of the rehearsal is to
+of air Volcano mines in the right configura-    confirm the timing requirements and
+tion to achieve the desired effect. When        ensure that all persons involved in the
+planning ADAM/RAAM use, the FSO and
+FSCOORD are involved to ensure that the
+batteries are in position at the right place
+and time with the right mix of ammunition
+to emplace the minefield.
+
+                                                Situational Obstacles 7-9
+
+
+---
+
+  FM 90-7
+7-10 Situational Obstacles
+
+
+---
+
+                                                FM 90-7
+
+obstacle execution understand their respon-     the NAI to the TAI. If possible, it does this
+sibilities. The situational-obstacle rehearsal  by actually moving subunits from the NAI to
+normally is conducted as part of a larger       the TAI at a doctrinal enemy movement
+rehearsal, although each situational obstacle   rate. It modifies the movement rate based
+is covered.                                     on expected weather and light conditions.
+                                                The unit may need to adjust the location of
+There may be several different rehearsals at    the observation platform that is observing
+several different levels, For example, a TF     the NAI, based on the terrain or expected
+and an artillery battalion rehearsal might      weather or light conditions. The location of
+include the same ADAM/RAAM target. An           the NAI or DP may require marking with a
+air Volcano minefield might be covered dur-     TRP.
+ing a brigade rehearsal and the aviation unit
+rehearsal.                                      Next, the unit verifies how long it will take to
+                                                commit the obstacle asset to the target loca-
+The intent of the rehearsal is to synchronize   tion. This includes the time required to—
+the execution of the obstacle. The unit veri-
+fies and refines the timing requirements              Report the trigger (enemy arrival at
+considered during obstacle design (see                the NAI or friendly action that serves
+Figure 7-7). First, if the trigger includes an        as the trigger).
+enemy action, the unit determines the
+time required for the enemy to move from              Decide to execute.
+
+                                                      Order the execution.
+
+                                                Situational Obstacles 7-11
+
+
+---
+
+FM 90-7
+
+      Move the emplacing asset to a location     reduce emplacement time. The unit may
+      where it can begin emplacing.              change the DP location by accepting risk
+                                                 and putting the DP farther out than the NAI
+The unit confirms the emplacement time of        and deciding to execute based on a probable
+the obstacle. This may be determined by an       rather than a confirmed enemy action. The
+actual physical rehearsal (such as how long      unit also can change emplacement asset
+it will take a ground Volcano system to drive    numbers or locations, such as increasing the
+the obstacle trace or a similar piece of ter-    number of firing batteries for ADAM/RAAM
+rain). The unit may need to estimate the         or positioning emplacing systems closer to
+emplacement time, based on previous experi-      the obstacle location.
+ence or training, such as in the case of artil-
+lery-delivered ADAM/RAAM.                        The unit also compares the emplacement
+                                                 time with the time required to integrate
+If the unit uses SCATMINEs for the situa-        fires and maneuver with the obstacle. The
+tional obstacle, it figures arming time into     unit ensures that the time requirements
+the total time required for emplacement. For     allow it to synchronize the effects of the
+example, it takes 45 minutes for a Flipper       obstacle with fires on the enemy at the TAI.
+mine to arm. Another time factor the unit
+considers is the duration of the effect. The     Another important element to consider dur-
+SD time for short duration ADAM/RAAM, for        ing the rehearsal is the availability of
+instance, is four hours from the time the        assets. The staff must ensure that the assets
+mine is armed (the first mines will begin to     necessary to emplace the situational obsta-
+SD after 3.2 hours). Consequently, it is         cle are available for the mission. During the
+important that the obstacle is not executed      rehearsal, it is very important to determine
+too early.                                       the availability of the asset and potential
+                                                 situations where the asset may not be avail-
+Once the unit verifies the total time required   able. The priorities for all emplacing assets
+for the situational-obstacle execution, it com-  must be very clear.
+pares this time with the time required for
+enemy movement from the NAI to the TAI. If                               Execution
+the time to execute exceeds the enemy move-
+ment time, the unit may need to modify           Situational obstacles provide a tremendous
+the emplacement plan. The unit may change        capability to the unit. The success of situa-
+the design of the obstacle, such as reducing     tional obstacles depends on a good plan,
+the density of a scatterable minefield to        rehearsed preparation, and disciplined exe-
+                                                 cution.
+
+7-12 Situational Obstacles
+
+
+---
+
+                                                                                       FM 90-7
+
+  Chapter 8
+
+Protective
+Obstacles
+
+Protective obstacles are obstacles that com-      final assault. Base cluster and installation
+manders use to protect soldiers, equipment,       commanders may emplace hasty protective
+supplies, and facilities from enemy attacks or    obstacles to protect against all levels of
+other threats. These other threats range from     threat when they occupy sites temporarily
+enemy surveillance to the theft of supplies       or until they can plan and emplace deliber-
+and equipment by noncombatants. In tactical       ate protective obstacles.
+operations, protective obstacles provide
+friendly forces with close-in protection and       DELIBERATE PROTECTIVE OBSTACLES
+help finish the enemy’s complete destruction.
+However, in OOTW, protective obstacles may        These are protective obstacles that are
+focus primarily on preventing unauthorized        more permanent and require more detailed
+access to facilities and installations by civil-  planning and usually a greater expenditure
+ians, rather than assisting in the destruction    of resources. Units employ deliberate pro-
+of an enemy force.                                tective obstacles in strongpoints or at
+                                                  relatively fixed sites. During tactical opera-
+         TYPES OF PROTECTIVE                      tions, company teams and platoons
+                  OBSTACLES                       may emplace deliberate protective
+                                                  obstacles if they have considerable time
+There are two types of protective obstacles.      available. For example, forces that conduct
+They are—                                         early entry operations before the onset
+                                                  of hostilities may have time to con-
+      Hasty protective obstacles.                 struct deliberate protective obstacles. Dur-
+      Deliberate protective obstacles.            ing OOTW, units emplace deliberate
+                                                  protective obstacles as part of their force
+      HASTY PROTECTIVE OBSTACLES                  protection plan.
+
+These protective obstacles are temporary in            EMPLOYMENT GUIDELINES
+nature. They are obstacles that soldiers can
+rapidly emplace and recover or destroy. Pla-      There are basic guidelines that apply to
+toons and company teams employ hasty pro-         protective obstacles, some of which apply to
+tective obstacles next to their positions to
+protect the defending force from the enemy’s
+
+                                                  Protective Obstacles 8-1
+
+
+---
+
+FM 90-7
+
+tactical obstacles as well. These guidelines                    EMPLACING AUTHORITY
+are—
+                                                     Unlike tactical obstacles, the emplacement
+      Obstacles do not stand alone.                  authority for protective obstacles is not nor-
+      The owning unit is normally the                mally tied to obstacle-control measures.
+      emplacing unit.                                Higher commanders authorize subordinates
+      Emplacement authority is not tied to           to emplace protective obstacles outside of
+      obstacle-control measures.                     obstacle zones, belts, or groups with mini-
+      Planning occurs at the company-team            mal restrictions. Commanders may specify
+      and base commander level.                      in SOPs that subordinates can emplace pro-
+      Planning includes resourcing that is           tective obstacles except as restricted in sub-
+      separate from tactical obstacles.              sequent OPORDs.
+      Obstacles are reported, recorded, and
+      tracked.                                                      PLANNING LEVEL
+
+                 INTEGRATING                         Planning occurs at the company team and
+                                                     base-cluster commander level. Company
+Protective obstacles do not provide protec-          team commanders plan protective obstacles
+tion by themselves. In tactical operations,          to support their defensive positions. The
+leaders integrate protective obstacles with          lack of a staff and limited time usually
+direct and indirect fires and observation. As        require that the company team commander
+with tactical obstacles, integration with            plan only hasty protective obstacles. Base
+friendly fires is critical if the obstacle is to be  cluster and installation commanders con-
+effective and destroy the enemy force.               duct detailed planning for deliberate protec-
+                                                     tive obstacles around their sites.
+In OOTW, integrating fires and destroying
+an enemy force may not be considered if the                           RESOURCING
+obstacles are to prevent noncombatants from
+accessing a facility or installation; however,       Units plan resourcing separately for protec-
+the obstacles must remain under constant             tive and tactical obstacles. They plan for suf-
+observation. Leaders must also allocate suf-         ficient Class IV and Class V obstacle
+ficient force to protect the integrity of the        material to emplace the protective obstacles.
+obstacle, consistent with the rules of engage-       They may transport and collocate these
+ment for the operation.                              materials with those for tactical obstacles;
+                                                     however, the material allocation to subordi-
+               EMPLACING UNIT                        nate units is planned separately from tacti-
+                                                     cal obstacles. Also, most units carry a basic
+The unit that occupies a position generally          load of Class IV and Class V materials spe-
+emplaces its own protective obstacles. Engi-         cifically for protective obstacles. This basic
+neers provide technical expertise and equip-         load is only enough for rudimentary hasty
+ment, as required. Commanders focus                  protective obstacles. Staffs from corps to TF
+engineer effort on tactical obstacles, but           level plan to push obstacle material to sub-
+engineers may be responsible for installing          ordinate units so that the materials are
+protective obstacles, especially for large           available early during preparation of a
+installations or compounds or in support of a        defense.
+strongpoint.
+
+8-2 Protective Obstacles
+
+
+---
+
+                                                   FM 90-7
+
+REPORTING, RECORDING, AND TRACKING                 enemy is very detailed because it focuses
+                                                   only on the area and threat around subunit
+Units report, record, and track protective         locations.
+obstacles as described in Appendix B. Unlike
+tactical obstacles, owning units recover pro-      During protective-obstacle planning, units
+tective obstacles, or transfers them to a          evaluate the area around their positions out
+relieving unit, before leaving an area. Some-      to about 500 meters (METT-T dependent).
+times, units may be forced to abandon protec-      Although they can conduct an initial evalua-
+tive obstacles. Units report any of these          tion by map, the unit must conduct physical
+events on a case-by-case basis.                    reconnaissance of the area. They incorporate
+                                                   threat considerations during this evalua-
+PROTECTIVE-OBSTACLE PLANNING                       tion. Some considerations are—
+
+Units develop protective-obstacle plans as               The likelihood of an assault against the
+part of the decision-making process. They                position.
+make detailed plans for protective obstacles             The type of enemy forces that can, and
+after they have decided on a COA. At com-                are most likely to, operate in the area.
+pany team level, for example, this includes              Mounted and dismounted AAs into or
+selection of the location and orientation of             within the position.
+platoon positions. For base cluster or instal-           Templated methods and weapon sys-
+lation commanders, this might include                    tems the enemy can employ for close
+selecting base locations or fixed installation           assault.
+sites. (For clarity, all subunit positions, loca-        Dead space and natural lines of drift
+tions, or sites are referred to as positions for         for an attacker.
+the remainder of this chapter.) The following            Possible assault positions or other posi-
+paragraphs contain a technique for planning              tions favoring the templated attacker.
+protective obstacles.
+                                                               Protective-Obstacle Bands
+              MISSION ANALYSIS
+                                                   To evaluate the area close to a position for
+Units determine their authority to emplace         protective obstacles, it is useful to segment
+protective obstacles from the higher HQ’s          the area into bands. Figure 8-1, page 8-4,
+OPORD. Units also determine if the higher          shows a sample area divided into four
+HQ has placed any restrictions on the types        bands. METT-T drives the number and
+or locations of protective obstacles or if the     dimensions of each band.
+higher HQ’s scheme of maneuver implies the
+need for restrictions on protective obstacles.     Band One. This band is farthest from the
+                                                   position, normally 300 to 500 meters away.
+Units at every level conduct continuous IPB        Primary threat considerations are heavy
+activities during planning. Following selec-       weapons, such as tank or infantry fighting
+tion of a COA, units conduct detailed terrain      vehicle (IFV) main guns, heavy or medium
+analysis of the area adjacent to planned or        hand-held AT weapons, and heavy machine
+actual subunit locations. They also analyze        guns. Another consideration is the location
+the threat to subunits. They figure out threat     of possible enemy assault positions.
+capabilities, vulnerabilities, and potential
+COAs, focusing on the enemy’s close assault,       Band Two. This band is from beyond 30
+if applicable. The analysis of the terrain and     meters to 300 meters away. Primary
+                                                   threat considerations are small arms;
+                                                   light, hand-held AT weapons; grenade
+
+                                                   Protective Obstacles 8-3
+
+
+---
+
+FM 90-7
+
+launchers; and possible assault positions for    of the position. The primary threat is an
+dismounted infiltrating forces. Other consid-    enemy force that has entered the position.
+erations include moving vehicle bombs or
+moving vehicle assaults.                               Protective-Obstacle Capabilities
+
+Band Three. This band lays between Band          Units must analyze their vulnerabilities and
+Two and the unit and defines the perimeter       capabilities. Some of the considerations for
+of the unit position. It extends from the indi-  this analysis include—
+vidual equipment or personnel protective
+positions out to 30 meters. The primary                Type, quantity, and importance (to the
+threat considerations are hand-thrown gre-             current or future mission) of friendly
+nades or other explosive charges and small-            subunits and systems.
+arms fire.                                             Capability of subunits to construct
+                                                       protective obstacles (based on man-
+Band Four. Band Four is the area within                power, equipment, materials, or other
+the position, and its size depends on the size         resources).
+
+8-4 Protective Obstacles
+
+
+---
+
+                                               FM 90-7
+
+      Vulnerability of subunits to the tem-    locations must change to ensure constant
+      plated enemy’s assault.                  observation of the obstacles. Identification of
+      Level of protective obstacle effort      locations where they can integrate fires,
+      required for each subunit and system.    observation, and obstacles helps units to
+                                               focus planning for obstacles. The units can
+           COURSE-OF-ACTION                    sketch these areas on an overlay to aid in
+               DEVELOPMENT                     further planning.
+
+As units develop a COA, they may make                      OBSTACLE INTEGRATION
+note of areas, or subunits, where protective
+obstacles may be needed; however, they do      Based on the identification of the locations
+the actual obstacle planning after deciding    where obstacles can be integrated with fires
+on a COA.                                      and observation, the unit can sketch in a
+                                               trace of proposed obstacles in each location.
+   COURSE-OF-ACTION ANALYSIS                   These traces represent where the unit may
+                                               emplace obstacles in each band, without
+As units analyze COAs, they may make note      specifying the types or actual location of
+of additional requirements for protective      individual obstacles.
+obstacles. They may identify likely areas
+during war gaming.                                           OBSTACLE PRIORITIES
+
+       DECISION AND EXECUTION                  The unit assigns a priority for obstacles by
+                                               band and annotates this on the planning
+After selecting a COA, the unit refines it.    overlay. It considers the vulnerability of
+Part of that refinement is planning protec-    subunits and systems based on the type of
+tive obstacles, focusing on the following:     enemy expected. For example, a light infan-
+                                               try company team expecting an assault by a
+      Fires and observation.                   mounted enemy force would probably give
+      Obstacle integration.                    first priority to protective obstacles in
+      Obstacle priorities.                     Band Two to help defeat a mounted assault.
+      Mobility requirements.                   A unit involved in peacekeeping opera-
+      Obstacle design and resourcing.          tions in a position where the primary
+      Obstacle overlay.                        threat is a semihostile group of unarmed
+                                               civilians would set a different priority. It
+            FIRES AND OBSERVATION              would likely choose to construct obstacles in
+                                               Band Three first to prevent the civilians
+Units analyze the areas within each band to    from making physical contact with the unit.
+determine the locations where they can inte-   Figure 8-2, page 8-6, shows an example of an
+grate obstacles with fires and observation     overlay annotated with the fires and obser-
+against an assaulting enemy. Units consider    vation analysis, obstacle integration, and
+not only direct-fire weapon systems but also   obstacle priorities.
+indirect-fire systems and the use of com-
+mand-detonated mines. Units also consider                 MOBILITY REQUIREMENTS
+all methods available for maintaining obser-
+vation, to include remote sensors. Especially  The unit identifies mobility requirements.
+in OOTW, this analysis may show that OP        These requirements generally dictate that
+
+                                               Protective Obstacles 8-5
+
+
+---
+
+FM 90-7
+
+the unit leave lanes or gaps in obstacles. It   keep the enemy from finding them. They
+uses these lanes or gaps to allow—              plan and rehearse lane closure. Lanes and
+                                                gaps are weak points in protective obstacles,
+      Patrols to enter and leave the position.  so units consider allocating increased direct
+      CATK/reaction forces to move through      and indirect fires to cover them.
+      the position.
+      Logistic and support traffic to enter     It is easy to establish lanes or gaps and sub-
+      and leave the position.                   sequently close them in restrictive terrain.
+                                                It is more difficult to establish and then
+METT-T will determine if these areas            close lanes or gaps on roads or vehicle
+remain open (closed on-order) or closed with    approaches into a position. Normally, the
+the defender able to open the lane. Units       location of lanes on vehicle routes are fixed,
+change lane and gap locations periodically to   complicating the defender’s ability to change
+
+8-6 Protective Obstacles
+
+
+---
+
+                                                 FM 90-7
+
+their location. When METT-T permits, units        OBSTACLE DESIGN AND RESOURCING
+plan multiple vehicle lanes. Units then alter-
+nate the lanes that are open at any time.        Units design and resource protective ob-
+With the alternating opening and closing of      stacles within each band to accomplish the
+these lanes, units can also change the           following:
+method and material used to close the lane.
+                                                      Counter the templated threat.
+When units can establish only one lane, they          Enhance direct and indirect fires and
+develop redundant methods for closing the             observation.
+lane. Other obstacles can be built parallel to        Support the commander’s force protec-
+the lane to contain any vehicles that pene-            tion plan.
+trate at the lane. Figure 8-3 shows the identi-
+fied mobility requirements annotated on the      Ideally, units construct obstacles in all
+planning overlay.                                four bands and tie the obstacles together to
+
+                                                 Protective Obstacles 8-7
+
+
+---
+
+FM 90-7
+
+ensure that there are no bypasses; realisti-  help defeat this threat, such as AT mine-
+cally, this is usually not possible.          field in potential attack-by-fire positions. If
+                                              the unit is a tank company team, the great-
+                        Band One              est threat in Band One may be dismounted
+                                              infantry that are armed with medium AT
+Protective obstacles in Band One deny the     weapons. The unit may design obstacles that
+enemy a position from which it can support    include AP mines and wire to defeat this
+assaulting forces by fire. Units design pro-  threat.
+tective obstacles to defeat the expected
+enemy. If the unit is a light infantry com-   Tactical obstacles frequently tie into protec-
+pany team, the greatest threat in Band One    tive obstacles in this band. Figure 8-4 shows
+may be tank and IFV main gun fire. There-     an example of a turn obstacle group into
+fore, the unit designs obstacles that can     which the unit ties protective obstacles.
+                                              The protective obstacles at this point also
+
+8-8 Protective Obstacles
+
+
+---
+
+                                               FM 90-7
+
+strengthen the anchor point of the turn                                Band Four
+obstacle group. This helps the defender to
+stop a mounted enemy from rapidly dis-         Protective obstacles in Band Four help to
+mounting to breach or conduct an assault of    break up the actual unit position and pre-
+the position.                                  vent the enemy from moving within the
+                                               position. Units can do this by putting protec-
+                         Band Two              tive obstacles throughout the position, seg-
+                                               menting it into irregular pieces. This causes
+Band Two’s focus is to break up enemy          the attacker to breach repeatedly once
+assault formations and to deny any             he is on the position, enhancing the
+attack-by-fire positions for the enemy’s       defender’s ability to CATK, to maximize
+small arms or light AT weapons. Like Band      defensive fires, to provide time to reorga-
+One, Band Two obstacles may be tied into       nize, or to conduct retrograde operations.
+tactical obstacles. This commonly occurs in    Obstacles in Band Four usually are wire or
+restrictive terrain where the direct-fire EAs  other constructed AP and AT obstacles.
+are usually small and the direct-fire engage-  Units normally do not use mines within
+ments are close. Another example is the pro-   their position because of the fratricide risk.
+tective obstacles around a block obstacle      Figure 8-5, page 8-10, shows an example of a
+group. In this instance, the company team      protective obstacle array around a company
+commander ensures that the tactical and        team.
+protective obstacles support each other.
+                                                               Sources for Materials
+In Band Two, dismounted units use AT min-
+efield to help defeat mounted assaults in      Units emplacing protective obstacles rely on
+tactical situations. In all situations, they   three sources for protective obstacle materi-
+may use wire road blocks or other con-         als. They are—
+structed antivehicular obstacles to defeat
+moving-vehicle threats, such as terrorist            Unit basic load.
+vehicle bombs. Dismounted units may also             Push packages.
+incorporate AP minefield and wire obsta-             Requisitioned material.
+cles to help break up enemy dismounted for-
+mations. Mounted units generally design        Unit Basic Load. This source provides
+Band Two obstacles to defeat enemy dis-        units with a very limited capability for hasty
+mounted infiltration forces and, as in Band    protective obstacles.
+One, to deny positions for dismounted forces
+with light AT weapons.                         Push Packages. A more important source
+                                               for hasty protective-obstacle materials is
+                       Band Three              push packages based on subunit capabili-
+                                               ties. A technique is to develop packages,
+Protective-obstacle considerations within      based on subunit types, as part of unit SOPs
+Band Three focus on defeating dismounted       and to push those packages down to the sub-
+threats. Both mounted and dismounted           units as soon as it is apparent that the unit
+units use wire obstacles and possibly direc-   will require protective obstacles.
+tional and command-detonated AP mines.
+These obstacles help to prevent enemy          Requisitioned Material. Materials to sup-
+forces and other threats from entering the     port deliberate protective obstacles are usu-
+unit’s position.                               ally requisitioned based on actual
+                                               requirements to complete the protective
+                                               obstacles that the unit plans.
+
+                                               Protective Obstacles 8-9
+
+
+---
+
+FM 90-7
+
+          Other Design Considerations         successive bands of obstacles, with each
+                                              focused at a specific threat. This requires
+Some additional considerations for protec-    the enemy to continually deploy and regroup
+tive obstacle designs are as follows:         in an area of intensive fires until friendly
+                                              forces can destroy the enemy or force its
+      Employment in depth.                    withdrawal.
+
+      Obstacle protection.                    Obstacle Protection. Obstacle camouflage
+                                              depends on obstacle siting. Large protective
+Employment in Depth. Protective obsta-        obstacle systems are not easy to conceal by
+cles do not seriously inhibit the enemy’s     siting alone. However, when units take
+assault until they overload or exhaust his    advantage of the terrain and locate protec-
+breaching capabilities. This requires obsta-  tive obstacles in folds of the terrain, around
+cles employed in depth. It is difficult to    blind curves in high speed AAs, or on the
+construct a continuous array of protec-
+tive obstacles from Band One through
+Band Four; however, units can construct
+
+8-10 Protective Obstacles
+
+
+---
+
+                                                   FM 90-7
+
+reverse slope of a hill, they are less visible to  PROTECTIVE-OBSTACLE OVERLAY
+an attacker. To aid in the camouflage of pro-
+tective obstacles from aerial observation,         Units execute protective obstacles as they
+units avoid regular geometric layouts of           prepare their defensive positions. Normally,
+protective-obstacle systems. Camouflage            the unit commander distributes an overlay
+and deception can be enhanced with phony           to his subordinates that depicts the type and
+obstacles used to confuse the attacker as          location of each protective obstacle. The
+to the exact location and extent of the            commander allows subordinates the flexibil-
+protective-obstacle system.                        ity to make minor changes to his plan.
+
+Continuous physical reconnaissance of pro-         As units complete the obstacles, they report
+tective obstacles is extremely critical. Units     and record the obstacles according to the
+must keep protective obstacles under contin-       procedures in Appendix B and guidance
+uous observation at all times. In those areas      from their higher HQ. Throughout the oper-
+where dead space exists, units use other           ation, units maintain positive control over
+means of early warning and monitoring, such        their protective obstacles to protect them
+as flares, remote sensors, and GSRs. These         from compromise by enemy forces. More
+measures ensure that an infiltrating force         importantly, they assist other friendly units
+cannot enter the area undetected.                  from straying into the protective obstacles,
+                                                   thus preventing fratricide.
+
+                                                   Protective Obstacles 8-11
+
+
+---
+
+                                                                                       FM 90-7
+
+ Appendix A
+
+Individual
+Obstacles
+
+This appendix contains a description of the           Creating road craters.
+different types of individual obstacles. Also,        Creating abatis.
+there is a discussion of individual obstacle
+designs and how to develop individual obsta-     FM 5-250 covers demolitions and the effects
+cles. Lastly, this appendix describes the        of demolitions in detail.
+array of individual obstacles to support the
+obstacle effects.                                                         Bridges
+
+    INDIVIDUAL OBSTACLE TYPES                    The use of existing bridges is critical to the
+                                                 mobility of a military force, especially
+Only the imagination and ingenuity of the        bridges spanning nonfordable rivers and
+soldier who designs and emplaces them lim-       streams. Demolishing bridges forces the
+its the nature and extent of reinforcing obsta-  enemy to search for a suitable bypass
+cles. The general types of individual            (another bridge or ford site at a different
+obstacles are—                                   location) or expend mechanical assault
+                                                 bridging assets to maintain its momentum.
+      Demolition obstacles.
+      Constructed obstacles.                     There is no standard planning factor for the
+      Land mines.                                destruction of bridges as many variables
+      Improvised obstacles.                      impact on the materials and the manpower
+      Complex obstacles.                         required. See Chapter 4, FM 5-250, for
+                                                 details. The maneuver commander decides
+In addition, there are phony obstacles, which    whether to order a complete or a partial
+are not a type of individual obstacle but are    bridge demolition. The complete bridge
+representations of actual obstacles that units   demolition leaves nothing of the old struc-
+use to deceive the enemy.                        ture, while the partial demolition saves the
+                                                 near-side spans and abutments. The partial
+          DEMOLITION OBSTACLES                   demolition permits easier reconstruction of
+                                                 the bridge.
+Units create demolition obstacles by the det-
+onation of explosives. There are many uses                            Road Craters
+for demolitions, but some examples are–
+                                                 An RC is an effective obstacle on roads or
+     Destroying bridges.                         other high-speed-movement routes, such as
+
+                                                 Individual Obstacles A-1
+
+
+---
+
+FM 90-7
+
+firebreaks. The RC forces the enemy to use            CONSTRUCTED OBSTACLES
+earthmoving equipment, blade tanks, or
+mechanical bridging assets. Generally, there  Units create constructed obstacles with
+are two types of RCs, hasty or deliberate.    manpower or equipment and without the
+The planning factors and material require-    use of explosives. Examples of constructed
+ments for RCs are in Chapter 3, FM 5-250.     obstacles are–
+See Figure A-1 for an example of the use of
+an RC.                                            Wire obstacles.
+                                                  Tetrahedrons and hedgehogs.
+                           Abatis                 Antitank ditches.
+
+Abatis are only effective if large enough                         Wire Obstacles
+trees are available to stop the enemy force.
+Abatis can be useful on roads and narrow      Wire obstacles typically target the dis-
+movement routes. Refer to Chapter 3,          mounted threat. Triple standard concertina
+FM 5-250, for more information. See Figure    is a common wire obstacle; however, there
+A-2 for an example of the use of a stan-      are other types, such as double apron,
+dard abatis.                                  tanglefoot, and general-purpose barbed-
+                                              tape obstacles (GPBTOs). Double apron is
+
+A-2 Individual Obstacles
+
+
+---
+
+                           FM 90-7
+Individual Obstacles A-3
+
+
+---
+
+FM 90-7
+
+manpower and material intensive and              use concrete to create a massive tetrahe-
+units typically use it only for deliberate pro-  dron. Engineers construct hedgehogs from
+tective obstacles. Tanglefoot works well in      three or four steel beams joined in the mid-
+tall grass or along a low-water line. The        dle to create something similar to a child’s
+GPBTO is an extremely effective wire obsta-      giant jack. Both of these obstacles are effec-
+cle, and soldiers can emplace it from a vehi-    tive in restrictive terrain. Units commonly
+cle. Refer to Chapter 3, FM 5-34 for more        use them in urban areas. Their ability to
+information. See Figure A-3 for an example       completely stop light vehicles makes them
+of standard wire obstacles.                      ideal for use in protective obstacles around
+                                                 fixed sites in OOTW.
+          Tetrahedrons and Hedgehogs
+                                                                    Antitank Ditches
+Tetrahedrons and hedgehogs target the
+mounted threat. Tetrahedrons are pyramids        Units can also use equipment to alter
+with a triangular base and are normally          terrain to create constructed obstacles.
+about 1½ meters on each side. Engineers          For example, an AD is a constructed
+fabricate tetrahedrons from steel beams or       obstacle that is effective against all types of
+
+A-4 Individual Obstacles
+
+
+---
+
+                                               FM 90-7
+
+vehicles. Like minefield, ADs are linear       otherwise incapacitating enemy personnel
+obstacles, but they require that the enemy     and equipment. Mines affect the enemy in
+use a different breaching asset than it        two ways. The first is the damage they
+does for minefield. Additionally, mine-        inflict on enemy personnel and equipment.
+plow- and roller-equipped tanks cannot         Second, mines have a psychological impact.
+cross a breached AD as easily as a normal      Units that detect mines, or witness the
+tank can. There are two basic AD               mine effect on other parts of a formation,
+designs, rectangular or triangular (see        tend to slow down and seek bypasses to
+Figure A-4).                                   avoid the mine effects. The two general cat-
+                                               egories of land mines are–
+The AD supplements turn or block obstacle
+groups. Units normally do not use ADs for           Conventional mines.
+disrupt or fix obstacle groups because of the       Scatterable mines.
+time and equipment requirements. The com-
+mander must realize that the construction of                   Conventional Mines
+ADs is time and equipment intensive. Typi-
+cally, there is a trade-off between digging    Conventional mines are hand-laid mines
+ADs and digging survivability positions.       that require manual arming. Conventional
+                                               mining is resource (time, labor, supply,
+                  LAND MINES                   and transportation) intensive. Part One,
+                                               FM 20-32, covers conventional mines and
+Mines are explosive devices emplaced for the   mining in detail.
+express purpose of killing, destroying, or
+
+                                               Individual Obstacles A-5
+
+
+---
+
+FM 90-7
+
+                  Scatterable Mines              mines is a complex obstacle. The RC
+                                                 requires that the enemy employ its mechan-
+SCATMINEs are laid without regard to clas-       ical bridging or blade-breaching assets,
+sical pattern and are delivered by aircraft,     while the AT mines require that the enemy
+helicopter, artillery, missile, or ground dis-   use a mine-breaching asset. Together, the
+penser. SCATMINEs provide the maneuver           RCs and mines create a better obstacle. The
+commander a flexible, responsive, and lethal     key to creating effective complex obstacles is
+mine-laying capability to affect the enemy’s     knowing the quantity and capability of the
+ability to maneuver. All US SCATMINEs            enemy’s breaching assets.
+have a limited active life and self-destruct at
+a preset time. The duration of the active life   A complex obstacle should affect low-density
+depends on the type of mine and delivery         breaching equipment first; then it should
+system.                                          affect more common breaching equipment.
+                                                 For example, if the enemy has nine mine
+SCATMINEs are not an obstacle cure-all for       plows and three blade tanks, the unit can
+inadequate tactical planning. Their use          use an AD and mines to force the enemy to
+requires extensive coordination, integra-        use both breaching assets. This increases
+tion, and control. Indiscriminate use of         the time required to breach. Moreover, by
+SCATMINEs causes a rapid depletion of            putting the AD before the mines, the enemy
+valuable assets. More importantly, the           must use its lowest density breaching equip-
+poorly planned use of SCATMINEs can              ment first. If friendly forces destroy the
+impede friendly movement and cause fratri-       blade tanks, they reduce the probability of
+cide. For more detailed information on           the enemy breaching the complex obstacle.
+SCATMINEs and systems, refer to Part
+Two, FM 20-32.                                   Another example of complex obstacles is
+                                                 using AP mines, triple standard concertina,
+          IMPROVISED OBSTACLES                   tanglefoot, and AT mines. The wire and
+                                                 AP mines strip the enemy’s dismounted
+Soldiers and leaders design improvised           infantry away from assaulting tanks. This
+obstacles with imagination and ingenuity         makes both more vulnerable and enables
+when using available materials and other         the defending force to concentrate on one
+resources. Possible improvised obstacles         type of threat. The AT mines prevent
+include the following:                           armored vehicles from dashing through the
+                                                 wire unimpeded.
+      Rubbled masonry buildings.
+      Controlled fires.                                       PHONY OBSTACLES
+      Flooded areas created by opening flood-
+      gates or breaching levees.                 Phony obstacles play a key role in obstacle
+      Damaged vehicle hulks used as road-        protection by helping hide a unit’s actual
+     blocks.                                     obstacles from the enemy. They can also
+                                                 help a unit compensate for shortages of
+            COMPLEX OBSTACLES                    obstacle resources. A unit can mix actual
+                                                 obstacles with phony obstacles within an
+Units can create complex obstacles to            obstacle group. Naturally, this implies risk,
+improve the effectiveness of obstacle groups.    and commanders must ensure that they con-
+Complex obstacles are a combination of           sider the risk of using phony obstacles.
+different types of individual obstacles.
+For example, an RC reinforced with AT            Commanders must also ensure that the
+                                                 emplacing unit creates a phony obstacle
+
+A-6 Individual Obstacles
+
+
+---
+
+                                                FM 90-7
+
+that will have the desired result on the                        ARMOR THREAT
+enemy. An example is a shallow excavation
+combined with a loose soil berm to simulate     Units may need to design minefield for
+an AD. Another technique is to use mine-        armor threats other than soviet-style forces.
+field markings where there are no mine-         The next few paragraphs describe some con-
+field. To be successful, this technique         siderations for designing minefield based
+normally requires that the unit establish a     on an enemy with armor companies of 12 to
+precedent. Highly visible minefield mark-       18 combat vehicles. These are minefield
+ings in a disrupt obstacle group in forward     that a unit can use as building blocks for
+areas provide a visual cue to the enemy con-    obstacle groups in mostly open terrain.
+cerning minefield. Using the same mark-
+ings without minefield in a fix obstacle                                   Width
+group may cause the enemy to assume that
+there is an actual minefield where none         An enemy armored company of 12 to 18 com-
+exists.                                         bat vehicles will have a probable frontage of
+                                                500 meters when deployed. To affect the
+  INDIVIDUAL OBSTACLE DESIGNS                   enemy, half the enemy company frontage
+                                                (250 meters) should encounter the mine-
+The remainder of this appendix provides         field. An individual obstacle of 250 meters
+guidelines for individual obstacles. Units use  frontage is an appropriate-size building
+individual obstacles as building blocks for     block.
+obstacle groups. Standard obstacles allow
+rapid estimating for resourcing (time, man-                                Depth
+power, equipment, and materials) that is
+critical in making the force’s obstacle effort  Minefields must have enough depth to sup-
+effective, efficient, and timely. They allow    port the obstacle effect based on the enemy’s
+units to train on the installation of individ-  breaching capability. If the commander
+ual obstacles as drills.                        wants a disrupt or fix effect, the minefield
+                                                should require the enemy to expend at least
+FMs 5-34, 5-102, and 20-32 provide details      one breaching asset (for example, 100
+on specific standard obstacles.                 meters if the enemy has a mine-clearing line
+                                                charge (MICLIC)). For the turn-and-block
+These standard obstacles are not the only       effect, the depth should increase to force the
+types of obstacles that units should consider.  enemy to expend more breaching assets. For
+Instead, units should consider modifying        an enemy not equipped with line charges,
+standard obstacles or creating their own        the depth can decrease. If the enemy has no
+standard obstacles based on METT-T and          mechanical breaching assets, the depth can
+other resource availability. For example, the   decrease even further.
+standard minefield in FM 20-32 are focused
+on a soviet-style tank and motorized infan-                         Antitank Mines
+try threat. These minefield may not be
+appropriate for a mixed force of light infan-   The two options are track-width and full-
+try and tanks.                                  width fuzed AT mines. Compared to the full-
+                                                width fuzed mines, track-width fuzed mines
+The following paragraphs provide some           have a lower probability of encounter.
+basics for designing minefield based on the     Track-width fuzed mines require a den-
+type of threat.                                 sity of 1.0 per linear meter of front; how-
+                                                ever, adding one row of full-width fuzed
+                                                mines can reduce the resources required
+
+                                                Individual Obstacles A-7
+
+
+---
+
+FM 90-7
+
+while increasing the probability of encounter      formation, it has a frontage of 40 to 200
+for the minefield. This results in one row of      meters. Using 200 meters as the enemy’s
+full-width fuzed mines and two rows of             maximum frontage, the standard minefield
+track-width fuzed mines.                           must target half of its frontage (100 meters).
+                                                   Camouflaging the mines and total pattern
+                Antipersonnel Mines                aids tremendously in increasing the effec-
+                                                   tiveness of the disrupt and fix minefield.
+The minefield focuses on the mounted
+threat, so if the enemy has mounted breach-                                   Depth
+ing assets, AP mines normally will not make
+much of a difference. However, if the enemy        A 45-meter depth complicates a light infan-
+lacks mechanical breaching assets, adding          try’s breaching attempt. A light force
+AP mines can help prevent dismounted               employs grapnel hooks, hand-placed explo-
+breaching.                                         sives, bangalore torpedoes, and portable
+                                                   explosive line charges. The 45-meter depth
+                Antihandling Devices               requires multiple uses of those assets.
+
+The emplacing unit determines the require-                             Antitank Mines
+ment for AHDs based on the threat. Nor-
+mally, units use AHDs only if they expect          The minefield focuses on the dismounted
+covert or other dismounted breaching               threat. Normally, AT mines are useful only
+attempts.                                          if the enemy has vehicles.
+
+           Irregular Outer Edges (IOEs)                            Antipersonnel Mines
+
+The purpose of IOEs is to confuse the enemy        The M16A1 AP mine provides the best mix
+about the orientation of the minefield and to      of lethality and density for the disrupt or fix
+increase the probability of an encounter.          minefield. The M18 Claymore mine is
+There may be cases where an IOE is desir-          another choice. The M14 AP can be used;
+able, such as a fix or block effect. The IOE       however, it requires a much higher linear
+does not have to be part of the standard           density.
+minefield.
+
+                 LIGHT THREAT                                      Antihandling Devices
+
+Designing standard minefield to achieve a          The emplacing unit determines the require-
+specific obstacle effect against a light force is  ment for AHDs based on the threat. At least
+a unique challenge. There are no strict doc-       some mines, especially those on the leading
+trinal frontages associated with an enemy          edge of the minefield, should have AHDs.
+light infantry company; however, a typical
+march formation for a dismounted infantry                          Irregular Outer Edges
+company has a frontage of 40 to 200 meters.
+The following paragraphs describe consider-        The IOE’s purpose is to confuse the enemy
+ations for designing standard minefield for        about the orientation of the minefield and to
+a light threat.                                    increase the enemy’s probability of encoun-
+                                                   ter. Use of the IOE is normal only in rela-
+                           Width                   tively open terrain.
+
+An enemy infantry company typically con-           Leaders should not limit their view of
+sists of three platoons. In march (column)         reinforcing obstacles only to minefield.
+
+A-8 Individual Obstacles
+
+
+---
+
+                                                  FM 90-7
+
+Note that throughout this manual, individ-        possible obstacle arrays to support specific
+ual obstacles are depicted as shaded rectan-      effects.
+gles, unless a specific variety of obstacle is
+discussed. Those shaded rectangles repre-         It also is important to fit standard obstacles
+sent individual obstacles. The actual type of     to the terrain. For example, units do not
+individual obstacle depends on METT-T,            need to lay row minefield in a straight line.
+Leaders should consider the full range of         They must array the obstacle based on the
+individual obstacle varieties when installing     weapon systems and the terrain to achieve a
+individual obstacles. Leaders have as many        specific effect. Figures A-6 through A-8,
+options as their imaginations allow.              pages A-10 and A-11, show some examples
+                                                  of how to use standard obstacles in different
+   INDIVIDUAL OBSTACLE ARRAY                      arrays to achieve an obstacle effect.
+
+The standard row minefield in FM 20-32            Standard obstacles enable planners at all
+are classified as disrupt, fix, turn, and block.  echelons to estimate resource requirements
+Although these minefield are classified that      based on linear obstacle requirements. Like
+way, the array of individual obstacles is         all planning factors, they provide a base for
+what supports the obstacle effect. Units may      estimating requirements and must be
+use any of these minefield or other obstacles     adjusted to the factors of METT-T. Produc-
+to achieve an obstacle effect if the array        tion rates decrease because of limited visi-
+supports the desired effect. Figure A-5 shows     bility; nuclear, biological, and chemical
+                                                  (NBC) threat environment; reduced troop
+                                                  strength or proficiency; and adverse weather
+                                                  conditions.
+
+                                                  Individual Obstacles A-9
+
+
+---
+
+  FM 90-7
+A-10 Individual Obstacles
+
+
+---
+
+                           FM 90-7
+Individual Obstacles A-11
+
+
+---
+
+                                                                                                                                  FM 90-7
+
+                      Appendix B
+
+Obstacle Numbering, Reporting,
+     Recording, and Tracking
+
+This appendix describes the obstacle num-       The designation for the HQ is a letter fol-
+bering system and the requirements for          lowed by three numbers. For example, XVII
+obstacle reporting and recording.               Corps is shown as Z017; 23d Armored Divi-
+                                                sion is shown as A023; and the 103d Air-
+        OBSTACLE NUMBERING                      borne Division is shown as I103.
+
+The obstacle numbering system shown in          Obstacle zones are indicated by a single let-
+Table B-1, page B-2, consists of 11 alphanu-    ter starting with “A” and continuing in
+meric characters and an obstacle status sym-    sequence. Obstacle Zone A in XVII Corps is
+bol character. This number is compatible        distinguished from Obstacle Zone A in 77th
+with the Tactical Engineer Command and          ID by the HQ designation (Z017-A versus
+Control System (TECCS) that augments the        1077-A). The second obstacle zone in 77th
+Maneuver Control System (MCS). An obsta-        ID would be Obstacle Zone B (I077-B).
+cle number provides the following informa-
+tion concerning an individual obstacle:         Obstacle belts are indicated with a single
+                                                digit following the obstacle zone designator
+      HQ that established the obstacle zone in  starting with “l” and continuing in
+      which the obstacle is located.            sequence. For example, the first obstacle
+      Obstacle zone designation (if any).       belt in Obstacle Zone C of the 5th Cavalry
+      Obstacle belt designation within the      Division is shown as C005-C1.
+      obstacle zone (if any).
+      Obstacle group designation within the     Obstacle groups are depicted by a single let-
+      obstacle belt.                            ter starting with “A” and continuing in
+      Individual obstacle type.                 sequence. For example, the first obstacle
+      Individual obstacle number.               group in Obstacle Belt 2 of Obstacle Zone B
+      Obstacle status.                          in the 77th ID is I077-B2A.
+
+If units do not use obstacle zones and belts,   The individual obstacle type is expressed by
+or if the HQ directs obstacles outside an       one or two letters as shown in Table B-2,
+obstacle zone or belt, an asterisk is used in   pages B-3 and B-4. For example, AD obsta-
+place of the obstacle zone or belt designator.  cles in I077-B2A are shown as I077-B2A-
+                                                AD. Standard block minefield in the same
+                                                group are shown as I077-B2A-MB.
+
+Obstacle Numbering, Reporting, Recording, and Tracking B-1
+
+
+---
+
+FM 90-7
+
+The individual obstacles in an obstacle group      The obstacle status symbol is the last charac-
+are indicated by a two-digit number starting       ter of the obstacle number. The status sym-
+with “01” and continuing in sequence. There-       bol shows whether the obstacle is—
+fore, the first block minefield in obstacle group
+I077-B2A is I077-B2A-MB01. The second                   Planned (/)
+block minefield in the group is I077-B2A-
+MB02. If the obstacle group consists of a sin-          Being prepared (-).
+gle obstacle, it is also shown as I077-B2A-
+MB01.                                                   Prepared, but not executed (+).
+
+If the corps or division orders the emplace-            Executed or completed (x).
+ment of an obstacle group outside an obstacle
+zone, then there is no obstacle zone or belt       For example, if the first of the block mine-
+designator. Instead, units replace the obstacle    field discussed in the previous paragraph is
+zone and belt designators with asterisks (*).      completed, the obstacle number is I077-B2A-
+For example, if XVII Corps orders the demoli-      MB01X. If the corps reserve obstacle dis-
+tion of a bridge (abutment only) as a corps        cussed in the previous paragraph is pre-
+reserve obstacle and this is the first such        pared, the obstacle number is Z017-**A-
+obstacle, then the obstacle is indicated as        BA01(+).
+Z017-**A-BA01. If the 1st Brigade, 77th ID,
+                                                   Obstacle numbering for protective obstacles
+orders an ADAM/RAAM scatterable minefield          may require procedures that vary slightly
+in Obstacle Zone B and outside all obstacle        from those described. Units should report
+belts, the designation is I077-B*A-SF01.           protective obstacles; however, identifying the
+                                                   individual obstacles is difficult using the
+                                                   obstacle numbering guidelines without guid-
+                                                   ance from the higher HQ. A technique is for
+
+B-2 Obstacle Numbering, Reporting, Recording, and Tracking
+
+
+---
+
+                                                                                         C1, FM 90-7
+
+                Table B-2. Obstacle type abbreviations.
+
+M—Minefield/Munition Field                                              W—Wire Obstacle
+
+MB Block                           WA Double-apron
+
+MC Chemical                        WC Concertina
+
+MD Disrupt                         WF Tanglefoot
+
+MF Fix                             WG General-purpose, barbed tape
+
+MH Hasty protective                WN Nonstandard
+
+MN Nonstandard                     WR Roadblock
+
+MO Point                           WT Triple-standard
+
+MP Protective                      S—Scatterable Minefield/Munition Field
+
+MQ Nuisance                        SB Gator
+
+MS Standard-pattern                SF ADAM and RAAM
+
+MT Turn                            SM MOPMS
+
+MU Dummy/decoy                     SV Volcano
+
+         A—Miscellaneous           SW Scatterable mines (generic)
+
+AB Abatis                                                               H—Hand-Emplaced Munitions
+
+AC Chemical by explosives          HC Claymore
+
+AD AT ditch                        HH Hornet/WAM
+
+AF Thermobaric or flame            HO Other
+
+AH Log hurdle                      HS SLAM
+
+AL Log crib or log obstacle                                             I—Improvised Explosive Devices
+
+AM Movable obstacle (car, bus)     ID Directional, special-purpose explosive
+AN Expedient nonstandard obstacle            hazard
+
+AP Post obstacle (hedgehog, tetrahedron)                                Omnidirectional, special-purpose
+                                                                    IO  explosive hazard
+
+AR Rubble
+
+                             Obstacle Numbering, Reporting, Recording, and Tracking B-3
+
+
+---
+
+C1, FM 90-7
+
+             Table B-2. Obstacle type abbreviations (continued).
+
+AT AT ditch with AT mines                                   B—Bridge Demolition
+AW Earthwork
+                                                BA Abutment
+          (berms, parapets, dunes, pits)
+                                                BC Abutment and span
+                    T—Booby Traps
+TA Booby-trapped area                           BS          Span
+TB Booby-trapped bodies
+TE Booby-trapped equipment                                  R—Road Crater
+TM Booby-trapped material
+TP Booby-trapped passage/                       RD Deliberate
+
+          confined space                        RH Hasty
+
+TS Booby-trapped structure                      RM Mined
+TV Booby-trapped vehicle
+                                                            U—Unexploded Ordnance
+
+                                                UC Chemical UXO hazard area
+
+                                                UH UXO hazard area
+
+                                                UN Nuclear hazard area
+
+units to assign default obstacle zone,          linked directly to specific company teams.
+belt, and group designators for protective ob-  The first protective minefield that Team A,
+stacles outside control measures. For exam-     TF 1-2 emplaces has the obstacle number
+ple, 77th ID assigns W, X, Y, and Z (it is      I077-W1A-MP01X.
+unlikely that the division will ever have
+enough actual obstacle zones to require                    OBSTACLE REPORTING
+these letters) as default obstacle zone desig-
+nators for subordinate units as follows:        An obstacle report is an oral, electronic, or
+                                                written communication concerning obstacle
+    x W  1st Brigade.                         activities. The local command specifies the
+    x X  2d Brigade.                          report format. The emplacing unit com-
+    x Y  3d Brigade.                          mander submits it through operational
+    x Z  Division rear.                       channels to the G3/S3 of the authorizing
+                                                HQ. The HQ integrates the report with ter-
+The 1st Brigade assigns default obstacle        rain intelligence and disseminates it with
+belts W1, W2, and W3 to TF 1-2, TF 2-3,         tactical intelligence. Units send these
+and TF 3-4 respectively. TF 1-2 then            reports by the fastest, most secure means
+assigns default obstacle group designators      available. Failure to disseminate obstacle
+W1A, W1B, W1C, and W1D to its four com-         information rapidly could result in friendly
+pany teams. Protective obstacles can now be
+
+B-4 Obstacle Numbering, Reporting, Recording, and Tracking
+
+
+---
+
+                                               FM 90-7
+
+casualties. Figure B-1, page B-6, summa-             Placement of mines (surface-laid or
+rizes the obstacle report flow at the corps          buried).
+level and below.                                     Use of AHDs on mines, if applicable.
+                                                     Location and width of lanes and gaps
+Units must submit the following reports for          and how they are marked.
+every obstacle (with exceptions noted):
+                                                           REPORT OF INITIATION
+      Report of intention.
+      Report of initiation.                    A report of initiation is mandatory. It
+      Report of completion.                    informs higher HQ that emplacement has
+                                               begun and that the area is no longer safe for
+           REPORT OF INTENTION                 friendly movement and maneuver. The
+                                               report specifies the time that emplacement
+The use of a report of intention depends on    began and identifies the location and target
+the use of obstacle-control measures or an     numbers of obstacles. The scatterable mine
+OPLAN.                                         warning (SCATMINWARN) notifies affected
+                                               units that SCATMINEs will be emplaced.
+           Obstacle-Control Measures           The SCATMINWARN report provides
+                                               affected units with the necessary warn-
+If the higher HQ has designated obstacle-      ing to plan and execute their operations.
+control measures, such as obstacle zones or    Units send the report before or immediately
+belts, units do not need to submit the report  after they have emplaced mines. Figure
+of intention. The authorization to install     B-2, page B-7, shows a sample of the
+obstacles is given when the higher HQ          SCATMINWARN format.
+establishes the obstacle-control measure.
+                                                         REPORT OF COMPLETION
+Units must submit a report of intention for
+every obstacle if the higher HQ did not        A report of completion is the report from
+establish obstacle-control measures. Units     the actual emplacing unit, through chan-
+must submit a report of intention to notify    nels, to at least corps level. It informs higher
+their higher HQ before planning to emplace     HQ that the obstacle is complete and func-
+an obstacle.                                   tional. If required, units follow a report of
+                                               completion with completed DA Form 1355,
+                     Operation Plan            DA Form 1355-1-R, or scatterable minefield
+                                               report and record (see Figure B-3, page B-7).
+Conventional obstacles that are part of an
+OPLAN approved by the authorizing com-                     ADDITIONAL REPORTS
+mander do not require a report of intention
+because inclusion in an OPLAN implies an       Two additional reports that may be required
+intention to emplace obstacles.                at different times are—
+
+The report of intention doubles as a request         Report of progress.
+when units initiate it at levels below               Report of transfer.
+emplacement authority. The report includes
+the following:                                                   Report of Progress
+
+      Tactical purpose of the obstacle.        During the emplacing process, the com-
+      Estimated number and type of mines to    mander may require periodic reports on the
+      be emplaced.                             work completed.
+      Location of obstacle.
+      Proposed start and completion times.
+      Type of obstacle.
+
+Obstacle Numbering, Reporting, Recording, and Tracking B-5
+
+
+---
+
+ FM 90-7
+B-6 Obstacle Numbering, Reporting, Recording, and Tracking
+
+
+---
+
+                                                                                      FM 90-7
+Obstacle Numbering, Reporting, Recording, and Tracking B-7
+
+
+---
+
+FM 90-7
+
+                  Report of Transfer                 Collation of obstacle completion reports
+                                                     and other reports of identified obsta -
+A commander transfers obstacle responsibil-          cles, such as UXO and enemy obsta-
+ity to another commander with a report of            cles.
+transfer. The relieving and relieved com-
+manders sign this report.                            Dissemination of the collated informa-
+                                                     tion to friendly units that the obstacles
+        OBSTACLE RECORDING                           may affect.
+
+Obstacle recording is an electronic or writ-         Maintenance of the records that iden-
+ten communication describing the emplace-            tify obstacle locations for use in plan-
+ment of the obstacle. Records are normally           ning future operations or in clearing
+technical in nature, and there is very spe-          obstacles after the end of hostilities.
+cific guidance on the recording of mine-
+field. Units record tactical and deliberate    The G3/S3 is responsible for tracking obsta-
+protective minefield using DA Form 1355.       cles but is assisted by the engineer and fire
+They record hasty protective minefield on      support staffs. Friendly force obstacle
+DA Form 1355-1-R. Units use the scatter-       reports go upward through operational and
+able minefield report and record to report     engineer channels. Reports of enemy obsta-
+and record scatterable minefield (see          cles may arrive through a variety of chan-
+Figure B-3, page B-7). The local command       nels based on intelligence collection,
+specifies how to record obstacles other        maneuver contact, or other means. Nor-
+than minefield.                                mally, the staff engineer collates these
+                                               reports and records and maintains the infor-
+Obstacle records contain the following infor-  mation on these obstacles.
+mation, as a minimum:
+                                               Eventually, detailed written reports and
+      Location of obstacle.                    records, down to individual obstacles, flow
+      Type of obstacle.                        through channels to the corps; however, for
+      Number and type of mines emplaced, if    immediate tracking, each level requires a
+      applicable.                              different level of detail displayed graphi-
+      Placement of mines (surface-laid or      cally. At corps level, immediate require-
+      buried), if applicable.                  ments are graphics showing brigade
+      Use of AHDs, if applicable.              obstacle belts. The division tracks the loca-
+      Location and width of lanes and gaps,    tions of obstacle groups graphically. The bri-
+      if applicable.                           gade plots the locations of individual
+      Description of any marking, if applica-  obstacles on overlays. This provides enough
+      ble.                                     information for immediate planning con-
+                                               cerns. If a corps or division staff attempts to
+The procedures for completing DA Form          plot individual obstacles, the end result is
+1355, DA Form 1355-1-B, or scatterable         probably an inaccurate overlay. As written
+minefield report and record are in FM 20-32.   reports and records arrive at corps level, the
+                                               corps begins to develop a data base for
+         OBSTACLE TRACKING                     future planning and eventually for clearance
+                                               of all obstacles.
+Obstacle tracking consists of the following
+components:                                    Reports of friendly UXO normally come from
+                                               fire-support units or from Air Force or Navy
+                                               aviation liaison officers. The fire-support
+                                               cell normally collates these reports and
+                                               maintains the record of these items.
+
+B-8 Obstacle Numbering, Reporting, Recording, and Tracking
+
+
+---
+
+                                                FM 90-7
+
+The G3/S3 must decide how much of this          that their subunits take appropriate precau-
+
+information to disseminate to subordinate       tions in those areas. Subordinate command-
+units. He also must decide what level of
+detail is necessary. Simple overlays depicting  ers may require more detailed information if
+                                                they must move through an area where
+areas suspected of having large quantities of   another unit (or the enemy) previously
+
+UXO, and a brief description of the UXO and     emplaced tactical obstacles. In this case, the
+its hazards, may be useful to subordinate       commander may need an overlay or listing
+
+commanders. They may choose to plan             of all obstacles in the area with as much
+movements around those areas or ensure          detail as is available.
+
+Obstacle Numbering, Reporting, Recording, and Tracking B-9
+
+
+---
+
+                                                                                                                    FM 90-7
+
+                Appendix C
+
+Obstacle Resourcing and
+    Supply Operations
+
+This appendix describes obstacle resourcing       REQUIREMENT-BASED RESOURCING
+and supply from corps to emplacing unit
+level. First, it concentrates on how units     One technique is to resource subordinate
+plan to resource obstacles in terms of Class   units with obstacle materials and man-
+IV and Class V obstacle materials, man-        power based on anticipated requirements.
+power, and equipment. Second, it describes     These requirements are based on the tenta-
+the flow of obstacle materials and offers      tive control measures the staff used while
+some techniques for ensuring efficient sup-    developing the obstacle plan (see Chapter 4).
+ply operations.                                The staff arrays obstacle-control measures
+                                               based on the array of friendly forces two lev-
+       OBSTACLE RESOURCING                     els down. For example, the division staff
+                                               draws tentative obstacle belts to support the
+At company team level, the emplacing unit      tentative array of TFs in the scheme of
+and company team commander can easily          maneuver. The staff combines the obstacle
+identify the resources required for individ-   belts into obstacle zones and allocates
+ual obstacles. However, at TF level, the       resources for the obstacle zones based on the
+exact requirements are less clear. The exact   tentative obstacle belts.
+requirements become increasingly unclear
+at each higher level. The staff at each level  The staff multiplies the width of the AA for
+needs a method for estimating obstacle         the tentative obstacle-control measure at
+resource requirements to make the neces-       the lower level by the obstacle-effect
+sary allocations to subordinate units. The     resource factor (see Table C-1, page C-2).
+two techniques for estimating obstacle         The resource factor used depends on the
+resource requirements are—                     obstacle effect. The staff assumes an obsta-
+                                               cle effect for the tentative obstacle-control
+      Requirement-based resourcing.            measures based on how it thinks the subor-
+      Capability-based resourcing.             dinate unit will fight the battle.
+
+These techniques provide guidelines for req-   This provides the linear obstacle effort
+uisitioning and moving resources.              required for the obstacle-control measure.
+                                               Figure C-1, page C-2, shows the relationship
+
+                                               Obstacle Resourcing and Supply Operations C-1
+
+
+---
+
+FM 90-7
+
+between the resource factor for each obstacle    unit’s area of operations. It then allocates
+                                                 resources to the subordinate units based on
+effect, the AA width, the total linear obstacle  the resources required for the obstacles in
+effort required, and a possible array of indi-   its areas of operations.
+vidual obstacles. The staff translates the lin-
+                                                 Figure C-2 shows the obstacle plan from the
+ear effort required for all the tentative        division scenario in Chapter 4 (to include
+obstacle-control measures into resources         the tentative obstacle belts used to develop
+required using standard planning factors         the plan). Table C-2, page C-4, shows an
+                                                 example of the requirement-based resourc-
+and obstacle packages. It sums the total         ing technique based on that scenario.
+resources required for the tentative obstacle-
+control measures within each subordinate
+
+C-2 Obstacle Resourcing and Supply Operations
+
+
+---
+
+                                               FM 90-7
+
+The division staff developed seven obstacle    requirements (it could just as easily have
+zones, A through G (column 1). It used tenta-  used other standard obstacles dependent on
+tive obstacle belts (column 2) to develop the  METT-T). The staff divided the linear
+obstacle zones. The staff assumed an obstacle  obstacle effort required by the frontage of
+effect (column 3) for each tentative obstacle  the appropriate standard row minefield (col-
+belt based on how it thought the brigade com-  umn 7) to determine the number of mine-
+manders would fight the battle. It deter-      field required (column 8). The staff then
+mined the resource factor (column 4) based     multiplies the number of minefield
+on the assumed obstacle effect. It multiplied  required by the number of mines and pla-
+the AA widths (column 5) by the resource fac-  toon hours required for each minefield (col-
+tor to determine the total linear obstacle     umns 9 and 10 respectively). The staff totals
+effort required (column 6) for each tentative  the requirements for mines (column 11) and
+obstacle belt.                                 platoon hours (column 12) for each obstacle
+                                               zone.
+The division used the standard row mine-
+field from FM 20-32 to determine resource      Using the zone totals (columns 13 and 14),
+                                               the staff can now allocate platoons and
+
+                                               Obstacle Resourcing and Supply Operations C-3
+
+
+---
+
+ FM 90-7
+C-4 Obstacle Resourcing and Supply Operations
+
+
+---
+
+                                                FM 90-7
+
+mines to the brigades to meet the require-      main effort based on the concept of the oper-
+ments for each obstacle zone. The staff con-    ation. Based on the main effort, the staff
+verts the platoon hours required into           develops a preliminary task organization.
+platoons required based on the actual time      This task organization drives obstacle mate-
+available. It then task organizes engineer      rial resourcing. Although the staff concerns
+units to the brigades to provide the necessary  itself primarily with the engineer task orga-
+manpower. The staff may consider other          nization, it does not ignore other units with
+sources of manpower (units other than engi-     obstacle emplacement capability.
+neers) when allocating engineer units.
+                                                The advantage of this technique is the early
+     CAPABILITY-BASED RESOURCING                identification of obstacle material require-
+                                                ments. Obstacles require a large amount of
+The second technique for obstacle resourcing    material and transportation assets to haul
+is to allocate obstacle materials based on the  the material. Engineer units have a limited
+capability of units to emplace obstacles.       capability for hauling obstacle material. The
+Units have the capability to emplace only a     earlier the staff identifies the haul require-
+certain amount of obstacle material in a        ment, the easier coordination for haul assets
+given amount of time. For example, an           becomes. This helps logistic planners
+engineer company can emplace a quantifi-        who do not require great precision but cer-
+able number of conventional mines in one        tainly welcome early identification of
+day.                                            requirements.
+
+Capability-based resourcing is a good tech-     Figure C-3 illustrates the capability-based
+nique to use when time is short. Early in       resourcing technique. The scenario used is
+the plan development, the staff identifies the
+
+                                                Obstacle Resourcing and Supply Operations C-5
+
+
+---
+
+FM 90-7
+
+the division defensive scenario from            the staff could have substituted AD for part
+Chapter 4. The staff developed a task organi-   of the total linear obstacle effort required.
+zation for engineer units with one engineer     For Obstacle Belt B1, the staff could have
+battalion each in support of 2d Brigade and     used 1,000 meters of AD and 3,000 meters of
+1st Brigade. Both engineer battalions have      minefield instead of 4,000 meters of mine-
+an attached engineer company (from the          field. This would have reduced the total
+third engineer battalion) for a total of eight  Class V and platoon hour requirement for
+engineer platoons each. In addition, the        Obstacle Belt B1 but would have added a
+cavalry squadron has an attached engineer       requirement for digging assets.
+company (also from the third engineer
+battalion) for a total of two engineer pla-     Both of the resourcing techniques discussed
+toons. (Note that the third engineer battal-    above can be used at any level for planning
+ion HQ is conducting planning and               resources. At the TF level, the staff uses the
+coordination with 3d Brigade for the division   actual groups that it has planned rather
+CATK).                                          than tentative obstacle-control measures. As
+                                                with any other process, the staff abbreviates
+To determine the obstacle resources             obstacle resourcing when time is short or
+required by each brigade, the division staff    adds detail if time allows. Whatever the
+determined the obstacle emplacement capa-       technique used, staffs must make some rea-
+bility of the engineers in support of the bri-  sonable assumptions when necessary. They
+gades. The staff made several assumptions       also must use information and planning fac-
+concerning obstacle emplacement capability.     tors relevant to their organization.
+Based on the standard row minefield in
+FM 20-32 and minefield planning data in          OBSTACLE SUPPLY OPERATIONS
+FM 5-34, the staff assumed that an engineer
+platoon can emplace 100 mines per hour.         Obstacle material is Class IV or Class V
+The staff also assumed that the platoons can    material, which is requested and delivered
+only do ten hours of effective work per day     through the maneuver unit’s supply chan-
+(subtracting time for travel, maintenance,      nels. Obstacle material is a maneuver unit
+resupply, rest, and so forth).                  responsibility. Figure C-4 and Figure C-5,
+                                                page C-8, show the request flow and the
+The staff multiplied the effective hours per    supply flow for Class IV and Class V, respec-
+day by the number of mines per hour and         tively, from corps to TF level.
+determined that the platoons can use 1,000
+mines per day. The staff multiplied the num-    Class IV obstacle material requests originat-
+ber of engineer platoons in support of each     ing at or below TF level go to the TF S4. The
+brigade by the number of mines per day.         TF S4 sends supply requests to the forward
+This figure was the number of mines per         support battalion (FSB). Class IV supply
+day that each brigade can reasonably            requests at brigade level also go to the FSB.
+emplace given the engineer task organiza-       The FSB sends the requests to the division
+tion.                                           materiel management center (DMMC). Sup-
+                                                ply requests originating at division level
+In the examples above, the staff only consid-   also go to the DMMC. The DMMC sends the
+ered the use of standard row minefield from     request to the corps material management
+FM 20-32. The staff could have used a dif-      center (CMMC). Corps-level requests also go
+ferent type of individual obstacle or a combi-  to the CMMC.
+nation of different types. If it used the
+requirement-based method, for example,          Issuing Class IV obstacle material usually
+                                                involves large quantities of material. Corps
+
+C-6 Obstacle Resourcing and Supply Operations
+
+
+---
+
+                                             FM 90-7
+
+support elements deliver Class IV material   is delivered to the user at the obstacle
+directly to the emplacement sites using      emplacement site.
+corps transportation assets.
+                                             A supply request includes the quantity, the
+Units request Class V obstacle materials     required delivery time, the transportation
+somewhat differently. The TF S4 notifies     responsibilities, and a desired location. The
+the brigade S4 of Class V requirements. The  quantity includes the required quantity for
+brigade S4 notifies the division ammunition  each type of obstacle. There may be several
+officer (DAO) in the DMMC who authorizes     Department of Defense identification codes
+Class V issue by the ammunition transfer     (DODICs) and national stock numbers
+point (ATP). The DAO sends requests for      (NSNs) involved, depending on the types of
+Class V to the CMMC.                         obstacles required. The required delivery
+                                             time is very important to ensure an early
+Class V obstacle material flows from the     start on the preparation of the battlefield.
+corps storage area (CSA) to the ammu-        Lack of material could adversely affect the
+nition storage points (ASP) to the           mission. The transportation responsibilities
+ammunition transfer points (ATP) or,         must be clearly understood. MHE is
+more likely, straight to the ATP. Class V    required to ensure a rapid turnaround of
+obstacle material, unlike most ammunition,   haul assets.
+
+                                             Obstacle Resourcing and Supply Operations C-7
+
+
+---
+
+FM 90-7
+
+In addition, the brigade staff identifies the   into usable packages, and then distributed
+location of Class IV/Class V points in the TF   throughout the sector based on the obstacle
+sectors in coordination with the TF staff.      plan. At some point in the distribution plan,
+Prompt identification of the TF Class IV/       the TF turns over control of the obstacle
+Class V point is required if the obstacle       material to engineers who then emplace
+material is forwarded from the corps into the   them. Obstacle logistics, especially for mine
+TF sector. If the material is not forwarded     warfare, at the TF level can be complex,
+into the TF sector, it becomes a brigade        require prudent use of scarce haul and
+responsibility to deliver the material to the   MHE, and demand positive C2.
+TF.
+                                                In the case of obstacle groups developed at
+At the TF level, sustaining obstacle opera-     corps, division, or brigade level, obstacle
+tions is an extremely difficult task. Central-  material supply may vary slightly. The staff
+ized throughput operations by the corps or      that is at the level where the obstacle group
+the division stops at the TF level. Mass        is planned in detail determines the
+quantities of obstacle material, especially     resources required for the obstacle. It also
+mines, are centrally received, broken down      plans how the emplacing unit will get the
+
+C-8 Obstacle Resourcing and Supply Operations
+
+
+---
+
+                                                FM 90-7
+
+materials. For example, if the corps staff      The relative location of the Class IV/Class V
+plans a reserve obstacle group, but the         supply point and mine dumps are shown in
+detailed planning is done at TF level, the TF   Figure C-6.
+plans the resources for the obstacle group as
+it would any other obstacle group. However,               Class IV/Class V Supply Point
+if the corps staff plans the obstacle group in
+detail, it determines the resources required.   The Class IV/Class V supply point is the cen-
+In this case, the corps staff would also plan   tral receiving point of obstacle material in
+for delivery of the obstacle materials to the   the TF sector. It is the point at which the TF
+emplacing unit. Alternately, the corps staff    receives and transfers control of obstacle
+could direct the emplacing unit to pick up the  material pushed forward by higher levels.
+obstacle materials from a location such as      The supply point is established and operated
+the CSA.                                        by the TF and is centrally located to support
+                                                all planned obstacles within the TF sector.
+       OBSTACLE RESUPPLY NODES                  Where the tactical obstacle plan allows, the
+                                                supply point should be located near the TF
+There are two critical obstacle resupply        combat trains to better facilitate C2 and the
+nodes within the TF sector. Each of them has    availability of equipment.
+a different function in the obstacle resupply
+process if the material is not delivered        The main purpose of the Class IV/Class V
+directly to the emplacement site. They are      supply-point operation is to receive obstacle
+the—                                            materials and then reconfigure them based
+                                                on the requirements for each obstacle group.
+     Class IV/Class V supply point.
+     Mine dump.
+
+                                                Obstacle Resourcing and Supply Operations C-9
+
+
+---
+
+FM 90-7
+
+This requires that the supply point must        is not always used; it depends on the
+have a dedicated S4 representative to track     method of minefield resupply. These tech-
+the flow of obstacle material in and out of     niques are discussed in more detail below.
+the supply point. The supply point should       When used, one mine dump supports a
+have dedicated MHE to off-load the bulk         single obstacle group. It is activated or
+quantities of obstacle material and reconfig-   deactivated upon initiation and comple-
+ure them into obstacle packages, if required.   tion of emplacing the obstacle group. Mine
+Obstacle materials are normally broken          dump operations are primarily an engineer
+down into obstacle packages if the materials    company or platoon responsibility. However,
+are not already delivered in combat config-     it is a good technique to augment mine
+ured loads. This may require a dedicated        dump operations with personnel from the
+engineer representative to ensure that the      company team overmatching the obstacle
+obstacle materials are configured properly.     group being emplaced. The mine dump may
+                                                be located either in the vicinity of the com-
+The most labor-intensive task at the Class      pany team position or nearer to the obstacle
+IV/Class V supply point is uncrating the        group.
+mines. This requires dedicated manpower
+equipped with tools to break shipping bands     There are three critical tasks that must be
+and uncrate the mines from their containers.    accomplished at the mine dump.
+Another important aspect of uncrating
+mines is tracking fuzes and booster charges.          As minefield packages are transported
+As the mines are uncrated, fuzes and booster          to the mine dump, they are further
+charges are separated; however, the same              task organized into strip packages,
+number and type of fuzes and boosters must            complete with the right number, type,
+be task organized with minefield packages.            and mix of fuzes and boosters. For
+This requires strict supervision because mis-         example, if the platoon is emplacing a
+takes can quickly lead to confusion and a             standard disrupt row minefield, mines
+waste of emplacement time.                            are task organized into three packages.
+                                                      As the engineer platoon moves to the
+Because of the assets involved in the Class           mine dump to resupply, each emplac-
+IV/Class V supply point, a TF is normally             ing vehicle loads a designated package.
+capable of operating only one supply point at
+any given time. If the TF sector is                   The mines are prepared for emplace-
+extremely wide or deep, several supply                ment. They are not fuzed at the mine
+points may be planned; however, only one              dump. Preparation includes loosening
+can be operated at a time, based on the com-          and greasing fuze and booster wells
+mander’s priorities for obstacle emplace-             and checking to ensure proper func-
+ment.                                                 tioning.
+
+                       Mine Dump                      The mines are loaded onto the emplac-
+                                                      ing vehicles or delivery system.
+The mine dump is the most forward mine
+resupply node. It is the point at which         Transportation of mines from the Class IV/
+mines are task organized into mine strip        Class V supply point to the mine dump is a
+packages and inspected, prepared, and           supported TF responsibility; however, it is
+loaded onto the emplacing vehicle. It is        usually shared between the engineer com-
+not a permanent supply point. A mine dump       pany and the TF since neither one has the
+                                                haul capability to simultaneously service all
+                                                active mine dumps.
+
+C-10 Obstacle Resourcing and Supply Operations
+
+
+---
+
+                                               FM 90-7
+
+       OBSTACLE RESUPPLY RULES                                      Traffic Circuit
+
+The following rules govern obstacle material   Vehicles must be able to enter, load, unload,
+resupply:                                      and exit without interfering with the load-
+                                               ing and unloading of other vehicles.
+      Uncrate mines at the Class IV/Class V
+      supply point to preserve transportation                 Camouflage and Cover
+      assets going forward.
+      Task organize obstacle material into     Protection from observation and thermal
+      type packages at the Class IV/Class V    imaging is desired. Protection from artillery
+      supply points.                           and air attack should be considered. Residue
+      Transport materials from the Class IV/   must be removed.
+      Class V supply point to the mine dump
+      (a shared engineer and maneuver unit                              Defense
+      responsibility) when a mine dump is
+      used.                                    The site must be organized for defense
+      Inspect and prepare mines at the last    against enemy patrols and saboteurs.
+      supply node (Class IV/Class V supply
+      point or mine dump) before loading                                   Time
+      them onto the emplacing vehicle or dis-
+      pensing system.                          Time factors to handle the obstacle
+      Set up Class IV/Class V supply points    material—to include all unloading, uncrat-
+      using authorized ammunition proce-       ing, inspecting, and loading—must be con-
+      dures and distance requirements.         sidered. Use of soldiers other than engineers
+                                               to perform these functions can have a signif-
+      OBSTACLE SUPPLY LOCATIONS                icant impact on obstacle capability.
+
+Considerations for selecting a location for                            Operators
+the Class IV/Class V supply point and/or
+mine dump are—                                 Leaders and soldiers must be specifically
+                                               allocated to operate mine dumps. They will
+      Carrying capacity.                       probably remain there until the task is com-
+      Traffic circuit.                         plete. The supply node may have to be collo-
+      Camouflage and cover.                    cated with or be near a source of manpower.
+      Defense.                                 Table C-4, page C-12, provides general guid-
+      Time.                                    ance on how much manpower is required to
+      Operators.                               sustain mine resupply operations.
+
+                  Carrying Capacity                 OBSTACLE MATERIAL RESUPPLY
+                                                                   METHODS
+The location of key supply nodes depends in
+part on the type, amount, and availability of  The methods for obstacle material resupply
+haul assets. The carrying capacity plays a     are—
+large role. In short, the more material a
+vehicle can carry, the more turn-around             Supply point.
+time you can afford. Table C-3, page C-12,          Service station.
+provides the Class IV and Class V haul              Tailgate.
+capacity for various types of vehicles.
+                                               In each method, corps or division transport
+                                               delivers Class IV/Class V supplies forward
+
+                                               Obstacle Resourcing and Supply Operations C-11
+
+
+---
+
+FM 90-7
+C-12 Obstacle Resourcing and Supply Operations
+
+
+---
+
+                                                FM 90-7
+
+to a designated Class IV/Class V point in             May disrupt the emplacement of indi-
+each TF sector. The primary differences in            vidual obstacles when emplacing vehi-
+each method are how the material is deliv-            cles cannot carry enough material to
+ered from the Class IV/Class V point to the           start and complete the obstacle. This
+obstacle location and whether or not a mine           causes emplacing vehicles to stop work,
+dump is activated in the resupply chain.              reload, and pick up where they left off.
+                                                      Requires a larger Class IV/Class V sup-
+                       Supply Point                   ply point capable of receiving mass
+                                                      quantities of obstacle material and
+The supply-point technique requires that the          loading platoons simultaneously.
+emplacing engineer platoon return to the
+Class IV/Class V supply point each time it            Does not afford an opportunity to task
+must resupply. Figure C- 7, page C-14, illus-         organize obstacle packages.
+trates the supply point method of resupply.
+The supply-point technique does not activate                         Service Station
+a separate mine dump. In effect, it moves the
+normal tasks associated with a mine dump        The service-station technique centers on the
+to the supply point. Mines are prepared and     activation of a mine/obstacle dump forward
+inspected at the supply point as they are       of the Class IV/Class V supply point (see
+loaded onto the emplacing vehicle or dis-       Figure C-8, page C-15). In the service-sta-
+penser.                                         tion method, mines/material are transported
+                                                to a mine/obstacle dump using a combina-
+Several considerations may affect the use of    tion of engineer and TF haul assets that are
+supply point resupply. First, if there are no   normally under the control of the emplacing
+additional haul assets to transport obstacle    engineer. At the mine/obstacle dump, mate-
+material forward from the Class IV/Class V      rial is stockpiled and prepared by the
+supply point, the supply-point method may       mine/obstacle dump party. Obstacle mate-
+be the only viable technique. Second, the       rial is further task organized into packages.
+obstacle may be close enough to the supply      The emplacing platoon moves to the mine/
+point that any other method is less efficient.  obstacle dump to resupply emplacing vehi-
+                                                cles or dispensers. Once the obstacle group
+Advantages. The advantages to a supply          is emplaced, the mine/obstacle dump is
+point are that it—                              deactivated or moved to support another
+                                                obstacle group.
+      Minimizes unloading and loading of
+      material.                                 There are several considerations for using
+      Requires minimal augmentation of          the service-station resupply method:
+      haul assets.
+                                                      It is used when the obstacle group is
+      Allows manpower and equipment to be             located too far from the Class IV/Class
+      massed at a single supply point.                V supply point to allow efficient turn-
+                                                      around.
+      Streamlines C2 of material.                     It is used when available haul assets
+                                                      have a relatively small capacity. This
+Disadvantages. The disadvantages to a                 requires frequent short-duration
+supply point are that it—                             resupply trips and stocking mines to
+                                                      keep pace with emplacement.
+      Requires more movement of the pla-
+      toon, which may take away from                  It streamlines emplacement since
+      emplacement time.                              there is an opportunity to task organize
+      Requires that the platoon move in and
+      out of the area.
+
+                                                Obstacle Resourcing and Supply Operations C-13
+
+
+---
+
+FM 90-7
+
+      the mines into strip packages based               Minimizes the distance and time the
+      on the emplacement method and type of             emplacing platoon must travel to
+      minefield.                                        reload.
+                                                        Allows for obstacle packages.
+      While it still requires the emplacing             May provide additional manpower and
+      platoon to stop laying and resupply, it           security if it is located near a company
+      minimizes the distance and time the               team.
+      platoon must travel to reload. This
+      requires that a small party be left at the  Disadvantages. The disadvantages to the
+      minefield to assist in picking up where     service-station resupply method are that it—
+      emplacement stopped.
+                                                        Requires additional loading and
+Advantages. The advantages to the service-              unloading of obstacle material.
+station resupply method are that it—                    May require augmentation with haul
+                                                        assets.
+      Allows for prestockage of obstacle mate-          Disrupts emplacement by requiring the
+      rial to keep pace with emplacement.               emplacing platoon to stop obstacle
+
+C-14 Obstacle Resourcing and Supply Operations
+
+
+---
+
+                                                                      FM 90-7
+Obstacle Resourcing and Supply Operations C-15
+
+
+---
+
+FM 90-7
+
+      emplacement, move to the supply point,    Two overriding considerations drive the
+      reload, and return to the minefield.      decision to use the tailgate resupply method:
+
+                          Tailgate                    If obstacle emplacement is being con-
+                                                      ducted during limited visibility, the
+The tailgate resupply method transports               tailgate method minimizes disruption
+obstacle material directly from the Class             of emplacement and chance of fratri-
+IV/Class V supply point to the emplacing              cide as engineers move back into a
+platoon on the site (see Figure C-9). Obstacle        work area after reloading.
+material is transported to the emplacing
+platoon using both TF and engineer haul               The tailgate method is used when
+assets. At the obstacle site, obstacle                establishing a hasty defense or when
+material is loaded onto emplacing vehicles or         the situation is unclear and an attack
+dispensers. This action is performed by               can happen at any time. Since obstacle
+emplacing engineers rather than a separate            material remains loaded until trans-
+party.                                                ferred to the emplacing vehicle, the
+                                                      tailgate method enables engineers to
+
+C-16 Obstacle Resourcing and Supply Operations
+
+
+---
+
+                                                 FM 90-7
+
+quickly break contact without risking a Disadvantages. The disadvantages to the
+loss of obstacle material to the enemy. tailgate resupply method are that it—
+
+The tailgate resupply method is the              Requires augmentation by high capac-
+
+      preferred method for light forces.         ity transportation assets capable of off-
+                                                 setting the loss in turn-around time if
+Advantages. The advantages to the tailgate       the vehicle has to wait on-station at the
+resupply method are that it—                     obstacle site.
+
+      Minimizes loading and unloading of         May result in inefficient use of haul
+      obstacle material.                         assets.
+      Allows engineers to rapidly break con-
+      tact, in the event of enemy attack, with-  Complicates C2 in linking up obstacle
+      out losing obstacle material to the        transport assets with emplacing engi-
+      enemy.                                     neers as the engineers continue
+                                                 emplacement.
+
+Minimizes the movement of platoons in            Requires that task organizing of obsta-
+                                                 cle packages and loading occur concur-
+and out of the obstacle (suitable for lim-       rently.
+ited visibility).
+
+                                     Obstacle Resourcing and Supply Operations C-17
+
+
+---
+
+                        FM 90-7
+
+              Glossary
+
+#     number
+
+AA    avenue of approach
+ACE   armored combat earthmover
+ACR   armored cavalry regiment
+AD    armored division
+AD    antitank ditch
+ADAM  area denial artillery munition – An artillery munition that contains
+      antipersonnel scatterable mines.
+AHD   antihandling device – A device designed to detonate a mine if the mine
+      is disturbed.
+AI    air interdiction
+ALO   air liaison officer
+AO    area of operation
+AP    antipersonnel
+ASP   ammunition storage point
+AT    antitank
+ATTN  attention
+ATP   ammunition transfer point
+
+BFV   Bradley fighting vehicle
+
+                        Glossary 1
+
+
+---
+
+FM 90-7     battle handover line
+            battlefield operating system
+ BHL        battle position
+ BOS
+ BP         command and control
+            close air support
+  C2        counterattack
+  CAS       combat engineer vehicle
+  CATK      coordinated fire line
+  CEV       corps materiel management center
+  CFL       company
+  CMMC      course of action
+  co        command post
+  COA       corps storage area
+  CP        combat service support
+  CSA       cubic
+  CSS
+  cu        Department of the Army
+            division ammunition officer
+  DA        deliberate attack
+  DAO       division materiel management center
+  DATK      Department of Defense identification code
+  DMMC
+  DODIC
+
+2 Glossary
+
+
+---
+
+         FM 90-7
+
+DP       decision point
+DPICM    dual-purpose improved conventional munition
+DST      decision support template
+DTG      date-time group
+
+EA       engagement area
+EBA      engineer battlefield assessment
+EW       electronic warfare
+
+FASCAM   family of scatterable mines
+FEBA     forward edge of the battle area
+FIST     fire-support team
+FLOT     forward line of own troops
+Flipper  The M138 Flipper is a manual dispenser capable of dispensing anti-
+         tank and antipersonnel scatterable mines. It can be mounted on a
+FM       variety of ground vehicles.
+FM       frequency modulated
+FO       field manual
+FPF      forward observer
+FSB      final protection fires
+FSCL     forward support battalion
+FSCOORD  fire-support coordination line
+         fire-support coordinator
+
+                                                                                                                   Glossary 3
+
+
+---
+
+FM 90-7     fire-support officer
+            foot, feet
+ FSO
+ ft         Assistant Chief of Staff, G2 (Intelligence)
+            Assistant Chief of Staff, G3 (Operations and Plans)
+ G2         A scatterable mine system delivered by Air Force and Navy tactical
+ G3         aircraft.
+ Gator      general defense plan
+            Ground-Emplaced, Mine-Scattering System
+ GDP        general-purpose barbed-tape obstacle
+ GEMSS      ground surveillance radar
+ GPBTO
+  GSR       hasty attack
+            high-mobility multipurpose wheeled vehicle
+ HATK       headquarters
+  HMMWV     high payoff target
+  HQ        hour(s)
+  HPT
+  hr        infantry division
+            infantry fighting vehicle
+  ID        irregular outer edge
+  IFV       intelligence preparation of the battlefield
+  IOE       joint air attack team
+  IPB
+  JAAT
+
+4 Glossary
+
+
+---
+
+km                                                                                                                    FM 90-7
+kph
+        kilometer(s)
+lb      kilometer(s) per hour
+LC
+LD      pound(s)
+LOC     line of contact
+LOGPAC  line of departure
+LP      lines of communication
+LRP     logistical package
+        listening post
+m       logistics release point
+MBA
+MC      meter(s)
+MCOO    main battle area
+MCS     mobility corridor
+METT-T  modified combined obstacle overlay
+MF      Maneuver Control System
+MHE     mission, enemy, troops, terrain, and time available
+MICLIC  minefield
+MO      materials handling equipment
+MOPMS   mine-clearing line charge
+        Missouri
+        Modular Pack Mine System – The M131 MOPMS is a man-portable,
+
+                                                                                                                  Glossary 5
+
+
+---
+
+FM 90-7     suitcase-shaped, scatterable mine dispenser capable of emplacing 17
+            antitank mines and 4 antipersonnel mines.
+ MOUT       military operations on urbanized terrain
+ MRD        motorized rifle division
+ M/S        mobility/survivability
+ MSR        main supply route
+ MTC        movement to contact
+
+ NA         not applicable
+ NAI        named area of interest
+ NBC        nuclear, biological, and chemical
+ NCO        noncommissioned officer
+ NFA        no-fire area
+ NLT        not later than
+ NSN        national stock number
+
+ obj        objective
+ OCOKA      observation and fire, cover and concealment, obstacles, key terrain,
+            and avenues of approach
+ OOTW       operations other than war
+ OP         observation post
+ OPLAN      operation plan
+ OPORD      operation order
+
+6 Glossary
+
+
+---
+
+                                                     FM 90-7
+
+OPSEC     operations security
+
+PDM       pursuit deterrent munition
+PH        platoon hour
+PL        phase line
+plt       platoon
+
+R&S       reconnaissance and surveillance
+RAAM
+          remote antiarmor mine – An artillery munition containing antitank
+RC        scatterable mines.
+req
+          road crater
+
+          required
+
+S2        Intelligence Officer (US Army)
+
+S3        Operations and Training Officer (US Army)
+
+S4        Supply Officer (US Army)
+
+SCATMINE  scatterable mine
+
+SCATMINWARN scatterable mine warning
+
+SD        self-destruct
+
+SFC       sergeant first class
+
+SITEMP    situation template
+
+SOP       standing operating procedure
+
+S&P       stake and platform
+
+                                                     Glossary 7
+
+
+---
+
+FM 90-7     Standardization Agreement
+            targeted area of interest
+ STANAG     traffic control post
+ TAI        Tactical Engineer Command and Control System
+ TCP        task force
+ TECCS      theater of operation
+ TF         tube-launched, optically-tracked, wire-guided antitank missiles
+ TO         US Army Training and Doctrine Command
+ TOW        target reference point
+ TRADOC     tactics, techniques, and procedures
+ TRP
+ TTP        United States
+ US         unexploded ordnance
+ UXO
+ Volcano    The multiple delivery mine system consisting of the M87 mine canis-
+            ter, the M139 dispenser, and specific vehicle mounting kits. The sys-
+ WAM        tem is capable of being dispensed from the air by a helicopter or from
+ wt         the ground from both tracked and wheeled vehicles. It includes both
+ XO         AT and AP mines.
+
+8 Glossary  wide area mine – An antitank mine that detects and acquires targets
+            then launches a submunition that attacks the top of the targets.
+            weight
+
+            executive officer
+
+
+---
+
+                           FM 90-7
+
+Object Symbols
+
+           Obstacle belts
+
+Obstacle zone
+
+Disrupt
+Turn
+Fix
+Block
+Generic obstacle
+
+                           Glossary 9
+
+
+---
+
+FM 90-7
+
+             Prepared demolition state 2
+
+             Prepared bridge demolition state 2
+
+             Executed or fired demolition reinforced with
+             antitank mines
+
+             Future or projected scatterable minefield
+
+10 Glossary
+
+
+---
+
+                                                                                                    FM 90-7
+
+                      References
+
+SOURCES USED
+
+These are the sources quoted or paraphrased in this publication.
+
+International Standardization Agreements (STANAG)
+STANAG 2017. Orders to the Demolition Guard Commander and Demolition Firing Party
+
+ Commander (Non-Nuclear) Edition 3, 10 July 1981, amendment Edition 5, 29 April 1988.
+STANAG 2366. Stopping Power of Land Minefield, 15 June 1993.
+
+Army Publications
+
+Field Manuals (FMs)
+FM 5–34. Engineer Field Data. 14 September 1987.
+FM 5–71–100. Division Engineer Combat Operations. 22 April 1993.
+FM 5-100. Engineer Combat Operations. 22 November 1988.
+FM 5–102. Countermobility. 14 March 1985.
+FM 5–114. Engineer Operations Short of War. 13 July 1992.
+FM 5–250. Explosives and Demolitions. 15 June 1992.
+FM 6-20. Fire Support in the AirLand Battle. 17 May 1988.
+FM 6-20-1. Tactics, Techniques, and Procedures for the Field Artillery Cannon Battalion.
+
+ 29 November 1990.
+FM 6-20-2. Tactics, Techniques, and Procedures for Corps Artillery, Division Artillery, and
+ Field Artillery Brigade Headquarters.7 January 1993.
+FM 6-20-10. Tactics, Techniques, and Procedures for the Targeting Process. 29 March 1990.
+FM 6-20-20. Tactics, Techniques, and Procedures for Fire Support at Battalion, Task Force,
+ and Below. 27 December 1991.
+FM 6-20-30. Tactics, Techniques, and Procedures for Fire Support for Corps and Division
+
+ Operations. 18 October 1989.
+FM 6-20-40. Tactics, Techniques, and Procedures for Fire Support for Brigade Operations
+
+ (Heavy). 5 January 1990.
+FM 6-20-50. Tactics, Techniques, and Procedures for Fire Support for Brigade Operations
+ (Light). 5 January 1990.
+FM 20–32. Mine/Countermine Operation 30 September 1992.
+FM 34–1. Intelligence and Electronic Warfare Operations. 2 July 1987.
+FM 34–10. Division Intelligence and Electronic Warfare Operations. 25 November 1986.
+FM 34–130, Intelligence Reparation of the Battlefield. 23 May 1989.
+FM 71–2. The Tank and Mechanized Infantry Battalion Task Force, 27 September 1988.
+FM 71–3. Armored and Mechanized Infantry Brigade. 11 May 1988.
+
+                                                                                               References 1
+
+
+---
+
+FM 90-7
+FM 71-100. Division Operations. 16 June 1990.
+FM 90–13-1. Combined Arms Breaching Operations. 28 Feb 1991 (Change 1, May 1993).
+FM 100–5. Operations. 14 June 1993.
+FM 100-7. The Army in Theater Operations. To be published within 6 months.
+FM 101–5. Staff Organization and Operations. 25 May 1984.
+DOCUMENTS NEEDED
+These documents must be available to the intended users of this publication.
+Department of the Army (DA) Forms
+DA Form 1355. Minefield Record. March 1987.
+DA Form 1355–1–R. Hasty Protective Minefield Record (LRA). July 1975.
+DA Form 2028, Recommended Changes to Publications and Blank Forms. February 1974.
+
+2 References
+
+
+---
+
+       FM 90-7
+
+Index
+
+       Index 1
+
+
+---
+
+FM 90-7
+2 Index
+
+
+---
+
+FM 90-7
+Index 3
+
+
+---
+
+FM 90-7
+4 Index
+
+
+---
+
+FM 90-7
+Index 5
+
+
+---
+
+FM 90-7
+6 Index
+
+
+---
+
+FM 90-7
+Index 7
+
+
+---
+
+FM 90-7
+8 Index
+
+
+---
+
+                                                                                     FM 90-7
+                                                                    29 SEPTEMBER 1994
+
+By Order of the Secretary of the Army:      GORDON R. SULLIVAN
+                                          General, United States Army
+Official:
+ MILTON H. HAMILTON                               Chief of Staff
+
+Administrative Assistant to the
+    Secretary of the Army
+
+                                   07239
+
+DISTRIBUTION:
+
+Active Army, USAR, and ARNG: To be distributed in accordance with DA Form
+12-11 E, requirements for FM 90-7, Combined Arms Obstacle Integration (Qty rqr.
+block no. 5197)
+
+6 U.S. GOVERNMENT PRINTING OFFICE: 1994 — 5 2 8 - 0 2 7 /2 0 0 2 7
+
+
+---
+
+PIN: 073038-001
+
+
+--- 

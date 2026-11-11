@@ -1,0 +1,3941 @@
+# jp_1-04_undated  Joint Publication 1-04
+
+   ENT OF TH
+ M E HIS W E' L L D
+T EFEND
+• DEPAR
+                                              T
+
+                             ME
+                                RI CA
+                             ARMY •
+U NITED
+S TAT E S OF A
+
+   Legal Support to Military
+             Operations
+
+                                                 02 August 2016
+
+
+---
+
+
+
+---
+
+                                        PREFACE
+
+1. Scope
+
+     This publication provides joint doctrine to plan, prepare, and execute legal support to
+joint operations.
+
+2. Purpose
+
+     This publication has been prepared under the direction of the Chairman of the Joint
+Chiefs of Staff (CJCS). It sets forth joint doctrine to govern the activities and performance
+of the Armed Forces of the United States in joint operations, and it provides considerations
+for military interaction with governmental and nongovernmental agencies, multinational
+forces, and other interorganizational partners. It provides military guidance for the exercise
+of authority by combatant commanders and other joint force commanders (JFCs), and
+prescribes joint doctrine for operations and training. It provides military guidance for use by
+the Armed Forces in preparing and executing their plans and orders. It is not the intent of
+this publication to restrict the authority of the JFC from organizing the force and executing
+the mission in a manner the JFC deems most appropriate to ensure unity of effort in the
+accomplishment of objectives.
+
+3. Application
+
+     a. Joint doctrine established in this publication applies to the Joint Staff, commanders of
+combatant commands, subunified commands, joint task forces, subordinate components of
+these commands, the Services, and combat support agencies.
+
+     b. The guidance in this publication is authoritative; as such, this doctrine will be
+followed except when, in the judgment of the commander, exceptional circumstances dictate
+otherwise. If conflicts arise between the contents of this publication and the contents of
+Service publications, this publication will take precedence unless the CJCS, normally in
+coordination with the other members of the Joint Chiefs of Staff, has provided more current
+and specific guidance. Commanders of forces operating as part of a multinational (alliance
+or coalition) military command should follow multinational doctrine and procedures ratified
+by the United States. For doctrine and procedures not ratified by the US, commanders
+should evaluate and follow the multinational command’s doctrine and procedures, where
+applicable and consistent with US law, regulations, and doctrine.
+
+                                                     For the Chairman of the Joint Chiefs of Staff:
+
+                                                               KEVIN D. SCOTT
+                                                               Vice Admiral, USN
+                                                               Director, Joint Force Development
+
+                                                                                                            i
+
+
+---
+
+Preface
+                                          Intentionally Blank
+
+ii                                                             JP 1-04
+
+
+---
+
+                         SUMMARY OF CHANGES
+
+                    REVISION OF JOINT PUBLICATION 1-04
+                                DATED 17 AUGUST 2011
+
+• Modifies the scope statement to address overall joint legal support structure and
+    integration at the Joint Staff, combatant commander, and joint task force levels.
+
+• Replaces “domestic operations” with “defense support of civil authorities
+    (DSCA).”
+
+• Adds depth to the joint legal support role in DSCA.
+• Adds civilian casualty report tracking as a key role under DSCA.
+• Clarifies the role of the judge advocate general for the respective Services and
+
+    departments.
+• Clarifies the role of the Department of Defense General Counsel.
+• Expands rule of engagement discussion by reviewing and enhancing advice on
+
+    the law of war (often called law of armed conflict).
+
+                                                                                                      iii
+
+
+---
+
+Summary of Changes
+                                          Intentionally Blank
+
+iv                                                             JP 1-04
+
+
+---
+
+                               TABLE OF CONTENTS
+
+                                                                                                     PAGE
+
+EXECUTIVE SUMMARY ............................................................................................ vii
+
+CHAPTER I
+     LEGAL ORGANIZATIONS, MISSIONS, AND FUNCTIONS
+
+• Introduction .............................................................................................................. I-1
+• General Counsel of the Department of Defense ...................................................... I-1
+• General Counsel of Combat Support Agencies ....................................................... I-3
+• Legal Counsel, Office of the Chairman of the Joint Chiefs of Staff ....................... I-3
+• Military Departments, United States Coast Guard, and National Guard Bureau ..... I-4
+• Joint Force Staff Judge Advocate ............................................................................. I-7
+
+CHAPTER II
+     LEGAL SUPPORT TO JOINT OPERATION PLANNING
+
+• Introduction ............................................................................................................. II-1
+• Law of War Principles ............................................................................................ II-2
+• Legal Support to Strategic-Level Planning.............................................................. II-3
+• Legal Support to Operational-Level Planning ......................................................... II-6
+
+CHAPTER III
+     LEGAL SUPPORT TO THE JOINT TASK FORCE
+
+• Introduction ........................................................................................................... III-1
+• Legal Support in the Joint Task Force Battle Rhythm ......................................... III-1
+• Forming the Joint Task Force Staff Judge Advocate Section ............................... III-4
+• Joint Task Force Staff Judge Advocate Manning ................................................. III-6
+• Joint Staff Judge Advocate Training ..................................................................... III-9
+• Equipping the Joint Task Force Staff Judge Advocate........................................ III-13
+• Deployment.......................................................................................................... III-14
+• Employment......................................................................................................... III-15
+• Transition ............................................................................................................. III-16
+• Redeployment ...................................................................................................... III-16
+• Lessons Learned .................................................................................................. III-17
+
+APPENDIX
+
+     A Notional Staff Judge Advocate Section .......................................................... A-1
+     B References ........................................................................................................ B-1
+     C Administrative Instructions ............................................................................. C-1
+
+                                                                                                           v
+
+
+---
+
+Table of Contents
+
+GLOSSARY
+
+     Part I Abbreviations and Acronyms ................................................................ GL-1
+     Part II Terms and Definitions ........................................................................... GL-3
+
+FIGURE
+
+     I-1 Notional Relationships of Department of Defense
+                Legal Organizations Supporting Military Operations ............................... I-2
+
+     I-2 Typical Joint Force Staff Organization ...................................................... I-8
+     I-3 Combatant Command Legal Supervisory Responsibilities for
+
+                Theater Special Operations Commands ................................................... I-11
+     I-4 Joint Force Staff Judge Advocate’s Duties and Responsibilities ............. I-13
+     II-1 National Security Council System Duties and Responsibilities................ II-4
+     II-2 Planning, Programming, Budgeting, and Execution Duties
+
+                and Responsibilities................................................................................... II-5
+     II-3 Joint Strategic Planning System Duties and Responsibilities ................... II-7
+     II-4 Adaptive Planning and Execution System Deliberate
+
+                Planning Duties and Responsibilities ........................................................ II-8
+     II-5 Adaptive Planning and Execution System Crisis Action
+
+                Planning Duties and Responsibilities ...................................................... II-10
+     II-6 Mission Analysis ..................................................................................... II-12
+     II-7 Course of Action Development ............................................................... II-13
+     II-8 Course of Action Analysis (Wargaming)/Comparison/Selection ........... II-14
+     II-9 Prepare Operation Order and Time-Phased Force
+
+                and Deployment Data/Issue Synchronized Operation Order .................. II-15
+     III-1 Joint Task Force Life Cycle Reality........................................................ III-2
+     III-2 Notional Joint Task Force Staff Judge Advocate Section ........................ III-7
+     III-3 Notional Joint Judge Advocate Crisis Action Response Cell ................. III-9
+     III-4 Skills Sets for the Joint Task Force Judge Advocate ............................ III-10
+     III-5 Competencies for Joint Task Force Staff Judge Advocate
+
+                Section Members .................................................................................... III-12
+     A-1 Notional Staff Judge Advocate Section Equipment List.......................... A-2
+     A-2 Notional Staff Judge Advocate Section Capabilities List ........................ A-3
+
+vi  JP 1-04
+
+
+---
+
+                          EXECUTIVE SUMMARY
+
+                             COMMANDER’S OVERVIEW
+
+• Describes Legal Organizations, Missions, and Functions
+• Explains Legal Support to Joint Operation Planning
+• Discusses Legal Support to the Joint Task Force
+
+Legal Organizations, Missions, and Functions
+
+Legal organizations within the           To achieve unity of effort, both the joint force
+Department of Defense (DOD) that         commander (JFC) and the joint force staff judge
+support joint operations perform a       advocate (SJA) should have a common
+wide variety of tasks at the strategic,  understanding of who is responsible for
+operational, and tactical levels of      performing which legal tasks at each level of
+warfare.                                 military operations and how those tasks are
+                                         performed.
+
+DOD General Counsel (GC)                 The General Counsel (GC) of the Department of
+                                         Defense (DOD) provides legal advice to the
+                                         Secretary of Defense (SecDef) and Deputy
+                                         Secretary of Defense on all legal matters and
+                                         services performed within, or involving, DOD.
+                                         The DOD GC oversees all DOD legal services;
+                                         establishes policy for and oversees the DOD
+                                         Standards of Conduct Program; establishes DOD
+                                         policy and positions on specific legal issues; and
+                                         advises on international law issues, including
+                                         those raised in major military operations, the
+                                         DOD Law of War Program, and legality of
+                                         weapons reviews. The DOD GC oversees the
+                                         GCs of all DOD agencies and combat support
+                                         agencies.
+
+GC of Combat Support Agencies            There are eight combat support agencies (CSAs):
+                                         the Defense Intelligence Agency, the Defense
+                                         Information Systems Agency, the Defense
+                                         Contract Management Agency, the Defense
+                                         Logistics Agency, the National Geospatial-
+                                         Intelligence Agency, the National Security
+                                         Agency, the Defense Threat Reduction Agency,
+                                         and the Defense Health Agency. Each of these
+                                         CSAs is supported by a GC, and combatant
+                                         command (CCMD) and other joint force SJAs,
+
+                                                          vii
+
+
+---
+
+Executive Summary
+
+                                       when appropriate to provide competent legal
+                                       advice to the combatant commander (CCDR) or
+                                       JFC, may coordinate with GCs of the CSAs when
+                                       additional subject matter expertise is needed in a
+                                       specific combat support functional area.
+
+Legal Counsel, Office of the           The legal counsel (LC) advises the Chairman of
+Chairman of the Joint Chiefs of Staff
+                                       the Joint Chiefs of Staff (CJCS), Vice CJCS,
+
+                                       joint directors, and Joint Staff on the full
+
+                                       spectrum of legal issues. As directed by CJCS,
+
+                                       the LC represents the CJCS in the US
+
+                                       interagency process, and in coordination with the
+
+                                       respective geographic CCDR’s SJA, in
+
+                                       discussions and negotiations with foreign
+
+                                       governments     and    nongovernmental
+
+                                       organizations.
+
+Military Departments, United States    The GCs of the Military Departments, the judge
+Coast Guard, and National Guard        advocates general (TJAGs), the SJA to the
+Bureau                                 Commandant of the Marine Corps (CMC), and
+                                       judge advocates (JAs) of the Services provide
+                                       advice to the Secretaries of the Military
+                                       Departments and Chiefs of the Services as they
+                                       carry out their Title 10, United States Code,
+                                       responsibilities to organize, train, and equip US
+                                       military forces.
+
+Joint Force Staff Judge Advocate       The joint force SJA (also titled the JA or
+(SJA)                                  command JA) is the principal legal advisor to the
+                                       JFC and a key member of a JFC’s personal staff.
+                                       In most cases, the joint force SJA is the principal
+                                       legal advisor to the commander, deputy
+                                       commander, and chief of staff, as well as any
+                                       Service Element Commanding Officers, and
+                                       coordinates as necessary with the legal staff of
+                                       the other CCMDs. The joint force SJA reports
+                                       directly to the JFC.
+
+                   Legal Support to Joint Operation Planning
+
+                                       Legal advisors actively participate in the entire
+                                       planning process from joint intelligence
+                                       preparation of the operational environment
+                                       development, to mission analysis, to course of
+                                       action (COA) development and recommendation,
+                                       through execution. Legal advisors assist decision
+                                       makers at every echelon in translating policy
+
+viii                                                          JP 1-04
+
+
+---
+
+Law of War Principles                                                Executive Summary
+
+Legal Support to Strategic-Level    decisions into legally acceptable plans and orders
+Planning                            that support national security objectives. For
+                                    defense support of civil authorities, SecDef may
+Legal Support to Operational-Level  direct the supported CCMD (US Northern
+Planning                            Command or US Pacific Command) to provide
+                                    forces to support another lead federal agency,
+                                    which in turn may be supporting state and local
+                                    governments or agencies.
+
+                                    The law of war regulates the conduct of states
+                                    and combatants engaged in armed conflict
+                                    hostilities and is often referred to as the law of
+                                    armed conflict. It is DOD policy that US forces
+                                    follow the law of war in all military operations.
+                                    Therefore, legal advisors help ensure that the JFC
+                                    and staff consider law of war principles during
+                                    the planning process for all joint military
+                                    operations, and particularly during planning for
+                                    combat operations. Some of the key law of war
+                                    principles to be considered during the planning
+                                    process are military necessity, humanity,
+                                    distinction, and proportionality.
+
+                                    The strategic-level planning processes within the
+                                    National Security Council System; the Planning,
+                                    Programming, Budgeting, and Execution process;
+                                    the Joint Strategic Planning System; and
+                                    Adaptive Planning and Execution system take
+                                    place primarily between the President and/or
+                                    SecDef, the CJCS, and the CCDRs. Their legal
+                                    advisors—the DOD GC, the LC, and the
+                                    CCDRs’ SJAs—plan and coordinate DOD-wide
+                                    and theater-level legal support for the full range
+                                    of planning activities including mobilization,
+                                    deployment, employment, sustainment,
+                                    redeployment, and demobilization of forces.
+
+                                    At the operational level, the supported CCDR
+                                    may retain planning responsibility or delegate
+                                    planning responsibility to a subordinate JFC,
+                                    typically the commander, joint task force (CJTF),
+                                    or a Service component commander. Throughout
+                                    the operational planning process, the joint force
+                                    SJA prepares the legal estimate and provides the
+                                    commander, staff, and appropriate planning
+                                    boards, centers, and cells with advice and
+                                    recommendations regarding legal issues that
+
+                                    ix
+
+
+---
+
+Executive Summary
+
+                                       impact all aspects of the operation. The SJA
+                                       reviews and monitors legal aspects of potential
+                                       COAs and evaluates the potential legal
+                                       consequences resulting from primary and
+                                       secondary effects. The SJA must not only
+                                       consider the law of war principles of military
+                                       necessity, unnecessary suffering, distinction, and
+                                       proportionality, but must also consider, among
+                                       other disciplines, international law, fiscal law,
+                                       and government contract law during planning.
+
+                   Legal Support to the Joint Task Force
+
+Legal Support in the Joint Task Force  The battle rhythm is a primary factor that drives
+(JTF) Battle Rhythm                    the legal support requirements for the joint task
+                                       force (JTF) headquarters (HQ) including support
+                                       to the cross functional staff organizations that
+                                       plan and execute the JTF mission. An effective
+                                       JTF SJA understands the JTF battle rhythm, as
+                                       well as the collaborative information
+                                       environment (CIE), and actively provides legal
+                                       advice and counsel to the cross functional staff
+                                       organizations of the JTF. In addition to the direct
+                                       support provided to the cross functional staff
+                                       organizations, the JTF SJA is prepared, either
+                                       directly or through the CIE, to provide legal
+                                       support to the CJTF and staff across the legal
+                                       functional areas.
+
+Forming the JTF SJA Section            Because JTFs are established in a variety of
+                                       different ways and for diverse missions, it is
+                                       important for a JTF SJA to understand fully the
+                                       legal support requirements of the particular JTF
+                                       and how those requirements may change over
+                                       time. Unlike Service component SJAs, who are
+                                       responsible for their respective Service legal
+                                       organizations, the JTF SJA integrates and
+                                       synchronizes the wide range of legal capabilities
+                                       available throughout the JTF. The JTF SJA
+                                       should be familiar with the unique legal
+                                       capabilities and limitations of the component
+                                       forces and understand how best to employ them
+                                       to support the CJTF’s concept of operations.
+
+JTF SJA Manning                        The JTF SJA develops the personnel
+                                       requirements for the SJA section and submits
+                                       them to the manpower and personnel directorate
+
+x                                                         JP 1-04
+
+
+---
+
+Joint SJA Training                                      Executive Summary
+Equipping the JTF SJA
+Deployment             for inclusion in the CJTF’s proposed joint
+                       manning document. Although there is variability
+                       in staffing requirements for each JTF, a typical
+                       JTF must be capable of operating on a 24-hour
+                       battle rhythm. This notional JTF SJA section,
+                       organized into three subsections—operational
+                       law, legal services, and administration.
+
+                       There are two components of joint SJA
+                       training—individual and organizational. To
+                       ensure that the JTF SJA section can provide
+                       adequate legal support to the JTF, the SJA and
+                       TJAGs of the Services and SJA to CMC must
+                       ensure that assigned or attached personnel have
+                       the requisite individual training. All members of
+                       the JTF SJA section should be trained in three
+                       areas: legal, joint, and tactical. The JTF SJAs
+                       organizational training responsibilities fall into
+                       two categories: SJA section training and CJTF
+                       and staff training.
+
+                       A key component of the legal support to the JTF
+                       is the development of the equipment and logistic
+                       requirements for the JTF SJA section. The
+                       mission, environment, composition of the joint
+                       force, size of the SJA section, JTF battle rhythm,
+                       and location of the section personnel supporting
+                       the boards, centers, and cells, are key factors
+                       affecting the equipment requirements. Individual
+                       and section research capability requirements, as
+                       well as the necessity for SJA section participation
+                       in the CIE should be considered to help
+                       determine equipment requirements.
+
+                       Deployment marks the beginning of the
+                       execution phase of the operation. Prior to a main
+                       body deployment, the JTF SJA researches and
+                       determines what legal authorities are in place and
+                       what legal authorities are necessary or desired to
+                       support the JTF mission. Authorities regarding
+                       the status, overflight, and ground transit of forces
+                       are usually most critical at this stage. The CJTF
+                       and higher HQ must be alerted to any legal
+                       deficiencies as soon as possible to allow them to
+                       coordinate and address the deficiency.
+
+                                                                              xi
+
+
+---
+
+Executive Summary        Modern military operations take place in an
+Employment               increasingly complex geo-political environment.
+                         Stability operations, foreign humanitarian
+Transition               assistance operations, and civil-military
+                         operations present increased requirements for
+Redeployment             direct legal support to the JFC. A member of the
+                         JFC’s personal staff, the JTF SJA is an essential
+                         advisor on myriad of legal issues associated with
+                         combat and noncombat operations.
+
+                         The JTF SJA is responsible for transitioning legal
+                         support responsibilities to follow-on forces.
+                         Transition may occur between the JTF and
+                         another US command, a foreign command (e.g.,
+                         host nation or United Nations forces), or an
+                         organization under civilian control. Both
+                         organizations must prepare for and coordinate the
+                         transition to facilitate an orderly transfer of
+                         authority and responsibility.
+
+                         As the JTF’s mission ends, the JTF may require
+                         more legal support rather than less (e.g., to
+                         oversee “wrap-up” legal activities including
+                         contracts, claims settlement, property
+                         accountability, and any remaining good order and
+                         discipline issues). The JTF SJA monitors the
+                         current situation in light of the JTF commander’s
+                         intent and guidance and adjusts the section’s
+                         manning and individual responsibilities
+                         accordingly.
+
+                   CONCLUSION
+
+                         This publication provides joint doctrine to plan,
+                         prepare, and execute legal support to joint
+                         operations.
+
+xii                JP 1-04
+
+
+---
+
+                                       CHAPTER I
+
+              LEGAL ORGANIZATIONS, MISSIONS, AND FUNCTIONS
+
+     “It is also clear from the commanders who testified that legal advice is essential to
+     effective combat operations in the current environment—legal advice is now part of
+     the tooth not the tail.”
+
+       Section 574, 2005 National Defense Authorization Act, Independent Review Panel
+            to Study the Relationship between Military Department General Counsels and
+                                                                                      Judge Advocates General
+                                                                                                15 September 2005
+
+1. Introduction
+
+     Legal organizations within the Department of Defense (DOD) that support joint
+operations perform a wide variety of tasks at the strategic, operational, and tactical levels of
+warfare. Although each legal organization may possess similar functional capabilities (e.g.,
+international and operational law advice, fiscal and contract law reviews, the provision of
+claims, criminal law, and legal assistance services), the specific tasks performed within each
+of those functional capabilities differ in purpose and scope depending on the level of military
+operations and the organization performing them. To achieve unity of effort, both the joint
+force commander (JFC) and the joint force staff judge advocate (SJA) should have a
+common understanding of who is responsible for performing which legal tasks at each level
+of military operations and how those tasks are performed. This chapter describes the
+functions, duties, and responsibilities of the legal organizations within DOD that directly
+support joint military operations. Figure I-1 depicts the broad relationships of DOD legal
+organizations to the levels of military operations.
+
+2. General Counsel of the Department of Defense
+
+     a. Established by Title 10, United States Code (USC), Section 140, the General Counsel
+(GC) of DOD is a civilian appointed by the President, with the advice and consent of the
+Senate, who serves as the chief legal officer of DOD. The DOD GC provides legal advice to
+the Secretary of Defense (SecDef) and Deputy Secretary of Defense on all legal matters and
+services performed within, or involving, DOD. The DOD GC oversees all DOD legal
+services; establishes policy for and oversees the DOD Standards of Conduct Program;
+establishes DOD policy and positions on specific legal issues; and advises on international
+law issues, including those raised in major military operations, the DOD Law of War
+Program, and legality of weapons reviews.
+
+     b. The DOD GC coordinates among DOD components and between DOD and other
+United States Government (USG) departments and agencies on issues ranging from mergers
+and acquisitions involving defense suppliers to significant litigation in which the Department
+of Justice represents DOD interests. The DOD GC is lead counsel in international
+negotiations conducted by DOD and maintains the central repository for all DOD-negotiated
+international agreements. The DOD GC serves as the Director of the Defense Legal Services
+Agency and, on an informal basis, participates in interagency working groups as necessary to
+
+                                                                                                         I-1
+
+
+---
+
+Chapter I
+
+Notional Relationships of Department of Defense
+Legal Organizations Supporting Military Operations
+
+      Department of Defense        Strategic  Operational  Tactical
+         Legal Organizations
+                                        X            X         X
+     Department of Defense              X            X         X
+     General Counsel                    X            X         X
+                                                     X
+     Chairman of the Joint Chiefs       X            X
+     of Staff’s Legal Counsel           X
+                                        X
+     General Counsel of Military
+     Departments, Judge Advocate
+     General of the Services, and
+     the Staff Judge Advocate to
+     the Commandant of the US
+     Marine Corps
+
+     Combatant Commander’s
+     Staff Judge Advocate
+     (Geographic)
+
+     Combatant Commander’s
+     Staff Judge Advocate
+     (Functional)
+
+     Subordinate Unified
+     Command Staff Judge
+     Advocate
+
+     Service Component
+     Staff Judge Advocate
+
+     Joint Task Force
+     Staff Judge Advocate
+
+     Functional Component
+     Staff Judge Advocate
+
+       Figure I-1. Notional Relationships of Department of Defense Legal Organizations
+                                           Supporting Military Operations
+
+address legal matters affecting more than one department/agency of the USG. The DOD GC
+also provides a senior representative to the Personnel Recovery Action Group.
+
+     c. The DOD GC issues DOD instructions and other DOD publications that implement
+policies approved by SecDef in the functions assigned to the GC. The DOD GC oversees the
+GCs of all DOD agencies and combat support agencies (CSAs). The DOD GC
+
+I-2                                                        JP 1-04
+
+
+---
+
+                                                     Legal Organizations, Missions, and Functions
+
+communicates directly with the heads of the DOD components, other USG departments and
+agencies, representatives of the legislative branch, and members of the public to carry out
+assigned functions. Communication with the combatant commanders (CCDRs) is
+transmitted through the Chairman of the Joint Chiefs of Staff (CJCS) unless otherwise
+directed by the President or SecDef.
+
+3. General Counsel of Combat Support Agencies
+
+     There are 20 DOD agencies and eight DOD field activities that operate under the
+authority, direction, and control of SecDef. These organizations provide support and
+services in specified functional areas to the combatant commands (CCMDs) and the rest of
+DOD. DOD agencies perform selected support and service functions on a DOD-wide basis.
+DOD agencies that are assigned wartime support missions are designated as CSAs. Each of
+the CSAs are supported by a GC. When appropriate, the CCDR or the JFC may coordinate
+with the GCs of the CSAs to provide competent legal advice when additional subject matter
+expertise is needed in a specific combat support functional area. DOD field activities
+perform support and service functions of a more limited scope than DOD agencies.
+
+For additional detailed guidance, see Department of Defense Directive (DODD)
+3000.06, Combat Support Agencies (CSAs).
+
+4. Legal Counsel, Office of the Chairman of the Joint Chiefs of Staff
+
+     a. Title 10, USC, Section 156 establishes the position of the legal counsel (LC) to the
+CJCS. The officer selected for appointment to serve as LC to the CJCS is recommended by
+a board of officers convened by SecDef and is appointed by the President from eligible
+officers of the Services, with the advice and consent of the Senate. The LC is appointed in
+the regular grade of brigadier general or rear admiral (lower half), as appropriate. The LC
+advises the CJCS, Vice CJCS, joint directors, and Joint Staff on the full spectrum of legal
+issues. No officer or employee of DOD may interfere with the ability of the LC to provide
+independent legal advice to the CJCS and to the Joint Chiefs of Staff. Given the CJCS role
+as spokesman for the CCDRs, the LC frequently advises and assists the CCDRs’ legal staffs.
+As directed by CJCS, the LC represents the CJCS in the US interagency process, and in
+coordination with the respective geographic CCDR’s SJA, in discussions and negotiations
+with foreign governments and nongovernmental organizations (NGOs).
+
+     b. The LC’s office is staffed with judge advocates (JAs) from each Service and a small
+number of senior civilian attorneys. The areas of practice are varied but are heavily
+weighted in the areas of operational and international law. Within those areas, the LC is
+responsible for the following:
+
+          (1) Review and advise on:
+
+                (a) The law of war (also called law of armed conflict);
+
+                (b) Rules of engagement (ROE) and the rules for the use of force (RUF);
+
+                (c) Deployment orders and command relationships for military operations;
+
+                                                                                                         I-3
+
+
+---
+
+Chapter I
+
+                (d) Information operations, cyberspace operations, special operations, and
+counterdrug operations;
+
+                (e) Rule of law;
+
+                (f) Critical infrastructure protection;
+
+                (g) Combating terrorism, force protection, personnel recovery (PR), and
+detainee operations; and
+
+                (h) Intelligence law and oversight.
+
+          (2) Review operation plans and operation plans in concept format for legal
+sufficiency and accuracy; draft and coordinate required notifications, including reports
+required by the War Powers Resolution; and review joint doctrine, military-to-military
+contacts, and CJCS exercise programs.
+
+          (3) Provide counsel and negotiating support for treaties and international
+agreements, including agreements on status of forces, basing and defense cooperation, arms
+control, acquisition and cross-servicing, information security, information release, and
+personnel and unit exchanges.
+
+          (4) Render advice on pending legislation affecting joint operations and
+congressional testimony of the CJCS and Vice CJCS, joint directors, and CCDRs.
+
+          (5) Review legality of weapons evaluations as member of the DOD Arms Control
+Compliance Review Group; address chemical, biological, radiological, nuclear, and high-
+yield explosives weapons issues.
+
+          (6) Other areas of practice include fiscal law and contract law; law of the sea and
+oceans policy; air and space law; military justice; administrative law; standards of conduct;
+litigation coordination; joint personnel; environmental law; Freedom of Information Act and
+Privacy Act; defense support of civil authorities; chemical, biological, radiological, and
+nuclear response missions; and security and policy reviews.
+
+See Joint Publication (JP) 3-28, Defense Support of Civil Authorities; JP 3-27, Homeland
+Defense; JP 3-12 (S), Cyberspace Operations; and JP 3-08, Interorganizational Cooperation,
+for more detailed guidance.
+
+5. Military Departments, United States Coast Guard, and National Guard Bureau
+
+     The GCs of the Military Departments, the judge advocates general (TJAGs), the SJA to
+the Commandant of the Marine Corps (CMC), and JAs of the Services provide advice to the
+Secretaries of the Military Departments and Chiefs of the Services as they carry out their
+Title 10, USC, responsibilities to organize, train, and equip US military forces. Although the
+Military Departments are not part of the operational chain of command for joint US military
+operations, their GCs, TJAGs, the SJA to CMC, and other JAs can provide joint force SJAs
+with significant reach back capabilities and expertise in international and operational law.
+
+I-4  JP 1-04
+
+
+---
+
+                                                     Legal Organizations, Missions, and Functions
+
+TJAGs/SJA to CMC/JAs also have statutory authority to supervise the administration of
+military justice within the Services.
+
+     a. GC, Department of the Army (DA). Title 10, USC, Section 3019 establishes the
+position of GC of the DA. The GC, DA, is a civilian appointed by the President, by and with
+the advice and consent of the Senate. The GC, DA, is the chief legal officer of the Army
+who serves as LC to the Secretary of the Army, Under Secretary of the Army, five assistant
+secretaries, and other members of the Army Secretariat. The GC, DA, also exercises
+technical supervision over the Office of TJAG, the Office of the Command Counsel, Army
+Materiel Command, and the Office of the Chief Counsel, Corps of Engineers.
+
+     b. TJAG of the Army. Title 10, USC, Section 3037 establishes the position of TJAG
+of the Army. TJAG is appointed by the President, by and with the advice and consent of the
+Senate, from officers of the Judge Advocate General (JAG) Corps, who are recommended by
+the Secretary of the Army. TJAG is appointed in the regular grade of no less than lieutenant
+general. TJAG provides independent legal advice to the Secretary of the Army and members
+of the Secretariat in coordination with the Army GC, and directly to the Chief of Staff, US
+Army, and members of the Army Staff. In addition to other duties prescribed by law, policy,
+and regulation, TJAG is responsible for the technical supervision of members of the Army
+JAG Corps in the performance of their duties. No officer or employee of the DOD may
+interfere with the ability of TJAG to provide independent legal advice to the Secretary of the
+Army or Chief of Staff of the Army. TJAG also receives, revises, and records the
+proceedings of courts of inquiry and military commissions, as well as performing the
+functions and duties and exercising the powers prescribed under Title 10, USC, Chapter 47,
+Uniform Code of Military Justice. Additionally, TJAG conducts legal engagements with
+senior military leaders and legal advisors from other nations as required is support of DOD,
+geographic CCMD, and Army security cooperation activities. TJAG, in coordination with
+the respective CCMD SJA, conducts legal discussions with senior military leaders and legal
+advisors from other nations as required in support of DOD, geographic combatant
+commander (GCC), and Army security cooperation objectives.
+
+     c. GC, Department of the Navy (DON). Title 10, USC, Section 5019 establishes the
+position of GC of the DON. The GC, DON, is a civilian appointed by the President, by and
+with the advice and consent of the Senate. The GC, DON, is the principal legal advisor to
+the Secretary of the Navy and performs such functions as the Secretary of the Navy may
+prescribe.
+
+     d. TJAG of the Navy. Title 10, USC, Section 5148 establishes the position of TJAG of
+the Navy. TJAG is appointed by the President, by and with the advice and consent of the
+Senate, from JAs of the Navy or the Marine Corps, who are recommended by the Secretary
+of the Navy. TJAG is appointed in the regular grade of no less than vice admiral or
+lieutenant general, as appropriate. In addition to other duties prescribed by law, TJAG,
+under the direction of the Secretary of the Navy:
+
+          (1) Performs duties relating to legal matters arising in the DON and such other
+duties as may be assigned;
+
+                                                                                                         I-5
+
+
+---
+
+Chapter I
+
+          (2) Performs the functions and duties and exercises the powers prescribed for
+TJAG in Title 10, USC, Chapter 47, Uniform Code of Military Justice;
+
+          (3) Receives, revises, and has recorded the proceedings of boards for the
+examination of officers of the naval Service for promotion and retirement; and
+
+          (4) Conducts legal discussions, in coordination with the respective CCMD SJA,
+with senior military leaders and legal advisors from other nations as required in support of
+DOD, geographic CCMD, and Navy security cooperation objectives.
+
+     e. Counsel for the CMC. The Counsel for the CMC provides to the CMC all legal
+services that the Navy GC provides to the Navy. The Counsel for the CMC is appointed by
+the Secretary of the Navy upon joint recommendation of the Navy GC and the CMC. The
+Counsel reports directly to the CMC and to the Secretary of the Navy via the Navy GC.
+
+     f. SJA to the CMC. Title 10, USC, Section 5046 establishes the position of the SJA to
+the CMC. The SJA to the CMC is appointed by the President, by and with the advice and
+consent of the Senate, from Marine Corps JAs upon the recommendation of the Secretary of
+the Navy. The SJA to the CMC is appointed in the regular grade of major general. The SJA
+to the CMC is responsible for providing independent legal advice to the Secretary of the
+Navy, the CMC and to other officers and officials of the Marine Corps. Section 5046
+prohibits any officer or employee of DOD from interfering with the ability of the SJA to the
+CMC to give independent legal advice to the CMC. The SJA to the CMC supervises and
+manages legal matters arising in the Marine Corps regarding military justice, civil and
+administrative law, operational law, legal assistance matters, and any other matters directed
+by the Secretary of the Navy and/or the CMC.
+
+     g. GC, Department of the Air Force (DAF). Title 10, USC, Section 8019 establishes
+the position of GC of the DAF. The GC, DAF, is a civilian appointed by the President, by
+and with the advice and consent of the Senate. The GC performs such functions as the
+Secretary of the Air Force (SECAF) may prescribe. The relationship between the GC and
+TJAG is unique. Both officials are legal advisors to the Secretary and the Chief of Staff of
+the Air Force with right of independent access and have the ability to provide independent
+legal advice to those officials. This is accomplished through two staff organizations that are
+independent of each other. Both officials provide legal opinions that are authoritative for the
+Air Force.
+
+     h. TJAG of the Air Force. Title 10, USC, Section 8037 establishes the position of
+TJAG of the Air Force. TJAG is appointed by the President, by and with the advice and
+consent of the Senate, from JAs of the Air Force. TJAG is appointed in the regular grade of
+no less than lieutenant general. In addition to other duties prescribed by law, TJAG:
+
+          (1) Serves as the legal advisor of the SECAF and of all officers and agencies of the
+DAF;
+
+          (2) Directs the officers of the Air Force designated as JAs in the performance of
+their duties;
+
+I-6  JP 1-04
+
+
+---
+
+                                                     Legal Organizations, Missions, and Functions
+
+          (3) Receives, revises, and has recorded the proceedings of courts of inquiry and
+military commissions; and
+
+          (4) Conducts legal discussions, in coordination with the respective CCMD SJA,
+with senior leaders and legal advisors from other nations as required in support of DOD,
+GCCs, major commands, and Air Force security cooperation objectives.
+
+     i. TJAG of the Coast Guard. The Homeland Security Act amended the Uniform Code
+of Military Justice to permit the Secretary of Homeland Security to designate an official to
+serve as TJAG of the Coast Guard. TJAG is a Coast Guard officer in the grade of rear
+admiral, and serves as TJAG of the US Coast Guard, except when the Coast Guard is
+operating as a Service of the DON under Title 14, USC, Section 3. In addition, TJAG is the
+principal legal advisor to the Commandant of the Coast Guard and oversees the
+administration of military justice for the Coast Guard. TJAG of the US Coast Guard also
+serves as the Chief Counsel of the Coast Guard.
+
+     j. Chief Counsel, National Guard Bureau (NGB). The Chief Counsel, NGB provides
+legal services, advice, and opinions to the Chief, NGB; the Vice Chief, the NGB Joint Staff;
+the Directors of the Army and Air National Guard and their respective staffs; state adjutants
+general; full-time state JAs; US property and fiscal officers; and DOD offices and other
+federal and state agencies. The Chief Counsel also liaises with other legal offices within
+DOD and other federal and state agencies.
+
+6. Joint Force Staff Judge Advocate
+
+     a. The joint force SJA (also titled the JA or command JA) is the principal legal advisor
+to the JFC and a key member of a JFC’s personal staff. In most cases, the joint force SJA is
+the principal legal advisor to the commander, deputy commander, and chief of staff, as well
+as any Service Element Commanding Officers, and coordinates as necessary with the legal
+staff of the other CCMDs. The joint force SJA reports directly to the JFC. The joint force
+SJA provides or coordinates legal support to joint operations through direct and reachback
+capabilities. Figure I-2 depicts where the SJA fits in a typical joint force command.
+
+     b. In addition to the authorities vested in SJAs by Title 10, USC, Chapter 47, Uniform
+Code of Military Justice, the joint force SJA issues coordinating guidance on legal matters to
+subordinate components under the authority of the JFC to optimize legal support to the joint
+force. Services and Service components retain authority for providing legal support to their
+forces, subject to the coordinating guidance of the joint force SJA.
+
+     c. SJAs at Levels of Joint Forces. Joint forces are established at three levels: CCMDs,
+subordinate unified commands, and joint task forces (JTFs). Joint force JAs provide legal
+support at each of these levels. Each level addresses unique legal issues and has a specific
+legal basis for assigning responsibilities, establishing or delegating appropriate command
+relationships, and establishing coordinating instructions between joint forces commands and
+their components.
+
+                                                                                                         I-7
+
+
+---
+
+Chapter I
+
+Typical Joint Force Staff Organization
+
+                                                              Commander
+                                                         Deputy Commander
+
+     Personal                 Foreign  Public                 Staff                     Senior     Office of
+                               Policy  Affairs               Judge                     Enlisted       the
+     Staff     Aide           Advisor                      Advocate     Inspector      Advisor
+                                                                        General    Representative  Chaplain
+
+     Principal Staff Officer                     Chief of Staff
+                                            Deputy Chief of Staff
+
+                                                                           Secretary, Joint Staff
+
+     Special         Comptroller            Engineer        Medical/               Transportation
+     Staff                                                 Command
+                                                            Surgeon
+
+     Joint          J-1            J-2                          J-3             J-4              J-5
+     Staff     Personnel      Intelligence                 Operations       Logistics   Plans and Policy
+               Directorate    Directorate                  Directorate     Directorate
+                                                                                           Directorate
+
+                        J-6                 J-7                   J-8                   J-9
+               Communications          Operational            Structure,           Interagency
+                                                           Resource, and           Directorate
+                 System Staff              Plans            Assessment
+
+Legend                                                     J-7 engineering directorate of a joint staff
+                                                           J-8 force structure, resource, and assessment
+  J-1 manpower and personnel directorate of a joint staff
+  J-2 intelligence directorate of a joint staff                  directorate of a joint staff
+  J-3 operations directorate of a joint staff              J-9 civil-military operations directorate of a
+  J-4 logistics directorate of a joint staff
+  J-5 plans directorate of a joint staff                         joint staff
+  J-6 communications system directorate of a joint staff
+
+               Figure I-2. Typical Joint Force Staff Organization
+
+          (1) CCMD SJA. The CCMD SJA is a JA selected by the CCDR from among
+those officers nominated for the position by each of the Military Services. The CCMD SJA
+serves as counsel for the command, providing or coordinating legal advice to the CCDR and
+CCMD staff on the full spectrum of legal issues, with varied emphasis depending upon the
+CCMD’s mission, force structure, and whether it has a geographic or functional
+responsibility. Some CCMD legal offices are referred to as the “office of LC” and are led by
+an LC rather than an SJA. (For purposes of this JP only, the term “CCMD SJA” will be used
+for both). The CCMD SJA exercises technical supervision over the administration of
+command legal services within that CCMD. The SJA reviews available legal support
+capabilities and recommends allocation of legal resources to support the CCMD missions
+most effectively and eliminate the overlap or duplication of functions. The CCMD SJA also
+
+I-8                                                                                                JP 1-04
+
+
+---
+
+                                                     Legal Organizations, Missions, and Functions
+
+oversees the collection of legal lessons learned from supporting SJAs and the distribution of
+legal lessons learned in accordance with Chairman of the Joint Chiefs of Staff Manual
+(CJCSM) 3150.25, Joint Lessons Learned Program.
+
+                (a) Geographic CCMDs. The joint force SJAs supporting the geographic
+CCMDs provide or coordinate the full spectrum of legal services with both a strategic and
+operational emphasis. The areas of practice mirror those addressed by CJCS/LC detailed in
+paragraph 4, “Legal Counsel, Office of the Chairman of the Joint Chiefs of Staff,” with a
+greater focus on joint operational law issues pertaining to their commander’s geographic area
+of responsibility (AOR). They also supervise legal aspects of the theater security
+cooperation and rule of law programs within their AORs; incorporate legal issues into
+exercises; coordinate with regional and partner nation forces to promote legal dialogue and
+adherence to the rule of law; oversee the provision of legal services within subordinate
+unified commands, JTFs, and functional and Service components; and coordinate with
+functional CCMD SJAs to facilitate the resolution of legal issues affecting both joint force
+commands. Additionally, they engage with senior military leaders and legal advisors of
+nations within their geographic AORs, consistent with the DOD and geographic CCMD
+security cooperation mission and objectives.
+
+                (b) Functional CCMDs
+
+                     1. The joint force SJAs of the three functional CCMDs (United States
+Transportation Command [USTRANSCOM], United States Strategic Command
+[USSTRATCOM], and United States Special Operations Command [USSOCOM]) similarly
+provide the full spectrum of legal services, but also have legal responsibilities related to the
+CCMD’s particular functional areas.
+
+                     2. The USTRANSCOM SJA provides legal expertise in its core functional
+competency of transportation law for USTRANSCOM and DOD. Specifically, the
+USTRANSCOM SJA focuses on transportation acquisition, fiscal, international, personnel,
+military justice, operations, intellectual property, civil, administrative and environmental
+law, and transportation-related insurance law.
+
+                     3. The USSTRATCOM SJA provides legal advice to support the
+USSTRATCOM missions related to strategic deterrence operations; freedom of action in
+space and cyberspace; integrated lethal and nonlethal capabilities in support of US JFCs;
+synchronization of global missile defense and countering weapons of mass destruction plans
+and operations; and intelligence, surveillance, and reconnaissance. In particular, the
+USSTRATCOM SJA focuses on international and operational law in the areas of
+cyberspace, space, and targeting, as well as administrative law, fiscal law, and military
+justice.
+
+                     4. The USSOCOM SJA provides legal advice on issues involving special
+operations forces (SOF). In addition to the command authority inherent in a CCMD, the
+Commander, USSOCOM has Service-like responsibilities for SOF pursuant to Title 10,
+USC, Section 167 and maintains a particular emphasis on supporting and executing overseas
+contingency operations.
+
+                                                                                                         I-9
+
+
+---
+
+Chapter I
+
+                (c) SecDef realigned theater special operations commands (TSOCs) under the
+combatant command (command authority) of USSOCOM in the spring of 2013. GCCs
+exercise operational control over these TSOCs for their assigned missions and retain
+concurrent Uniform Code of Military Justice authority pursuant to SecDef direction. There
+are certain legal areas where the geographic CCMD SJA will have the primary interest in
+providing the legal supervision of TSOC SJAs. Figure I-3 provides a standard matrix of
+legal areas and identifies whether the geographic CCMD or USSOCOM SJA has primary
+responsibility for supervision.
+
+          (2) Subordinate Unified Command SJA. When assigned to a subordinate unified
+command, an SJA serves as the primary legal advisor to that command. The subordinate
+unified command SJA receives guidance from the CCMD SJA and may have certain
+functional legal areas performed by the CCMD SJA (e.g., contract law). If the subordinate
+unified command does not have direct legal support, the CCMD SJA typically provides those
+services to the subordinate unified command.
+
+For a more detailed discussion of CCMD, subordinate unified command, and JTF
+organizations, responsibilities, and functions, see JP 1, Doctrine for the Armed Forces of the
+United States, and JP 3-0, Joint Operations.
+
+          (3) JTF SJAs. The most common type of joint force command established to
+accomplish a specific mission in a geographic area or perform a particular function is the
+JTF. The JTF SJA is the principal legal advisor to the commander, joint task force (CJTF)
+and is an integral part of the JTF staff. The JTF SJA provides support to multiple JTF
+boards, centers, and cells that require legal expertise in the planning and employment of JTF
+forces. The training, equipping, and organization of legal personnel assigned or attached to
+the JTF headquarters (HQ) falls to the JTF SJA. The JTF SJA develops the legal estimate
+during operation planning and recommends SJA manning requirements for the JTF joint
+manning document (JMD). By task organizing, the JTF SJA ensures the SJA section is
+representative of its components, allies, and multinational partners as to numbers of
+personnel contributed, rank and experience of those personnel, and the influence of their
+positions. Ideally, the SJA section will reflect the composition of the JTF and character of
+the operation. JTF SJA has legal discussions with senior military leaders and legal advisors
+from other nations within their joint operational area as required in support of DOD and
+geographic CCMD security cooperation mission and objectives. The JTF SJA coordinates
+with the supported CCMD SJA and the supporting component SJAs to optimize legal
+support to the JTF. The JTF SJA will be discussed in detail in Chapter III, “Legal Support to
+the Joint Task Force.”
+
+For a more detailed discussion of JTF, see JP 3-33, Joint Task Force Headquarters.
+
+I-10  JP 1-04
+
+
+---
+
+                                                Legal Organizations, Missions, and Functions
+
+Combatant Command Legal Supervisory Responsibilities for
+Theater Special Operations Commands
+
+USSOCOM (Primary)                               GCC (Primary)
+
+  Administrative Law                              Administrative Law
+
+      Ethics (counsel, training, reports)            Fiscal (GCC funded)
+      OGE Form 278/450s                              Use of GCC military airlift
+      Post-government employment                     Ethics (AOR specific rules)
+      Congressional inquiries (unless related        Congressional inquiries with operational connection
+                                                      Contracting with GCC funds
+        to a GCC operation)                           Embassy relations (NSDD 38.FP MOA Annex designations)
+      Military airlift for SOC/NSAV aircraft         Labor law matters that are AOR specific
+      Fiscal issues with USSOCOM Major
+                                                  Operational Law within GCC AOR under
+        Force Program-11 funds                    GCC Authority
+      Contracting (non-GCC funding)
+      Property accountability investigations         All legal issues connected with operations or exercises
+                                                      Law of war
+        (non-GCC equipment)                           Rules of engagement
+      Civilian personnel headquarters staff          Targeting
+                                                      Information operations products and operations (see CJCSI
+        issues (EEO/MSPB)**
+      Administrative separations**                     3110.05)
+      Fitness for duty**                             Investigations for potential law of war violations, friendly fire
+      Line of duty/misconduct**
+      Information practices/releases                   incidents, collateral damage/civilian deaths, and rules of
+                                                        engagement violations
+        (Freedom of Information Act, Privacy
+        Act) unless related to a GCC’s
+        operation
+
+                                                International Law
+
+                                                   General international law issues that could impact GCC AOR
+                                                   Foreign criminal jurisdiction
+                                                   Foreign claims
+                                                   Acquisition cross-servicing agreements
+                                                   Status of forces agreements
+                                                   Basing issues that are AOR specific
+
+Concurrent UCMJ*                                Concurrent UCMJ*
+
+   Routine headquarters internal                  Violations of law of war or rules of engagement
+      discipline matters                           Violations of GO-1
+                                                   Violations of liberty or FP policies
+   All matters referred by GCC                    Matters involving more than one component under GCC
+   Article 138 (unless GCC operation
+                                                     authority
+      related)                                     Matters involving host nation or potential adverse impact with
+
+                                                     host nation
+
+* Concurrent UCMJ means that either CDRUSSOCOM or the GCC is authorized under law and policy to take
+ action on a matter. The GCC will generally exercise right of first refusal on matters listed above in the GCC
+ primary column. Concurrent UCMJ authority is derived from GFMAP base order, a SecDef approved document
+ that authorizes concurrent UCMJ to CCDR that exercise OPCON over forces attached by SecDef.
+
+**Subject to combatant command support agent regulations and installation agreements.
+
+Legend
+
+AOR         area of responsibility              MOA      military operating area
+CCDR        combatant commander                 MSPB     US Merit Systems Protection Board
+CDRUSSOCOM  Commander, United States Special    NSAV     non-standard aviation
+            Operations Command                  NSDD     national security decision directive
+CJCSI       Chairman of the Joint Chiefs of     OGE      US Office of Government Ethics
+            Staff instruction                   OPCON    operational control
+EEO         equal employment opportunity        SecDef   Secretary of Defense
+FP          force protection                    SOC      special operations component
+GCC         geographic combatant commander      UCMJ     Uniform Code of Military Justice
+GFMAP       Global Force Management             USSOCOM  United States Special Operations
+            Allocation Plan                              Command
+GO-1        General Order Number 1
+
+Figure I-3. Combatant Command Legal Supervisory Responsibilities for Theater Special
+                                              Operations Commands
+
+                                                                                                                          I-11
+
+
+---
+
+Chapter I
+
+     d. Functional Components. Component command SJAs, like JTF SJAs, are the
+principal legal command advisors to the commander and provide legal support to multiple
+boards, centers, and cells. The functional component SJA coordinates with both geographic
+and functional CCMD SJAs. For USSOCOM TSOCs, see Figure I-3.
+
+     e. Service Components. Joint force commands include Service components. Service
+component command SJAs advise the Service component commander on issues that are
+Service specific. In addition, the component SJA coordinates and receives guidance from
+the CCMD or JTF SJA on all matters that relate to the component command’s supporting
+mission.
+
+     f. Reserve Component (RC) Support. Most joint force commands include JAs from
+one or more units of the RC (i.e., the Army Reserve, the Army National Guard of the United
+States, the Navy Reserve, the Marine Corps Reserve, the Air National Guard of the United
+States, the Air Force Reserve, and the Coast Guard Reserve). Reserve JAs mobilized to
+support an operation outside the continental US always serve in a Title 10, USC, status
+(except for Coast Guard reservists, who remain in Title 14, USC, status unless the Coast
+Guard is operating as a Service under the DON pursuant to Title 14, USC, Section 2) and are
+trained to fulfill both short-term and long-term legal requirements for the command.
+However, under certain circumstances National Guard JAs may serve in a JTF within the
+continental US in their non-federalized (Title 32, USC) status. It is important that the joint
+force SJA work with the CCMD’s RC support office and the NGB for assistance in assigning
+or attaching RC JAs to the CCMD or the component commands of the joint force.
+
+     g. Duties and Responsibilities. The joint force SJA’s general duties and
+responsibilities are shown in Figure I-4. Legal staffs require adequate resources to conduct
+legal research and perform assigned legal duties. Specific planning considerations are
+discussed in Chapter II, “Legal Support to Joint Operation Planning,” and Chapter III, “Legal
+Support to the Joint Task Force.”
+
+I-12  JP 1-04
+
+
+---
+
+                                                  Legal Organizations, Missions, and Functions
+
+Joint Force Staff Judge Advocate’s Duties and Responsibilities
+
+  Formation, Deployment, and Management of the Legal Staff
+
+       Ensure personnel have appropriate security clearance for mission/duties.
+       Form, deploy, employ, transition, and redeploy the staff judge advocate section.
+       Train section personnel.
+       Manage section operations, including information and security.
+       Requisition and control section resources.
+       Coordinate the assignment, promotion, transfer, and replacement of section personnel.
+
+  Defense Support of Civil Authorities
+
+       Know the legal basis for the military operation.
+       Assist commands with crafting the rules for the use of force and/or rules of engagement, and related
+
+         information papers, memoranda of law, and memoranda of agreement with supported civil authorities.
+       Advise joint force commander and other staff on state and local legal requirements and interagency and
+
+         interstate agreements that affect the military defense support of civil authorities mission.
+       Coordinate with National Guard Bureau legal staff as required regarding dual status commander issues and
+
+         Title 32, United States Code, legal issues.
+       Oversee or offer training on Posse Comitatus and similar restrictions, and the governing legal principles
+
+         applicable to rules for the use of force and rules of engagement, including the use of both lethal and
+         nonlethal force. Advise the joint force commander and other staff on proper duty status for participating
+         personnel, medical credentialing, information operations, intelligence oversight, fiscal law and contracts,
+         claims, and other pertinent areas of the law.
+
+  Planning, Coordination, and Oversight
+
+      Prepare the legal considerations paragraph of the base operation plan or order according to Chairman of
+         the Joint Chiefs of Staff Manual 3130.03, Adaptive Planning and Execution (APEX) Planning Formats and
+         Guidance.
+
+      Prepare the legal appendix to the personnel annex of the operation order according to Chairman of the
+         Joint Chiefs of Staff Manual 3130.03, Adaptive Planning and Execution (APEX) Planning Formats and
+         Guidance.
+
+      Continuously assess mission capability and any strengths or deficiencies in joint legal doctrine, organization,
+         training, materiel, and education.
+
+      Serve as single point of contact for all legal issues of joint origin that involve more than one Service or that
+         affect the external relations of the joint force command.
+
+      Capture, act on, and share joint legal lessons learned, issues, and key observations from operations,
+         training events, and other sources in accordance with Chairman of the Joint Chiefs Issuances 3150.25 on
+         the joint lessons learned program.
+
+      Liaise with counterparts at higher, lower, and adjacent headquarters, Department of Defense and other US
+         Government departments and agencies, foreign government agencies, intergovernmental organizations,
+         and nongovernmental organizations, including liaison with counterparts within the International Committee of
+         the Red Cross.
+
+      Advise on issues related to rule of law and military operations. Incorporate rule of law issues into exercises
+         and engagements.
+
+  Maintenance of Good Order and Discipline
+
+      Ensure that each Service member is afforded due process and administrative rights.
+      Coordinate with Service element staff judge advocate or element commander those military justice matters
+
+         most appropriately handled through Service channels.
+      Supervise the administration of military justice throughout the joint force.
+      Recommend standard policies applicable to all Services within the command when necessary to maintain
+
+         good order and discipline or preserve US-host nation relations (e.g., general orders and black market and
+         currency control regulations).
+      Recommend uniform policies and procedures for requesting joint command courts-martial convening
+         authority, exercising disciplinary authority over members of other Services, and creating Service units within
+         the joint force headquarters and subordinate joint force headquarters.
+      Communicate directly with the joint force commander on military justice matters, to include advising on
+         appropriate disposition of charges before referral to trial by courts-martial and recommending appropriate
+         convening authorities action on courts-martial.
+
+        Figure I-4. Joint Force Staff Judge Advocate’s Duties and Responsibilities
+
+                                                                                                     I-13
+
+
+---
+
+Chapter I
+
+  Joint Force Staff Judge Advocate’s Duties and Responsibilities
+  (cont’d)
+
+     Status of Forces and Relations with Host Nation
+
+          Support negotiation and conclusion of international agreements, including acquisition and cross-servicing
+             agreements, status-of-forces agreements, and status of mission agreements, in accordance with
+             Department of Defense Directive (DODD) 5530.3, International Agreements.
+
+          Advise the joint force commander and staff concerning assertions of foreign criminal jurisdiction over
+             military personnel and civilians accompanying the force.
+
+          Monitor relations with governments and inhabitants of foreign countries.
+
+     Law of War and Related International Legal Considerations
+
+          Ensure that all plans, orders, policies, rules of engagement, and target lists issued by the command and
+             its subordinate commands are reviewed by legal advisors for compliance with applicable law and policy
+             as required by DODD 2311.01E, DOD Law of War Program, and Chairman of the Joint Chiefs of Staff
+             Instruction (CJCSI) 5810.01D, Implementation of DOD Law of War Program.
+
+          Assist the operations directorate of a joint staff (J-3) and plans directorate of a joint staff (J-5) in preparing
+             rules of engagement request and authorization messages according to CJCSI 3121.01B, Standing Rules
+             of Engagement/Standing Rules for the Use of Force for US Forces.
+
+          Support and monitor conduct of war crimes trials as required.
+          Conduct legal discussions with senior leaders and legal advisors from partner nations to ensure common
+
+             understanding of law of war obligations and other international legal norms.
+          Advise the joint force commander and staff on the legal authority for, and constraints on, the conduct of
+
+             military operations, including global force management; the issuance and coordination of operation
+             orders; the use of force; maritime operations, including freedom of navigation; overflight of international
+             and national airspace; basing rights; foreign intelligence and counterintelligence activities; information
+             operations; personnel recovery operations including reintegration procedures; joint targeting; treatment of
+             wounded and sick prisoners of war, and civilian persons and property, including migrants, refugees, and
+             internally displaced persons; human rights aspects of law; the conduct of tribunals, including those under
+             Article 5 of the Third Geneva Convention; governance of occupied enemy territory; detention and
+             interrogation operations; rule of law; Department of Defense support to other agencies for humanitarian
+             operations; and chemical, biological, radiological, and nuclear, or high-yield explosives, and other
+             weapons subject to special restrictions.
+          Provide legal advice and oversight of civilian casualty report tracking, credibility assessments,
+             investigations, and reporting.
+
+     Contractor Personnel Integration
+
+        Ensure that all joint force commander plans and policies are in compliance with US law, international law,
+          local law, status-of-forces agreements, and Department of Defense policy as they relate to the use of
+          contracted, vice military, support. Specific concerns are legal status of US and third country national
+          contractor personnel hired outside of the operational area; force protection/security measures; and,
+          arming contractor personnel (includes arming for self-defense and for security support). See Department
+          of Defense Instruction 3020.41, Operational Contract Support (OCS).
+
+        Advise the joint force commander and staff on fiscal and contract law matters, i.e., the application of
+          domestic and international law to acquire goods, services, and construction. Specifically, funding
+          sources and restrictions, battlefield acquisition, contingency contracting, bid protests and contract dispute
+          litigation, procurement fraud oversight, commercial activities, and acquisition and cross-servicing
+          agreements.
+
+     Reporting
+
+        Monitor and advise the joint force commander and staff concerning investigation and disposition of
+          significant incidents required to be reported via operation report 3-PINNACLE and other flagword reports
+          (e.g., grave breaches of the law of war, asylum incidents, aircraft accidents, and possible border
+          violations). See Chairman of the Joint Chiefs of Staff Manual 3150.03D, Joint Reporting Structure Event
+          and Incident Reports. Report law of war violations in accordance with Department of Defense Directive
+          2311.01E, DOD Law of War Program.
+
+        Submit legal status reports.
+
+     Figure I-4. Joint Force Staff Judge Advocate’s Duties and Responsibilities (cont’d)
+
+I-14  JP 1-04
+
+
+---
+
+                                                  Legal Organizations, Missions, and Functions
+
+Joint Force Staff Judge Advocate’s Duties and Responsibilities
+(cont’d)
+
+  Provision of Legal Services
+
+       Man joint cross functional staff organizations.
+       Monitor and coordinate the provision of legal services throughout the command.
+       Record significant activities.
+       Provide legal advice to investigating officers, review their reports for legal sufficiency, and make
+
+         appropriate recommendations to the appointing and/or approving authority.
+       Provide legal assistance to the joint force commander and staff.
+       Arrange for the provision of claims, trial defense, trial judiciary, and other legal services as appropriate
+
+         to the joint force commander and staff.
+       Advise the joint force commander and staff concerning legal issues related to provision of logistic
+
+         support to non-Department of Defense entities.
+       Advise the joint force commander and staff concerning transfers or other disposition of military property.
+       Advise the joint force commander and staff concerning acquisition or disposition of real property,
+
+         goods, services, and other contingency contracting issues.
+       Monitor accountability for loss, damage, or destruction of military property.
+       Advise the joint force commander and staff concerning legal issues related to military personnel
+
+         matters, including mobilization, military status, pay, allowances, promotion, reduction, separation,
+         authorized activities, conscientious objector applications, and complaints under Article 138, Uniform
+         Code of Military Justice.
+       Advise on policy for accounting for captured weapons, war trophies, documents, and equipment.
+       Advise the joint force commander and staff concerning civilian personnel matters, including deployment
+         issues, adverse action appeals to the Merit Systems Protection Board, equal employment opportunity
+         discrimination complaints, grievance arbitrations, negotiation of union labor agreements, unfair labor
+         practice hearings and grievance arbitrations, and unfair labor practice complaints and negotiability
+         disputes before the Federal Labor Relations Authority.
+       Advise the joint force commander and staff concerning requests for political asylum and temporary
+         refuge.
+       Provide advice on funding of military operations and the obligation and expenditure of appropriated
+         funds. For example, provide counsel concerning solatia payments (compensation made for damages
+         or inconvenience) and Commander Emergency Response Program funds.
+       Ensure compliance with applicable environmental laws and policies.
+       Advise the joint force commander and staff concerning standards of conduct issues, including giving and
+         accepting gifts, filing financial disclosure reports, and post-government service employment restrictions.
+       Serve as ethics advisor.
+       Advise the joint task force commander on command responsibility and accountability.
+       Supervise investigation and processing of claims arising from activities of the joint force commander and
+         staff under the Military Claims Act, Federal Tort Claims Act, Foreign Claims Act, Personnel Claims Act,
+         reciprocal international agreements (e.g., status-of-forces agreement claims), Suits in Admiralty Act,
+         Public Vessels Act, and other applicable statutes, as well as assignment of claims responsibilities in
+         accordance with Department of Defense Instruction 5515.08, Assignment of Claims Responsibility.
+       Advise the joint force commander and staff on intelligence law. It is imperative that judge advocates
+         consider intelligence law when planning and reviewing both operations in general and intelligence
+         operations in particular.
+       Perform other duties assigned by the joint force commander.
+       Advise the joint force commander and staff concerning the drafting, review, and tracking of legislative
+         proposals relevant to missions and authorities.
+       Coordinate with public affairs on release of information, security and policy review, and legal actions that
+         may draw media or public interest.
+
+    Training
+
+       Provide training to the joint force commander and staff on the law of war, rules of engagement/rules of the
+         use of force, standing and general orders issued by the commander, foreign law, legal aspects of
+         detention and interrogation operations, ethics, procurement integrity, and other subjects as required and
+         appropriate.
+
+       Provide training concerning status of US forces in foreign countries.
+
+  Figure I-4. Joint Force Staff Judge Advocate’s Duties and Responsibilities (cont’d)
+
+                                                                                                     I-15
+
+
+---
+
+Chapter I
+
+  Joint Force Staff Judge Advocate’s Duties and Responsibilities
+  (cont’d)
+
+     Stability Operations and Rule of Law Programs
+
+          Conduct assessments of partner nation military justice systems as required.
+          Advise on programs to advance rule of law with military partners.
+          Advise on, and as necessary, develop programs to advance adherence to the rule of law. The rule of law
+
+             includes following the law of war, respect for domestic law establishing governmental institutions
+             (including civilian control over the military, where applicable), following international and domestic legal
+             obligations regarding the law of war and human rights.
+          Conduct legal discussions with military partners to build relationships and support approved security
+             cooperation mission and objectives.
+          Coordinate and collaborate with external organizations outside the joint force on programs designed to
+             advance adherence to the rule of law in militaries (Defense Institute for International Legal Studies;
+             International Institute of Humanitarian Law; American Bar Association Rule of Law Initiative, the
+             International Committee of the Red Cross, etc.).
+
+     Figure I-4. Joint Force Staff Judge Advocate’s Duties and Responsibilities (cont’d)
+
+I-16  JP 1-04
+
+
+---
+
+                                      CHAPTER II
+
+                LEGAL SUPPORT TO JOINT OPERATION PLANNING
+
+     “Strategic and tactical planning must be completely unified, combat forces
+     organized into unified commands, each equipped with the most efficient weapons
+     systems that science can develop, singly led and prepared to fight as one,
+     regardless of Service.”
+
+                                                         34th President Dwight Eisenhower (1953-1961)
+
+1. Introduction
+
+     a. Legal advisors within DOD perform a wide variety of planning tasks at the strategic,
+operational, and tactical levels of warfare. They support their organizations in carrying out
+their planning responsibilities by providing legal advice on the myriad of regulations, laws,
+policies, treaties, and agreements that apply to joint military operations. Legal advisors
+actively participate in the entire planning process from joint intelligence preparation of the
+operational environment development, to mission analysis, to course of action (COA)
+development and recommendation, through execution. Strategic and operational planning
+typically occurs at the JTF and higher echelons. Legal advisors who perform planning tasks
+at the tactical level typically do so as a Service component of a JTF. Planning at that level
+often involves a single Service that follows Service doctrine, using tactics, techniques, and
+procedures contained in Military Department and Service publications.
+
+     b. Military planning consists of joint strategic planning with its three subsets: security
+cooperation planning, joint operation planning, and force planning. Legal advisors assist
+decision makers at every echelon in translating policy decisions into legally acceptable plans
+and orders that support national security objectives. At the strategic level this is
+accomplished within the framework of four interrelated defense planning systems and
+associated processes: the National Security Council System (NSCS); the Planning,
+Programming, Budgeting, and Execution (PPBE) process; the Joint Strategic Planning
+System (JSPS); and Adaptive Planning and Execution (APEX) system. At the operational
+level, planning occurs under the umbrella of APEX and primarily through the joint operation
+planning process. This chapter describes the role and responsibilities of the legal advisor at
+each echelon during the strategic and operational joint planning processes.
+
+     c. For defense support of civil authorities, SecDef may direct the supported CCMD (US
+Northern Command or US Pacific Command) to provide forces to support another lead
+federal agency, which in turn may be supporting state and local governments or agencies.
+Forces may also be provided by the National Guard either in Title 32, USC, status or in state
+active duty status. A dual-status commander may be appointed to command both federal
+forces and National Guard forces. JAs must work closely with all appropriate organizations
+and agencies to help the commander stay within the boundaries of law and policy that govern
+defense support of civil authorities.
+
+                                                                                                        II-1
+
+
+---
+
+Chapter II
+
+2. Law of War Principles
+
+     The law of war regulates the conduct of states and combatants engaged in armed conflict
+hostilities and is often referred to as the law of armed conflict. The law of war is inspired in
+part by a humanitarian desire to diminish unnecessary suffering during armed conflict. It
+provides protections for all classes of persons recognized by the law of war including
+combatants, noncombatants, and civilians from unnecessary suffering, and establishes
+safeguards for civilians, prisoners of war, and the wounded and sick. The law of war also
+attempts to prevent degeneration of conflicts into savagery and brutality, thereby facilitating
+the restoration of peaceful relations which must, at some point, follow the conclusion of
+hostilities. It is DOD policy that US forces follow the law of war in all military operations.
+Therefore, legal advisors help ensure that the JFC and staff consider law of war principles
+during the planning process for all joint military operations, and particularly during planning
+for combat operations. Some of the key law of war principles to be considered during the
+planning process are as follows:
+
+     a. Military Necessity. The principle of military necessity states a belligerent is justified
+in the use of all measures needed to defeat the enemy as quickly and efficiently as possible
+that are not forbidden by the law of war. Military necessity justifies actions, such as
+destroying and seizing persons and property. However, this principle is not applied in a
+vacuum. It must be applied in conjunction with other law of war principles. For example,
+the principle of distinction (discussed in paragraph 2c, “Distinction”) generally prohibits the
+intentional targeting of protected persons (civilians, hostile personnel who have surrendered
+or are otherwise “out of combat,” etc.) and places (objects or places that are used for purely
+civilian purposes, such as hospitals, schools, and cultural property that have not been
+converted to or for military/hostile use) because they do not constitute legitimate military
+objectives in furtherance of the accomplishment of the mission.
+
+     b. Humanity. Although military necessity justifies certain actions necessary to defeat
+the enemy as quickly and efficiently as possible, military necessity cannot justify action not
+necessary to achieve this purpose, such as cruelty or wanton violence, or the use of weapons
+that are calculated to cause superfluous injury. Moreover, once a military purpose has been
+achieved, inflicting more suffering is unnecessary and should be avoided. For example, the
+principle of humanity forbids making enemy combatants who have been placed hors de
+combat the object of attack. Generally, weapons and ammunition that have been issued by
+DOD have been reviewed to ensure compliance with the law of war and this principle.
+However, approved weapons and ammunition also may not be used in a way that will cause
+unnecessary suffering or injury.
+
+     c. Distinction. The principle of distinction, sometimes referred to as the principle of
+discrimination, requires parties to a conflict to distinguish between combatants and
+noncombatants and to distinguish between military objectives and protected property and
+places. Parties to a conflict must direct their operations only against military objectives.
+Military objectives are combatants and those objects that, by their nature, location, purpose,
+or use make an effective contribution to military action and whose total or partial
+destruction, capture or neutralization, in the circumstances ruling at the time, offer a
+definitive military advantage.
+
+II-2  JP 1-04
+
+
+---
+
+                                                         Legal Support to Joint Operation Planning
+
+     d. Proportionality. The principle of proportionality requires that the incidental injury
+to civilians and damage to civilian property anticipated in the attack, must not be excessive
+in relation to the concrete and direct military advantage expected to be gained. There is no
+requirement that the military advantage must be immediate. However, the military
+advantage may not be merely hypothetical or speculative. Similarly, “military advantage” is
+not restricted to immediate tactical gains, but may be assessed in the full context of war
+strategy. The military advantage anticipated from an attack is intended to refer to an attack
+as a whole, rather than only from isolated or particular parts of an attack.
+
+For more information on application of law of war principles, see Office of General
+Counsel, Department of Defense, Department of Defense Law of War Manual; JP 3-60, Joint
+Targeting; and Chairman of the Joint Chiefs of Staff Instruction (CJCSI) 3160.01, No-Strike
+and the Collateral Damage Estimation Methodology.
+
+3. Legal Support to Strategic-Level Planning
+
+     a. The strategic-level planning processes within the NSCS, PPBE, JSPS, and APEX
+take place primarily between the President and/or SecDef, the CJCS, and the CCDRs. Their
+legal advisors—the DOD GC, the LC, and the CCDRs’ SJAs—plan and coordinate DOD-
+wide and theater-level legal support for the full range of planning activities including
+mobilization, deployment, employment, sustainment, redeployment, and demobilization of
+forces. This paragraph provides an overview of these systems and describes the legal
+advisor’s responsibilities within them.
+
+     b. NSCS. The NSCS provides the interagency framework for establishing national
+strategy and policy objectives that ultimately receive presidential approval. Figure II-1 lists
+the major duties and responsibilities of SecDef, CJCS, CCDRs, and their legal advisors
+within the NSCS.
+
+     c. PPBE Process. The PPBE process is the DOD-wide process that relates resources to
+strategy. This PPBE objective is the acquisition and allocation of resources to meet the
+operational requirements of the CCDRs and the provisioning requirements of the Services
+and CSAs. The major duties and responsibilities of SecDef, CJCS, CCDRs, and their legal
+advisors within the PPBE are listed in Figure II-2.
+
+     d. JSPS. The JSPS is one of the primary means by which the CJCS, in coordination
+with the other members of the Joint Chiefs of Staff and the CCDRs, accomplishes planning
+and provides military advice to the President and SecDef and recommendations to the PPBE
+process. JSPS products—such as the National Military Strategy and the Joint Strategic
+Capabilities Plan—provide guidance and instructions on military policy, strategy, plans,
+forces, and resource requirements and allocations essential to successful execution of the
+National Security Strategy and other presidential directives. Figure II-3 details the major
+duties and responsibilities of SecDef, CJCS, CCDRs, and their legal advisors within the
+JSPS.
+
+                                                                                                        II-3
+
+
+---
+
+Chapter II
+
+National Security Council System Duties and Responsibilities
+
+      Secretary of Defense                                     General Counsel of the Department of Defense
+
+         Serve as a statutory member of the National             Provide legal advice to the Secretary of Defense on
+           Security Council.                                         all National Security Council System matters.
+
+         Advise the President on all Department of               Represent Department of Defense in interagency
+           Defense matters.                                          legal working groups.
+
+         Advise and assist the President in integrating all      Review Presidential directives for compliance with law
+           aspects of national security policy.                      and policy and make appropriate recommendations.
+
+         In response to crises, recommend preliminary            Coordinate legal issues with counterparts, Chairman
+           courses of action and assignment of tasks to              of the Joint Chiefs of Staff Legal Counsel, and
+           combatant commands.                                       combatant commander staff judge advocates.
+
+      Chairman of the Joint Chiefs of Staff                    Legal Counsel
+
+       Discharge statutory responsibilities as principal       Provide independent legal advice to Chairman of the
+         military advisor to the President, National Security     Joint Chiefs of Staff on all National Security Council
+         Council, and Secretary of Defense.                       System matters.
+
+       Represent the concerns of the combatant                 Represent Chairman of the Joint Chiefs of Staff in
+         commanders and Joint Chiefs in the National              interagency legal working groups.
+         Security Council System.
+                                                                Review Presidential directives for compliance with law
+                                                                  and policy and make appropriate recommendations.
+
+                                                                Coordinate legal issues with counterparts, Department
+                                                                  of Defense general counsel, and combatant
+                                                                  commander staff judge advocates.
+
+      Combatant Commander                                      Staff Judge Advocate
+
+          Communicate directly with the Chairman of the          Provide legal advice to the combatant commanders
+            Joint Chiefs of Staff (the combatant                     on all National Security Council System matters.
+            commanders’ representative in the National
+            Security Council System) and with the                 Communicate directly with Legal Counsel, Office of
+            committees and policy coordination committees            the Chairman of the Joint Chiefs of Staff on issues
+            of the National Security Council System.                 being addressed in the interagency committees and
+                                                                     interagency working groups.
+          Carry out statutory responsibilities for the area
+            of responsibility or assigned function as             Coordinate legal issues with counterparts, Chairman
+            directed by the President and Secretary of               of the Joint Chiefs of Staff Legal Counsel, and
+            Defense.                                                 subordinate or supporting staff judge advocates.
+
+      Figure II-1. National Security Council System Duties and Responsibilities
+
+     e. APEX. Joint operation planning is accomplished through the APEX system. The
+joint planning and execution community uses APEX to monitor, plan, and execute
+mobilization, deployment, employment, sustainment, redeployment, and demobilization
+activities associated with joint operations. Clear strategic guidance and frequent interaction
+between senior leaders and planners promote early understanding of, and agreement on,
+planning assumptions, considerations, risks, and other key factors. Legal advisors participate
+at all stages of this adaptive and collaborative planning system.
+
+          (1) Deliberate planning takes place primarily at the strategic level between the
+CJCS and the supported CCDR. Figure II-4 lists by phase the major duties and
+responsibilities of the CJCS, CCDRs, and their legal advisors within the joint planning
+process.
+
+II-4                                                                             JP 1-04
+
+
+---
+
+                                                       Legal Support to Joint Operation Planning
+
+Planning, Programming, Budgeting, and Execution
+Duties and Responsibilities
+
+Secretary of Defense                                   General Counsel of the Department of Defense
+
+   Issue defense planning guidance.                       Provide legal advice to the Secretary of Defense on
+   Issue program decision memoranda.                        all planning, programming, budgeting, and execution
+   Issue program budget decisions.                          matters.
+   Submit Department of Defense budget to the
+                                                           Review the defense planning guidance, program
+      Office of Management and Budget for inclusion          decision memoranda, program budget decisions,
+      in the President's budget.                             resource management decisions, and the Department
+   Issue resource management decisions.                     of Defense budget for compliance with law and policy
+                                                             and make appropriate recommendations.
+
+                                                           Coordinate legal issues with counterparts, Chairman
+                                                             of the Joint Chiefs of Staff legal counsel, and
+                                                             combatant commander staff judge advocates.
+
+Chairman of the Joint Chiefs of Staff                  Legal Counsel
+
+   Issue the Chairman of the Joint Chiefs of Staff’s     Provide legal advice to the Chairman of the Joint
+      program recommendations.                              Chiefs of Staff on all planning, programming,
+                                                            budgeting, and execution matters.
+
+                                                          Review the defense planning guidance, program
+                                                            decision memoranda, program budget decisions,
+                                                            resource management decisions, and the Department
+                                                            of Defense budget for compliance with law and policy
+                                                            and make appropriate recommendations.
+
+                                                          Review the Chairman of the Joint Chiefs of Staff’s
+                                                            program recommendations for compliance with law
+                                                            and policy and make appropriate recommendations.
+
+                                                          Coordinate legal issues with counterparts, Department
+                                                            of Defense general counsel, and combatant
+                                                            commander staff judge advocates.
+
+Combatant Commander                                    Staff Judge Advocate
+
+   Provide input to the Chairman of the Joint            Provide legal advice to the combatant commander
+      Chiefs of Staff’s program recommendations              on all planning, programming, budgeting, and
+      through the joint warfighting capabilities             execution matters.
+      assessment process.
+                                                          Review the combatant commander’s input for
+   Provide input to the program objective                   compliance with law and policy and make
+      memoranda of the Military Departments,                 appropriate recommendations.
+      Defense agencies, and US Special
+      Operations Command.                                 Coordinate legal issues with counterparts,
+                                                             subordinate, and supporting unit staff judge
+   Provide input to the integrated priority list by         advocates.
+      providing combatant commander’s integrated
+      priority list to the Joint Staff.
+
+Figure II-2. Planning, Programming, Budgeting, and Execution
+                         Duties and Responsibilities
+
+          (2) Crisis action planning (CAP) procedures are used to plan for and execute
+military operations in time-sensitive and imminent crisis situations. LC advises at each
+phase of CAP as the process adapts to accommodate the dynamic requirements of changing
+events. Figure II-5 highlights the key responsibilities of legal advisors at the DOD, Joint
+Staff, and supported CCMDs in the initial phases of CAP. As the planning process moves
+into the CAP execution phase, legal advisors of supporting and component organizations
+provide operational planning support.
+
+                                                                                                                   II-5
+
+
+---
+
+Chapter II
+
+                                      MILITARY LAWYERS IN IRAQ
+
+       Military lawyers were true combat multipliers in Iraq. They were not only
+       invaluable in dealing with a host of operational law issues, they also made
+       enormous contributions in helping resolve a host of issues that were
+       more than a bit out of normal legal lanes. In essence, we “threw” lawyers
+       at very difficult problems, and they produced solutions in virtually every
+       case—often under very challenging circumstances and in an uncertain
+       security environment. The qualities that make a great military lawyer—an
+       individual who is smart, hard-working, logical in thought, a good writer,
+       and an adjudicator—were precisely the qualities most in demand in the
+       environment in which we found ourselves in Iraq, where we were both
+       fighting and rebuilding. I tried to get all the lawyers we could get our
+       hands on—and then sought more.
+
+                                         SOURCE: Major General David H. Petraeus, Commander
+                                                      101st Airborne Division (Air Assault) 2003-2004
+
+For detailed guidance on APEX, see CJCSM 3122.01A, Joint Operation Planning and
+Execution System, Volume I: (Planning Policies, and Procedures); CJCSM 3122.02D, Joint
+Operation Planning and Execution System (JOPES) Volume III: (Time-Phased Force and
+Deployment Data Development and Deployment Execution); CJCSM 3130.03, Adaptive
+Planning and Execution (APEX) Planning Formats and Guidance; CJCSI 3100.01B, Joint
+Strategic Planning System; and CJCS Guide 3130, Adaptive Planning and Execution
+(APEX) Overview and Policy Framework.
+
+4. Legal Support to Operational-Level Planning
+
+     a. At the operational level, the supported CCDR may retain planning responsibility or
+delegate planning responsibility to a subordinate JFC, typically the CJTF or a Service
+component commander. Regardless of the level of command, the legal advisor has a key
+support role in developing legally sufficient plans and orders that support achievement of the
+operational objectives.
+
+     b. During the joint operation planning process, the joint force SJA prepares the legal
+estimate, plans legal support for the joint force, and contributes to the overall planning effort
+in accordance with the planning considerations that follow.
+
+          (1) General Planning Considerations
+
+                (a) Throughout the operational planning process, the joint force SJA prepares
+the legal estimate and provides the commander, staff, and appropriate planning boards,
+centers, and cells with advice and recommendations regarding legal issues that impact all
+aspects of the operation. The SJA reviews and monitors legal aspects of potential COAs and
+evaluates the potential legal consequences resulting from primary and secondary effects.
+The SJA must not only consider the law of war principles of military necessity, humanity,
+distinction, and proportionality, but must also consider, among other disciplines,
+international law, fiscal law, and government contract law during planning.
+
+II-6  JP 1-04
+
+
+---
+
+                                                           Legal Support to Joint Operation Planning
+
+Joint Strategic Planning System Duties and Responsibilities
+
+Secretary of Defense                                       General Counsel of the Department of Defense
+
+   Issue joint military net assessment.                      Provide legal advice to the Secretary of Defense on
+   Issue contingency planning guidance.                         all Joint Strategic Planning System matters.
+
+                                                              Review the joint military net assessment and
+                                                                 contingency planning guidance for compliance with
+                                                                 law and policy and make appropriate
+                                                                 recommendations.
+
+                                                              Coordinate legal issues with counterparts, legal
+                                                                 counsel and combatant commander staff judge
+                                                                 advocates.
+
+Chairman of the Joint Chiefs of Staff                      Legal Counsel
+
+   Conduct joint strategy review.                            Provide legal advice to the Chairman of the Joint Chiefs
+   Issue Chairman of the Joint Chiefs of Staff’s                of Staff on all Joint Strategic Planning System matters.
+
+      guidance.                                               Provide input during the joint strategy review.
+   Issue National Military Strategy.                         Review the Chairman of the Joint Chiefs of Staff’s
+   Issue joint planning document.
+   Issue Joint Strategic Capabilities Plan.                     guidance, National Military Strategy, joint planning
+   Issue Chairman of the Joint Chiefs of Staff’s                document, Joint Strategic Capabilities Plan, and
+                                                                 Chairman of the Joint Chiefs of Staff’s program
+      program assessment.                                        assessment for compliance with law and policy and
+                                                                 make appropriate recommendations.
+                                                              Coordinate legal issues with counterparts.
+
+Combatant Commander                                        Staff Judge Advocate
+
+ Initiate and respond to joint strategy review issue       Provide legal advice to the combatant commander
+   papers.                                                    on all Joint Strategic Planning System matters.
+
+ Provide input to the Chairman of the Joint Chiefs         Review the combatant commander’s input for
+   of Staff’s guidance, National Military Strategy, joint     compliance with law and policy and make
+   planning document, Joint Strategic Capabilities            appropriate recommendations.
+   Plan, and Chairman of the Joint Chiefs of Staff’s
+   program assessment.                                      Coordinate legal issues with counterparts.
+
+             Figure II-3. Joint Strategic Planning System Duties and Responsibilities
+
+                (b) The joint force SJA should be familiar with the unique capabilities of
+component legal organizations and understand their role in supporting the JFC’s concept of
+operations. The joint force SJA should also be familiar with host nation (HN), partner
+nation, and NGO (including International Committee of the Red Cross) legal capabilities and
+requirements. The joint force SJA should work to improve unity of effort and prevent
+duplication of functions among component legal organizations. The joint force SJA’s
+concept of support should address deployment, entry, buildup, application, identification and
+prioritization of areas of support, and redeployment of legal resources.
+
+          (2) Mission Analysis (see Figure II-6). The joint planning staff’s focus in
+operational planning begins with mission analysis. The SJA (or an SJA representative) is
+a member of the core planning cell as soon as planning begins. The joint force SJA’s
+primary responsibility is to identify legal considerations (authorities, restraints, and
+constraints) and provide them to the commander and other planners to shape the initial
+planning guidance. Failure to identify legal considerations early in the planning process may
+waste precious time as the staff develops COAs that may not be legally feasible.
+
+                                                                                                                           II-7
+
+
+---
+
+Chapter II
+
+Adaptive Planning and Execution System Deliberate Planning
+Duties and Responsibilities
+
+Chairman of the Joint Chiefs of Staff                        Legal Counsel
+
+      Activity I: Initiation Joint Strategic                 Activity I: Initiation Joint Strategic
+                  Capabilities Plan                                      Capabilities Plan
+
+         Assign planning tasks to supported combatant          Review planning documents.
+            commanders.                                         Review applicable laws, policies, treaties, and
+
+         Specify the types of plans required.                    agreements.
+         Issue planning guidance.
+
+      Activity II: Concept Development                       Activity II: Concept Development
+
+         Review and approve the supported combatant            Review the combatant commander’s strategic
+            commander’s strategic concept.                         concept for compliance with law and policy and
+                                                                   make appropriate recommendations.
+      Activity III: Plan Development
+                                                                Coordinate legal issues with counterparts.
+         Assist the supported combatant commander.
+                                                             Activity III: Plan Development
+      Activity IV: Plan Review
+                                                                Assist the supported combatant command
+         In coordination with the Joint Chiefs of Staff,          staff judge advocate.
+            Services, and Department of Defense agencies,
+            assess and validate the supported combatant      Activity IV: Plan Review
+            commander’s operation plan (OPLAN) and time-
+            phased force and deployment data using criteria     Review the supported combatant command’s
+            of adequacy, feasibility, acceptability, and           OPLAN for legal sufficiency and make appropriate
+            compliance with joint doctrine.                        recommendations.
+
+         Approve or disapprove the OPLAN for reasons           Coordinate legal issues with counterparts.
+            stated.
+                                                             Activity V: Supporting Plans
+         Identify specific actions planned or programmed
+            to redress any shortfalls.                          Crosswalk supporting plans to ensure that they are
+                                                                   legally correct, complete, and consistent, and make
+      Activity V: Supporting Plans                                 appropriate recommendations.
+
+         Resolve critical issues that arise during the
+           supported combatant command’s review of
+           supporting plan.
+
+    Figure II-4. Adaptive Planning and Execution System Deliberate Planning Duties and
+                                                     Responsibilities
+
+          (3) COA Development (see Figure II-7).
+
+                (a) During COA development, COAs are proposed and evaluated to ensure
+that they are adequate, feasible, acceptable, distinguishable, and complete. In addition to the
+strict application of law, operational law issues frequently involve the implementation and
+interpretation of policy. To provide counsel on operational law issues, the SJA must be able
+to spot the issue and make recommendations. The SJA must consider the second and third
+order effects of each recommendation and provide a risk assessment of each COA. This
+
+II-8                                                                        JP 1-04
+
+
+---
+
+                                                         Legal Support to Joint Operation Planning
+
+requires keeping abreast of current events from the local, national, and international levels.
+The SJA reviews the COA’s compliance with the law and policy. If a COA is legally
+objectionable, the joint force SJA should seek clarification or amendment of the COA,
+or recommend that the JFC request appropriate authorizations, exceptions, or waivers.
+
+                (b) The joint force SJA reviews other staff section proposals for legal
+sufficiency. As an example, the joint force SJA assists other staff elements (typically the
+operations directorate of a joint staff [J-3] or the plans directorate of a joint staff [J-5]) in
+determining whether the standing ROE/standing RUF are sufficient to accomplish the
+mission, and, if not, which supplemental ROE/RUF measures are needed and why. The
+joint force SJA should consider and assist other staff elements in considering issues such as
+whether and under what circumstances the JFC should request or authorize the following:
+authority to declare forces as hostile (who and under what circumstances); use of riot control
+agents; offensive operations; cross-border operations; use of all necessary means during
+special operations; collective self-defense (defense of non-US persons and property); beyond
+visual range engagement of airborne objects; exercise of national self-defense; use of
+wartime reserve modes; training or spotlighting with a directed energy weapon; adjustments
+to acceptable levels of collateral damage under US policy (the law of war provides the base-
+line standard—“[not] excessive in relation to the concrete and direct military advantage
+anticipated”); engaging space assets; conduct of cyberspace operations; and operations
+affecting designated lines of communications, civilian infrastructure, facilities, and major
+supplies or resources. The joint force SJA also assists the J-3 and J-5 in coordinating US
+ROE and use of force policies with partner nations during planning for coalition operations
+and in understanding any national caveats partner nations may have regarding use of force
+and/or employment of multinational forces, equipment, or weapons systems. Other areas
+that require review include legal validation of proposed targets, detention and interrogation
+operations, treatment of civilians, integration of contractor personnel, fiscal authorities, and
+intelligence operations.
+
+For additional detailed guidance, see JP 3-12, Cyberspace Operations; JP 3-16,
+Multinational Operations; JP 3-60, Joint Targeting; JP 3-63, Detainee Operations; DODD
+2310.01, DOD Detainee Program; DODD 3115.09, DOD Intelligence Interrogations,
+Detainee Debriefings and Tactical Questioning; DODD 3600.01, Information Operations;
+CJCSI 3121.01, Standing Rules of Engagement/Standing Rules for the Use of Force for US
+Forces; CJCSI 3122.06, Sensitive Target Approval and Review (STAR) Process; CJCSI
+3160.01, No-Strike and the Collateral Damage Estimation Methodology; CJCSI 3290.01,
+Program for Detainee Operations; CJCSI 3370.01, Target Development Standards; and
+CJCSM 3139.01, Review and Approval Process for Cyberspace Operations.
+
+          (4) COA Analysis (see Figure II-8). During COA analysis, the joint force SJA
+participates in wargaming the COA. During the COA analysis, the SJA identifies and
+recommends legal authorities or requirements necessary to achieve objectives at each phase
+of the operation. The legal advantages and disadvantages of each COA are identified.
+
+                                                                                                        II-9
+
+
+---
+
+Chapter II
+
+Adaptive Planning and Execution System Crisis Action Planning
+Duties and Responsibilities
+
+Secretary of Defense                                              General Counsel of the
+                                                                  Department of Defense
+   Approve alert orders.
+   Approve deployment orders.                                       Ensure that all plans, orders, policies, rules of
+   Approve operation orders.                                           engagement, and rules for the use of force, and
+   Approve execute orders.                                             target lists are reviewed for compliance with
+   Approve rules of engagement and rules for the                       applicable law and policy as required by
+                                                                        Department of Defense Directive (DODD)
+      use of force requests.                                            2311.01E, DOD Law of War Program.
+
+                                                                     Provide overall legal guidance related to prompt
+                                                                        reporting, investigation, and appropriate action
+                                                                        under the Department of Defense Law of War
+                                                                        Program for alleged violations of the law of war.
+
+                                                                     Coordinate Department of Defense-wide legal
+                                                                        support.
+
+                                                                     Coordinate legal issues with interagency lawyer's
+                                                                        working group as appropriate.
+
+Chairman of the Joint Chiefs of Staff                             Legal Counsel
+
+  Component I: Situation Awareness                                 Component I: Situation Awareness
+
+       Situation Development:                                         Situation development.
+           Detect, report, and assess events that have                 Review planning documents.
+           potential national security implications to                 Contact counterparts and establish the basis for
+           determine whether a military response may be
+           required.                                                      concurrent planning.
+                                                                       Review applicable laws, policies, treaties, and
+       Crisis Assessment:
+           Analyze the situation and advise the President                 agreements.
+           and/or Secretary of Defense of possible military            Summarize relevant legal considerations
+           action. Obtain a decision by the President and/or
+           Secretary of Defense to develop military options.              (authorities, restraints, and constraints) and
+                                                                          provide them to the Joint Staff, Chairman of the
+                                                                          Joint Chiefs of Staff, and counterparts.
+                                                                       Crisis Assessment:
+
+                                                                            Refine the legal considerations, authorities, and
+                                                                            constraints.
+                                                                       Participate in cross functional staff organizations
+                                                                          as required.
+
+       Component II: Planning                                     Component II: Planning
+
+          Course of Action Development:                             Incorporate legal considerations and instructions
+               Issue planning guidance directive, normally in           for developing rules of engagement/rules for the
+               the form of a Chairman of the Joint Chiefs of            use of force in the combatant commander’s
+               Staff warning or planning order.                         planning guidance.
+
+          Detailed Plan Development:                                Review the supported combatant commander’s
+               Detailed planning begins with the Chairman of            estimate for compliance with law and policy and
+               the Joint Chiefs of Staff-issue planning or alert        make appropriate recommendations.
+               order. Chairman of the Joint Chiefs of Staff
+               monitors the execution planning activities and        Coordinate legal issues with counterparts.
+               reviews the supported commander’s operation
+               order or execute order for adequacy and
+               feasibility.
+
+       Component III: Execution                                   Component III: Execution
+
+           Chairman of the Joint Chiefs of Staff publishes the      Monitor operations for legal issues as required.
+             execute order following approval by Secretary of
+             Defense.
+
+           Chairman of the Joint Chiefs of Staff monitors the
+             deployment and employment of forces and takes
+             action as needed.
+
+Figure II-5. Adaptive Planning and Execution System Crisis Action Planning Duties and
+                                                   Responsibilities
+
+II-10                                                             JP 1-04
+
+
+---
+
+                                                             Legal Support to Joint Operation Planning
+
+Adaptive Planning and Execution System Crisis Action Planning
+Duties and Responsibilities (cont’d)
+
+Combatant Commanders                                         Staff Judge Advocates
+
+  Component I: Situation Awareness                            Component I: Situation Awareness
+
+       Situation Development:                                     Situation development.
+           Detect, report, and assess events that have             Contact legal counterparts and establish the
+           potential national security implications to
+           determine whether a military response may be              basis for concurrent planning.
+           required.                                               Review planning documents.
+                                                                   Review applicable laws, policies, treaties,
+       Crisis Assessment:
+           Report actions being taken, forces available,             agreements, and arrangements in all affected
+           expected time for earliest commitment of forces,          areas of responsibility.
+           and major constraints on the employment of              Summarize relevant legal considerations
+           forces. Keep the President and/or Secretary of            (authorities, restraints, and constraints) and
+           Defense and Chairman of the Joint Chiefs of               provide them to the crisis action team,
+           Staff informed of new developments. Establish a           combatant commanders, and counterparts.
+           newsgroup supporting the crisis action, and             Crisis Assessment:
+           announce it by message.
+                                                                       Refine the legal considerations.
+
+Component II: Planning                                       Component II: Planning
+
+   Course of action development.                               Incorporate legal considerations and instructions
+   In coordination with subordinate and supporting                for developing rules of engagement and rules for
+                                                                   the use of force in the combatant commander’s
+      commanders, develop and analyze courses of                   planning guidance.
+      action.
+   Review and use applicable plans.                            Review the combatant commander’s estimate for
+   Detailed plan development.                                     compliance with law and policy and make
+   Issue guidance to subordinate and supporting                   appropriate recommendations.
+      commanders for time-phased force and deployment
+      data development.                                         Coordinate legal issues and support requirements
+   Submit the commander’s estimate to the President               with counterparts.
+      and/or Secretary of Defense and Chairman of the
+      Joint Chiefs of Staff.                                    Contact legal counterparts and facilitate
+   Begin detailed execution planning upon receipt of a            concurrent planning.
+      planning order or alert order.
+                                                                Review and validate any judge advocate joint task
+                                                                   force joint manning document requirements and
+                                                                   synchronize joint legal support.
+
+                                                                Participate in cross functional staff organizations,
+                                                                   as required.
+
+Component III: Execution                                     Component III: Execution
+
+   Execute the operation order.                                Monitor operations for legal issues as required.
+   Report force shortfalls to Chairman of the Joint            Ensure legal arrangements for deployment/
+
+      Chiefs of Staff for resolution.                              redeployment with host nations are in place
+                                                                   through US embassies on all affected areas of
+                                                                   responsibility.
+
+  Figure II-5. Adaptive Planning and Execution System Crisis Action Planning Duties and
+                                               Responsibilities (cont’d.)
+
+          (5) COA Comparison. During COA comparison, the joint force SJA develops
+criteria to evaluate and compare the legal issues associated with each COA.
+
+          (6) COA Selection. During the COA brief to the JFC, the joint force SJA is
+prepared to identify legal considerations that have significant impact on any aspect of the
+recommended COA. Additionally, the joint force SJA provides an assessment of the legal
+support requirements to achieve the objectives of the recommended COA.
+
+                                                                                                                     II-11
+
+
+---
+
+Chapter II
+
+Mission Analysis
+
+Staff Processes                                      Staff Judge Advocate’s Actions
+
+   Analyze higher headquarters planning                Participate in the core planning cell of the joint
+      activities and strategic guidance.                  planning group.
+
+   Review commander's initial planning                 Identify legal support requirements.
+      guidance, including his initial understanding
+      of the operational environment, of the            Contact legal counterparts at higher, lower, and
+      problem, and description of the operational         adjacent headquarters at the earliest
+      approach.                                           opportunity and establish the basis for
+                                                          concurrent planning.
+   Determine known facts and develop
+      planning assumptions.                             Review all planning documents.
+
+   Determine and analyze operational                   Assist the combatant commander by advising
+      limitations.                                        of legal issues relating to known facts, current
+                                                          status, and/or conditions. Determine own
+   Determine specified, implied, and essential           specified, implied, and essential tasks. Assist
+      tasks.                                              the commander by identifying legal issues
+                                                          impacting operational limitations. Provide
+   Develop mission statement.                            guidance as to legal issues that have the
+                                                          potential to impact own military end state,
+   Conduct initial force allocation review.              objectives, and initial effects, as well as those
+                                                          that may impact initial commander's critical
+   Develop risk assessment.                              information requirements. Review
+                                                          commander’s communication synchronization
+   Develop mission success criteria.                     guidance, when applicable, for legal issues.
+                                                          Assist in the conduct of initial force structure
+   Develop commander's critical information              analysis and initial risk assessment, highlighting
+      requirements.                                       any areas of legal concern. Assist with the
+                                                          development of the mission statement to
+   Prepare staff estimates.                              ensure no legal objections. Assist with initial
+                                                          staff estimates to ensure no legal objections.
+   Prepare and deliver mission analysis brief.           Review commander’s planning guidance and
+                                                          initial intent to confirm no legal
+   Publish commander's updated planning                  objections/issues.
+      guidance, intent statement, and refined
+      operational approach.                             Research applicable domestic, international,
+                                                          and foreign laws, policies, treaties, and
+                                                          agreements.
+
+                                                        Summarize relevant legal considerations
+                                                          (authorities, restraints, and constraints) and
+                                                          provide them to the joint planning group.
+
+                                                        Consider assigned mission, current situation,
+                                                          next higher commander’s intent, United Nations
+                                                          Security Council resolutions, standing rules of
+                                                          engagement/rules for the use of force,
+                                                          approved supplemental rules of
+                                                          engagement/rules for the use of force,
+                                                          multinational rules of engagement/rules for the
+                                                          use of force, and fiscal constraints.
+
+                  Figure II-6. Mission Analysis
+
+II-12                                                JP 1-04
+
+
+---
+
+                                                  Legal Support to Joint Operation Planning
+
+Course of Action Development
+
+Staff Processes                                   Staff Judge Advocate’s Actions
+
+   Review information.                             Assist the commander, joint task force, and staff
+   Determine the course of action (COA)            in evaluating each course of action to ensure it is
+                                                    acceptable (i.e., worth the risks and within legal
+      development technique.                        parameters):
+   Review operational objectives and tasks
+                                                        Think two levels down.
+      and develop ways to accomplish tasks.
+   Synchronize (arrange in terms of time,              Consider all of the domains (air, land,
+                                                          maritime, and space), and the information
+      space, and purpose) the actions of all the          environment, to include cyberspace and all
+      elements of the force.                              of the joint functions (movement and
+   Focus on centers of gravity and decisive              maneuver, intelligence, fires, sustainment,
+      points.                                             protection, and command and control).
+   Identify the sequencing.
+   Identify main and supporting efforts.               List the rules of engagement/rules for the
+   Identify component-level missions/tasks.              use of force supplemental measures
+   Develop the information operations support            required to support each course of action
+      items.                                              and test each course of action to ensure it is
+   Task organization.                                    acceptable (i.e., within use of force
+   Sustainment concept.                                  limitations).
+   Deployment concept.
+   Define the operational area.                        Consider input from counterparts at higher,
+   Develop initial COA sketches and                      lower, and adjacent headquarters.
+      statements.
+   Test the validity of each tentative COA.            Reconcile any legal objections by seeking
+   Conduct COA development brief to                      clarification or modification of each course of
+      commander.                                          action or requesting authorizations,
+   Commander provides guidance on COAs.                  exceptions, or waivers to support each
+   Continue the staff estimate process.                  course of action.
+   Conduct vertical and horizontal parallel
+      planning.
+
+                                  Figure II-7. Course of Action Development
+
+          (7) Operation Order (OPORD) and Time-Phased Force and Deployment Data
+(TPFDD) (see Figure II-9). During this step, the joint force SJA prepares the legal
+considerations paragraph of the “base plan” and the legal appendix to the personnel
+annex. The joint force SJA also assists other planning staff sections with appendices that
+have significant legal components related to the operation, e.g., assisting the J-3 or J-5 in
+preparing the ROE appendix to the operations annex and the appendix on enemy prisoners of
+war (EPWs) and detainees. These should be prepared in accordance with CJCSM 3130.03,
+Adaptive Planning and Execution (APEX) Planning Formats and Guidance. In addition, the
+SJA assists the J-3 or J-5 in preparing ROE request and authorization messages in
+
+                                                  II-13
+
+
+---
+
+Chapter II
+
+Course of Action Analysis (Wargaming)/Comparison/Selection
+
+Staff Processes                                   Staff Judge Advocate’s Actions
+
+   Serve to amplify the initial courses of          Continue to refine legal considerations.
+      action, show strengths and weaknesses,
+      and further identify elements of execution     Wargame legal consequences of friendly
+      of the courses of action.                        actions, threat reactions, and friendly
+                                                       counteractions.
+   The threat’s most likely and most
+      dangerous courses of action should be          Review legal authorities throughout
+      used to wargame the friendly courses of          wargaming.
+      action.
+                                                     Determine whether any friendly actions or
+   Wargame the actions of the joint task force        counteractions require approval by higher
+      two command levels down for increased            authority.
+      fidelity.
+                                                    Course of Action Comparison
+   Should help to synchronize joint task force
+      component actions.                               Evaluate courses of action in light of
+                                                         established criteria.
+  Course of Action Comparison
+                                                       Provide additional comparison criteria.
+     Determine comparison criteria.
+                                                    Course of Action Selection
+     Compare each friendly course of action
+        with enemy courses of action in                Brief the legal considerations and assist
+        accordance with the comparison criteria.         other staff sections in briefing legal
+                                                         issues related to their planning (e.g.,
+     Determine optimal course of action that            rules of engagement, detainees).
+        achieves desired operational objectives.
+                                                       Determine legal support requirements.
+  Course of Action Selection
+
+     Brief recommended course of action to
+        the commander, joint task force.
+
+           Figure II-8. Course of Action Analysis (Wargaming)/Comparison/Selection
+
+accordance with CJCSI 3121.01B, Standing Rules of Engagement/Standing Rules for the Use
+of Force for US Forces.
+
+                (a) The legal considerations paragraph of the OPORD contains a summary of
+the international legal basis, domestic legal basis, and any legal considerations that may
+affect implementation of the plan or order (e.g., status of forces agreements, ROE,
+international agreements, law of war, PR [evader versus escapee], detainee operations, and
+United Nations Security Council resolutions).
+
+                (b) The legal appendix to the personnel annex (appendix 2 [Legal] to annex E
+[Personnel]) reflects the legal estimate developed during the planning process and outlines
+the plan for legal support. The joint force SJA uses the legal appendix to describe the legal
+considerations in detail; cite applicable references, including inter-Service, HN, and
+reciprocal support agreements; define key terms; establish coordinating and other
+administrative instructions; and state policies and procedures for all legal matters within the
+joint operations area (JOA).
+
+II-14                                                                                              JP 1-04
+
+
+---
+
+                                               Legal Support to Joint Operation Planning
+
+Prepare Operation Order and Time-Phased Force and
+Deployment Data/Issue Synchronized Operation Order
+
+Staff Processes                                Staff Judge Advocate’s Actions
+
+   Determine who is responsible for the          Prepare the legal considerations paragraph of
+      “base plan” and the various annexes of        the “base plan” according to Chairman of the
+      the operation order.                          Joint Chiefs of Staff Manual (CJCSM) 3130.03.
+
+   Write operation order.                        Prepare the legal appendix according to CJCSM
+                                                    3130.03.
+   Develop the time-phased force and
+      deployment data.                            Assist the J-3 (operations directorate of a joint
+                                                    staff)/J-5 (plans directorate of a joint staff) in
+   Brief/obtain approval for the final draft       preparing the rules of engagement or rules for
+      operation order.                              the use of force appendix.
+
+   Brief operation order to components/other     Assist the J-3/J-5 in preparing supplemental
+      staff.                                        rules of engagement or rules for the use of force
+                                                    request and authorization messages according
+   Publish/transmit final draft operation          to the format in Chairman of the Joint Chiefs of
+      order. Obtain component supporting            Staff Instruction 3121.01B, Standing Rules of
+      plans.                                        Engagement/Standing Rules for the Use of
+                                                    Force for US Forces.
+   Conduct crosswalks and backbriefs as
+      directed.                                   Monitor dissemination, training, and
+                                                    interpretation of rules of engagement or rules for
+   Modify operation order as necessary and         the use of force and of guidance for detention
+      publish/transmit.                             operations. Review all training tools used at
+                                                    lower echelons.
+
+                                                  Review and crosswalk the combatant
+                                                    commander’s, joint task force’s, and
+                                                    components’ operation orders and any rules of
+                                                    engagement or rules for the use of force
+                                                    authorization messages to ensure they are
+                                                    legally correct, complete, and consistent.
+
+                                                  Recommend fragmentary order(s) and changes
+                                                    to the rules of engagement or rules for the use
+                                                    of force to correct any errors or omissions.
+
+ Figure II-9. Prepare Operation Order and Time-Phased Force and Deployment Data/Issue
+                                           Synchronized Operation Order
+
+                (c) The joint force SJA assists other staff sections in the preparation of annexes
+that have significant legal implications for the operation. While a review of the entire
+OPORD is required, the most significant legal issues are found in the appendices for
+operations including ROE, EPWs and detainees, PR, intelligence, logistics (specifically
+annex W [Operational Contract Support]), and force protection. The joint force SJA must
+read the entire OPORD to ensure it is consistent with applicable law and policy.
+
+For further guidance on planning, coordinating, supporting, and executing a PR mission,
+refer to JP 3-50, Personnel Recovery.
+
+                (d) In developing these planning products, the joint force SJA continuously
+communicates with and solicits input from counterparts. The Services and Service
+
+                                                                                                       II-15
+
+
+---
+
+Chapter II
+
+components retain responsibility for legal support to their forces, subject to the coordinating
+guidance of the joint force SJA issued under the authority of the JFC. When coordinating
+inter-Service legal support, the joint force SJA should consider ways to leverage limited
+resources (e.g., personnel, communications systems, and transportation) and avoid
+duplication of effort by recommending the JFC establish joint legal organizations or
+collocating single-Service legal organizations throughout the JOA, as appropriate. For
+multinational operations, there should be close coordination with multinational force legal
+advisors.
+
+          (8) Issue and Synchronize OPORD (see Figure II-9). During this step, the joint
+force SJA reviews the higher, lower, and adjacent commanders’ OPORDs to ensure
+synchronization, unity of effort, legal accuracy, completeness, and consistency. The
+joint force SJA should attempt to correct any errors or omissions before the OPORDs are
+formally published.
+
+          (9) Rehearsal. The joint force SJA attends the operations order rehearsal.
+This is the joint force SJA’s first opportunity to assess each commander’s understanding of
+the applicable legal restraints and constraints on the operation. If there are inconsistencies,
+the joint SJA seeks clarification and amendment consistent with the legal
+restraints/constraints, or seeks authorizations, waivers, or exceptions to support the proposed
+actions. During the rehearsal, the SJA provides to the commander and staff any legal
+briefings and training pertinent to the operation (e.g., country law briefs, EPW and detainee
+operations, and ROE or RUF situational training).
+
+For detailed guidance on joint planning, see JP 5-0, Joint Planning.
+
+II-16  JP 1-04
+
+
+---
+
+                                      CHAPTER III
+
+                    LEGAL SUPPORT TO THE JOINT TASK FORCE
+
+     “Operational Law is going to become as significant to the commander as
+     maneuver, as fire support, and as logistics. It will be a principal battlefield activity.
+     The senior staff judge advocates may be as close to the commander as his
+     operations officer or his chief of staff. They will be the right hand of the
+     commander, and he will come to them for advice.”
+
+                                                                       Lieutenant General Anthony C. Zinni
+                                Commanding General, I Marine Expeditionary Force (1994-1996)
+
+1. Introduction
+
+     a. As the principal legal advisor to the CJTF and JTF staff, the JTF SJA is responsible
+for the organization and employment of legal personnel assigned or attached to the JTF HQ.
+The JTF SJA provides full-spectrum legal service to the JTF HQ and coordinates with the
+supported CCDR’s SJA and supporting component SJAs to optimize legal support
+throughout the JTF.
+
+     b. This chapter provides guidance to establish, staff, train, equip, and employ a JTF SJA
+section. Although this chapter focuses specifically on a JTF, it is an applicable framework
+for examining the key planning considerations of a joint force SJA at all echelons of
+command. This chapter describes the role, responsibilities, and key considerations of the
+JTF SJA throughout the JTF life cycle of form, plan, deploy, employ, transition, and
+redeploy. Although the JTF lifecycle appears sequential and linear in progression, in reality,
+the JTF is a dynamic organization that typically operates in a time-sensitive and ever-
+changing environment that requires many actions to occur concurrently (see Figure III-1).
+The SJA section supporting a JTF HQ similarly should be dynamic in its organization,
+planning, training, and execution.
+
+For additional information on forming a JTF HQ, see JP 3-33, Joint Task Force
+Headquarters.
+
+2. Legal Support in the Joint Task Force Battle Rhythm
+
+     a. Each JTF develops a battle rhythm of daily events, briefings, and meetings that
+optimizes the information flow across the staff, allowing the organization to plan and execute
+the mission most effectively. The battle rhythm is a primary factor that drives the legal
+support requirements for the JTF HQ, including support to the cross functional staff
+organizations that plan and execute the JTF mission. It is through the battle rhythm that the
+JTF SJA identifies and responds to many of the legal support requirements of the JTF HQ
+and subordinate commands. An effective JTF SJA understands the JTF battle rhythm, as
+well as the collaborative information environment (CIE), and actively provides legal advice
+and counsel to the cross functional staff organizations of the JTF.
+
+     b. Cross Functional Staff Organizations
+
+                                                                                                       III-1
+
+
+---
+
+Chapter III
+
+Joint Task Force Life Cycle Reality
+
+             Form
+
+                           Plan
+
+                                           Transition
+
+                                 Redeploy
+
+                   Deploy
+
+                   Employ
+
+                               Figure III-1. Joint Task Force Life Cycle Reality
+
+          (1) JTF mission planning and execution is conducted through various cross
+functional staff organizations formed to allow cross-functional synchronization of effort in a
+specific area of interest. Although the specific cross functional staff organizations vary
+according to the JTF mission, the JTF should have a central planning group or joint planning
+group (JPG). The JTF SJA (or SJA representative) normally serves as a member of the JPG.
+The JTF SJA assists the JPG by identifying legal issues that may affect operational planning.
+To help with immediate legal support to the JPG, the JTF SJA section initially may be
+augmented by a JA from a joint legal support element (JLSE), or similar entity.
+
+          (2) In addition to the JPG, the JTF SJA typically is a member of the ROE/RUF
+planning cell, the information operations cell, the joint operations center (JOC), the joint
+security coordination center, the civil-military operations center, joint targeting coordination
+board (JTCB), joint facilities utilization board, the joint acquisition board, and the joint
+reception center. Legal advisors are also assigned as members of any board, center, or cell
+that will likely face significant legal issues on a recurring basis.
+
+For further details regarding the composition of a JTF, see JP 3-33, Joint Task Force
+Headquarters.
+
+     c. Functional Areas. In addition to the direct support provided to the cross functional
+staff organizations, the JTF SJA is prepared, either directly or through the CIE, to provide
+legal support to the CJTF and staff across the legal functional areas. The functional areas
+include, but are not limited to, the following:
+
+          (1) Administrative law, including investigations;
+
+III-2                                                  JP 1-04
+
+
+---
+
+                                                    Legal Support to the Joint Task Force
+
+(2) Air and space law;
+(3) Business, commercial, and financial law;
+(4) Claims;
+(5) Contract law;
+(6) Criminal law;
+(7) Cyberspace law;
+(8) Detainee operations;
+(9) Defense support of civil authorities;
+(10) Defense support of law enforcement;
+(11) Environmental law;
+(12) Ethics and Standards of Conduct;
+(13) Fiscal law;
+(14) Intellectual property law;
+(15) Intelligence law;
+(16) International, comparative, and foreign law;
+(17) Law of the sea;
+(18) Law of war;
+(19) Labor and civilian personnel law;
+(20) Legal assistance;
+(21) Legal training;
+(22) Litigation;
+(23) Medical law;
+(24) Military justice;
+(25) Military and civilian personnel law, including adverse actions;
+(26) Operational law;
+
+                                                                                            III-3
+
+
+---
+
+Chapter III
+
+          (27) Real property law;
+
+          (28) Regulatory law;
+
+          (29) Rule of law;
+
+          (30) Tax law;
+
+          (31) Transportation law;
+
+          (32) Telecommunications law; and
+
+          (33) Laws and status of the RC.
+
+For details regarding specific functional legal issues, see Operational Law Handbook, The
+Judge Advocate General’s Legal Center and School, US Army; Air Force Operations and the
+Law, The Judge Advocate General’s School, US Air Force; Judge Advocate General
+Instruction 5800.7, Manual of the Judge Advocate General, Judge Advocate General’s
+Corps, US Navy; and Navy Warfare Publication (NWP) 1-14M, The Commander’s
+Handbook on the Law of Naval Operations.
+
+3. Forming the Joint Task Force Staff Judge Advocate Section
+
+     a. Joint force SJAs at all levels develop the organizational structure for their command
+SJA sections; but, unlike the JTF SJA, most are not required to form at the same time they
+are planning, training, and deploying for an operation. Because JTFs are established in a
+variety of different ways and for diverse missions, it is important for a JTF SJA to
+understand fully the legal support requirements of the particular JTF and how those
+requirements may change over time.
+
+     b. Designation as a JTF SJA often requires a transition from a single Service
+perspective to a broader joint operational view. JTF SJAs may initially be unfamiliar with
+the other Service forces they will support as part of the JTF, but should be familiar with joint
+doctrine, processes, and procedure. Unlike Service component SJAs, who are responsible
+for their respective Service legal organizations, the JTF SJA integrates and synchronizes the
+wide range of legal capabilities available throughout the JTF. The JTF SJA should be
+familiar with the unique legal capabilities and limitations of the component forces and
+understand how best to employ them to support the CJTF’s concept of operations. During
+the formation of the JTF SJA section, the JTF SJA should be in close coordination with
+counterparts at higher, lower, and adjacent HQ to determine properly the optimal legal
+organization and staffing requirements.
+
+     c. The JTF SJA has many options for developing the organizational structure of the
+section. When determining the organization, staffing, and augmentation requirements, a JTF
+SJA should:
+
+          (1) Consider mission; enemy (forces and tactics); terrain and weather (operational
+environment); troops and support available (composition of the joint force); time available
+
+III-4  JP 1-04
+
+
+---
+
+                                                               Legal Support to the Joint Task Force
+
+(for JTF forming and mission duration); civilian considerations (contractors, interagency
+personnel, nongovernmental and intergovernmental personnel, and international civilian
+organizations); language translation requirements; and political factors and the effect these
+factors will have on required legal support.
+
+          (2) Operate according to the JTF staff’s “battle rhythm” on a 24-hour cycle.
+
+          (3) Support and provide SJA representation to the specific JTF cross functional
+staff organizations that require legal expertise in the planning and employment of JTF forces.
+This representation may require having a JA collocated with each board, center, or cell.
+
+          (4) Be prepared to provide appropriate functional area expertise and administrative
+support to the JTF HQ either directly or through reachback to functional experts via the CIE.
+
+          (5) Balance the SJA section staffing as to numbers, experience, influence of
+position, and rank of component, so as to provide the best possible legal advice and counsel
+to the JTF commander and staff.
+
+          (6) Reflect in the SJA section the composition of the joint force and character of
+the operation to ensure that the section understands the capabilities, legal requirements, and
+limitations of each component.
+
+          (7) Consider efficiencies of scale and Service component responsibilities.
+
+          (8) Define duties, roles, and relationships. Clearly defined duties, roles, and
+relationships are essential to forming a cohesive staff section and integrating and
+synchronizing the actions of the various legal organizations within the joint force SJA’s area
+of concern.
+
+          (9) Understand the rotation policy for individual augmentees assigned to the joint
+force command. Although the CCDR ultimately establishes individual and unit rotation
+policies, the policies will not necessarily be uniform. To stabilize key billets, consider filling
+them with personnel with the longest tour lengths. However, this consideration should be
+balanced against the capabilities and talents of the individuals involved.
+
+          (10) Consider the level of familiarity that the section will have with regard to joint
+doctrine and organizations.
+
+          (11) For multinational operations, conduct effective liaison with the legal staff of
+partner forces and coalition or allied HQ legal staff.
+
+          (12) Understand the sourcing processes for augmenting the section or requesting
+specific legal capabilities.
+
+          (13) Become familiar with the administrative requirements of the various Services,
+especially with regard to evaluations, mandatory counseling, and fitness testing.
+
+                                                                                                       III-5
+
+
+---
+
+Chapter III
+
+     d. The organization, staffing, training, and equipping requirements of the JTF SJA
+section depends on many factors, but one constant is the need to build a task organized joint
+legal team. Important team-building tasks include defining responsibilities for direct and
+technical legal supervision and support.
+
+4. Joint Task Force Staff Judge Advocate Manning
+
+     a. SecDef and CCDRs have many options in establishing a JTF HQ. The JTF HQ can
+be established by using a standing JTF HQ, by augmenting a core Service component HQ, or
+by forming an ad hoc HQ from multiple Services. A governor or a state’s adjutant general
+may also create a JTF for defense support of civil authorities. With any method, the CJTF
+will propose a JTF JMD that lists the personnel staffing requirements for all elements of that
+JTF HQ. For more information on establishing a JTF, see JP 3-33, Joint Task Force
+Headquarters. For more information on support of civil authorities, see JP 3-28, Defense
+Support of Civil Authorities. The JTF SJA develops the personnel requirements for the SJA
+section and submits them to the manpower and personnel directorate for inclusion in the
+CJTF’s proposed JMD. The development of the JTF SJA JMD is a critical step in ensuring
+optimal legal support for the JTF.
+
+     b. Historical reviews of past JTF JMDs and joint JA working group evaluations of JTF
+SJA staffing requirements reveal that most JTF SJA sections require certain baseline staffing
+requirements to be capable of providing adequate legal support to the CJTF and staff.
+Although there is variability in staffing requirements for each JTF due to the factors listed
+above, a typical JTF must be capable of operating on a 24-hour battle rhythm. This notional
+JTF SJA section, organized into three subsections—operational law, legal services, and
+administration—includes the following:
+
+          (1) SJA;
+
+          (2) Deputy SJA;
+
+          (3) Chief, operational law;
+
+          (4) Two to four operational law JAs (day and night operations);
+
+          (5) One to two international law JAs;
+
+          (6) Chief, legal services;
+
+          (7) One to two contract/fiscal law JAs;
+
+          (8) One to two claims/legal assistance law JAs;
+
+          (9) Military justice practitioner;
+
+          (10) One legal administrator; and
+
+          (11) Four to six paralegals.
+
+III-6  JP 1-04
+
+
+---
+
+                                                               Legal Support to the Joint Task Force
+
+     c. The notional JTF SJA section reflects a starting point for SJA staff planning that
+ensures the many cross functional staff organizations of the JTF will receive effective legal
+support. As the JTF grows or shrinks in the complexity of the mission, scope, or battle
+rhythm, the demand for legal support may change correspondingly. JMD template tools are
+available through the CIE that can assist the CCDR and JTF SJAs in developing the
+requirements for the SJA section manning (see Figure III-2).
+
+     d. The supported CCDR SJA assists the CCDR in validating and sourcing personnel
+requirements for subordinate joint force SJA sections. The JTF SJA must maintain
+situational awareness while planning and controlling operations and be prepared to request
+modification of the JTF JMD as necessary. A potential resource for the JTF SJA is the Joint
+Judge Advocate Sourcing Working Group comprised of the Service JAGs and supported
+CCMD SJA representatives. This working group works collaboratively to ensure that
+trained and qualified JAs and paralegals are sourced to fill specific JTF SJA JMD
+requirements.
+
+ Notional Joint Task Force Staff Judge Advocate Section
+
+                                                    Staff Judge
+                                                      Advocate
+
+                                                             Deputy Staff Judge
+                                                                   Advocate
+
+     Chief,                          Chief,                   Legal Administrator
+Legal Services                Operational Law                 (Service Dependent)
+
+   Contract/    Claims/Legal  Operations Law  Operations Law  Paralegal
+     Fiscal      Assistance       Attorney        Attorney
+                                     (Day           (Night
+   Attorney        Attorney
+                                Operations)     Operations)
+   Paralegal
+Administrative  Military      International       Paralegal
+                Justice       Law Attorney           (Day
+      Law
+                                                Operations)
+
+                               Paralegal
+                                 (Night
+
+                              Operations)
+
+Figure III-2. Notional Joint Task Force Staff Judge Advocate Section
+
+                                                                         III-7
+
+
+---
+
+Chapter III
+
+     e. Augmentation of the SJA Section
+
+          (1) The core JTF staff often is formed from an existing Service component HQ.
+This Service component HQ transforms into a joint organization and is augmented by other
+Service or CSA personnel. For example, in a chemical, biological, radiological or nuclear
+incident, the SJA section can be augmented with functional legal capabilities from a Defense
+Threat Reduction Agency chemical, biological, radiological, and nuclear military advisory
+team that is task organized to a CCDR’s JTF during a crisis or incident. This augmentation
+may come in several forms. Immediate augmentation for CAP may come from assigned
+CCMD forces or from a JLSE, which is a multi-Service, multidisciplined legal enabling
+capability comprised of JAs or civilian attorneys assigned to the CCDR’s staff. The
+command JAs and JLSE can provide responsive legal expertise to the CJTF and staff during
+CAP. The command JAs and JLSE do not function as a forward element of the CCDR’s
+staff, but rather as fully integrated members of the JTF staff. These elements deploy to assist
+the JTF SJA in carrying out planning and execution responsibilities. The command JAs and
+JLSE normally will have participated in CAP as members of the CCDR’s battle staff and
+will be knowledgeable about the joint operation planning and execution process, the
+operational area, the political-military situation and the CCDR’s plan and intent for resolving
+the crisis. If the command does not include a JA, the JTF SJA may ask the CCDR’s SJA to
+provide a representative.
+
+          (2) Another source of SJA initial augmentation may come from a joint JA crisis
+action response cell (see Figure III-3). This cell, which could be sourced with JAs from
+CCMD components and/or Service HQ, provides the JTF SJA with immediate joint legal
+capability that augments the JTF SJA section until rotational JMD positions are adequately
+sourced and trained. A joint JA crisis action response cell is typically a short-term
+augmentation for an ad hoc JTF HQ. A JTF SJA needing this team could request the support
+as a request for forces through the JTF J-3. This cell, like the JA from the JLSE, becomes
+part of the JTF SJA section and provides the JTF SJA immediate legal support in functional
+legal specialties.
+
+          (3) The policy and procedures for obtaining individual augmentees (versus
+augmentation of a capability by a cell) for the JMD is prescribed in CJCSI 1301.01, Joint
+Individual Augmentation Procedures. Individual augmentees to the JTF are positions
+specifically listed on the JTF JMD and coordinated for sourcing through the manpower and
+personnel directorate of a joint staff (J-1). The CCDR assigns missions to subordinate JFCs
+and validates the forces required to accomplish those missions. Once validated, the CCDR
+secures the required augmentees from the CCMD staff and component commands.
+(Exception: Requirements for SOF are sourced directly through TSOCs to USSOCOM.)
+The CCMD components source as much of the required joint force as possible from internal
+resources. Remaining requirements are passed to the appropriate Service HQ for individual
+augmentee sourcing.
+
+          (4) The Joint JA Sourcing Working Group, comprised of Service, CCMD, and joint
+staff representatives, monitors and makes recommendations for sourcing of JAs for joint
+legal support requirements. The working group provides joint JA sourcing solutions for J-3
+requests for forces and for J-1 individual augmentation. The working group makes
+
+III-8  JP 1-04
+
+
+---
+
+                                                             Legal Support to the Joint Task Force
+
+Notional Joint Judge Advocate Crisis Action Response Cell
+
+                                                     Chief,
+                                              Operational Law
+
+Contract/Fiscal  Operations Law  International Law   Paralegal    Paralegal
+    Attorney         Attorney         Attorney          (Day        (Night
+                       (Night
+                                                    Operations)  Operations)
+                   Operations)
+
+             Figure III-3. Notional Joint Judge Advocate Crisis Action Response Cell
+
+recommendations to Joint Staff J-35 [Joint Force Coordinator], to ensure each JTF is
+adequately sourced with appropriate legal qualifications and skills.
+
+5. Joint Staff Judge Advocate Training
+
+     a. Joint training is one of three components to providing adequate legal support to the
+JTF. There are two components of joint SJA training—individual and organizational.
+
+     b. Individual Joint Training. To ensure that the JTF SJA section can provide
+adequate legal support to the JTF, the SJA and TJAGs of the Services and SJA to CMC must
+ensure that assigned or attached personnel have the requisite individual training. All
+members of the JTF SJA section should be trained in three areas: legal, joint, and tactical
+(see Figure III-4). Although the level of experience and/or training in joint operations and
+legal skills may vary based upon the position and rank, all personnel must have
+commensurate tactical training.
+
+          (1) Legal Training. Each Service provides Service-specific operational law
+training that focuses on the primary activities of that Service. This training provides the
+foundation for the legal expertise needed to advise the JTF in Service specific areas of
+operation (e.g., air operations, space operations, maritime operations, and ground maneuver
+operations, regional language and cultural training, and host country law training) and meets
+the minimum legal training requirements to serve in a JTF SJA section. This training,
+however, may be inadequate for the JTF SJA or supervisors in the JTF SJA section (e.g.,
+chief, operational law section and chief, legal services section) because it does not provide a
+sufficiently broad overview of legal issues at the joint operational level. JTF SJA and
+supervisory JAs typically require advanced operational law instruction and/or significant
+prior operational law experience. Before serving as the JTF SJA or a supervisory JA, JAs
+should attend current operational law courses offered outside their parent Service, to include
+courses offered by international partners.
+
+                                                                              III-9
+
+
+---
+
+Chapter III
+
+Skills Sets for the Joint Task Force Judge Advocate
+
+Legal Skills                     Joint Skills                    Tactical Skills
+
+     Noncombatants               National security structure    Weapons qualification
+     Post-conflict operations    Joint staff structure
+     Civil-military operations   Task organization/command      CBRN
+     Humanitarian assistance/
+                                    and support relationships     Force protection (convoy
+        disaster relief           Military decision-making         operations, IED
+     Rule of law                                                   recognition, etc.)
+     Peace operations              process
+     Irregular warfare           Plans/orders                   First aid
+     Joint military justice      APEX/joint planning
+     Contracts law               Targeting operations           Communications
+     Claims                      Staff studies
+     Detention operations        Leadership/training            Navigation
+                                  JPME I/II
+Legend                            Foreign disclosure/security    Troop leading procedures
+
+                                                                  Military briefing
+
+                                                                  JOC watch standing
+
+                                                                  Licensed to operate/drive
+                                                                    tactical vehicle (e.g.,
+                                                                    HMMWV)
+
+APEX Adaptive Planning and Execution                  IED        improvised explosive device
+CBRN chemical, biological, radiological, and nuclear  JOC
+HMMWV high mobility multipurpose wheeled vehicle      JPME I/II  joint operations center
+
+                                                                 joint professional military education
+                                                                 (phase I/II)
+
+             Figure III-4. Skills Sets for the Joint Task Force Judge Advocate
+
+          (2) Joint Training. The JTF SJA should understand that joint doctrine is different
+from their Service doctrine and procedures. It is important that the JTF SJA section similarly
+understand the broad joint planning and employment processes and products. Accordingly,
+JAs assigned or attached to a JTF should be qualified as Joint Professional Military
+Education-1 or Joint Professional Military Education-2 by completing a qualifying course,
+either in residence or by correspondence.
+
+          (3) Tactical Training. All legal personnel supporting a JTF must be prepared to
+operate in a deployed joint environment that requires individual and unit force protection
+measures, including the ability to move tactically or coordinate movement throughout the
+operational environment. Not all of these skills are usually required of JAs within the
+various Services. Consequently, certain operational skills must be acquired before
+embarking for service in a JTF SJA section. Operational skills training should include all
+required Service and/or CCMD-directed predeployment training, and may be augmented
+depending on mission requirements. Required operational skills training for JTF SJA section
+personnel may include:
+
+                (a) Qualification with individually assigned weapon and familiarization on
+weapons personnel may be exposed to in the operational environment to include, but not
+limited to, the M-9, M-4/M-16A2, M-249, and M-240;
+
+                (b) Chemical, biological, radiological, and nuclear defense training;
+
+III-10                                                                                                  JP 1-04
+
+
+---
+
+                                                               Legal Support to the Joint Task Force
+
+                (c) Force protection training;
+
+                (d) Land navigation training;
+
+                (e) JOC watch standing training (e.g., JOC procedures during troops in contact
+call, friendly fire incident);
+
+                (f) Communications training;
+
+                (g) Convoy operations training (including operation of various tactical vehicles
+and local traffic laws, route assessment, selection, order of movement, rest stops, improvised
+explosive device procedures, vehicle recovery procedures, medical evacuation [MEDEVAC]
+procedures, and enemy contact procedures [flee or pursue]);
+
+                (h) First aid training (combat lifesaver course or advanced medical training, if
+available, including MEDEVAC procedures); and
+
+                (i) Detainee handling procedures (e.g., search, evidence handling, and chain of
+custody during transport).
+
+          (4) When a JA or paralegal has completed all three areas of training, the respective
+Services should be able to track and identify those JAs and paralegals to facilitate the
+timeliness of the individual augmentation sourcing process (see Figure III-5).
+
+     c. Organizational JTF SJA Training. The JTF SJAs organizational training
+responsibilities fall into two categories: SJA section training and CJTF and staff training.
+
+          (1) SJA Section Training
+
+                (a) The JTF SJA, like the rest of the JTF staff, assists the CJTF to develop the
+command’s joint mission-essential task list and joint training plan (JTP), in executing the
+command’s joint training and exercise program, and in assessing the command’s mission
+capability and any strengths or deficiencies in doctrine, organization, training, materiel, or
+education. In addition, the JTF SJA identifies supporting tasks performed by the SJA section
+and in assisting subordinate component SJAs in identifying supporting tasks performed by
+their sections. The JTF SJA develops a supporting SJA JTP to prepare the SJA section for
+its mission. The JTF SJA’s JTP should supplement rather than duplicate the command’s
+JTP.
+
+For further detail on the development of the JTP, see CJCSM 3500.03, Joint Training
+Manual for the Armed Forces of the United States.
+
+                (b) Successful legal support to the JTF depends on a well-integrated legal team
+where each member of the section understands the overall JTF mission, the operations of the
+JTF, the responsibilities of the JTF SJA section, and their specific role within the
+organization. Because the JTF is augmented with personnel from different Services and
+from the Active Component and RC, the JTF section training program should include an
+orientation to the specific JTF HQ that includes the boards, centers, and cells that the SJA
+
+                                                                                                      III-11
+
+
+---
+
+Chapter III
+
+Competencies for Joint Task Force
+Staff Judge Advocate Section Members
+
+             Duty Title                Training/Experience
+
+        Staff Judge Advocate           Operational skills/significant operational law experience and
+                                       related joint headquarters experience, Reserve Component
+        Deputy Staff Judge Advocate    matters
+
+        Chief, Legal Services Claims/  Operational skills/significant operational law experience or
+        Legal Assistance Attorney      related joint headquarters experience
+        Fiscal Law/Contingency
+        Contracting Attorney           Operational skills/contract and fiscal law courses or subject
+        Chief, Operational Law         matter experience
+
+        Operational Law Attorneys      Operational skills or operational law course or subject matter
+                                       experience
+        International Law Attorney
+                                       Operational skills
+        Legal Administrator            Operational skills/LLM in international/military law or
+        Operational Paralegals         significant subject matter experience
+        Paralegals
+                                       Operational skills or operational law course or subject matter
+                                       expertise/rule of law training
+
+                                       Operational skills/LLM in international/military law or subject
+                                       matter experience
+
+                                       Operational skills
+
+                                       Operational skills/CoC familiarization
+
+                                       Operational skills
+
+Legend       Code of Conduct           LLM Legum Magister (Master of Laws)
+
+  CoC
+
+  Figure III-5. Competencies for Joint Task Force Staff Judge Advocate Section Members
+
+directly supports, the JTF SJA section organization scheme, and computer training to ensure
+that all JTF JAs can utilize the CIE effectively. Depending on the JTF mission and
+environment, the section may also require training on section movement procedures,
+including office breakdown and set-up, convoy procedures, and force protection measures.
+
+                (c) In preparation for mission execution and time permitting, the fully
+augmented JTF SJA section should participate in a mission rehearsal exercise along with the
+entire JTF. This joint exercise assists the JTF SJA section in refining office procedure and
+JOC watch standing, improving JTF staff coordination and integration, and identifies
+potential shortfalls in manning, training, and equipping of the section before actual
+deployment.
+
+III-12                                                                      JP 1-04
+
+
+---
+
+                                                               Legal Support to the Joint Task Force
+
+          (2) JTF Command and Staff Training. The JFC and the JTF HQ staff will
+require training on the legal aspects of the JTF mission. The SJA typically provides training
+on the following:
+
+                (a) Law of war;
+
+                (b) ROE/RUF (in a support role to the J-3 staff);
+
+                (c) Host country or applicable domestic law;
+
+                (d) Detainee operations, including point of capture procedures:
+
+                     1. Evidence collection and exploitation,
+
+                     2. Interrogation,
+
+                     3. Detention center operations, and
+
+                     4. Adjudication by tribunal, commission, or other system of justice;
+
+                (e) Ethics and standards of conduct;
+
+                (f) Procurement/fiscal law considerations and constraints;
+
+                (g) Claims process;
+
+                (h) Other legal issues identified in the mission analysis.
+
+6. Equipping the Joint Task Force Staff Judge Advocate
+
+     a. A key component of the legal support to the JTF is the development of the equipment
+and logistic requirements for the JTF SJA section. Although Service component SJA offices
+often have organic equipment to perform their Service-specific legal support, a JTF SJA
+section typically will not have the organic equipment that is necessary to perform the entire
+joint legal support mission. The same factors that drive the manning requirements will affect
+the JTF SJA determination of the section’s equipment and logistic requirements. The
+mission, environment, composition of the joint force, size of the SJA section, JTF battle
+rhythm, and location of the section personnel supporting the boards, centers, and cells, are
+key factors affecting the equipment requirements. Individual and section research capability
+requirements, as well as the necessity for SJA section participation in the CIE should be
+considered to help determine equipment requirements. Considering these factors, the
+equipment development process should:
+
+          (1) Identify equipment and facilities requirements relative to each JTF billet.
+
+          (2) Identify communications system requirements (e.g., video teleconferencing,
+Defense Collaborative Services) with the CCDR’s SJA and component SJAs; Internet access
+for legal research; local area network and telephone; digital sender, digital camera, and
+
+                                                                                                      III-13
+
+
+---
+
+Chapter III
+
+tactical satellite communications capability; computer requirements (laptops versus
+desktops); and printers. Consider whether operations require secure communications.
+
+          (3) Identify transportation requirements (vehicles, containers, and qualified drivers)
+for all JTF SJA personnel and equipment. Consider timelines for container movement.
+
+          (4) Identify equipment (particularly computer hardware and software) necessary to
+participate in the CIE (e.g., information workspace software) and conduct reachback to
+sources of technical legal expertise such as the International and Operational Law Divisions
+of the Service JAGs and the Army’s Center for Law and Military Operations.
+
+          (5) Assess legal research (online and hard copy) requirements given the
+environment and the force composition.
+
+          (6) Identify field office requirements, including tentage, field desks, generators,
+lights.
+
+          (7) Identify access, password, and clearance requirements that allow JTF SJA
+personnel access to necessary computer-based legal references and resources. For example,
+security clearances that allow access to the SECRET Internet Protocol Router Network and
+passwords that allow access to the federal legal information through electronics (FLITE)
+database.
+
+          (8) Identify any constraints (e.g., space limitations, time, and funding).
+
+     b. Based on the notional JTF SJA template discussed in the section on forming the
+manning requirements above, a notional SJA equipment list is provided at Appendix A,
+“Notional Staff Judge Advocate Section.”
+
+7. Deployment
+
+     a. Deployment marks the beginning of the execution phase of the operation. Prior to a
+main body deployment, the JTF SJA researches and determines what legal authorities are in
+place and what legal authorities are necessary or desired to support the JTF mission.
+Authorities regarding the status, overflight, and ground transit of forces are usually most
+critical at this stage. The CJTF and higher HQ must be alerted to any legal deficiencies as
+soon as possible to allow them to coordinate and address the deficiency. The JTF SJA or a
+representative should deploy with the advance party to provide guidance on HN support,
+contingency contract support, and contractor personnel integration; to liaise with law
+enforcement, judicial, and embassy authorities; to coordinate procedures for foreign claims,
+temporary refuge and asylum requests, arming and detention policies, and environmental law
+issues; and to resolve other legal issues identified in the mission analysis.
+
+     b. The JTF SJA ensures that all section personnel, including any augmentees, are
+trained and qualified to deploy. The JTF SJA establishes a deployment plan for the section
+that is integrated into the overall JTF plan. All personnel in the section should understand
+the deployment plan for section movement priorities. Because augmentees to the JTF may
+deploy from different staging areas, and arrive at different times and reception points, each
+
+III-14  JP 1-04
+
+
+---
+
+                                                               Legal Support to the Joint Task Force
+
+member of the JTF SJA section must understand the reception, staging, onward movement,
+and integration plan and the joint personnel reception center process. In addition, the JTF
+SJA designates a closure element that ensures the section is present, accounted for, and
+operational. Finally, the JTF SJA monitors changes to the TPFDD and coordinating
+adjustments to the flow of SJA section personnel as necessary.
+
+     c. The JTF SJA reviews agreements between the US and the HN, in coordination with
+the JTF J-5, DOD defense attaché’s office or other appropriate staff element, to advise the
+JTF commander on any legal issues related to overflight and ground transit of forces. JTF
+SJA also will ensure that higher HQ counterparts have addressed operational issues that
+could be impacted by international, multilateral and bilateral treaties, agreements and
+arrangements in the operational area. Reference the DOD Electronic Foreign Clearance
+Guide (https://www.fcg.pentagon.mil/fcg.cfm) for peacetime agreements and arrangements
+in place concerning overflight and personnel travel requirements. This document may be
+used as a starting position for understanding contingency response agreements with HNs.
+
+8. Employment
+
+     a. Modern military operations take place in an increasingly complex geo-political
+environment. The classic scenario of defending against cross-border aggression represents
+only one of the challenges facing JFCs. Stability operations, foreign humanitarian assistance
+operations, and civil-military operations present increased requirements for direct legal
+support to the JFC. In this ever-changing environment, the JTF SJA no longer functions
+primarily within the combat support and combat service support arenas. A member of the
+JFC’s personal staff, the JTF SJA is an essential advisor on myriad of legal issues associated
+with combat and noncombat operations.
+
+     b. Statesmanship and diplomacy are important factors. Such considerations and
+working with DOD and other US Government departments and agencies, foreign
+government agencies, NGOs, and international organizations may occupy a significant
+portion of the JFC’s time. The JTF SJA assists the CJTF in working with these DOD and
+non-DOD organizations; for example, the International Committee of the Red Cross. At the
+same time, the JTF SJA ensures that the CJTF understands the laws, policies, treaties, and
+agreements that apply to US relations with the governments and inhabitants of foreign
+nations in the JTF’s JOA and how those laws, policies, treaties, and agreements may affect
+current and future JTF operations.
+
+     c. The JTF SJA assists the CJTF in monitoring, assessing, planning, coordinating,
+directing, and controlling operations through direct participation on JTF cross functional
+staff organizations. For example, to support JTF current operations, the JTF SJA assigns JAs
+as watch officers to the various JTF operations centers. SJA watch officers are responsible
+for assisting their J-3 counterparts in monitoring the execution of OPORDs, preparing
+operational reports; providing inputs to requests for information; providing operational law
+advice; maintaining SJA section journals and files necessary to record operational activities;
+evaluating actions to identify operational deficiencies; developing methods to improve joint
+effectiveness; and keeping the SJA and counterparts at higher, lower, and adjacent HQ
+appropriately informed utilizing the CIE. The JTF SJA also assigns JAs to support other
+
+                                                                                                      III-15
+
+
+---
+
+Chapter III
+
+critical boards and cells like the JTCB, where operational law expertise is absolutely
+essential to a proper analysis of whether planned strikes and time-sensitive and/or targets of
+opportunity comply with US obligations under the law of war; and the joint military police
+agency, where operational and international law expertise is similarly essential to ensure that
+the JTF’s treatment of EPWs and detainees is in accordance with applicable law and DOD
+policy.
+
+     d. Information management is a challenge facing the JTF SJA in the CIE. The
+increased size of the area in which joint operations take place and the large number of
+command elements favors decentralized execution at the operational level. This makes legal
+support dependent on information systems to exchange information and the ability of legal
+staffs to effectively communicate and manage the flow of information.
+
+     e. The JTF SJA section must retain an operational focus. By staying ahead of tactical
+events, the section can anticipate potential operational challenges, and can develop timely,
+cogent, and proactive solutions. Allowing the JTF SJA section to remain too tactically
+focused could do a disservice to the JTF and to the component SJAs who look to the JTF
+SJA for operational guidance and intent.
+
+9. Transition
+
+     The JTF SJA is responsible for transitioning legal support responsibilities to follow-on
+forces. Transition may occur between the JTF and another US command, a foreign command
+(e.g., HN or United Nations forces), or an organization under civilian control. Both
+organizations must prepare for and coordinate the transition to facilitate an orderly transfer of
+authority and responsibility. Rotation dates for subordinate units vary, and most units will
+not be on the same deployment rotation. Consequently, the transition of legal support
+responsibilities must allow for seamless continuity of operations. The JTF SJA:
+
+     a. Provides legal advice to the JFC and staff on conditions required to transfer command
+and other legal authority, including drafting necessary transition documents.
+
+     b. Assigns a representative to the transition cell.
+
+     c. Coordinates and approving procedures for transition of legal support tasks.
+
+     d. Reviews and recommends a timeline and milestones for transition that optimizes
+legal conditions.
+
+     e. Monitors the transition to ensure all legal requirements are accomplished.
+
+10. Redeployment
+
+     a. Redeployment may begin at any point during JTF operations, so redeployment
+planning should begin as soon as possible. As with other phases in the JTF life cycle,
+redeployment may overlap the employment and transition phases. During redeployment, the
+JTF SJA sets section movement priorities; provides priorities and guidance for section
+
+III-16  JP 1-04
+
+
+---
+
+                                                               Legal Support to the Joint Task Force
+recovery and reconstitution; and determines if deployment of additional personnel is required
+to assist with section redeployment activities.
+
+     b. As the JTF’s mission ends, the JTF may require more legal support rather than less
+(e.g., to oversee “wrap-up” legal activities including contracts, claims settlement, property
+accountability, and any remaining good order and discipline issues). The JTF SJA monitors
+the current situation in light of the JTF commander’s intent and guidance and adjusts the
+section’s manning and individual responsibilities accordingly. The personnel and equipment
+identified for redeployment is incorporated into the TPFDD process, and the security
+requirements of remaining section personnel is coordinated with the appropriate JTF staff
+directorates or subordinate commander.
+11. Lessons Learned
+
+     During planning, execution, transition, and redeployment, the JTF SJA and legal section
+should review lessons learned and submit new observations into the Joint Lessons Learned
+Information System (JLLIS) in accordance with CJCS issuances 3150.25. Use of lessons
+learned will ensure succeeding SJAs will have the benefit of the experiences of their
+predecessors. Lessons learned should include, among other concerns, legal issues and access
+to resources including reach-back support to resolve them, equipment, billeting, personnel
+legal specialties, non-lawyer skill requirements, tour length appropriateness, and other
+operational matters that affect the provision of legal services.
+
+                                                                                                      III-17
+
+
+---
+
+Chapter III
+                                          Intentionally Blank
+
+III-18                                                         JP 1-04
+
+
+---
+
+                              APPENDIX A
+
+         NOTIONAL STAFF JUDGE ADVOCATE SECTION
+
+1. Notional Staff Judge Advocate Section Equipment
+
+     Figure A-1 represents a notional equipment list for SJA section personnel providing
+legal support to a JTF. Most items will be obtained through JTF supply channels.
+
+2. Notional Staff Judge Advocate Section Capabilities
+
+     Figure A-2 represents a notional capability list for SJA section personnel providing legal
+support to a land-based JTF.
+
+3. Web-Based Legal Resources
+
+a. USG and DOD
+
+(1) DOD Publications: http://www.dtic.mil/whs/directives/.
+
+(2) USC Service: http://uscode.house.gov/.
+
+b. Air Force
+
+          (1) Air Force          Judge      Advocate     General’s        Corps  (FLITE):
+https://aflsa.jag.af.mil/flite.
+
+(2) FLITE                        International                Agreements         database:
+
+https://aflsa.jag.af.mil/php/agmts/agmts.php.
+
+(3) Foreign                      Civil      Litigation        Reporting          System:
+
+https://aflsa.jag.af.mil/flite/training/jaguar/ems/fcl.
+
+(4) Foreign Criminal Jurisdiction Management System: https://aflsa.jag.af.mil/fcj.
+
+(5) Air Force Publications: http://www.e-publishing.af.mil/.
+
+(6) Military                     Commander      and           the         Law    (2014):
+
+http://www.afjag.af.mil/shared/media/document/AFD-140925-013.pdf.
+
+(7) Air       Force              Operations              and  the         Law    (2014):
+
+http://www.afjag.af.mil/shared/media/document/AFD-100510-059.pdf.
+
+c. Army
+
+(1) US Army JAGC Net: https://www.jagcnet.army.mil/.
+
+(2) Center for Law and Military Operations: https://www.jagcnet.army.mil/clamo.
+
+                                                                                 A-1
+
+
+---
+
+Appendix A
+
+     Notional Staff Judge Advocate Section Equipment List
+
+            Equipment                                            Required Numbers/On Hand
+
+     Basic Office Equipment:
+
+      Deployable computer system (Classified and
+      Unclassified) including:
+
+        Laptop
+        Printer
+        Copier
+        Scanner
+        Digital camera
+        Extra batteries
+        Common access card readers
+        Electronic storage devices (e.g., CD, DVD)
+        Data transfer devices (e.g., digital sender, facsimile)
+        Digital recorders
+        Accessories
+
+     Storage Containers (Classified and Unclassified)
+
+     Equipment for Disposable Material
+
+      Burn bags, shredders, etc.
+
+     Secure Briefcases or Containers for Transport/
+     Courier of Classified Material
+
+     Speech to Speech Translator System
+
+     Phones, Secure Capable Phones and Cell Phones
+
+     Mission-Specific Requirements
+
+      Work/living space (hard stand, tent, etc.)
+      Radio sets, field phones
+      Truck/utility vehicles: e.g., cargo/troop carrier/command
+      Generators (power generations section should
+      determine requirement)
+      Light sets
+
+                    Figure A-1. Notional Staff Judge Advocate Section Equipment List
+
+          (3) Operational Law Handbook: http://loc.gov/rr/frd/Military_Law/pdf/
+operational-law-handbook_2014.pdf.
+
+A-2                                                              JP 1-04
+
+
+---
+
+                          Notional Staff Judge Advocate Section
+
+Notional Staff Judge Advocate Section Capabilities List
+
+Capability                                                Required/On Hand
+
+Security Clearances
+
+Electronic Legal Research Capability
+
+Office Resources:
+
+ CD Federal Legal Information Through Electronics
+ Deployment
+ Defense Emergency Authorities Retrieval and
+ Analysis System downloadable discs
+ CD US Code Service
+ CD DLWills
+ Electronic Judge Advocate Warfighting System Resource
+ Army Operational Law Handbook
+ CD Joint Electronic Library
+ CD Deployed Judge Advocate Resource Library (The
+ Center for Law and Military Operations)
+ CD Military Justice Resources (Criminal Law Department,
+ The Judge Advocate General’s Legal Center and School,
+ USA)
+ CD Rule of Law Handbook (The Center for Law and
+ Military Operations)
+ CD Legal Assistance Management Resources (The
+ Judge Advocate General’s Legal Center and School,
+ USA)
+
+Figure A-2. Notional Staff Judge Advocate Section Capabilities List
+
+          (4) Domestic Operational Law Handbook for Judge Advocates:
+http://loc.gov/rr/frd/Military_Law/CLAMO_domestic-OLH.html.
+
+          (5) Rule of Law Handbook- A Practitioners’                        Guide:
+http://loc.gov/rr/frd/Military_Law/CLAMO_rule-of-law.html.
+
+(6) Army Publications: http://www.apd.army.mil/.
+
+d. Navy and Marine Corps
+
+(1) General: http://www.jag.navy.mil/library/jag_references.htm.
+
+                                                                            A-3
+
+
+---
+
+Appendix A
+
+          (2) Navy JAG  Manual:  http://www.jag.navy.mil/library/instructions/
+JAGMAN2012.pdf.
+
+          (3) NWP 1-14M, The Commander’s Handbook on the Law of Naval Operations:
+https://ndls.nwdc.navy.mil/BookViewer.aspx?docinstid=73.
+
+          (4) Marine Corps Directives: http://www.marines.mil/News/Publications/
+ELECTRONICLIBRARY/ElectronicLibraryDisplay/tabid/13082/Article/125884/manual-
+for-courts-martial-2012.aspx.
+
+     (5) Marine Corps Publications: http://www.marines.mil/News/Publications.aspx.
+
+     (6) Navy Directives: http://doni.daps.dla.mil/default.aspx.
+
+     (7) Navy and Marine Corps resource materials: https://www.nko.mil/.
+
+          (8) General and Marine Corps specific operational legal resources:
+https://ehqmc.usmc.mil/org/sja/JAO/default.aspx.
+
+     e. Coast Guard
+
+     (1) Coast Guard Legal Website: http://www.uscg.mil/legal/.
+
+     (2) Coast Guard Directives: http://www.uscg.mil/directives/cim.asp.
+
+A-4                                                                       JP 1-04
+
+
+---
+
+                                     APPENDIX B
+
+                                            REFERENCES
+     The development of JP 1-04 is based on the following primary references:
+1. General
+     a. The National Security Act of 1947, as amended (Title 50, USC, Chapter 44).
+     b. Goldwater-Nichols DOD Reorganization Act of 1986 (Public Law 99-433).
+     c. Manual for Courts-Martial, United States.
+     d. Treaty Affairs, http://www.state.gov/s/l/treaty/index.htm.
+     e. DOD Law of War Manual, June 2015 (Updated May 2016)
+2. Department of Defense
+     a. DODD 2310.01, DOD Detainee Program.
+     b. DODD 2311.01E, DOD Law of War Program.
+     c. DODD 3000.06, Combat Support Agencies (CSAs).
+     d. DODD 3000.09, Autonomy in Weapon Systems.
+     e. DODD 3002.01, Personnel Recovery in the Department of Defense.
+     f. DODD 3025.18, Defense Support of Civil Authorities (DSCA).
+     g. DODD 3115.09, DOD Intelligence Interrogations, Detainee Debriefings, and
+Tactical Questioning.
+     h. DODD 3600.01, Information Operations (IO).
+     i. DODD 5100.03, Support of the Headquarters of Combatant and Subordinate Unified
+Commands.
+     j. DODD 5145.01, General Counsel of the Department of Defense (GC DOD).
+     k. DODD 5145.04, Defense Legal Services Agency (DLSA).
+     l. DODD 5530.3, International Agreements.
+3. Chairman of the Joint Chiefs of Staff
+     a. CJCSI 1301.01F, Joint Individual Augmentation Procedures.
+
+                                                                                                        B-1
+
+
+---
+
+Appendix B
+
+     b. CJCSI 2300.01D, International Agreements.
+     c. CJCSI 3100.01B, Joint Strategic Planning System.
+     d. CJCSI 3121.01B, Standing Rules of Engagement/Standing Rules for the Use of Force
+for US Forces.
+     e. CJCSI 3122.06D, Sensitive Target Approval and Review (STAR) Process.
+     f. CJCSI 3141.01E, Management and Review of Joint Strategic Capabilities Plan
+(JSCP)-Tasked Plans.
+     g. CJCSI 3150.25E, Joint Lessons Learned Program.
+     h. CJCSI 3160.01A, No-Strike and Collateral Damage Estimation Methodology.
+     i. CJCSI 3290.01D, Program for Detainee Operations.
+     j. CJCSI 3370.01A, Target Development Standards.
+     k. CJCSI 5810.01D, Implementation of the DOD Law of War Program.
+     l. CJCSM 3130.03, Adaptive Planning and Execution (APEX) Planning Formats and
+Guidance.
+     m. CJCSM 3139.01, Review and Approval Process for Cyberspace Operations.
+     n. CJCSM 3150.25A, Joint Lessons Learned Program.
+     o. CJCSM 3500.03D, Joint Training Manual for the Armed Forces of the United
+States.
+     p. CJCSM 3500.04F, Universal Joint Task Manual.
+     q. JP 1, Doctrine for the Armed Forces of the United States.
+     r. JP 1-02, Department of Defense Dictionary of Military and Associated Terms.
+     s. JP 3-0, Joint Operations.
+     t. JP 3-08, Interorganizational Cooperation.
+     u. JP 3-12, Cyberspace Operations.
+     v. JP 3-13, Information Operations.
+     w. JP 3-16, Multinational Operations.
+     x. JP 3-28, Defense Support of Civil Authorities.
+
+B-2  JP 1-04
+
+
+---
+
+                                                                                               References
+
+     y. JP 3-30, Command and Control of Joint Air Operations.
+     z. JP 3-33, Joint Task Force Headquarters.
+     aa. JP 3-50, Personnel Recovery.
+     bb. JP 3-57, Civil-Military Operations.
+     cc. JP 3-60, Joint Targeting.
+     dd. JP 3-63, Detainee Operations.
+     ee. JP 5-0, Joint Planning.
+4. Military Department Publications
+     a. Army Regulation 27-1, Legal Services, Judge Advocate Legal Services.
+     b. Army Field Manual 1-04, Legal Support to the Operational Army.
+     c. Operational Law Handbook (JA 422), International and Operational Law
+Department, The Judge Advocate General’s Legal Center and School, United States Army.
+     d. NWP 1-14M, The Commander’s Handbook on the Law of Naval Operations.
+     e. Air Force Operations and the Law, A Guide for Air, Space and Cyber Forces, Air
+Force Judge Advocate General’s Corps.
+     f. Commandant of the Coast Guard Instruction (COMDTINST) M16247.1F, Maritime
+Law Enforcement Manual.
+     g. COMDTINST M1000.8A, Military Assignments and Authorized Absences.
+     h. COMDTINST M1001.28B, Reserve Policy Manual.
+     i. COMDTINST M5800.1, Coast Guard Legal Professional Responsibility Program.
+     j. COMDTINST M5810.1E, Military Justice Manual.
+     k. COMDTINST 5801.4E, Legal Assistance Program.
+
+                                                                                                        B-3
+
+
+---
+
+Appendix B
+                                          Intentionally Blank
+
+B-4                                                            JP 1-04
+
+
+---
+
+                                     APPENDIX C
+
+                            ADMINISTRATIVE INSTRUCTIONS
+
+1. User Comments
+
+     Users in the field are highly encouraged to submit comments on this publication to: Joint
+Staff J-7, Deputy Director, Joint Education and Doctrine, ATTN: Joint Doctrine Analysis
+Division, 116 Lake View Parkway, Suffolk, VA 23435-2697. These comments should
+address content (accuracy, usefulness, consistency, and organization), writing, and
+appearance.
+
+2. Authorship
+
+     The lead agent and Joint Staff doctrine sponsor for this publication is the Office of the
+Legal Counsel to the Chairman of the Joint Chiefs of Staff (OCJCS/LC).
+
+3. Supersession
+
+     This publication supersedes JP 1-04, Legal Support to Military Operations, 17 August
+2011.
+
+4. Change Recommendations
+
+     a. Recommendations for urgent changes to this publication should be submitted:
+
+          TO: Deputy Director, Joint Education and Doctrine (DD JED), Attn: Joint Doctrine
+Division, 7000 Joint Staff (J-7), Washington, DC, 20318-7000 or email:
+js.pentagon.j7.list.dd-je-d-jdd-all@mail.mil.
+
+     b. Routine changes should be submitted electronically to the Deputy Director, Joint
+Education and Doctrine, ATTN: Joint Doctrine Analysis Division, 116 Lake View Parkway,
+Suffolk, VA 23435-2697, and info the lead agent and the Director for Joint Force
+Development, J-7/JED.
+
+     c. When a Joint Staff directorate submits a proposal to the CJCS that would change
+source document information reflected in this publication, that directorate will include a
+proposed change to this publication as an enclosure to its proposal. The Services and other
+organizations are requested to notify the Joint Staff J-7 when changes to source documents
+reflected in this publication are initiated.
+
+5. Lessons Learned
+
+     The Joint Lessons Learned Program (JLLP) primary objective is to enhance joint force
+readiness and effectiveness by contributing to improvements in doctrine, organization,
+training, materiel, leadership and education, personnel, facilities, and policy. The JLLIS is
+the DOD system of record for lessons learned and facilitates the collection, tracking,
+management, sharing, collaborative resolution, and dissemination of lessons learned to
+improve the development and readiness of the joint force. The JLLP integrates with joint
+
+                                                                                                        C-1
+
+
+---
+
+Appendix C
+
+doctrine through the joint doctrine development process by providing lessons and lessons
+learned derived from operations, events, and exercises. As these inputs are incorporated into
+joint doctrine, they become institutionalized for future use, a major goal of the JLLP.
+Lessons and lessons learned are routinely sought and incorporated into draft JPs throughout
+formal staffing of the development process. The JLLIS Website can be found at
+https://www.jllis.mil or http://www.jllis.smil.mil.
+
+6. Distribution of Publications
+
+     Local reproduction is authorized, and access to unclassified publications is unrestricted.
+However, access to and reproduction authorization for classified JPs must be IAW DOD
+Manual 5200.01, Volume 1, DOD Information Security Program: Overview, Classification,
+and Declassification, and DOD Manual 5200.01, Volume 3, DOD Information Security
+Program: Protection of Classified Information.
+
+7. Distribution of Electronic Publications
+
+     a. Joint Staff J-7 will not print copies of JPs for distribution. Electronic versions are
+available on JDEIS Joint Electronic Library Plus (JEL+) at https://jdeis.js.mil/jdeis/index.jsp
+(NIPRNET) and http://jdeis.js.smil.mil/jdeis/index.jsp (SIPRNET), and on the JEL at
+http://www.dtic.mil/doctrine (NIPRNET).
+
+     b. Only approved JPs are releasable outside the combatant commands, Services, and
+Joint Staff. Defense attachés may request classified JPs by sending written requests to
+Defense Intelligence Agency (DIA)/IE-3, 200 MacDill Blvd., Joint Base Anacostia-Bolling,
+Washington, DC 20340-5100.
+
+     c. JEL CD-ROM. Upon request of a joint doctrine development community member,
+the Joint Staff J-7 will produce and deliver one CD-ROM with current JPs. This JEL CD-
+ROM will be updated not less than semi-annually and when received can be locally
+reproduced for use within the combatant commands, Services, and combat support agencies.
+
+C-2  JP 1-04
+
+
+---
+
+AOR                           GLOSSARY
+APEX
+           PART I—ABBREVIATIONS AND ACRONYMS
+CAP
+CCDR                      area of responsibility
+CCMD                      Adaptive Planning and Execution
+CIE
+CJCS                      crisis action planning
+CJCSI                     combatant commander
+CJCSM                     combatant command
+CJTF                      collaborative information environment
+CMC                       Chairman of the Joint Chiefs of Staff
+COA                       Chairman of the Joint Chiefs of Staff instruction
+COMDTINST                 Chairman of the Joint Chiefs of Staff manual
+CSA                       commander, joint task force
+                          Commandant of the Marine Corps
+DA                        course of action
+DAF                       Commandant of the Coast Guard instruction
+DOD                       combat support agency
+DODD
+DON                       Department of the Army
+                          Department of the Air Force
+EPW                       Department of Defense
+                          Department of Defense directive
+FLITE                     Department of the Navy
+
+GC                        enemy prisoner of war
+GCC
+                          federal legal information through electronics
+HN
+HQ                        general counsel
+                          geographic combatant commander
+J-1
+J-3                       host nation
+J-5                       headquarters
+JA
+JAG                       manpower and personnel directorate of a joint staff
+JFC                       operations directorate of a joint staff
+JLLIS                     plans directorate of a joint staff
+JLSE                      judge advocate
+JMD                       judge advocate general
+JOA                       joint force commander
+JOC                       Joint Lessons Learned Information System
+                          joint legal support element
+                          joint manning document
+                          joint operations area
+                          joint operations center
+
+                                                                               GL-1
+
+
+---
+
+Glossary    joint publication
+            joint planning group
+JP          Joint Strategic Planning System
+JPG         joint targeting coordination board
+JSPS        joint task force
+JTCB        joint training plan
+JTF
+JTP         legal counsel
+
+LC          medical evacuation
+
+MEDEVAC     National Guard Bureau
+            nongovernmental organization
+NGB         National Security Council System
+NGO         Navy warfare publication
+NSCS
+NWP         operation order
+
+OPORD       Planning, Programming, Budgeting, and Execution
+            personnel recovery
+PPBE
+PR          Reserve Component
+            rules of engagement
+RC          rules for the use of force
+ROE
+RUF         Secretary of the Air Force
+            Secretary of Defense
+SECAF       staff judge advocate
+SecDef      special operations forces
+SJA
+SOF         the judge advocate general
+            time-phased force and deployment data
+TJAG        theater special operations command
+TPFDD
+TSOC        United States Code
+            United States Government
+USC         United States Special Operations Command
+USG         United States Strategic Command
+USSOCOM     United States Transportation Command
+USSTRATCOM
+USTRANSCOM
+
+GL-2        JP 1-04
+
+
+---
+
+                           PART II—TERMS AND DEFINITIONS
+integrated priority list. None. (Approved for removal from JP 1-02.)
+judge advocate. An officer of the Judge Advocate General’s Corps of the Army, Air Force,
+
+     or Navy, or officers of the Marine Corps or Coast Guard designated as a judge advocate.
+     Also called JA. (Approved for incorporation into JP 1-02.)
+law of armed conflict. See law of war. (JP 1-02. SOURCE: JP 1-04)
+law of war. That part of international law that regulates the conduct of armed hostilities.
+     Also called the law of armed conflict. (JP 1-02. SOURCE: JP 1-04)
+protected persons/places. Persons (such as enemy prisoners of war) and places (such as
+     hospitals) that enjoy special protections under the law of war and which may or may not
+     be marked with protected emblems. (Approved for incorporation into JP 1-02.)
+rules of engagement. Directives issued by competent military authority that delineate the
+     circumstances and limitations under which United States forces will initiate and/or
+     continue combat engagement with other forces encountered. Also called ROE. (JP 1-
+     02. SOURCE: JP 1-04)
+staff judge advocate. A judge advocate so designated in the Army, Air Force, or Marine
+     Corps, and the principal legal advisor of a Navy, Coast Guard, or joint force command
+     who is a judge advocate. Also called SJA. (JP 1-02. SOURCE: JP 1-04)
+
+                                                                                                      GL-3
+
+
+---
+
+Glossary
+                                          Intentionally Blank
+
+GL-4                                                           JP 1-04
+
+
+---
+
+JOINT DOCTRINE PUBLICATIONS HIERARCHY
+
+                                                                         JP 1
+                                                                        JOINT
+                                                                    DOCTRINE
+
+    JP 1-0        JP 2-0              JP 3-0                              JP 4-0  JP 5-0         JP 6-0
+PERSONNEL   INTELLIGENCE         OPERATIONS                            LOGISTICS  PLANS
+                                                                                          COMMUNICATIONS
+                                                                                                SYSTEM
+
+All joint publications are organized into a comprehensive hierarchy as shown in the chart above. Joint
+Publication (JP) 1-04 is in the Personnel series of joint doctrine publications. The diagram below
+illustrates an overview of the development process:
+
+  STEP #4 - Maintenance          Maintenance                                              STEP #1 - Initiation
+l JP published and continuously
+                                                                     Initiation   l Joint doctrine development
+   assessed by users                                                                 community (JDDC) submission to fill
+l Formal assessment begins                      JOINT                                extant operational void
+                                              DOCTRINE
+   24-27 months following                   PUBLICATION                           l Joint Staff (JS) J-7 conducts front-
+   publication                                                                       end analysis
+l Revision begins 3.5 years
+   after publication                                                              l Joint Doctrine Planning Conference
+l Each JP revision is completed                                                      validation
+   no later than 5 years after
+   signature                                                                      l Program directive (PD) development
+                                                                                     and staffing/joint working group
+              ENHANCED
+                 JOINT                                                            l PD includes scope, references,
+                                                                                     outline, milestones, and draft
+            WARFIGHTING                                                              authorship
+             CAPABILITY
+                                                                                  l JS J-7 approves and releases PD to
+                                                                                     lead agent (LA) (Service, combatant
+                                                                                     command, JS directorate)
+
+                                                             Approval    Development
+
+            STEP #3 - Approval                                                            STEP #2 - Development
+l JSDS delivers adjudicated matrix to JS J-7
+l JS J-7 prepares publication for signature                            l LA selects primary review authority (PRA) to develop the first
+l JSDS prepares JS staffing package                                       draft (FD)
+l JSDS staffs the publication via JSAP for
+                                                                       l PRA develops FD for staffing with JDDC
+   signature                                                           l FD comment matrix adjudication
+                                                                       l JS J-7 produces the final coordination (FC) draft, staffs to
+
+                                                                          JDDC and JS via Joint Staff Action Processing (JSAP) system
+                                                                       l Joint Staff doctrine sponsor (JSDS) adjudicates FC comment
+
+                                                                          matrix
+                                                                       l FC joint working group
+
+
+---
+
+
+
+--- 

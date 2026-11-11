@@ -1,0 +1,18822 @@
+# misc_tradoc_pamphlet_600_4_soldier_s_handbook_basic_ini  IET
+
+Soldier’s Handbook
+
+            TRADOC Pamphlet 600-4
+                    1 October 2003
+
+                           HEADQUARTERS
+                  DEPARTMENT OF THE ARMY
+  United States Army Training and Doctrine Command
+                Fort Monroe, Virginia 23651-5000
+
+
+---
+
+                          FOREWORD
+
+This handbook is a handy pocket reference for subjects in
+which you must maintain proficiency. It condenses
+information from field manuals, training circulars, Army
+regulations, and other sources.
+
+You will need this handbook in initial-entry training (IET).
+Carry it with you at all times. Use it to review the training
+you will receive and to prepare for proficiency testing. It will
+also be useful throughout your military career.
+
+This handbook addresses both general subjects and selected
+combat tasks. It includes evaluation guides to test your
+knowledge. You must know this information in order to be an
+effective soldier. The information on selected combat tasks is
+important, regardless of your grade or military occupational
+specialty (MOS).
+
+Unless this handbook states otherwise, masculine nouns and
+pronouns do not refer exclusively to men.
+
+
+---
+
+              DEPARTMENT OF THE ARMY
+
+                      HEADQUARTERS
+       UNITED STATES ARMY TRAINING AND
+
+                  DOCTRINE COMMAND
+             Fort Monroe, Virginia 23651-5000
+
+                  PERSONNEL—GENERAL
+
+     IET SOLDIER'S HANDBOOK
+
+                         (2 October 2003)
+
+Chapter 1. General Subjects ............................................... 1-1
+Army History ......................................................................... 1-1
+
+  Heritage and Traditions ...................................................... 1-3
+Army Organization.................................................................. 1-5
+Chain of Command ................................................................. 1-7
+Rank Insignia ........................................................................ 1-8
+
+  Officer ............................................................................... 1-8
+  Warrant Officer ................................................................ 1-10
+  Enlisted ............................................................................. 1-11
+  Rank Abbreviations .......................................................... 1-12
+Military Time ...................................................................... 1-12
+Customs and Courtesies ...................................................... 1-14
+  Saluting ............................................................................ 1-14
+  Rendering Honor to the Flag ............................................ 1-16
+  Courtesies ......................................................................... 1-18
+Role of the Chaplain ............................................................ 1-19
+
+Chapter 2. Army Values ..................................................... 2-1
+Loyalty .................................................................................. 2-2
+Duty ....................................................................................... 2-5
+Respect .................................................................................. 2-8
+Selfless Service ................................................................... 2-12
+Honor .................................................................................. 2-14
+Integrity............................................................................... 2-17
+
+                                                                      i
+
+
+---
+
+Personal Courage ................................................................. 2-22
+
+Chapter 3. Standards of Conduct........................................ 3-1
+Uniform Code of Military Justice .......................................... 3-1
+
+  Punitive articles .................................................................. 3-4
+  Forms of Punishment .......................................................... 3-9
+  Courts-Martial ................................................................... 3-12
+  Nonjudicial Punishment .................................................... 3-14
+Equal Opportunity Policy ....................................................3-15
+  Complaint Process ............................................................ 3-16
+Whistleblower Protection Act .............................................. 3-18
+Fraternization ....................................................................... 3-20
+Improper Associations ......................................................... 3-21
+Sexual Harassment Policy ...................................................3-23
+Appropriate Behavior ........................................................ 3-27
+  Alcohol and Drug Abuse ................................................. 3-27
+  Consideration of Others ................................................... 3-28
+  Homosexual Conduct Policy ............................................ 3-28
+  Dignity and Respect ......................................................... 3-32
+  Rape Prevention ............................................................... 3-32
+  Suicide Prevention ........................................................... 3-34
+  Ethical Decision Making ................................................. 3-38
+Awards and decorations ...................................................... 3-38
+Terrorism ............................................................................ 3-43
+
+Chapter 4. Basic Soldier Skills ............................................ 4-1
+Serve as a member of a Team ................................................ 4-1
+
+  Buddy System ..................................................................... 4-2
+Drill and Ceremony ................................................................ 4-3
+
+  Stationary Positions ........................................................... 4-7
+  Facing Movements ............................................................ 4-9
+  Steps and Marching ....................................................... 4-12
+Manual of Arms.....................................................................4-15
+Inspections .........................................................................4-35
+Personal Appearance and Uniform .....................................4-36
+  Hairstyle .......................................................................... 4-37
+  Jewelry .............................................................................. 4-37
+
+ii
+
+
+---
+
+  Body Piercing and Tattoos ................................................ 4-38
+  Uniform Wear and Maintenance ...................................... 4-38
+  Boots ............................................................................... 4-39
+  Insignia Placement .......................................................... 4-39
+  Individual Equipment ...................................................... 4-45
+  Bivouac Equipment ........................................................... 4-48
+Physical Readiness Training (PRT) ..................................... 4-52
+  Phases of PRT .................................................................. 4-53
+  Components of PRT ........................................................ 4-55
+  Principles of PRT ............................................................. 4-56
+  Training Injuries .............................................................. 4-56
+  Selecting Proper Running Footwear ................................ 4-58
+  Sports Bra Selection ........................................................ 4-60
+  Nutrition .......................................................................... 4-60
+Safety ................................................................................. 4-63
+  Prevention of Cold Weather Injuries ............................... 4-63
+  Prevention of Hot Weather Injuries .................................. 4-67
+  Prevention of Hyponatremia ............................................ 4-70
+Field and Personal Hygiene ................................................ 4-71
+  Disease Prevention .......................................................... 4-71
+Guard Duty ......................................................................... 4-74
+  Interior Guard .................................................................. 4-74
+  Exterior Guard .................................................................. 4-77
+
+CHAPTER 5. Selected Common Tasks ............................ 5-1
+
+Section I. COMMUNICATIONS ...................................... 5-1
+113-571-1022 Perform Voice Communications ................... 5-1
+
+Section II. NAVIGATION .................................................. 5-9
+071-329-1001 Identify Terrain Features on a Map ............... 5-9
+071-329-1002 Determine the Grid Coordinates
+
+   of a Point on a Military Map ........................................... 5-17
+071-329-1003 Determine a Magnetic
+
+  Azimuth Using a Lensatic Compass ................................ 5-25
+071-329-1008 Measure Distance on a Map ........................ 5-31
+
+                                                                    iii
+
+
+---
+
+Section III. WEAPONS ....................................................5-35
+M16A2 Rifle ...................................................................... 5-35
+071-311-2025 Maintain an M16A2 Rifle ............................5-35
+071-311-2026 Perform a Function Check
+
+  on an M16A2 Rifle ........................................................... 5-51
+071-311-2027 Load an M16A2 Rifle ................................... 5-54
+071-311-2028 Unload an M16A2 Rifle ...............................5-59
+071-311-2029 Correct Malfunctions of an M16A2 Rifle ..... 5-60
+NTN Routine Preventive Maintenance Checks and
+
+  Services of the M16A2 Rifle ...........................................5-62
+NTN Marksmanship Fundamentals .....................................5-65
+NTN Firing Positions ..........................................................5-75
+NTN Position of the Coach .................................................5-78
+NTN Checklist for the Coach .............................................5-79
+071-311-2030 Zero an M16A2 Rifle ..................................5-80
+M249 Squad Automatic Weapon .....................................5-88
+Clearing Procedures ............................................................5-89
+Load an M249 SAW ...........................................................5-90
+Unload an M249 SAW .......................................................5-92
+Correct Malfunctions of an M249 SAW .............................5-93
+Hand Grenades ............................................................5-95
+071-325-4401 Perform Safety Checks on Hand Grenades ...5-95
+071-325-4407 Employ Hand Grenades ...............................5-99
+M18A1 Claymore Mine ...................................................5-101
+071-325-4425 Employ an M18A1 Claymore Mine ...........5-101
+071-325-4426 Recover an M18A1 Claymore Mine ............5-113
+M203 Grenade Launcher ................................................5-115
+071-311-2127 Load an M203 Grenade Launcher ..............5-116
+017-311-2128 Unload an M203 Grenade Launcher ...........5-118
+M136 AT4 Light Antiarmor Weapon .............................5-119
+071-054-0001 Prepare an M136 Launcher for Firing ........5-121
+071-054-0003 Perform Misfire Procedures on
+
+  an M136 Launcher ..........................................................5-128
+071-054-0002 Restore an M136 Launcher to
+
+   Carrying Configuration ..................................................5-130
+
+iv
+
+
+---
+
+Section IV. INDIVIDUAL SKILLS ............................... 5-131
+NTN Cover, Concealment and Camouflage,....................... 5-131
+NTN Operate as a Member of a Squad .............................. 5-142
+NTN Foot Marches ........................................................... 5-152
+NTN Fighting Positions .................................................... 5-164
+NTN Bayonet/Combatives Fighting .................................. 5-172
+NTN Rifle with Fixed Bayonet ......................................... 5-187
+
+Section V. TACTICAL SKILLS ................................... 5-194
+301-348-1050 Report Information of Potential
+
+  Intelligence Value (SALUTE Report) ............................ 5-194
+071-326-0502 Move Under Direct Fire ............................. 5-198
+071-326-0511 React to Flares ............................................ 5-207
+071-331-0801 Challenge Persons Entering Your Area ...... 5-208
+
+Section VI. NUCLEAR, BIOLOGICAL, CHEMICAL 5-210
+NTN Standardized MOPP Levels ..................................... 5-211
+031-503-1014 Detect Chemical Agents
+
+   Using M8 or M9 Detector Paper ................................... 5-213
+031-503-1018 React to a Nuclear Hazard ........................ 5-217
+031-503-1019 React to Chemical or
+
+  Biological Hazard or Attack ........................................... 5-223
+031-503-1024 Replace Canister on Your
+
+  M40-Series Protective Mask .......................................... 5-227
+031-503-1025 Protect Yourself from Chemical and
+
+  Biological Injury or Contamination Using Your
+   M40-Series Protective Mask with Hood ........................ 5-229
+031-503-1026 Maintain Your M40-Series
+  Protective Mask with Hood ............................................ 5-240
+031-503-1033 Decontaminate Your Skin
+  Using the M291 Skin Decontaminating Kit (SDK) ........ 5-250
+031-503-1034 Decontaminate Your Individual
+Equipment Using the M295 Individual Equipment
+Decontamination Kit (IEDK) ............................................ 5-256
+
+Section VII. FIRST AID ................................................. 5-261
+081-831-1000 Evaluate a Casualty ................................... 5-261
+
+                                                                     v
+
+
+---
+
+NTN Perform First Aid to Restore Breathing ......................5-269
+NTN Perform First Aid to Control Bleeding ......................5-281
+081-831-1007 Perform First Aid for
+
+  Treatment of Burns ...........................................................5-299
+081-831-1034 Perform First Aid
+
+  for Splinting a Fracture ...................................................5-303
+081-831-1053 Perform First Aid
+
+  and Practice Individual Preventive Medicine
+   Countermeasures ...........................................................5-311
+081-831-1044 Perform First Aid
+  for Nerve Agent Injury ....................................................5-341
+081-831-1046 Perform First Aid
+  and Transporting Casualties ............................................5-352
+
+Appendix
+
+A. Quotations .......................................................................A-1
+B. Historic Documents .........................................................B-1
+
+    Extract from the Declaration of Independence ................B-1
+    Preamble to the Constitution of the United States ..........B-3
+C. National Anthem and Pledge of Allegiance .................... C-1
+D. Army Song ......................................................................D-1
+E. Soldier’s Code ................................................................. E-1
+F. Soldier’s Responsibilities ................................................. F-1
+G. General Orders ................................................................ G-1
+H. Code of Conduct .............................................................H-1
+I. Benefits ............................................................................. I-1
+    Health/TRICARE ............................................................ I-1
+    Legal ............................................................................... I-3
+    Personal & Family ........................................................... I-4
+    Army Family Team Building (AFTB ) ............................ I-7
+J. Promotions ....................................................................... J-1
+K. Managing Personal Finances .......................................... K-1
+L. Explanation of the Leave and Earnings Statement .......... L-1
+M. Common Military Acronyms and Abbreviations ............ M-1
+
+vi
+
+
+---
+
+                           CHAPTER 1
+                    GENERAL SUBJECTS
+
+                        ARMY HISTORY
+
+“Resolved, That a General be appointed to command all
+the continental forces, raised, or to be raised, for the
+defence of American liberty.” The above resolution of the
+Second Continental Congress on 14 June 1775 established
+the beginnings of the United States Army as we know it
+today. The very next resolution unanimously selected
+George Washington as commanding general of the first
+Continental Army.
+
+From Lexington to Trenton to Valley Forge, the
+Continental Army proved the critical force in fighting and
+winning the war for American Independence (See
+Appendix B – Declaration of Independence). The Army
+has been the keeper of American freedom ever since.
+
+From the outset, civilian control of the military was a
+governing principle of the American system. In 1787, the
+Constitution placed the military under the control of the
+President. His role as commander-in-chief requires every
+soldier to follow and obey his orders (See Appendix F –
+Soldier Responsibilities).
+
+In 1789, Congress created the Department of War to
+administer the military forces. The Army, now under the
+direction of the newly created cabinet, remained at a
+strength of 60,000 or less from the end of the Revolution
+through the beginning of the Civil War. Although Congress
+
+                                                                   1-1
+
+
+---
+
+intended that the Regular Army serve only as a supplement
+to local militias, the “regulars” ultimately played the
+crucial role in both the War of 1812 and the Mexican War
+(1846-48).
+
+In December of 1860, the Army consisted of merely
+16,000 officers and enlisted men. By 1865, Civil War
+expansion had increased that number to an astounding
+1,000,000. Victory for the Union in the Civil War returned
+the Army to a strength of only 25,000 troops.
+
+An analysis of the Army’s role in the Spanish-American
+War (1898) revealed deficiencies in the War Department.
+After becoming Secretary of War in 1899, Elihu Root
+reorganzied and revitalized the department. By the time the
+Army entered World War I in 1917, it was at its peak in
+terms of training and professionalism. Over 2,000,000 men
+followed General John J. Pershing to France as part of the
+American Expeditionary Force.
+
+Following victory in the “War to End All Wars,” the Army
+remained at a strength of approximately 125,000 from
+1919 to 1939. However, when Nazi Germany invaded
+France in 1940, the U.S. Government re-instituted
+conscription (the draft) and forces ballooned to 1,640,000.
+
+Japan attacked Pearl Harbor on 7 December 1941 and
+during the early 1940s, 8,300,000 men and women were
+part of a global effort to claim victory in World War II.
+From the Pacific Theater and bloody battles in the
+Philippines to the D-Day invasion of Normandy on 6 June
+
+1-2
+
+
+---
+
+1944, American forces fought with courage to preserve
+freedom for the world.
+Following the fall of the Nazis and the surrender of the
+Japanese in August 1945, the Army again contracted –
+this time to a strength of approximately 500,000.
+Expansions followed during America’s participation in the
+Korean and Vietnam Wars. And though it reduced in size
+during the interim periods of peace, the Army still
+remained relatively large due to the looming presence of
+the Cold War.
+
+When the forces of Communism fell in the late 1980s,
+civilian leaders began to re-evaluate the Army’s role and
+it again went through a dramatic reduction in size.
+Recently, the Army claimed a major victory in Desert
+Storm, defeating the 4th-largest enemy in the world in 100
+hours. The Army has also had a crucial role in bringing
+peace to several areas of conflict as well as continuing to
+protect and advance American interests. No matter how
+the Army changes, or what the specific mission may be,
+the soldier’s role never changes: to support and defend the
+Constitution of the United States against all enemies,
+foreign and domestic.
+
+             HERITAGE AND TRADITIONS
+
+The Army Song
+"The Army Goes Rolling Along" is the official Army song
+(See Appendix D). It is proper to stand at attention when
+it is played. Known originally as the “Caisson Song”, the
+music was composed in 1908 by Lieutenant
+Edmund L. Gruber (who eventually rose to the rank of
+
+                                                                   1-3
+
+
+---
+
+brigadier general). The Army dedicated it as the official
+Army Song on 11 November 1956 – Veteran’s Day.
+
+Uniforms
+Historically, military uniforms have made it easier to
+identify units. Until the nineteenth century, different
+military organizations used brightly-colored clothing to
+distinguish themselves on the battlefield. This made it
+easier for a commander to control his forces. As weapons
+have become more lethal, survivability has become more
+crucial. Today, American military uniforms emphasize
+protective coloration. However, the Army has maintained
+the heritage of historical uniforms through more formal
+attire such as Dress Blues.
+
+Formations
+Similar to uniforms, formations have their roots in
+organizing fighting units so that a commander could
+exercise control of his forces. The Greek Phalanx was one
+of the earliest formations and achieved the effects of
+massing combat power with shields and swords,
+organizing movement, and establishing camaraderie.
+Napoleon is probably the most notable historical figure
+who mastered the use of Phalanx-like formations. Like
+uniforms, however, new weaponry forced a change in
+tactics. Modern-day formations, such as the wedge,
+emphasize survivability and maneuver – as opposed to
+sheer mass. The Army carries on the traditions of
+Napoleonic formations in the form of drill and ceremony.
+
+1-4
+
+
+---
+
+Organizational Flags and Guidons
+Every military unit has its own colors. Colors represent
+the heart of a unit and are always located with the
+commander. Units receive streamers for their
+
+achievements that are then attached to their guidon
+above the colors. Capturing a unit’s colors represents
+defeating that unit; in recent history a unit would fight to
+the death to protect its colors. The image of the American
+Flag accompanying General George Washington as he
+crosses the Delaware River signifies the importance of
+colors on the battlefield – from the nation’s symbol down
+to the company guidon.
+
+                  ARMY ORGANIZATION
+The United States Army is made up of two parts: the
+active and reserve components. The Active Component
+consists of soldiers who are on full-time active duty. The
+Reserve Component consists of the Army National Guard
+and the Army Reserve. The Reserve Component receives
+
+                                                                   1-5
+
+
+---
+
+military training and is ready to be called to active duty if
+necessary. Army units can be organized several ways, but
+the following example is fairly typical:
+
+• The squad is the smallest unit, consisting of eight to
+ten soldiers. The squad leader is a Noncommissioned
+Officer (NCO).
+
+• The platoon includes the platoon leader (2LT/1LT),
+platoon sergeant (SFC) and two or more squads.
+
+• The company includes the company commander
+(CPT), first sergeant (1SG) a headquarters, and two or
+more platoons.
+
+• The battalion includes the battalion commander
+(LTC), his staff and headquarters, the command sergeant
+major (CSM) and approximately 3-5 companies.
+
+• The brigade includes the brigade commander (COL),
+command sergeant major, a headquarters, and
+approximately 3-6 battalions.
+
+• The division structure is the capstone element of our
+Army. It includes three maneuver (armor or infantry)
+brigades as well as several combat support and service
+support brigades or battalions. There are currently 10
+active divisions, each commanded by a major general
+(two-stars):
+
+1-6
+
+
+---
+
+1st Infantry Division – Germany (HQ)
+2nd Infantry Division – Korea
+3rd Infantry Division – Ft. Stewart, GA (HQ)
+4th Infantry Division – Ft. Hood, Texas (HQ)
+10th Mountain Division – Ft. Drum, New York
+25th Infantry Division – Hawaii
+82nd Airborne Division – Ft. Bragg, N. Carolina
+101st Airborne Division – Ft. Campbell, KY
+1st Armored Division – Germany (HQ)
+1st Cavalry Division, Ft. Hood, Texas
+
+• Organizations higher than the division include the
+Corps, Army, Major Command (MACOM), and in times
+of war, the Theater.
+
+    Chain of Command and NCO Support Channel
+
+Your chain of command has legal responsibility for your
+training, discipline, and overall welfare. It includes the
+noncommissioned officer directly over you (your first-line
+supervisor), as well as officers and civilians from your
+company commander to the President of the United States.
+The NCO support channel, while not directly a part of your
+chain of command, is often just as important, and includes
+the noncommissioned officers (PSG, 1SG, CSM) who play
+a vital role in whatever unit you are a part of.
+
+                    My Chain of Command
+
+First Line Supervisor _____________________________
+Company Commander ____________________________
+
+                                                                   1-7
+
+
+---
+
+Battalion Commander ____________________________
+Brigade Commander______________________________
+Division/Post Commander _________________________
+TRADOC Commander____________________________
+Chief of Staff of the Army _________________________
+Secretary of the Army_____________________________
+Secretary of Defense______________________________
+President of the United States_______________________
+
+                 My NCO Support Channel
+
+Platoon Sergeant_________________________________
+First Sergeant ___________________________________
+Battalion CSM __________________________________
+Brigade CSM ___________________________________
+Division/Post CSM ______________________________
+TRADOC CSM _________________________________
+Sergeant Major of the Army _______________________
+
+                       RANK INSIGNIA
+
+You must be able to recognize the ranks of Army
+personnel immediately.
+
+                              Officer
+The highest officer rank is the five-star general (General
+of the Army) and the lowest is the second lieutenant.
+Figure 1-1 shows the ranks with their insignia.
+
+Address all personnel with the rank of general as
+"General (last name)" regardless of the number of stars.
+
+1-8
+
+
+---
+
+Likewise, address both colonels and lieutenant colonels as
+"Colonel (last name)" and first and second lieutenants as
+"Lieutenant (last name)."
+Address warrant officers as "Mr. (last name)" or "Ms. (last
+name)." Figure 1-2 shows the five warrant officer ranks.
+
+                 Figure 1-1. Officer insignia.
+
+                                                                   1-9
+
+
+---
+
+            Figure 1-2. Warrant officer insignia.
+
+                              Enlisted
+Enlisted ranks range from private to sergeant major
+(grades E1 to E9) of the Army. Figure 1-3, shows the
+enlisted ranks with their insignia.
+Address privates (E1 and E2) and privates first class (E3)
+as "Private (last name)." Address specialists as "Specialist
+(last name)." Address sergeants, staff sergeants, sergeants
+first class, and master sergeants as "Sergeant (last name)."
+Address first sergeants as “First Sergeant (last name)”
+and sergeants major as “Sergeant Major (last name).”
+
+1-10
+
+
+---
+
+Figure 1-3. Enlisted insignia.
+                                                1-11
+
+
+---
+
+                      Rank Abbreviations
+2LT – Second Lieutenant
+1LT – First Lieutenant
+CPT – Captain
+MAJ – Major
+LTC – Lieutenant Colonel
+COL – Colonel
+BG – Brigadier General
+MG – Major General
+LTG – Lieutenant General
+GEN – General
+PVT – Private
+PV2 – Private Second Class
+PFC – Private First Class
+SPC – Specialist
+CPL – Corporal
+SGT – Sergeant
+SSG – Staff Sergeant
+SFC – Sergeant First Class
+MSG – Master Sergeant
+1SG – First Sergeant
+SGM – Sergeant Major
+CSM – Command Sergeant Major
+
+                       MILITARY TIME
+
+All US military services tell time by using the numbers
+"1" to "24" for the 24 hours in a day. A day begins at
+one minute after midnight and ends at midnight the same
+day. For example, eight minutes after midnight
+(12:08 am) is written in military time as "0008."
+
+1-12
+
+
+---
+
+Thirty-three
+minutes after two
+o'clock in the
+afternoon (2:33
+pm) is written as
+"1433."
+Figure 1-4,
+shows a time
+conversion chart.
+
+Figure 1-4. Time conversion chart.
+
+CIVILIAN   MILITARY  CIVILIAN   MILITARY
+   TIME       TIME      TIME       TIME
+
+ 12:01 am      0001    1:00 pm      1300
+ 1:00 am       0100    2:00 pm      1400
+ 2:00 am       0200    3:00 pm      1500
+ 1:00 am       0300    4:00 pm      1600
+ 4:00 am       0400    5:00 pm      1700
+ 5:00 am       0500    6:00 pm      1800
+ 6:00 am       0600    7:00 pm      1900
+ 7:00 am       0700    8:00 pm      2000
+ 8:00 am       0800    9:00 pm      2100
+ 9:00 am       0900   10:00 pm      2200
+ 10:00 am      1000   11:00 pm      2300
+ 11:00 am      1100                 2400
+   12:00       1200      12:00
+  NOON               MIDNIGHT            1-13
+
+
+---
+
+              CUSTOMS AND COURTESIES
+
+Saluting
+The origin of the hand salute is uncertain. Some historians
+believe it began in late Roman times when assassinations
+were common. A citizen who wanted to see a public
+official had to approach with his right hand raised to show
+that he did not hold a weapon. Knights in armor raised
+visors with the right hand when meeting a comrade. This
+practice gradually became a way of showing respect and,
+in early American history, sometimes involved removing
+the hat. By 1820, the motion was modified to touching the
+hat, and since then it has become the hand salute used
+today.
+
+During your time in the Army, you salute to show respect
+toward an officer, flag, or our country. The proper way to
+salute with or without a weapon is described in FM 22-5.
+The rules of saluting are as follows:
+
+• When you meet someone outside, salute as soon as you
+recognize that he or she is an officer (or, if you are
+walking toward the officer, wait until you are about six
+steps away).
+
+• Salute all officers (recognized by rank) in official
+vehicles identified by special plates or flags.
+
+• Salute only on command when in formation.
+
+1-14
+
+
+---
+
+• If in a group, and an officer approaches, the first
+soldier to recognize the officer calls the group to attention
+and all personnel salute.
+
+• If you approach an officer while you are double-timing
+alone, assume quick time march and render the hand
+salute. When the salute is returned, execute order arms
+and resume double-timing.
+
+• The salute is always initiated by the subordinate and is
+terminated only after acknowledgment by the individual
+being saluted.
+
+• Accompany the salute with an appropriate greeting,
+such as, "Good morning/afternoon, sir/ma'am."
+
+• Salutes are not required to be rendered by or to
+personnel who are driving or riding in privately owned
+vehicles.
+
+• It is not customary for enlisted personnel to exchange
+salutes, except in some ceremonial situations.
+
+• Never render a salute with a noticeable object in your
+mouth or right hand.
+
+• If you are on detail, and an officer approaches, salute if
+you are in charge of the detail. Otherwise, continue to
+work. If you are spoken to, then come to the position of
+attention.
+
+                                                                 1-15
+
+
+---
+
+Rendering Honor to the Flag
+The flag of the United States is the symbol of our nation.
+The union, white stars on a field of blue, is the honor
+point of the flag. The union of the flag and the flag itself,
+when in company with other flags, are always given the
+honor position, which is on the right. Rules for displaying
+the flag follows:
+
+• The flag of the United States will be displayed
+outdoors at all Army installations.
+
+• Only one flag of the United States will be flown at one
+time at any continental United States (CONUS) Army
+installation except as authorized by the commanding
+generals of major Army commands.
+
+• The flag will be displayed daily from reveille to
+retreat. If illuminated, it may be displayed at night during
+special events or on special occasions deemed appropriate
+by the commander.
+
+• The flag of the United States is the only flag that may
+be flown from a flagpole over an Army installation. An
+exception is the Minuteman flag that, if awarded, may be
+flown beneath the flag of the United States.
+
+• In unusual circumstances not covered in the Army
+regulations, the judgment of the senior Army individual
+present will be used to determine whether the flag shall be
+displayed on a specific occasion.
+
+1-16
+
+
+---
+
+When the flag is being raised in the morning or lowered
+in the evening, you should stand at attention on the first
+note of Reveille or "To the Colors." ("Colors" refer to the
+flag of the United States and can also include the unit
+flag.) Give the required salute. If you are involved in
+some duty that would be hampered by saluting, you do
+not need to salute. You normally face the flag when
+saluting, unless duty requires you to face in some other
+direction. At the conclusion of the ceremony, resume your
+regular duties.
+
+Whenever Reveille is played, and you are not in
+formation and not in a vehicle, come to attention at the
+first note, face the flag, and give the required salute. If no
+flag is near, face the music and salute. If you are in
+formation, salute only on the order "Present arms." If you
+are in civilian clothing, stand at attention and place your
+right hand over your heart. These honors also apply to the
+national anthems of foreign countries during ceremonies
+or parades. The words to the National Anthem are shown
+in Appendix C.
+
+Vehicles in motion should stop. If you are in a car or on a
+motorcycle, dismount and salute. If you are with a group
+in a military vehicle or bus, remain in the vehicle. The
+individual in charge will dismount and salute.
+
+When you are passing or being passed by colors which
+are being presented, paraded, or displayed, salute when
+the colors are six paces from you. Hold the salute until the
+colors are six paces beyond you.
+
+                                                                 1-17
+
+
+---
+
+Courtesies
+The following rules will help you conduct yourself
+appropriately in the presence of officers and anyone
+senior to you in rank:
+
+• When talking to an officer, stand at attention unless
+given the order "At ease." When you are dismissed, or
+when the officer departs, come to attention and salute.
+
+• When an officer enters a room, the first soldier to
+recognize the officer calls personnel in the room to
+attention but does not salute. A salute indoors is rendered
+only when one is reporting.
+
+• When accompanying a senior, walk on his left.
+
+• When entering or exiting a vehicle, the junior ranking
+person is the first to enter, and the senior in rank is the
+first to exit.
+
+• When an officer enters a dining facility, unless he
+directs otherwise or unless a more senior officer is already
+present, the diners will be given the order "At ease" by the
+first person who sees the officer. You will remain seated at
+ease and will continue eating unless the officer directs
+otherwise. If you are directly addressed, you should rise
+to attention if seated in a chair. If you are seated on a
+bench, stop eating and sit at attention until the
+conversation is ended.
+
+1-18
+
+
+---
+
+Note: The officer or NCO may give the directive "Carry
+on." This means the soldier or soldiers should continue
+with whatever they were doing previously.
+
+This same directive may be used in many other situations
+outside of formation, such as in the barracks and break
+areas.
+
+• When outdoors and approached by an NCO, you
+should stand (if seated) and greet the NCO by saying,
+"Good morning, sergeant," "Good afternoon, sergeant,"
+or "Good evening, sergeant (last name, if known)."
+
+• When you report to an officer for any reason, it is
+important to make a good first impression. If you are
+outdoors, approach the officer to whom you are reporting
+and stop about two steps from him, assuming the position
+of attention. Give the proper salute and say, for example,
+"Sir/Ma'am, Private Smith reports." If you are indoors,
+use the same procedures as above, except remove your
+headgear before reporting. If you are armed, however, do
+not remove your headgear.
+
+                      Role of the Chaplain
+
+Each battalion in the Army has its own Chaplain
+(normally a CPT). The chaplain and his assistant
+formulate what is known as the Unit Ministry Team. The
+chaplain is responsible for providing spiritual support to
+every soldier in the unit. Although chaplains are part of a
+particular denomination, their mission is to ensure that
+
+                                                                 1-19
+
+
+---
+
+every soldier’s spiritual needs are met.
+Chaplains hold weekly services (both in garrison and in
+the field), are available for individual counseling, and are
+one of two members of the military who retain the
+privilege of confidentiality (the other being Army
+lawyers). The chaplain also plays a key role in helping
+promote programs such as suicide prevention.
+In the IET environment, chaplains are of particular value
+in helping soldiers succeed under difficult and stressful
+conditions. They assist the commander in teaching,
+displaying, and instilling the Army Values and in
+maintaining high morale within the unit.
+Each brigade (MAJ or LTC), division (LTC), and
+installation (COL) also has its own chaplain. The Chief of
+Chaplains is a Major General.
+
+1-20
+
+
+---
+
+                       CHAPTER 2
+                    ARMY VALUES
+       “Everywhere you look on the fields of
+       athletic competition, in combat training,
+       operations, and in civilian communities
+       soldiers are doing what is right.”
+Former Sergeant Major of the Army Julius W. Gates
+
+                                                               2-1
+
+
+---
+
+LOYALTY. Bear true faith and allegiance to the U.S.
+Constitution, the Army, your unit, and other soldiers.
+
+  “Loyalty is the big thing, the greatest battle asset
+  of all. But no man ever wins the loyalty of troops
+  by preaching loyalty. It is given to him as he
+  proves his possession of the other virtues.”
+
+  Brigadier General Samuel L.A. Marshall
+  Men Against Fire (1947)
+
+Bearing true faith and allegiance is a matter of
+believing in, and devoting yourself to something or
+someone. A loyal soldier is one who supports the
+leadership and stands up for fellow soldiers. Wearing
+the uniform of the United States Army is a highly
+visible means of expressing your loyalty. You show
+your loyalty to your unit by doing you share. Any
+time you choose one individual's actions—right or
+wrong—over the safety and welfare of the rest of the
+unit, or over your own interest and commitment, you
+are eroding the value of loyalty.
+
+To be loyal is to be unswerving in allegiance to the
+Constitution and completely faithful to the lawful
+government. Our absolute allegiance and faithfulness
+prevents us from misplacing our loyalties. Loyalty to
+the unit is critical for generating confidence and trust,
+and for developing cooperative work relationships
+with others.
+
+2-2
+
+
+---
+
+A loyal individual does the following:
+
+     • Respects the Constitution and laws
+
+     • Puts obligations in correct order: the
+          Constitution, the Army, the unit, and finally, self
+
+     • Observes higher Headquarters priorities
+
+     • Works within the system without manipulating it
+          for personal advantage
+
+     • Shows faithfulness to unit and comrades
+
+     • Carries out tough orders without expressing
+          personal criticism
+
+     • Defends soldiers against unfair treatment from
+          outside or above
+
+Since before the founding of the republic, America’s
+Army has respected its subordination to its civilian
+political leaders. This subordination is fundamental to
+preserving the liberty of all Americans. You began your
+Army career by swearing allegiance to the Constitution
+which designates the president as commander in chief.
+
+Beyond your allegiance to the Constitution, you have an
+obligation to be faithful to the Army, the institution and its
+people, and to your unit or organization. Few examples
+illustrate loyalty to country and institution as well as the
+example of General George Washington in 1782.
+
+                                                                   2-3
+
+
+---
+
+        GEN George Washington at Newburgh, New York
+                      (The Newburgh Conspiracy)
+
+       Following its victory at Yorktown in 1781, the
+      Continental Army set up camp at Newburgh, New
+      York, to wait for peace with Great Britain. The central
+      government formed under the Articles of
+      Confederation proved weak and unwilling to supply
+      the Army properly or even
+      pay the soldiers who had
+      won the war for
+      independence. After
+      months of waiting, many
+      officers, angry and
+      impatient, suggested that
+      the Army march on the
+      seat of government in
+      Philadelphia,
+      Pennsylvania, and force
+      Congress to meet the
+      Army’s demands. One
+      colonel even suggested
+      that General Washington become King George I.
+
+       Upon hearing this, General Washington assembled
+      his officers and publicly and emphatically rejected the
+      suggestion. He believed that seizing power by force
+      would have destroyed everything for which the
+      Revolutionary War had been fought. By this action,
+      General Washington firmly established an enduring
+      precedent: America’s armed forces are subordinate to
+      civilian authority and serve the democratic principles
+      that are now enshrined in the Constitution. His action
+      demonstrated the loyalty to country that America’s
+
+2-4
+
+
+---
+
+      Army must maintain in order to protect the freedom
+      enjoyed by all Americans.
+
+DUTY. Fulfill your obligations.
+
+  “The essence of duty is acting in the absence of
+  orders or direction from others, based on an
+  inner sense of what is morally and
+  professionally right.”
+
+  General John A. Wickham
+  Former Army Chief of Staff
+
+Duty delineates the sum total of all laws, rules, etc., that
+make up our organizational, civic, and moral obligations.
+Our values originate with duty because, at a minimum, we
+expect all members of the Army to fulfill their obligations.
+We often expect individuals to exceed their duty,
+especially in ethical matters. The nation's highest award,
+the Medal of Honor, imparts the notion of an individual
+acting "above and beyond the call of duty." Doing your
+duty means more than carrying out your assigned tasks.
+The work of the United States Army is a complex
+combination of missions, tasks, and responsibilities—all in
+constant motion. And the work, inevitably, is a matter of
+building one assignment or task on work that has been
+done previously. Doing your duty is a very important
+responsibility.
+
+                                                                   2-5
+
+
+---
+
+Duty also means being able to accomplish tasks as part of
+a team. You must fulfill your obligations as a part of your
+unit. Examples include: voluntarily assuming your share
+of the work load, willingly serve as a member of a team,
+or assuming a leadership role when appropriate.
+
+You demonstrate the value of duty when you complete a
+task even when no one is looking, or when you resist the
+temptation to take "shortcuts" that might undermine the
+integrity of the final product. You do your duty as a
+soldier every time you do something that needs to be done
+— without being told.
+
+An individual who expresses the value of duty will, at a
+minimum, do the following:
+
+     • Carry out requirements of job/office
+
+     • Fulfill legal, civic, and moral obligations
+
+     • Sacrifice personal time in pursuit of excellence
+
+Duty begins with everything required of you by law,
+regulation, and orders; but it includes much more than
+that. Professionals do their work not just to the minimum
+standard, but also to the very best of their ability. Soldiers
+and DA civilians commit to excellence in all aspects of
+their professional responsibility so that when the job is
+done they can look back and say, "I could not have given
+any more."
+
+2-6
+
+
+---
+
+                        Duty in Korea
+
+CPT Viola B. McConnell was the only Army nurse on
+duty in Korea in July of 1950. When hostilities broke
+out, she escorted nearly 700 American evacuees from
+Seoul to Japan aboard a freighter designed to
+accommodate only 12 passengers. CPT McConnell
+assessed priorities for care of the evacuees and
+worked exhaustively with a medical team to care for
+them. Once in Japan, she requested reassignment back
+to Korea. After all she had already done, CPT
+McConnell returned to Taejon to care for and
+evacuate wounded soldiers of the 24th Infantry
+Division.
+
+CPT McConnell
+understood and
+fulfilled her duty
+to the Army and to
+the soldiers she
+supported in ways
+that went beyond
+her medical
+training. Duty
+isn’t reserved for special occasions. When a platoon
+sergeant tells a squad leader to inspect weapons, the
+squad leader has fulfilled his minimum obligation
+when he has checked the weapons. He’s done what he
+was told to do. But if the squad leader finds weapons
+that are not clean or serviced, his sense of duty tells
+him to go beyond the platoon sergeant’s instructions.
+The squad leader does his duty when he corrects the
+problem and ensures the weapons are up to standard.
+
+                                                             2-7
+
+
+---
+
+RESPECT. Treat people as they should be treated.
+
+In the Soldier's Code, we pledge to "treat others with
+dignity and respect and expect others to do the same."
+Respect to a soldier simply means treating people as they
+should be treated. It means giving others the same
+consideration we would like or expect to be given.
+
+  “The discipline which makes the soldiers of a free
+  country reliable in battle is not to be gained by
+  harsh or tyrannical treatment. On the contrary,
+  such treatment is far more likely to destroy than to
+  make an army. It is possible to impart instruction
+  and to give commands in such manner and such
+  a tone of voice to inspire in the soldier no feeling;
+  but an intense desire to obey, while the opposite
+  manner and tone of voice cannot fail to excite
+  strong resentment and a desire to disobey. The
+  one mode or the other of dealing with
+  subordinates springs from a corresponding spirit
+  in the breast of the commander. He who feels the
+  respect which is due to others cannot fail to
+  inspire in them regard for himself, while he who
+  feels, and hence manifests, disrespect toward
+  others, especially his inferiors, cannot fail to
+  inspire hatred against himself.”
+
+  Major General John M. Schofield
+  Address to the United States Corps of Cadets
+  (1879)
+
+2-8
+
+
+---
+
+The Army is one huge team, made up of hundreds of
+component parts. There must be connections — ground
+rules — so that when one soldier approaches, works with,
+or talks to another, it is with immediate and unquestioned
+cooperation and respect. The Army mirrors our country's
+diversity. Each of us has something to contribute. Respect
+is what allows us to appreciate the best in other people.
+Respect is trusting that all people have done their jobs—
+fulfilled their duty. Self-respect is a vital ingredient within
+the Army value of respect that results from knowing you
+have dug down deep to put forth your best effort.
+
+Taking care of yourself physically shows your self-
+respect, keeping fit, not using drugs or tobacco products
+(smoking, chewing, and so forth). Finally, respect for
+other people includes not using profanity and obscene
+gestures. You are now in the military. What might have
+been acceptable in your civilian life may not be acceptable
+in the Army.
+
+Respect is also an essential component for the
+development of disciplined, cohesive, and effective war
+fighting teams. In the deadly confusion of combat, soldiers
+often overcome incredible odds to accomplish the mission
+and protect the lives of their comrades. This spirit of
+selfless service and duty is built on a soldier’s personal
+trust and regard for fellow soldiers.
+
+A leader’s willingness to tolerate discrimination or
+harassment on any basis, or a failure to cultivate a climate
+of respect, eats away at this trust and erodes unit cohesion.
+But respect goes beyond issues of discrimination and
+
+                                                                   2-9
+
+
+---
+
+harassment; it includes the broader issue of civility, the
+way people treat each other and those they come in contact
+with. It involves being sensitive to diversity and one’s own
+behaviors that others may find insensitive, offensive, or
+abusive. Soldiers and DA civilians, like their leaders, treat
+everyone with dignity and respect.
+An individual who consistently expresses respect does the
+following:
+
+     • Recognizes dignity of all
+     • Demonstrates consideration for others; is discreet
+
+          and tactful when correcting or questioning others
+     • Is courteous and polite
+     • Demonstrates concern for safety and well-being
+
+          of others
+     • Creates a climate of fairness
+     • Values diversity and is sensitive to diversity
+
+          issues.
+     • Does not take advantage of position of authority
+
+          when placed in charge of others
+
+2-10
+
+
+---
+
+Colonel Robert Gould Shaw and the 54th Massachusetts
+                        Infantry Regiment
+                        (Civil War – 1863)
+
+                      Robert Shaw was serving as a captain
+                      in the 2nd Massachusetts when
+                      Massachusetts Governor John Andrew
+                      selected him for a special assignment.
+                      Shaw was to muster and command the
+                      first regiment of African-American
+                      troops organized in a Northern state.
+                      On 18 Jul 1863, the regiment won
+                      undying glory by leading the bloody
+                      assault on Fort Wagner, South
+                      Carolina. In the attack, nearly half the
+regiment was killed, wounded, or captured. Colonel Shaw
+was among those who died. For his bravery in battle,
+Sergeant William H. Carney became the first African-
+American to earn the Medal of Honor.
+
+The example of steadfast courage and heroism set by the
+54th Massachusetts paved
+the way for the enlistment
+of over 200,000 African-
+Americans in the Union
+Army and Navy.
+
+Colonel Shaw and the
+soldiers of the 54th
+Massachusetts believed
+that a person should be able to fight for his country and
+be judged on his ability to soldier rather than be judged
+by the color of his skin.
+
+                                                              2-11
+
+
+---
+
+SELFLESS SERVICE. Put the welfare of the Nation,
+the Army, and your subordinates before your own.
+
+In serving your country, you are doing your duty loyally,
+without thought of recognition or gain. The reward of
+selfless service is the satisfaction of a job well done—a
+successful accomplishment that reflects on the soldier and his
+or her unit. The greatest means of accomplishing selfless
+service is to dedicate yourself to the teamwork which is the
+
+  “The nation today needs men who think in terms
+  of service to their country and not in terms of
+  their country’s debt to them.”
+
+  General Omar N. Bradley
+  Former General of the Army
+
+underlying strength of the Army. It is when thousands of
+soldiers work together as a team that spectacular results arise.
+The basic building block of selfless service is the
+commitment of each team member to go a little further,
+endure a little longer, and look a little closer to see how he
+or she can add to the effort of the unit, platoon, or
+company. Selfless service is larger than just one person.
+With dedication to the value of selfless service, each and
+every soldier can rightfully look back and say, "I am proud
+to have served my country as a soldier."
+
+Selfless-service signifies the proper ordering of priorities. Think
+of it as service before self. The welfare of the nation and the
+organization come before the individual. While the focus is on
+2-12
+
+
+---
+
+service to the nation, the value also requires that the service
+member properly take care of family and self.
+
+An individual who properly demonstrates the value of
+selfless service does the following:
+
+     • Focuses priorities on service to the Nation
+
+     • Places needs of the Army above personal gain
+
+     • Ensures that soldiers’ needs are met before
+          attending to personal needs
+
+     • Balances mission, family, and personal needs
+
+     • Gives credit due others and accepts blame for the team
+
+                    CPL HIROSHI H. MIYAMURA
+                           Medal of Honor, 1951
+
+                                   Corporal, U.S. Army, Company
+                                   H, 7th Infantry Regiment, 3rd
+                                   Infantry Division. Awarded the
+                                   Medal of Honor for his actions
+                                   near Taejon-ni, Korea, 24 and
+                                   25 April 1951.
+
+                                   On the night of 24 April,
+                                   Company H was occupying a
+                                   defensive position when the
+                                   enemy fanatically attacked
+                                   threatening to overrun the
+      position. Cpl. Miyamura, a machinegun squad leader,
+      aware of the imminent danger to his men unhesitatingly
+
+                                                                 2-13
+
+
+---
+
+      jumped from his shelter wielding his bayonet in close
+      hand-to-hand combat killing approximately 10 of the
+      enemy. Returning to his position, he administered first
+      aid to the wounded and directed their evacuation. As
+      another savage assault hit the line, he manned his
+      machinegun and delivered withering fire until his
+      ammunition was expended. He ordered the squad to
+      withdraw while he stayed behind to render the gun
+      inoperative. He then bayoneted his way through
+      infiltrated enemy soldiers to a second gun emplacement
+      and assisted in its operation.
+
+      When the intensity of the attack necessitated the
+      withdrawal of the company, Cpl. Miyamura ordered his
+      men to fall back while he remained to cover their
+      movement. He killed more than 50 of the enemy before
+      his ammunition was depleted and he was severely
+      wounded. He maintained his magnificent stand despite
+      his painful wounds, continuing to repel the attack until
+      his position was overrun. When last seen he was fighting
+      ferociously against an overwhelming number of enemy
+      soldiers. Cpl. Miyamura's indomitable heroism and
+      consummate devotion to duty reflect the utmost glory on
+      himself and uphold the illustrious traditions on the
+      military service.
+
+HONOR. Live up to all the Army values.
+
+  “What is life without honor? Degradation is worse
+  than death.”
+
+  Lieutenant General
+  Thomas J. “Stonewall” Jackson
+
+2-14
+
+
+---
+
+When we talk about "living up to" something, we mean
+being worthy of it. We must make choices, decisions, and
+actions based on the Army core values. Nowhere in our
+values training does it become more important to
+emphasize the difference between "knowing" the values
+and "living" them than when we discuss the value of
+honor. Honor is a matter of carrying out, acting, and living
+the values of respect, duty, loyalty, selfless service,
+integrity, and personal courage in everything you do.
+
+Noticing a situation and deciding to take action to assist
+another involves respect, duty, and honor. It was a matter
+of honor that soldiers, at great risk to themselves,
+distributed food in Somalia and kept the peace in Bosnia,
+while managing to protect the communities. There are
+hundreds of examples of soldiers who have distinguished
+themselves with honorable actions and lives. The Nation's
+highest military award is named "The Medal of Honor."
+This award goes to soldiers who make honor a matter of
+daily living—soldiers who develop a habit of being
+honorable, and solidify that habit with every value choice
+they make.
+
+An individual with honor does the following:
+
+     • Adheres to a public code of professional Army
+          values
+
+     • Identifies with the public code of professional
+          Army values
+
+                                                                 2-15
+
+
+---
+
+           MSG Gary Gordon and SFC Randall Shughart
+                          (Mogadishu, Somalia)
+
+      During a raid in Mogadishu in October 1993, MSG Gary
+      Gordon and SFC Randall Shughart, leader and member
+
+                            of a sniper team with Task Force
+                            Ranger in Somalia, were providing
+                            precision and suppressive fires from
+                            helicopters above two helicopter crash
+                            sites. Learning that no ground forces
+                            were available to rescue one of the
+                            downed aircrews and aware that a
+                            growing number of enemy were
+                            closing in on the site, MSG Gordon
+                            and SFC Shughart volunteered to be
+                            inserted to protect their critically
+      wounded comrades. Their initial request was turned
+      down because of the danger of the situation. They asked
+      a second time; permission was denied. Only after their
+      third request were they inserted.
+
+                           MSG Gordon and SFC Shughart were
+                           inserted one hundred meters south of
+                           the downed chopper. Armed only with
+                           their personal weapons, the two NCOs
+                           fought their way to the downed fliers
+                           through intense small arms fire, a
+                           maze of shanties and shacks, and the
+                           enemy converging on the site. After
+                           MSG Gordon and SFC Shughart
+                           pulled the wounded from the wreckage,
+      they established a perimeter, put themselves in the most
+      dangerous position, and fought off a series of attacks.
+      The two NCOs continued to protect their comrades until
+
+2-16
+
+
+---
+
+      they had depleted their ammunition and were fatally
+      wounded. Their actions saved the life of an Army pilot.
+
+      No one will ever know what was running through the
+      minds of MSG Gordon and SFC Shughart as they left the
+      comparative safety of their helicopter to go to the aid of
+      the downed aircrew. The two NCOs knew there was no
+      ground rescue force available, and
+      They certainly knew there was no going back to their
+      helicopter. They may have suspected that things would
+      turn out as they did; nonetheless, they did what they
+      believed to be the right thing.
+
+      They acted based on Army values, which they had clearly
+      made their own: loyalty to their fellow soldiers; the duty
+      to stand by them, regardless of the circumstances; the
+      personal courage to act, even in the face of great
+      danger; selfless service, the willingness to give their all.
+      MSG Gary I. Gordon and SFC Randall D. Shughart
+      lived Army values to the end; they were posthumously
+      awarded Medals of Honor.
+
+INTEGRITY. Do what’s right, legally and morally.
+
+   “The American people rightly look to their military
+    leaders not only to be skilled in the
+    technical aspects of the profession of arms,
+    but also to be men of integrity.”
+
+   General J. Lawton Collins
+   Former Army Chief of Staff
+
+                                                                 2-17
+
+
+---
+
+When we say that someone has integrity, we mean that
+person respects the rules of an organization, the country,
+and life. Such persons can be counted on to do the right
+thing, live honestly, and relate to others without playing
+games or having false agendas. Integrity is a quality you
+develop by adhering to moral principles. It requires that
+we do and say nothing that deceives others. As your
+integrity grows, so does the trust others place in you. It's
+integrity that requires us to pay our debts on time, turn in
+items that someone else has lost, and follow rules as laid
+out in the law or in the code of human ethics and morality.
+The Soldier's Code says, "No mater what situation I am in,
+I will never do anything for pleasure, profit, or personal
+safety that will disgrace my uniform, my unit, or my
+country." The more choices you make based on integrity,
+the more this highly prized value will affect your
+relationships with family and friends, and, finally, your
+fundamental acceptance of yourself.
+
+A soldier displays integrity when he or she:
+
+     • Always acts according to what he or she
+          knows to be right, even at personal cost.
+
+     • Possesses a high standard of moral values
+          and principles
+
+     • Shows good moral judgment and
+          demonstrates consistent moral behavior
+
+     • Avoids the wrong and stands up for what is
+          right
+
+2-18
+
+
+---
+
+• Shows candor and fairness in evaluating
+     subordinates’ work
+
+• Shows consistency between words and
+     deeds
+
+• Uses the authority and power that comes
+     with rank to work for mission
+     accomplishment or for soldiers instead of
+     for personal or private gain
+
+• Puts being right ahead of being popular or
+     easy
+
+• Abides by principles
+
+                 SSG ROY P. BENAVIDEZ
+
+Detachment B-56, 5th Special Forces Group, Republic
+                           of Vietnam
+
+              West of Loc Ninh on 2 May 1968
+
+Master Sergeant (then Staff Sergeant) Roy P. Benavidez
+United States Army, who distinguished himself by a
+series of daring and extremely valorous actions while
+assigned to Detachment B56, 5th Special Forces Group
+(Airborne), 1st Special Forces, Republic of Vietnam. On
+the morning of 2 May 1968, a 12-man Special Forces
+Reconnaissance Team was inserted by helicopters in a
+dense jungle area west of Loc Ninh, Vietnam to gather
+intelligence information about confirmed large-scale
+enemy activity. This area was controlled and routinely
+patrolled by the North Vietnamese Army. After a short
+period of time on the ground, the team met heavy enemy
+resistance, and requested emergency extraction. Three
+
+                                                           2-19
+
+
+---
+
+      helicopters attempted extraction, but were unable to land
+      due to intense enemy small arms and anti-aircraft fire.
+
+      Sergeant Benavidez was at the Forward Operating Base
+      in Loc Ninh monitoring the operation by radio when
+      these helicopters returned to off-load wounded
+      crewmembers and to assess aircraft damage. Sergeant
+      Benavidez voluntarily boarded a returning aircraft to
+      assist in another extraction attempt. Realizing that all
+      the team members were either dead or wounded and
+      unable to move to the pickup zone, he directed the
+      aircraft to a nearby clearing where he jumped from the
+      hovering helicopter, and ran approximately 75 meters
+      under withering small arms fire to the crippled team.
+
+      Prior to reaching the team's position he was wounded in
+      his right leg, face, and head. Despite these painful
+      injuries, he took charge, repositioning the team members
+      and directing their fire to facilitate the landing of an
+      extraction aircraft, and the loading of wounded and dead
+      team members. He then threw smoke canisters to direct
+      the aircraft to the team's position. Despite his severe
+      wounds and under intense
+      enemy fire, he carried and
+      dragged half of the wounded
+      team members to the awaiting
+      aircraft. He then provided
+      protective fire by running
+      alongside the aircraft as it
+      moved to pick up the
+      remaining team members.
+
+      As the enemy's fire intensified,
+      he hurried to recover the body
+      and classified documents on
+
+2-20
+
+
+---
+
+the dead team leader. When he reached the leader's
+body, Sergeant Benavidez was severely wounded by
+small arms fire in the abdomen and grenade fragments
+in his back. At nearly the same moment, the aircraft pilot
+was mortally wounded, and his helicopter crashed.
+Although in extremely critical condition due to his
+multiple wounds, Sergeant Benavidez secured the
+classified documents and made his way back to the
+wreckage, where he aided the wounded out of the
+overturned aircraft, and gathered the stunned survivors
+into a defensive perimeter. Under increasing enemy
+automatic weapons and grenade fire, he moved around
+the perimeter distributing water and ammunition to his
+weary men, reinstilling in them a will to live and fight.
+
+Facing a buildup of enemy opposition with a
+beleaguered team, Sergeant Benavidez mustered his
+strength, began calling in tactical air strikes and
+directed the fire from supporting gunships to suppress
+the enemy's fire and so permit another extraction
+attempt. He was wounded again in his thigh by small
+arms fire while administering first aid to a wounded
+team member just before another extraction helicopter
+was able to land. His indomitable spirit kept him going
+as he began to ferry his comrades to the craft. On his
+second trip with the wounded, he received additional
+wounds to his head and arms before killing his
+adversary. He then continued under devastating fire to
+carry the wounded to the helicopter. Upon reaching the
+aircraft, he spotted and killed two enemy soldiers who
+were rushing the craft from an angle that prevented the
+aircraft door gunner from firing upon them. With little
+strength remaining, he made one last trip to the
+perimeter to ensure that all classified material had been
+collected or destroyed, and to bring in the remaining
+
+                                                           2-21
+
+
+---
+
+      wounded. Only then, in extremely serious condition from
+      numerous wounds and loss of blood, did he allow himself
+      to be pulled into the extraction aircraft. Sergeant
+      Benavidez' gallant choice to join voluntarily his
+      comrades who were in critical straits, to expose himself
+      constantly to withering enemy fire, and his refusal to be
+      stopped despite numerous severe wounds, saved the lives
+      of at least eight men. His fearless personal leadership,
+      tenacious devotion to duty, and extremely valorous
+      actions in the face of overwhelming odds were in keeping
+      with the highest traditions of the military service, and
+      reflect the utmost credit on him and the United States
+      Army.
+
+PERSONAL COURAGE. Face fear, danger,
+or adversity (physical or moral)
+
+   “The concept of professional courage does not
+   always mean being tough as nails either. It also
+   suggests a willingness to listen to the soldier’s
+   problems, to go to bat for them in a tough situation,
+   and it means knowing just how far they can go. It
+   also means being willing to tell the boss when he’s
+   wrong.”
+
+   CSM William Connelly
+   Former Sergeant Major of the Army
+
+Personal Courage includes the notion of taking
+responsibility for decisions and actions.
+Additionally, courage involves the ability to
+
+2-22
+
+
+---
+
+perform critical self-assessment, to confront new
+ideas, and to change. Leaders must make
+decisions that involve risk and often must take a
+stand in the face of ambiguity or adversity.
+Taking risks pertains to the battlefield in war,
+but more frequently occurs with your boss in
+peace.
+
+A courageous soldier does the following:
+
+     • Controls fear in physical and moral contexts
+
+     • Takes responsibility for decisions and actions
+
+     • Accepts responsibility for his own mistakes and
+          shortcomings
+
+     • Confronts problems directly and takes action
+          based on what he believes is right, regardless of
+          what others may think
+
+     • Speaks up for what he believes is important and
+          then is gracious whether his ideas are accepted or
+          rejected
+
+     • Reports on successes and failures with equal
+          candor
+
+     • Puts them self on the line to deal with important
+          problems
+
+     • Challenges others to make tough decisions
+                                                                 2-23
+
+
+---
+
+     • Always shares mistakes if it will help the team
+          improve
+
+Personal courage has long been associated with our Army.
+Accounts of the dangers and hardships that soldiers face
+are legendary. Personal courage is not the absence of fear;
+rather, it is taking positive action in spite of the fear. It
+takes two forms: physical and moral.
+
+Physical courage means overcoming fears of bodily
+harm and doing your duty. It’s the bravery that
+allows a soldier to take risks in combat in spite of the
+fear of wounds or death. Physical courage is what
+gets the soldier at Airborne School out the aircraft
+door. It’s what allows an infantryman to assault a
+bunker to save his buddies. With physical courage, it
+is a matter of enduring physical duress and, at times,
+risking personal safety.
+
+In contrast, moral courage is the willingness to stand
+firm on your values, principles, and convictions,
+even when threatened. Moral courage is sometimes
+overlooked, both in discussions of personal courage
+and in routine, daily activities. Moral courage often
+expresses itself as candor. Candor means being frank,
+honest, and sincere with others while keeping your
+words free from bias, prejudice, or malice.
+
+When considering personal courage, physical or moral,
+there is one important point to be made. Nowhere does the
+value say that fear must disappear—that you should not
+feel fear. Some great instances of courage are those carried
+
+2-24
+
+
+---
+
+out by the soldiers who have never seen a battlefield. You
+can build up your personal courage by daily standing up
+for and acting upon the things that you know are right.
+
+                        SSG CLIFFORD C. SIMS
+       Company D, 2d Battalion (Airborne), 501st Infantry,
+
+                          101st Airborne Division
+         Near Hue, Republic of Vietnam, 21 February 1968
+
+      Company D was assaulting a heavily fortified enemy
+      position concealed within a dense wooded area when it
+      encountered strong enemy defensive fire. Once within the
+      woodline, SSgt. Sims led his squad in a furious attack
+      against an enemy force, which had pinned down the 1st
+      Platoon and threatened to overrun it. His skillful
+      leadership provided the platoon with freedom of
+      movement and enabled it to regain the initiative.
+
+      SSgt Sims was then
+      ordered to move his squad
+      to a position where he
+      could provide covering fire
+      for the company command
+      group and to link up with
+      the 3d Platoon, which was
+      under heavy enemy
+      pressure. After moving no
+      more than 30 meters SSgt
+      Sims noticed that a brick
+      structure in which
+      ammunition was stocked
+      was on fire. Realizing the
+      danger, SSgt Sims took immediate action to move his
+      squad from this position. Though in the process of
+      leaving the area 2 members of his squad were injured by
+
+                                                                 2-25
+
+
+---
+
+      the subsequent explosion of the ammunition, SSgt Sims'
+      prompt actions undoubtedly prevented more serious
+      casualties from occurring.
+      While continuing through the dense woods amidst heavy
+      enemy fire, SSgt Sims and his squad were approaching a
+      bunker when they heard the unmistakable noise of a
+      concealed booby trap being triggered immediately to
+      their front. SSgt Sims warned his comrades of the danger
+      and unhesitatingly hurled himself upon the device as it
+      exploded, taking the full impact of the blast. In so
+      protecting his fellow soldiers, he willingly sacrificed his
+      life. SSgt Sims' extraordinary heroism at the cost of his
+      life is in keeping with the highest traditions of the
+      military service and reflects great credit upon himself
+      and the U.S. Army.
+
+2-26
+
+
+---
+
+                           CHAPTER 3
+               STANDARDS OF CONDUCT
+
+     The Uniform Code of Military Justice (UCMJ)
+
+Military discipline is founded upon self-discipline, respect
+for authority, and the embracing of the professional Army
+ethic with its supporting individual values. Military
+discipline is developed through individual and group
+training to create a mental attitude that will result in proper
+conduct and prompt obedience to lawful military
+authority. There are 3 basic rules:
+
+     • Don’t break the rules (What are the rules?
+          Example - UCMJ, regulations)
+
+     • Take responsibility for your actions
+     • Keep your hands to yourself
+
+While military discipline is the result of effective training,
+it affects every aspect of military life. It is a trait found in
+individuals and units that is manifested by
+
+     • Unit cohesion, bonding, and a spirit of teamwork;
+     • Smartness of appearance and action;
+     • Cleanliness and maintenance of dress, equipment,
+
+          and quarters;
+     • Respect to seniors and mutual respect between
+
+          senior and subordinate personnel;
+     • Prompt and willing execution of both the letter
+
+          and the spirit of the legal orders of their lawful
+          commanders; and
+
+                                                                   3-1
+
+
+---
+
+     • Fairness, justice, and equity for all soldiers,
+          regardless of race, religion, color, gender, or
+          national origin.
+
+The UCMJ applies to active duty service members:
+
+     • 24 hours a day/7 days a week
+     • Anywhere you are in the world
+     • After discharge, if discharge was obtained
+
+          fraudulently
+     • After active duty status is terminated (for Reserve
+
+          and National Guard soldiers)
+
+In other words, it is your duty to abide by the laws and
+regulations governed by the UCMJ, 24 hours a day, 7 days
+a week, for as long as you are in the Army. All persons in
+the military service are required to strictly obey and
+promptly execute the legal orders of their lawful seniors.
+Laws and regulations are part of everyday life. The
+UCMJ gives us judicial authority, which is essential to the
+Army's ability in accomplishing its military mission. The
+UCMJ is the statute that prescribes criminal law for
+soldiers.
+
+The UCMJ authorizes non-judicial punishment by
+commanders and judicial punishment by courts-martial
+(military courts). It also provides for the punishment of strictly
+military offenses. Military offenses are those not common in
+civilian law. Examples include failure to repair, absence
+without leave, disrespect to noncommissioned officers and
+commissioned officers, and disobedience of orders.
+
+3-2
+
+
+---
+
+The principle that an accused is innocent until proven guilty
+applies to both nonjudicial punishment and courts-martial.
+You have the right to be informed of any charges against
+you, as well as the names of accusers and known witnesses.
+You also have -
+
+    The right to remain silent. You do not have to say
+         anything that could be used to convict you.
+         Anything you say can be used as evidence against
+         you.
+
+    The right to a military lawyer, unless you wish to
+         hire a civilian lawyer at your own expense.
+
+    Protection against double jeopardy. If found
+         innocent by court-martial, you cannot be tried again
+         by a court-martial for the same crime.
+
+    The right to sentence review. Higher authority
+         automatically reviews a conviction received in the
+         military. The sentence cannot be increased but may
+         be left as it is or decreased.
+
+    The right to a speedy public trial.
+
+    The right to call witnesses favorable to you.
+
+    The right to an interpreter if you do not fully
+         understand the English language.
+
+    The right—if you are an enlisted person - to have at
+         least one-third enlisted court members.
+                                                                   3-3
+
+
+---
+
+    The right to be tried by a military judge alone rather
+         than by a court-martial panel, unless the case is
+         tried as a capital offense. If the soldier does not
+         elect trial by military judge, a trial with members
+         will automatically be afforded the soldier.
+
+    The right to trial by court-martial. You may refuse
+         Article 15 punishment and demand trial by court-
+         martial.
+
+                    PUNITIVE ARTICLES
+
+The following list contains the descriptive title and general
+provisions of selected punitive articles of the UCMJ that
+commonly occur in the training environment:
+
+1. ARTICLE 83 - Fraudulent Enlistment, Appointment, or
+Separation. Any soldier who -
+
+     a. Procures his own enlistment or appointment in
+the armed forces by knowingly false representation or
+deliberate concealment as to his qualifications for that
+enlistment or appointment and receives pay and
+allowances there under, or
+
+     b. Procures his own separation from the armed
+forces by knowingly false representation or deliberate
+concealment as to his eligibility for that separation; shall
+be punished as a court-martial may direct.
+
+2. ARTICLE 86 - Absent Without Leave (AWOL). Any
+soldier who, without authority -
+3-4
+
+
+---
+
+  a. Fails to go to his appointed place of duty at the time
+prescribed;
+
+  b. Goes from that place; or
+
+  c. Absents himself or remains absent from his unit,
+organization, or place of duty at which he is required to be
+at the time prescribed; shall be punished as a court-martial
+may direct.
+
+3. ARTICLE 89 - Disrespect Toward A Superior
+Commissioned Officer. Any soldier who behaves with
+disrespect toward his superior commissioned officer shall
+be punished as a court-martial may direct. Disrespectful
+behavior is that which detracts from the respect due the
+authority of a superior commissioned officer or
+noncommissioned officer. It may consist of :
+
+  a. Acts or language;
+
+  b. Abusive epithets or other contemptuous or
+denunciatory language;
+
+  c. Neglecting the customary salute; or
+
+  d. Showing marked disdain, indifference, insolence,
+impertinence, undue familiarity, or other rudeness in the
+presence of the superior.
+
+4. ARTICLE 90 - Assaulting or Willfully Disobeying
+Superior Commissioned Officer. Any soldier who -
+
+                                                                   3-5
+
+
+---
+
+  a. Strikes his superior commissioned officer or draws or
+lifts up any weapon or offers any violence against him
+while he is in the execution of his office; or
+
+  b. Willfully disobeys a lawful command of his superior
+commissioned officer shall be punished, if the offense is
+committed in time of war, by death or such other
+punishment as a court-martial may direct, and if the
+offense is committed at any other time, by such
+punishment, other than death.
+
+5. ARTICLE 91 – Insubordinate Conduct Toward
+Warrant Officer, Noncommissioned Officer, or Petty
+Officer. Any soldier who -
+
+  a. Strikes or assaults a warrant officer,
+noncommissioned officer, or petty officer, while that
+officer is in the execution of his office;
+
+  b. Willfully disobeys the lawful order of a warrant
+officer, noncommissioned officer, or petty officer; or
+
+  c. Treats with contempt or is disrespectful in language
+or deportment toward a warrant officer, noncommissioned
+officer, or petty officer while that officer is in the
+execution of his office; shall be punished as a court-
+martial may direct.
+
+6. ARTICLE 92 – Failure to Obey Orders. Any soldier
+who -
+
+3-6
+
+
+---
+
+  a. Violates or fails to obey any lawful general order or
+regulation;
+
+  b. Having knowledge or any other lawful order issued
+by a member of the armed forces, which it is your duty to
+obey, fails to obey the order; or
+
+  c. Is derelict in the performance of his duties; shall be
+punished as a court-martial may direct.
+
+7. ARTICLE 115 – Malingering. Any soldier who for the
+purpose of avoiding work, duty, or service -
+
+  a. Feigns illness, physical disablement, mental lapse or
+detriment; or
+
+  b. Intentionally inflicts self-injury; shall be punished as
+a court-martial may direct.
+
+8. ARTICLE 121 – Larceny and Wrongful Appropriation.
+Any soldier who wrongfully takes, obtains, or withholds,
+by any means, from the possession of the owner or of any
+other person any money, personal property, or article of
+value of any kind
+
+  a. With intent permanently to deprive or defraud
+another person of the use and benefit of property or to
+appropriate it to his own use of the use of any person other
+than the owner, steals that property and is guilty of
+larceny; or
+
+                                                                   3-7
+
+
+---
+
+  b. With intent temporarily to deprive or defraud
+another person of the use and benefit of property or to
+appropriate it to his own use or the use of any person other
+than the owner, is guilty of wrongful appropriation; shall
+be punished as a court-martial may direct.
+
+9. ARTICLE 128 – Assault. Any soldier who -
+
+  a. Attempts or offers with unlawful force or violence to
+do bodily harm to another person, whether or not the
+attempt or offer is consummated, is guilty of assault and
+shall be punished as a court-martial may direct.
+
+  b. Commits an assault with a dangerous weapon or other
+means or force likely to produce death or grievous bodily
+harm; or
+
+  c. Commits an assault and intentionally inflicts grievous
+bodily harm with or without a weapon; is guilty of
+aggravated assault and shall be punished as a court-martial
+may direct.
+
+10. ARTICLE 134 – General Article.
+
+  a. All disorders and neglects to the prejudice of good
+order and discipline in the armed forces;
+
+  b. All conduct of a nature to bring discredit upon the
+armed forces; and
+
+  c. Crimes and offenses not capital, of which persons
+subject to this chapter may be guilty, shall be taken
+3-8
+
+
+---
+
+cognizance of by a general, special, or summarized court-
+martial according to the nature and degree of the offense,
+and shall be punished at the discretion of that court.
+
+                 FORMS OF PUNISHMENT
+
+The following are forms of punishment that may be
+imposed for violations of the UCMJ. All forms of
+punishment are subject to restrictions specified in the
+UCMJ. The UCMJ provides limitations of sentences
+based on the nature of the crime; the form of adjudication
+(nonjudicial punishment or court-martial); and the
+position/rank of the individual assigning the punishment
+or the type of court-martial that convicted the soldier.
+
+  1. Reprimand. The convening authority of a court-
+martial or commanding officer may punish a soldier by
+censure, or condemn as wrong. A reprimand is a severe
+form of censure that adversely reflects upon the conduct of
+the person addressed. A court-martial shall not specify the
+terms or wording of a reprimand. A reprimand, if
+approved, shall be issued, in writing, by the convening
+authority. A reprimand adjudged by a court-martial is a
+punitive censure.
+
+  2. Forfeiture of pay and allowances. A forfeiture
+deprives the individual accused, or all or a specific
+amount, of money to be accrued (earned in the future) as a
+result of service in the armed forces of the United States.
+Unless a total forfeiture is adjudged, a sentence to
+forfeiture shall state the exact amount in whole dollars to
+
+                                                                   3-9
+
+
+---
+
+be forfeited each month and the number of months the
+forfeitures will last.
+
+  3. Fine. A fine makes the accused immediately liable to
+the United States for the entire amount of money specified
+in the sentence. A fine may only be adjudged by a court-
+martial, and it may be adjudged instead of or in addition to
+forfeiture. However, a fine is normally used only as a
+sentence in cases where the accused was unjustly enriched
+as a result of the offense of which convicted.
+
+  4. Reduction in pay grade. Except as provided in
+R.C.M. 1301(d), a court-martial may sentence an enlisted
+member to be reduced to the lowest or any intermediate
+pay grade.
+
+  5. Restriction to specified limits. Restriction deprives
+the accused of normal liberty privileges. The sentence
+will specify the physical and geographic locations in
+which the individual is allowed, how long the restriction
+shall last, and when that individual must be present at
+specific locations.
+
+  6. Hard labor without confinement. Hard labor without
+confinement is performed in addition to other regular
+duties and does not excuse or relieve a person from
+performing regular duties. Ordinarily, the immediate
+commander of the accused will designate the amount and
+character of the labor to be performed.
+
+  7. Confinement. The place of confinement shall not be
+designated by the court-martial. A court-martial shall not
+3-10
+
+
+---
+
+adjudge a sentence to solitary confinement or to
+confinement without hard labor. The authority executing
+a sentence to confinement may require hard labor whether
+or not the words "at hard labor" are included in the
+sentence.
+
+  8. Punitive separation. A court-martial may not adjudge
+an administrative separation from the service. There are
+three types of punitive separation.
+
+        a. Dismissal. Dismissal applies only to
+        commissioned officers, commissioned warrant
+        officers, cadets, and midshipmen and may be
+        adjudged only by a general court-martial.
+        Regardless of the maximum punishment specified
+        for an offense in Part IV of this Manual; a dismissal
+        may be adjudged for any offense of which a
+        commissioned officer, commissioned warrant
+        officer, cadet, or midshipman has been found
+        guilty;
+
+        b. Dishonorable discharge. A dishonorable
+        discharge applies only to enlisted persons and
+        warrant officers who are not commissioned and
+        may be adjudged only by a general court-martial.
+        Regardless of the maximum punishment specified
+        for an offense in Part IV of the Manual for Courts
+        Martial; a dishonorable discharge may be adjudged
+        for any offense of which a warrant officer who is
+        not commissioned has been found guilty. A
+        dishonorable discharge should be reserved for those
+        who should be separated under conditions of
+
+                                                                 3-11
+
+
+---
+
+        dishonor, after having been convicted of offenses
+        usually recognized in civilian jurisdictions as
+        felonies, or of offenses of a military nature
+        requiring severe punishment; and
+
+        c. Bad conduct discharge. A bad-conduct discharge
+        applies only to enlisted persons and may be
+        adjudged by a general court-martial and by a
+        special court-martial that has met the requirements
+        of R.C.M. 201(F)(2)(B). A bad-conduct discharge
+        is less severe than a dishonorable discharge and is
+        designed as a punishment for bad-conduct rather
+        than as a punishment for serious offenses of either a
+        civilian or military nature. It is also appropriate for
+        an accused who has been convicted repeatedly of
+        minor offenses and whose punitive separation
+        appears to be necessary.
+
+     9. Death.
+
+                     COURTS-MARTIAL
+
+There are three types of courts-martial: summary, special,
+and general. Trials by courts-martial are the military
+equivalents of trials by judges and juries. The differences
+among the three are based on their composition, level of
+authority, and severity of punishments authorized.
+
+Summary Court-Martial. Composed of one
+commissioned officer on active duty with the rank of
+Captain or above. The purpose of the summary court-
+martial is to make thorough and impartial inquiries into
+
+3-12
+
+
+---
+
+minor offenses and to make sure that justice is done, with
+the interests of both the government and the accused being
+safeguarded. Only enlisted personnel may be tried by
+summary court-martial. Anyone subject to summary court-
+martial may refuse to be tried by summary court-martial.
+Whether an offense is minor depends on several factors,
+including the nature and circumstances of the offense. Also
+considered is the age, rank, duty assignment, record, and
+experience of the accused. The maximum punishment that
+can be given by a summary court-martial to a soldier pay
+grade E4 or below is -
+
+   • Confinement at hard labor for one month.
+   • Forfeiture of two-thirds of a month's pay for one
+
+         month.
+   • Reduction to the lowest enlisted grade.
+
+Special Court-Martial. This court consists of a military
+judge and not less than three panel members when required.
+It is held for relatively serious offenses. The maximum
+punishment that can be given by a special court-martial is -
+
+   • Confinement at hard labor for six months.
+   • Forfeiture of two-thirds of a month's pay for six
+
+         months.
+   • Reduction to the lowest enlisted grade.
+
+Some special courts-martial are empowered to rule on a Bad
+Conduct Discharge. This punitive discharge deprives a
+soldier of many veterans' benefits.
+
+                                                                 3-13
+
+
+---
+
+General Court-Martial. This court consists of a military
+judge and not less than five panel members when required.
+It is held for serious offenses. A general court-martial may
+impose any authorized punishment including the death
+penalty in certain cases.
+
+              NONJUDICIAL PUNISHMENT
+
+Under the provisions of the UCMJ, Article 15, commanding
+officers may impose nonjudicial punishment upon soldiers
+who commit minor offenses within their units. The purpose
+of nonjudicial punishment is to train, correct, and reform. It
+also promotes positive behavior changes in soldiers without
+the stigma of a court-martial conviction.
+
+If you are the accused soldier, you have the option of either
+demanding trial by court-martial or accepting nonjudicial
+punishment.
+
+Once your commanding officer has passed judgment and
+sentenced you, if you feel that the punishment awarded to
+you is unjust or disproportionate to the offense, you may
+appeal all or part of your sentence to the next higher
+authority. The appeal authority may set aside, decrease,
+suspend, or let stand any portion or the entire original
+sentence. However, he cannot in any way increase the
+original sentence.
+
+Article 15. Article 15 of the UCMJ is a form of nonjudicial
+punishment that can be imposed by a commanding officer
+for a relatively minor offense. An Article 15 can be
+imposed upon any soldier who does not demand a court-
+3-14
+
+
+---
+
+martial. There are two types of Article 15 proceedings:
+summarized and formal.
+
+        • Summarized proceedings may be used for
+        very minor misconduct. The punishment should not
+        exceed an oral reprimand, extra duty, restriction for
+        14 days, or any combination of these punishments.
+
+        • Formal proceedings begin with the initial
+        notification and end with the appeals process. The
+        maximum punishments for a soldier grade E4 and
+        below by a field grade commander include a
+        reprimand, extra duty for 45 days, restriction for 60
+        days, correctional custody for 30 days, loss of ½ pay
+        per month for 2 months, rank reduction to one or
+        more lower grades, or a combination of any of these
+        punishments.
+
+The Army’s Equal Opportunity (EO) Program and Policy
+
+The EO program ensures an Army-wide, concentrated
+effort to maximize human potential and to ensure fair
+treatment for all persons based solely on merit, fitness, and
+capability in support of readiness. The EO philosophy is
+based on fairness, justice, and equity.
+
+The Army’s EO program emphasizes fair and equal
+treatment. It provides equal opportunity and treatment for
+military personnel, civilians, and families without regard
+to race, color, religion, gender, or national origin. This
+policy applies -
+
+                                                                 3-15
+
+
+---
+
+          • On and off post
+          • Extends to soldiers, civilian employees, and
+
+                family members
+          • Includes working, living, and recreational
+
+                environments
+
+The EO complaints processing system addresses
+grievances that allege unlawful discrimination or unfair
+treatment on the basis of race, national origin, color,
+gender, and/or religious affiliation, or sexual harassment.
+Attempts should always be made to solve the problem at
+the lowest possible level within an organization.
+
+If a complaint is submitted, it will be investigated. Those
+personnel found to be in violation of the EO Policy are
+subject to the punishment under the UCMJ.
+
+                    EO Complaint Process
+
+Individuals are encouraged to attempt to resolve their
+complaints by confronting the alleged offender or by
+informing other appropriate officials about the offensive
+behavior or other allegations of unequal or unfair
+treatment.
+
+Individuals are responsible to advise their chain of
+command of the specifics of discrimination or sexual
+harassment and provide their chain of command the
+opportunity to take appropriate action to resolve the
+issue(s). All personnel must submit only legitimate
+complaints and should exercise caution against frivolous
+or reckless allegations.
+3-16
+
+
+---
+
+The Army has two types of EO complaints within its EO
+complaint process. They are informal and formal.
+
+     a. Informal complaints. An informal complaint is
+          any complaint that a soldier, family member or
+          DA civilian does not wish to file in writing.
+          Informal complaints may be resolved directly by
+          the individual, with the help of another unit
+          member, the commander or other person in the
+          complainant's chain of command. Typically,
+          those issues that can be taken care of informally
+          can be resolved through discussion, problem
+          identification, and clarification of the issues. An
+          informal complaint is not subject to time
+          suspense nor is it reportable.
+
+     b. Formal complaints. A formal complaint is one
+          that a soldier, family member, or DA civilian
+          files in writing and swears to the accuracy of the
+          information. This form is available at your unit,
+          selected agencies, and higher headquarters, or
+          from installation commanders. Formal
+          complaints require specific actions, are subject to
+          timelines, and require documentation of the
+          actions taken. An individual files a formal
+          complaint using a DA Form 7279-R, Equal
+          Opportunity Complaint Form.
+
+Alternative Agencies.
+
+Although handling EO complaints through the chain of
+command is strongly encouraged, this is not the only
+
+                                                                 3-17
+
+
+---
+
+channel. Should the soldier feel uncomfortable in filing a
+complaint with the chain of command, or should the
+complaint be against a member of the chain of command,
+there are a number of alternative agencies through which a
+complaint can be made.
+
+The following are frequently used agencies:
+
+          a. Equal Opportunity Adviser (EOA)
+          b. Chaplain
+          c. Provost Marshal
+          d. Staff Judge Advocate
+          e. Housing Referral Office
+          f. Inspector General
+          g. EO Hotline
+
+The Right To Appeal
+
+If the person filing the complaint perceives that the
+investigation failed to reveal all relevant facts to
+substantiate the allegations, or that the actions taken by the
+command on his or her behalf were insufficient to resolve
+the complaint, the complainant has the right to appeal to
+the next higher commander in his or her chain of
+command. The complainant may not appeal the action
+taken against the perpetrator, if any is taken.
+
+The Military Whistleblowers Protection Act (MWPA)
+
+The MWPA allows service members to make or prepare
+protected communications about unlawful conduct. In
+exchange for blowing the whistle on unlawful conduct, the
+3-18
+
+
+---
+
+MWPA provides service members with remedies and a
+swift investigation of any reprisal.
+
+The MWPA protects two categories of communications.
+
+     1. Individual, rather than collective, lawful
+          communications between a service member and a
+          member of Congress or an IG. The lawful
+          communication does not have to involve an
+          allegation of illegal conduct.
+
+     2. Communications that a service member
+          reasonably believes allege illegal conduct. These
+          include violations of law or regulation, reports of
+          sexual harassment or discrimination,
+          mismanagement, or gross waste of funds. They
+          also include abuse of authority or actions that
+          involve “a substantial and specific danger to
+          public health or safety.”
+
+The MWPA prohibits retaliation against a service member
+for “making or preparing” protected communications.
+This includes any good faith act by a service member to
+communicate with a statutorily recognized recipient that is
+short of actual communication. The MWPA prohibits any
+“person” from restricting or retaliating against a service
+member who lawfully communicates with Congress or an
+IG. The MWPA also prohibits any “person” from
+restricting or retaliating against a service member who
+communicates with statutorily recognized recipients about
+illegal activities.
+
+                                                                 3-19
+
+
+---
+
+                     FRATERNIZATION
+     Army Policy on Relationships Between Soldiers
+
+The Army historically has relied upon custom and
+tradition to define the bounds of acceptable personal
+relationships among its members. Soldier relationships
+have always been judged with reference to customs and
+traditions of the service.
+
+It is difficult to predict which relationships – strong
+friendships, parent-child, sibling, career, and business –
+can create adverse affects. The Army prohibits all
+unprofessional relationships that -
+
+     • Compromise the chain of command
+     • Cause partiality or unfairness
+     • Involve the improper use of rank for personal
+
+          gain
+     • Are or perceived to be exploitive or coercive in
+
+          nature
+     • Create an adverse impact on discipline, authority,
+
+          morale, or mission accomplishment
+
+Violations of the fraternization and improper relationships
+policy may be punished under Article 92, UCMJ, as a
+violation of a lawful general regulation.
+
+The Army’s fraternization policy prohibits personal
+relationships between officer and enlisted personnel
+regardless of their service. This policy applies to
+
+3-20
+
+
+---
+
+different-gender relationships and same-gender
+relationships. Categories of personal relationships include
+
+     • Dating
+     • Shared living accommodations
+     • Engaging in intimate or sexual relations
+     • Business enterprises
+     • Commercial solicitations
+     • Gambling or borrowing
+
+     IMPROPER (“ILLEGAL”) ASSOCIATIONS
+
+Any relationship between permanent party personnel and
+IET soldiers, not required by the training mission, is
+prohibited. The prohibition against any relationship
+between permanent party personnel and IET soldiers
+applies to permanent party personnel without regard to the
+installation of assignment of the permanent party member
+or the trainee.
+
+There are two major categories of illegal associations:
+
+     1. Relationships between permanent party members
+          and IET soldiers.
+
+     2. Relationships between IET soldiers.
+
+Personal Relationships Between IET Soldiers and
+Permanent Party. Any relationship between permanent
+party personnel and IET soldiers not required by the
+
+                                                                 3-21
+
+
+---
+
+training mission is prohibited. This includes, but is not
+limited to, the following:
+
+     • Drinking, dancing, or gambling
+     • Writing and/or receiving personal letters
+     • Privately owned vehicles
+     • Sexual conversations
+     • Sexual contact (kissing, hugging, caressing,
+
+          fondling, handholding)
+     • Sexual intercourse
+
+Any relationship between permanent party personnel
+assigned or attached to the U.S. Army Recruiting
+Command and potential prospects, applicants, members of
+the Delayed Entry Program or Delayed Training Program,
+not required by recruiting mission, is prohibited.
+
+Romantic Relationships Between IET Soldiers. Illegal
+associations between IET soldiers involve any actual or
+attempted consensual contact or socializing between or
+among soldiers who are in BCT or AIT, which involves
+any actual or attempted:
+
+     • Consensual contact or socializing between or
+          among soldiers who are in BCT or AIT, which
+          involves handholding, embracing, caressing,
+          kissing, touching, massaging or fondling of a
+          sexual nature, engaging in sexual intercourse or
+          sodomy; or
+
+3-22
+
+
+---
+
+     • Use by a soldier in BCT or AIT of sexually
+          explicit, suggestive, or obscene language or
+          gestures directed towards, or with respect to
+          another soldier in BCT or AIT; or
+
+     • Gender-based or race-based harassment or
+          disparaging language or actions by a soldier or a
+          group of soldiers in BCT or AIT directed towards
+          another soldier or group of soldiers in BCT or
+          AIT; or
+
+     • Entry into the living quarters, latrines, or other
+          areas designated for the exclusive use of soldiers
+          of the opposite sex, unless required by training
+          mission/official duties or for health or safety
+          emergencies.
+
+Language, gestures, physical contacts, or socializing of a
+non-sexual, non-harassing nature, which arise out of the
+esprit and enthusiasm generated by the basic training
+mission and the professional development associated with
+BCT and AIT, are not illegal associations. There is no
+prohibition against IET soldiers of the same or opposite
+sex talking to one another or developing friendships.
+
+                  Sexual Harassment Policy
+
+The policy of the United States Army is that sexual
+harassment is inappropriate and unacceptable conduct.
+Sexual harassment destroys teamwork and is detrimental
+to combat readiness. The Army is an organization of
+people, and its success is based on their ability to perform
+
+                                                                 3-23
+
+
+---
+
+in an environment of mutual respect, dignity, and fair
+treatment.
+
+Categories of sexual harassment include
+
+• Verbal (Example: Telling sexual jokes)
+• Nonverbal (Example: Blowing kisses)
+• Physical Contact (Example: Touching or blocking a
+
+     doorway)
+
+Individuals who believe they are being sexually harassed are
+responsible for helping to resolve the issue. One way of
+accomplishing this is by confronting the harasser and telling
+him/her that the behavior is not appreciated, not welcome and must
+stop. Another way is to file an informal or formal complaint.
+Intimidation, harassment, or retaliation against those filing
+a complaint is not permitted.
+
+Sexual harassment is a form of gender discrimination that
+involves unwelcome sexual advances, requests for sexual
+favors, and other verbal or physical conduct of a sexual
+nature when
+
+     • Submission to or rejection of such conduct is
+          made a term or condition of a person's job, pay,
+          or career, or
+
+     • Submission to or rejection of such conduct is
+          used as a basis for career or employment
+          decisions affecting that person; or
+
+3-24
+
+
+---
+
+     • Such conduct creates an intimidating, hostile or
+          offensive working environment or unreasonably
+          interferes with an individual's work performance.
+
+Any person in a supervisory or command position who
+uses or condones any form of sexual behavior to control,
+influence, or affect the career, pay, or job of a military
+member or civilian employee is engaging in sexual
+harassment.
+
+Any soldier or civilian employee who makes deliberate or
+repeated unwelcome verbal comments, gestures, or
+physical contact of a sexual nature is engaging in sexual
+harassment.
+
+If you are uncomfortable because of certain sexual
+remarks or behaviors, you should be assertive. In
+responding to behavior that is or may become sexual
+harassment, you should tell the person how you feel.
+Describe what you do not like. Stay focused on the
+behavior and its impact. Clearly state what you want in
+the future, for example "I do not want to hear that again"
+or "Do not touch me again."
+
+If harassment continues after you have told the other
+person you do not like it, you should go to your immediate
+superior unless that is the person doing the harassing. In
+that case, go to his superior. If appropriate action is not
+taken, you may want to go up the chain of command or to
+the post Equal Opportunity adviser (EOA).
+
+                                                                 3-25
+
+
+---
+
+Sexual harassment is only one form of discrimination.
+Gender discrimination and discrimination based on race,
+religion, color, or national origin are also against the law.
+
+          Sexual Harassment Checklist:
+
+          1. Is the behavior sexual in nature?
+
+          2. Is the behavior unwelcome?
+
+          3. Does the behavior create a hostile or offensive
+          work environment?
+
+          4. Have sexual favors been demanded, requested,
+          or suggested (especially as a condition of
+          employment or career and job success)?
+
+        Suggested Individual Actions to Deal with
+                      Sexual Harassment:
+
+          1. Confront the harasser.
+
+          2. File a complaint.
+
+          3. Use an intermediary spokesperson.
+
+          4. Write a letter to the harasser about the
+          behavior and the expected resolution.
+
+          5. Report the harassment to the chain of
+          command.
+
+3-26
+
+
+---
+
+                     Appropriate Behavior
+
+The phrase “appropriate behavior” describes how you, as a
+good soldier, are expected to behave. You are a soldier 24
+hours a day and should always behave honorably. How
+you act reflects upon yourself, your unit, and those
+fighting men and women who have given their lives
+fighting for America.
+
+Examples of inappropriate behavior include alcohol and
+drug abuse and intolerance of others. As a soldier, you
+can help prevent inappropriate behavior by promoting
+
+          • Behavior that is based on the Army Values –
+                LDRSHIP (See Chapter 2)
+
+          • Tolerance of those different from us
+          • Ethical decision-making
+          • Adherence to the code of conduct
+
+You can also help prevent inappropriate behavior by
+demonstrating RESPECT for others, their property, and
+respect for yourself.
+
+                   Alcohol and Drug Abuse
+
+Abuse of alcohol and drugs is incompatible with military
+service because it significantly impacts performance of the
+mission. Soldiers identified as abusers of alcohol or other
+drugs may enter into a rehabilitation program.
+
+Success in the military is dependent upon your being an
+exemplary soldier. As a soldier, an individual must make
+
+                                                                 3-27
+
+
+---
+
+responsible decisions with regard to alcohol and the use of
+drugs. It is encouraged that soldiers refuse substances and
+set the example for other soldiers.
+
+If you choose to abuse, you are subject to administrative
+and judicial actions. However, you can ask for help
+through your chain of command to include the chaplain.
+
+                    Consideration of Others
+
+Diversity is a positive aspect of military service.
+Consideration of others is defined as “those actions that
+indicate a sensitivity to and regard for the feelings and
+needs of others and an awareness of the impact of one’s
+own behavior on them; being supportive of and fair with
+others.”
+
+The objective of the consideration of others program is to
+foster and strengthen the command climate by reinforcing
+the importance of trust, teamwork, dignity, and respect for
+others.
+
+                 Homosexual Conduct Policy
+        “Don’t Ask, Don’t Tell, and Don’t Harass.”
+
+Sexual orientation is a private, personal matter.
+
+          Sexual orientation alone is not a bar to enlistment
+or continued service in the military.
+
+          Homosexual conduct, on the other hand, is
+incompatible with military service. The Department of
+3-28
+
+
+---
+
+Defense has defined three types of homosexual conduct:
+statement, act, and marriage.
+
+      • Statement: Can be conveyed through language or
+      behavior; indicates a propensity (i.e. likelihood) or
+      intent to engage in homosexual acts. The soldier can
+      present evidence that he/she does not engage in
+      homosexual acts and does not have a propensity or
+      intent to do so.
+
+      • Act: Any bodily contact, actively undertaken or
+      passively permitted, between persons of the same
+      sex for the purpose of satisfying sexual desires; and
+      any bodily contact which a reasonable person would
+      understand to demonstrate a propensity or intent to
+      engage in an act described above.
+
+      • Marriage: Marrying or attempting to marry a
+      person of the same sex.
+
+The basic policy is - “Don’t ask, don’t tell.” This policy
+also means, “Don’t Harass”.
+
+     • “Don’t Ask” – The Army and individual soldiers
+          have a responsibility not to ask about homosexual
+          orientation.
+
+     • “Don’t Tell” – Soldiers should not disclose their
+          sexual orientation. If soldiers do disclose their
+          orientation, it may be used to separate them from
+          the Army.
+
+                                                                 3-29
+
+
+---
+
+     • “Don’t Harass” – Soldiers will not harass other
+          soldiers based upon sexual orientation or
+          conduct.
+
+Homosexual conduct is incompatible with military
+service. Homosexual conduct includes statements, acts,
+and same-sex marriages. It does not include rumors,
+opinions, or associational behavior, such as associating
+with known homosexuals, frequenting homosexual or
+“alternative lifestyle” bars, reading homosexual
+publications, or participating in homosexual rallies in
+civilian clothes.
+
+Service members are not allowed to ask or question other
+service members about their sexual orientation. If so, the
+person asking the question could be subject to punishment
+under the UCMJ (for example – Violation of Article 134,
+Conduct prejudicial to good order and discipline).
+
+Remember the rule—sexual orientation alone is not a bar
+to entry or continued military service. However, if you
+reveal homosexual conduct, you open yourself up to
+questioning by the commander and adverse action, such as
+administrative separation, etc.
+
+Don’t harass. Harassment of a soldier based upon sexual
+orientation or conduct is inappropriate. Harassment
+includes oral comments (on or off duty), derogatory
+references or language, jokes about homosexuals, jody
+calls about homosexuals, anonymous calls or e-mails, etc.
+
+3-30
+
+
+---
+
+Harassment should be reported to the chain of command
+or other channels. Commanders will investigate and take
+appropriate action to protect the safety of the soldier, on
+and off duty. Each case will be treated individually
+depending on the facts. If a soldier has a concern or if
+they are uncomfortable discussing issues regarding
+homosexual conduct with the chain of command, they can
+discuss those matters in confidence with either a legal
+assistance attorney or chaplain.
+
+Soldiers who report being harassed are not to be
+considered as verifying that the accusations are accurate.
+When a soldier reports harassment to commanders, it is
+not an admission of homosexuality and commanders
+should not regard it as if it were. Threats or harassment
+based on a soldier’s perceived or alleged homosexuality
+does not, by itself, constitute credible information
+justifying an inquiry about homosexual conduct of the
+harassed soldier.
+
+Homosexual conduct remains incompatible with military
+service. All soldiers, including those suspected of being
+homosexuals or pending separation for homosexuality,
+deserve to be treated with dignity and respect. Every
+soldier has the right to expect treatment consistent with
+our core Army values, a safe and secure living and
+working environment, and the support of their chain of
+command.
+
+                                                                 3-31
+
+
+---
+
+                      Dignity and Respect
+
+Respect is one of the seven bedrock Army values. All
+soldiers will be treated with dignity and respect at all
+times. As a soldier, you will also be afforded a safe and
+secure environment in which to live and work.
+
+Remember the Golden Rule - treat others as you wish to
+be treated, or how you would want your son or daughter to
+be treated.
+
+If you are the victim of harassment or threats, try to
+resolve it yourself. If the treatment continues, report it
+to your chain of command. Commanders at every level
+will take appropriate action to prevent harassment or
+threats and provide safe and secure living and working
+environments.
+
+Treating individuals with dignity and respect promotes
+compliance with Army policies concerning sexual
+harassment, racial and gender equality, homosexuality,
+consideration of others, (deleted), and core Army values.
+Our Army enjoys a worldwide centuries-earned reputation
+for fighting ferociously and treating people with dignity
+and respect. We must continue that tradition.
+
+                        Rape Prevention
+
+A sexual assault is defined, as any behavior of a sexual
+nature performed against another person against his or her
+will. It can occur in any type of relationship, including
+marriage. Sexual assault is a crime and is punishable
+3-32
+
+
+---
+
+under the UCMJ and local civilian laws. Unless otherwise
+stated, each of these crimes carries a maximum penalty, in
+addition to confinement, a dishonorable discharge, and
+forfeiture of all pay and allowances. As a soldier, it is
+your duty to understand and abide by the Army’s sexual
+assault and rape prevention policies, thereby honorably
+living up to the Army’s values.
+
+The Army’s policy states that sexual assault, which
+includes forcible rape, sodomy, and indecent assault, is a
+criminal offense incompatible with the Army’s high
+standards of professionalism and discipline. Commanders
+and supervisors of perpetrators will take appropriate
+disciplinary action and/or administrative action.
+
+Rape is defined as sexual intercourse by force and without
+consent. Male and female soldiers can commit rape. The
+types of rape are physical and constructive force,
+date/acquaintance rape, and marital rape.
+
+   Suggested Actions to Prevent Becoming A Victim:
+
+          • Walk only in lighted areas after dark
+          • Buy time with the rapist by talking
+          • Attract help/attention
+          • Report misconduct
+          • Do not be intimidated
+
+Instances of rape committed by a soldier impacts the
+Army’s readiness and mission accomplishment.
+
+                                                                 3-33
+
+
+---
+
+          If You Are A Victim:
+
+          • Go to a safe place where a phone is available
+          • Call the local or military police
+          • Do not shower, douche, change clothes, or
+
+                straighten up the site where you were
+                victimized
+          • Go directly to a hospital or clinic and have
+                the police notified for you
+          • Call someone from your chain of command,
+                a friend, a rape hotline, or social work
+                services
+
+          If You Are Helping A Victim
+
+          When assisting a victim, you should
+
+          • Listen to what the victim has to say and
+                sympathize
+
+          • Do not ask what the victim did to cause this
+                to happen
+
+          • Support the victim in the decision and effort
+                to report the crime
+
+          • Encourage them to talk to a professional
+                counselor
+
+                       Suicide Prevention
+
+Suicide claims the lives of nearly 10,000 young adults
+annually. It is the second leading cause of death for
+people aged 18 – 24. Many suicides, if not most, are
+
+3-34
+
+
+---
+
+preventable. As soldiers, it is your responsibility to report
+any action that would affect the readiness of your unit. It
+is also your responsibility to be loyal to your fellow
+soldiers by ensuring that they are never left in a situation
+that would cause them to be harmed. It is your respect for
+your fellow soldiers that makes you take the necessary
+steps to protect them from harm.
+
+Threats are warning signs made by someone which could
+indicate that the person may be considering a suicidal act.
+Threats are sometimes very hard to recognize because they
+may be very subtle in nature. Never take a suicidal threat
+lightly.
+
+          Signs of Suicide
+
+          A suicidal individual may:
+
+          • appear depressed: sad, tearful, poor sleep,
+                poor appetite, hopeless
+
+          • threaten suicide
+          • talk about wanting to die
+          • show changes in behavior, appearance, mood
+          • abuse drugs, alcohol
+          • experience significant loss
+          • deliberately injure self
+          • give away possessions
+          • have experienced a recent breakup in a
+
+                relationship
+
+                                                                 3-35
+
+
+---
+
+          What to Do
+
+                Provide AID:
+
+          • A – Ask. Don’t be afraid to ask “Are you
+                thinking about hurting yourself?”
+
+          • I – Intervene immediately
+          • D – Don’t keep it a secret
+
+                Follow the acronym LIFE (ALL FOUR
+                steps in the acronym LIFE are EQUALLY
+                important. Do not just follow the steps
+                below sequentially.)
+
+           • L – Locate help: CQ, Staff duty officer,
+                      chaplain, doctor, nurse, friend, family,
+                      crisis line, Hospital, Emergency Room.
+
+           • I – Inform: Drill Sergeant, chain of
+                      command, Chaplain or Chaplain
+                      Assistant, Medical Personnel.
+
+           • F – Find: Someone to stay with the person –
+                      Don’t leave the person alone.
+
+           • E – Expedite: Get help immediately. A
+                      suicidal person needs immediate
+                      attention by helpers.
+
+          Depression: Depression is serious. Nearly 80%
+          of depressed people attempt suicide. Sadness and
+          “blue” feelings are shared by everyone, but
+          depression clings to the mind, creating a sense of
+
+3-36
+
+
+---
+
+          ongoing sadness and hopelessness, even when the
+          soldier experiences pleasant times.
+
+          Consider some indicators of depression:
+
+          • Poor appetite or significant weight loss, or
+                increased appetite or significant weight gain
+
+          • Change in sleep habits, either excessive sleep
+                or the inability to sleep
+
+          • A slowing of bodily movements
+          • Easily agitated
+          • Loss of interest or pleasure in usual activities
+          • Loss of energy, never-ending fatigue,
+
+                physical and mental
+          • Diminished ability to think or concentrate
+          • Feelings of worthlessness, self-blame, or
+
+                excessive guilt
+          • Withdrawal from friends, co-workers, spouse
+
+                or children
+          • Drastic mood swings
+
+Suicidal crises are almost always temporary. Although it
+might seem as if your unhappiness will never end, it is
+important to realize that crises end. Solutions are found,
+feelings change, unexpected positive events occur.
+Suicide is sometimes referred to as “a permanent solution
+to a temporary problem.” Don’t let suicide rob you of
+better times that would have come your way if only you
+had allowed more time to pass.
+
+                                                                 3-37
+
+
+---
+
+Do not keep suicidal thoughts to yourself! Help is
+available for you, whether through a soldier buddy,
+chaplain, or mental health professionals. Find someone
+you trust and let them know how bad things are for you.
+This can be your first step on the road to healing.
+
+Depression is treatable. Death is final.
+
+        Ethical Decision-Making
+
+The decisions that you make can have a far-reaching effect
+upon yourself, your unit, and the Army. It is up to you to
+make the ethical decision. An ethical decision is one that
+complies with the spirit and letter of the ethics regulations
+and the Seven Army Values.
+
+        The Ethical Decision-Making Process
+
+1. What problem am I facing?
+2. What are my choices?
+3. Which choice is most consistent with Army
+
+     values and regulations?
+4. Make your decision and execute your plan.
+
+AWARDS AND DECORATIONS OF THE UNITED
+                       STATES ARMY
+
+Army awards fall into three categories:
+
+     •  Personal and unit decorations
+     •  Commemorative, campaign, and service medals
+     •  Marksmanship badges and trophies
+3-38
+
+
+---
+
+1. Personal and Unit Decorations -- Personal awards are
+conferred upon the individual for his or her act of heroism,
+specific act of gallantry, or for meritorious service during
+military or non-military feats. Some of these decorations,
+arranged in order of the degree of valor or achievement,
+are described as follows:
+
+          a. The Medal of Honor is the highest and most
+                rarely awarded decoration conferred by the
+                United States. The medal is awarded for
+                conspicuous gallantry and intrepidity at the
+                risk of his or her life above and beyond the
+                call of duty while engaged in an action
+                against an enemy of the United States.
+
+                1) While engaged in actions against
+                     “hostile” forces;
+
+                2) While engaged in military operations
+                     involving conflict with opposing foreign
+                     force; or
+
+                3) While serving with friendly foreign
+                     forces engaged in an armed conflict
+                     against an opposing armed force in
+                     which the U.S. is not a belligerent party.
+
+          b. The Distinguished Service Cross is awarded
+                to a person who, while serving in any
+                capacity with the Army, distinguishes
+
+                                                                 3-39
+
+
+---
+
+                himself or herself by extraordinary heroism
+                not justifying the award of a Medal of Honor
+
+                1) While engaged in an action against an
+                     enemy of the Unites States;
+
+                2) While engaging in military operations
+                     involving conflict with an
+                     opposing/foreign force; or
+
+                3) While serving with friendly foreign
+                     forces engaged in an armed conflict
+                     against an opposing Armed Force in
+                     which the United States is not a
+                     belligerent party.
+
+                The act or acts of heroism must have been so
+                notable and have involved risk of life so
+                extraordinary as to set the individual apart
+                from his or her comrades.
+
+          c. The Purple Heart is awarded to persons
+                serving in any capacity as a member of the
+                U.S. Armed Forces who is killed or wounded
+                (requiring treatment by a medical officer) in
+                any action against enemies of the U.S., as a
+                result of any act of any such enemy or
+                opposing armed force, or as the result of
+                maltreatment inflicted by captors while being
+                held as a prisoner of war.
+
+3-40
+
+
+---
+
+          d. Collective (unit) citations are made to an
+                operating unit for outstanding performance,
+                inside or outside of the U.S. It is worn by
+                only those persons who were members of
+                that unit during the action or period of time
+                specified by the award.
+
+2. Commemorative, campaign, and service medals are issued to
+soldiers who take part in particular campaigns or periods of
+service for which a medal is authorized. The Army Good
+Conduct Medal recognizes enlisted women and men who have
+served with exemplary behavior, efficiency, and fidelity in active
+Federal military service. Qualifying periods of service include:
+1. Each 3 years completed on or after 27 August 1940; 2. For
+first award only, upon termination of service on or after 27 June
+1950, of less than 3 years but more than 1 year; 3. For first award
+only, upon termination of service on or after 27 June 1950, of
+less than 1 year when final separation was by reason of physical
+disability incurred in line of duty; and 4. For first award only, for
+those individuals who died before completing 1 year of active
+Federal military service if the death occurred in the line of duty.
+The following disqualification rules must be observed.
+
+          a. Conviction by courts-martial terminates a
+          period of qualifying service; a new period begins
+          the following day after completion of the
+          sentence imposed by court-martial.
+
+          b. Individuals whose retention is not warranted
+          under standards prescribed in AR 604-10,
+          paragraph 2-1 or for whom a bar to reenlistment
+
+                                                                 3-41
+
+
+---
+
+          has been approved under the provisions of AR
+          601-280, chapter 6 are not eligible for award.
+
+          c. Disqualification as determined by the unit
+          commander. The commander will prepare a
+          statement of rationale for his/her decision. The
+          statement will include the period of
+          disqualification and will be referred to the
+          individual.
+
+          d. Disqualification for an award of the Army
+          Good Conduct Medal can occur at any time
+          during a qualifying period (for example, when the
+          manner of performance or efficiency declines.)
+
+3. Marksmanship badges and trophies -- Badges awarded
+to individuals who qualify because they have
+demonstrated some special proficiency or skill.
+Marksmanship badges are worn to indicate the
+individual’s prowess with specific weapons, pistols, and/or
+rifles, during specified competitions, matches, or practice
+exercises.
+
+The trophies are awarded at various levels to include:
+United States and international distinguished shooter
+competitions, US Army rifle and pistol championships,
+national trophies for rifle and pistol championships,
+interservice rifle and pistol matches, combat exercises, and
+division contests.
+
+3-42
+
+
+---
+
+                          TERRORISM
+
+In 1992, an American soldier was killed in an ambush in
+Panama. In 1991, another soldier was killed in Panama in
+a drive-by shooting. Also in 1991, a bomb in the entryway
+of his Korean apartment house killed an Air Force sergeant.
+Personal animosity did not cause these incidents. These soldiers
+were killed simply because they were American military
+personnel. As symbols of United States power, soldiers are
+always at risk from criminals and terrorists. While the level and
+type of threat vary from place to place and time to time, you can
+do several things to make yourself less likely to be the target of a
+criminal or terrorist. By practicing these principles at all times,
+you will be better prepared for that time when you are living and
+working in an elevated threat environment.
+
+    Know the threat in your area. Be especially cautious
+      in high-crime areas or areas with a history of terrorist
+      activity.
+
+    Routinely practice crime-prevention measures.
+
+    Be inconspicuous. DO NOT call attention to
+      yourself by dress or action, such as by talking loudly
+      or flashing large sums of money.
+
+    Involve your family in security. A good personal
+      security program covers security at work, at home,
+      and while traveling.
+
+    Ensure family members know where other members
+      are at all times.
+                                                                 3-43
+
+
+---
+
+    Ensure children DO NOT give any personal
+      information, such as phone numbers, where parents
+      work, etc., to strangers.
+
+    Answer the phone "Hello"; never give your name
+      until the caller identifies himself or herself.
+
+    Ensure family members know emergency phone
+      numbers (police, fire, medical).
+
+    When traveling, DO NOT discuss your work with
+      strangers (no one on the bus, airplane, or train needs
+      to know that you are a soldier).
+
+    DO NOT use luggage or wear clothing or accessories
+      that identify you as a soldier.
+
+    DO NOT work or drive in isolated or high-crime
+      areas.
+
+    Avoid public demonstrations.
+
+    Know where safe areas are (police stations, military
+      installations).
+
+    Report all suspicious personnel or activities, to
+      include surveillance, to proper authorities (chain of
+      command, security officer, police). DO NOT
+      confront suspicious personnel.
+
+3-44
+
+
+---
+
+Above all, stay alert. If something seems "wrong," it
+might well be. Most attacks against US military personnel
+occurred when off-duty or traveling personnel who were
+not following sound security practices. Remember, there is
+no honor in becoming a victim of a criminal or terrorist
+attack, so practice personal protection to keep yourself and
+your family from becoming a victim.
+
+                                                                 3-45
+
+
+---
+
+                           CHAPTER 4
+                  BASIC SOLDIER SKILLS
+
+          SERVE AS A MEMBER OF A TEAM
+
+The Army defines team as a "group of individuals banded
+together along organizational lines for the purpose of
+accomplishing a certain goal."
+
+Cohesion is the "glue" that brings people together to make a
+team. It helps soldiers to develop and sustain their
+commitment and resolve to accomplish the unit's mission.
+The Army's description of cohesion includes these elements:
+
+    Bonding: "The development of strong interpersonal
+      relationships among soldiers, and between them and
+      their leaders."
+
+    Commitment: "Dedication not only to the unit and
+      what it represents, but to the values and goals of the
+      nation as well."
+
+    Resolve: "The shared determination of soldiers and
+      their leaders to work interdependently to accomplish
+      the mission, and to sustain this capability over a long
+      period of time."
+
+Cohesion is dependent on several factors:
+
+    Common goal
+
+    People working together.
+
+                                                                   4-1
+
+
+---
+
+    Effective communication
+    Mutual assistance
+
+                       The Buddy System
+
+The Army’s Buddy System provides every soldier an
+assigned buddy.
+
+Requirements to be a buddy:
+
+    In IET, the norm is only same-gender soldiers will be
+      buddies.
+
+    If there are non-English speaking soldiers in a
+      platoon, they will be paired with English-speaking
+      buddies who can assist in interpreting instructions.
+
+    You will be paired based on your strengths that can
+      complement another’s weaknesses.
+
+Responsibilities of a buddy:
+
+    Never go anywhere without a buddy.
+
+    Inform your buddy where you will be at all times.
+
+    Pass on information that might affect your buddy.
+
+    Discuss each day's training and the next day's
+      activities.
+
+    Lean on each other for problem solving. Help each
+      other.
+
+4-2
+
+
+---
+
+    Encourage your buddy to complete successfully all
+      training requirements.
+
+    Make sure your buddy adheres to appearance and
+      conduct standards.
+
+    Inform the drill sergeant of any problems or status
+      changes in your buddy.
+
+    Assist your buddy in living the Army core values.
+
+The soldier’s responsibilities to the unit team:
+
+    Commit to the squad, platoon, company, and unit
+      above self.
+
+    Cooperate with peers to accomplish goals.
+
+    Adopt standards and values of the unit.
+
+                DRILL AND CEREMONIES
+
+Drill Procedures
+Many drill procedures used by the United States Army
+today were developed during the Revolutionary War. The
+purpose of the drill then was to instill discipline in
+American soldiers. As these soldiers mastered the art of
+the drill, they began to work as a team and to develop a
+sense of pride in themselves and in their unit. In today's
+Army, the same objectives—teamwork, confidence, pride,
+alertness, attention to detail, esprit de corps, and
+discipline—are accomplished by drill.
+
+                                                                   4-3
+
+
+---
+
+A drill consists of a series of movements by which a unit or
+individuals are moved in an orderly, uniform manner from one
+formation to another or from one place to another. Units vary in
+size, but in basic combat training (BCT), you will ordinarily be
+part of a squad, section, platoon, or company. Figure 4-1,
+illustrates some drill formations.
+
+     Figure 4-1. Drill formations (without weapons).
+
+4-4
+
+
+---
+
+You will need to know the following drill terms:
+
+Element. This is an individual, squad, section, platoon,
+company, or larger unit formed as part of the next higher unit.
+
+Formation. This is an arrangement of the unit's elements
+in a prescribed manner such as a line formation, in which
+the elements are side-by-side, and column formation, in
+which the elements are one behind the other. In a platoon
+column, the members of each squad are one behind the
+other with the squads abreast.
+
+Front. This is a space from one side to the other side of a
+formation, and includes the right and left elements.
+
+Depth. This is a space from the front to the rear of a
+formation, including the front and rear elements.
+
+Distance. This is the space between elements that are one
+behind the other. The distance between individuals is an
+arm's length plus 6 inches, or approximately 36 inches,
+measured from the chest of one soldier to the back of the
+soldier immediately to his front.
+Interval. This is the space between side-by-side elements.
+
+Rank. This is a line that is only one element in depth.
+File. This is a column that has a front of one element.
+
+Guide. This is the person responsible for maintaining the
+prescribed direction and rate of march.
+
+Post. This is the correct place for an officer or noncom-
+missioned officer to stand in a prescribed formation.
+
+                                                                   4-5
+
+
+---
+
+Head. This is a column's leading element.
+
+Base. This is the element around which a movement is
+planned or regulated.
+
+Cadence. This is a uniform rhythm or number of steps or
+counts per minute.
+
+Quick Time. This is a cadence of 120 counts (steps per
+minute).
+
+Double Time. This is a cadence of 180 counts (steps per
+minute).
+
+Drill commands are oral orders given by your commander
+or leader, usually in two parts. The preparatory command
+states the movement to be carried out and gets you ready
+to execute the order. The command of execution tells
+when the movement is to be carried out. In the command
+"Forward, march," the preparatory command is
+"Forward" and the command of execution is "March."
+
+In some commands, the preparatory command and the
+command of execution are combined, for example, "Fall
+in," "at ease," and "Rest." These commands are given
+without inflection and at a uniformly high pitch and
+loudness comparable to that of a normal command of
+execution.
+
+4-6
+
+
+---
+
+Stationary Positions
+
+Attention. Figure 4-2 illustrates the position of attention.
+You should assume this position on the command "Fall in"
+or "Squad/platoon, attention."
+
+Your weight should be distributed equally on the heels and balls of
+your feet. When you come to attention, bring your heels together
+smartly with your toes forming a 45-degree angle, as shown in
+Figure 4-2. Keep your legs straight without locking your knees.
+Hold your body erect with your hips level, your chest lifted, and
+your shoulders square and even. Your arms should hang straight,
+but not stiff, with the backs of your hands outward. Curl your
+fingers so that the tips of your thumbs are alongside and touching
+the first joint of the forefingers. Your thumbs should be straight and
+along the seams of your trousers or skirt. The first joint of your
+forefingers should touch the trousers or skirt. Keep your head erect,
+and look straight to the front.
+
+Practice assuming the position of attention so you can do it
+properly. All movements except rest movements start from
+this position.
+
+Parade Rest. The command to assume this position is
+"Parade, rest." Parade rest is commanded only from the
+position of attention (Figure 4-2). On the command of
+execution, "Rest," move your left foot 10 inches to the left
+of your right foot. Rest your weight equally on the heels and
+balls of both feet, keeping your legs straight without locking
+your knees. At the same time you move your feet, place
+your hands at the small of the back, centered on your belt.
+Keep the fingers of both hands extended and joined,
+interlocking your thumbs, as shown in Figure 4-2, so that
+the palm of your right hand is outward. Hold your head
+
+                                                                   4-7
+
+
+---
+
+erect and look straight to the front. Remain silent and do not
+move. If you are at the position of at ease, stand at ease, or
+rest, you should assume the parade rest position on hearing
+the preparatory command for attention.
+
+               Figure 4-2. Stationary positions.
+
+     ATTENTION  PARADE REST
+
+Stand at Ease. The stand-at-ease position is like parade
+rest, but with your head and eyes turned directly toward the
+commander. The command for this position is "Stand at
+ease." "At ease" or "Rest" may also be commanded from
+this position.
+
+At Ease. The command for this movement is "At ease."
+On the command "At ease," the soldier may move;
+however, he must remain standing and silent with his right
+foot in place.
+
+4-8
+
+
+---
+
+Rest. The command for this movement is "Rest." On the
+command REST, the soldier may move, talk, smoke, or
+drink from a canteen unless otherwise directed. He must
+remain standing with his right foot in place. "At ease" may
+be executed from this position.
+
+Facing Movements. Facing to the flank is a two-count
+movement for turning to one side or the other. The command
+is "Left, face" or "Right, face." Figure 4-3, page 4-5 illustrates
+"left face." On the command of execution, "Face," slightly
+raise yourself 90 degrees to the left on your left heel. A slight
+pressure on the ball of your right foot will help you do this
+correctly. Keep your right leg straight, but not stiff. On the
+second count, place your right foot beside your left foot, and
+resume the position of attention. Hold your arms as you
+would while at attention as you execute this movement. Right
+face will be executed in the very same way as left face,
+simply substituting right for left and left for right.
+
+START  COUNT ONE  COUNT
+                   TWO
+
+       Figure 4-3. Face to the flank.
+
+                                       4-9
+
+
+---
+
+Face to the Rear. Facing to the rear is also a two-count
+movement and is illustrated in Figure 4-4. The command is
+"About, face." On the command of execution, "Face," touch
+the toe of your right foot to the ground about half the length
+of your foot to the rear and slightly left of the left heel. Rest
+your weight on the heel of your left foot, and allow your
+right knee to bend naturally. On the second count, turn
+180 degrees to the right on the left heel and on the ball of
+the right foot, resuming the position of attention. Hold your
+arms at attention when executing this movement.
+
+START  COUNT ONE  COUNT TWO
+
+                 Figure 4-4. Face to the rear.
+
+Hand Salute. The hand salute is a one-count movement.
+The command is "Present, arms." When wearing headgear
+with a visor (with or without glasses), on the command of
+execution, "Arms," raise the right hand sharply, fingers
+and thumb extended and joined, palm facing down, and
+place the tip of the right forefinger on the rim of the visor
+
+4-10
+
+
+---
+
+slightly to the right of the right eye. The outer edge of the hand is
+slightly canted downward so that neither the back of the hand nor
+the palm is clearly visible from the front. The hand and wrist are
+straight, the elbow inclined slightly forward, and the upper arm
+horizontal as shown in Figure 4-5.
+
+                   Figure 4-5. Hand salutes.
+
+                                                                 4-11
+
+
+---
+
+When wearing headgear without a visor or when uncovered,
+and when not wearing glasses, execute the hand salute in
+the same manner as previously described, except touch the
+tip of the right forefinger to the forehead near the right
+eyebrow, slightly to the right of the right eye.
+
+"Order, arms" is a one-count movement from the hand
+salute. On the command of execution, Arms, return the
+hand sharply to the side, resuming the position of
+attention.
+
+When reporting or rendering courtesy to an individual,
+turn the head and eyes toward the person addressed and
+simultaneously salute. In this situation, the actions are
+executed without command. The salute is initiated by the
+subordinate at the appropriate time and terminated upon
+acknowledgement.
+
+The hand salute may be executed while marching. When
+double-timing, a soldier must come to quick time before
+saluting. However, when a formation is marching at
+double time, only the individual in charge assumes quick
+time and salutes.
+
+                      Steps and Marching
+
+All steps in marching are variations of 30-inch or 15-inch
+steps. You must learn these well before you can proceed to
+unit drill. All marching movements executed from the halt
+begin from the position of attention. All marching
+movements, except for route step, march, and at ease,
+march, can be executed from the halt. All steps except
+right step march begin with the left foot.
+
+4-12
+
+
+---
+
+30-Inch Step. The command to march with a 30-inch step
+from the halt is "Forward, march." When you hear the
+"Forward," shift your weight to the right leg without
+noticeable movement. On the command of execution,
+"March," step forward with your left foot and continue
+marching with 30-inch steps keeping your head and eyes
+forward. Your arms should swing in a natural motion,
+without bending at the elbows, about 9 inches straight
+forward and 6 inches to the rear of the seams of your
+trousers or skirt. Keep your fingers curled as in the
+position of attention.
+
+Change Step. The command "Change step, march" is
+given as the right foot strikes the ground. When you hear
+"March," take one more step with your left foot. Then, in
+one count, place your right toe near the heel of your left
+foot and step off again with your left foot. You should
+execute this movement without command if you find
+yourself out of step with other members in your formation.
+
+Rest Movement (30-Inch Step). When you hear the
+command "At ease, march," you do not have to march in
+cadence. You must remain silent and maintain the same
+interval and distance as before. The command "Route step,
+march," means the same as "At ease, march," except that
+you may talk.
+
+15-Inch Step (Half Step). The command for marching
+with a 15-inch step is "Half step, march." This command
+may be given from the halt, or it may be given to change a
+30-inch step to a 15-inch step while marching. If the
+command is given from the halt, proceed as for marching
+with the 30-inch step, but take only 15-inch steps. If the
+command is given while you are marching with 30-inch
+
+                                                                 4-13
+
+
+---
+
+steps, you will hear the command "Half Step March." Take
+one more 30-inch step and then begin marching with
+15-inch steps. Allow your arms to swing naturally.
+
+Halt. To halt while marching, the command "Squad/
+platoon, halt" is given as either foot strikes the ground. The
+movement is executed in two counts. On hearing "Halt," take
+one more step and then bring your trailing foot alongside
+your leading foot, resuming the position of attention.
+
+Marching in Place. To march in place, the command is
+"Mark time, march." When you hear "March," take one
+more step, bring the trailing foot alongside your leading
+foot, and begin marching in place. To do this, raise each
+foot alternately 2 inches off the ground. Your arms should
+continue to swing naturally.
+
+15-Inch Step (Right/Left). To march with a 15-inch step
+right or left, you must begin from the halt. To march right, the
+command is "Right step, march." On hearing "March," bend
+your right knee slightly, and raise your right leg only high
+enough to allow freedom of movement. Place your right foot
+15 inches to the right of your left foot, then move the left foot
+(keeping your left knee straight) alongside the right foot
+temporarily assuming the position of attention. To march to
+the left, go through the same movements in response to the
+command "Left step, march," except reverse the instructions.
+On hearing "Halt," take one more step with your lead foot,
+place your trailing foot alongside your lead foot, and resume
+the position of attention.
+
+15-Inch Step (Backward). The command to march with
+a 15-inch step backward is "Backward, march." When you
+hear "March," take a 15-inch step backward with your left
+
+4-14
+
+
+---
+
+foot and continue marching backward with 15-inch steps.
+Allow your arms to swing naturally.
+
+30-Inch Step (Double Time). The command to march at
+180 steps per minute is "Double time, march," which can
+be given while at halt or while marching at quick time.
+When you are at halt and you hear "Double time," shift
+your weight to your right leg without noticeable
+movement. When you hear "March," raise your forearms
+to a horizontal position with your fingers and thumbs
+closed, knuckles out, and at the same time step off with
+your left foot. Continue to march with 30-inch steps at the
+cadence of double time. Let your arms swing naturally to
+the front and rear, while keeping your forearms horizontal.
+
+When you are marching with a 30-inch step in the cadence
+of quick time and hear "Double time, march," take one
+more step at quick time upon hearing "March." Step off
+with your trailing foot, double-timing as previously
+described.
+
+To resume quick time marching from double-time march-
+ing, respond to the command "Quick time, march," take
+two more 30-inch steps at double time, lowering your
+hands to your sides, and resume marching with a 30-inch
+step at quick time.
+
+               Manual of Arms (M16A2 Rifle)
+
+All soldiers must be able to execute the drill movements
+called the manual of arms with the M16A2 rifle, both at
+halt and while marching. Do not carry the magazine in the
+weapon when you are drilling. If you are performing duty
+that requires the use of the magazine, carry the weapon at
+sling arms. Figure 4-6 shows the parts of the rifle referred
+to in the manual of arms.
+
+                                                                 4-15
+
+
+---
+
+                   Figure4-6. Parts of a rifle.
+
+Order Arms. Assume order arms on hearing the command
+"Fall in" or, if at parade rest, on hearing the command of
+execution, "Attention." Order arms is the position of
+attention with the rifle (Figure 4-7). Center the butt of the
+weapon on your right foot, with sights to the rear. The toe
+
+4-16
+
+
+---
+
+of the butt should touch your foot so the rear sight and
+pistol grip form a line straight to the front. Hold the
+weapon with your right hand in a U formed by
+extending your joined fingers and thumb. Hold the
+weapon above the sight, with the right thumb and fore-
+finger pointed downward and on line with the flat surface
+of the hand guard. Keep your right hand and arm behind
+the rifle so that your thumb is along the seam of your
+trousers or skirt.
+
+FRONT  SIDE
+
+       Figure 4-7. Order arms (attention position).
+
+Rest Position (with M16A2 Rifle). Assume the rest
+position with the rifle the same as you would without it,
+plus the following steps:
+
+                                                                 4-17
+
+
+---
+
+ On the command "Parade, rest," grasp the barrel
+   with the right hand and thrust the muzzle forward,
+   keeping the right arm straight (Figure 4-8).
+
+ Execute stand at ease in the same manner as parade
+   rest with the rifle, except turn your head and eyes
+   toward the commander.
+
+ On the command "At ease" or "Rest," keep the butt
+   of the rifle in place.
+
+FRONT  SIDE  REAR
+
+           Figure 4-8. Parade rest (rest position).
+
+Port Arms. Port arms from order arms is a two-count
+movement. The command is "Port, arms." On the
+command of execution, "Arms," grasp the rifle barrel with
+the right hand and raise the rifle diagonally across the
+
+4-18
+
+
+---
+
+body, keeping the right elbow down (without strain). With
+the left hand, simultaneously grasp the hand guard just
+forward of the slip ring so that the rifle is about 4 inches
+from the belt. On the second count, regrasp the rifle at the
+small of the stock with the right hand. Hold the rifle
+diagonally across the body about 4 inches from the belt,
+with the right forearms horizontal and the elbows close to
+the sides (Figure 4-9).
+
+START  COUNT ONE  COUNT TWO
+
+                     Figure 4-9. Port arms.
+
+Present Arms. Present arms from order arms is a three-
+count movement. The command is "Present, arms." On
+the command of execution, "Arms," execute port arms in
+two counts. On the third count, twist the rifle with the
+right hand so that the magazine well is to the front, and
+
+                                                                 4-19
+
+
+---
+
+move the rifle to a vertical position with the carrying
+handle about 4 inches in front of and centered on the body.
+Lower the rifle until the left forearm is horizontal; keep
+the elbows in at the sides (Figure 4-10). To render reports
+or courtesy to an individual from order arms, execute
+present arms as discussed, but turn your head and eyes
+towards the individual addressed.
+
+      COUNT THREE  REPORTS OR COURTESY
+
+      Figure 4-10. Present arms.
+
+4-20
+
+
+---
+
+Inspection Arms. Inspection arms from order arms is a
+seven-count movement. The command is "Inspection,
+arms." On the command of execution, "Arms," execute
+port arms in two counts. On the third count, move the left
+hand from the handguard and grasp the pistol grip, thumb
+over the lower portion to the bolt catch. On the fourth
+count, release the grasp of the right hand unlock the
+charging handle with thumb, and sharply pull the charging
+handle to the rear with the thumb and forefinger (A,
+Figure 4-11). At the same time apply pressure on the
+lower portion of the bolt catch, locking the bolt to the rear.
+
+Figure 4-11. Inspection arms
+
+                              4-21
+
+
+---
+
+On the fifth count, without changing the grasp of the right
+hand, sharply push the charging handle forward (B, Figure
+4-11) until it is locked into position (C, Figure 4-11).
+Then regrasp the rifle with the right hand at the small of
+the stock. On the sixth, count remove the left hand, twist
+the rifle with the right hand so that the ejection port is
+skyward. Regrasp the handguard with the left hand just
+forward of the slip ring, and visually inspect the receiver
+through the ejection port. On the seventh count, with the
+right hand, twist the rifle so that the sights are up.
+
+         Figure 4-11. Inspection arms (continued).
+4-22
+
+
+---
+
+         Figure 4-11. Inspection arms (continued).
+
+"Ready, port, arms" is the only command given from
+inspection arms. The command "Ready, "move the left
+hand and grasp the rifle with the thumb and fingers
+forming a U at the magazine well and trigger guard, and
+the thumb (without pressure) on the upper part of the bolt
+catch (D, Figure 4-11). On the command "Port, "press the
+bolt catch and allow the bolt to go forward. With the
+fingertips, push upward and close the dust cover. Grasp
+the pistol grip with the left hand and place the left thumb
+on the trigger. On the command "Arms", pull the trigger
+and resume port arms.
+
+Right Shoulder Arms. Right shoulder arms from order
+arms is a four-count movement. The command is "Right
+shoulder; arms." On the command of execution, "Arms,"
+grasp the barrel of the weapon with the right hand and
+raise it diagonally across the body. With the left hand,
+grasp the handguard just in front of the slip ring. On the
+second count, release the barrel with the right hand and
+grasp the butt, positioning the rifle as shown in Figure 4-
+12. On the third count, twist the rifle and place it on the
+right shoulder. At the same time, move the left hand to the
+
+                                                                 4-23
+
+
+---
+
+small of the stock and guide the weapon to your shoulder.
+Your left hand should be placed as shown in Figure 4-12,
+with the first joint of your left forefinger touching the rear
+of the charging handle. On the fourth count, move your
+left hand back to your side at attention.
+
+Order arms from right shoulder arms is a four-count
+movement. The command is "Order, arms." On hearing
+"Arms," press down quickly on the butt and guide the rifle
+diagonally across the body. At the same time, turn the butt
+to keep the sight up. Grasp the rifle at the handguard, just
+in front of the slip ring, with the left hand, keeping your
+right hand on the butt of the rifle. On the second count,
+move your right hand up and across your body and grasp
+the barrel. The third and fourth counts are the same as
+from port arms to order arms.
+
+COUNT TWO  COUNT THREE COUNT FOUR
+
+      Figure 4-12. Right shoulder arms.
+
+4-24
+
+
+---
+
+Left Shoulder Arms. Left shoulder arms from order arms is a
+four-count movement. The command is "Left shoulder, arms."
+On the command of execution, "Arms," execute port arms in
+two counts, then proceed as shown in Figure 4-13.
+
+COUNT TWO  COUNT THREE  COUNT FOUR
+
+              Figure 4-13. Left shoulder arms.
+
+Order arms from left shoulder arms is a five-count
+movement. The command is "Order, arms." On hearing
+"Arms," move your right hand up and across the body and
+grasp the small of the stock, keeping the right elbow
+down. On the second count, move the rifle diagonally
+across your body with your right hand while regrasping
+the handguard just in front of the slip ring with your left
+hand. Counts three, four, and five are the same as the order
+arms from port arms.
+
+                        4-25
+
+
+---
+
+Sling Arms (with M16A2 Rifle). From the order arms
+position (sling tight), the command is "sling, arms." On the
+command of "arms," raise the weapon vertically, and with the
+left hand place the butt on the right hip. Cradle the weapon
+with the right arm, loosen the keeper, and adjust the sling
+with both hands. Then sling the weapon on the right shoulder
+in the most convenient manner (Figure 4-14).
+
+SLING   SALUTE AT
+ARMS   SLING ARMS
+
+            Figure 4-14. Positions at sling arms.
+
+To return the weapon to order arms, the command is
+"Unsling, arms." On hearing ”arms”, reach across your
+body with your left hand and grasp the sling at the shoulder.
+Unsling the weapon and return to the position of order arms.
+
+4-26
+
+
+---
+
+Salute at Sling Arms. The command for saluting while at
+sling arms is "Present, arms." When you hear "Arms,"
+reach across your body with your left hand and grasp the
+sling just above the right hand. Release your right hand
+and execute the salute as shown in Figure 4-14. If
+rendering reports or courtesies to an individual, execute
+the salute without an order.
+
+SLING ARMS  PORT ARMS
+
+         Figure 4-15. Port arms from sling arms.
+
+Order Arms at Sling Arms. To terminate the hand salute,
+the command is "Order, arms." On the command of
+execution, "Arms," lower the right hand sharply to the side
+as in the position of attention and then regrasp the sling at
+the original position with the right hand. Release the left
+hand and return it sharply to your left side as in the
+position of attention.
+
+                       4-27
+
+
+---
+
+Port Arms from Sling Arms. The command for this movement is
+"Port, arms." On hearing "Arms," reach across your body with your
+left hand and grasp the sling at the shoulder (Figure 4-15). Lift the
+weapon by the sling, swing it to the front of your body, and grasp the
+small of the stock with your right hand. Release the sling and regrasp
+the weapon just in front of the slip ring with the left hand.
+
+To resume sling arms, grasp the sling near the upper sling
+swivel with your left hand upon hearing "Arms" in the
+command "Sling, arms." Release your right hand and
+swing the weapon back onto your shoulder by inserting
+your right arm through the sling, immediately resuming
+the position of sling arms.
+
+Inspection arms from sling arms. The command for this
+movement is "Inspection, arms." On the command of
+execution, "Arms," execute port arms as described above,
+then execute counts three through seven in the same
+manner as inspection arms from order arms (Figure 4-11).
+
+Your drill sergeant will use the following evaluation
+guides to test your ability to execute drill movements:
+
+      Evaluation Guide
+
+Execute Drill Movements with Arms (Stationary)
+
+Performance Measures  (Sequence is scored.)
+
+1. "Inspection arms" (from sling arms). On the
+     command, "Inspection arms," the soldier—
+
+          a. Grasps the sling with the left hand at point near
+      the shoulder.
+
+4-28
+
+
+---
+
+    b. Lifts the rifle from the shoulder, removing the
+right arm from between the rifle and the sling.
+
+    c. Grasps the small of the stock with the right
+hand and brings the weapon diagonally across the
+body, to port arms.
+
+    d. With the left hand, grasps the pistol grip, thumb
+over the lower portion of the bolt catch.
+
+    e. Releases the grasp of the right hand, unlocks
+the charging handle with the thumb, and sharply pulls
+the charging handle to the rear with the thumb and
+forefinger.
+
+    f. Presses the bolt catch, locking the bolt to the
+rear.
+
+    g. Pushes the charging handle until it locks in its
+foremost position, and grasp the small of the stock
+with the right hand.
+
+    h. Releases the left hand, rotating the weapon, and
+regrasps the handguard, while visually inspecting the
+receiver through the ejection port.
+
+    i. Returns the weapon diagonally across and about
+4 inches from the body (port arms).
+
+    j. Holds the head and eyes at position of attention.
+
+    k. Keeps the right forearm horizontal and elbows
+resting against the sides.
+
+                                                          4-29
+
+
+---
+
+    l. Remains at the position of attention throughout the
+movement, except for the movement required for perfor-
+mance measures 1a through 1k.
+
+2. "Ready, port, arms."
+
+    a. On the preparatory command, "Ready," of "Ready,
+port, arms" (given only from inspection arms), the soldier
+moves the left hand and regrasps the weapon with the
+thumb and fingers, forming a U at the magazine well and
+trigger guard, with the thumb on the upper part of the bolt
+catch.
+
+  b. On the preparatory command, "Port" of "Port, arms,"
+the soldier—
+
+          (1) Presses the bolt catch, letting the bolt go
+forward.
+
+          (2) With the fingertips, pushes upward and closes
+the dust cover.
+
+          (3) Grasps the pistol grip with the left hand and
+places the left thumb on the trigger.
+
+          (4) On the command, "Arms," pulls the trigger
+and resumes port arms.
+
+Note: Return to sling arms (ungraded).
+
+3. "Present arms/order arms" (from sling arms).
+
+   a. On the command, "Arms" of "Present, arms," the
+soldier—
+4-30
+
+
+---
+
+          (1) Reaches across the body with the left hand and
+grasps the sling just above the right hand.
+
+          (2) Releases the sling and performs the hand
+salute with the right hand.
+
+   b. On the command, "Order, arms," the soldier—
+
+          (1) Lowers the right hand to the side, then
+regrasps the sling at the original position.
+
+          (2) Releases the sling with the left hand and
+returns it to the left side as at the position of attention.
+
+4. "Parade rest" (from sling arms). On the command,
+"Parade rest," the soldier—
+
+   a. Moves left foot 10 inches to the left of the right foot.
+
+   b. Rests body weight equally on the heels and balls of
+  feet.
+
+   c. Places left hand behind the back at the middle of the
+  belt. Keeps fingers and thumb extended and joined.
+
+   d. Grasps the sling with the right hand, keeping the
+  right forearm horizontal and the weapon vertical.
+
+   e. Holds head and eyes at position of attention.
+
+5. "Group, attention" (from sling arms). On the
+command, "Group, attention," the soldier—
+
+                                                                 4-31
+
+
+---
+
+  a. Brings heels together on the same line at a 45-degree
+ angle.
+
+  b. Keeps legs straight without locking knees.
+
+  c. Holds body straight, hips level, chest lifted and
+ arched, and shoulders even.
+
+  d. Lets left arm hang straight, back of hand outward,
+ fingers curled, thumb touching first joint of forefinger,
+ thumb straight and touching seam of trousers.
+
+   e. Grasps the sling with the right hand, keeping the
+ right forearm horizontal and the weapon vertical.
+
+   f. Holds head erect, straight, and to the front, with eyes
+ looking straight ahead.
+
+   g. Rests body weight equally on heels and balls of feet,
+ and remain silent except when replying to a question or
+ when otherwise directed.
+
+6. "Right, face" (from sling arms). On the command,
+"Right, face," the soldier—
+
+   a. Slightly raises left heel and right toe and turns
+ 90 degrees to the right on right heel, assisted by a slight
+ pressure on the ball of the left foot.
+
+   b. Holds left leg straight.
+
+   c. Places left foot beside right foot, as in the position of
+ attention.
+
+4-32
+
+
+---
+
+   d. Holds arms as at attention when performing this
+movement.
+
+7. "Left, face." On the command, "Left, face," the
+soldier—
+
+   a. Slightly raises right heel and left toe and turns
+90 degrees to the left on the left heel and ball of right foot,
+assisted by a slight pressure on the ball of the right foot.
+
+   b. Holds right leg straight.
+
+   c. Places right foot beside left foot, as in the position of
+attention.
+
+   d. Holds arms as at attention when performing this
+movement.
+
+                            Evaluation Guide
+
+    Execute Drill Movements with Arms (Marching)
+
+Performance Measures
+(Sequence is scored.)
+
+1. "Forward, march." On the command, "Forward,
+march," the soldier—
+
+   a. Steps off with the left foot, taking a 30-inch step, and
+continues to march.
+
+   b. Swings the left arm naturally, without bending the
+elbow, about 9 inches to the front and 6 inches to the rear,
+keeping the fingers curled.
+
+                                                                 4-33
+
+
+---
+
+   c. Holds sling with right hand, keeping the forearm
+horizontal and the weapon vertical.
+
+   d. Holds head and eyes to the front.
+
+2. "Left flank, march." On the command, "Left flank,
+march," the soldier—
+
+   a. Takes one more step with the right foot.
+
+   b. Pivots on the ball of the right foot 90 degrees to the
+left, and at the same time steps off with the left foot in the
+direction of march; continues to march.
+
+3. "Right flank, march." On the command, "Right flank,
+march," the soldier—
+
+   a. Takes one more step with the left foot.
+
+   b. Pivots on the ball of the left foot 90 degrees to the
+right, and at the same time steps off with the right foot in
+the direction of march; continues to march.
+
+4. "Half step, march." On the command, "Half step,
+march," the soldier—
+
+ a. Takes one more 30-inch step, then begins marching
+with 15-inch steps.
+
+ b. Swings the left arm naturally, without bending the
+elbow, about 9 inches forward and 6 inches to the rear,
+keeping the fingers curled.
+
+4-34
+
+
+---
+
+   c. Holds sling with right hand, keeping the right forearm
+horizontal and the weapon vertical.
+
+   d. Holds head and eyes to the front.
+
+5. "Mark time, march." On the command, "Mark time,
+march," the soldier—
+
+   a. Takes one more step.
+
+   b. Brings the trailing foot alongside the leading foot and
+marches in place at normal cadence.
+
+   c. Raises each foot about 2 inches off the ground while
+marching in place.
+
+   d. Allows the left arm to swing naturally.
+
+   e. Marches at the position of attention.
+
+6. "Group, halt." On the command, "Group, halt," the
+soldier—
+
+   a. Takes one more step.
+   b. Brings the trailing foot alongside the leading foot and
+halts.
+
+   c. Maintains position of attention
+
+                         INSPECTIONS
+
+There are four inspection periods within the first nine
+weeks of training.
+
+                                                                 4-35
+
+
+---
+
+IN1. The first inspection is a working inspection covering
+inspection of bunks, wall lockers, individual clothing and
+equipment. It will take place at the beginning of the cycle
+and give soldiers an introduction to Army inspection
+procedures.
+
+IN2. The second inspection is a stand-by inspection.
+Items to be inspected include: bunks, wall lockers,
+individual clothing and equipment.
+
+IN3. The third inspection period is an in-ranks inspection,
+and covers open and close ranks, inspection arms, port and
+order arms, and proper courtesy in an in-ranks inspection.
+
+IN4. The fourth and final inspection period in basic
+training is a stand-by inspection. Items to be inspected
+include: Class A uniforms, weapons, protective masks,
+bunks, wall lockers, and common areas.
+
+            Personal Appearance And Uniform
+
+Personal appearance is important—it demonstrates the
+pride and self-discipline you feel as a soldier in the United
+States Army. Being neat and well-groomed contributes to
+the esprit in your unit. Your uniform should fit well and be
+clean, serviceable, and pressed as necessary.
+
+Your uniform is only part of your appearance. To really
+look like a soldier, you need to be physically fit, meet
+acceptable weight standards, and have a neat hairstyle in
+accordance with Army regulations.
+
+4-36
+
+
+---
+
+                             Hairstyle
+
+Many hairstyles are acceptable in the Army for soldiers
+who have completed basic combat training.
+
+Male Personnel. The hair must not fall over the ears or
+eyebrows or touch the collar (except for closely cut hair at
+the back of the neck). Hair should be tapered, except that
+"block cut" fullness in the back is permitted in moderate
+degree. Neither the bulk nor length of hair may interfere
+with the wearing of military headgear. Sideburns must be
+neatly trimmed, not flared, and must not extend downward
+beyond the lowest part of the exterior ear opening. The
+face must be clean-shaven, except that mustaches are
+permitted. If a mustache is worn, it must be neatly
+trimmed. No part of the mustache will cover the upper lip
+line or extend horizontally beyond or below the corner
+points of the mouth where the upper and lower lips join.
+
+Female Personnel. The hair must not fall over the eyebrows
+and must not extend below the bottom edge of the collar.
+Neither the bulk nor length of hair may interfere with the
+wearing of military headgear. Any hair-holding ornaments,
+such as barrettes or hairpins, must be of a natural hair color or
+transparent. Makeup and nail polish should be conservative
+and complement the uniform. Unless directed to wear another
+type of footwear, female personnel may wear pumps with all
+uniforms except field uniforms.
+
+                              Jewelry
+A wrist watch, identification bracelet, and up to two rings
+(a wedding set is considered to be one ring) may be worn
+with your uniform as long as they are conservative and
+tasteful. You may wear a religious medal on a chain
+
+                                                                 4-37
+
+
+---
+
+around your neck provided neither medal nor chain can be
+seen.
+
+                          Body Piercing
+
+No attaching, affixing, or displaying objects, articles,
+jewelry or ornamentation to or through the skin while in
+uniform, in civilian clothes while on duty, or civilian
+clothes off duty on any military installation or other places
+under military control except for earrings for females.
+Females may wear any type of earrings off duty, on or off
+military installations.
+
+                              Tattoos
+Visible tattoos or brands on the neck, face, or head are
+prohibited. Tattoos or brands on other areas of the body
+that are prejudicial to good order and discipline are
+prohibited. Additionally, any type of tattoo or brand that is
+visible while wearing a Class A uniform and detracts from
+soldierly appearance is prohibited.
+
+              Uniform Wear and Maintenance
+
+You are responsible for keeping your clothing in good
+serviceable condition. Clean your clothing regularly, keep
+it in good repair, and store it properly. Carrying large or
+heavy objects in your pockets is likely to change the shape
+of your tailored clothing.
+
+Follow the cleaning and care instructions attached to most
+clothing. Clean your clothing as soon as possible after it
+becomes soiled. Dirty clothing wears out more quickly
+than clean clothing because dirt cuts fibers and holds in
+moisture from perspiration. Coated clothing such as
+ponchos and raincoats should be wiped clean or washed
+
+4-38
+
+
+---
+
+by hand with a soft brush and warm soapy water. These
+items should be thoroughly rinsed and hung up to air-dry.
+
+If you need to press clothing, be sure it is clean and that
+the iron is not too hot. To press cotton clothing, dampen
+the surface of the cloth, then apply the iron directly. Before
+storing clothing, be sure it is clean and dry.
+
+                                Boots
+
+New boots should fit properly when you receive them. They
+should have a chance to air out between wearings, so you
+should wear one pair one day and another pair the next.
+
+Scrape dirt or mud from boots and wash with just a little
+water and soap. Wipe insides dry with a clean cloth and
+remove all soapsuds from the outside. Stuff papers in the
+toes and let boots dry in a warm, dry place. Do not put
+them in the hot sun or next to a strong source of heat.
+Polish after boots are dry. Heels of boots should be
+replaced after wear of 7/16 of an inch or more.
+
+                       Insignia Placement
+
+Each soldier is responsible for having the correct insignia
+properly placed on their uniform, as follows:
+
+Shoulder Sleeve Insignia. Soldiers in both basic combat
+training and advanced individual training who are in one
+of the following categories may wear organizational
+shoulder sleeve insignia (shown in Figure 4-16). This
+insignia will be worn centered on the left sleeve, 1/2 inch
+below the top of the shoulder seam on all Army green
+
+                                                                 4-39
+
+
+---
+
+uniform coats. Subdued shoulder sleeve insignia will be
+worn on all field and work uniforms.
+
+    Army National Guard (ARNG) and Reserve (USAR)
+      trainees are authorized to wear the insignia of their
+      parent ARNG or USAR organization from the start
+      of training.
+
+    Unit-of-choice trainees are authorized to wear, from
+      the start of training, the insignia of the specific unit
+      for which they enlisted.
+
+ Figure 4-16 Shoulder sleeve Insignia of Current Unit.
+Distinguishing Insignia. The "US ARMY" insignia is
+worn immediately above and parallel to the top edge of the
+left breast pocket. This insignia consists of black, 3/4-inch
+high block letters on a 1-inch wide by 4 1/2-inch long (or
+to the edges of the pocket flap) strip of olive green cloth.
+4-40
+
+
+---
+
+The name tape is worn immediately above and parallel to
+the top edge of the right breast pocket of all field and work
+uniform coats and shirts. It consists of black letters on a
+1-inch wide by 4 1/2-inch long (or to the edges of the
+pocket flap) strip of olive green cloth.
+
+            Figure 4-17. Distinguishing insignia.
+Names ten letters or less will be printed in 3/4-inch
+high Franklin Gothic Condensed. Names eleven letters or
+more will be printed in 1/2-inch high Franklin Gothic
+Extra Condensed (Figure 4-17). The name and US Army
+tapes will be the same length.
+
+                                                                 4-41
+
+
+---
+
+Rank Insignia. Soldiers will wear subdued pin-on rank
+insignia centered on both collars of all BDU uniforms and
+field jackets. The center line of the insignia will be 1 inch
+from the collar point and will bisect the points of the collar
+(Figure 4-18).
+
+                                                 1 INCH
+
+                                                                        1 INCH
+
+  WORN ON FIELD,
+  WORK, UTILITY
+  UNIFORM COATS
+  AND JACKETS
+
+                  Figure 4-18. Rank insignia.
+The Army green shirt may be worn with or without the
+Army green coat. Specialists 4 and below must always
+wear their rank insignia on the collars of the green shirt
+(Figure 4-19). Corporals and above must wear shoulder
+board rank insignia.
+
+4-42
+
+
+---
+
+            Figure 4-19. Rank insignia, enlisted
+
+US and Branch Insignia. During initial entry training,
+males will wear the "US" insignia on both
+collars. The bottom of the insignia disk will be 1 inch
+above the notches on the collar, with the center line of the
+insignia bisecting the notch and parallel to the inside edge
+of the collar on the Army green, Army white, and Army
+blue uniform coats (Figure 4-20). After completing AIT or
+one-station unit training (OSUT), male soldiers will wear
+MOS branch insignia on their left collar.
+
+                                          (WORN DURING IET ONLY)
+
+                                                    BRANCH INSIGNIA
+
+       US INSIGNIA
+
+ WORN ON ARMY GREEN, ARMY WHITE, AND ARMY BLUE UNIFORM.
+
+   Figure 4-20. US and branch insignia, enlisted male
+                                                                 4-43
+
+
+---
+
+ Figure 4-21. US and branch insignia, enlisted female.
+
+During initial-entry training, females will wear the "US"
+insignia on both collars. The bottom of the insignia disk
+will be worn 1 inch above the notches on the collars, with
+the center line of the insignia bisecting the notch and
+parallel to the inside edge of the collar on the Army green
+pantsuit jacket, and Army green, Army white, and Army
+blue uniform coats (Figure 4-21). The bottom of the
+insignia disk will be 5/8 inch above the collar lapel seam
+on the female classic green uniform coat. After completing
+AIT or OSUT, female soldiers will wear MOS branch
+insignia on their left collar.
+
+                        Belts and Buckles
+
+The web belt will be a 1 1/4-inch web or woven elastic web
+belt of black color with a black or brass tip. A plain-faced,
+oval-shaped, solid brass buckle, 2 1/4 inches long and 1 3/4
+inches wide, will be worn on the web belt with the dress
+
+4-44
+
+
+---
+
+uniform. Only the brass-tipped belt is authorized with this
+buckle. The brass tipped belt will be worn flush with the
+brass buckle. The black, open-faced buckle, 1 11/16 inches
+long and 1 5/8 inches wide, will be worn on the belt with all
+field and work uniforms. The tipped end of the belt will pass
+through the buckle to the wearer's left and will not extend
+more than 2 inches beyond the end of the buckle.
+
+                INDIVIDUAL EQUIPMENT
+
+             Web Gear and Canvas Equipment
+
+Vigorously wash soiled canvas items in a container of warm water
+containing soap or detergent. Scrub stubborn spots with a white or
+colorfast cloth using warm soapy water. Do not use chlorine
+bleach, or cleaning fluids. Stretch the web gear back to its original
+shape while it dries. Dry the equipment inside or in the shade.
+Direct sunlight will discolor it. Never wash or dry web gear in
+commercial or home automatic laundry equipment.
+
+                       Protective Clothing
+
+You will be provided with special clothing for cold-wet,
+cold-dry, and hot climate conditions. This clothing will
+help protect you from the weather, insects, and other
+effects. In addition to this special clothing, you will have a
+helmet and other accessories:
+
+Helmet. Wear the helmet to protect yourself against
+artillery fire, grenades, and ricocheting bullets. You may
+wear the helmet over the cotton utility cap or over the
+poncho hood. Do not use the helmet as a seat, shovel, or
+hammer.
+
+Chin Strap. The chin strap holds the helmet in place
+during rigorous activities. Place and center the chin strap
+
+                                                                 4-45
+
+
+---
+
+on your chin, and adjust the tension until it feels
+comfortable. The chin strap should be cleaned with soap
+and warm water and air-dried.
+Camouflage Cover. Attach the helmet camouflage cover
+by placing it over the helmet and tucking the cover flaps
+inside the helmet. The cover has slits for inserting twigs or
+foliage for additional camouflage.
+
+            Figure 4-22. Helmet and accessories
+4-46
+
+
+---
+
+Helmet Accessories. The helmet contains a suspension
+system of cotton webbing. You can adjust the webbing to
+the right height by adjusting the buckles. The webbing is
+attached to a leather-lined headband, which you can also
+adjust to fit your head (Figure 4-22).
+
+                  Load-Carrying Equipment
+The all-purpose lightweight carrying equipment (ALICE)
+is made up of components for the fighting load and
+additional components for the existence load. You can use
+these components in all environments (Figures 4-23).
+
+Figure 4-23. Load-carrying equipment.
+
+                                       4-47
+
+
+---
+
+          Figure 4-24. Load-carrying equipment.
+
+                      Bivouac Equipment
+
+Poncho. The poncho is made of coated nylon and is
+waterproof. It can be used as a rain garment, ground cloth,
+or sleeping bag. It can also be used to make a shelter or
+tent (Figure 4-25). Two ponchos can be snapped together
+to make a two-person shelter. If possible, air-dry the
+poncho before folding it up.
+
+4-48
+
+
+---
+
+       Figure 4-25. Miscellaneous poncho shelters.
+Poncho Liner. The liner is a lightweight padded panel about
+the same size and shape as the poncho. It can be attached to
+the poncho with its tie tapes and snap fasteners. It can also be
+used as a blanket. The liner can be hand-washed with warm
+soapy water. It should not be dry-cleaned.
+
+                                                                 4-49
+
+
+---
+
+        Figure 4-26. Miscellaneous poncho shelters
+                           (continued).
+
+Shelter Half. The shelter half is made of water-repellent,
+mildew-resistant material. It is issued to you with five
+tent pins, a guy line, and a three-section tent pole. Two
+shelter halves joined together can make a two-person
+shelter as shown below (Figure 4-26).
+
+4-50
+
+
+---
+
+Figure 4-27. Procedures for pitching shelter half tent
+                                                               4-51
+
+
+---
+
+ Figure 4-28. Procedures for pitching shelter half tent
+
+        Army Physical Readiness Training (PRT)
+
+          Military physical readiness training must seek to
+attain the development of every soldier’s physical
+attributes to the fullest extent of their potential. This will
+build confidence and encourage them to successfully
+perform their duties under any and all circumstances.
+
+4-52
+
+
+---
+
+Phases of Physical Readiness Training (PRT)
+Army Physical Readiness Training (PRT) programs are
+designed to account for all soldiers who enter the army,
+and take into consideration that all soldiers come into the
+army with varying capabilities. If the training is focused
+to the level of the least fit, most soldiers will not be
+challenged. If it is focused to the soldiers who are in
+better shape, then the least fit soldiers are at risk of injury.
+Therefore, the ARMY has established two PRT phases,
+toughening and conditioning that are appropriate for
+training soldiers of various physical capabilities to achieve
+physical readiness and reduce the chances of injury. The
+Army PRT model begins with the toughening phase that
+builds on the soldier’s existing strength, mobility and
+stamina, and progresses to the conditioning phase that will
+enable the soldier to achieve physical readiness and
+perform all expected duties.
+
+   Toughening Phase Conditioning Phase
+
+                   Integrate METL Tasks into PRT
+
+BCT  AIT------ Unit PRT
+
+Fig. 4-29 Phases of PRT
+
+                         4-53
+
+
+---
+
+Toughening Phase. The purpose of the toughening phase is
+to develop foundational fitness and fundamental skills. In
+this phase, soldiers gradually become proficient at managing
+their own body weight. Through exercises such as
+calisthenics, movement drills, grass drills and dumbbell drills,
+soldiers learn essential skills such as jumping, landing,
+lunging, bending, reaching and lifting. Their stamina
+improves through progressive PRT activities. A variety of
+training events with precise standards of execution ensures
+that the bones, muscles, and connective tissues gradually
+“toughen” rather than break. The primary goal of the
+toughening phase is to prepare the soldier’s body to enter the
+conditioning phase. The toughening phase also enables
+experienced soldiers who have been injured or inactive to
+recover and rebuild foundational fitness in order to re-enter
+the conditioning phase.
+
+Conditioning Phase. The purpose of the conditioning
+phase is to develop a high level of physical readiness
+appropriate to duty position. In this phase, events become
+more demanding. More advanced calisthenics and
+dumbbell drills are added to increase the resistance of
+fundamental movements. Guerilla drills are also included
+to develop functional jumping and lifting skills. Interval
+runs are added to further develop aerobic endurance.
+Circuits that build strength and challenge individual
+movement techniques also add variety to this phase.
+When you are physically mission-capable and all of your
+individual and unit physical readiness goals have been
+achieved, continued training emphasizes advanced skills
+and sustainment of physical readiness.
+
+4-54
+
+
+---
+
+Soldiers in BCT are in the toughening phase throughout
+much of their training. Toward the end of BCT and during
+AIT, soldiers enter the conditioning phase of PRT.
+
+     COMPONENTS OF PHYSICAL READINESS
+Military physical readiness is the ability to meet the
+physical demands of any combat or duty situation,
+accomplish the mission and still have a reserve of strength.
+It is essential to combat readiness. The diagram below
+illustrates the three interactive components of military
+physical readiness: strength, endurance and mobility.
+
+                           MOBILITY
+
+ENDURANCE  STRENGTH
+
+Fig. 4-30 Military Physical Readiness Components
+
+       a. Strength is the ability to overcome resistance.
+       b. Endurance is the stamina to sustain activity.
+       c. Mobility is the proficiency with which you
+       move your body.
+
+                                                              4-55
+
+
+---
+
+                    PRINCIPLES OF PRT
+The principles of progression, variety and precision are
+imperative to the development of an effective PRT
+program. These principles apply to all soldiers at all
+levels of physical readiness.
+
+          Progression. Physical readiness improvement is
+          dependent upon an increase in your physical
+          work.
+          Variety. Performing different training activities
+          balances your program, providing a more
+          complete training effect.
+          Precision. Perform all exercises with emphasis
+          on correct posture and execution to ensure
+          optimal physical readiness improvement and
+          avoid injury.
+
+SUMMARY. All PRT, whether performed individually
+or as a group, must contribute to the improvement of the
+physical ability of the entire unit to successfully perform
+all mission tasks. Any PRT that results in numerous
+injuries is detrimental to this goal. FM 21-20 provides
+guidance for conducting safe and sound PRT that
+challenges soldiers without undue risk of injury.
+
+                        Training Injuries
+
+Blisters. Seek medical help if the blister is red or painful.
+
+Corns and Calluses. To prevent corns and calluses, use
+moleskin padding. DO NOT treat these with medicated pads.
+
+Arch Pain. To ease arch pain, use an ice pack. As a
+preventive measure, apply liniment before exercise and
+use arch supports.
+
+4-56
+
+
+---
+
+Sprains. Apply an ice pack to the ankle for 15 to
+20 minutes; repeat after 1 hour. Seek medical help if
+swelling or discoloration develops. To strengthen the
+ankle, exercise it with toe-to-heel walking, one-legged
+activities, and resistance exercises using boots, helmets, or
+socks with stones as weights.
+
+Achilles Tendinitis and Shin Splints. Use an ice pack
+after exercise. As a preventive measure, improve tendon
+flexibility with curb and wall stretches.
+
+Knee Pain. To avoid knee pain, do straight leg lifts.
+Improve flexibility by pulling the heel to the opposite
+buttock.
+
+Hamstring Pulls. Use an ice pack after exercise. Improve
+flexibility—
+
+    By sitting with one leg straight and the other bent
+      with the sole of the foot against the knee of the
+      outstretched leg, reach for the outstretched foot.
+
+    By standing near a wall and leaning into it with legs
+      crossed at ankles.
+
+Lower Back Pain. To prevent low back pain, improve
+flexibility. Bend forward and backward. Tilt your pelvis.
+While lying on the floor, bring your knees up to your chest,
+hold them with your hands, tuck your chin in, and lift your
+head, neck, and shoulders off the floor. Strengthen your
+abdominals by doing curl-ups (partial sit-ups). Improve your
+posture by lifting with your legs, NOT your back, and by
+squatting and rising with a straight back.
+
+                                                                 4-57
+
+
+---
+
+          Selecting the Proper Running Footwear
+
+          Determining Shoe Size. The first step to proper
+fitting is to measure both feet. Your footwear sales
+associate will measure both feet using the “Brannock
+Device.” Wear the socks you will run in when trying on
+running shoes. Walk and run in the shoe on a hard surface
+while trying them on. Buy shoes after being on your feet
+for a few hours. Make sure the shoes are comfortable
+when you buy them.
+
+          “Wet Test—What is my foot type?” Second,
+you can take the simple Wet Test to determine what kind
+of foot type you have and what shoe-shape you should
+look for. Basically, running shoes have one of three
+different shapes: straight; semi-curved; or curved. To take
+the test, wet your foot and then stand on any surface that
+will leave an imprint of your foot. (Example: Use a
+brown paper bag from the grocery store or dark
+construction paper). When you look at this imprint, you
+should find that you have one of the three most common
+foot types. While not every foot completely mimics these
+three types, you can still use the Wet Test to determine
+your general foot type and the shoe shape most likely to
+benefit your running.
+
+4-58
+
+
+---
+
+Foot: High Arch            Normal                Low Arch
+                        Semi-curved   Straight/semi-curved
+Fit:  Rigid                          Motion Control Shoes
+                         Stability
+Shoe: Cushioned                                      M
+                              S
+AAFES Tag: C
+
+      Figure 4-31. Example Foot Type Selection.
+
+NOTE: Circle the foot type that matches your foot
+assessment results.
+
+                    The High-Arched Foot
+Foot Characteristics: A curved, high-arched foot is generally
+termed an under-pronated foot. This type of foot doesn’t
+pronate enough so it’s not an effective shock absorber.
+
+Best Fit: Curved shape
+
+Best Shoes: Cushioned (“C” tag) shoes with plenty of
+flexibility to encourage foot motion and plenty of mid-foot
+cushioning. Stay away from motion-control or stability
+shoes that reduce foot-mobility.
+
+                        The Normal Foot.
+Foot Characteristics: A normal foot lands on the outside
+of the heel, then rolls inward (pronates) slightly to absorb
+
+                                                   4-59
+
+
+---
+
+shock. Runners with a normal foot and normal weight are
+usually considered biomechanically efficient and don’t
+require motion-control shoes.
+
+Best Fit: Semi-curved shape
+
+Best Shoes: Stability shoes with moderate control features
+such as a two-density mid-sole. (“S” tag)
+
+                    The Low-Arched Foot.
+Foot Characteristics: This imprint usually indicates an over-
+pronated foot that strikes on the outside of the heel and rolls
+inward (pronates) excessively. Over time, this can cause
+many different kinds of over-use injuries.
+
+Best Fit: Straight or semi-curved shape
+
+Best Shoes: Motion-control shoes (“M” tag) or stability
+shoes (“S” tag) with firm mid-soles and control features that
+reduce the degree of pronation. Stay away from highly
+cushioned curved shoes that lack stability and control.
+
+                      Sports Bra Selection
+If your chest measures 30-32 inches, select a small sports bra.
+If your chest measures 34-36 inches and is a B or C cup, select
+a medium sports bra. If your chest measures 38-40 inches,
+select a large sports bra. If your chest measures 42-44 inches
+and is a D or DD cup, select an extra large sports bra.
+
+                          NUTRITION
+
+Proper nutrition is the single most important factor in
+developing a healthy lifestyle. Maintaining proper
+
+4-60
+
+
+---
+
+physical fitness and body fat percentage is an individual
+responsibility and is critical to your duty performance. The
+best way to ensure you are performing at your physical
+peak is to have a good understanding of nutrition. Just
+like a car needs fuel to operate, the body needs fuel too;
+and not just any fuel. Putting the wrong fuel into a car
+will result in sluggish and poor performance and putting
+the wrong fuel in your body will produce the same results.
+You must fuel your body with the right foods to ensure
+optimal performance. Good nutrition is not complicated
+and is really a matter of self- discipline.
+
+A well-balanced diet must provide approximately 50
+nutrients, which are all available in Army dining facilities.
+Most foods contain more than one nutrient, but no single
+food contains all of the essential nutrients in the right
+amount. By eating a variety of foods you are less likely to
+develop a nutrient deficiency. The easiest way to know
+you are getting all of the right foods in the right amounts is
+to follow the guidelines of the food pyramid.
+
+           Fats, Oils & Sweets    Meat, Poultry, Fish, Dry
+            USE SPARINGLY       Beans, Eggs, & Nuts Group
+
+         Milk, Yogurt, &                 2-3 SERVINGS
+         Cheese Group
+         2-3 SERVINGS                      Fruit Group
+                                         2- 4 SERVINGS
+   Vegetable
+     Group
+
+3-5 SERVINGS
+
+                                             Bread, Cereal, Rice,
+                                                & Pasta Group
+                                               6-11 SERVINGS
+
+                                Figure 4-32
+
+                                             4-61
+
+
+---
+
+The foundation for all well balanced diets is complex
+carbohydrates. The body converts carbohydrates into
+glycogen (your energy source). Only a small amount of
+glycogen can be stored so it must be replenished daily.
+
+       Bread, Cereal, Rice, & Pasta Group
+• Foundation of the Food Pyramid
+• Excellent source of complex carbohydrates
+• Largest % of diet
+• 6-11 servings per day
+
+                   Vegetable Group
+• High in vitamins & minerals
+• Excellent fiber source
+• Most people fail to eat enough
+• 3-5 servings per day
+
+                      Fruit Group
+• High in vitamins & minerals
+• Good water source
+• Eat a variety of fruits
+• 2-4 servings per day
+
+           Milk & Cheese (dairy) Group
+• Great source of calcium and protein
+• Can also be high in fat
+• Low & No fat choices
+• 2-3 servings per day
+
+     •  Meat, Poultry, Fish, Beans, Nuts, & Eggs
+     •   Best source of protein
+         Can also be high in fat
+4-62
+
+
+---
+
+     • Eat mostly chicken, turkey and fish
+     • 2-3 servings per day
+
+                 Fats, Oils, Sweets, & Alcohol
+     • Watch for hidden fats (salad dressing, fried
+
+          foods, etc.)
+     • Prevent the body from utilizing nutrients
+     • Alcohol has no nutritional value
+     • Eat sparingly
+
+To ensure you are eating a performance diet, follow these
+basic guidelines:
+
+1. Eat a variety of foods
+2. Maintain your ideal body weight
+3. Lower your cholesterol (eat low fat foods)
+4. Increase starch and fiber
+5. Avoid excess sugar and sodium
+6. Limit your alcohol consumption
+
+                             SAFETY
+        Prevention of Hot and Cold Weather Injuries
+
+            Prevention of Cold Weather Injuries
+
+The key to keeping warm in cold climates is to wear the
+correct clothing. Keep your clothes clean and dry. Wear
+your clothes in loose layers, and avoid overheating. The
+factors shown in Figure 4-33 increase the likelihood of
+cold (and heat) injuries.
+
+Buddy System. Use the buddy system by watching what your
+buddy does and how he/she wears their uniform. If you see a
+
+                                                                 4-63
+
+
+---
+
+cold injury develop, take immediate first aid measures.
+
+       Fever               Exertion
+       Recent illness or   Fatigue
+                            Heavy meals
+        injury              Use of alcoholic
+       Overweight
+       Previous cold          beverages
+                            Feverish
+        injury
+       Dehydration            Reactions to
+
+                               immunizations
+
+Figure 4-33. Factors that increase the likelihood of cold
+                         or heat injuries.
+
+Dehydration. You can dehydrate rapidly when exercising
+or working hard in extreme cold. Sip liquids regularly.
+Refer to the fluid replacement guidelines (Figure 4-34).
+
+Layered Clothing. Do not wear too much clothing,
+because that will make you sweat. If you get wet from
+sweating, you will get cold. Before you begin to sweat,
+loosen your clothing. Open your uniform to allow cool air
+in next to your body. If you continue to sweat, remove one
+or more layers of clothing. Do not use blousing bands as
+they will restrict the flow of blood in your legs. Instead,
+blouse your trouser legs inside your boots. If you develop
+a cold, use a handkerchief to prevent infecting fellow
+soldiers when you cough or sneeze. When entering a warm
+building, always remove your field jacket and gloves.
+
+Scarf. The wool Army scarf can be used to keep your neck
+warm, to cover your face against the cold and wind, or as a
+stocking cap (by placing the open end over your head).
+
+4-64
+
+
+---
+
+Gloves. During extreme cold, use the glove as a mitten,
+which will keep your hands warmer. To do this, withdraw
+your fingers from the fingers in the black leather gloves
+and into the palm of your hand. Do this for short periods
+of time until your hands are warm. Also, in case you lose
+the first pair or get them wet, always have an extra pair of
+black leather gloves and wool inserts.
+
+Socks. Your feet are harder to keep warm than any other
+part of your body. Especially try to keep them dry. When
+they do get wet, put on dry socks. Massage and apply foot
+powder to your feet before putting your boots back on. If
+your feet are still cold, do exercises such as stomping your
+feet, wiggling the toes inside the boots, bending at the
+knee, or running in place.
+
+Personal Cleanliness. Keep yourself clean. Sweat-
+dampened clothing increases your vulnerability to trench
+foot and to worse cold weather injuries. Change socks and
+underwear regularly. Carry extra pairs of socks. On cold
+weather hikes, place damp socks under your arms between
+your field jacket and shirt. This will help dry the socks so
+you can rotate them. (When carrying a rucksack, place
+damp socks on your shoulders between your shirt and
+outer garments. This helps dry the socks and cushion the
+weight of the rucksack. Place your clean clothing with you
+in the sleeping bag, positioning them to support the small
+of your back or using them as a pillow (inside). Not only
+does this add to your sleeping comfort, but your clothes
+will be warm in the morning. Do not wrap feet or other
+body parts in plastic to keep warm. Body heat causes
+moisture to collect, which can cause serious injuries.
+
+                                                                 4-65
+
+
+---
+
+Clean Clothing. Always keep your clothes clean. Dirt and
+grease will clog the air spaces in your clothing and reduce the
+natural insulation. Before going to bed at night, clean your
+body with soap and water and dry yourself thoroughly.
+
+Sleeping Bag. Your sleeping bag and foam pad will keep you
+warm and comfortable while you sleep. Avoid sweating inside
+your sleeping bag by wearing the least amount of clothing you
+can and still keep warm. Do not keep your face inside the bag.
+Water vapor (breath) escaping from your mouth will cause
+your bag to become damp. If your face is cold, cover it with
+your scarf or towel. When your bag is not being used, open it
+so that fresh air can get into it. Always carry your sleeping bag
+in its waterproof bag.
+
+Fire. When safety approved heating devices are used in
+warming tents, ensure there is adequate ventilation. Do not
+put any type flame in tents or under ponchos to keep warm.
+This can lead to loss of shelter or even to loss of life. Your
+drill sergeant will use the following evaluation guide to test
+your knowledge of protection against the cold:
+
+                        Evaluation Guide
+
+                Protect Yourself Against Cold
+
+Performance Measures
+
+The soldier describes the following protective measures
+and the reasons for them:
+
+1. Wear several loose layers of clothing. This traps air,
+which insulates the body.
+
+2. Remove a layer or two of clothing before doing heavy
+work. Replace clothing when heavy work is completed.
+Wet or damp clothing cannot keep the body warm.
+
+4-66
+
+
+---
+
+3. Exercise the feet, hands, and face. This increases blood
+circulation and heat production.
+
+4. Prevent dehydration. Dehydration keeps the body from
+being able to maintain a safe body temperature.
+
+5. Change your socks. Rotate boots if possible. Moisture
+increases the risk of frostbite and trench foot.
+
+            Prevention of Hot Weather Injuries
+Even if you are in good physical condition, your body
+must acclimatize before you can do heavy work in hot
+temperatures. Most of this acclimatization takes place
+automatically during the first five to seven days, as your
+workloads and exposure to heat are gradually increased.
+Never forget that heat can be a killer. Leaders should be
+considerate of subordinates who work in high
+temperatures, and should heed warnings sent down
+through command channels. Figure 4-34 illustrates
+guidelines for fluid intake and recommended activity
+levels based on heat.
+
+Urine. Sometimes, you can use your urine color to determine
+your approximate level of hydration. The clearer your urine,
+the more hydrated you are. The darker your urine, the more
+water you need to drink. Note that this is only a guideline, and
+should not be taken as a rule because certain foods and dietary
+supplements can impact on urine color.
+
+                                                                 4-67
+
+
+---
+
+    Figure 4-34. Fluid Replacement Guidelines and
+                      Actvity Limitations.
+
+4-68
+
+
+---
+
+The factors shown in Figure 4-34 also increase the chance
+of heat injury. The key to preventing heat injuries is to
+maintain a normal body temperature. You can protect
+yourself from the likelihood of heat injury by—
+
+    Drinking plenty of fluids to replace those lost
+      through increased perspiration.
+
+    Reducing exposure to heat during the hot part of the
+      day. Plan PT, road marches, patrols, and so forth for
+      early morning or evening activity.
+
+    Selecting clothing wisely. Wear loose clothing that
+      allows blood to circulate more easily and
+      perspiration to evaporate more freely. Wearing loose
+      clothing and a head covering insulates you from the
+      sun and heat.
+
+    Using a buddy system to identify potential victims of
+      heat before injuries occur.
+
+    Taking breaks frequently and drinking plenty of fluids, if
+      you must work during periods of excessive heat.
+
+Your drill sergeant will use the following evaluation guide to
+test your knowledge of how to protect yourself against heat:
+
+                        Evaluation Guide
+
+                Protect Yourself Against Heat
+
+Performance Measures
+
+1. The soldier drinks plenty of water.
+
+ a. In a chemical environment, drink additional water.
+
+ b. Drink smaller quantities of water frequently.
+
+                                                                 4-69
+
+
+---
+
+ c. Drink extra water before an attack or mission.
+
+2. The soldier rests whenever possible. Rest breaks give
+your body a chance to cool off.
+
+3. The soldier eats regular meals. Eat three meals daily. Eat
+something each meal, even if you're not hungry.
+
+ a. Food replaces salt lost through heavy sweating.
+
+ b. Military rations contain all the salt your body requires.
+
+                   Prevention of Hyponatremia
+
+What is it? Hyponatremia, or water intoxication, is a
+condition that occurs when there is a lack of salt in the
+blood, caused by inadequate excretion of water or by
+excessive water in the circulating blood stream.
+
+Symptoms. Symptoms of hyponatremia include repeated
+vomiting, seizures, and high output of clear urine. In severe
+cases, you may develop confusion, leading to muscle
+excitability, convulsions, coma, and possible death.
+Symptoms may mimic heat exhaustion. If there is no
+improvement in 30 minutes, and the soldier does not improve
+to 100% within 60 minutes, then treat the soldier like a heat
+casualty. When in doubt . . . regardless . . . evacuate.
+
+Prevention.
+   • Drink no more than 1 and ½ quarts of fluid per hour.
+   • Daily water intake should not exceed 12 quarts per
+         training day.
+
+4-70
+
+
+---
+
+   • Drink a sports drink or electrolyte replacement fluid
+         if possible at meals.
+
+   • Indicate the quarts of fluids consumed per hour on
+         fluid intake cards.
+
+           FIELD AND PERSONAL HYGIENE
+
+                       Disease Prevention
+
+You can best do your job in the Army if you are free from
+disease. There are several simple things you can do to
+prevent disease in yourself and others.
+
+Protect Yourself Against Respiratory Disease. The air
+you breathe carries many diseases. Most of these diseases,
+such as colds, will simply make you miserable and
+increase the difficulty of doing your job. Others, such as
+the flu, can be severe enough to kill. To keep from getting
+respiratory diseases—
+
+    Avoid soldiers who are sick, if possible. Talk sick
+      soldiers into going on sick call.
+
+    Avoid using borrowed towels, caps, or anything else
+      that others have handled.
+
+    Provide an opening for fresh air into your fighting
+      position or shelter. Fresh air dilutes contaminated air
+      and carries much of the contamination away.
+
+Follow Waste Disposal Procedures in the Field. The
+main reason for burying wastes is to prevent the breeding
+of flies. Flies can spread diarrhea and dysentery.
+Procedures for waste disposal are—
+
+                                                                 4-71
+
+
+---
+
+    Use the unit latrine for body wastes, or dig your own
+      1-foot deep by 1-foot wide cat hole. Cover it with
+      dirt when you are finished.
+
+    Use the garbage pit for other wastes or dig your own
+      garbage pit. Dig it deep enough to allow 4 inches of
+      dirt to cover the garbage when you are finished
+      filling the hole.
+
+Prevent Skin Infections. Bathe frequently. If showers or
+baths are not available, use a washcloth daily to wash your
+genital area, armpits, feet, and anywhere else the skin is prone
+to collect moisture, such as between the thighs or under the
+breasts. Keep your skin dry. Use foot powder on your feet,
+especially if you have had fungal infections on the feet in the
+past. Use talcum powder in areas where wetness is a problem,
+such as between the thighs or under the breasts. Wear proper
+clothing. Loose-fitting uniforms allow for better ventilation;
+tight-fitting uniforms reduce blood circulation and
+ventilation. Avoid nylon or silk-type undergarments. Cotton is
+more absorbent and allows the skin to dry.
+
+Prevent Dental Disease. Go to the dentist at least once a
+year for an examination and treatment. Brush your teeth at
+least once a day, preferably after every meal. Use dental
+floss at least daily. Rinse your mouth with water after
+brushing and flossing. Use toothpaste if it is available.
+
+Prevent Genital and Urinary Tract Infections.
+Male soldiers: Wash your genital area daily. Be sure to
+wash the head of the penis and, if you have not been
+circumcised, pull the foreskin back before washing.
+Protect yourself from venereal disease (VD) by using a
+
+4-72
+
+
+---
+
+condom when having sex. Using a condom helps prevent
+VD transmission.
+
+Female soldiers: wash your genital area daily. Don't use
+perfumed soaps or female deodorants in the field; they
+may cause irritation. Protect yourself from VD by insisting
+that your sex partner use a condom. Using a condom helps
+prevent VD transmission. Don't douche unless directed to
+by medical personnel. In the field, female soldiers may
+drink too little fluid and hold their urine due to lack of
+privacy. This increases the chance of developing a urinary
+tract infection. Try to drink extra fluids, even when the
+weather is not hot. Urinary tract infections are among the
+most frequent medical problems female soldiers
+experience in the field.
+
+Always Wash Your Hands Before Eating. Hands come
+into contact with many sources of bacteria. Some sources
+of contact are the latrine door, your friend's hands, your
+nose, weapons and ammunition, and dirt and dust.
+
+Apply Insect Repellent. Biting insects are a source of
+discomfort, minor pain, and skin irritation. You can protect
+yourself against insects by applying insect repellent,
+taking malaria pills, and washing yourself and your
+uniform. When you use insect repellent—
+
+    Apply it in spray or lotion form to all exposed skin.
+      Do not get the repellent in your eyes.
+
+    Apply it to your ankles to prevent ticks and mites
+      from creeping between your uniform and your boots.
+      Blouse your uniform inside your boots to further
+      reduce the risk.
+
+                                                                 4-73
+
+
+---
+
+    Apply it to your shoulder blades where your shirt fits
+      tightly enough for mosquitoes to bite through.
+
+    Reapply some every two hours during strenuous
+      activity and after crossing streams.
+
+Straddle Trench. A straddle trench latrine is used on
+short bivuoacs and FTXs. Two trenches per 100 males
+and three trenches per 100 females. The standardized
+measurements are 1’x 4’x 2’6”.
+
+                         GUARD DUTY
+
+One of the most important duties you will perform in the
+Army is guard duty. In a combat zone, an alert, cautious
+guard can make the difference between life and death.
+However, guards are important everywhere due to the
+terrorist threats that can occur anywhere.
+
+                         Interior Guard
+
+An interior guard is set up by the commander of the
+military installation to protect property and to enforce
+specific military regulations. The main guard is a
+combination of patrols and fixed guard posts. Special
+guards are used to protect parks, boats, aircraft, and other
+places or property.
+
+A guard on post is governed by two sets of orders: general
+orders and special orders. General orders outline the basic
+responsibilities of all guards, while special orders give
+details on how to perform on a particular post.
+
+All interior guards must memorize, understand, and
+comply with the three general orders.
+
+4-74
+
+
+---
+
+General Order Number 1 gives you responsibility for
+everything that occurs within the limits of your post while
+you are on duty. You must investigate immediately any
+unusual or suspicious occurrence on or near your post,
+provided you do not have to leave your post to do so. You
+must apprehend all suspicious persons, using only
+necessary force to overcome resistance. If you should
+require relief for any purpose, you must contact the
+commander of the relief for instructions.
+
+General Order  "I will guard everything within the
+Number 1—      limits of my post and quit my post
+               only when properly relieved."
+General Order
+Number 2—      "I will obey my special orders and
+               perform all my duties in a military
+General Order  manner."
+Number 3—
+               "I will report violations of my
+               special orders, emergencies, and
+               anything not covered in my
+               instructions to the commander of
+               the relief."
+
+General Order Number 2 requires you to become thoroughly
+familiar with the special orders before you are actually
+posted. In addition to the special orders connected with your
+post, you are required to obey and carry out any orders or
+instructions from the commanding officer, field officer of the
+day, and officers and noncommissioned officers of the guard.
+No other persons are authorized to give orders to soldiers on
+guard duty. You should pass instructions and special
+information to your relief when appropriate.
+
+                                                                 4-75
+
+
+---
+
+                             Example
+
+You are a guard on duty at an ammunition dump and
+discover a hole in the fence, which you report to the
+commander of the relief. You also pass the information on
+to your relief so that special attention can be paid to that
+part of the fence until the hole is repaired.
+
+General Order Number 2 also requires you to perform
+your duties in a military manner, to be courteous to all,
+and to speak to no one, except in the line of duty. You
+must maintain an erect and soldierly bearing, carrying
+your weapon as instructed by the commanding officer or
+commander of the guard. You must salute individuals
+according to Army regulations. The special orders will tell
+you whether and when to challenge.
+
+General Order Number 3 requires you to report all special
+order violations and emergencies. In case of a fire on or
+near your post, you should call, "Fire, post number
+_____." You should alert the occupants if the fire is in an
+occupied building, and should give the alarm or make sure
+one is given. If possible, extinguish the fire. Help direct
+fire-fighting apparatus to the fire. If a disturbance occurs
+that requires assistance, call, "The guard, post number
+_____." If the danger is great, fire your weapon into the air
+three times in rapid succession.
+
+When you, as a guard, are asked "What are your orders?"
+by an inspecting officer, the proper answer is: "Sir/Ma'am,
+my orders are of two classes: general and special. My
+general orders are, Number 1: I will guard everything
+within the limits . . . ," continuing until stopped by the
+officer or until you recite all the general orders. You
+
+4-76
+
+
+---
+
+should be able to answer any questions concerning the
+special orders for your post.
+
+Uniform, Arms, and Equipment. The commanding
+officer prescribes uniform, arms, and equipment for guard
+mounts. If armed, you must have completed training with
+the weapon to be used on guard duty.
+
+The sergeant of the guard will organize the soldiers
+making up the guard into a formation, using commands
+and movements described in FM 22-5. The commander of
+the guard then prepares the guards for inspection. The
+officer of the day inspects the guards and orders those
+found unsatisfactory to fall out to the rear of the formation
+and await further instructions. The guards then move to
+the guardhouse, and the commander of the first relief
+prepares the relief to be posted. At the appropriate time,
+the old guard will be relieved by the new guard. The
+changing of the guard is accomplished through a
+ceremony conducted by the two commanders.
+
+                         Exterior Guard
+
+Exterior guards are not as formal and restricted as interior
+guards. Examples of exterior guards are lookouts, listening
+posts, outposts, certain patrols, and other guards in combat
+zones and field training, and guards outside the limits of a
+military installation. Exterior guards perform their duties
+according to special orders and instructions.
+
+Your drill sergeant will use the following evaluation
+guides to test your knowledge of guard duty:
+
+                                                                 4-77
+
+
+---
+
+                        Evaluation Guide
+                  Recite the General Orders
+Performance Measures
+
+1. General Order Number 1. The soldier successfully
+recites, "I will guard everything within the limits of my post
+and quit my post only when properly relieved."
+2. General Order Number 2. Successfully recite, "I will
+obey my special orders and perform all my duties in a
+military manner."
+
+3. General Order Number 3. Successfully recite, "I will
+report violations of my special orders, emergencies, and
+anything not covered in my instructions to the commander
+of the relief."
+
+                        Evaluation Guide
+              React to an Inspecting Officer
+Performance Measures
+The soldier—
+
+1. Stops walking and assumes position of attention; when the
+inspecting officer approaches, renders a proper hand salute.
+
+2. Executes order arms when salute is returned, and
+remains at attention.
+
+4-78
+
+
+---
+
+Note: Inspecting officer will command, "At ease."
+Inspecting officer should ask questions pertaining to the
+general orders. These questions will not be scored. When
+finished with inspection, the inspecting officer will say,
+"Carry on."
+
+3. Assumes position of attention and renders a proper
+hand salute, holding it until it is returned.
+
+4. Resumes walking post.
+
+                        Evaluation Guide
+   Challenge Unknown Persons (Night) and Summon
+
+                     Commander of Relief
+
+Performance Measures
+
+The soldier—
+
+1. Upon seeing or hearing an unknown person, comes to port arms.
+
+2. Commands, "Halt." (Person halts.)
+
+3. Calls out, "Who is/goes there?" (Unknown person says,
+"Civilian employee.")
+
+4. States, "Advance to be recognized."
+
+5. Commands, "Halt," when the person can be seen but not
+closer than 2 to 3 meters away.
+
+6. Says, "State your business." (Unknown person says,
+"I came to pick up supplies.")
+
+                                                                 4-79
+
+
+---
+
+7. Requires unknown person to place identification on
+ground and move back six steps.
+8. Checks identification (ID) while keeping person under
+observation. (ID and authorization do not match.)
+9. Moves to phone and calls commander of the relief while
+keeping person under observation.
+10. Releases person to commander of the relief and
+explains that their identification and authorization do not
+match.
+
+4-80
+
+
+---
+
+                           CHAPTER 5
+              SELECTED COMMON TASKS
+
+                              Section I
+                     COMMUNICATION
+
+This section contains the only COMMUNICATE task in
+STP 21-1-SMCT.
+
+       PERFORM VOICE COMMUNICATIONS
+                           113-571-1022
+
+                         CONDITIONS
+Given a secure net, with no authentication required. Each
+member of the net receives—
+
+1. One operational radio set, warmed up and set to the net frequency.
+
+2. A 5-inch by 8-inch call sign information card with the
+following information written on it:
+
+   a. Duty position (S1 or S2).
+   b. A message to transmit.
+   c. Net call sign (a letter-number-letter combination) and
+suffixes.
+
+   E3E—Net call sign
+   E46—Suffix for net control station (NCS)
+   E39—Suffix for S1
+   E13—Suffix for S2
+Note: Each net member must have a different suffix and
+message. The task may have as many net members as
+there are sets of equipment available.
+
+                                                                   5-1
+
+
+---
+
+                          STANDARDS
+Enter a radio net, send a message, and leave a radio net. Use
+the proper call signs, call sign sequence, prowords, and
+phonetic alphabet and numerals. Perform all steps correctly.
+
+              TRAINING AND EVALUATION
+                Training Information Outline
+
+1. Enter the net.
+
+   a. Determine the abbreviated call sign and answering
+sequence for your duty position.
+
+b. Respond to the NCS issuing a net call (Figure 5-1).
+
+c. Answer in alphanumeric sequence.
+
+Note: The NCS acknowledges; the net is open.
+
+      Figure 5-1. Example response to a net call.
+
+NCS:  Echo tree echo this is echo fow-er six—over
+S2:   Echo fow-er six this is echo wun tree—over
+S1:   Echo fow-er six this is echo tree niner—over
+NCS:  Echo tree echo this is echo fow-er six— roger
+      out
+
+2. Send a message.
+
+a. Listen to make sure the net is clear. Do not interrupt
+     ongoing communications.
+
+5-2
+
+
+---
+
+   b. Call the NCS and tell the operator the priority of the
+message you have for their station.
+
+Note: The NCS responds that they are ready to receive.
+
+   c. Send your message using the correct prowords.
+Pronounce letters and numbers correctly (Figures 5-2
+through 5-7).
+
+d. Get a receipt for the message.
+
+Note: The NCS calls to issue you a close-down order.
+
+3. After receiving a call from the NCS to close down the
+net, answer them and leave the net in alphanumeric
+sequence.
+
+Note: The NCS acknowledges and the net is closed.
+
+Figure 5-2. Alphabetical list of common prowords.
+
+Proword                      Explanation
+All after   I refer to all of the message that
+All before  follows . . .
+Break
+            I refer to all of the message that
+Correction  precedes
+
+            I now separate the text from other parts
+            of the message.
+
+            There is an error in this transmission.
+            Transmission will continue with the last
+            word correctly transmitted.
+
+                                                          5-3
+
+
+---
+
+Proword                       Explanation
+Groups
+I say again  This message contains the number of
+             groups indicated by the numeral
+             following. . .
+
+             I am repeating transmission or part
+             indicated.
+
+I spell      I will spell the next word phonetically.
+
+Message      A message that requires recording is
+             about to follow. (Transmitted
+             immediately after the call. This proword
+             is not used on nets primarily employed
+             for conveying messages. It is intended
+             for use when messages are passed on
+             tactical or reporting net.)
+
+More to      Transmitting station had additional
+follow       traffic for the receiving station.
+Out
+             This is the end of my transmission to
+Over         you and no answer is required or
+Radio check  expected.
+
+             This is the end of my transmission to
+             you and a response is necessary. Go
+             ahead; transmit.
+
+             What is my signal strength and
+             readability, that is, how do you hear
+             me?
+
+5-4
+
+
+---
+
+Proword                       Explanation
+Roger
+Say again    I have received your last transmission
+             satisfactorily, loud and clear.
+This is
+             Repeat all of your last transmission.
+             (Followed by identification data means
+             "Repeat [portion indicated].")
+
+             This transmission is from the station
+             whose designator immediately follows.
+
+Time         That which immediately follows is the
+             time or date-time group of the message.
+
+Wait         I must pause for a few seconds.
+Wait-out
+             I must pause for longer than a few
+Wilco        seconds.
+
+Word after   I have received your transmission,
+Word before  understand it, and will comply. (To be
+             used only by the addressee. Since the
+             meaning of ROGER is included in that
+             of WILCO, the two prowords are never
+             used together.)
+
+             I refer to the word of the message that
+             follows . . .
+             I refer to the word of the message that
+             precedes . . .
+
+             5-5
+
+
+---
+
+            Figure 5-3. Phonetic alphabet.
+
+     A            B            C                D
+  Alpha         Bravo      Charlie            Delta
+  (al fah)   (brah voh)   (char lee)        (dell tah)
+
+     E            F            G                H
+   Echo        Foxtrot       Golf             Hotel
+ (eck oh)    (foks trot)    (golf)          (hoh tell)
+
+     I             J           K                 L
+   India        Juliet       Kilo             Lima
+(indee ah)  (jewlee ett)  (key loh)         (lee mah)
+                               O
+    M             N         Oscar                P
+   Mike      November     (oss cah)            Papa
+  (mike)    (no vem ber)                    (pah pah)
+                               S
+     Q            R         Sierra               T
+ Quebec        Romeo       (see air           Tango
+(keh beck)  (row me oh)      rah)           (tang go)
+
+     U          V             W                 X
+ Uniform     Victor       Whiskey             Xray
+ (you nee   (vik tah)     (wiss key)        (ecks ray)
+
+   form)        Z              1                 2
+     Y        Zulu           One               Two
+            (zoo loo)       (wun)              (too)
+  Yankee
+(yang key)      4              5                 6
+              Four           Five              Six
+     3      (fow er)         (fife)            (six)
+  Three                                          0
+   (tree)       8              9               Zero
+              Eight          Nine             (ze ro)
+     7        (ait)         (niner)
+  Seven
+  (seven)
+
+5-6
+
+
+---
+
+Figure 5-4. Alphanumeric pronunciation.
+
+Numeral   Spoken as
+
+      44  Fow-er fow-er
+      90  Nin-er ze-ro
+    136   Wun tree six
+    500   Fife ze-ro ze-ro
+   1200   Wun too ze-ro ze-ro
+   1478   Wun fow-er sev-en ait
+   7000   Sev-en tou-sand
+ 16000    Wun six tou-sand
+812681    Ait wun too six ait wun
+
+          Figure 5-5. Sample message.
+
+ROUTINE
+TIME 0102053 JAN 94
+FROM E39 TO E46
+BREAK
+UNCLASSIFIED
+AT 1800Z PROCEED TO HONG KONG ARRIVE 16 MAY
+LOAD 1000 TROOPS FOR RETURN TO NINGPO
+OVER
+
+                                         5-7
+
+
+---
+
+     Figure 5-6. Example receipt of message by S1.
+
+S1: Echo fow-er six this is echo tree niner—routine
+          over.
+
+NCS: Echo tree niner this is echo fow-er six—roger
+          over.
+
+S1: Echo fow-er six this is echo tree niner—
+          routine—time zero wun zero too zero fife tree
+          january niner fow-er—from echo tree niner—to
+          echo fow-er six—break—unclassified—at wun
+          ait hundred zulu proceed to hong kong arrive
+          wun six may load wun thousand troops for
+          return to ningpo over.
+
+     Figure 5-7. Example closing down of the net.
+
+NCS:  Echo tree echo this is echo fow-er six—close
+S2:   down over.
+S1:
+NCS:  Echo fow-er six this is echo wun tree—wilco
+      over.
+
+      Echo fow-er six this is echo tree niner—wilco
+      over.
+
+      Echo tree echo this is echo fow-er six—roger
+      out.
+
+5-8
+
+
+---
+
+Evaluation Guide:
+
+         Perform Voice Communications
+
+Performance Measures
+
+1. Enter the net in alphanumeric sequence.
+
+2. Send a message of 15 to 25 words using the
+correct prowords and pronouncing words and
+numbers correctly (phonetically).
+3. Leave the net in alphanumeric sequence.
+
+                             Section II
+                          NAVIGATION
+
+This section contains four NAVIGATE tasks from
+STP 21-1-SMCT.
+
+    IDENTIFY TERRAIN FEATURES ON A MAP
+                           071-329-1001
+
+                         CONDITIONS
+Given a standard 1:50,000-scale military map.
+
+                          STANDARDS
+Identify the five major and three minor terrain features on
+the map.
+
+              TRAINING AND EVALUATION
+                Training Information Outline
+
+1. Identify major terrain features.
+                                                                   5-9
+
+
+---
+
+   a. Terrain features are identified in the same manner on
+all maps, regardless of the contour interval, but you must
+realize that a hill in the Rocky Mountains will be much
+bigger than one in south Florida. You must be able to
+recognize all the terrain features to locate a point on the
+ground or to navigate from one point to another.
+
+   b. Terrain features can be learned using the fist or hand
+to show what each would look like on the ground
+(Figures 5-8 and 5-9).
+
+  Figure 5-8. Using the fist to explain terrain features.
+
+5-10
+
+
+---
+
+Figure 5-9. Using the hand to explain terrain features.
+
+        c. The five major terrain features on a map are—
+      (1) Hill—a point or small area of high ground. When
+you are on a hilltop, the ground slopes down in all
+directions (Figure 5-10).
+
+                       Figure 5-10. A hill.
+
+                                                                 5-11
+
+
+---
+
+      (2) Ridge—a line of high ground with height
+variations along its crest. The ridge is not simply a line of
+hills; all points of the ridge crest are higher than the
+ground on both sides of the ridge (Figure 5-11).
+
+                      Figure 5-11. A ridge.
+
+     (3) Valley—reasonably level ground bordered on the
+sides by higher ground. A valley may or may not contain
+a stream course. A valley generally has maneuver room
+within its confines. Contour lines indicating a valley are
+U—shaped and tend to parallel a stream before crossing it.
+The course of the contour line crossing the stream always
+points upstream (Figure 5-12).
+
+5-12
+
+
+---
+
+                      Figure 5-12. A valley.
+
+                       Figure 5-13.Saddle.
+
+(4) Saddle—a dip or low point along the crest of a ridge. A saddle
+is not necessarily the lower ground between two hilltops; it may be
+a break along an otherwise level ridge crest (Figure 5-13).
+
+                                                                 5-13
+
+
+---
+
+(5) Depression—a low point or hole in the ground,
+surrounded on all sides by higher ground (Figure 5-14).
+
+                  Figure 5-14. A depression.
+
+2. Identify minor terrain features. Although these features
+are not as important as the major terrain features,
+navigators can plan routes more successfully if they can
+identify all the terrain features their routes will cross over.
+
+    a. Draw—similar to a valley, except that it normally is
+a less developed stream course in which there is generally
+no level ground and, therefore, little or no maneuver room
+(Figure 5-15). The ground slopes upward on each side and
+toward the head of the draw.
+
+5-14
+
+
+---
+
+                      Figure 5-15. A draw.
+
+Draws are caused by flash floods and can be found on flat
+terrain but are more often found along the sides of ridges.
+Contour lines indicating a draw are shaped like a "V" with
+the point of the "V" toward the head of the draw (high
+ground).
+
+    b. Spur—a usually short, continuously sloping line of
+higher ground, normally jutting out from the side of a
+ridge. A spur is often formed by two thoroughly parallel
+streams cutting draws down the side of a ridge
+(Figure 5-16).
+
+   c. Cliff—a vertical or near-vertical slope. A cliff may
+be shown on a map by contour lines being .
+
+                                                                 5-15
+
+
+---
+
+                       Figure 5-16. A spur.
+
+close together, touching, or by a ticked "carrying" contour
+line. The ticks always point toward lower ground
+(Figure 5-17).
+
+                       Figure 5-17. A cliff.
+
+5-16
+
+
+---
+
+Evaluation Guide:
+Identify Terrain Features on a Map
+Performance Measures
+1. Identify the five major terrain features on a
+map
+
+2. Identify the three minor terrain features on
+a map
+
+    DETERMINE THE GRID COORDINATES OF
+             A POINT ON A MILITARY MAP
+                           071-329-1002
+
+                         CONDITIONS
+Given a standard 1:50,000-scale military map, a 1:50,000
+grid coordinate scale, pencil, paper, and a point on the map
+for which coordinates must be determined.
+
+                          STANDARDS
+Determine the six-digit grid coordinates for the point on
+the map with a 100-meter tolerance (grid coordinates must
+contain the correct two-letter 100,000-meter-square
+identifier).
+
+              TRAINING AND EVALUATION
+                Training Information Outline
+
+      Notes: 1. To keep from getting lost, a soldier
+      must know how to find out where he is. A
+      combat area has no street addresses, but
+      a military map can help you identify a location
+
+                                                                 5-17
+
+
+---
+
+      accurately. The map has vertical lines (top to
+      bottom) and horizontal lines (left to right).
+      These lines form small squares 1,000 meters on
+      each side called grid squares.
+
+                 2. The lines that form grid squares are
+      numbered along the outside edge of the map
+      picture. No two grid squares have the same
+      number.
+
+                 3. The precision of a point location is
+      shown by the number of digits in the
+      coordinates: the more digits, the more precise
+      the location.
+
+                 1996—a 1,000-meter grid square.
+                 192961—to the nearest 100 meters.
+                 19269614—to the nearest 10 meters.
+
+1. Look at Figure 5-18. Your address is grid square 1181.
+How do you know this? Start from the left and read right
+until you come to 11, the first half of your address. Then
+read up to 81, the other half. Your address is somewhere in
+grid square 1181 (A, Figure 5-18).
+
+2. Grid square 1181 gives your general neighborhood, but
+there is a lot of ground inside that grid square. To make
+your address more accurate, just add another number to
+the first half and another number to the second half—so
+your address has six numbers instead of four.
+
+   a. To get those extra numbers, pretend that each grid
+square has ten lines inside it running north and south, and
+another 10 running east and west. This makes 100 smaller
+squares. You can estimate where these imaginary lines are.
+
+5-18
+
+
+---
+
+   b. Suppose you are halfway between grid line 11 and
+grid line 12. Then the next number is 5 and the first half of
+your address is 115. Now suppose you are also 3/10 of the
+way between grid line 81 and grid line 82. Then the
+second half of your address is 813. (If you were exactly on
+line 81, the second part would be 810). Your address is
+115813 (B, Figure 5-18).
+
+ Figure 5-18. Determining a six-digit grid coordinate.
+3. The most accurate way to determine the coordinates of
+a point on a map is to use a coordinate scale. You do not
+have to use imaginary lines; you can find the exact
+coordinates using a Coordinate Scale and Protractor
+(GTA 5-2-12) (Figure 5-19) or a Plotting Scale
+(Figure 5-20). Each device has two coordinating scales,
+1:25,000 meters and 1:50,000 meters. Make sure you use
+the correct scale.
+
+                                                                 5-19
+
+
+---
+
+      Figure 5-19. Coordinate scale and protractor.
+   a. First, locate the grid square in which the point (for
+example, Point A, Figure 5-21, page 5-24) is located (the
+point should already be plotted on the map).
+   b. The number of the vertical grid line on the left (west)
+side of the grid square is the first and second digits of the
+coordinates.
+
+5-20
+
+
+---
+
+                  Figure 5-20. Plotting scale.
+
+    c. The number of the horizontal grid line on the bottom
+(south) side of the grid square is the fourth and fifth digits
+of the coordinates.
+
+   d. To determine the third and sixth digits of the coordi-
+nates, place the coordinate scale on the bottom horizontal
+grid line of the grid square containing Point A.
+
+                                                                 5-21
+
+
+---
+
+        Figure 5-21. Placement of coordinate scale.
+
+   e. Check to see that the zeros of the coordinate scale are
+in the lower left-hand (southwest) corner of the map grid
+square (Figure 5-21).
+
+   f. Slide the scale to the right, keeping the bottom of the
+scale on the bottom grid line until Point A is under the
+vertical (right-hand) scale (Figures 5-22 and 5-23). On the
+bottom scale, the 100-meter mark nearest the vertical grid
+line provides the third digit, 5. On the vertical scale, the
+
+5-22
+
+
+---
+
+100-meter mark nearest Point A provides the sixth digit, 3.
+Therefore, the six-digit grid coordinate is 115813.
+
+Figure 5-22. Alignment of coordinate scale.
+
+Figure 5-23. Alignment of plotting scale.
+
+                                             5-23
+
+
+---
+
+   g. To determine the correct two-letter 100,000-meter-
+square identifier, look at the grid reference box in the
+margin of the map (Figure 5-24).
+
+   h. Place the 100,000-meter-square identifier in front of
+the coordinate, GL 11508133.
+
+              Figure 5-24. Grid reference box.
+
+5-24
+
+
+---
+
+Evaluation Guide:
+Determine the Grid Coordinates of a Point on a
+Military Map
+Performance Measures
+
+1. Write down the two-letter 100,000-
+meter-square identifier and the six-digit grid
+coordinates for the designated point with
+a 100-meter tolerance.
+2. Record the grid coordinates with the
+correct two-letter 100,000-meter-square
+identifier.
+
+   DETERMINE A MAGNETIC AZIMUTH USING
+                   A LENSATIC COMPASS
+                           071-329-1003
+
+                         CONDITIONS
+Given a compass and a designated point on the ground.
+
+                          STANDARDS
+Determine the correct magnetic azimuth to the designated
+point within 3 degrees using the compass-to-cheek method,
+or within 10 degrees using the center-hold method.
+
+              TRAINING AND EVALUATION
+                Training Information Outline
+
+1. Read your compass (Figures 5-25 and 5-26).
+
+                                                                 5-25
+
+
+---
+
+  a. The floating dial is used to determine the direction in
+which you are pointing your compass.
+
+  b. The outer, "black" ring of numbers and tick marks is
+used for finding direction in mils.
+
+               Figure 5-25. Lensatic compass.
+
+       Figure 5-26. Lensatic compass floating dial.
+
+5-26
+
+
+---
+
+c. The inner, "red" ring of numbers and tick marks is used
+for finding direction in degrees.
+
+      (1) There are 360 degrees or 6,400 mils in a circle.
+These are marked with a tick mark every 5 degrees and 20
+mils. However, not every tick mark is numbered. You will
+have to determine the number for these lines using the
+numbers that are shown.
+
+      (2) To read direction, point the compass in the
+direction you want to go or want to determine.
+
+      (3) Look beneath the index line on the outer glass
+cover and estimate to the nearest degree or 10 mils the
+position of the index line over the (red or black) scale.
+
+      (4) Be careful to hold the compass still so that the
+dial remains stationary while you are reading the scale.
+
+      (5) In Figure 5-26, the readings are 312 degrees (red
+scale) and 5,500 mils (black scale).
+
+      (6) If you understand these readings and can apply
+either of the holding and sighting techniques of shooting
+an azimuth, you will be proficient in performing this task.
+
+2. Shoot an azimuth.
+   a. Use your compass to determine or follow an
+
+azimuth. The arrow on the compass points toward
+magnetic north. The arrow is also attracted by any mass of
+metal—a truck, your rifle, your helmet, and even electrical
+power lines. Thus, be sure you use your compass away
+from metal objects so it will not give a wrong reading.
+
+   b. The lensatic compass must always be held level and
+firm when sighting on an object and reading an azimuth.
+
+                                                                 5-27
+
+
+---
+
+   c. There are two methods of holding the lensatic
+compass and sighting.
+
+      (1) Compass-to-cheek method (Figure 5-27). To use
+this method—
+
+          (a) Open the cover to a 90-degree angle to the
+base. Position the eyepiece at a 45-degree angle to the
+base.
+
+          (b) Place your thumb through the thumb loop,
+form a steady base with your third and fourth fingers, and
+extend your index finger along the side of the compass
+base.
+
+          (c) Place the hand holding the compass into the
+palm of the other hand.
+
+          Figure 5-27. Compass-to-cheek method.
+          (d) Bring both hands up to the face and position
+the thumb that is through the thumb loop against the
+cheekbone.
+5-28
+
+
+---
+
+          (e) Look through the lens of the eyepiece. If the
+dial is not in focus, move the eyepiece up or down until
+the dial is in focus.
+
+          (f) Align the sighting slot of the eyepiece with the
+sighting wire in the cover on the point to which the
+azimuth is being determined. Look through the lens of the
+eyepiece and read the azimuth under the index line.
+
+      (2) Center-hold method (Figure 5-28). Use this
+method only when a precise direction is not required:
+
+          (a) Open the compass so that the cover forms
+a straight edge with the base. The lens of the compass is
+moved out of the way.
+
+              Figure 5-28. Center-hold method.
+          (b) Place your thumb through the thumb loop,
+form a steady base with your third and fourth fingers, and
+extend your index finger along the side of the compass.
+
+                                                                 5-29
+
+
+---
+
+          (c) Place the thumb of the other hand between the
+eyepiece and the lens, extend the index finger along the
+remaining side of the compass, wrap the remaining fingers
+around the fingers of the other hand, and pull your elbows
+firmly into your sides. This will place the compass
+between your chin and your belt.
+
+          (d) To measure an azimuth, turn your entire body
+toward the object and point the compass cover directly at
+the object. Look down and read the azimuth from beneath
+the fixed black index line. This method can be used at
+night.
+
+          (e) To keep from going in circles when you are
+land navigating, stop occasionally to check the azimuth
+along which you are moving. Also, you can move from
+object to object along your path by shooting an azimuth to
+each object and then moving to that object. Repeating this
+process while you navigate should keep you straight.
+
+Evaluation Guide:
+Determine a Magnetic Azimuth
+Performance Measures
+
+1. Determine a magnetic Azimuth using a lensatic
+compass.
+
+2. Use the compass-to-cheek method to within three
+degrees of a designated point.
+
+5-30
+
+
+---
+
+3. Use the center-hold method within 10 degrees to a
+designated point.
+
+            MEASURE DISTANCE ON A MAP
+                           071-329-1008
+
+                         CONDITIONS
+Given a standard 1:50,000 military map, a strip of paper or
+a straightedge, and a pencil.
+
+                          STANDARDS
+1. Determine the straight-line distance, in meters, between
+two points with no more than 5 percent error.
+
+2. Determine the road (curved-line) distance, in meters,
+between two points with no more than 10 percent error.
+
+              TRAINING AND EVALUATION
+                Training Information Outline
+
+Note: Soldiers can use their maps to measure the distance
+between two places. The maps are drawn to scale. This
+means that a certain distance on a map equals a certain
+distance on the earth. The scale is printed at the bottom
+and top of each map (Scale 1:50,000). This means that
+1 inch on the map equals 50,000 inches on the ground. To
+change map distance to miles, meters, or yards, use the bar
+scales at the bottom of the map (Figure 5-29).
+
+                                                                 5-31
+
+
+---
+
+                    Figure 5-29. Bar scales.
+
+          Figure 5-30. Measurement of distance.
+
+   a. Take a ruler or the edge of a piece of paper and mark
+on it the straight-line distance between your two points
+(Figure 5-30).
+5-32
+
+
+---
+
+   b. Then, put the ruler or the paper just under one of the
+bar scales and read the ground distance in miles, meters, or
+yards. The bar scale in Figure 5-31 shows a ground
+distance of 1,500 meters.
+
+          Figure 5-31. Determination of distance.
+
+                                 1500 METERS BETWEEN
+                                         TICK MARKS
+
+   c. Suppose you want to find the distance between A and
+B around a curve in a road. Take a strip of paper, make
+a small tick mark on it, and line up the tick mark with
+point A. Align the paper with the road edge until you come
+to the curve, make another mark on the paper and on the
+map, and then pivot the paper so that it continues to follow
+the road edge. Keep repeating this until you get to B.
+Always follow the road edge with your paper. Make
+a mark on your paper where it hits B, and then go to the
+bar scales to get the distance (Figure 5-32).
+
+2. Normally, you will be required to measure distance in
+meters, and you may receive a problem that goes off the
+bar scale. The meter bar scale allows you to measure
+distances up to 5,000 meters. If you have to measure
+distances greater than 5,000 meters, follow this procedure:
+
+                                                                 5-33
+
+
+---
+
+    a. Place your starting point on the paper under the zero
+on the bar scale. Measure off 4,000 meters and place
+a new tick mark at the point on your paper.
+
+        Figure 5-32. Map distance—1,800 meters.
+
+    b. Place this second tick mark also under the zero on
+the bar scale and determine if the distance on the paper
+now falls within the bar scale. If it does, add this value to
+4,000 to give a total distance. If it does not, repeat the last
+step (a) until the distance on the paper falls within the bar
+scale. Remember to add this last value to the total number
+of meters you have already measured.
+Evaluation Guide:
+Measure Distance on a Map
+Performance Measures
+1. Measure the straight-line distance on the
+map using the straightedge.
+2. Place the paper under the meter bar scale.
+3. Determine the distance with no more than 5
+percent error.
+5-34
+
+
+---
+
+4. Measure the curved-line distance using the
+strip of paper.
+5. Place the paper under the meter bar scale.
+6. Determine the distance with no more than 10 percent error.
+
+                            Section III
+                            WEAPONS
+
+               MAINTAIN AN M16A2 RIFLE
+                           071-311-2025
+
+                         CONDITIONS
+Given an M16A2 rifle, magazine, 5.56-mm ammunition,
+small arms maintenance equipment case and lubricating
+instructions. You have the following cleaning materials:
+Swabs, pipe cleaner, and cleaner lubricant preservative
+(CLP). You also have lubricating oil, semifluid, weapons;
+lubricating oil, Arctic, weapons; and rifle bore cleaner.
+
+                          STANDARDS
+Clean, inspect and lubricate the rifle and magazine so that
+they function correctly. Clean and inspect the
+ammunition. Turn in any unserviceable ammunition.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Clear the rifle.
+
+                                                                 5-35
+
+
+---
+
+     a. Remove the magazine from the rifle, if there is
+one present.
+
+     b. Cock the rifle.
+     c. Turn the selector to SAFE (A, Figure 5-33).
+NOTE: The selector cannot be turned to SAFE unless the
+rifle is cocked.
+     d. Lock the bolt open (B, Figure 5-33).
+
+           Figure 5-33. Clearing an M16A2 rifle.
+     e. Pull the charging handle rearward.
+     f. Press the bottom of the bolt catch.
+     g. Allow the bolt to move forward until it engages
+the bolt catch.
+5-36
+
+
+---
+
+     h. Return the charging handle to the forward
+position.
+
+     i. Ensure the selector is on SAFE.
+
+     j. Check the receiver and chamber to ensure they do
+not contain ammunition (C, Figure 5-34).
+
+     k. Allow the bolt to go forward by pressing the
+upper portion of the bolt catch (D, Figure 5-34).
+
+                                             Figure 5-34.
+                                             Clearing an M16A2
+                                             rifle (continued)
+
+                                             2. Disassemble the
+                                             rifle.
+
+                                                   a. Verify the
+                                             rifle is clear.
+
+                                                   b. Remove the
+                                             sling.
+
+                                                   c. Remove the
+                                             handguards only if
+                                             you can see dirt or
+                                             corrosion through
+                                             the vent holes
+                                             (Figure 5-35).
+                                             Handguards on the
+M16A2 are interchangeable because they are identical.
+
+                                                                 5-37
+
+
+---
+
+                                     Figure 5-35. Removing
+
+                               the handguards.
+
+                                                1) Push the
+                                     takedown pin as far as it
+                                     will go and pivot the upper
+                                     receiver from the lower
+                                     receiver (B, Figure 5-36).
+
+                                                2) Push the
+                                     receiver pivot pin (C,
+                                     Figure 5-36).
+                                     `
+
+                                                3) Separate the
+                                     upper and lower receivers
+                                     (D, Figure 5-36).
+
+                                          d. Pull back the
+                                     charging handle (E,
+                                     Figure 5-36).
+
+     e. Remove the bolt carrier and bolt (F, Figure 5-36).
+
+          1) Remove the charging handle (G,
+Figure 5-36).
+
+          2) Remove the firing pin retaining pin (H,
+Figure 5-36).
+
+5-38
+
+
+---
+
+            Figure 5-36. Disassembling the rifle.
+
+          3) Put the bolt assembly in the locked position
+by pushing in the bolt (I, Figure 5-36).
+
+          4) Remove the firing pin by allowing it to drop
+out of the rear of the bolt carrier into your hand (J,
+Figure 5-36).
+
+                                                                 5-39
+
+
+---
+
+    Figure 5-36. Disassembling the rifle (continued).
+
+          5) Remove the bolt cam pin by turning it one-
+quarter turn and lifting it out (K, Figure 5-36).
+
+          6) Pull the bolt assembly from the carrier (L,
+Figure 5-36).
+
+NOTE: Perform steps o through r only when the parts are
+dirty or damaged.
+
+          7) Remove the extractor pin by pushing it out
+with the firing pin (use care not to damage the firing pin)
+(M, Figure 5-36).
+
+5-40
+
+
+---
+
+          8) Lift out the extractor and spring (N,
+Figure 5-36), taking care so that the spring does not
+separate from the extractor.
+NOTE: Press the top of the extractor to check spring
+function.
+
+     f. Release the buffer by pressing the buffer and
+depressing the retainer.
+
+     g. Remove the buffer and action spring separating
+the buffer from the spring (O, Figure 5-36).
+
+     h. Do not disassemble the rifle further.
+
+    Figure 5-36. Disassembling the rifle (continued).
+                                                                 5-41
+
+
+---
+
+3. Clean the rifle by removing carbon buildup and
+lubricating according to lubrication instructions. Make
+sure you remove any excessive oil from the bore before
+firing.
+
+NOTE: After firing ball or blank ammunition, clean the
+weapon with CLP. Under all but the coldest Arctic
+conditions, use only CLP to lubricate the rifle.
+
+      Figure 5-37. Cleaning the Receivers.
+
+5-42
+
+
+---
+
+    a. Clean the upper and lower receiver group using CLP to
+remove powder fouling in the upper receiver (Figure 5-37).
+
+    b. Clean the bolt carrier group, wiping the following
+parts with swabs and other parts from the small arms
+maintenance equipment case (Figure 5-38).
+
+       Figure 5-38. Cleaning the bolt carrier group
+                                                                 5-43
+
+
+---
+
+          1) The outer and inner surfaces of the bolt carrier.
+          2) The carrier key.
+          3) The firing pin recess and firing pin.
+          4) The firing pin hole with a pipe cleaner.
+          5) The carbon deposits and dirt from the
+locking lugs.
+          6) The areas behind the bolt ring and under the
+lip of the extractor.
+     c. Clean the following rifle parts lightly lubricating
+with CLP (Figure 5-38).
+          1) Lugs in the barrel extension, bore, and chamber.
+          2) Bolt carrier.
+          3) Slide cam pin area.
+          4) Piston rings.
+          5) Outside the bolt body.
+          6) Inside the bolt carrier key.
+          7) Firing pin and firing pin recess.
+          8) Outside surface of the protruding gas tube
+with a worn bore brush.
+5-44
+
+
+---
+
+          9) Buffer.
+          10) Action spring.
+          11) Inner surfaces of the lower receiver extension.
+          12) Inside the lower receiver.
+          13) All other components.
+4. Inspect disassembled rifle bolt assembly (Figure 5-39).
+     a. Identify defective or missing components.
+     b. Report deficiencies to the armorer.
+
+        Figure 5-39. Inspecting the bolt assembly.
+                                                                 5-45
+
+
+---
+
+5. Assemble the rifle.
+
+     a. Insert the spring and buffer (A, Figure 5-40).
+
+     b. Insert the extractor and spring (B, Figure 5-40).
+
+     c. Push the extractor pin in (C, Figure 5-40).
+
+     d. Slide the bolt into the carrier until the bolt cam
+pinhole in both the bolt carrier and the bolt are aligned
+(Figure D, 5-40).
+
+      Figure 5-40. Assembling the rifle.
+
+5-46
+
+
+---
+
+      Figure 5-40. Assembling the rifle (continued).
+     e. Place the bolt cam pin by putting it in the bolt
+carrier turning it one-quarter turn (E, Figure 5-40).
+     f. Drop in the firing pin to seat it (F, Figure 5-40).
+     g. Put the firing pin retaining pin in the bolt carrier
+to seat it (G, Figure 5-40).
+     h. Pull the bolt back (H, Figure 5-40).
+
+                                                                 5-47
+
+
+---
+
+     i. Place the charging handle by engaging it, then
+pushing the charging handle part of the way in (I,
+Figure 5-40).
+
+     j. Slide the bolt carrier into the upper receiver (J,
+Figure 5-40).
+
+     k. Push the charging handle and bolt carrier together
+in the upper receiver (K, Figure 5-40).
+
+     l. Join the upper and lower receiver (L,
+Figure 5-40).
+
+      Figure 5-40. Assembling the rifle (continued).
+5-48
+
+
+---
+
+     m. Engage the receiver pivot pin (M, Figure 5-40).
+     n. Close the upper and lower receiver groups,
+seating the takedown pin, and ensuring the selector switch
+is on safe (N, Figure 5-40).
+     o. Put the handguards in place (O, Figure 5-40).
+     p. Replace the sling (P, Figure 5-40).
+
+      Figure 5-40. Assembling the rifle (continued).
+6. Disassemble the magazine without removing the
+follower from the spring.
+
+                                                                 5-49
+
+
+---
+
+     a. Release the base catch (A, Figure 5-41).
+     b. Remove the base (B, Figure 5-41).
+     c. Remove the spring and follower by jiggling
+spring and follower (C, Figure 5-41).
+
+         Figure 5-41. Disassembling the magazine.
+7. Clean the magazine.
+
+     a. Wipe the dirt from the tube, spring and follower.
+     b. Lubricate the spring lightly.
+8. Assemble the magazine.
+5-50
+
+
+---
+
+     a. Jiggle the spring and follower together to install
+them in the magazine.
+
+     b. Slide the base under all four tabs, making sure
+that the print is on the outside.
+
+9. Clean the ammunition using a clean, dry cloth to wipe dirt
+and foreign matter from the ammunition. Do not coat with oil.
+
+       PERFORM A FUNCTION CHECK ON AN
+                         M16A2 RIFLE
+                           071-311-2026
+
+                         CONDITIONS
+Given an M16A2 rifle that you must confirm is operable.
+
+                          STANDARDS
+Perform the function check, ensuring that the rifle operates
+properly with the selector switch in each position.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Check an M16A2 with the selector lever in the SAFE
+position (Figure 5-36).
+
+     a. Pull the charging handle to the rear and release it.
+
+     b. Place the selector lever in the SAFE position.
+
+     c. Pull the trigger (the hammer should not fall).
+
+                                                                 5-51
+
+
+---
+
+               Figure 5-36. Selector on SAFE.
+
+2. Check an M16A2 with the selector lever in the SEMI
+position (Figure 5-37).
+
+     a. Place the selector lever in the SEMI position.
+     b. Pull the trigger, holding it to the rear (the hammer
+should fall).
+     c. Continue to hold the trigger to the rear while
+pulling the charging handle to the rear and releasing the
+charging handle.
+
+               Figure 5-37. Selector on SEMI.
+
+5-52
+
+
+---
+
+     d. Release the trigger with a slow, smooth motion until
+
+     e. The trigger is fully forward (the hammer should not fall).
+
+     f. Pull the trigger (the hammer should fall).
+
+3. Check an M16A2 with the selector lever in the BURST
+position (Figure 5-38).
+
+     a. Place the selector lever in the BURST position.
+
+     b. Pull the charging handle to the rear and release it.
+
+     c. Pull the trigger holding it to the rear (the hammer
+should fall).
+
+     d. Continue to hold the trigger to the rear while
+pulling the charging handle to the rear and releasing the
+charging handle.
+
+                Figure 5-38. Selector on burst.
+
+e. Repeat step 4d twice.
+
+                          5-53
+
+
+---
+
+     f. Release the trigger.
+
+     g. Pull the trigger (the hammer should fall).
+
+4. Stop the function check any time the rifle does not
+function properly.
+
+5. Turn in the malfunctioning rifle to the unit armorer.
+
+                  LOAD AN M16A2 RIFLE
+                           071-311-2027
+
+                         CONDITIONS
+Given an unloaded M16A2 rifle with a magazine loaded
+with ammunition.
+
+                          STANDARDS
+Load an M16A2 rifle in both the semiautomatic and burst
+modes. In either case, ensure that a round is chambered
+and the selector is returned to the SAFE position.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Determine the mode in which the rifle will be operated
+by using Table 5-39.
+
+2. Prepare the M16A2 rifle for semiautomatic fire.
+
+5-54
+
+
+---
+
+A OPERATING      SELECTOR    RIFLE WILL
+                    SAFE
+2 POSITION                      Not fire.
+                     SEMI  Fire 1 round each
+X  Safe                    time the trigger is
+
+X Semiautomatic                  pulled.
+
+X  Burst         BURST       Fire a 3-round
+                           burst each time the
+                            trigger is pulled.
+
+   Table 5-39. M16A2 operating modes.
+
+3. Prepare the M16A2 rifle for semiautomatic fire.
+
+   a. Point the rifle muzzle in a safe direction.
+
+   b. Cock the rifle (this also opens the bolt).
+
+   c. Return the charging handle to the forward position.
+
+   d. Place the selector lever on SAFE (A, Figure 5-40a).
+
+   e. Check the chamber to ensure it is clear (B, Figure 5-40a).
+
+     f. Insert the magazine, pushing it upward until the
+magazine catch engages and holds the magazine.
+
+     g. Tap upward on the bottom of the magazine to
+ensure it is seated (C, Figure 5-40a).
+
+NOTE: The magazine may be loaded with the bolt
+assembly open or closed.
+
+                                                    5-55
+
+
+---
+
+            Figure 5-40a. Loading the rifle.
+
+4. Prepare the M16A2 rifle for burst fire.
+     a. Point the rifle muzzle in a safe direction.
+     b. Cock the rifle (this also opens the bolt).
+     c. Return the charging handle to the forward position.
+     d. Place the selector lever in the BURST position
+
+(A, Figure 5-41).
+     e. Pull the trigger, holding it in the rear position.
+     f. Pull the charging handle to the rear and release it
+
+(B, Figure 5-41).
+     g. Repeat step 3f three times.
+     h. Pull the charging handle to the rear, holding it in place.
+
+5-56
+
+
+---
+
+     i. Release the trigger.
+     j. Push in on the bottom portion of the bolt catch,
+locking the bolt in the rear position (C, Figure 5-41).
+     k. Slide the charging handle all the way forward.
+     l. Place the selector on SAFE.
+
+    Figure 5-41. Preparing the M16A2 to fire bursts.
+5. Chamber a round.
+
+     a. With the bolt open:
+                                                                 5-57
+
+
+---
+
+          1) Depress the upper portion of the bolt catch to
+release the bolt (A, Figure 5-42).
+
+          2) Tap the forward assist to ensure that the bolt
+is fully forward and locked (B, Figure 5-42).
+
+          3) Place selector lever on SAFE, closing the
+ejection port cover if the rifle is not to be fired immediately.
+
+             Figure 5-42. Chambering a round.
+     b. With the bolt closed:
+
+          1) Pull the charging handle to the rear as far as it will go.
+          2) Release the charging handle. Do not ride the
+charging handle; allow it to return on its own.
+          3) Tap the forward assist to ensure the bolt is
+fully forward and locked.
+5-58
+
+
+---
+
+          4) Place the selector lever on SAFE closing the
+ejection port cover if the rifle is not to be fired immediately.
+
+                   UNLOAD AN M16A2 RIFLE
+                           071-311-2028
+
+                         CONDITIONS
+Given a loaded M16A2 rifle from which you must remove
+the ammunition.
+
+                          STANDARDS
+Clear the rifle, removing all ammunition and securing the
+rifle in the SAFE mode.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Point the rifle muzzle in a safe direction.
+
+2. Place the selector lever on SAFE.
+
+3. Remove the magazine from the rifle.
+
+4. Lock the bolt open.
+
+     a. Pull the charging handle rearward.
+
+     b. Press the bottom of the bolt catch.
+
+     c. Return the charging handle to the forward position.
+
+                                                                 5-59
+
+
+---
+
+5. Remove any ammunition from the receiver and chamber.
+
+6. Press the upper portion of the bolt catch, allowing the
+bolt to go forward.
+
+7. Pull the trigger to release the pressure on the firing pin spring.
+
+          CORRECT MALFUNCTIONS OF AN
+                         M16A2 RIFLE
+                           071-311-2029
+
+                         CONDITIONS
+Given a loaded M16A2 rifle that has a malfunction and
+has stopped firing.
+
+                          STANDARDS
+Eliminate the stoppage so that firing is resumed.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+                            WARNING
+ If your rifle malfunctions with a live round in the
+ chamber of a hot barrel, quickly remove the round. If
+ you can not remove the round within 10 seconds,
+ remove the magazine and wait 15 minutes with the rifle
+ pointed in a safe direction. Keep your face away from
+ the ejection port while clearing a hot chamber to avoid
+ possible injury from a cookoff.
+
+1. Perform immediate action.
+
+5-60
+
+
+---
+
+NOTE: If your rifle malfunctions, remember S-P-O-R-T-
+S. This key word will help you remember these actions in
+sequence: Slap, Pull, Observe, Release, Tap, Shoot.
+
+    a. Slap upward on the magazine to make sure it is
+
+properly seated.
+
+    b. Pull the charging handle all the way back.
+
+    c. Observe the ejection of the case or cartridge.
+
+Look into the chamber and check for obstructions.
+
+    d. Release the charging handle to feed a new round
+
+in the chamber. Do not ride the charging handle.
+
+    e. Tap the forward assist.
+
+    f. Shoot. If the rifle still does not fire, inspect it to
+
+determine the cause of the stoppage or malfunction and
+take appropriate remedial action.
+
+2. Perform remedial action.
+
+NOTE: If your rifle still fails to fire after performing steps
+1a through 1f, check again for a jammed cartridge case in
+the chamber.
+
+     a. If a cartridge case is in the chamber, tap it out
+with a cleaning rod.
+
+NOTE: If your rifle still fails to fire, you may have a
+mechanical failure.
+
+                                                                 5-61
+
+
+---
+
+     b. Correct a mechanical malfunction.
+
+     c. Clear the rifle.
+
+     d. Disassemble the rifle.
+
+     e. Inspect for dirty, corroded, missing, or broken parts.
+
+     f. Clean dirty or corroded parts.
+
+     g. Replace missing or broken parts.
+
+     h. Assemble the rifle.
+
+     i. Perform a function check.
+
+     j. Load the rifle.
+
+     k. Fire the rifle.
+
+PERFORM ROUTINE PREVENTIVE MAINTENANCE
+  CHECKS AND SERVICES ON AN M16A2 RIFLE
+                                NTN
+
+                         CONDITIONS
+Given an M16A2 rifle that has been cleared of any and all
+ammunition, and one empty magazine.
+
+                          STANDARDS
+Inspect the rifle and magazine for any conditions that
+could cause a weapon malfunction or some other condition
+that could endanger the operator.
+
+5-62
+
+
+---
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Insert the magazine into the magazine well and ensure
+that it locks in place.
+
+     a. If the magazine fails to seat, examine the
+magazine for distortions. Replace the magazine and
+attempt to lock the new magazine in place.
+
+     b. If a second magazine fails to lock into place,
+examine the magazine well for distortions or damage.
+Any imperfections identified within the magazine well
+should be brought to the attention of the unit armorer
+immediately.
+
+2. Check the magazine catch on the lower receiver.
+
+     a. Check the magazine catch for spring tension and
+retention of the magazine. If the magazine catch has no
+spring tension or does not retain the magazine, notify the
+unit armorer immediately.
+
+     b. Insert the magazine into the magazine well. The
+magazine catch should hold the magazine in place.
+Pressing the magazine catch should release the magazine.
+To adjust the magazine catch, use a cleaning rod to press
+in on the magazine catch button until the left side of the
+magazine catch sticks out beyond the receiver.
+
+                                                                 5-63
+
+
+---
+
+     c. If the magazine catch will not retain the
+magazine, turn the magazine catch clockwise to tighten
+the tension.
+
+     d. If the magazine catch will not release the
+magazine, turn the magazine catch counterclockwise to
+loosen the tension.
+
+     e. If neither adjustment corrects the retention
+problem, notify the unit armorer.
+
+3. Check the barrel for looseness. Attempt to turn the
+barrel in either direction using hand pressure only. Any
+movement of the barrel signals the need to immediately
+notify the unit armorer. Do not continue firing this
+weapon. If the weapon has been fired recently, recognize
+that the possibility of suffering burns from a hot barrel is
+high. Utilize protection for any part of the body that may
+come into contact with the barrel, preferably Nomex.
+
+4. Examine the sights on the weapon. Move both the
+front and rear sights to make sure they can be adjusted.
+Return the sights to the zero setting of your rifle. If the
+sights are damaged, missing, or can’t be adjusted, notify
+the unit armorer immediately.
+
+5. Conduct a visual inspection of the rifle. If parts are
+missing or damaged to the point of being unserviceable,
+notify the unit armorer.
+
+6. After conducting the inspections listed above,
+thoroughly clean and lubricate the weapon according to
+the guidance in the above sections. If the weapon is being
+
+5-64
+
+
+---
+
+fired, clean and lubricate the weapon after approximately
+200 rounds of ammunition have been fired, or at the end of
+the day. Report all damaged or missing parts, or other
+weapon malfunctions, to the unit armorer.
+
+         MARKSMANSHIP FUNDAMENTALS
+
+The soldier must understand the four key fundamentals
+before he approaches the firing line. He must be able to
+establish a steady position that allows observation of the
+target. He must aim the rifle at the target by aligning the
+sight system, and he must fire the rifle without disturbing
+this alignment by improper breathing or during trigger
+squeeze. The skills needed to accomplish these are known
+as rifle marksmanship fundamentals. These simple
+procedures aid the firer in achieving target hits under
+many conditions when expanded with additional
+techniques and information. Applying these four
+fundamentals rapidly and consistently is called the
+integrated act of firing.
+
+Steady Position. When the soldier approaches the firing
+line, he should assume a comfortable, steady firing
+position in order to hit targets consistently. The time and
+supervision each soldier has on the firing line are limited,
+Therefore, he must learn how to establish a steady position
+during dry-fire training. The firer is the best judge as to the
+quality of his position. If he can hold the front sight post
+steady through the fall of the hammer, he has a good
+position. The steady position elements are as follows:
+
+                                                                 5-65
+
+
+---
+
+Nonfiring hand grip. The rifle handguard rests on the heel
+of the hand in the V formed by the thumb and fingers. The
+grip of the nonfiring hand is light, and slight rearward
+pressure is exerted.
+
+Rifle butt position. The butt of the stock is placed in the
+pocket of the firing shoulder. This reduces the effect of
+recoil and helps ensure a steady position.
+
+5-66
+
+
+---
+
+Firing hand grip. The firing hand grasps the pistol grip so
+that it fits the V formed by the thumb and forefinger. The
+forefinger is placed on the trigger so that the lay of the
+rifle is not disturbed when the trigger is squeezed. A slight
+rearward pressure is exerted by the remaining three fingers
+to ensure that the butt of the stock remains in the pocket of
+the shoulder, thus minimizing the effect of recoil.
+
+Firing elbow placement. The location of the firing elbow
+is important in providing balance. The exact location,
+however, depends on the firing/fighting position used - for
+example, kneeling, prone, or standing. Placement should
+allow shoulders to remain level.
+
+Nonfiring elbow. The nonfiring elbow is positioned firmly
+under the rifle to allow for a comfortable and stable
+position. When the soldier engages a wide sector of fire,
+moving targets, and targets at various elevations, his
+nonfiring elbow should remain free from support.
+
+Stock weld. The stock weld is taught as an integral part of
+various positions. Two key factors emphasized are that the
+stock weld should provide for a natural line of sight
+through the center of the rear sight aperture to the front
+sight post and to the target. The firer's neck should be
+relaxed, allowing his cheek to fall naturally onto the stock.
+Through dry-fire training, the soldier is encouraged to
+practice this position until he assumes the same stock weld
+each time he assumes a given position. This provides
+consistency in aiming, which is the purpose of obtaining a
+correct stock weld. Proper eye relief is obtained when a
+soldier establishes a good stock weld. There is normally a
+small change in eye relief each time he assumes a different
+firing position. Soldiers should begin by trying to touch
+
+                                                                 5-67
+
+
+---
+
+his nose close to the charging handle when assuming a
+firing position.
+
+Support. If artificial support (sandbags, logs, stumps) is
+available, it should be used to steady the position and to
+support the rifle. If it is not available, then the bones, not
+the muscles, in the firer's upper body must support the
+rifle.
+
+Muscle relaxation. If support is properly used, the soldier
+should be able to relax most of his muscles. Using
+artificial support or bones in the upper body as support
+allows him to relax and settle into position. Using muscles
+to support the rifle can cause it to move.
+
+Natural point of aim. When the soldier first assumes his
+firing position, he orients his rifle in the general direction
+of his target. Then he adjusts his body to bring the rifle
+and sights exactly in line with the desired aiming point.
+When using proper support and consistent stock weld, the
+soldier should have his rifle and sights aligned naturally
+on the target. When this correct body-rifle-target
+alignment is achieved, the front sight post must be held on
+target, using muscular support and effort. As the rifle fires,
+the muscles tend to relax, causing the front sight to move
+away from the target toward the natural point of aim.
+Adjusting this point to the desired point of aim eliminates
+this movement. When multiple target exposures are
+expected (or a sector of fire must be covered), the soldier
+should adjust his natural point of aim to the center of the
+expected target exposure area (or center of sector).
+
+Aiming. Focusing on the front sight post is a vital skill the
+firer must acquire during practice. Having mastered the
+
+5-68
+
+
+---
+
+task of holding the rifle steady, the soldier must align the
+rifle with the target in exactly the same way for each
+firing. The firer is the final judge as to where his eye is
+focused. The instructor/trainer emphasizes this point by
+having the firer focus on the target and then focus back on
+the front sight post. He checks the position of the firing
+eye to ensure it is in line with the rear sight aperture. He
+uses the M16 sighting device to see what the firer sees
+through the sights.
+
+Rifle sight alignment. Alignment of the rifle with the target
+is critical. It involves placing the tip of the front sight post
+in the center of the rear sight aperture. (Figure 5-47). Any
+alignment error between the front and rear sights repeats
+itself for every 1/2 meter the bullet travels. For example, at
+the 25-meter line, any error in rifle alignment is multiplied
+50 times. If the rifle is misaligned by 1/10 inch, it causes a
+target at 300 meters to be missed by 5 feet.
+
+Focus of the eye. A proper firing position places the eye
+directly on line with the center of the rear sight. When the
+eye is focused on the front sight post, the natural ability of
+the eye to center objects in a circle and to seek the point of
+greatest light (center of the aperture) aid in providing
+correct sight alignment. For the average soldier firing at
+combat-type targets, the natural ability of the eye can
+accurately align the sights. Therefore, the firer can place
+the tip of the front sight post on the aiming point, but the
+eye must be focused on the tip of the front sight post. This
+causes the target to appear blurry, while the front sight
+post is seen clearly. Two reasons for focusing on the tip of
+the front sight post are:
+
+                                                                 5-69
+
+
+---
+
+             Figure 5-47. Correct Sight Picture
+Only a minor aiming error should occur since the error reflects
+only as much as the soldier fails to determine the target center.
+A greater aiming error can result if the front sight post is blurry
+due to focusing on the target or other objects.
+
+Focusing on the tip of the front sight post aids the firer in
+maintaining proper sight alignment (Figure 5-47).
+
+Sight picture. Once the soldier can correctly align his
+sights, he can obtain a sight picture. A correct sight picture
+has the target, front sight post, and rear sight aligned. The
+sight picture includes two basic elements: sight alignment
+and placement of the aiming point.
+
+Placement of the aiming point varies, depending on the
+engagement range. For example, Figure 5-48 shows a
+silhouette at 250 meters--the aiming point is the center of
+mass, and the sights are in perfect alignment; this is a
+correct sight picture.
+
+5-70
+
+
+---
+
+            Figure 5-48. Correct Sight Picture.
+A technique to obtain a good sight picture is the side
+aiming technique (Figure 5-49). It involves positioning the
+front sight post to the side of the target in line with the
+vertical center of mass, keeping the sights aligned. The
+front sight post is moved horizontally until the target is
+directly centered on the front sight post.
+
+            Figure 5-49. Side Aiming Technique
+                                                                 5-71
+
+
+---
+
+Front sight. The front sight post is vital to proper firing
+and should be replaced when damaged. Two techniques
+that can be used are the carbide lamp and the burning
+plastic spoon. The post should be blackened anytime it is
+shiny since precise focusing on the tip of the front sight
+post cannot be done otherwise.
+
+Aiming practice. Aiming practice is conducted before
+firing live rounds. During day firing, the soldier should
+practice sight alignment and placement of the aiming
+point. This can be done by using training aids such as the
+M15AI aiming card and the Riddle sighting device.
+
+Breath Control. As the firer's skills improve and as timed
+or multiple targets are presented, he must learn to hold his
+breath at any part of the breathing cycle. Two types of
+breath control techniques are practiced during dry fire.
+
+     • The first is the technique used during zeroing
+          (and when time is available to fire a shot) (Figure
+          5-50A). There is a moment of natural respiratory
+          pause while breathing when most of the air has
+          been exhaled from the lungs and before inhaling.
+          Breathing should stop after most of the air has
+          been exhaled during the normal breathing cycle.
+          The shot must be fired before the soldier feels
+          any discomfort.
+
+     • The second breath control technique is employed
+          during rapid fire (short-exposure targets)
+          (Figure5-51B). Using this technique, the soldier
+          holds his breath when he is about to squeeze the
+          trigger.
+
+5-72
+
+
+---
+
+                 Figure 5-50. Breath Control
+
+        A. BREATH CONTROL WHEN ZEROING; SINGLE TARGETS
+
+The coach/trainer ensures that the firer uses two breathing
+techniques and understands them by instructing him to
+exaggerate his breathing. Also, the firer must be aware of
+the rifle's movement (while sighted on a target) as a result
+of breathing.
+
+      B. BREATH CONTROL; FIRING AT TIMED OR MULTIPLE TARGETS
+
+Trigger Squeeze. A novice firer can learn to place the
+rifle in a steady position and to correctly aim at the target
+if he follows basic principles. If the trigger is not properly
+squeezed, the rifle is misaligned with the target at the
+moment of firing.
+
+Rifle movement. Trigger squeeze is important for two
+reasons:
+
+     • First, any sudden movement of the finger on the
+          trigger can disturb the lay of the rifle and cause
+          the shot to miss the target.
+
+     • Second, the precise instant of firing should be a
+          surprise to the soldier.
+
+The soldier's natural reflex to compensate for the noise
+and slight punch in the shoulder can cause him to miss the
+target if he knows the exact instant the rifle will fire. The
+soldier usually tenses his shoulders when expecting the
+rifle to fire, but it is difficult to detect since he does not
+realize he is flinching. When the hammer drops on a
+dummy round and does not fire, the soldier's natural
+reflexes demonstrate that he is improperly squeezing the
+trigger.
+
+                                                                 5-73
+
+
+---
+
+Trigger finger. The trigger finger (index finger on the
+firing hand) is placed on the trigger between the first joint
+and the tip of the finger (not the extreme end) and is
+adjusted depending on hand size, grip, and so on. The
+trigger finger must squeeze the trigger to the rear so that
+the hammer falls without disturbing the lay of the rifle.
+When a live round is fired, it is difficult to see what affect
+trigger pull had on the lay of the rifle. Therefore, it is
+important to experiment with many finger positions during
+dry-fire training to ensure the hammer is falling with little
+disturbance to the aiming process.
+
+As the firer's skills increase with practice, he needs less
+time spend on trigger squeeze. Novice firers can take five
+seconds to perform an adequate trigger squeeze, but, as
+skills improve, he can squeeze the trigger in a second or
+less. The proper trigger squeeze should start with slight
+pressure on the trigger during the initial aiming process.
+The firer applies more pressure after the front sight post is
+steady on the target and his is holding his breath.
+
+The coach/trainer observes the trigger squeeze,
+emphasizes the correct procedure, and checks the firer's
+applied pressure. He places his finger on the trigger and
+has the firer squeeze the trigger by applying pressure to
+the coach/trainer's finger. The coach/trainer ensures that
+the firer squeezes straight to the rear on the trigger
+avoiding a left or right twisting movement. A steady
+position reduces disturbance of the rifle during trigger
+squeeze.
+
+From an unsupported position, the firer experiences a
+greater wobble area than from a supported position.
+Wobble area is the movement of the front sight around the
+5-74
+
+
+---
+
+aiming point when the rifle is in the steadiest position. If the front
+sight strays from the target during the firing process, pressure on
+the trigger should be held constant and resumed as soon as
+sighting is corrected. The position must provide for the smallest
+possible wobble area. From a supported position, there should be
+minimal wobble area and little reason to detect movement. If
+movement of the rifle causes the front sight to leave the target,
+more practice is needed. The firer should never try to quickly
+squeeze the trigger while the sight is on the target. The best firing
+performance results when the trigger is squeezed continuously,
+and the rifle is fired without disturbing its lay.
+
+                     FIRING POSITIONS
+All firing positions are taught during basic rifle
+marksmanship training. During initial fundamental
+training, the basic firing positions are used. The other
+positions are added later in training to support tactical conditions.
+
+        Figure 5-51. Supported Fighting Position
+                                                                 5-75
+
+
+---
+
+Basic Firing Positions. Two firing positions are used
+during initial fundamental training: the individual
+supported fighting position and prone unsupported
+position. Both offer a stable platform for firing the rifle.
+They are also the positions used during basic record fire.
+
+Supported fighting position. This position provides the
+most stable platform for engaging targets (Figure 5-51).
+Upon entering the position, the soldier adds or removes
+dirt, sandbags, or other supports to adjust for his height.
+He then faces the target, executes a half-face to his firing
+side, and leans forward until his chest is against the firing-
+hand corner of the position. He places the rifle handguard
+in a V formed by the thumb and fingers of his nonfiring
+hand, and rests the nonfiring hand on the material
+(sandbags or berm) to the front of the position. The soldier
+places the stock butt in the pocket of his firing shoulder
+and rests his firing elbow on the ground outside the
+position. (When prepared positions are not available, the
+prone supported position can be substituted.)
+
+Once the supported fighting position has been mastered,
+the firer should practice various unsupported positions to
+obtain the smallest possible wobble area during final
+aiming and hammer fall. The coach/trainer can check the
+steadiness of the position by observing movement at the
+forward part of the rifle, by looking through the M16
+sighting device, or by checking to see that support is being
+used.
+
+NOTE: The objective is to establish a steady position
+under various conditions. The ultimate performance of this
+task is in a combat environment. Although the firer must
+be positioned high enough to observe all targets, he must
+5-76
+
+
+---
+
+remain as low as possible to provide added protection
+from enemy fire.
+Prone unsupported position. This firing position (Figure
+5-52) offers another stable firing platform for engaging
+targets. To assume this position, the soldier faces his
+target, spreads his feet a comfortable distance apart, and
+drops to his knees. Using the butt of the rifle as a pivot,
+the firer rolls onto his nonfiring side, placing the nonfiring
+elbow close to the side of the magazine. He places the rifle
+butt in the pocket formed by the firing shoulder, grasps the
+pistol grip with his firing hand, and lowers the firing
+elbow to the ground. The rifle rests in the V formed by the
+thumb and fingers of the nonfiring hand. The soldier
+adjusts the position of his firing elbow until his shoulders
+are about level, and pulls back firmly on the rifle with both
+hands. To complete the position, he obtains a stock weld
+and relaxes, keeping his heels close to the ground.
+
+        Figure 5-52. Prone Unsupported Position
+
+                                                                 5-77
+
+
+---
+
+                POSITION OF THE COACH
+The coach constantly checks and assists the firer in
+applying marksmanship fundamentals during firing. He
+observes the firer's position and his application of the
+steady position elements. The coach is valuable in
+checking factors the firer is unable to observe for himself
+and in preventing the firer from repeating errors.
+During an exercise, the coach should be positioned where
+he can best observe the firer when he assumes position. He
+then moves to various points around the firer (sides and
+rear) to check the correctness of the firer's position.
+The coach requires the firer to make adjustments until the
+firer obtains a correct position. When the coach is satisfied
+with the firing position, he assumes a coaching position
+alongside the firer. The coach usually assumes a position
+like that of the firer (Figure 5-53), which is on the firing
+side of the soldier.
+
+    Figure 5-53. Prone position of coach (right-handed firer).
+5-78
+
+
+---
+
+             CHECKLIST FOR THE COACH
+The procedures to determine and eliminate rifle and firer
+deficiencies follows.
+
+The coach checks to see that the--
+• Rifle is cleared and defective parts have been
+
+     replaced.
+• Ammunition is clean, and the magazine is properly
+
+     placed in the pouch.
+• Sights are blackened and set correctly for small (day)
+
+     aperture vs. large (limited visibility).
+
+The coach observes the firer to see that he-–
+• Uses the correct position and properly applies the
+
+     steady-position elements.
+• Properly loads the rifle.
+• Obtains the correct sight alignment (with the aid of an
+
+     M16 sighting device).
+• Holds his breath correctly (by watching his back at
+
+     times).
+• Applies proper trigger squeeze; determines whether
+
+     he flinches or jerks by watching his head, shoulders,
+     trigger finger, and firing hand and arm.
+• Is tense and nervous. If the firer is nervous, the coach
+     has the firer breathe deeply several times to relax.
+
+Supervisory personnel and peer coaches correct errors as
+they are detected. If many common errors are observed, it
+is appropriate to call the group together for more
+discussion and demonstration of proper procedures and to
+provide feedback.
+
+                                                                 5-79
+
+
+---
+
+                  ZERO AN M16A2 RIFLE
+                           071-311-2030
+
+                         CONDITIONS
+On a 25-meter range, given an M16A2 rifle, 18 rounds of
+5.56-mm ammunition, a 300-meter zero target, and
+sandbags for support. One of the following situations
+exists:
+
+1. You receive a rifle that you have never fired.
+
+2. Your rifle is returned after repair.
+
+3. You think something may have changed the battlesight zero.
+
+                          STANDARDS
+Battlesight zero your rifle so that five out of six rounds, in two
+consecutive shot groups, strike within the 4-centimeter circle
+on the target. Use 18 rounds or less. Bullets that break the line
+of the 4-centimeter circle are acceptable.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Determine if you must establish a mechanical zero for
+the rifle. The rifle must have the mechanical zero
+established if the rifle—
+
+     a. Is being returned to service after direct support
+(DS) or general support (GS) maintenance.
+
+     b. Has not been zeroed for you.
+
+5-80
+
+
+---
+
+     c. Has been dropped or otherwise damaged.
+2. Select the unmarked, long-range aperture (small peep
+sight) on the rear sight for zeroing (Figure 5-43).
+3. Set the sights to the mechanical zero, if required.
+
+     a. Set the front sight (consisting of a rotating post
+with a spring-loaded detent).
+
+          1) Depress the detent using a pointed object or
+a sight adjustment tool.
+
+          2) Rotate the post up or down so the notched
+disk is flush with the top of the front sight post well.
+
+     b. Set the rear sight to the center.
+          1) Align the index mark on the 0-2 aperture
+
+with the center line on the windage scale and the mark on
+the receiver.
+
+          2) Rotate the elevation knob down until the
+range scale mark "8/3" is aligned with the mark on the left
+side of the receiver.
+
+          3) Rotate the elevation knob one click
+clockwise past the "8/3" mark.
+
+                                                                 5-81
+
+
+---
+
+                    Figure 5-43. Rear sight.
+
+NOTE: The sight picture is obtained by aligning the rear
+sight and the front sight with the proper aiming point for
+your target. The sight picture depends on sight alignment
+and placement of the aiming point.
+
+4. Establish the sight picture.
+
+     a. Align the sights (Figure 5-44).
+
+     b. Center the top of the front sight post in the center
+of the rear sight (A, Figure 5-44).
+
+     c. Draw an imaginary horizontal line through the
+center of the rear aperture so that the top of the front sight
+post touches the line (B, Figure 5-44).
+5-82
+
+
+---
+
+     d. Draw an imaginary vertical line through the
+center of the rear aperture that bisects the front sight post
+(C, Figure 5-44).
+
+                  Figure 5-44. Sight pictures.
+5. Verify the sight picture.
+NOTE: When you concentrate on the front sight post, the
+rear sight aperture will be blurred.
+
+                                                                 5-83
+
+
+---
+
+               Figure 5-45. Sight adjustments.
+
+     a. Align the aiming point (Figure 5-45).
+
+     b. Position the top of the front sight post center
+mass of the scaled silhouette target.
+
+     c. Confirm that an imaginary vertical line drawn
+through the center of the front sight post splits the target.
+
+     d. Confirm that an imaginary horizontal line drawn
+through the top of the front sight post splits the target.
+
+5-84
+
+
+---
+
+6. Fire a three-round shot group at the target. Triangulate
+the shot group on the target.
+
+7. Repeat steps 5 and 6 until the shot group falls within 4
+centimeters.
+
+NOTE: The target is divided by labeled vertical and
+horizontal lines. It also has pictures of the front and rear
+sights with a direction arrow to assist you with adjusting
+the sights.
+
+8. Adjust the sights to move the shot group within the
+zero circle if required.
+
+NOTE: Do not adjust the sights if the shot group meets
+the task standard.
+
+     a. Adjust the elevation.
+
+          1) Find the horizontal line (right-to-left) nearest
+the center of the shot group.
+
+          2) Follow the line either left or right to the
+nearest edge of the target.
+
+          3) Identify the number of clicks and the
+direction of the adjustment shown at the edge of the target.
+
+          4) Adjust the front sight in the indicated
+direction and number of clicks.
+
+          5) Record the adjustment made on the target.
+
+                                                                 5-85
+
+
+---
+
+     b. Adjust the windage.
+          1) Find the vertical line (up-and-down) nearest
+
+the center of the shot group.
+          2) Follow the line either up or down to the
+
+nearest edge of the target.
+          3) Identify the number of clicks and the
+
+direction of the adjustment shown at the edge of the target.
+          4) Adjust the rear sight in the indicated
+
+direction and number of clicks.
+          5) Record the adjustment made on the target.
+
+9. Fire a three-round shot group.
+10. Repeat step 8 if the shot group is not within the 4-
+centimeter circle on the target.
+11. Repeat steps 9 and 10 until 5 out of 6 shots from
+consecutive shot groups are within the circle.
+12. Compute the battlesight zero using Table 5-46.
+
+5-86
+
+
+---
+
+COMPUTATION                 EXAMPLES
+
+                            FRONT  REAR
+
+Begin with mechanical       Flush  Centered
+   zero (or previous
+    battlesight zero
+
+ Compute    Add clicks      -(D)2  +(R)5
+    first   right or up
+
+adjustment   Subtract
+             cllicks to
+
+              left or
+               down
+
+Compute second              +(U)5  +(R)5
+   adjustment
+
+   (Include additional
+corrections if necessary)
+
+Calculate battlesight zero  U3     R4
+           (Total)
+
+         Table 5-46. Computing the battlesight zero.
+13. Label the rifle with the battlesight zero.
+
+     a. Record the battlesight zero on the tape.
+     b. Attach the tape to the rifle.
+
+                                                      5-87
+
+
+---
+
+              M249 Squad Automatic Weapon
+
+The M249 AR is a gas-operated, air-cooled, belt-and
+magazine-fed, automatic weapon that fires from the open-
+bolt position (Figure 5-53). It has a maximum rate of fire
+of 850 rounds per minute. Primarily, ammunition is fed
+into the weapon from a 200-round ammunition box
+containing a disintegrating metallic split-link belt. As an
+emergency means of feeding, the M249 AR can use a 20-
+or 30-round M16 rifle magazine, but this will increase the
+chance of stoppages. Although the M249 AR is primarily
+used as an automatic rifle, it is also used as a light
+machine gun. It can be fired from the shoulder, hip, or
+underarm position; or from the bipod-steadied position.
+When employed as a machine gun, it has a tripod with a
+T&E mechanism and a spare barrel; however, barrels must
+not be interchanged with those from other M249s unless
+the headspace has been set for that weapon by direct
+support personnel.
+
+          Figure 5-54. Squad Automatic Weapon
+
+The M249 operations are loading, firing, unloading, and
+using belted ammunition or, in an emergency, a 20- or 30-
+5-88
+
+
+---
+
+round M16 magazine. The firing operation works on gas
+pressure created as a fired round passes through the barrel.
+The M249 is loaded, fired, unloaded, and cleared from
+the open-bolt position. The safety must be in the FIRE
+position before the bolt can be pulled to the rear. Before
+using belted ammunition, it must be checked to ensure it is
+properly linked with the double link or the link tab at the
+open end of the box. It must be free of dirt and corrosion.
+When using a magazine of ammunition, it must be loaded
+into the magazine well and be free of dirt and corrosion.
+
+                CLEARING PROCEDURES
+The first step in maintenance is to clear the weapon. This
+applies in all situations, not just after firing. The automatic
+rifleman must always assume the M249 AR is loaded. To
+clear the M249, the automatic rifleman performs the
+following procedures.
+
+1. Moves the safety to the FIRE position by pushing it to
+the left until the red ring is visible.
+
+2. With his right hand, palm up, pulls the cocking handle
+to the rear, locking the bolt in place.
+
+3. While holding the resistance on the cocking handle,
+moves the safety to the SAFE position by pushing it to the
+right until the red ring is not visible. (The weapon cannot
+be placed on safe unless the bolt is locked to the rear.)
+
+4. Returns and locks the cocking handle in the forward
+position.
+
+                                                                 5-89
+
+
+---
+
+                             CAUTION
+ When opening the feed cover, make sure the weapon is
+ on the ground away from your face. With the weapon on
+ your shoulder, possible injury could occur if a round
+ goes off when the cover is raised.
+
+5. Raises the cover and feed mechanism assembly, and
+conducts the five-point safety check for brass, links, or
+ammunition.
+
+6. Checks the feed pawl assembly under the feed cover.
+
+7. Checks the feed tray assembly.
+
+8. Lifts the feed tray assembly and inspects the chamber.
+
+9. Checks the space between the bolt assembly and the chamber.
+
+10. Inserts two fingers of his left hand in the magazine
+well to extract any ammunition or brass.
+
+11. Closes the cover and feed mechanism assembly and
+moves the safety to the FIRE position. With his right hand,
+palm up, returns the cocking handle to the rear position.
+Presses the trigger and at the same time eases the bolt
+forward by manually riding the cocking handle forward.
+
+                        LOAD AN M249
+
+To load the M249 AR, make sure the weapon is cleared.
+(With the feed cover raised, make sure your face is not
+exposed to the open chamber area when loading.)
+
+5-90
+
+
+---
+
+When loading belted ammunition, always cant the weapon
+to the right. Make sure the open side of the links is facing
+down, and place the lead link tab or first round of the belt
+in the tray groove against the cartridge stop. The rounds
+should be placed flat across the feed tray. With your left
+hand, count five to six rounds down to hold ammunition in
+place on the feed tray, while at the same time close the
+feed cover with your right hand. When closing the feed
+cover, always place your hand in front of the rear sight to
+prevent accidentally changing the sight adjustment.
+NOTE: The 20- or 30-round magazine is for emergency
+use only when linked ammunition is not available.
+
+Figure 5-55. Belt-Fed.
+
+                        5-91
+
+
+---
+
+Magazine-Fed. Load the 20-or 30-round magazine by
+inserting it into the magazine well on the left side of the
+receiver. Push the magazine firmly into the well until it
+seats and the release tab clicks into the recess on the
+magazine.
+
+                      UNLOAD AN M249
+To unload the weapon, pull the bolt and lock it in the rear
+position if not already there. Place the safety on SAFE.
+Depending on whether belt-fed or magazine-fed
+ammunition is used, use the following procedures.
+
+                            CAUTION
+  Before you raise the feed cover, move the weapon
+  away from your face so that you are not exposed to the
+  open chamber.
+
+1. Belt-Fed. Raise the feed cover and remove any
+ammunition or links from the feed tray. Perform the five-
+point safety check.
+
+5-92
+
+
+---
+
+2. Magazine-Fed. Push the magazine release tab down
+and pull the magazine from the magazine well. Raise the
+feed cover and perform the five-point safety check.
+
+      CORRECT MALFUNCTIONS OF AN M249
+
+          A malfunction occurs when a mechanical failure
+causes the weapon to fire improperly. Defective
+ammunition or improper operation by the automatic
+rifleman is not considered a malfunction. If cleaning and
+or lubricating the weapon does not fix the problem, then it
+is turned in to the unit armorer.
+
+          A stoppage is any interruption in the cycle of
+functioning caused by faulty action of the weapon or
+faulty ammunition. Stoppages are classified by their
+relationship to the cycle of functioning.
+
+          Immediate action is action taken to reduce a
+stoppage without looking for the cause. Immediate action
+should be taken in the event of a misfire or a cookoff. A
+misfire is the failure of a chambered round to fire. Such
+failure can be due to an ammunition defect or faulty firing
+mechanism. A cookoff is the firing of a round by the heat
+of a hot barrel and not by the firing
+mechanism. Cookoffs can be avoided by applying
+immediate action within 10 seconds of a failure to fire.
+The automatic rifleman keeps the AR on his shoulder
+while performing immediate action procedures. If the
+M249 stops firing, the following immediate actions are
+taken. (An effective memory aid is POPP, which stands
+for Pull, Observe, Push, and Press.)
+
+                                                                 5-93
+
+
+---
+
+1. Pull and lock the cocking handle to the rear while
+observing the ejection port to see if a cartridge case, belt
+link, or round is ejected. Ensure that the bolt remains to
+the rear to prevent double feeding if a round or cartridge
+case is not ejected.
+
+2. If a cartridge case, belt link, or a round is ejected, push
+the cocking handle to its forward position, take aim on the
+target, and press the trigger. If the weapon does not fire,
+take remedial action. If a cartridge case, belt link, or round
+is not ejected, take remedial action.
+
+                            DANGER
+ If nothing is ejected and the barrel is hot (200 or more
+ rounds fired in less than 2 minutes), do not open the
+ cover. Push the safety to the right (red ring not visible),
+ which places the weapon on safe. Keep the weapon
+ pointed downrange and remain clear for 15 minutes,
+ then clear the weapon.
+
+REFERENCES
+FM 23-14
+FM 23-67
+TM 9-1005-224-10
+
+5-94
+
+
+---
+
+HAND GRENADES
+
+PERFORM SAFETY CHECKS
+    ON HAND GRENADES
+            071-325-4401
+
+                         CONDITIONS
+Given any standard issue US hand grenade with extra
+safety clips and load carrying equipment (LCE).
+
+                          STANDARDS
+Inspect the grenade for defects; identify and correct
+defects, if possible. Report and turn in grenades that have
+defects you cannot correct. Identify each grenade by type
+and correctly attach grenades to your ammunition pouch.
+
+TRAINING AND EVALUATION
+
+Training Information Outline
+
+1. Identify the grenades listed in Table 5-57, by type,
+color, markings, and usage.
+
+2. Inspect hand grenades for defects; correct defects, if possible.
+
+     a. Check the fuse to ensure it is screwed tightly on
+the body of the grenade.
+
+b. Check the safety clip to ensure:
+
+1) It is present.
+
+2. It is in the correct position.
+
+                                                         5-95
+
+
+---
+
+   TYPE       COLOR/MARKINGS                    USAGE
+                                      Disables or kills enemy.
+    M67            OD with yellow     Explodes 4 to 5 seconds
+                       marking.        after the safety lever is
+    M18
+  Colored     OD with color of smoke           released.
+   Smoke                on top.
+                                          Signals personnel.
+  M34 WP         Light green, yellow
+   Smoke      band, red marking "OLD      Signals personnel.
+              MARKING" light gray,    Produces casualties up to
+AN-M8 HC
+   Smoke        yellow band, yellow        35 meters away.
+  AN-M14                printing.
+    TH3                                  Screens, "provides
+                  Light green, black        concealment."
+ Incendiary      marking, white top.
+    ABC-                              Destroys equipment and
+                Light red with black          starts fires.
+M25A2 CS               lettering.
+Riot Control                          Controls riots or disables
+                Gray, red bands and    enemy without serious
+                       markings.
+                                                 injury.
+
+              Table 5-57. Hand grenades.
+
+3. Inspect hand grenades for defects; correct defects, if
+possible.
+
+     a. Check the fuse to ensure it is screwed tightly on
+the body of the grenade.
+
+b. Check the safety clip to ensure:
+
+      1) It is present.
+
+5-96
+
+
+---
+
+          2) It is in the correct position.
+NOTE: Perform step 2C only if necessary.
+
+     c. Replace missing safety clips.
+          1) Slide the clip onto the handle.
+          2) Attach the loop portion of the clip around the fuse.
+          3) Snap the clip end around the safety lever.
+
+     d. Check the safety pin.
+     e. Ensure the clip is in the correct position. If not in
+position, carefully push it into place while holding the
+safety lever down.
+     f. Ensure the clip is not bent. If it is bent, carefully
+bend it back in position.
+     g. Check the safety ring for cracking and reject the
+grenade with a cracked safety ring.
+     h. Check grenades for dirt, wiping dirty or grimy
+grenades with a cloth.
+     i. Turn in defective grenades.
+
+                                                                 5-97
+
+
+---
+
+                            WARNING
+ Do not attempt to modify a grenade. Do not attempt to
+ defuse a grenade. Do not attempt to remove a grenade
+ found upside down in its packing container. Do not
+ handle a dud grenade. Do not attach grenades to
+ clothing or equipment by the pull ring.
+
+4. Attach the grenade to an ammunition pouch.
+
+     a. Attach the grenade to the new style pouch.
+
+          1) Slip the grenade safety lever over the small
+strap (sewn to each side of the ammunition pouch).
+
+          2) Push the grenade down until it is firmly
+seated against the side of the pouch.
+
+          3) Ensure the pull ring is pointed downward.
+
+          4) Wrap the carrying strap around the fuse
+including both the safety lever and the pull ring.
+
+     b. Attach the grenade to the old style pouch.
+
+NOTE: A small strap is sewn to each side of the pouch.
+
+          1) Slip the safety lever over the strap and push
+the grenade down until it is firmly seated against the side
+of the pouch.
+
+          2) Ensure the pull ring is pointed downward,
+wrapping the carrying strap around the fuse, including the
+safety lever and pull ring.
+
+5. Check grenades occasionally while moving to ensure
+the fuse is tight and the strap is secure.
+
+5-98
+
+
+---
+
+               EMPLOY HAND GRENADES
+                           071-325-4407
+
+                         CONDITIONS
+Given an offensive (concussion), riot control, smoke, or
+incendiary grenade with a time-delay fuse and load-
+carrying equipment (LCE).
+
+                          STANDARDS
+Throw the hand grenade to hit the target without exposing
+yourself for more than 5 seconds.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Position your body in a comfortable and natural
+position.
+
+     A. Make sure you are in a covered position.
+
+     B. Look at the target and judge the distance to the
+target.
+
+     C. Align your body with the target as if you were
+going to throw a football or baseball.
+
+NOTE: This method is called body target alignment.
+
+2. Grip the hand grenade as follows:
+
+     A. Hold the safety lever down with your thumb.
+
+                                                                 5-99
+
+
+---
+
+     B. Keep the pull ring and safety clip (if present) free
+and facing your throwing hand.
+
+3. Arm the grenade.
+
+     A. Remove the safety clip.
+
+NOTE: Hold the safety lever down by your thumb. This
+keeps the pull ring and safety clip free and facing the non-
+throwing hand.
+
+     B. Pull the pin.
+
+4. Confirm body-target alignment.
+
+              TARGET                    EFFECTIVE
+                                      ENGAGEMENT
+Troops in the open.
+Troops with overhead cover.  Within 5 meters of center.
+
+                             Inside the enclosure.
+
+Troops dug in without overhead Inside the position.
+cover.
+
+5. Toss the grenade using an overhand movement.
+Release the grenade when it comes into your field of
+vision ensuring that you:
+
+     A. Keep your eyes on the target.
+
+     B. Follow through your throwing motion.
+
+     C. Take cover, exposing yourself to fire for no more
+than 5 seconds.
+5-100
+
+
+---
+
+6. Return to the position behind cover until the grenade is
+detonated, exposing yourself for no more than 5 seconds at
+any one time.
+
+7. Detonate the grenade within the effective bursting
+radius of the target.
+
+                      CLAYMORE MINE
+
+       EMPLOY AN M18A1 CLAYMORE MINE
+                           071-325-4425
+
+                         CONDITIONS
+You must employ the M18A1 Claymore mine against
+enemy targets. Given an M18A1 Claymore mine in a
+bandoleer, an M57 firing device, an M40 test set, and a
+firing wire with blasting cap, packed in an M7 bandoleer;
+a sandbag; and two wooden stakes.
+
+                          STANDARDS
+1. Conduct a circuit test of the firing device with the
+blasting cap secured under a sandbag.
+
+2. Install the M18A1 Claymore mine so that—
+
+   a. The front of the mine is centered on a kill zone.
+
+   b. The firing device is 16 meters to the rear or side of
+the emplaced mine and is fired from a covered position.
+
+   c. The mine, firing wire and firing device are
+camouflaged.
+
+                                                               5-101
+
+
+---
+
+   d. The installation is confirmed by conducting a final
+circuit test.
+3. Fire the mine by actuating the firing device handle with
+a firm, quick squeeze when the target is in the kill zone.
+
+             TRAINING AND EVALUATION
+                Training Information Outline
+
+1. Inventory the M18A1 Claymore mine bandoleer,
+accounting for all accessories in the bandoleer (Figure 5-58).
+
+                            WARNING
+ During testing and installation, keep the M57 firing
+ device in your possession to prevent accidental firing
+ by someone else.
+
+2. Conduct a circuit test at the firing point (Figure 5-59).
+     a. Remove the electrical wire and accessories while
+
+leaving the mine in the bandoleer.
+     b. Remove the dust cover from the connector of the
+
+M57 firing device and from the female connector of the
+M40 test set.
+
+5-102
+
+
+---
+
+Figure 5-58. Components of the M18A1 Claymore mine.
+
+Figure 5-59. Circuit test of the M57 firing device and M40 test set.
+     c. Plug the test set into the firing device.
+     d. Position the firing device bail to the FIRE
+
+position.
+     e. Actuate the handle of the firing device with a
+
+firm, quick squeeze, observing the flash of light through
+the window of the test set.
+
+                                                               5-103
+
+
+---
+
+NOTE: The flashing light indicates that the M57 firing
+device and M40 test set are functioning correctly.
+
+     f. Remove the shorting plug cover from the connector
+of the firing wire and from the end of the test set.
+
+     g. Plug the connector of the firing wire into the test
+set (Figure 5-60).
+
+Figure 5-60. Circuit test of the M18A1 Claymore mine
+                          firing system.
+                            WARNING
+
+ The blasting cap must be placed under a sandbag,
+ behind a tree or in a hole in the ground to protect the
+ person performing the circuit check in case the blasting
+ cap detonates.
+
+     h. Place the M57 firing device bail in the FIRE
+position and actuate the firing handle.
+5-104
+
+
+---
+
+NOTE: The lamp in the window of the M40 test set
+should flash.
+
+     i. Place the firing device on SAFE, remove the
+M57 firing device and M40 test set.
+
+     j. Place the shorting plug cover on the firing wire.
+3. Install the M18A1 Claymore mine.
+
+     a. Tie the shorting plug end of the firing wire to a
+fixed object, such as a stake or tree at the firing position
+(Figure 5-61).
+
+              Figure 5-61. Firing wire secured.
+     b. Place the bandoleer on your shoulder.
+     c. Unroll the firing wire to the selected installation position.
+NOTE: The firing wire is laid from the firing position to
+the mine installation site because the blasting cap end is on
+the inside of the firing wire spool.
+
+                                                               5-105
+
+
+---
+
+4. Aim the mine.
+     a. Remove the mine from the bandoleer.
+     b. Open both pairs of legs to a 45-degree angle with
+
+two legs facing to the front and two legs facing to the rear
+of the mine (Figure 5-62).
+
+        Figure 5-62. Placing and aiming the mine.
+     c. Push the legs about one-third of the way into the
+ground with the mine facing in the desired direction of
+fire. In windy areas or when the legs cannot be pressed
+into the ground, spread the legs as far as they will go
+(about 180 degrees) so that the legs are to the front and
+rear of the mine and the mine will not tip over.
+
+5-106
+
+
+---
+
+     d. Select an aiming point at ground level about
+50 meters (150 feet) in front of the mine (Figure 5-63).
+
+           Figure 5-63. Aiming knife-edge sight.
+     e. Position one eye about 6 inches to the rear of the sight.
+     f. On a knife-edge sight, align the two edges of the
+sight with the aiming point (Figure 5-64).
+
+            Figure 5-64. Aiming knife-edge sight
+                                                               5-107
+
+
+---
+
+   Figure 5-64. Aiming knife-edge sight (continued).
+     g. On a split-type peep sight, align the groove of the
+sight in line with the aiming point that is 2.5 meters (8
+feet) off the ground (Figure 5-65).
+
+         Figure 5-65. Aiming split-type peep sight.
+5-108
+
+
+---
+
+Figure 5-66. Aiming split-type peep sight (continued).
+
+5. Arm the mine.
+
+     a. Secure the firing wire about 1 meter to the rear of
+the mine so the mine will not become misaligned if the
+firing wire is disturbed.
+
+     b. Unscrew one of the shipping plug priming
+adapters from the mine.
+
+Shorting Plug     Stake
+ Dust Cover
+
+                  Firing Wire
+
+                      Shipping Plug
+                     Priming Adapter
+
+                                      Blasting Cap
+
+                                      Stake
+
+Figure 5-67. Arming the mine.
+
+                                                    5-109
+
+
+---
+
+     c. Slide the slotted end of the shipping plug priming
+adapter onto the firing wire of the blasting cap between the
+crimped connections and the blasting cap.
+
+     d. Pull the excess wire through the slotted end of the
+adapter until the top of the blasting cap is firmly seated in
+the bottom portion of the shipping plug priming adapter
+(Figure 5-67).
+
+     e. Screw the adapter, with the blasting cap, into the
+detonator well.
+
+                          WARNING
+ Ensure that the face of the mine marked "front toward
+ enemy" and the arrows on the mine point in the
+ direction of the enemy.
+
+     f. Recheck the aim of the mine.
+
+6. Camouflage the mine.
+
+     a. Bury the firing wire (if possible) from the mine
+back to the firing position.
+
+NOTE: The firing position should be in a hole or covered
+position at least 16 meters to the rear or the side of the
+emplaced mine.
+
+                           WARNING
+ The M40 test set must be used during retest of the circuit.
+
+5-110
+
+
+---
+
+7. Repeat step 2 to test the circuit after the firing wire is
+laid out and the cap is placed inside the mine to see if any
+breaks in the wire have occurred (Figure 5-68).
+
+Light On  Firing Wire
+Test Set
+
+              Figure 5-68. Retesting the circuit.
+
+NOTES: 1. To ensure that the mine will function properly after
+installation, retesting the firing circuit will check for any break in
+the wire that may have occurred during the installation.
+
+8. Friendly troops within 250 meters to the front and sides and
+100 meters to the rear of the mine must be under cover.
+
+                            WARNING
+ You must be behind cover or in a fighting position when
+ retesting the circuit on a claymore mine with the
+ blasting cap inserted in the detonation well.
+
+                                                               5-111
+
+
+---
+
+9. Fire the mine.
+     a. Remove the dust cover from the firing device and
+
+firing wire.
+     b. Connect the firing wire to the firing device.
+     c. Position the firing device safety bail in the FIRE
+
+position (Figure 5-69).
+
+    Figure 5-69. Firing device in the SAFE position.
+     d. Actuate the firing device handle with a firm,
+quick squeeze.
+     e. Assume a prone position behind cover.
+NOTE: The mine is most effective when employed
+against targets 20 to 30 meters in front of it.
+
+5-112
+
+
+---
+
+      RECOVER AN M18A1 CLAYMORE MINE
+                           071-325-4426
+
+                         CONDITIONS
+Given an installed M18A1 Claymore mine, an M57 firing
+device, an M40 test set, a firing wire spool, and an M7
+bandoleer, you must remove an installed mine.
+
+                          STANDARDS
+Recover the M18A1 Claymore mine, disarming it without
+activating the mine. Repack all components into the M7
+bandoleer.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Disarm the M18A1 Claymore mine.
+
+     a. Check the firing device safety bail to ensure it is
+on SAFE.
+
+     b. Disconnect the firing device from the wire.
+
+     c. Replace the shorting plug dust cover on the firing
+wire connector.
+
+     d. Replace the dust cover on the firing device
+connector.
+
+     e. Keep possession of the M57 firing device.
+
+                                                               5-113
+
+
+---
+
+                            WARNING
+ During disarming and recovery of the M18A1
+ claymore mine, keep the M57 firing device in your
+ possession.
+
+     f. Untie the firing wire from the stake at the firing site.
+
+     g. Move to the M18A1 Claymore mine.
+
+     h. Remove the shipping plug priming adapter by
+unscrewing it from the blasting cap.
+
+     i. Separate the shipping plug priming adapter and
+the blasting cap.
+
+     j. Reverse the shipping plug.
+
+     k. Screw the shipping plug end of the adapter into
+the detonator well.
+
+     l. Remove the firing wire from the stake at the mine site.
+
+     m. Place the blasting cap into the end of the wire
+connector.
+
+     n. Roll the wire on the wire container.
+
+2. Remove the M18A1 Claymore mine.
+
+     a. Lift the M18A1 Claymore mine from its
+emplacement.
+
+     b. Secure the folding legs.
+5-114
+
+
+---
+
+     c. Repack the mine and all the accessories into the
+M7 bandoleer.
+
+               M203 GRENADE LAUNCHER
+Table 5-70 lists characteristics of the M203 grenade launcher.
+
+Length of rifle with launcher   39 inches
+
+Weight                           3.5 pounds
+  Launcher loaded               11 pounds
+  Rifle and launcher loaded
+
+Ammunition                      40-mm
+  Caliber                        8 ounces
+  Weight
+                                (approximate)
+Maximum Range                   400 meters
+
+Maximum Effective Range         350 meters
+  Area target                   150 meters
+  Point target
+                                165 meters
+Minimum Safe Firing Range (HE)   31 meters
+  Training
+  Combat                        5 to 7 rounds
+                                per minute
+Rate of Fire
+
+Minimum Combat Load             36 HE rounds
+
+Table 5-70. Characteristics of the M203 grenade
+                 launcher (continued).
+
+                                                           5-115
+
+
+---
+
+       LOAD AN M203 GRENADE LAUNCHER
+                           071-311-2127
+                         CONDITIONS
+
+Given an M203 grenade launcher and ammunition.
+                          STANDARDS
+
+Load the M203 using correct procedures while observing
+all safety precautions.
+
+             TRAINING AND EVALUATION
+                Training Information Outline
+
+1. Load the M203 (Figure 5-71).
+   a. Press the barrel latch and slide the barrel forward (A,
+
+Figure 5-71).
+
+                  A Barrel Latch
+
+               Figure 5-71. Loading the M203.
+   b. Place the weapon on SAFE until ready to fire (B,
+Figure 5-71).
+5-116
+
+
+---
+
+                         B SAFE
+
+       Figure 5-71. Loading the M203 (continued).
+
+                            WARNING
+      Keep the muzzle pointed downrange and clear of all
+
+                               troops.
+
+2. Insert the ammunition into the chamber (C, Figure 5-71).
+3. Slide the barrel rearward until it locks (D, Figure 5-71).
+
+C  CLICK
+
+          D
+
+   Figure 5-71. Loading the M203 (continued).
+
+          5-117
+
+
+---
+
+        UNLOAD AN M203 GRENADE LAUNCHER
+                           071-311-2128
+
+                         CONDITIONS
+Given a loaded M203 grenade launcher.
+
+                          STANDARDS
+Unload the M203 using the correct procedures while
+observing all safety precautions.
+
+              TRAINING AND EVALUATION
+
+                Training Information Outline
+
+                            CAUTION
+ If the weapon was not fired, use extreme caution during
+ unloading procedures. Where circumstances permit,
+ either catch the ejected round or reduce the distance it
+ falls by holding the weapon close to the ground.
+
+1. Depress the barrel latch and move the barrel forward.
+The casing or the round should automatically eject.
+
+2 Place the weapon on SAFE.
+
+NOTE: If the casing is stuck, remove it by tapping it with
+a cleaning rod.
+
+3. Slide the barrel rearward, locking it to the breech.
+
+5-118
+
+
+---
+
+      M136 AT4 LIGHT ANTIARMOR WEAPON
+The M136 AT4 is a lightweight, self-contained, antiarmor
+weapon. It consists of a free-flight, fin-stabilized, rocket-
+type cartridge packed in an expendable, one-piece,
+fiberglass-wrapped tube (Figure 5-72). The M136 AT4 is
+man-portable and is fired from the right shoulder only.
+The launcher is watertight for ease of transportation and
+storage. Though the M136 AT4 can be employed in
+limited visibility, the firer must be able to see and identify
+the target and estimate the range to it. Unlike the M72-
+series LAW, the M136 AT4 launcher need not be
+extended before firing.
+
+  Table 5-72. Components of the M136 AT4 weapon.
+
+                                                               5-119
+
+
+---
+
+The following data apply to the M136 AT4:
+
+     a. Launcher.
+          Length ..................... 1,020 mm (40 inches)
+          Weight (Complete System) . 6.7 kg (14.8 pounds)
+          Rear Sight................. Range indicator, graduated
+                                    in 50-meter increments
+
+     b. Rocket.
+          Caliber ................... 84 mm
+          Muzzle Velocity............ 290 mps (950 fps)
+          Length .................... 460 mm (18 inches)
+          Weight..................... 1.8 kg (4 pounds)
+          Minimum Range Training ... 30 meters (100 feet)
+          Combat ................. 10 meters (33 feet)
+          Arming.................. 10 meters (33 feet)
+          Maximum Range.......... 2,100 meters (6,890 feet)
+          Maximum Effective Range ... 300 meters (985
+          feet)
+
+The M136 AT4 is a round of ammunition with an
+integral, rocket-type cartridge. The cartridge
+consists of a fin assembly with tracer element; a
+point-initiating, base-detonating, piezoelectric fuze;
+a warhead body with liner; and a precision-shaped
+explosive charge (Figure 5-72).
+
+a. Description. The M136 AT4's warhead has
+excellent penetration ability and lethal after-armor
+effects. The extremely destructive, 440 gram
+shaped-charge explosive penetrates more than 14
+inches (35.6 cm) of armor.
+
+5-120
+
+
+---
+
+          (1) Impact. The nose cone crushes; the
+impact sensor activates the fuze.
+
+          (2) Ignition. The piezoelectric fuze element
+activates the electric detonator. The booster
+detonates, initiating the main charge.
+
+          (3) Penetration. The main charge fires and
+forces the warhead body liner into a directional gas
+jet that penetrates armor plate.
+
+          (4) After-armor effects (spalling). The
+projectile fragments and incendiary effects produce
+blinding light and destroy the interior of the target.
+
+b. Color-Coding. M136 AT4 launchers are marked
+with color-coded bands. A black with yellow band
+indicates an HE antiarmor round (early models had
+a solid black band). A gold or yellow band indicates
+a field handling trainer; no band indicates an M287
+9-mm tracer bullet trainer.
+
+   PREPARE AN M136 LAUNCHER FOR FIRING
+                           071-054-0001
+
+                         CONDITIONS
+Given an M136 launcher (AT4) and a requirement to
+prepare it for firing.
+
+                          STANDARDS
+Prefire checks are performed and the M136 is prepared for
+firing.
+
+                                                               5-121
+
+
+---
+
+             TRAINING AND EVALUATION
+                Training Information Outline
+
+1. Perform the prefire checks. Because the M136 launcher
+is issued as a round of ammunition rather than as a
+weapon, the launcher is completely sealed. Therefore,
+inspection is limited to visual examination of the external
+components. The overall condition of the launcher should
+be inspected before it is used (Figure 5-73). The firer
+should ensure:
+
+       Figure 5-73. Inspecting the M136 launcher.
+   a. The transport safety pin is in place and fully seated,
+and the lanyard is attached (Figure 5-73).
+   b. The cocking lever is in the SAFE position and is
+folded down.
+
+5-122
+
+
+---
+
+   c. The fire-through muzzle cover is intact. If the seal is
+torn, it should be removed to ensure that no foreign
+objects have gotten into the launcher.
+
+   d. The launcher's color-coded band is the correct color:
+black for high-explosive antitank; gold for target-practice
+tracers; and blue for field-handling trainers.
+
+   e. The sights function properly. Open the sight covers
+to ensure the sights pop up and are not damaged.
+
+   f. The red safety catch does not move when depressed.
+
+   g. The rear seal is not damaged.
+
+   h. The shoulder stop is not broken or damaged and it
+unsnaps and folds down.
+
+   i. The carrying sling is not frayed and is attached to the
+launcher.
+
+   j. The launcher body has no cracks, dents, or bulges.
+
+2. Prepare the launcher for firing. Preparation procedures are:
+
+                            WARNING
+ Be sure personnel are wearing earplugs. Keep the
+ weapon pointed toward the target. Keep the backblast
+ area clear.
+
+   a. Remove the launcher from the carrying position and
+cradle it with the left arm (Figure 5-74).
+
+                                                               5-123
+
+
+---
+
+           Figure 5-74. Using the cradle position.
+  b. While cradling the launcher, pull the transport safety
+pin with the right hand and release it (Figure 5-75).
+NOTE: Ensure the transport safety pin is attached to the
+launcher by its lanyard. If there is no lanyard, place the
+transport safety pin in your pocket. If the launcher is not
+fired, the transport safety pin must be reinserted.
+
+5-124
+
+
+---
+
+ Figure 5-75. Removing the transport safety pin.
+c. Unsnap and unfold the shoulder stop (Figure 5-76).
+
+    Figure 5-76. Unsnapping the shoulder stop.
+                                                           5-125
+
+
+---
+
+   d. With the shoulder stop in position, place the launcher
+on the right shoulder.
+
+   e. With the launcher on the right shoulder and
+supported with the right hand, release the front sight by
+pressing down on the sight cover and sliding it to the rear.
+Release the rear sight by pressing down on the cover and
+sliding it forward. Each sight will pop up when the covers
+are slid off.
+
+   f. Cock the launcher by unfolding the cocking lever
+with the right hand. Place the thumb of the right hand
+under the cocking lever. Grip the front of the firing
+mechanism for support. Push the cocking lever forward
+and down to the right. Let the cocking lever slide back
+(Figure 5-77).
+
+       Figure 5-77. Cocking the launcher.
+
+5-126
+
+
+---
+
+                            CAUTION
+ Do not refold the cocking lever. This will interfere with
+ the function of the firing mechanism.
+
+   g. Adjust the rear sight for the required range.
+      (1) When closing the sight cover, the sight must be
+
+set on a range of 200 meters. Therefore, when the rear
+sight is uncovered, the battlesight setting is 200 meters. If
+the range to the target is more than 250 meters, adjust the
+sight to the range. When the range is 250 meters or less,
+no sight adjustment is required (Figure 5-78).
+
+  Figure 5-78. Adjusting the rear sight range setting.
+      (2) To adjust the rear sight range setting to more than
+
+200 meters, turn the range knob clockwise (toward the
+muzzle). To decrease the range, turn the range knob
+counterclockwise (toward the gunner). There is a click at
+each 50-meter increment; this sound aids the gunner
+during limited visibility (Figure 5-78).
+
+                                                               5-127
+
+
+---
+
+   h. Check the backblast area before you cock the
+launcher. Then, with your right hand, unfold the cocking
+lever. Place your thumb under it and, with the support of
+your fingers in front of the firing mechanism, push it
+forward, rotate it downward and to the right, and let it
+slide backward.
+
+   i. Pull back on the sling with your left hand to seat the
+shoulder stop firmly against your shoulder. To avoid a
+misfire, use the index and middle fingers on your right hand
+to hold the forward safety down and to the left while you fire.
+
+          PERFORM MISFIRE PROCEDURES
+                 ON AN M136 LAUNCHER
+                           071-054-0003
+
+                         CONDITIONS
+Given an armed M136 launcher (AT4) that has misfired.
+
+                          STANDARDS
+Misfire procedures are applied so that the AT4 is fired, or
+safety mechanisms are put in place and the supervisor is
+informed of a misfire.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Perform misfire procedures.
+
+   a. When the launcher fails to fire, immediately shout
+MISFIRE.
+
+5-128
+
+
+---
+
+   b. Continue to hold the launcher pointed in the area of
+the target.
+
+   c. Release the red safety catch.
+
+   d. Immediately recock the cocking lever, check the
+backblast area, aim, fully depress and hold down the red
+safety catch, and press the red trigger button.
+
+NOTE: If the launcher still fails to fire, repeat steps a
+through d above.
+
+   e. If the launcher again fails to fire, release the red
+safety catch and return the cocking lever to the SAFE
+uncocked position.
+
+   f. Remove the launcher from the shoulder while
+keeping the muzzle pointed toward the target area.
+
+   g. While cradling the launcher with the left arm,
+reinsert the transport safety pin.
+
+NOTE: In a training situation only, after inserting the
+transport safety pin, wait two minutes. Keep the launcher
+toward the target area.
+
+   h. Carefully lay the launcher on the ground, muzzle
+pointed toward the target area.
+
+2. Immediately use another launcher to engage the target.
+
+                                                               5-129
+
+
+---
+
+            RESTORE AN M136 LAUNCHER
+           TO CARRYING CONFIGURATION
+
+                           071-054-0002
+
+                         CONDITIONS
+Given an M136 launcher (AT4) prepared for firing and the
+requirement to restore the launcher to carrying
+configuration.
+
+                          STANDARDS
+The launcher is prepared in such a manner that it is not
+damaged and is in a safe carrying configuration.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. When the launcher is prepared for immediate firing but
+is not fired, it is taken out of operation as follows:
+
+   a. If the gunner is to remain in the same position—
+
+      (1) He releases the red safety catch (this step applies
+only if the firing sequence has proceeded to this point).
+
+      (2) He returns the cocking lever to the SAFE
+(uncocked) position by pushing it up and to the left, then
+pulling it rearward. He folds the cocking lever down.
+
+      (3) Keeping the launcher pointed at the target area,
+he removes the launcher from his shoulder.
+
+5-130
+
+
+---
+
+      (4) With the launcher cradled by his left arm, he
+replaces the transport safety pin.
+
+   b. If the gunner is to move to another position, in
+addition to the steps shown above, he must—
+
+      (1) Return the rear sight to the battlesight setting of
+200 meters, fold down the front and rear sights, and close
+the sight covers.
+
+                            CAUTION
+ The rear sight may be damaged if it is not returned to a
+ battlesight setting of 200 meters before closing the sight cover.
+
+      (2) Fold the shoulder stop and snap it back into
+position.
+
+2. The launcher is now in the carrying configuration and is
+safe and ready to transport.
+
+                          SECTION IV
+                    INDIVIDUAL SKILLS
+
+ COVER, CONCEALMENT, AND CAMOUFLAGE
+
+                            GENERAL
+If the enemy can see you, he can hit you with his fire. So
+you must be concealed from enemy observation and have
+cover from enemy fire. When the terrain does not provide
+natural cover and concealment, you must prepare your
+cover and use natural and man-made materials to
+camouflage yourself, your equipment, and your position.
+
+                                                               5-131
+
+
+---
+
+This chapter provides guidance on the preparation and use
+of cover, concealment, and camouflage.
+
+                              COVER
+Cover gives protection from bullets, fragments of
+exploding rounds, flame, nuclear effects, and biological
+and chemical agents. Cover can also conceal you from
+enemy observation. Cover can be natural or man-made.
+Natural cover includes such things as logs, trees, stumps,
+ravines, and hollows. Manmade cover includes such things
+as fighting positions, trenches, walls, rubble, and craters.
+
+       Figure 5-79
+
+5-132
+
+
+---
+
+Even the smallest depression or fold in the ground can
+give some cover. Look for and use every bit of cover the
+terrain offers. In combat, you need protection from enemy
+direct and indirect fire. To get this protection in the
+defense, build a fighting position (man-made cover) to add
+to the natural cover afforded by the terrain.
+
+                            Figure 5-80
+To get protection from enemy fire in the offense or when moving, use
+routes that put cover between you and the places where the enemy is
+known or thought to be. Use ravines, gullies, hills, wooded areas,
+walls, and other cover to keep the enemy from seeing and firing at you.
+Avoid open areas, and do not skyline yourself on hilltops and ridges.
+
+                                                               5-133
+
+
+---
+
+                       CONCEALMENT
+
+Concealment is anything that hides you from enemy
+observation. Concealment does not protect you from
+enemy fire. Do not think that you are protected from the
+enemy's fire just because you are concealed. Concealment,
+like cover, can also be natural or man-made.
+Natural concealment includes such things as bushes, grass,
+trees, and shadows. If possible, natural concealment
+should not be disturbed. Man-made concealment includes
+such things as battle-dress uniforms, camouflage nets, face
+paint, and natural material that has been moved from its
+original location. Man-made concealment must blend into
+the natural concealment provided by the terrain.
+
+Light discipline, noise discipline, movement discipline,
+and the use of camouflage contribute to concealment.
+Light discipline is controlling the use of lights at night by
+such things as not smoking in the open, not walking
+around with a flashlight on, and not using vehicle
+headlights. Noise discipline is taking action to deflect
+sounds generated by your unit (such as operating
+equipment) away from the enemy and, when possible,
+using methods to communicate that do not generate
+sounds (arm-and-hand signals). Movement discipline is
+such things as not moving about fighting positions unless
+necessary, and not moving on routes that lack cover and
+concealment. In the defense, build a well-camouflaged
+fighting position and avoid moving about. In the offense,
+conceal yourself and your equipment with camouflage and
+move in woods or on terrain that gives concealment.
+Darkness cannot hide you from enemy observation in
+either offense or defense. The enemy's night vision
+
+5-134
+
+
+---
+
+devices and other detection means let them find you in
+both daylight and darkness.
+
+                        CAMOUFLAGE
+
+Camouflage is anything you use to keep yourself, your
+equipment, and your position from looking like what they
+are. Both natural and man-made material can be used for
+camouflage. Change and improve your camouflage often.
+The time between changes and improvements depends on
+the weather and on the material used. Natural camouflage
+will often die, fade, or otherwise lose its effectiveness.
+Likewise, man-made camouflage may wear off or fade.
+When those things happen, you and your equipment or
+position may not blend with the surroundings. That may
+make it easy for the enemy to spot you.
+
+          CAMOUFLAGE CONSIDERATIONS
+
+Movement draws attention. When you give arm-and-hand
+signals or walk about your position, your movement can
+be seen by the naked eye at long ranges. In the defense,
+stay low and move only when necessary. In the offense,
+move only on covered and concealed routes.
+
+Positions must not be where the enemy expects to find
+them. Build positions on the side of a hill, away from road
+junctions or lone buildings, and in covered and concealed
+places. Avoid open areas.
+
+Outlines and shadows may reveal your position or
+equipment to air or ground observers. Outlines and
+
+                                                               5-135
+
+
+---
+
+shadows can be broken up with camouflage. When
+moving, stay in the shadows when possible.
+
+Shine may also attract the enemy's attention. In the dark, it
+may be a light such as a burning cigarette or flashlight. In
+daylight, it can be reflected light from polished surfaces
+such as shiny mess gear, a worn helmet, a windshield, a
+watch crystal and band, or exposed skin. A light, or its
+reflection, from a position may help the enemy detect the
+position. To reduce shine, cover your skin with clothing
+and face paint. However, in a nuclear attack, darkly
+painted skin can absorb more thermal energy and may
+burn more readily than bare skin. Also, dull the surfaces of
+equipment and vehicles with paint, mud, or some type of
+camouflage material.
+
+Shape is outline or form. The shape of a helmet is easily
+recognized. A human body is also easily recognized. Use
+camouflage and concealment to breakup shapes and blend
+them with their surroundings. Be careful not to overdo it.
+
+The colors of your skin, uniform, and equipment may help
+the enemy detect you if the colors contrast with the
+background. For example, a green uniform will contrast
+with snow-covered terrain. Camouflage yourself and your
+equipment to blend with the surroundings.
+
+Dispersion is the spreading of men, vehicles, and
+equipment over a wide area. It is usually easier for the
+enemy to detect soldiers when they are bunched. So,
+spread out. The distance between you and your fellow
+soldier will vary with the terrain, degree of visibility, and
+
+5-136
+
+
+---
+
+enemy situation. Distances will normally be set by unit
+leaders or by a unit's standing operating procedure (SOP).
+
+                            Figure 5-81
+                 HOW TO CAMOUFLAGE
+Before camouflaging, study the terrain and vegetation of
+the area in which you are operating. Then pick and use the
+camouflage material that best blends with that area. When
+moving from one area to another, change camouflage as
+needed to blend with the surroundings. Take grass, leaves,
+brush, and other material from your location and apply it
+to your uniform and equipment and put face paint on your
+
+                                                               5-137
+
+
+---
+
+Before camouflaging, study the terrain and vegetation of
+the area in which you are operating. Then pick and use the
+camouflage material that best blends with that area. When
+moving from one area to another, change camouflage as
+needed to blend with the surroundings. Take grass, leaves,
+brush, and other material from your location and apply it
+to your uniform and equipment and put face paint on your
+skin.
+
+                            Figure 5-82
+Fighting Positions. When building a fighting position,
+camouflage it and the dirt taken from it. Camouflage the
+dirt used as frontal, flank, rear, and overhead cover. Also
+camouflage the bottom of the hole to prevent detection
+5-138
+
+
+---
+
+from the air. If necessary, take excess dirt away from the
+position (to the rear). Do not over camouflage. Too much
+camouflage material may actually disclose a position. Get
+your camouflage material from a wide area. An area
+stripped of all or most of its vegetation may draw
+attention. Do not wait until the position is complete to
+camouflage it. Camouflage the position as you build.
+
+                            Figure 5-83
+Do not leave shiny or light-colored objects lying about.
+Hide mess kits, mirrors, food containers, and white
+underwear and towels. Do not remove your shirt in the
+open. Your skin may shine and be seen. Never use fires
+where there is a chance that the flame will be seen or the
+smoke will be smelled by the enemy. Also, cover up tracks
+and other signs of movement. When camouflage is
+complete, inspect the position from the enemy's side. This
+should be done from about 35 meters forward of the
+position. Then check the camouflage periodically to see
+that it stays natural-looking and conceals the position.
+
+                                                               5-139
+
+
+---
+
+When the camouflage becomes ineffective, change and
+improve it.
+
+Helmets. Camouflage your helmet with the issue helmet
+cover or make a cover of cloth or burlap that is colored to
+blend with the terrain. The cover should fit loosely with
+the flaps folded under the helmet or left hanging. The
+hanging flaps may break up the helmet outline. Leaves,
+grass, or sticks can also be attached to the cover. Use
+camouflage bands, strings, burlap strips, or rubber bands
+to hold those in place. If there is no material for a helmet
+cover, disguise and dull helmet surface with irregular
+patterns of paint or mud.
+
+Uniforms. Most uniforms come already camouflaged.
+However, it may be necessary to add more camouflage to
+make the uniform blend better with the surroundings. To
+do this, put mud on the uniform or attach leaves, grass, or
+small branches to it. Too much camouflage, however, may
+draw attention. When operating on snow-covered ground,
+wear overwhites (if issued) to help blend with the snow. If
+overwhites are not issued, use white cloth, such as white
+bedsheets, to get the same effect.
+
+Skin. Exposed skin reflects light and may draw the
+enemy's attention. Even very dark skin, because of its
+natural oil, will reflect light. Use the following methods
+when applying camouflage face paint to camouflage the
+skin.
+
+5-140
+
+
+---
+
+                       Figure 5-84
+
+                            Figure 5-85
+When applying camouflage stick to your skin, work with a
+buddy (in pairs) and help each other. Apply a two-color
+combination of camouflage stick in an irregular pattern. Paint
+shiny areas (forehead, cheekbones, nose, ears, and chin) with
+a dark color. Paint shadow areas (around the eyes, under the
+nose, and under the chin) with a light color. In addition to the
+face, paint the exposed skin on the back of the neck, arms,
+and hands. Palms of hands are not normally camouflaged if
+arm-and-hand signals are to be used. Remove all jewelry to
+further reduce shine or reflection. When camouflage sticks
+
+                                                               5-141
+
+
+---
+
+are not issued, use burnt cork, bark, charcoal, lamp black, or
+light-colored mud.
+
+       OPERATE AS A MEMBER OF A SQUAD
+
+This section discusses formations, movement techniques,
+and actions during movement for infantry squads.
+
+                FIRE TEAM FORMATIONS
+
+Formations are arrangements of elements and soldiers in
+relation to each other. Squads use formations for control,
+flexibility and security. Leaders choose formations based
+on their analysis of the factors of METT-T. Figure 5-86,
+compares formations. Leaders are up front in formations.
+This allows the fire team leader to lead by example,
+"Follow me and do as I do." All soldiers in the team must
+be able to see their leader.
+
+       Figure 5-86
+
+5-142
+
+
+---
+
+Wedge. The wedge is the basic formation for the fire
+team. The interval between soldiers in the wedge
+formation is normally 10 meters. The wedge expands and
+contracts depending on the terrain. When rough terrain,
+poor visibility, or other factors make control of the wedge
+difficult, fire teams modify the wedge. The normal
+interval is reduced so that all team members can still see
+their team leader and the team leaders can still their squad
+leader. The sides of the wedge can contract to the point
+where the wedge resembles a single file. When moving in
+less rugged terrain, where control is easier, soldiers
+expand or resume their original positions. (Figure 5-87).
+
+TEAM LEADER               TEAM LEADER
+
+AUTOMATIC  GRENADIER  AUTOMATIC     GRENADIER
+ RIFLEMAN              RIFLEMAN
+
+           RIFLEMAN       RIFLEMAN
+
+             Figure 5-87
+
+                                       5-143
+
+
+---
+
+File. When the terrain precludes use of the wedge, fire
+teams use the file formation (Figure 5-88).
+
+                                                               TEAM LEADER
+
+                                                                AUTOMATIC RIFLEMAN
+
+                                                               GRENADIER
+
+                                                               RIFLEMAN
+
+                            Figure 5-88
+                   SQUAD FORMATIONS
+Rifle Squad. The most common rifle squad has nine
+soldiers (Figure 5-89). It fights as two fire teams. The
+squad has one squad leader, two fire team leaders, two
+automatic riflemen, two riflemen, and two grenadiers
+Squad formations describe the relationships between fire
+teams in the squad. They include the squad column and squad
+line. A comparison of the formations is in Figure 5-90.
+5-144
+
+
+---
+
+Figure 5-89. Rifle Squad.
+
+Figure 5-90
+
+                           5-145
+
+
+---
+
+                            Figure 5-91
+
+Squad Column. The squad column is the squad's most common
+formation. It provides good dispersion laterally and in depth
+without sacrificing control, and facilitates maneuver. The lead
+fire team is the base fire team. When the squad moves
+independently or as the rear element of the platoon, the rifleman
+in the (rail fire team provides rear security (Figure 5-91).
+
+       Figure 5-92
+
+5-146
+
+
+---
+
+Squad Line. The squad line provides maximum firepower
+to the front (Figure 5-92). When a squad is acting as the
+base squad, the fire team on the right is the base fire team.
+
+Squad File. When not traveling in a column or line,
+squads travel in file. The squad file has the same
+characteristics as the fire team file. If the squad leader
+desires to increase his control over the formation, exert
+greater morale presence by leading from the front, and be
+immediately available to make key decisions, he will
+move forward to the first or second position. Additional
+control over the rear of the formation can be provided by
+moving a team leader to the last position. (Figure 5-93)
+
+Figure 5-93
+
+             5-147
+
+
+---
+
+               MOVEMENT TECHNIQUES
+
+                            Figure 5-94
+
+A movement technique is the manner a squad uses to
+traverse terrain. There are three movement techniques:
+traveling, traveling overwatch, and bounding overwatch.
+The selection of a movement technique is based on the
+likelihood of enemy contact and the need for speed.
+Factors to consider for each technique are control,
+dispersion, speed, and security (Figure 5-94).
+
+Movement techniques are not fixed formations. They refer to
+the distances between soldiers and teams that vary based on
+mission, enemy, terrain, visibility, and any other factor that
+affects control. Soldiers must be able to see their fire team
+leader. The squad leader must be able to see his fire team
+leaders. Leaders control movement with arm-and-hand
+signals. They use radios only when needed. Any of the three
+movement techniques (traveling, traveling overwatch,
+bounding overwatch) can be used with any formation.
+
+Techniques of Squad Movement. The platoon leader
+determines and directs which movement technique the
+squad will use.
+5-148
+
+
+---
+
+                            Figure 5-95
+
+Traveling. Traveling is used when contact with the enemy
+is not likely and speed is needed (Figure 5-95).
+
+Traveling overwatch. Traveling overwatch is used when
+contact is possible (Figure 5-96). Attached weapons move
+near the squad leader and under his control so he can
+employ them quickly.
+
+Bounding overwatch. Bounding overwatch is used when
+contact is expected, when the squad leader feels the enemy
+is near (movement, noise, reflection, trash, fresh tracks, or
+even a hunch), or when a large open danger area must be
+crossed. The lead fire team overwatches first. Soldiers
+scan for enemy positions. The squad leader usually stays
+with the overwatch team. (Figure 5-97).
+
+The trail fire team bounds and signals the squad leader
+when his team completes its bound and is prepared to
+overwatch the movement of the other team. Both team
+leaders must know if successive or alternate bounds will
+be used and which team the squad leader will be with.
+
+                                                               5-149
+
+
+---
+
+                            Figure 5-96
+
+The overwatching team leader must know the route and
+destination of the bounding team. The bounding team
+leader must know his team's destination and route,
+possible enemy locations, and actions to take when he
+arrives there. He must also know where the overwatching
+team will be, and how he will receive his instructions. The
+cover and concealment on the bounding team's route
+dictates how its soldiers move.
+
+Teams can bound successively or alternately. Successive
+bounds are easier to control; alternate bounds can be
+faster. (Figure 5-97)
+
+5-150
+
+
+---
+
+                            Figure 5-97
+
+Tactical marches. Troop movement is the transporting of
+troops from one place to another by any available means.
+This is inherent in all military operations. A successful
+move places troops and equipment at their destination at
+the proper time ready for combat. Troop movement is
+conducted by foot or motor marches, by rail, by air, or by
+water, or by various combinations of these methods.
+
+Foot marches. Many examples of successful marches
+exist throughout the history of warfare. A good example of
+a successful march occurred during World War II. It was
+the grueling foot march during the Sicilian campaign from
+20 to 21 July 1943. The 3d Battalion, 30th Infantry
+Regiment, 3d Infantry Division performed this march. The
+battalion was directed to move on foot across mountains
+from Aragona to San Stefano to enter into a coordinated
+attack on enemy forces in San Stefano. The battalion made
+
+                                                               5-151
+
+
+---
+
+this record-breaking, 54-mile, cross-country march in only
+33 hours due to continuous marching. Two hours after
+arrival, the battalion was committed in the attack on San
+Stefano, which resulted in its capture.
+
+A second example was the movement of large elements of
+the 3d US Army during the battle of Ardennes in 1944 to
+stop the enemy counteroffensive. On 16 December 1944,
+while the 3d US Army was preparing to attack the
+Siegfried line in Germany, the Battle of the Bulge
+commenced. By 19 December, the German attack had
+reached such large proportions that the 3d US Army was
+directed to cease its attack to the east and to turn north.
+The 3d US Army shifted its troops from the Saarlautern-
+Saarbrucken area to the Luxemburg-Belgium area, a
+distance of 100-road miles. The III Corps launched the
+new attack at 0600 on 22 December 1944.
+
+      Considerations for Conducting a Foot March
+
+March Discipline - March discipline includes observing
+and enforcing the rules and instructions that govern a unit
+on a march, which include formation, distances between
+elements, speed, and the effective use of concealment and
+cover. It must also include specific controls and
+restrictions such as water, light, noise, and disciplines.
+March discipline is the culmination of effective training,
+which results in enthusiastic teamwork among all soldiers
+of the unit.
+
+1. Water Discipline - Water discipline must be observed
+by all unit members to ensure best health and marching
+efficiency. The following rules must be adhered to:
+
+5-152
+
+
+---
+
+     a Drink plenty of water before each march to aid
+sustainment during movement.
+
+     b Drink only treated water from approved sources.
+
+     c Drink water often. Water should be consumed
+     before, during, and after the march.
+
+     d Drink small quantities of water rather than
+     gulping or rapid intake.
+
+     e Drink water even when not thirsty.
+
+     f Drink water slowly to prevent cramps or nausea.
+
+     g Avoid spilling water.
+
+     h Refill canteens at every opportunity.
+
+     1.) The human body does not operate efficiently
+without adequate liquid intake. When soldiers are engaged
+in strenuous activities, excessive amounts of water and
+electrolytes are lost through perspiration. More water is
+lost through normal body functions such as respiration and
+urination, which can create a liquid imbalance in the body.
+As a result, dehydration could occur unless this loss is
+immediately replaced and soldiers rest before continuing
+their activities. Deficient liquid and salt intake during hot
+weather can also result in heat injuries.
+
+     2.) The danger of dehydration is as prevalent in cold
+regions as it is in hot, dry areas. The difference is that in
+hot weather the soldier is aware that his body loses liquids
+and salt through perspiration. In cold weather, when a
+
+                                                               5-153
+
+
+---
+
+soldier is bundled up in many layers of clothing, he has
+difficulty knowing this condition exists since perspiration
+is rapidly absorbed by heavy clothing or evaporated by the
+air--it is rarely visible on the skin.
+
+     3.) Salt in food compensates for the daily salt
+requirement. Additional intake of salt should be under the
+direction and supervision of a physician or physician's
+assistant.
+
+     4.) If pure water is not available, water in canteens
+can be treated by adding water purification tablets. (See
+FM 21-10 for methods of purifying water.)
+
+     5.) If the unit is forced to traverse a contaminated
+area (NBC) due to the tactical situation, water
+consumption increases and forced hydration becomes
+necessary. Leaders at all levels must try to prevent heat
+injuries brought on by physical activity in an NBC
+environment.
+
+2. Foot Care - Foot hygiene and sanitation are extremely
+important since feet are enclosed in heavy rigid footwear
+during most working hours and are constantly in action.
+Foot care involves good hygiene measures such as bathing
+frequently, using foot powder, wearing properly fitted
+footwear to allow for ventilation, and correctly trimming
+toenails.
+
+ a. Foot Hygiene - The care of minor foot ailments
+     should be given the utmost attention. Many major
+     conditions requiring hospitalization and disability
+     have resulted from neglected or maltreated minor
+     conditions.
+
+5-154
+
+
+---
+
+ b. Conditioning - Conditioning is accomplished by
+     progressively increasing the distance to be marched
+     from day to day. Marching is a good way to
+     strengthen the feet and legs; running alone will not
+     suffice. The arch, ankle, and calf can be conditioned
+     by performing simple exercises--for example, rising
+     high on the toes or placing the feet on towels and
+     using the toes to roll the towel back under the arch.
+
+ c. Preventive Measures - Certain preventive measures
+     can be implemented to avoid painful foot problems.
+
+1) Before Marches. Trim toenails at least every two or
+     three weeks, depending upon individual needs. Cut
+     toenails short and square, and straight across (Figure
+     C-1). Keep feet clean and dry, and use foot powder.
+     Wear clean, dry, unmended, good-fitting socks
+     (preferably cushion-soled) with seams and knots
+     outside. A nylon or polypropylene sock liner can
+     reduce friction and add protection. Carry an extra pair
+     of socks. Carefully fit new boots. When getting used
+     to a new pair of boots, alternate with another pair;
+     tape known hot spots before wearing.
+
+2) During Halts. Lie down with the feet elevated during
+     each halt. If time permits, massage the feet, apply foot
+     powder, change socks, and medicate blisters. Cover
+     open blisters, cuts, or abrasions with absorbent
+     adhesive bandages. Obtain relief from swelling feet
+     by slightly loosening bootlaces where they cross the
+     arch of the foot.
+
+3) After Marches. Repeat procedures for the care of feet,
+     wash and dry socks, and dry boots. Medicate blisters,
+
+                                                               5-155
+
+
+---
+
+     abrasions, corns, and calluses. Inspect painful feet for
+     sprains and improper fitting of socks and boots. Feet
+     can develop red, swollen, tender skin along the sides
+     of the feet from prolonged marching, which could
+     become blisters. Therefore, feet require aeration,
+     elevation, rest, and wider footwear. Prevent major
+     foot problems by keeping the feet clean. The
+     formation of blisters and abrasions with dirt and
+     perspiration can cause infection and serious injury. If
+     possible, give the feet a daily foot bath. In the field,
+     cool water seems to reduce the sensation of heat and
+     irritation. After washing, dry the feet well.
+
+ d. Foot Injuries - Many foot injuries can occur from
+     foot marches, but only the most common are
+     discussed herein.
+
+1) Blisters And Abrasions - Common causes of blisters
+     and abrasions are improperly conditioned feet, ill-
+     fitting footwear and socks, improperly maintained
+     footwear, heat, and moisture. They are normally
+     caused by friction or pressure, as opposed to impact.
+     To clean a blister, wash gently around it with soap
+     and water, being careful not to break the skin. If
+     unbroken, use a sterilized needle or knifepoint to
+     prick the lower edge of the blister to remove fluid.
+     (To sterilize needle or knifepoint, hold in a flame.) Do
+     not remove the skin; cover the blister with an
+     absorbent adhesive bandage or similar dressing,
+     extending beyond the edge of the blister. After
+     applying the dressing, dust the outside of the dressing
+     and entire foot with foot powder. Use just enough foot
+     power since it can harden and become irritating. Foot
+     powder lessens friction on the skin and prevents the
+
+5-156
+
+
+---
+
+     raw edges of the adhesive plaster from adhering to
+     socks. The adhesive plaster should be smooth so it
+     can serve as a "second skin." Check the blister
+     periodically for proper drying. After the blister has
+     dried, remove the adhesive plaster. Carefully inspect
+     the foot for other problem areas that are red and
+     tender that may need the protection of an adhesive
+     plaster. Cover abrasions and cuts on the foot with
+     absorbent adhesive bandages for rapid healing. In an
+     emergency, medical personnel can inject tincture of
+     benzoin into a blister to prevent further abrasion and
+     loss of skin.
+
+2) Perspiration Problems - When feet perspire, the
+     secretion decomposes and causes a foul odor. The
+     skin between the toes usually becomes white and soft,
+     rubs off easily, and is prone to abrasions. Treatment
+     consists of washing and thoroughly drying the feet,
+     and carefully painting the affected area with a cotton
+     swab and the following solution: Formalin --one part,
+     Rubbing alcohol--nine parts.This solution should be
+     allowed to dry. If the skin begins to burn, the excess
+     solution should be washed off It should be kept out of
+     abrasions and cuts since it can cause severe pain. The
+     entire area of the foot to include the ankle is painted.
+     The areas around the heel and instep, and between
+     toes should be treated since they are main trouble
+     spots. The solution should be applied once daily until
+     the perspiration is halted and the skin becomes
+     hardened.
+
+3) Athlete's Foot - Athlete's foot usually occurs between
+     the toes, on the sole of the foot, and at points of
+     contact between skin and footwear. This and other
+                                                               5-157
+
+
+---
+
+     mild chronic cases of fungus infection may respond to
+     daily foot powder applications. If fungicidal ointment
+     is available, it can be used in addition to foot powder.
+     Ointment should be used as directed and while the
+     feet are at rest. If applications of foot powder and
+     ointment do not heal the infection, an aidman or
+     surgeon should be consulted.
+
+4) Frostbite - Frostbite is the freezing of a body part due
+     to exposure to below-freezing temperatures, and it is
+     classified as either superficial or deep. It is a constant
+     hazard in operations performed at freezing
+     temperatures, mainly when accompanied with strong
+     winds. Normally, a cold sensation occurs that is
+     followed by numbness and then a tingling, stinging,
+     or aching, or even a cramping pain. The skin first
+     turns red and then yellowish, pale gray, or waxy
+     white. Prevention of frostbite, or stopping it in its
+     early stages, is easier than thawing and caring for
+     frozen flesh. Good-fitting clothing and properly worn
+     equipment avoid interference with blood circulation,
+     which could reduce the amount of heat delivered to
+     the extremities. To prevent severe frostbite—
+
+     a) Enough clothing must be worn for protection
+     against cold and wind. The face must be protected
+     during high winds and during exposure to aircraft
+     propeller blast.
+
+     b) Clothing and the body must be kept dry. To avoid
+     perspiring when performing heavy work in the cold,
+     soldiers should remove outer layers of clothing and
+     then replace them when work is finished. Socks
+     should be changed when the feet become moist.
+5-158
+
+
+---
+
+     c) Cold metal should not be touched with the bare
+     skin in extremely low temperatures. To do so could
+     mean loss of skin.
+
+     d) Adequate clothing and shelter must be provided
+     during inactive times.
+
+     e) The face, fingers, toes, and ears should be
+     exercised or massaged to keep them warm and to
+     detect any numb or hard areas.
+
+     f) The buddy system should always be used.
+     Soldiers should find partners and observe each other
+     for signs of frostbite and for mutual aid if frostbite
+     occurs. Any small frozen spots should be thawed
+     immediately, using bare hands or other sources of
+     body heat.
+
+     g) Some cases of frostbite may be superficial, which
+     involves only the skin. If freezing extends below the
+     skin, it demands more involved treatment to avoid or
+     lessen the loss of the body part (fingers, toes, hands,
+     or feet). Often there is no pain, so soldiers must
+     observe each other for signs. Since it is difficult to
+     distinguish between superficial and deep frostbite, a
+     soldier should assume the injury to be deep and
+     therefore serious. If numbness has been for a short
+     time, the frostbite is probably superficial.
+
+     h) For treatment of superficial frostbite, the
+     following measures must be adhered to:
+
+(1) Cover cheeks with warm hands until the pain returns.
+
+                                                               5-159
+
+
+---
+
+(2) Place bared frostbitten feet under clothing and against
+   the chest of a companion.
+
+(3) Do not rewarm by such measures as massage,
+   exposure to open fires, cold-water soaks, or rubbing
+   with snow.
+
+(4) Place uncovered frostbitten fingers under the
+   opposing armpits next to the skin.
+
+(5) Be prepared for pain when thawing occurs.
+
+     i) For treatment of deep frostbite (freezing injury),
+     the following measures must be adhered to:
+
+(1) If freezing is considered deep, do not attempt to treat
+   the injury in the field. This only causes increased pain
+   and invites infection, greater damage, and even
+   gangrene. Quickly evacuate injured personnel to a
+   hospital or aid station.
+
+(2) Protect the frozen body part from further injury and
+   do not try to thaw it by rubbing, bending, or massaging
+
+(3) Do not rub body part with snow or place in cold or
+   warm water; do not expose to hot air or open fires; and
+   do not use ointments or poultices.
+
+(4) Soldiers should not walk on feet after thawing; it is
+   safer to walk on frozen feet. However, thawing may
+   occur spontaneously during transporting to a medical
+   facility. This cannot be avoided since the entire body of
+   the injured soldier must be kept warm.
+
+5-160
+
+
+---
+
+      j) Soldiers who have sustained any form of cold
+     injury are more susceptible to a reoccurrence.
+
+1) Trenchfoot - Trenchfoot is a thermal injury due to
+exposure to severe cold-weather conditions in a damp or
+wet environment in temperatures between 32 and 50
+degrees F. Attributing causes include immobility of the
+limbs as in sitting or standing, insufficient clothing, and
+constriction of body parts due to boots, socks, and other
+garments. Trenchfoot is similar to gradual frostbite since
+the primary causes are the same. The only difference is in
+the degree of cold. In the early stages of trenchfoot, feet
+and toes are pale, and they feel cold, numb, and stiff
+Walking becomes labored. If preventive action is not
+taken at this stage, the feet will swell and become painful.
+In extreme cases of trenchfoot, the flesh dies and
+amputation of the foot or leg may be needed. Because the
+early stages of trenchfoot are not painful, soldiers must be
+alert to prevent it.
+
+a) Socks and boots should be cleaned and dried daily,
+     and feet should be dried soon after being wet. If
+     soldiers must wear wet boots and socks, the feet
+     should be exercised by wiggling the toes and bending
+     the ankles, and they should be warmed with the
+     hands. Then foot powder should be applied and dry
+     socks put on.
+
+b) In treating trenchfoot, the feet should be handled
+     gently; they should not be rubbed or massaged. If
+     needed, feet can be cleaned carefully with plain white
+     soap and water, dried, elevated, and left exposed.
+     While it is best to warm the patient, the feet should
+
+                                                               5-161
+
+
+---
+
+     always be at room temperature. The patient should be
+     carried and not allowed to walk on damaged feet.
+
+2) Immersion Foot - Immersion foot is a form of injury
+that follows prolonged immersion of the feet in water that
+is not cold enough to cause freezing or frostbite. It can
+occur after exposure in subtropical waters. Clinically and
+pathologically, immersion foot is like trenchfoot since its
+cause is the same--lowering the temperature of the body
+part involved. It is associated with dependency (legs and
+feet down as in sitting or standing) and immobility of the
+lower extremities, and with constriction of the limbs by
+clothing or shoes. Other important factors are: body
+cooling due to wind, total immersion, inadequate
+protective clothing, illness, and starvation. The treatment
+for immersion foot is the same as for trenchfoot.
+
+3) Stress Fractures And Muscle Injuries - Once stress
+fractures have occurred, they must be allowed time to
+heal. The affected area must rest for two or three weeks
+until the pain is gone, followed by a slow return to activity
+to avoid recurring injury. Personnel who have had an
+injury are more likely to be injured again. The best form of
+treatment for this type injury is prevention. This can be
+accomplished through a conditioning program and by
+ensuring major muscle groups are properly stretched and
+warmed up before marching.
+
+3. Care of Footwear - Boots must be dried after use to
+avoid loosing shape and hardening of the leather. This can
+be done by placing a warm cloth in the boot or by any
+method that avoids rapid drying. To prevent moist leather
+from freezing during winter, boots should be placed inside
+a sleeping bag or used as a headrest.
+5-162
+
+
+---
+
+  a. Boots - Two important factors in fitting boots are:
+  the space between the end of the great toe and the toe of
+  the boot should be the width of the thumb; and, in the
+  unlaced boot, there should be enough space under the
+  lower edge of the tongue to insert an index finger
+
+1.) Poorly fitted boots can cause blisters, abrasions,
+calluses, and corns. Pressure is caused by boots being too
+small; friction is caused by boots being too large. If the
+tops of the toes are involved, the cap is too low or too stiff.
+If the ends of the toes are affected, the boot is too short or
+too loosely laced. If the sides of the big and little toes
+become irritated, the boot is too narrow. Irritation at the
+heel is caused by boots being too long, too loosely laced,
+or too wide a heel space.
+
+2.) Proper lacing of boots not only prevents blisters but
+also prevents improper blood flow in the foot. Laces can
+assume a seesaw action, which can produce a long blister
+across the instep. To prevent blistering, lacing over the
+instep can be avoided. If possible, broad laces should be
+used and an extra pair should be carried.
+
+b. Socks - To check the fit of socks, a soldier should
+stand with his weight evenly distributed on both feet. If
+the socks fit correctly, no tightness or fullness should
+exist. The wool cushion-sole sock is best because it offers
+good foot protection. Soldiers should allow 3/8 of an inch
+for shrinkage of new socks. Those that are too large
+wrinkle inside the shoe, rub the feet, and cause blisters and
+abrasions. Socks that are too small wear quickly and
+reduce blood flow in the foot. When wearing two pairs of
+socks, soldiers should wear an outer pair at least a half-
+size larger than usual. Socks must be changed daily-- dirty
+
+                                                               5-163
+
+
+---
+
+socks are conductors of heat and allow warmth to escape.
+They should be washed in lukewarm water to preserve the
+fiber of the sock since hot water can cause them to shrink.
+When socks become damp, they can be dried by placing
+them inside a shirt next to the body. Socks should be
+completely dry before wearing. If it is not possible to wash
+the socks, they should be changed; the dirty socks should
+be dried and kneaded with the hands to remove dirt and
+hardness.
+
+                   FIGHTING POSITIONS
+
+This paragraph discusses techniques for the construction
+of infantry fighting positions. Infantrymen use hasty; one-,
+two-, and three-soldier; machine gun; medium and light
+antitank; and 90-mm recoilless rifle positions. Soldiers
+must construct fighting positions that protect them and
+allow them to fire into their assigned sectors.
+
+Protection. Fighting positions protect soldiers by
+providing cover through sturdy construction, and by
+providing concealment through positioning and proper
+camouflage. The enemy must not be able to identify the
+position until it is too late and he has been effectively
+engaged. When possible, soldiers should site positions in
+nonobvious places, behind natural cover, and in an easy to
+camouflage location. The most important step in
+preparing fighting position is to make sure that it
+cannot be seen. In constructing fighting positions,
+soldiers should always--
+
+  a Dig the positions armpit deep.
+
+  b Fill sandbags about 75 percent full.
+
+5-164
+
+
+---
+
+    c Revet excavations in sandy soil.
+
+    d Check stabilization of wall bases.
+
+    e Inspect and test the position daily, after heavy rain,
+      and after receiving direct or indirect fires.
+
+    f Maintain, repair, and improve positions as required.
+
+    g Use proper materiel. Use it correctly.
+
+Siting to Engage the Enemy. Soldiers must be able to
+engage the enemy within their assigned sectors of fire.
+They should be able to fire out to the maximum effective
+range of their weapons with maximum grazing fire and
+minimal dead space. Soldiers and leaders must be able to
+identify the best location for their positions that meet this
+criteria. Leaders must also ensure that fighting positions
+provide interlocking fires. This allows them to cover the
+platoon's sector from multiple positions and provides a
+basis for final protective fires.
+
+Prepare by Stages. Leaders must ensure that their
+soldiers understand when and how to prepare fighting
+positions based on the situation. Soldiers normally prepare
+hasty fighting positions every time the platoon halts
+(except for short security halts), and only half of the
+platoon digs in while the other half maintains security.
+Soldiers prepare positions in stages and require a leader to
+inspect the position before moving on to the next stage.
+See the following example.
+
+                                                               5-165
+
+
+---
+
+STAGE 1. The leader checks the fields of fire from the
+prone position and has the soldier emplace sector stakes
+(Figure 5-98).
+
+       Figure 5-98
+
+5-166
+
+
+---
+
+                            Figure 5-99
+STAGE 2. The retaining walls for the parapets are
+prepared at this stage. These ensure that there is at least
+one helmet distance from the edge of the hole to the
+beginning of the front, flank, and rear cover (Figure 5-99).
+
+                                                               5-167
+
+
+---
+
+STAGE 3. During stage 3, the position is dug and the dirt
+is thrown forward of the parapet retaining walls and then
+packed down hard (Figure 5-100).
+
+                           Figure 5-100
+STAGE 4. The overhead cover is prepared (Figure 5-101).
+Camouflage should blend with surrounding terrain. At a
+distance of 35 meters, the position should not be
+detectable.
+
+5-168
+
+
+---
+
+                           Figure 5-101
+
+Types of Fighting Positions. There are many different
+types of fighting positions. The number of personnel,
+types of weapons, the time available, and the terrain are
+the main factors that dictate the type of position.
+
+Hasty fighting position. Soldiers prepare this type of
+position when there is little or no time to prepare fighting
+positions (Figure 5-102). They locate it behind whatever
+cover is available. It should give frontal protection from
+direct fire while allowing fire to the front and oblique. A
+hasty position may consist simply of a rucksack placed
+beside a tree or large rock. For protection from indirect
+fire, a hasty fighting position should be in a small
+depression or hole at least 18 inches deep. The term hasty
+position does not mean there is no digging. Even if there
+
+                                                               5-169
+
+
+---
+
+are only a few minutes, a prone shelter can be scraped out
+or dug to provide some protection. This type of position is
+we suited for ambushes or for protection of overwatching
+element during raids and attacks. Hasty positions can also
+be the first step in construction of more elaborate
+positions.
+
+           Figure 5-102. Hasty Fighting Position
+One-soldier fighting position. This type of position allows
+choices in the use of cover; the hole only needs to be large
+enough for one soldier and his gear. It does not have the
+security of a two-soldier position. The one-soldier fighting
+position must allow a soldier to fire to the front or to the
+oblique from behind frontal cover. (Figure 5-103.)
+5-170
+
+
+---
+
+        Figure 5-103. One Man Fighting Position
+
+Two-soldier fighting position. A two-soldier fighting
+position can be prepared in close terrain. It can be used
+where grazing fire and mutual support extend no farther
+than to an adjacent position. It can be used to cover dead
+space just in front of the position. One or both ends of the
+hole are extended around the sides of the frontal cover.
+Changing a hole this way lets both soldiers see better and
+have greater sectors of fire to the front. Also, during rest
+or eating periods, one soldier can watch the entire sector
+while the other sleeps or eats. If they receive fire from
+their front, they can move back to gain the protection of
+the frontal cover. By moving about 1 meter, the soldiers
+can continue to find and hit targets to the front during lulls
+
+                                                               5-171
+
+
+---
+
+in enemy fire. This type of position requires more digging
+and is harder to camouflage. It is also a better target for
+enemy hand grenades (Figure 5-104.)
+
+      Figure 5-104. Two-Soldier Fighting Position
+         BAYONET/COMBATIVES FIGHTING
+
+Hand-to-hand combat is an engagement between two
+or more persons in an empty-handed struggle or with
+handheld weapons such as knives, sticks, and rifles
+with bayonets. These fighting arts are essential
+military skills. Projectile weapons may be lost or
+broken, or they may fail to fire. When friendly and
+enemy forces become so intermingled that firearms
+and grenades are not practical, hand-to-hand combat
+skills become vital assets.
+
+5-172
+
+
+---
+
+       PURPOSE OF COMBATIVES TRAINING
+
+Today's battlefield scenarios may require silent elimination of
+the enemy. Unarmed combat and expedient-weapons training
+should not be limited to forward units. With rapid
+mechanized/motorized, airborne, and air assault abilities, units
+throughout the battle area could be faced with close-quarter or
+unarmed fighting situations. With low-intensity conflict
+scenarios and guerrilla warfare conditions, any soldier is apt to
+face an unarmed confrontation with the enemy, and hand-to-
+hand combative training can save lives. The many practical
+battlefield benefits of combative training are not its only
+advantage. It can also contribute to individual and unit strength,
+flexibility, balance, and cardiorespiratory fitness and build
+courage, confidence, self-discipline, and esprit de corps.
+
+                     BASIC PRINCIPLES
+
+There are basic principles that the hand-to-hand fighter
+must know and apply to successfully defeat an opponent.
+The principles mentioned are only a few of the basic
+guidelines that are essential knowledge for hand-to-hand
+combat. There are many others, which through years of
+study become intuitive to a highly skilled fighter.
+
+Physical Balance. Balance refers to the ability to maintain
+equilibrium and to remain in a stable, upright position. A
+hand-to-hand fighter must maintain his balance both to
+defend himself and to launch an effective attack. Without
+balance, the fighter has no stability with which to defend
+himself, nor does he have a base of power for an attack.
+The fighter must understand two aspects of balance in a
+struggle:
+
+                                                               5-173
+
+
+---
+
+          1. How to move his body to keep or regain
+his own balance. A fighter develops balance through
+experience, but usually he keeps his feet about shoulder-
+width apart and his knees flexed. He lowers his center of
+gravity to increase stability.
+
+          2. How to exploit weaknesses in his
+opponent's balance. Experience also gives the hand-to-
+hand fighter a sense of how to move his body in a fight to
+maintain his balance while exposing the enemy's weak
+points.
+
+Mental Balance. The successful fighter must also
+maintain a mental balance. He must not allow fear or
+anger to overcome his ability to concentrate or to react
+instinctively in hand-to-hand combat.
+
+Position. Position refers to the location of the fighter
+(defender) in relation to his opponent. A vital principle
+when being attacked is for the defender to move his body
+to a safe position--that is, where the attack cannot continue
+unless the enemy moves his whole body. To position for a
+counterattack, a fighter should move his whole body off
+the opponent's line of attack. Then, the opponent has to
+change his position to continue the attack. It is usually safe
+to move off the line of attack at a 45-degree angle, either
+toward the opponent or away from him, whichever is
+appropriate. This position affords the fighter safety and
+allows him to exploit weaknesses in the enemy's
+counterattack position. Movement to an advantageous
+position requires accurate timing and distance perception.
+
+5-174
+
+
+---
+
+Timing. A fighter must be able to perceive the best time to
+move to an advantageous position in an attack. If he
+moves too soon, the enemy will anticipate his movement
+and adjust the attack. If the fighter moves too late, the
+enemy will strike him. Similarly, the fighter must launch
+his attack or counterattack at the critical instant when the
+opponent is the most vulnerable.
+
+Distance. Distance is the relative distance between the
+positions of opponents. A fighter positions himself where
+distance is to his advantage. The hand-to-hand fighter
+must adjust his distance by changing position and
+developing attacks or counterattacks. He does this
+according to the range at which he and his opponent are
+engaged.
+
+Momentum. Momentum is the tendency of a body in
+motion to continue in the direction of motion unless acted
+on by another force. Body mass in motion develops
+momentum. The greater the body mass or speed of
+movement, the greater the momentum. Therefore, a fighter
+must understand the effects of this principle and apply it to
+his advantage.
+
+          1. The fighter can use his opponent's
+momentum to his advantage--that is, he can place the
+opponent in a vulnerable position by using his momentum
+against him.
+
+          2. The opponent's balance can be taken away
+by using his own momentum.
+
+                                                               5-175
+
+
+---
+
+          3. The opponent can be forced to extend farther
+than he expected, causing him to stop and change his
+direction of motion to continue his attack.
+
+          4. An opponent's momentum can be used to add
+power to a fighter's own attack or counterattack by
+combining body masses in motion.
+
+          5. The fighter must be aware that the enemy
+can also take advantage of the principle of momentum.
+Therefore, the fighter must avoid placing himself in an
+awkward or vulnerable position, and he must not allow
+himself to extend too far.
+
+Leverage. A fighter uses leverage in hand-to-hand combat
+by using the natural movement of his body to place his
+opponent in a position of unnatural movement. The fighter
+uses his body or parts of his body to create a natural
+mechanical advantage over parts of the enemy's body. He
+should never oppose the enemy in a direct test of strength;
+however, by using leverage, he can defeat a larger or
+stronger opponent.
+
+VITAL TARGETS
+The body is divided into three sections: high, middle, and
+low. Each section contains vital targets (Figure 5-105).
+The effects of striking these targets follow:
+
+5-176
+
+
+---
+
+Figure 5-105
+                                    5-177
+
+
+---
+
+       Figure 5-105 (continued)
+
+a. High Section. The high section includes the head and
+neck; it is the most dangerous target area.
+
+       (1) Top of the head. The skull is weak where the
+       frontal cranial bones join. A forceful strike causes
+
+5-178
+
+
+---
+
+trauma to the cranial cavity, resulting in
+unconsciousness and hemorrhage. A severe strike
+can result in death.
+
+(2) Forehead. A forceful blow can cause
+whiplash; a severe blow can cause cerebral
+hemorrhage and death.
+
+(3) Temple. The bones of the skull are weak at
+the temple, and an artery and large nerve lie close
+to the skin. A powerful strike can cause
+unconsciousness and brain concussion. If the
+artery is severed, the resulting massive
+hemorrhage compresses the brain, causing coma
+and or death.
+
+(4) Eyes. A slight jab in the eyes causes
+uncontrollable watering and blurred vision. A
+forceful jab or poke can cause temporary
+blindness, or the eyes can be gouged out. Death
+can result if the fingers penetrate through the thin
+bone behind the eyes and into the brain.
+
+(5) Ears. A strike to the ear with cupped hands
+can rupture the eardrum and may cause a brain
+concussion.
+
+(6) Nose. Any blow can easily break the thin
+bones of the nose, causing extreme pain and eye
+watering.
+
+(7) Under the nose. A blow to the nerve center,
+which is close to the surface under the nose, can
+cause great pain and watery eyes.
+
+                                                    5-179
+
+
+---
+
+          (8) Jaw. A blow to the jaw can break or dislocate
+          it. If the facial nerve is pinched against the lower
+          jaw, one side of the face will be paralyzed.
+
+          (9) Chin. A blow to the chin can cause paralysis,
+          mild concussion, and unconsciousness. The
+          jawbone acts as a lever that can transmit the force
+          of a blow to the back of the brain where the
+          cardiac and respiratory mechanisms are
+          controlled.
+
+          (10) Back of ears and base of skull. A moderate
+          blow to the back of the ears or the base of the
+          skull can cause unconsciousness by the jarring
+          effect on the back of the brain. However, a
+          powerful blow can cause a concussion or brain
+          hemorrhage and death.
+
+          (11) Throat. A powerful blow to the front of the
+          throat can cause death by crushing the windpipe.
+          A forceful blow causes extreme pain and gagging
+          or vomiting.
+
+          (12) Side of neck. A sharp blow to the side of the
+          neck causes unconsciousness by shock to the
+          carotid artery, jugular vein, and vagus nerve. For
+          maximum effect, the blow should be focused
+          below and slightly in front of the ear. A less
+          powerful blow causes involuntary muscle spasms
+          and intense pain. The side of the neck is one of
+          the best targets to use to drop an opponent
+          immediately or to disable him temporarily to
+          finish him later.
+
+5-180
+
+
+---
+
+          (13) Back of neck. A powerful blow to the back
+          of one's neck can cause whiplash, concussion, or
+          even a broken neck and death.
+
+b. Middle Section. The middle section extends from the
+shoulders to the area just above the hips. Most blows to
+vital points in this region are not fatal but can have
+serious, long-term complications that range from trauma to
+internal organs to spinal cord injuries.
+
+          (1) Front of shoulder muscle. A large bundle of
+          nerves passes in front of the shoulder joint. A
+          forceful blow causes extreme pain and can make
+          the whole arm ineffective if the nerves are struck
+          just right.
+
+          (2) Collarbone. A blow to the collarbone can
+          fracture it, causing intense pain and rendering the
+          arm on the side of the fracture ineffective. The
+          fracture can also sever the brachial nerve or
+          subclavian artery.
+
+          (3) Armpit. A large nerve lies close to the skin in
+          each armpit. A blow to this nerve causes severe
+          pain and partial paralysis. A knife inserted into
+          the armpit is fatal as it severs a major artery
+          leading from the heart.
+
+          (4) Spine. A blow to the spinal column can sever
+          the spinal cord, resulting in paralysis or in death.
+
+          (5) Nipples. A large network of nerves passes
+          near the skin at the nipples. A blow here can
+
+                                                               5-181
+
+
+---
+
+          cause extreme pain and hemorrhage to the many
+          blood vessels beneath.
+
+          (6) Heart. A jolting blow to the heart can stun the
+          opponent and allow time for follow-up or
+          finishing techniques.
+
+          (7) Solar plexus. The solar plexus is a center for
+          nerves that control the cardiorespiratory system.
+          A blow to this location is painful and can take the
+          breath from the opponent. A powerful blow
+          causes unconsciousness by shock to the nerve
+          center. A penetrating blow can also damage
+          internal organs.
+
+          (8) Diaphragm. A blow to the lower front of the
+          ribs can cause the diaphragm and the other
+          muscles that control breathing to relax. This
+          causes loss of breath and can result in
+          unconsciousness due to respiratory failure.
+
+          (9) Floating ribs. A blow to the floating ribs can
+          easily fracture them because they are not attached
+          to the rib cage. Fractured ribs on the right side
+          can cause internal injury to the liver; fractured
+          ribs on either side can possibly puncture or
+          collapse a lung.
+
+          (10) Kidneys. A powerful blow to the kidneys
+          can induce shock and can possibly cause internal
+          injury to these organs. A stab to the kidneys
+          induces instant shock and can cause death from
+          severe internal bleeding.
+
+5-182
+
+
+---
+
+          (11) Abdomen below navel. A powerful blow to
+          the area below the navel and above the groin can
+          cause shock, unconsciousness, and internal
+          bleeding.
+
+          (12) Biceps. A strike to the biceps is most painful
+          and renders the arm ineffective. The biceps is an
+          especially good target when an opponent holds a
+          weapon.
+
+          (13) Forearm muscle. The radial nerve, which
+          controls much of the movement in the hand,
+          passes over the forearm bone just below the
+          elbow. A strike to the radial nerve renders the
+          hand and arm ineffective. An opponent can be
+          disarmed by a strike to the forearm; if the strike is
+          powerful enough, he can be knocked
+          unconscious.
+
+          (14) Back of hand. The backs of the hands are
+          sensitive. Since the nerves pass over the bones in
+          the hand, a strike to this area is intensely painful.
+          The small bones on the back of the hand are
+          easily broken and such a strike can also render
+          the hand ineffective.
+
+c. Low Section. The low section of the body includes
+everything from the groin area to the feet. Strikes to these
+areas are seldom fatal, but they can be incapacitating.
+
+          (1) Groin. A moderate blow to the groin can
+          incapacitate an opponent and cause intense pain.
+          A powerful blow can result in unconsciousness
+          and shock.
+
+                                                               5-183
+
+
+---
+
+       (2) Outside of thigh. A large nerve passes near
+       the surface on the outside of the thigh about four
+       finger-widths above the knee. A powerful strike
+       to this region can render the entire leg ineffective,
+       causing an opponent to drop. This target is
+       especially suitable for knee strikes and shin kicks.
+
+       (3) Inside of thigh. A large nerve passes over the
+       bone about in the middle of the inner thigh. A
+       blow to this area also incapacitates the leg and
+       can cause the opponent to drop. Knee strikes and
+       heel kicks are the weapons of choice for this
+       target.
+
+       (4) Hamstring. A severe strike to the hamstring
+       can cause muscle spasms and inhibit mobility. If
+       the hamstring is cut, the leg is useless.
+
+       (5) Knee. Because the knee is a major supporting
+       structure of the body, damage to this joint is
+       especially detrimental to an opponent. The knee
+       is easily dislocated when struck at an opposing
+       angle to the joint's normal range of motion,
+       especially when it is bearing the opponent's
+       weight. The knee can be dislocated or
+       hyperextended by kicks and strikes with the
+       entire body.
+
+       (6) Calf. A powerful blow to the top of the calf
+       causes painful muscle spasms and also inhibits
+       mobility.
+
+       (7) Shin. A moderate blow to the shin produces
+       great pain, especially a blow with a hard object.
+
+5-184
+
+
+---
+
+          A powerful blow can possibly fracture the bone
+          that supports most of the body weight.
+
+          (8) Achilles tendon. A powerful strike to the
+          Achilles tendon on the back of the heel can cause
+          ankle sprain and dislocation of the foot. If the
+          tendon is torn, the opponent is incapacitated. The
+          Achilles tendon is a good target to cut with a
+          knife.
+
+          (9) Ankle. A blow to the ankle causes pain; if a
+          forceful blow is delivered, the ankle can be
+          sprained or broken.
+
+          (10) Instep. The small bones on the top of the
+          foot are easily broken. A strike here will hinder
+          the opponent's mobility.
+
+                  STRIKING PRINCIPLES
+
+Effective striking with the weapons of the body to the
+opponent's vital points is essential for a victorious
+outcome in a hand-to-hand struggle. A soldier must be
+able to employ the principles of effective striking if he is
+to emerge as the survivor in a fight to the death.
+
+a. Attitude. Proper mental attitude is of primary
+importance in the soldier's ability to strike an opponent. In
+hand-to-hand combat, the soldier must have the attitude
+that he will defeat the enemy and complete the mission, no
+matter what. In a fight to the death, the soldier must have
+the frame of mind to survive above all else; the prospect of
+losing cannot enter his mind. He must commit himself to
+hit the opponent continuously with whatever it takes to
+
+                                                               5-185
+
+
+---
+
+drive him to the ground or end his resistance. A memory
+aid is, "Thump him and dump him!"
+
+b. Fluid Shock Wave. A strike should be delivered so that
+the target is hit and the weapon remains on the impact site
+for at least a tenth of a second. This imparts all of the
+kinetic energy of the strike into the target area, producing
+a fluid shock wave that travels into the affected tissue and
+causes maximum damage. It is imperative that all strikes
+to vital points and nerve motor points are delivered with
+this principle in mind. The memory aid is, "Hit and stick!"
+
+c. Target Selection. Strikes should be targeted at the
+opponent's vital points and nerve motor points. Strikes to
+nerve motor points cause temporary mental stunning and
+muscle motor dysfunction to the affected areas of the
+body. Mental stunning results when the brain is
+momentarily disoriented by overstimulation from too
+much input--for example, a strike to a major nerve. The
+stunning completely disables an opponent for three to
+seven seconds and allows the soldier to finish off the
+opponent, gain total control of the situation, or make his
+escape. Sometimes, such a strike causes unconsciousness.
+A successful strike to a nerve motor center also renders the
+affected body part immovable by causing muscle spasms
+and dysfunction due to nerve overload. (Readily available
+nerve motor points are shown in Figure 5-105)
+
+5-186
+
+
+---
+
+             RIFLE WITH FIXED BAYONET
+
+The principles used in fighting with the rifle and fixed
+bayonet are the same as when knife fighting. Use the same
+angles of attack and similar body movements. The
+principles of timing and distance remain paramount; the
+main difference is the extended distance provided by the
+length of the weapon. It is imperative that the soldier
+fighting with rifle and fixed bayonet use the movement of
+his entire body behind all of his fighting techniques--not
+just upper-body strength. Unit trainers should be
+especially conscious of stressing full body mass in motion
+for power and correcting all deficiencies during training.
+Whether the enemy is armed or unarmed, a soldier
+fighting with rifle and fixed bayonet must develop the
+mental attitude that he will survive the fight. He must
+continuously evaluate each moment in a fight to determine
+his advantages or options, as well as the enemy's. He
+should base his defenses on keeping his body moving and
+off the line of any attacks from his opponent. The soldier
+seeks openings in the enemy's defenses and starts his own
+attacks, using all available body weapons and angles of
+attack.
+
+Fighting Techniques. New weapons, improved
+equipment, and new tactics are always being introduced;
+however, firepower alone will not always drive a
+determined enemy from his position. He will often remain
+in defensive emplacements until driven out by close
+combat. The role of the soldier, particularly in the final
+phase of the assault, remains relatively unchanged: His
+mission is to close with and disable or capture the enemy.
+This mission remains the ultimate goal of all individual
+
+                                                               5-187
+
+
+---
+
+training. The rifle with fixed bayonet is one of the final
+means of defeating an opponent in an assault.
+
+          1. During infiltration missions at night or when
+secrecy must be maintained, the bayonet is an excellent
+silent weapon.
+
+          2. When close-in fighting determines the use of
+small-arms fire or grenades to be impractical, or when the
+situation does not permit the loading or reloading of the
+rifle, the bayonet is still the weapon available to the
+soldier.
+
+          3. The bayonet serves as a secondary weapon
+should the rifle develop a stoppage.
+
+          4. In hand-to-hand encounters, the detached
+bayonet may be used as a handheld weapon.
+
+          5. The bayonet has many nonfighting uses, such
+as to probe for mines, to cut vegetation, and to use for
+other tasks where a pointed or cutting tool is needed.
+
+Development. To become a successful rifle-bayonet
+fighter, a soldier must be physically fit and mentally alert.
+A well-rounded physical training program will increase
+his chances of survival in a bayonet encounter. Mental
+alertness entails being able to quickly detect and meet an
+opponent's attack from any direction. Aggressiveness,
+accuracy, balance, and speed are essential in training as
+well as in combat situations. These traits lead to
+confidence, coordination, strength, and endurance, which
+characterize the rifle-bayonet fighter. Differences in
+individual body physique may require slight changes from
+the described rifle-bayonet techniques. These variations
+will be allowed if the individual's attack is effective.
+
+5-188
+
+
+---
+
+Principles. The bayonet is an effective weapon to be used
+aggressively; hesitation may mean sudden death. The
+soldier must attack in a relentless assault until his
+opponent is disabled or captured. He should be alert to
+take advantage of any opening. If the opponent fails to
+present an opening, the bayonet fighter must make one by
+parrying his opponent's weapon and driving his blade or
+rifle butt into the opponent with force.
+
+     1. The attack should be made to a vulnerable part of
+the body: face, throat, chest, abdomen, or groin.
+
+     2. In both training and combat, the rifle-bayonet
+fighter displays spirit by sounding off with a low and
+aggressive growl. This instills a feeling of confidence in
+his ability to close with and disable or capture the enemy.
+
+     3. The instinctive rifle-bayonet fighting system is
+designed to capitalize on the natural agility and
+combatives movements of the soldier. It must be
+emphasized that precise learned movements will NOT be
+stressed during training.
+
+Positions. The soldier holds the rifle firmly but not rigidly. He
+relaxes all muscles not used in a specific position; tense
+muscles cause fatigue and may slow him down. After proper
+training and thorough practice, the soldier instinctively assumes
+the basic positions. All positions and movements described in
+this manual are for right-handed men. A left-handed man, or a
+man who desires to learn left-handed techniques, must use the
+opposite hand and foot for each phase of the movement
+described. All positions and movements can be executed with
+or without the magazine and with or without the sling attached.
+
+                                                               5-189
+
+
+---
+
+Attack position. This is the basic starting position (A and
+B, Figure 5-106) from which all attack movements
+originate. It generally parallels a boxer's stance. The
+soldier assumes this position when running or hurdling
+obstacles. The instructor explains and demonstrates each
+move.
+
+                Figure 5-106. Attack Position
+                a. Take a step forward and to the side with your
+left foot so that your feet are a comfortable distance apart.
+                b. Hold your body erect or bend slightly
+forward at the waist. Flex your knees and balance your
+body weight on the balls of your feet. Your right forearm
+is roughly parallel to the ground. Hold the left arm high,
+generally in front of the left shoulder. Maintain eye-to-eye
+5-190
+
+
+---
+
+contact with your opponent, watching his weapon and
+body through peripheral vision.
+
+                c. Hold your rifle diagonally across your
+body at a sufficient distance from the body to add balance
+and protect you from enemy blows. Grasp the weapon in
+your left hand just below the upper sling swivel, and place
+the right hand at the small of the stock. Keep the sling
+facing outward and the cutting edge of the bayonet toward
+your opponent. The command is, ATTACK POSITION,
+MOVE. The instructor gives the command, and the
+soldiers perform the movement.
+
+Relaxed position. The relaxed position (Figure 5-107)
+gives the soldier a chance to rest during training. It also
+allows him to direct his attention toward the instructor as
+he discusses and demonstrates the positions and
+movements. To assume the relaxed position from the
+attack position, straighten the waist and knees and lower
+the rifle across the front of your body by extending the
+arms downward. The command is, RELAX. The instructor
+gives the command, and the soldiers perform the
+movement.
+
+Movements. The soldier will instinctively strike at
+openings and become aggressive in his attack once he has
+learned to relax and has developed instinctive reflexes. His
+movements do not have to be executed in any prescribed
+order. He will achieve balance in his movements, be ready
+to strike in any direction, and keep striking until he has
+disabled his opponent. There are two basic ovementsused
+throughout bayonet instruction: the whirl and the
+crossover. These movements develop instant reaction to
+
+                                                               5-191
+
+
+---
+
+                      commands and afford the
+                      instructor maximum
+                      control of the training
+                      formation while on the
+                      training field.
+
+                      Whirl movement. The
+
+                      whirl (Figure 5-108,
+
+                      Steps 1, 2, and 3),
+
+                      properly executed,
+
+                      allows the rifle-bayonet
+
+                      fighter to meet a
+
+                      challenge from an
+
+                      opponent attacking him
+
+                      from the rear. At the
+
+                      completion of a whirl,
+
+                      the remains in the attack
+
+                      position. The rifle
+
+Figure 5-107 Relaxed  instructor explains and
+
+       Position       demonstrates how to spin
+
+                      your body around by
+
+pivoting on the ball of the leading foot in the direction of
+
+the leading foot, thus facing completely about. The
+
+command is, WHIRL. The instructor gives the command,
+
+and the soldiers perform the movement.
+
+Crossover movement. While performing certain
+movements in rifle-bayonet training, two ranks will be
+moving toward each other. When the soldiers in ranks
+come too close to each other to safely execute additional
+movements, the crossover is used to separate the ranks a
+safe distance apart. The instructor explains and
+
+5-192
+
+
+---
+
+               Figure 5-108. Whirl Movement
+
+demonstrates how to move straight forward and pass your
+opponent so that your right shoulder passes his right
+shoulder, continue moving forward about six steps, halt,
+and without command, execute the whirl. Remain in the
+attack position and wait for further commands. The
+command is, CROSSOVER. The instructor gives the
+command, and the soldiers perform the movement.
+
+  NOTE: Left-handed personnel cross left shoulder to
+                           left shoulder.
+
+Attack movements. There are four attack movements
+designed to disable or capture the opponent: thrust, butt
+stroke, slash, and smash. Each of these movements may be
+used for the initial attack or as a follow-up should the
+initial movement fail to find its mark. The soldiers learn
+these movements separately. They will learn to execute
+these movements in a swift and continuous series during
+
+                                                               5-193
+
+
+---
+
+subsequent training. During all training, the emphasis will be on
+conducting natural, balanced movements to effectively damage
+the target. Precise, learned movements will not be stressed.
+
+Defensive movements. At times, the soldier may lose the
+initiative and be forced to defend himself. He may also meet an
+opponent who does not present a vulnerable area to attack.
+Therefore, he must make an opening by initiating a parry or
+block movement, then follow up with a vicious attack. The
+follow-up attack is immediate and violent.
+
+All training will stress damage to the target and violent
+action, using natural movements as opposed to precise,
+stereotyped movements. Instinctive, aggressive action and
+balance are the keys to offense with the rifle and bayonet.
+
+                           SECTION V
+                     TACTICAL SKILLS
+
+This section includes one SEE task (the first task in the
+section) and three SURVIVE tasks from STP 21-1-SMCT.
+
+      REPORT INFORMATION OF POTENTIAL
+                  INTELLIGENCE VALUE
+                           301-348-1050
+
+                         CONDITIONS
+1. The commander tasks you to report information concerning
+the enemy, terrain, and weather in specific locations.
+
+2. You have observed enemy activity and significant
+terrain and weather features.
+
+5-194
+
+
+---
+
+3. You have a means of communication (radio, wire,
+cable, or messenger).
+
+                          STANDARDS
+Transmit information to the receiving authority in size,
+activity, location, unit, time, and equipment (S-A-L-U-T-E
+format) and significant terrain and weather conditions via
+radio, wire, cable, or written message with a messenger
+within 5 minutes after observation with six out of six S-A-
+L-U-T-E items correctly identified.
+
+NOTE: Your unit SOP (Standing Operating Procedures)
+will specify the receiving authority. Examples of receiving
+authorities are company commander, team commander, or
+S2 (Intelligence Officer [U.S. Army]) section.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+                            WARNING
+ Do not wait until you have complete enemy information
+ to transmit. Even small amounts of combat information
+ may provide indicators of enemy intentions.
+
+1. Identify information concerning enemy activity and
+significant terrain and weather features including:
+
+   a. Order of battle factors; for example, enemy weapons
+systems, troop composition, and direction of movement.
+
+                                                               5-195
+
+
+---
+
+NOTE: If you cannot identify a weapon system or vehicle
+by name, include a description of the equipment.
+
+   b. Military aspects of terrain; for example, observation
+and fire, concealment and cover, obstacles, key terrain and
+avenues of approach.
+
+   c. Weather factors; for example, severe weather,
+precipitation, trafficability, surface winds and gusts, and
+ground visibility.
+
+NOTE: Spot reports are used to transmit information and
+intelligence of immediate value. Transmit spot reports as
+rapidly and securely as possible. The S-A-L-U-T-E
+format, Table 5-109, is an aid for the observer to report the
+essential reporting elements. It is permissible to precede
+each message segment of the spot report with the meaning
+of the acronym S-A-L-U-T-E.
+
+2. Draft message summarizing information in the
+SALUTE format.
+
+3. Select a means of communication; for example, radio,
+wire, cable, or messenger.
+
+NOTE: Consider the communications means available to
+you and the information's potential significance to your
+mission. Radio is fast and mobile; yet, normally it is the
+least secure of the three communications means available
+at tactical units. Wire is more secure, but is subject to
+wiretapping and requires more time, personnel, and
+equipment to install. Messenger is very secure, but
+
+5-196
+
+
+---
+
+requires more delivery time and is limited by weather,
+terrain, and enemy action.
+
+LETTER WORD             DESCRIBES
+
+S  Size      The number of personnel see or
+             size of an object.
+
+A  Activity  What the enemy was doing.
+
+L  Location  Grid coordinates or reference
+
+             from a known point including the
+
+             distance and direction (or
+
+             azimuth) from a known point.
+
+`
+
+U  Unit      Any patches or clothing, distinc-
+             tive signs or symbols, or
+             identification (ID) numbers on
+             vehicles.
+
+T  Time      Time the activity was observed.
+
+E  Equipment All equipment associated with the
+
+             activity.
+
+               Table 5-109. The salute format.
+4. Transmit the message to the receiving authority.
+
+                                                     5-197
+
+
+---
+
+   a. If using a messenger, provide the messenger with
+explicit reporting instructions and a message, preferably
+written, which is clear, complete, and concise.
+
+   b. If using a radio, use proper radio/telephone
+procedures according to unit SOP and FM 24-1. Use the
+radio only as needed. The enemy may intercept your
+transmission, exploit the message information, or locate
+your transmitter for targeting or jamming.
+
+          c. If you encounter jamming or interference on
+your radio net, within 10 minutes of the incident, transmit
+a meaconing, intrusion, jamming, and interference (MIJI)
+report, preferably via messenger, wire, or cable to your net
+control station. Your Signal Operating Instructions (SOI)
+contains the MIJI format.
+
+              MOVE UNDER DIRECT FIRE
+                           071-326-0502
+
+                         CONDITIONS
+Given a tactical situation where you must approach an
+enemy position from a distance of 250 to 300 meters
+across varied terrain, armed with an M16A2 rifle or M203
+grenade launcher, wearing load carrying equipment
+(LCE), and being a member of a two-man team.
+
+                          STANDARDS
+Move to within 100 meters of the enemy position, using
+the correct individual tactical fire and movement
+techniques that are dictated by terrain features. Coordinate
+movement with team members to provide covering fire for
+each member.
+
+5-198
+
+
+---
+
+             TRAINING AND EVALUATION
+                Training Information Outline
+
+1. Select an individual movement route within your team
+or squad route or axis of advance (Figure 5-110).
+
+   a. Search the terrain to your front for—
+      (1) A gully, ravine, ditch, or wall at a slight angle to
+
+your direction of movement.
+NOTE: These features provide cover and concealment
+when using the low or high crawl.
+
+      (2) Hedgerows or a line of thick vegetation.
+NOTE: These features provide only concealment when
+using the low or high crawl.
+
+      (3) Large trees, rocks, stumps, fallen timber, rubble,
+vehicle hulks, folds or creases in the ground.
+NOTE: These features provide cover and concealment for
+use as temporary positions. Use the rush if the area
+between them has no concealment.
+
+     (4) High grass or weeds.
+
+                                                               5-199
+
+
+---
+
+        Figure 5-110. Individual movement route.
+5-200
+
+
+---
+
+NOTE: These features provide only partial concealment.
+You can use the rush since the use of the high or low
+crawl could reveal your location by the movement of
+vegetation.
+
+b. Select your next position (and the route to it) as one that:
+
+(1) Exposes you to the least enemy fire.
+
+      (2) Does not require you to cross in front of other
+members of your element, masking their fires.
+
+2. Determine the correct individual movement technique.
+
+a. Select the high crawl when—
+
+(1) The route provides cover and concealment.
+
+(2) Poor visibility reduces enemy observation.
+
+      (3) Speed is required but the terrain and vegetation
+are suitable only for the low crawl.
+
+b. Select the low crawl when—
+
+      (1) The route provides cover or concealment less
+than 1 foot high.
+
+(2) Visibility provides the enemy good observation.
+
+(3) Speed is not required.
+
+c. Select the rush when—
+
+                                                5-201
+
+
+---
+
+      (1) You must cross open areas.
+      (2) Time is critical.
+3. Communicate the movement plan to your buddy or
+team leader using hand signals so that the soldier not
+moving can cover by fire any movement by the other
+soldier.
+NOTE: When moving as a member of a fire team, watch
+and listen to your team leader who will lead you along the
+best route available and ensure that covering fire is
+provided when you move. Stay with your team leader and
+follow his or her example.
+4. Use the high crawl (Figure 5-111).
+
+                   Figure 5-111. High Crawl
+   a. Keep your body off of the ground.
+   b. Rest your weight on your forearms and lower legs.
+5-202
+
+
+---
+
+   c. Cradle your weapon in your arms, keeping its muzzle
+off the ground.
+
+   d. Keep your knees well behind your buttocks so it stays low.
+
+   e. Move forward by alternately advancing your right
+elbow and left knee, and left elbow and right knee.
+
+5. Use the low crawl (Figure 5-112).
+
+   a. Keep your body as flat as possible to the ground.
+
+   b. Hold your weapon by grasping the sling at the upper
+sling swivel, letting the handguard rest on your forearm
+and the butt of the weapon drag on the ground, thus
+keeping the muzzle off the ground.
+
+Figure 5-112. Low crawl.
+
+                          5-203
+
+
+---
+
+   c. Move forward by—
+
+      (1) Pushing both arms forward while pulling your
+right leg forward.
+
+      (2) Pulling with both arms while pushing with your right leg.
+
+      (3) Continuing this push-pull movement until you
+reach your next position, changing your pushing leg
+frequently to avoid fatigue.
+
+6. Use the rush to move from one covered position to another
+when enemy fire allows brief exposure (Figure 5-113).
+
+   a. Move from your firing position by rolling or crawling.
+
+   b. Start from the prone position.
+
+   c. Select your next position by slowly raising your
+head.
+
+   d. Lower your head while drawing your arms into your body,
+keeping your elbows down, and pulling your right leg forward.
+
+   e. Raise your body in one movement by straightening
+your arms.
+
+   f. Spring to your feet, stepping off with either foot.
+
+   g. Run to the next position—
+
+      (1) Keeping the distance short to avoid accurate
+enemy fire.
+5-204
+
+
+---
+
+Figure 5-113. Rush.
+
+                     5-205
+
+
+---
+
+      (2) Trying not to stay up any longer than 3 to 5
+seconds so that the enemy does not have time to track you
+with automatic fire.
+
+   h. Plant both feet just before hitting the ground.
+   i. Fall forward by—
+
+      (1) Sliding your right hand down to the heel of the
+butt of your weapon.
+
+      (2) Breaking your fall with the butt of your weapon.
+   j. Assume a firing position.
+
+      (1) Roll on your side.
+      (2) Place the butt of your weapon in the hollow of
+your shoulder.
+      (3) Roll or crawl to a covered or concealed firing
+position.
+7. Cover your buddy's movement with fire.
+
+5-206
+
+
+---
+
+                     REACT TO FLARES
+                           071-326-0511
+
+                         CONDITIONS
+Given a tactical situation at night, upon hearing a flare
+rising or when suddenly illuminated by a ground or
+overhead flare.
+
+                          STANDARDS
+React to a ground or an overhead flare without being seen
+by the enemy or losing your night vision.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Respond to ground flares.
+
+   a. Move out of the illuminated area.
+
+   b. Reorient yourself when alone or in a group by
+standard operating procedure (SOP), or as instructed.
+
+   c. Continue the mission.
+
+2. Respond to an overhead flare with warning (for
+example, the sound of a rising flare).
+
+   a. Assume the prone position (behind concealment
+when available) before the flare bursts.
+
+   b. Protect your night vision by closing one eye and
+observing with the other.
+
+                                                               5-207
+
+
+---
+
+   c. Use your night vision eye to reorient yourself or
+rejoin your group when the flare burns out.
+
+   d. Continue the mission.
+
+3. Respond to an overhead flare without warning.
+
+   a. Assume the prone position behind concealment
+(when available) until the flare burns out.
+
+   b. Protect your night vision by closing one eye and
+observing with the other.
+
+   c. Crouch low until the flare burns out when crossing
+wire obstacles where the prone position is not possible.
+
+   d. Use your night vision eye to reorient yourself or
+rejoin your group when the flare burns out.
+
+    e. Continue the mission.
+
+CHALLENGE PERSONS ENTERING YOUR AREA
+                           071-331-0801
+
+                         CONDITIONS
+Given the current challenge and password and a defensive
+position with a designated sector of fire, your individual
+weapon and load carrying equipment (LCE). Enemy and
+friendly personnel may enter your sector.
+
+                          STANDARDS
+Detect and halt all personnel in your sector and challenge
+them, using the correct challenge. Allow personnel with
+
+5-208
+
+
+---
+
+the correct password to pass and detain (capture)
+personnel without the password. Do not allow the enemy
+to overhear the password.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. One person desires to pass.
+
+   a. On seeing or hearing someone approach your
+position, command the person to halt before that person
+gets close enough to pose a threat. Use a clear voice, just
+loud enough to be heard.
+
+   b. Seeing the stranger halt, keep him or her covered
+and, without exposing your position, ask "who is there?"
+Again, use a clear voice just loud enough to be heard so
+the enemy will not overhear if nearby.
+
+   c. When the stranger identifies himself or herself, such
+as "Private Willard, messenger," you order him or her to
+"Advance to be recognized."
+
+   d. Maintain your concealed position and keep the
+stranger covered with your weapon. When the stranger gets
+within 2 or 3 meters of you, again order him or her to halt.
+
+   e. Issue the challenge in a soft voice and wait for the
+stranger to reply with the correct password. On hearing the
+correct password, give permission to pass if you have no
+other reason for doubt. If doubt still exits, demand further
+
+                                                               5-209
+
+
+---
+
+identification or ask a question only a friendly person
+would be able to answer.
+
+2. A group desires to pass.
+
+   a. The procedure and precautions for a group are almost
+the same as for one person. On seeing or hearing a group
+approach, order them to halt before they are close enough
+to pose a threat.
+
+   b. The leader of the group should identify the group,
+such as "Friendly patrol." Since you do not want the whole
+group to advance on you at once, order "Advance one
+person to be recognized."
+
+   c. When the leader has come forward to be recognized,
+give him or her the challenge and get the password in reply.
+
+   d. Once you are satisfied that the leader is friendly, tell
+the rest of the patrol to advance one by one and ensure the
+leader identifies each person.
+
+  e. Disarm and detain any person(s) not able to identify
+themselves to the leader's satisfaction. Then, notify your
+immediate supervisor.
+
+                             SECTION VI
+
+        NUCLEAR, BIOLOGICAL, CHEMICAL
+
+This section includes eight PROTECT AGAINST NBC
+ATTACK tasks from STP 21-1-SMCT.
+
+5-210
+
+
+---
+
+     Standard Mission-Oriented Protective Postures
+
+All soldiers need to be familiar with standard MOPP
+levels. Standardized MOPP levels allow commanders to
+increase or decrease levels of protection through the use of
+readily understood prowords. Commanders determine
+which protective posture their subordinate units will
+assume (Figure 5-114), and then direct their units to
+assume that MOPP level.
+
+                           MOPP Zero
+Soldiers carry their protective masks with their LCE. The
+standard Battle Dress Overgarment and other IPE making
+up the soldier’s MOPP gear are readily available. To be
+considered readily available, equipment must be either
+carried by each soldier or stored within arms reach of the
+soldier; for example, within the work area, vehicle, or
+fighting position. Units in MOPP Zero are highly vulnerable
+to persistent agent attacks and will automatically upgrade to
+MOPP1 when they determine, or are notified, that persistent
+chemical weapons have been used or that the threat for use
+of chemical weapons has risen.
+
+                              MOPP1
+When directed to MOPP1, soldiers immediately don the
+Battle Dress Overgarment. In hot weather, the overgarment
+jacket can be unbuttoned, and the Battle Dress Overgarment
+can be worn directly over underwear. M9 or M8 chemical
+detection paper is attached to the overgarment. MOPP1
+provides a great deal of protection against persistent agent.
+This level is automatically assumed when chemical
+weapons have been employed in an area of operations or
+when directed by higher commands.
+
+                                                               5-211
+
+
+---
+
+MOPP     MOPP       MOPP       MOPP   MOPP        MOPP
+EQUIP       0         1           2      3          4
+
+Mask     Carried    Carried    Carried W o r n    Worn
+
+Over-    Available  Worn       Worn   Worn        Worn
+garment  Available  Available  Worn   Worn        Worn
+
+Over-
+boots
+
+Gloves   Available Available Available Available  Worn
+
+Helmet   Available Available W o r n  Worn        Worn
+Cover
+
+        Figure 5-114. Standardized MOPP Levels
+
+5-212
+
+
+---
+
+                              MOPP2
+Soldiers put on their chemical protective footwear covers
+(CPFCs), GVOS, or a field expedient item (for example,
+vapor-barrier boots) and the protective helmet cover is
+worn. As with MOPP1, the overgarment jacket may be left
+unbuttoned, but trousers remain closed.
+
+                              MOPP3
+Soldiers wear the protective mask and hood. Again,
+flexibility is built into the system to allow soldiers relief at
+MOPP3. Particularly in hot weather, soldiers can open the
+overgarment jacket and roll the protective mask hood for
+ventilation, but trousers remain closed.
+
+                              MOPP4
+Soldiers will completely encapsulate themselves by
+closing their overgarments, rolling down and adjusting the
+mask hood, and putting on the NBC rubber gloves with
+cotton liners. MOPP4 provides the highest degree of
+chemical protection.
+
+REFERENCE
+FM 3-4
+
+ DETECT CHEMICAL AGENTS USING M8 OR M9
+                     DETECTOR PAPER
+                           031-503-1037
+
+                         CONDITIONS
+You are in an area where there is a chemical threat and are
+in mission-oriented protective posture (MOPP) level 2.
+You have a booklet of M8 detector paper, a dispenser of
+M9 detector paper, assigned decontaminating kits
+
+                                                               5-213
+
+
+---
+
+(M258A1 or M291/M295), and a complete set of MOPP
+gear.
+
+                          STANDARDS
+1. Attached M9 detector paper in places likely to come
+
+     into contact with liquid chemical agents.
+
+2. Detected all liquid chemical agents in your area
+     without becoming a casualty.
+
+3. Identified all liquid chemical agents within the
+     capability of M8 detector paper. NOTE: There is no
+     degradation of standards if performed in MOPP level 4.
+
+              TRAINING AND EVALUATION
+
+                       Performance Steps:
+
+                             WARNING
+  The M9 Detector Paper Dye May Cause Cancer, But
+  Because Very Little Dye is Used, The Risk Is Small.
+  Always Wear Protective Gloves When Touching M9
+  Detector Paper. Do Not Place M9 Detector Paper In
+  Or Near Your Mouth Or On Your Skin.
+
+1. Use M9 Detector Paper.
+
+     a. Attach M9 paper to MOPP gear and equipment
+     while wearing chemical protective gloves.
+
+         (1) Place the M9 detector paper on MOPP gear
+               on opposite sides of the body.
+
+5-214
+
+
+---
+
+               (a) If you are right handed, place a strip of
+                     M9 paper around your right upper arm,
+                     left wrist, and around your right ankle.
+
+               (b) If you are left handed, place a strip of
+                     M9 paper around your left upper arm,
+                     right wrist, and around your left ankle.
+
+NOTE: These are the places where a moving soldier will
+most likely brush against a surface (undergrowth, etc.) that
+is contaminated with a liquid chemical agent.
+
+        (2) Place M9 detector paper on equipment where it
+will come in contact with contaminated objects and is
+visible to the operator.
+NOTE: Do not attach M9 detector paper to hot, dirty, oily, or
+greasy surfaces since it may give a false positive reading.
+
+    b. Constantly monitor the M9 detector paper for any
+         color change. If you observe a color change:
+         (1) Mask.
+         (2) Give the alarm.
+         (3) Decon as necessary and assume MOPP Level 4
+
+                                                               5-215
+
+
+---
+
+                            WARNING
+ Some Decontaminates Give False Positive Results On
+ The M8 Detector Paper. The M8 Detector Paper May
+ Indicate Positive Results If Used In An Area Where
+ Decontaminates Have Been Used.
+
+2. Use M8 Detector Paper if you see a liquid that might
+     be a chemical agent or you observe a color change on
+     the M9 detector paper.
+
+     a. Immediately assume MOPP level 4.
+
+     b. Prepare M8 detector paper. Tear out a sheet from
+          the book (use one-half sheet if the M8 Paper is
+          perforated).
+
+     c. Blot (DO NOT RUB) the M8 detector paper on
+          the suspected liquid agent without touching the
+          liquid with your protective glove.
+
+NOTE: You may want to put the paper on the end of a
+stick or another object; then blot the paper on the
+suspected liquid agent.
+
+     d. Observe the M8 paper for a color change.
+          Identify contamination by comparing any color
+          change on the M8 paper to the color chart on the
+          inside cover of the booklet:
+
+          (1) A yellow-gold color indicates the presence
+                of G (nerve) agent.
+
+5-216
+
+
+---
+
+          (2) A red-pink color indicates the presence of H
+                (blister) agent.
+
+          (3) A dark green color indicates the presence of
+                V (nerve) agent.
+
+          (4) If any color is present or if there is no color
+                change, the liquid cannot be identified by
+                using M8 detector paper.
+
+     e. Store the booklet of M8 detector paper.
+
+     f. Remain in MOPP 4 even if the liquid cannot be
+          identified. Use other types of chemical agent
+          detectors (example: M256 Detector Kit,
+          Chemical Agent Monitor) to verify test results.
+
+     g. Notify your supervisor of the test results.
+
+           REACT TO A NUCLEAR HAZARD
+                           031-503-1018
+
+                         CONDITIONS
+Given an area where nuclear weapons have been or may
+have been used. You must respond to one of the following
+situations where you:
+
+1. See a brilliant flash of light.
+
+2. Find a standard radiological contamination marker or an enemy
+marker similar to those used by former Warsaw Pact nations.
+
+3. Receive instructions to respond to a nuclear attack.
+                                                               5-217
+
+
+---
+
+                          STANDARDS
+1. Protect yourself from the effects of a nuclear attack with no
+warning by reducing your exposure to the effects of the blast.
+
+2. Protect yourself from the effects of a nuclear attack with
+advance warning by reducing your exposure to the effects
+of the blast.
+
+3. Identify radiological contamination markers with 100
+percent accuracy and notify your supervisor.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. React to a nuclear attack with no warning (a brilliant
+flash of light).
+
+   a. Close your eyes immediately.
+
+   b. Drop to the ground in a prone, head-on position. If in
+the hatch of an armored vehicle, immediately drop down
+inside the track.
+
+   c. Keep your head and face down and your helmet on.
+
+   d. Stay down until the blast wave passes and debris
+stops falling.
+
+   e. Check for casualties and damaged equipment.
+
+2. React to nuclear attack with warning.
+
+5-218
+
+
+---
+
+   a. Find the best available shelter.
+      (1) Move into a foxhole, bunker, or ditch.
+
+NOTE: The foxhole puts more earth between soldiers and
+the potential source of radiation.
+
+      Figure 5-115. Protective positions in foxholes.
+          (a) Lie on your back as low in the foxhole as
+
+possible with your knees drawn up to your chest (Figure 5-
+115).
+NOTE: The belly up position may seem more vulnerable,
+but the position of the arms and bent legs are more
+radiation resistant, thus protecting the head and trunk.
+NOTE: You can also curl up on one side, but this is not
+the best position.
+
+          (b) Cover your face and hands with packs or a
+radio, if possible, to provide additional radiation and blast
+protection.
+
+                                                               5-219
+
+
+---
+
+          (c) Store bulky equipment such as packs or radios
+in an adjacent pit if they prevent getting as low as possible
+in the foxhole.
+
+      (2) Take protective actions if inside a shelter.
+NOTE: A blast wave can enter the shelter with great
+force, and the debris it carries can cause injury. Near a
+wall, the pressure wave may be increased by reflection.
+This is better, however, than being blown around and
+injured by the blast.
+
+          (a) Take a position near a wall but in an area
+where you will avoid the violent flow of air from a door or
+window.
+
+          (b) Construct baffles or turns in shelter entrances
+to prevent overpressure buildups and entry of dust and
+debris if there is time to do so (Figure 5-116).
+
+          (c) Lie facedown on the floor of the shelter.
+          (d) Stay in the shelter until the blast wave passes
+and the debris stops falling.
+      (3) Remain in place if you are in an armored vehicle.
+
+5-220
+
+
+---
+
+             Figure 5-116. Protection in shelter.
+
+   b. Keep clothes loosely fitted and headgear on at all
+times.
+
+   c. Protect your eyes.
+
+   d. Minimize exposed skin areas.
+
+3. React to radiological markers if you see either a
+standard radiological contamination marker (Figure 5-117)
+or an enemy radiological contamination marker similar to
+those used by former Warsaw Pact nations (Figure 5-118).
+
+                                                               5-221
+
+
+---
+
+  Figure 5-117. Standard radiological contamination
+                             markers.
+
+    Figure 5-118. Former Warsaw Pact radiological
+                    contamination marker.
+
+   a. Avoid the area if possible.
+c. Cross the area quickly by the shortest route.
+
+      (1) Request crossing instructions if you must cross.
+      (2) Make maximum use of shielding.
+   c. Report the discovery of a marker to your supervisor.
+
+5-222
+
+
+---
+
+                REACT TO CHEMICAL OR
+         BIOLOGICAL HAZARD OR ATTACK
+
+                           031-503-1019
+
+                         CONDITIONS
+Given a tactical environment in which chemical or
+biological (CB) weapons have been used or may be used
+by the enemy. You are in Mission-Oriented Protective
+Posture (MOPP) level 1 and you experience one of the
+following situations:
+
+1. Hear a chemical alarm.
+
+2. Obtain a positive reading from detector paper or a
+chemical agent monitor.
+
+3. See individuals who exhibit symptoms of chemical or
+biological agent poisoning.
+
+4. See a marker similar to a Warsaw Pact contamination
+marker (see the task React To A Nuclear Hazard, task
+number 031-503-1018 and Figure 5-118).
+
+5. Are told to mask.
+
+6. Come upon personnel wearing protective masks.
+
+7. See other signs of possible chemical or biological
+attack.
+
+                          STANDARDS
+
+                                                               5-223
+
+
+---
+
+Don your assigned protective mask with hood within the
+allowable time period for that mask. Then give the alarm
+both orally and visually. Next, take cover in the most
+protected immediate location available. Decontaminate
+any contaminated skin. Don MOPP gear until you reach
+level 4. Report the current situation to your supervisor.
+Perform these actions exactly in this sequence.
+
+             TRAINING AND EVALUATION
+                Training Information Outline
+
+1. Don your mask without securing the hood.
+2. Give the alarm.
+
+   a. Yell "gas."
+   b. Give arm-and-hand signal (Figure 5-119).
+3. Take cover using whatever cover is readily available to
+
+     decrease the amount of agent contact.
+
+5-224
+
+
+---
+
+VISUAL SIGNALS
+
+5-119. Chemical attack arm-and-hand signal.
+
+NOTE: Figure 5-120, shows some examples of how cover
+can decrease the amount of liquid contamination
+
+4. Decontaminate exposed skin as necessary (see the task
+Decontaminate Your Skin And Personal Equipment Using An
+M258A1 Decontamination Kit, task number 031-503-1007).
+
+5. Assume MOPP4 (see the task Protect Yourself From NBC
+Injury/Contamination With Mission-Oriented Protective
+Posture [MOPP] Gear, task number 031-503-1015).
+
+a. Put on your gloves with liners. The idea is to cover all skin.
+The head and body are protected by the mask and
+overgarment.
+
+b. Secure your overgarment jacket.
+
+                                    5-225
+
+
+---
+
+    c. Secure the hood.
+    d. Put on your overboots.
+
+   Figure 5-120. Example of protective cover against
+                     liquid chemical attack
+
+6. Decontaminate personal equipment as necessary (see
+the task Decontaminate Your Skin and Personal
+Equipment Using An M258A1 Decontamination Kit, task
+number 031-503-1007).
+7. Notify your supervisor.
+8. Continue the mission.
+5-226
+
+
+---
+
+            REPLACE CANISTER ON YOUR
+           M40-SERIES PROTECTIVE MASK
+
+                           031-503-1024
+
+                         CONDITIONS
+You are assigned an M40 or M42 protective mask. You
+have a defective filter canister and a replacement canister.
+
+                          STANDARDS
+Remove the defective canister and install a new canister
+on the M40 or M42 protective mask so that the mask will
+be operational and no damage is done to the mask.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Replace a canister on an M40 protective mask.
+
+   a. Remove the canister by unscrewing it counter-
+clockwise from the facepiece.
+
+   b. Check the connectors of the new canister, the mating
+surfaces of the facepiece, and the areas between these
+surfaces for dirt or other debris which would allow
+contaminated air into your facepiece.
+
+   c. Check the expiration date on the new canister to
+ensure the canister has not expired.
+
+                            WARNING
+       An expired canister will not filter toxic agents.
+
+                                                               5-227
+
+
+---
+
+   d. Insert the new canister into the side port of the
+facepiece.
+
+   e. Tighten the canister by screwing it clockwise. The
+canister will be hand-tight only.
+
+2. Replace a canister on an M42 protective mask.
+
+   a. Remove the canister carrier cover by pressing in and
+rotating it counterclockwise.
+
+   b. Remove the canister by unscrewing it counter-
+clockwise from the hose and removing it from the canister
+carrier.
+
+   c. Check the connectors of the new canister, the mating
+surfaces of the facepiece, and the areas between these
+surfaces for dirt or other debris which would allow
+contaminated air into your facepiece.
+
+   d. Check the expiration date on the new canister to
+ensure the canister has not expired.
+
+                            WARNING
+       An expired canister will not filter toxic agents.
+
+    e.Insert the canister into the canister carrier.
+
+    f. Make sure the gasket is in the canister connection
+         before connecting the canister to the hose.
+
+5-228
+
+
+---
+
+                            WARNING
+ A missing gasket will affect the seal and will allow the
+ wearer to inhale contaminated air.
+
+   g. Attach the canister to the hose.
+
+      (1) Position the hose on the canister.
+
+      (2) Tighten the canister by screwing it clockwise into
+the hose while holding the hose securely.
+
+   h. Attach the canister carrier cover to the carrier.
+
+      (1) Position the canister carrier cover on the canister
+carrier.
+
+      (2) Press in on the canister carrier cover while
+rotating it clockwise.
+
+     PROTECT YOURSELF FROM CHEMICAL
+             AND BIOLOGICAL INJURY OR
+
+  CONTAMINATION USING YOUR M40-SERIES
+           PROTECTIVE MASK WITH HOOD
+                           031-503-1025
+
+                         CONDITIONS
+You have your assigned M40-series protective mask with
+hood. You find yourself in one any of the following
+situations where you:
+
+1. Hear or see a chemical or biological alarm that indicates
+the presence of an agent.
+
+                                                               5-229
+
+
+---
+
+2. Realize otherwise that you are under a chemical or
+biological attack.
+
+3. Are ordered to mask.
+
+                          STANDARDS
+Don your M40-series protective mask within 9 seconds
+(including clearing and checking the mask). Pull the hood
+over your head and zip the front closed to cover all your
+bare skin.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Don your mask within 9 seconds.
+
+   a. Stop breathing.
+
+   b. Close your eyes.
+
+   c. Remove your helmet and do one of the following:
+
+      (1) Store it between your legs above the knees.
+
+      (2) Hold your rifle between your legs and place the
+helmet on the flash suppressor.
+
+                            WARNING
+ Do not wear contact lenses with the protective mask.
+ Remove contact lenses when the use of chemical agents
+ is imminent.
+
+5-230
+
+
+---
+
+   d. Take off your glasses if you are wearing them.
+   e. Open the carrier with your left hand holding the
+carrier open.
+   f. Remove the mask from the carrier by grasping the
+mask with your right hand.
+   g. Put your chin in the chin pocket.
+   h. Grasp the head harness and pull it over your head.
+Be sure your ears are between the temple straps and cheek
+straps. Center the head pad at the high point on the back of
+your head (Figure 5-121).
+
+               Figure 5-121. Center headpad.
+   i. Use the other hand to tighten the cheek straps one at a
+time while holding the head pad centered on the back of
+your head (Figure 5-122).
+
+                                                               5-231
+
+
+---
+
+            Figure 5-122. Tighten cheek straps.
+
+NOTE: The straps should lie flat against your head.
+
+   j. Clear the mask.
+
+      (1) Clear the outlet valve by pushing in on the center
+of the valve cover with one hand.
+
+      (2) Blow out hard so that air escapes around the
+edges of the mask.
+
+      (3) Cover the inlet port of the canister with the palm
+of your hand (Figure 5-123).
+
+      (4) Breathe in.
+
+      (5) Remove anything preventing a seal from forming
+between your face and the mask.
+
+NOTE: The facepiece should collapse against your face
+and remain so while you hold your breath. If it does, the
+5-232
+
+
+---
+
+facepiece is airtight. If the facepiece does not collapse,
+check for hair, clothing, or other matter between the
+facepiece and your face (Figure 5-123).
+
+            Figure 5-123. Clear and check mask.
+   k. Resume breathing.
+
+                                                               5-233
+
+
+---
+
+2. Don the hood so that it lies smoothly on your head
+(Figure 5-124).
+
+             Figure 5-124. Pull hood over head.
+                            CAUTION
+
+ Be very careful when pulling on the hood. The hood
+ could snag on the buckles of the head harness and tear.
+
+   a. Grasp the back edge of the hood skirt.
+   b. Pull the hood carefully over your head so that it
+covers the back of your neck, head, and shoulders.
+   c. Zip the front of the hood closed by pulling the zipper
+slider downward if so equipped (A in Figure 5-125).
+
+5-234
+
+
+---
+
+         Figure 5-125. Completely fastened mask.
+   d. Tighten the draw cord (B in Figure 5-125).
+   e. Secure the underarm straps by fastening and
+adjusting them (C in Figure 5-125).
+   f. Put on your helmet.
+   g. Close your mask carrier.
+   h. Continue the mission.
+3. Remove your protective mask with hood after the "all
+clear" order is given.
+   a. Remove your helmet.
+   b. Unfasten the underarm straps.
+
+                                                               5-235
+
+
+---
+
+   c. Loosen the draw cord.
+   d. Unzip the zipper on the hood.
+   e. Remove the hood (Figure 5-126).
+
+      (1) Place both hands on the back edge of the hood skirt.
+      (2) Raise the hood over your head.
+      (3) Pull the hood over the front of the mask.
+
+          Figure 5-126. Pull hood over facepiece.
+   f. Loosen the cheek straps.
+   g. Remove the mask.
+5-236
+
+
+---
+
+      (1) Place one hand on the front of the voicemitter to
+hold the facepiece to your face.
+
+      (2) Grasp the head harness tab with your other hand.
+      (3) Pull the head harness over the front of the mask.
+      (4) Remove the mask from your head.
+   h. Replace your helmet on your head.
+   i. Remove any moisture from the hood and mask.
+      (1) Shake off any moisture.
+      (2) Wipe any moisture from the hood and the mask.
+4. Store your mask with hood.
+   a. Hold the front of the mask in a horizontal position.
+   b. Smooth the hood over the mask.
+   c. Pull the head harness over the front of the mask.
+   d. Fold the two edges of the hood over the outlet valve
+to create a V in the front of the hood (Figure 5-127).
+
+                                                               5-237
+
+
+---
+
+                 Figure 5-127. Folding hood.
+          e. Store the underarm straps and the cord in the V.
+          f. Fold the V upward to cover the eye lenses
+without letting the hood cover the chin opening.
+          g. Put the mask with hood in the carrier while
+holding the facepiece upright with the lenses facing away
+from your body (Figure 5-128).
+          h. Close the carrier opening.
+          i. Store the mask with hood in the closed carrier
+in a cool, dry, dark place.
+          j. Hang the carrier (A in Figure 5-129) by the
+hook (B in Figure 5-129) on the short strap.
+
+5-238
+
+
+---
+
+Figure 5-128. Put mask in carrier.
+
+Figure 5-129. Mask carrier.
+
+                                    5-239
+
+
+---
+
+   MAINTAIN YOUR M40-SERIES PROTECTIVE
+                     MASK WITH HOOD
+                           031-503-1026
+
+                         CONDITIONS
+You are assigned the M40-series protective mask (with
+authorized accessories and components). The mask needs
+to be cleaned. You have a container of warm, soapy water;
+a container of clear water; clean rags; denatured alcohol; a
+small brush; and optical lens cleaning compound (NSN
+6850-00-592-3283).
+
+                          STANDARDS
+1. Identify and correct all operator-level deficiencies or
+shortcomings.
+
+2. Clean the mask, removing all dirt and conditioning the
+mask. Use only potable water. Do not allow the canister to
+get wet.
+
+3. Report deficiencies not corrected to your supervisor.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Check the carrier to ensure all issued items are present.
+
+2. Check the filter canister for:
+
+   a. Cracks, dents, or holes, especially around the seams.
+
+   b. Clogged air intake.
+
+5-240
+
+
+---
+
+   c. Damaged threads on the canister.
+
+   d. Loose absorbent particles by shaking the canister.
+
+3. Check the eye lenses, the eye-rings, and the outserts.
+
+   a. Remove the outserts from the facepiece.
+
+   b. Check the eye lenses for cracks, cuts, scratches, or
+discoloration that affect your vision.
+
+   c. Check the eye-rings for distortion or corrosion.
+
+   d. Check both sets of outsert lenses for cracks, chips, or
+discoloration that affect your vision.
+
+   e. Check the rubber rings for tears, looseness, brittle
+spots, soft or sticky spots, or cracked rims.
+
+4. Check the M42 protective mask for the following:
+
+   a. Check the hose for splits, cracks, breaks, or damage.
+
+   b. Check the hose to ensure that it is properly installed
+on the facepiece and is not loose by gently pulling it.
+
+   c. Remove the canister carrier from the hose.
+
+   d. Check the canister carrier to make sure that the
+gasket installed in the canister fitting at the end of the hose
+is present and serviceable.
+
+   e. Check the threads on the canister fitting for damage.
+                                                               5-241
+
+
+---
+
+   f. Pull gently on the hose fitting to make sure it will not
+pull free from the hose.
+
+   g. Remove the rest of the canister carrier from the facepiece hose.
+
+   h. Check the canister carrier cover to make sure that the
+gas particulate filter unit connection is firmly seated in the
+inlet post of the canister carrier cover.
+
+   i. Check the rubber seal inside the canister carrier cover
+for signs of separation, cuts, or other damage.
+
+5. Check the hood.
+
+NOTE: Remove the hood to allow inspection.
+
+   a. Examine the hood for cuts, holes, tears, sticky or
+gummy areas, and peeled or worn coating.
+
+NOTE: Needle holes at the seams are acceptable.
+
+    b. Check for missing, frayed, or torn straps, cords, or
+hardware; torn, broken, or inoperative zipper; and loose
+stitching on the hook-and-pile fasteners or dirt in the fasteners.
+
+                            WARNING
+ Do not attempt to remove the hose on the M42
+ protective mask from the facepiece. This may cause
+ leakage of toxic agents into the facepiece.
+
+5-242
+
+
+---
+
+6. Check the facepiece.
+
+   a. Check the inside surfaces of the facepiece for dirt,
+mud, and greasy or oily substances.
+
+   b. Check the facepiece for holes, tears, and splits.
+
+   c. Check the edge of the facepiece for soft or sticky
+spots.
+
+   d. Check all facepiece housings to be sure the silicone
+rubber is not pulling away, especially around the eye
+lenses.
+
+NOTE: Check the M42 protective mask hose connection
+to be sure it is not pulling away.
+
+7. Check the head harness.
+
+   a. Check for dirt.
+
+   b. Check the straps for cuts, tears, missing parts, or
+deterioration such as mildewing or fraying.
+
+   c. Check for missing, broken, bent, cracked, or
+corroded buckles.
+
+   d. Pull on the head harness straps to make sure the
+buckles hold the straps tightly.
+
+   e. Check the finish on the buckles for chips or scratches
+exposing bare metal.
+
+                                                               5-243
+
+
+---
+
+   f. Check the head harness for loss of elasticity by
+putting the harness on.
+8. Check the outlet valve and the outlet valve disk.
+
+   a. Grasp the tab at the bottom of the outlet valve cover.
+   b. Carefully lift the bottom portion.
+   c. Check for a missing, curled, or distorted disk.
+   d. Check for a sticking disk by rotating it.
+   e. Check the outlet valve disk for any nicks, cuts, tears,
+or rips.
+   f. Check for moisture on the disk, wiping it off with a
+clean, lint-free cloth.
+   g. Smooth the disk so it lies flat on the outlet valve seat.
+   h. Check the outlet valve seat for dirt.
+   i. Check the outlet valve cover for cuts, tears, or holes.
+   j. Check for dirt or moisture on the inside of the cover,
+cleaning it off with a soft, clean, dry cloth.
+9. Check the internal and external drinking tubes.
+   a. Check for missing tubes.
+   b. Check for cracks or cuts in the tubes.
+5-244
+
+
+---
+
+   c. Check the internal drinking tube for improper
+alignment.
+
+   d. Check the external drinking tube for improper
+connections.
+
+   e. Check for clogged tubes by connecting the M1
+canteen cap and blowing air through the system.
+
+   f. Check the drinking system for leaks.
+
+10. Check the airflow deflector.
+
+   a. Check the airflow deflector for:
+
+      (1) Insecure mounting inside the facepiece.
+
+      (2) Flanges on the deflector that are not in the
+mounting holes of the facepiece or are broken.
+
+   b. Check the mounting holes for cuts or tears.
+
+11. Check the inlet valve.
+
+   a. Check for missing or improperly mounted inlet valve
+disk and valve body.
+
+   b. Check for a stuck valve body by blowing on the inlet
+valve disk.
+
+   c. Check the inlet valve disk for cuts, holes, tears, or
+dirt.
+
+                                                               5-245
+
+
+---
+
+12. Check the nosecup assembly.
+
+   a. Check the nosecup and the nosecup valve seats for
+dirt, cracks, cuts, or holes.
+
+   b. Check for a nosecup that is not secured to the back
+of the front voicemitter housing by gently pulling it.
+
+   c. Check for missing, curled, torn, or improperly seated
+nosecup valve disks.
+
+   d. Check for stuck disks by rotating them.
+
+13. Check the M42 protective mask for the following:
+
+   a. Blow into the free end of the hose and check to see
+that the inlet valve disk is not stuck to the inlet valve body.
+
+   b. Check the inlet valve disk for cuts, holes, tears, and
+dirt.
+
+   c. Check the microphone and microphone cable to
+make sure that they are not broken, cracked, or frayed.
+
+   d. Check the microphone to make sure that it is not
+loose on the mount inside the facepiece.
+
+   e. Unplug the microphone cable from the front
+voicemitter socket, checking for corrosion.
+
+   f. Check the microphone cable to make sure that it
+plugs securely into the front voicemitter.
+
+5-246
+
+
+---
+
+14. Check the M42 protective mask microphone and
+microphone cable for the following:
+
+   a. Check the microphone to ensure that it is not broken,
+cracked, frayed, or loose on the mount inside the
+facepiece.
+
+   b. Unplug the microphone cable from the front
+voicemitter socket, checking for corrosion.
+
+   c. Check the microphone cable to ensure that it plugs
+securely into the front voicemitter socket.
+
+15. Check the voicemitters.
+
+   a. Check the retaining rings on the front voicemitter
+and the side voicemitter for corrosion, cracks, or nicks.
+
+   b. Check for retaining rings that are not hand-tight.
+
+   c. Check the front voicemitter and the side voicemitter
+for dents, cracks, or punctures.
+
+   d. Check the four beads in the center of each
+voicemitter for one that does not face outward.
+
+16. Check the carrier.
+
+   a. Check for dirt, sharp edges, torn straps, or missing
+hardware.
+
+   b. Check for pencil or pen markings on the carrier.
+
+                                                               5-247
+
+
+---
+
+   c. Check for mildew, solvents, or abrasive materials
+that may harm the facepiece.
+
+   d. Check the seams for broken stitches.
+
+   e. Check the hook-and-pile fasteners for dirt.
+
+17. Clean your mask and carrier using only potable water
+and alcohol without wetting the canister.
+
+                            CAUTION
+ Do not dunk the mask or the carrier in water. Do not allow
+ the canister to become wet. A wet canister is useless.
+
+NOTE: Unplug the M42 protective mask microphone
+cable and wash the facepiece carefully so that the
+microphone does not get wet.
+
+   a. Remove the canister, the outserts, and the hood.
+
+   b. Set the canister aside, away from cleaning operations
+so that it does not get wet.
+
+   c. Remove the outlet valve cover.
+
+   d. Remove greasy or oily substances from the facepiece
+with alcohol and a clean cloth.
+
+   e. Clean the eye lenses and both sets of outserts,
+polishing them with optical lens cleaning compound (NSN
+6850-00-592-3283), if available, or warm, soapy water.
+5-248
+
+
+---
+
+   f. Dip a clean, soft cloth into warm, soapy water,
+wringing it out well.
+
+   g. Wipe the facepiece, the hood, and the outserts inside
+and out. You can use a soft brush.
+
+   h. Rinse the cloth in clean, warm water, wringing it out.
+
+   i. Wipe all washed parts.
+
+   j. Dry everything with a dry, clean, soft cloth or air dry.
+
+                            CAUTION
+        Ensure all components are entirely dry before
+
+             reassembling the mask and storing it.
+
+   k. Replace the outlet valve cover, the hood, the
+canister, and the outserts.
+
+18. Clean the carrier.
+
+   a. Remove the contents from the carrier.
+
+   b. Shake the carrier upside down to remove dirt and
+foreign matter.
+
+   c. Soak the brush in cold water, shaking it to remove
+excess water.
+
+   d. Clean the carrier with the brush without soaking the
+carrier or using hot water, bleach, or detergent.
+
+                                                               5-249
+
+
+---
+
+                            CAUTION
+ Hot water, bleach, or detergent will reduce resistance of
+
+                the carrier to water and mildew.
+
+e. Store the carrier after it is entirely dry.
+
+                            CAUTION
+       Ensure the carrier is entirely dry before storing
+
+                           components.
+
+19. Report discrepancies to your supervisor.
+
+       DECONTAMINATE YOUR SKIN USING
+THE M291 SKIN DECONTAMINATING KIT (SDK)
+
+                           031-503-1033
+
+                         CONDITIONS
+You are at Mission-Oriented Protective Posture (MOPP)
+level 2 with remaining MOPP gear available and have been
+given a full canteen of water and an M291 SDK. You find
+yourself in one of the following situations where you have:
+
+1. Been attacked with chemical agents.
+
+2. Passed through an area contaminated with chemical
+agents.
+
+                          STANDARDS
+Start to decontaminate your skin and/or eyes within 1
+minute after you determine they are contaminated.
+Decontaminate all exposed skin and your eyes, if
+necessary, without getting the decontaminating powder in
+
+5-250
+
+
+---
+
+your eyes or uncontaminated cuts and wounds.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+1. Inspect the M291 SDK for loose black powder.
+
+   a. If no powder is detected, the kit is mission ready.
+
+   b. If powder is detected, inspect each packet for leaks.
+
+   c. Discard all leaking packets.
+
+   d. Reinsert good packets into the carrying pouch.
+
+2. Verify that there are at least four skin decontaminating
+packets in the kit.
+
+NOTE: If there are less than four packets, request an
+additional kit, continuing to use your kit until all packets
+are gone.
+
+                            CAUTION
+ For external use only. May be slightly irritating to the
+ skin or eyes. Keep decontaminating powder out of your
+ eyes, cuts and wounds. Use water to wash toxic agent
+ out of your eyes, cuts or wounds.
+
+`
+3. Decontaminate your skin with the M291 SDK within 1
+minute of the suspected exposure.
+
+a. Put on your mask and hood without—
+
+                                              5-251
+
+
+---
+
+      (1) Zipping the hood.
+      (2) Pulling the draw strings.
+      (3) Fastening the shoulder straps.
+   b. Seek overhead cover for protection against further
+contamination.
+   c. Remove one skin decontaminating packet from the
+carrying pouch.
+   d. Tear the packet open quickly at the notch.
+   e. Remove the applicator pad from the packet.
+   f. Discard the empty packet, observing litter discipline.
+   g. Open the applicator pad.
+      (1) Unfold the applicator pad.
+      (2) Slip your finger(s) into the handle.
+   h. Thoroughly scrub exposed skin on the back of your
+hand, palm, and fingers until completely covered with
+black powder from the applicator pad.
+   i. Switch the applicator pad to the other hand, repeating
+the previous step on the other hand.
+
+5-252
+
+
+---
+
+                            WARNING
+ Death or injury may result if you breathe toxic agents
+ while decontaminating the face. if you need to breathe
+ before you finish, reseal your mask, clear it, and check
+ it. get your breath, then resume the decontaminating
+ procedure.
+
+   j. Decontaminate your face and the inside of your
+mask.
+
+      (1) Hold your breath.
+
+      (2) Close your eyes.
+
+      (3) Grasp the mask beneath your chin.
+
+      (4) Pull the hood and mask away from your chin
+enough to allow one hand between the mask and your
+face.
+
+      (5) Wipe up and down across your face, beginning at
+the front of one ear to your nose to other ear.
+
+      (6) Wipe across your face to the corner of your nose.
+
+      (7) Wipe extra strokes at the corner of your nose.
+
+      (8) Wipe across your nose and the tip of your nose to
+the other corner of your nose.
+
+      (9) Wipe extra strokes at the corner of your nose.
+
+                                                               5-253
+
+
+---
+
+      (10) Wipe across your face to the other ear.
+
+      (11) Wipe up and down across your face, beginning
+from the ear to your mouth to other end of the jawbone.
+
+      (12) Wipe across your cheek to the corner of your
+mouth.
+
+      (13) Wipe extra strokes at the corner of your mouth.
+
+      (14) Wipe across your closed mouth to the center of
+your upper lip.
+
+      (15) Wipe extra strokes above your upper lip.
+
+      (16) Wipe across your closed mouth to the other
+corner of your mouth.
+
+      (17) Wipe extra strokes at the corner of your mouth.
+
+      (18) Wipe across your cheek to the end of your
+jawbone.
+
+      (19) Wipe up and down across your face, beginning
+from your jawbone, to your chin and to the other end of
+your jawbone.
+
+      (20) Wipe across and under your jaw to your chin,
+cupping your chin.
+
+      (21) Wipe extra strokes at the center of your chin.
+
+5-254
+
+
+---
+
+      (22) Wipe across and under your jaw to end of your
+jawbone.
+
+      (23) Decontaminate the inside of your mask by
+turning your hand out and quickly wiping the inside of the
+mask that touches your face.
+
+      (24) Discard the applicator pad, employing litter
+discipline.
+
+      (25) Seal your mask.
+      (26) Clear your mask.
+      (27) Check your mask.
+      (28) Breathe.
+   k. Remove the second packet from the carrying pouch.
+   l. Tear open the packet quickly at the notch.
+   m. Remove the applicator pad from the packet.
+   n. Discard the empty packet, employing litter
+discipline.
+   o. Open the applicator pad.
+      (1) Unfold the applicator pad.
+      (2) Slip your finger(s) into the handle.
+
+                                                               5-255
+
+
+---
+
+   p. Scrub thoroughly the skin of your neck and ears
+without breaking the seal between your face and the mask
+until they are completely covered with black powder.
+
+   q. Redo your hands until they are completely covered
+with black powder.
+
+   r. Discard the applicator pad, employing litter
+discipline.
+
+   s. Put on your protective gloves.
+
+   t. Fasten the hood.
+
+   u. Remove the powder with soap and water when
+operational conditions permit.
+
+NOTE: It does not matter how long the powder stays on
+your skin.
+
+       DECONTAMINATE YOUR INDIVIDUAL
+   EQUIPMENT USING THE M295 INDIVIDUAL
+ EQUIPMENT DECONTAMINATION KIT (IEDK)
+
+                           031-503-1034
+
+                         CONDITIONS
+You are at Mission-Oriented Protective Posture (MOPP)
+level 4 with Kevlar helmet, load carrying equipment
+(LCE), mask carrier and assigned weapon. You have just
+completed skin decontamination. You have an M295
+IEDK and you find yourself in one of the following
+situations where you have:
+
+5-256
+
+
+---
+
+1. Been attacked with chemical agents.
+
+2. Passed through an area contaminated with chemical
+agents.
+
+                          STANDARDS
+Decontaminate all your individual equipment for liquid
+decontamination using the M295 IEDK without getting the
+powder in your eyes, cuts, or wounds or contaminating yourself.
+
+             TRAINING AND EVALUATION
+
+Training Information Outline
+
+                            CAUTION
+ Keep decontaminating powder out of your eyes, cuts,
+ and wounds by not:
+
+ 1. Handling or holding leaking packets above the head.
+
+ 2. Touching or rubbing your eyes with anything that has
+ been in contact with the decontaminating powder
+ (hands, arms, clothing, equipment).
+
+ 3. Touching your lips or inside your mouth with
+ anything that has been in contact with the
+ decontaminating powder (hands, arms, clothing,
+ equipment).
+
+                                                               5-257
+
+
+---
+
+                            CAUTION
+ Cover exposed cuts or wounds with appropriate first aid
+ wrap or bandage prior to handling the packets.
+
+1. Inspect the IEDK.
+
+   a. Check for loose black (decontaminating) powder.
+
+      (1) If no powder is detected, the kit is ready.
+
+      (2) If powder is detected, inspect each packet for
+leaks.
+
+      (3) Discard all leaking packets.
+
+   b. Verify that there are at least four decontaminating
+packets in the kit.
+
+NOTE: If there are fewer than four decontaminating
+packets in the kit, request an additional kit.
+
+2. Use the IEDK.
+
+   a. Prepare the IEDK.
+
+      (1) Remove one decontaminating packet from the
+kit.
+
+      (2) Tear the packet at a notched edge.
+
+      (3) Remove the pad applicator mitt.
+
+5-258
+
+
+---
+
+      (4) Discard the foil packet, employing litter
+discipline.
+
+      (5) Open the pad applicator mitt.
+
+          (a) Unfold the pad applicator mitt.
+
+          (b) Grasp the outside of the pad applicator mitt.
+
+   b. Decontaminate the glove for the hand with which
+you write.
+
+   c. Put on the decontaminated glove.
+
+   d. Insert the decontaminated gloved hand inside the pad
+applicator mitt, placing the resin pad in the palm side of
+the hand.
+
+   e. Decontaminate your individual equipment by
+rubbing with the resin pad side of the pad applicator mitt,
+making sure you cover all areas thoroughly, especially
+areas which are hard to get into (e.g., cracks, crevices and
+other absorbent material). Decontaminate the following:
+
+      (1) Your other protective glove.
+
+      (2) Exposed areas of the mask and hood.
+
+      (3) Your weapon.
+
+      (4) Your helmet by patting the pad applicator mitt on
+the surface.
+
+                                                               5-259
+
+
+---
+
+                            CAUTION
+ Never attempt to decontaminate a loaded weapon.
+ Always unload, clear, and place weapons on safe before
+ starting decontaminating procedures.
+
+   f. Discard the pad applicator mitt, employing litter
+discipline.
+
+   g. Get another packet.
+
+   h. Decontaminate the remainder of your individual
+equipment with the new packet.
+
+      (1) LCE and accessories (for example, canteen,
+ammo pouch, first aid pouch, and so forth).
+
+      (2) Mask carrying case.
+
+      (3) Protective boots.
+
+   i. Repeat decontamination of the protective gloves.
+
+   j. Discard the pad applicator mitt, employing litter
+discipline.
+
+   k. Use another pad applicator mitt to decontaminate
+any areas where liquid agent is still suspected or detected.
+
+   l. Repeat decontamination of the protective gloves.
+
+   m. Discard the pad applicator mitt, employing litter
+discipline.
+
+5-260
+
+
+---
+
+                            CAUTION
+ Only the liquid hazard has been removed. Items may
+ still present a vapor hazard. Do not unmask until items
+ have undergone complete decontamination or have
+ been determined by appropriate detector (for example,
+ chemical agent monitor [CAM]) to ensure no vapor
+ hazards are present.
+
+                          SECTION VII
+
+                            FIRST AID
+
+This section includes eleven GIVE FIRST AID tasks from
+                         STP 21-1-SMCT.
+
+                 EVALUATE A CASUALTY
+                           081-831-1000
+
+                         CONDITIONS
+In a tactical environment, given a soldier who has signs
+and/or symptoms of an injury.
+
+                          STANDARDS
+Evaluate a casualty and identify all injuries and/or
+conditions so that proper aid is rendered.
+
+             TRAINING AND EVALUATION
+
+Evaluation Preparation
+
+Setup: You will need another soldier to play the part of the
+casualty. Have the casualty lie down, face-up. Soldier
+
+                                                               5-261
+
+
+---
+
+number two will practice the evaluation procedure on
+soldier number one, simultaneously with the facilitator’s
+talk-through.
+
+Brief Soldier: You have just come upon a soldier who is
+lying face-up and is not moving. At the signal, you will
+simulate the steps for evaluating a casualty.
+
+Training Information Outline
+
+NOTES: 1. When evaluating and/or treating a casualty,
+you should seek medical aid as soon as possible. Do not
+stop treatment, but if the situation allows, send another
+person to find medical aid.
+
+          2. If there are any signs of chemical or biological
+agent poisoning, immediately mask the casualty. If it is
+not nerve agent poisoning, decontaminate exposed skin
+and gross contamination (large wet or oily spots) of the
+clothing or overgarments. If it is nerve agent poisoning,
+administer the antidote before decontamination. (See the
+task Perform First Aid For Nerve Agent Injury [Buddy-
+Aid], task number 081-831-1044.)
+
+                            WARNING
+  If a broken neck or back is suspected, do not move the
+  casualty unless to save his or her life.
+
+1. Check for responsiveness.
+
+     a. Ask in a loud, but calm voice, "Are you okay?"
+
+5-262
+
+
+---
+
+     b. Gently shake or tap the casualty on the shoulder.
+
+     c. Watch for a response. If the casualty does not
+respond, go to step 2.
+
+2. If the casualty is conscious, ask where he or she feels
+different than usual or where it hurts. Go to step 3.
+
+NOTE: If the casualty is conscious but is choking and
+cannot talk, stop the evaluation and begin first aid.
+Appropriate first aid action is in the lesson “Perform First
+Aid to Clear an Object Stuck in the Throat of a Conscious
+Victim.”
+
+3. Check the Casualty’s Breathing.
+
+     a. Breathing is checked using the following
+methods.
+
+          (1) Look for a rise and fall of the casualty's
+chest.
+
+          (2) Listen for breathing by placing your ear
+about 1 inch above the casualty's mouth and nose.
+
+          (3) Feel for breathing by placing your hand or
+cheek about 1 inch above the casualty's mouth and nose.
+
+     b. If casualty is not breathing, call for medical help
+and begin first aid. Appropriate first aid actions are in the
+lessons “Perform First Aid to Clear an object Stuck in the
+Throat of a Conscious Victim” and “Perform Mouth-to-
+Mouth Resuscitation.”
+
+                                                               5-263
+
+
+---
+
+                            WARNING
+   In a chemically contaminated area, do not expose the
+
+                             wound(s).
+
+4. Check the Casualty for Bleeding.
+
+     a. Look for spurts of blood or blood-soaked clothes.
+
+     b. Look for entry and exit wounds.
+
+     c. If bleeding is present, begin first aid.
+Appropriate first aid actions, as needed, are in these
+lessons: “Perform First Aid for Bleeding of an
+Extremity,” “Perform First Aid for an Open Head
+Wound”, “Perform First Aid for an Open Chest Wound,”
+and “Perform First Aid for an Open Abdominal Wound.”
+
+          (1) Arm or leg wound: See task Perform First
+Aid for Bleeding of an Extremity, task number 081-831-
+1032.
+
+          (2) Partial or complete amputation: See task
+Perform First Aid for Bleeding of an Extremity, task
+number 081-831-1032.
+
+          (3) Open head wound: See task Perform First
+Aid for an Open Head Wound, task number 081-831-
+1033.
+
+5-264
+
+
+---
+
+          (4) Open abdominal wound: See task Perform
+First Aid for an Open Chest Wound, task number 081-
+831-1026.
+
+          (5) Open chest wound: Apply A Dressing To An
+Open Chest Wound.
+5. Check the Casualty for Shock.
+
+     a. Look for any of the following signs and/or
+symptoms.
+
+          (1) Sweaty but cool skin (clammy skin).
+          (2) Paleness of the skin.
+          (3) Restlessness or nervousness.
+          (4) Thirst.
+          (5) Loss of blood (bleeding).
+          (6) Confusion.
+          (7) Faster than normal breathing rate.
+          (8) Blotchy or bluish skin, especially around the
+mouth.
+          (9) Nausea and/or vomiting.
+
+                                                               5-265
+
+
+---
+
+     b. If signs/symptoms of shock are noted, begin first
+aid. Appropriate first aid action can be found under the
+task “Perform First Aid to Prevent or Control Shock.”
+
+6. Check the Casualty for Fractures.
+
+     a. Look for the following signs and/or symptoms of
+a back or neck injury.
+
+          (1) Pain or tenderness of the neck or back area.
+
+          (2) Cuts or bruises in the neck or back area.
+
+          (3) Inability of a casualty to move (paralysis or
+numbness).
+
+                a. Ask about the ability to move
+(paralysis).
+
+                b. Touch the casualty's arms and legs and
+ask whether he or she can feel your hand (numbness).
+
+          (4) Unusual body or limb position.
+
+                            WARNING
+  Unless there is immediate life-threatening danger, do
+  not move a casualty who has a suspected back or neck
+  injury.
+
+     b. Immobilize any casualty suspected of having a
+neck or back injury by doing the following:
+
+5-266
+
+
+---
+
+          (1) Tell the casualty not to move.
+
+          (2) If a back injury is suspected, place padding
+under the natural arch of the casualty's back.
+
+          (3) If a neck injury is suspected, place a roll of
+cloth under the casualty's neck and put boots (filled with
+dirt, sand, etc.) or rocks on both sides of the head.
+
+     c. Check the casualty's arms and legs for open or
+closed fractures.
+
+          (1) Check for open fractures. Look for bleeding
+or bone sticking through the skin.
+
+          (2) Check for closed fractures. Look for
+swelling, discoloration, deformity, or unusual body
+position.
+
+          (3) If casualty has a closed or open fracture,
+begin first aid. Appropriate first aid action is in the lesson
+“Perform First Aid for a Suspected Fracture.”
+
+7. Check the Casualty for Burns.
+
+     a. Look carefully for reddened, blistered, or charred
+skin. Also check for singed clothes.
+
+     b. If burns are found, begin first aid. Appropriate
+first action is in the lesson: “Give First Aid for Burns.”
+
+8. Check the Casualty for a head injury.
+
+                                                               5-267
+
+
+---
+
+     a. Usually, serious skull fractures and brain injuries
+occur together; however, it is possible to receive a serious
+brain injury without a skull fracture. The brain is a very
+delicate organ; when it is injured, the casualty may exhibit
+a number of signs and/or symptoms.
+
+     b. Look for the following signs and symptoms.
+
+          (1) Unequal pupils (the pupils of the eyes are not
+the same size).
+
+          (2) Fluid from the ear(s), nose, mouth, or injury
+site.
+
+          (3) Slurred speech.
+
+          (4) Confusion.
+
+          (5) Sleepiness.
+
+          (6) Loss of memory or consciousness.
+
+          (7) Staggering in walking.
+
+          (8) Headache.
+
+          (9) Dizziness.
+
+          (10) Vomiting.
+
+          (11) Paralysis.
+
+          (12) Convulsions or twitches.
+5-268
+
+
+---
+
+     c. If a head injury is suspected, continue to watch
+for signs which would require performance of mouth-to-
+mouth resuscitation (see task Perform Mouth-to-Mouth
+resuscitation, task number 081-831-1042), treatment for
+shock (see task Perform First Aid to Prevent or Control
+Shock, task number 081-831-1005), or control of bleeding
+(see task Perform First Aid for Bleeding of an Extremity,
+task number 081-831-1032).
+
+9. Seek medical aid. Seek medical assistance as soon as
+possible, but you must not interrupt treatment. If possible
+send another person to find medical aid.
+
+REFERENCES
+
+FM 21-11
+
+PERFORM FIRST AID TO RESTORE BREATHING
+
+  008-831-1003 Perform First Aid to Clear an Object
+       Stuck in the Throat of a Conscious Casualty
+
+008-831-1042 Perform Mouth-to-mouth Resuscitation
+
+                         CONDITIONS
+In a tactical environment, and given a conscious or
+unconscious casualty who has stopped or is having
+difficulty in breathing.
+
+                          STANDARDS
+Be able to administer first aid until the casualty can talk and
+breathe normally or until you are relieved by a qualified person.
+
+                                                               5-269
+
+
+---
+
+             TRAINING AND EVALUATION
+
+Evaluation Preparation
+
+Setup: You will need Resusci-Anne to play the part of the
+casualty. Have the casualty lie down, face-up. Soldier will
+practice the evaluation procedure on Resusci-Anne,
+simultaneously with the facilitator’s talk-through.
+
+Brief Soldier: Describe the symptoms of a casualty with
+good air exchange, poor air exchange, or a complete
+airway obstruction. Ask the soldier what should be done.
+Score step 1 based upon the answer. Then tell the soldier
+to do all of the first aid steps required to clear an object
+from the casualty's throat. Tell the soldier to demonstrate
+where to stand, how to position his or her hands, and how
+to position the casualty for the thrusts. The soldier must
+tell you how the thrusts should be done. Ensure that the
+soldier understands that he or she must not actually do the
+thrusts. Do not evaluate step 3 in the simulated mode.
+
+Evaluation Guide
+
+Performance Measures
+
+1. Obstructions to the Airway. An upper airway
+obstruction is any object in the throat that blocks
+breathing. If the obstruction is not removed,
+unconsciousness and death will result. Here are examples
+of obstruction:
+
+     a. Foreign objects such as food or other materials.
+
+5-270
+
+
+---
+
+     b. Blood clots or loose teeth caused by head or
+facial injuries.
+
+     c. The casualty's own tongue falling back into his
+throat. Immediate help is needed. Evaluation of the
+casualty, is to be performed prior to administering mouth-
+to-mouth resuscitation.
+
+2. Perform First Aid to Clear an Object Stuck in the
+throat of a Conscious Casualty.
+
+     a. Evaluate the casualty.
+
+          (1) Check for universal choking sign.
+
+          (2) Ask if he can speak.
+
+          (3) Listen for coughing sounds or wheezing noises.
+
+          (4) Check for lack of breathing.
+
+NOTE: If the conscious victim has signs of airway
+obstruction, immediate action is essential. If the casualty
+has good air exchange with only partial obstruction and is
+able to speak or cough, do not interfere with his attempts
+to expel a foreign body.
+
+NOTE: Clearing a conscious casualty’s airway
+obstruction can be performed with the casualty either
+standing or sitting and by following a relatively simple
+procedure. If the person has poor air exchange or
+complete blockage, call for help and begin administering
+manual (abdominal or chest) thrusts.
+
+                                                               5-271
+
+
+---
+
+NOTE: Do not use abdominal thrusts on anyone who is
+in the advanced stages of pregnancy, is obese, or who has
+a significant abdominal wound. Use chest thrust in the
+preceding situations.
+
+     b. Deliver abdominal thrusts.
+
+          (1) Position yourself behind the casualty and
+wrap arms around the casualty's waist.
+
+          (2) Make a fist with one hand and place thumb
+side of the fist against the abdomen slightly above the
+navel and well below the tip of the breastbone. Cover the
+fisted hand with the other hand.
+
+          (3) Give quick backward and upward thrusts.
+
+     c. If an abdominal thrust is not possible, deliver
+chest thrusts.
+
+          (1) Position yourself behind the casualty and
+wrap arms around the casualty's chest.
+
+          (2) Make a fist with one hand and place the
+thumb side of the fist on the middle of the breastbone.
+Cover the fisted hand with the other hand.
+
+          (3) Give quick backward and upward thrusts.
+
+NOTE: Continue performing abdominal thrusts until the
+obstruction is expelled or the casualty becomes
+unconscious. If the casualty becomes unconscious,
+perform a finger sweep and then start mouth-to-mouth
+
+5-272
+
+
+---
+
+resuscitation procedures. If the obstruction is cleared,
+watch the casualty closely and check for other injuries if
+necessary (see task Evaluate a Casualty task number 081-
+831-1000).
+
+3. Clear the Airway of an Unconscious Casualty.
+
+     a. Call for help.
+
+     b. Place casualty on his back, straddle or kneel near
+the hips, and place one hand on top of the other in the
+middle of the abdomen (fingers pointing towards the
+head).
+
+     c. Continue giving abdominal or chest thrusts, as
+required.
+
+     d. Open the mouth by grasping the teeth, and then
+with the thumb and index finger, lift the jaw open.
+
+     e. Look into the mouth and apply a finger sweep.
+To do this, the index finger of the other hand is inserted
+along the inside of one cheek. Use a hooking motion from
+the far side of the mouth to the near side.
+
+                            CAUTION
+  If the casualty vomits roll him onto his side away from
+
+                                 you.
+
+NOTE: Continue performing abdominal thrusts until the
+obstruction is expelled, or a qualified person has relieved
+you.
+
+                                                               5-273
+
+
+---
+
+4. Perform Mouth-to-Mouth Resuscitation.
+
+     a. Roll the casualty on his or her back if necessary.
+
+     b. Emergency procedures must be applied to a
+casualty quickly and correctly. In order for the soldier to
+apply the correct procedure, the casualty must be in the
+proper position. Procedures of this step are:
+
+          (1) Check for responsiveness. Establish whether
+the casualty is conscious by gently shaking him or her and
+asking, “Are you OK?”
+
+          (2) Call for help.
+
+          (3) Position the unconscious casualty up on a
+firm surface.
+
+          (4) Straighten the casualty’s legs. Take the
+casualty’s arm that is nearest to you. Move it so that it is
+straight and above his or her head. Repeat the procedure
+with the other arm.
+
+          (5) Kneel beside the casualty with your knees
+near his or her shoulders (leave space to roll the body).
+Place one hand behind the head or neck for support. With
+your other hand grasp the casualty under the far arm
+(armpit area).
+
+          (6) Roll the casualty towards you using a steady
+and even pull. The head and neck should stay in line.
+
+5-274
+
+
+---
+
+          (7) Return the casualty’s arms to his or her side.
+Straighten the casualty’s legs. Reposition yourself so that
+you are now kneeling at the level of the casualty’s
+shoulders. If a neck injury is suspected and the jaw thrust
+will be used, kneel at the casualty’s head looking at the
+feet.
+
+     c. Open the airway using the head-tilt/chin-lift
+method. The tongue is the single most common cause of
+an airway obstruction. In most cases, the airway can be
+cleared by simply extending the neck. This action pulls
+the tongue away from the air passage in the throat. This
+procedure is called the head-tilt/chin-lift method.
+
+    (1) Kneel at the level of the casualty’s shoulders.
+
+    (2) Place one hand on the casualty's forehead and apply
+    firm, backward pressure with the palm to tilt the head
+    back.
+
+    (3) Place the fingertips of the other hand under the
+    boney part of the lower jaw and lift, bringing the chin
+    forward.
+
+NOTE: Do not use the thumb to lift and do not press
+deeply into the soft tissue under the chin with the fingers.
+Ensure the students understand that foreign material
+should be removed as soon as possible.
+
+     d. Check for breathing within three to five seconds
+by placing an ear over the casualty’s mouth and looking
+toward his or her chest.
+
+                                                               5-275
+
+
+---
+
+NOTE: After establishing an open airway, it is important
+to maintain that airway in an open position. Often the act
+of just opening and maintaining the airway will allow the
+casualty to breathe properly. Once the rescuer uses the
+head-tilt/chin-lift method to open the airway, he or she
+should maintain that head position to keep the airway
+open. Failure to maintain the open airway will prevent the
+casualty from receiving an adequate supply of oxygen.
+The procedures for this step are:
+
+          (1) LOOK for the chest to rise and fall.
+
+          (2) LISTEN for air escaping during exhalation by
+          placing your ear near the casualty’s mouth.
+
+          (3) FEEL for the flow of air on your cheek.
+
+NOTE: If the casualty resumes breathing at any time
+during this procedure, the airway should be maintained
+open and the casualty should be monitored. If the casualty
+continues to breathe, he or she should be transported to
+medical aid.
+
+     e. Give breaths to ensure an open airway.
+
+          (1) If the chest does not rise and fall and no air is
+exhaled, the casualty is breathless. This is a sign for you
+to begin mouth-to-mouth resuscitation. In this method of
+rescue breathing, inflate the casualty’s lungs with air from
+your lungs.
+
+     a. Maintain the airway and gently pinch the nose
+     closed using the hand on the casualty’s forehead.
+
+5-276
+
+
+---
+
+          i. Let the same hand, pinching the nose closed,
+exert pressure on the casualty’s forehead to maintain the
+backward head tilt and maintain an open airway.
+
+          ii. With the other hand, lift the chin while
+keeping your fingertips on the bony part of the lower jaw
+near the chin.
+
+             b. Take a deep breath and place your
+     mouth, in a airtight seal, around the casualty’s mouth.
+
+             c. Give two full breaths (one and one-half
+     to two seconds each), taking a breath between them,
+     while watching for the chest to rise and fall and
+     listening and/or feeling for air to escape during
+     exhalation.
+
+          (2) If the chest rises, go to “Check for Pulse”. If
+the chest does not rise, continue with “Reposition the
+casualty’s head slightly farther backward and repeat the
+breaths.”
+
+NOTE: The mouth-to-nose method is recommended
+when the casualty's mouth cannot be opened, there are jaw
+or mouth injuries, or a tight seal cannot be formed around
+the casualty's mouth.
+
+     f. Reposition the casualty’s head slightly farther
+backward and repeat the breaths.
+
+          (1) Improper chin and head positioning is the
+most common cause of difficulty with ventilation. If the
+
+                                                               5-277
+
+
+---
+
+initial attempt to ventilate the casualty is unsuccessful,
+reposition the casualty’s head and repeat rescue breathing.
+The procedures of this step are as follows:
+
+     a. Reposition the casualty’s head slightly backward.
+
+     b. Repeat the steps in “Give breathes to ensure an
+     open airway.”
+
+          (2) If the chest rises, go to “Check for a pulse.”
+If it does not rise, continue with “Perform abdominal or
+chest thrusts.”
+
+5. Perform a finger sweep and repeat the breaths.
+
+     a. If you cannot administer rescue breathing due to
+an airway obstruction, then remove the airway obstruction
+using the finger sweep method.
+
+     b. Procedures of the finger sweep method include
+the following:
+
+          (1) Open the casualty’s mouth by grasping both
+the tongue and lower jaw between your thumb and fingers
+and lifting the jaw open.
+
+NOTE: If you are unable to open the casualty’s mouth,
+cross you fingers and thumb and push the teeth apart by
+pressing you thumb against his or her upper teeth and
+pressing your fingers against the lower teeth.
+
+          (2) Insert the index finger of the other hand
+down along the cheek to the base of the tongue.
+
+5-278
+
+
+---
+
+          (3) Use a hooking motion from the side of the
+mouth toward the center to dislodge the object. Take care
+not to force the object deeper into the airway.
+
+          (4) Reopen the airway and repeat the breaths.
+
+NOTE: If the chest rises, go to “Check for pulse.” If the
+chest does not rise, repeat steps “Perform abdominal
+thrusts or chest thrusts.” And “Perform a finger sweep and
+repeat breaths” until airway is clear.
+
+6. Check for a pulse.
+
+     a. When a casualty’s heart has stopped, he or she is
+unconscious and limp; the pupils of the eyes are open
+wide. When evaluating a casualty or when performing the
+preliminary steps of rescue breathing, feel for a pulse.
+
+     b. Checking for a pulse requires the following steps:
+
+          (1) Use the first two fingers in the groove in the
+casualty’s throat beside the Adam’s apple.
+
+          (2) Without using the thumb, check pulse for 5
+to 10 seconds.
+
+     c. If a pulse is found but the casualty is not
+breathing, continue mouth-to-mouth resuscitation. If no
+pulse is found, cardiopulmonary resuscitation (CPR) must
+be performed by qualified personnel. Send for qualified
+medical personnel.
+
+                                                               5-279
+
+
+---
+
+7. Continue Mouth-to-Mouth.
+
+     a. You as a lifesaving agent would continue rescue
+breathing until the casualty starts to breathe on his or her
+own, until you are relieved by another person, or until you
+are too tired to continue.
+
+     b. Continuation of lifesaving procedures involves
+the following:
+
+          (1) Continue mouth-to-mouth resuscitation at
+the rate of about 10 to 12 breaths per minute.
+
+          (2) Recheck for pulse and breathing for three to
+five seconds every 12 breaths.
+
+          (3) Continue mouth-to-mouth or mouth to nose
+resuscitation until breathing is restored.
+
+8. In a real emergency situation, the care giver would
+watch the casualty closely, would maintain an open
+airway, and would check for other injuries.
+
+REFERENCES
+
+DVC 08-14   FM 21-11
+SO830       STP 21-1-SMCT
+
+5-280
+
+
+---
+
+ PERFORM FIRST AID TO CONTROL BLEEDING
+
+  081-831-1032 Perform First Aid for Bleeding of an
+                             Extremity
+
+  081-831-1033 Perform First Aid for an Open Head
+                              Wound
+
+  081-831-1026 Perform First Aid for an Open Chest
+                              Wound
+
+      081-831-1025 Perform First Aid for an Open
+                       Abdominal Wound
+
+                         CONDITIONS
+In a tactical environment, under any conditions; given a
+casualty who appears to have an open wound.
+
+                          STANDARDS
+Be able to control the bleeding and to apply a dressing to
+the open wound following the correct sequence without
+causing further injury to the casualty.
+
+             TRAINING AND EVALUATION
+
+                    Evaluation Preparation
+
+Setup: Soldiers will be divided up into buddy-teams. One
+soldier in each pair will simulate being a casualty and the other
+soldier will simulate rendering first-aid. Upon completion,
+soldiers will reverse roles. Each buddy-team will be issued
+field dressings, improvised field dressing and padding material
+(t-shirts, socks, strips of cloth, handkerchiefs, etc.), rigid stick-
+like objects, and grease pencils.
+
+                                                               5-281
+
+
+---
+
+Brief Soldier: You observe a casualty with a bleeding
+wound to an extremity (either an arm or leg). You are not
+in a chemical environment.
+
+Evaluation Guide
+
+Performance Measures
+
+1. Put on a Field Dressing
+
+     a. As with all first aid tasks, before applying a
+dressing, evaluate the casualty, checking the entire body
+for other injuries and taking other lifesaving measures as
+necessary (Task #081-831-1000, Evaluate a Casualty).
+
+     b. If at all possible, expose the wound first, by
+pushing or cutting away loose clothing. This will enable
+you to view the extent of the injury.
+
+                            WARNING
+  Clothing or anything else stuck to the wound should be
+   left alone to avoid injury. Do not attempt to clean the
+
+                               wound.
+
+NOTE: Important to Remember: If you are in an area
+where chemical agents have been released, do not expose
+the wound. Place the dressing on the wound and secure in
+place.
+
+     c. Remove the dressing packet from the first aid
+pouch of the casualty.
+
+5-282
+
+
+---
+
+     d. Grasp olive drab tails of the dressing with two
+hands.
+
+     e. Hold the dressing directly over the wound with
+white side down.
+
+     f. Pull the dressing open and place directly over the
+wound, white side down.
+
+     g. With one hand, hold the dressing in place; use the
+other hand to wrap one of the tails around the injury.
+
+NOTE: If the casualty is able, you may ask him to hold
+the dressing in place while you wrap the tails.
+
+     h. Wrap the other tail in the opposite direction until
+remainder of dressing is covered and secured to the body.
+
+NOTE: Tie the tails into a nonslip knot over the outer
+edge of the dressing. The field dressing knot is never tied
+over the wound.
+
+                            CAUTION
+    Dressing should be tied firmly enough to secure the
+  dressing but loosely enough to insert 2 fingers between
+
+                    the knot and the dressing.
+
+NOTE: When practical, apply direct manual pressure
+over the dressing for 5-10 minutes to help control the
+bleeding. The casualty can be asked to do this himself, if
+he is conscious and can follow instructions.
+
+                                                               5-283
+
+
+---
+
+     i. After you have applied the field dressing to the
+injury, elevate the injured extremity above the level of the
+heart to lessen the bleeding. A blanket, shelter half,
+poncho, log, or any other available material, can be used
+to elevate the injury.
+
+NOTE: If a fracture is suspected and it is not splinted, do
+not elevate the injured part.
+
+2. Put on a Pressure Dressing
+
+     a. If the bleeding continues, it may be necessary to
+apply an improvised pressure dressing. What is a pressure
+dressing? A pressure dressing consists of these parts:
+
+          (1) Any bulky material which can be folded
+several times, (a rag, a piece of soldier's garment) and
+placed on top of the original dressing.
+
+          (2) Strips of cloth torn from a garment, socks, or
+other material which is then wrapped around the padded
+material to secure it in place.
+
+NOTE: Keep injured extremity elevated.
+
+     b. Apply a pressure dressing by performing the
+following procedures:
+
+          (1) Place a wad of padding directly over the
+simulated wound and on top of the original dressing.
+
+          (2) Place an improvised dressing over the wad of
+padding and wrap it tightly around the limb.
+
+5-284
+
+
+---
+
+          (3) Tie the ends in a nonslip knot directly over
+the simulated wound to secure the extra padding.
+
+          (4) Check to make sure that the dressing is tight
+enough so that only the tip of one or two fingers can be
+inserted between the dressing and the knot. The pressure
+dressing should not have a tourniquet-like affect. It must
+be loosened if the skin beyond the injury becomes cool,
+blue, or numb.
+
+     c. If the bleeding stops, watch the casualty closely
+for life-threatening conditions and check other injuries, if
+necessary. If the bleeding continues, you might have to
+apply a tourniquet.
+
+3. Application of a Tourniquet
+
+     a. Use of tourniquet:
+
+          (1) If the bleeding continues, or if the wound is a
+partial or complete amputation of the arm or leg, you will
+need to apply a tourniquet on the injured extremity. A
+soldier whose arm or leg has been completely amputated
+may not be bleeding when first discovered, but a
+tourniquet should be applied anyway.
+
+          (2) This absence of bleeding is due to the body’s
+normal defenses (contraction of blood vessels) as a result
+of the amputation, but after a period of time, bleeding will
+start, as the blood vessels relax.
+
+     b. Define tourniquet: It is a constricting band of
+material placed around an arm or leg to stop severe
+
+                                                               5-285
+
+
+---
+
+bleeding. This band is improvised from a strip of cloth or
+handkerchief. For training purposes, a cravat (tie) will be
+used.
+
+     c. Precautions:
+
+          (1) Use a tourniquet only when all other
+measures (i.e., direct pressure on the wound and elevation)
+fail to control bleeding.
+
+          (2) Do not use wire or shoestrings for a
+tourniquet band.
+
+          (3) A tourniquet is used only on arm(s) or leg(s)
+where there is danger of loss of casualty’s life or limb.
+
+          (4) Once a tourniquet has been applied, DO
+NOT adjust, loosen, or remove it.
+
+     d. Procedures for Putting on a Tourniquet
+
+          (1) Prepare a tourniquet.
+
+                a. Improvise bandage from handkerchief,
+strips of cloth, or other strong, pliable material; fold it into
+a band not less than 2 inches wide.
+
+                b. Obtain a rigid, stick-like object. For
+training purposes you will use a towel. In a real situation
+it may become necessary to improvise (e.g., tree limb).
+
+          (2) Place the tourniquet.
+
+5-286
+
+
+---
+
+                a. Place the tourniquet 2 to 4 inches above
+the wound and between the wound and the heart.
+
+                b. If the wound is just below the elbow or
+below the knee, the tourniquet should be applied above
+and as close to the joint as possible.
+
+NOTE: The tourniquet should not be placed on a joint or
+over the wound. When possible, place the tourniquet over
+the casualty’s sleeve or trouser leg to prevent further
+injury.
+
+                c. Tie a half-knot. (A half-knot is the same
+as the first part of tying a shoelace.)
+
+                d. Place the rigid object (e.g., stick) on top
+of the half-knot.
+
+                e. Tie a full knot over the stick.
+
+                f. Twist the stick.
+
+          (3) Secure the stick, using the ends of the
+tourniquet band or another piece of cloth, so that the stick
+does not unwind and the casualty is not injured further.
+
+                            CAUTION
+       Do not cover tourniquet—leave it in full view.
+
+NOTE: If the extremity is missing, apply the tourniquet
+first to stop the bleeding, and then pad and bandage the
+
+                                                               5-287
+
+
+---
+
+stump using whatever improvised bandaging materials are
+available (e.g., shirts, strips of cloth).
+
+          (4) Mark the casualty’s forehead with a “T” to
+indicate a tourniquet is in place.
+
+          (5) Get medical help.
+4. Apply a dressing to an Open Head Wound
+
+     a. Background Information
+          (1) Open injuries: a visible wound, usually
+
+bleeding from the scalp or head, with brain matter possibly
+exposed requires first aid.
+
+          (2) Possible signs and symptoms:
+                a. Bleeding from scalp/head area.
+                b. Deformity of head.
+                c. Clear or bloody fluid leaking from nose
+                or ears.
+                d. Black eyes.
+                e. Loss of consciousness.
+                f. Confusion.
+                g. Headache.
+
+5-288
+
+
+---
+
+                h. Eye (vision) problems.
+
+                i. Breathing problems.
+
+                j. Convulsions (involuntary jerking and
+                shaking).
+
+                k. Applying a Dressing to an Open Head
+                Wound
+
+     b. Applying the dressing
+
+          (1) Determine level of consciousness by asking
+casualty his name, the date, and the place, etc.
+
+          (2) Report incorrect answers, inability to answer,
+or changes in answers to medical personnel. Check the
+casualty’s level of consciousness every 15 minutes and
+note any changes form earlier observations.
+
+          (3) Protect casualty who is having convulsions
+          from self-injury.
+
+                a. Ease casualty to the ground.
+
+                b. Support the head until the convulsion
+                ends.
+
+          (4) Position the casualty
+
+NOTE: Do not move the casualty if you suspect that he
+or she has sustained a neck, spine, or severe head injury
+which produces any signs or symptoms other than minor
+
+                                                               5-289
+
+
+---
+
+bleeding (see task Evaluate a Casualty, task 081-831-
+1000).
+
+  a. Have a conscious casualty sit up unless other injuries
+  prohibit that position.
+
+  b. Raise the casualty’s head slightly if he or she is lying
+  down and is not accumulating fluids in the throat. The
+  best position for a casualty with a simple injury is with
+  the head slightly elevated.
+
+  c. Turn the casualty’s head to the side opposite the
+  wound if the wound is bleeding into the mouth or throat.
+
+  d. Treat an unconscious casualty as having a potential
+  neck or spinal injury. Immobilize and do not move the
+  casualty unless absolutely necessary.
+
+  e. Turn an unconscious casualty onto his or her side
+  opposite the wound with the head turned to one side and
+  supported on his or her hands.
+
+  f. If it is necessary to turn a casualty with a suspected
+  neck or spinal injury, assistance will be required to roll
+  the casualty gently onto his or her side while keeping
+  the head, neck, and body aligned and providing support
+  for the head and neck.
+
+          (5) Expose wound by removing helmet, if
+necessary.
+
+5-290
+
+
+---
+
+                         WARNING
+Do not push brain matter into skull; do not clean the
+wound or put pressure on it. If the ear is draining
+clear pink fluid place dressing/cloth over the ear.
+
+                          WARNING
+In a chemical environment in which the “all-clear” has
+not been given, do not remove mask and hood to apply
+dressing. Try to repair a break in the headgear with
+tape or wet cloth. Only if the “all clear” is given can
+you remove headgear to apply dressing.
+
+          (6) Apply dressing. Wound location determines
+method of wrapping the dressing. (See Task 081-831-
+1016, “Put on a Field or Pressure Dressing.”)
+
+           a. Wound to forehead or back of head.
+
+                       i. Apply the dressing, white side
+down, directly over the wound with the tails extending
+toward the sides of the head.
+
+           ii. Wrap one tail horizontally around
+
+the head.
+
+                       iii. Wrap remaining tail in opposite
+direction, while holding first tail in place.
+
+NOTE: Make sure eyes and ears are not covered.
+
+                                                5-291
+
+
+---
+
+                     iv. Tie the tails at the side of the head,
+with a nonslip knot, securing the edge of the dressing.
+
+             b. Wound to top of head.
+
+             i. Apply dressing, white side down
+
+over wound.
+
+                     ii. Wrap one tail down under the chin
+and bring it up in front of the ear over the dressing to a
+point just above and in front or the opposite ear.
+
+                     iii. Wrap the other tail down under the
+chin in the opposite direction and up the side of the head
+to meet the first tail.
+
+                     iv. Cross the tails, bringing one to the
+front of the forehead above the eyebrows just above and in
+front of the opposite ear.
+
+                     v. Wrap the second tail above the ear
+and in back of the head to meet the first tail. Tie with a
+nonslip knot. NOTE: If at all possible, avoid covering
+the ears, to allow the casualty to hear.
+
+             c. Wound to the cheek or the side of the head.
+
+             i. Position the field dressing over
+
+wound.
+
+                     ii. Wrap one tail over the top of the
+head down in front of the ear, under the chin, and up over
+the dressing to a point just above the ear.
+
+5-292
+
+
+---
+
+                     iii. Wrap the other tail under the chin
+and over the head to meet the first tail.
+
+                     iv. Cross the tails and complete the
+procedures as follows:
+
+                     v. Wrap one tail across the forehead
+above the eyebrows to a point just above and in front of
+the opposite ear.
+
+                     vi. Wrap the other tail above the ear,
+lower over the back of the head, and above the opposite
+ear to meet the other tail.
+
+                     vii. Tie the tails using a nonslip knot.
+
+                        CAUTION
+Casualty’s head needs to be elevated slightly higher
+
+           than the heart to reduce bleeding.
+
+NOTE: Do not give casualty anything to eat or drink.
+Monitor every 15 minutes and awaken if asleep.
+
+(7) Notify medical personnel.
+
+5. Apply a dressing to an Open Chest Wound
+
+a. Background Information
+
+(1) Chest injuries may result from these agents:
+
+a. Bullet or missile wounds.
+
+                                            5-293
+
+
+---
+
+                b. Stab wounds.
+                c. Falls and blows.
+          (2) Sucking sound.
+                a. Caused by air leaking into punctured chest
+wall.
+                b. Puncture results in great difficulty breathing.
+                c. Requires rapid action to seal wound and
+apply dressing.
+          (3) Possible Signs and Symptoms:
+                a. Pain in chest or shoulder area.
+                b. Increased pain/difficulty breathing.
+                c. Shortness of breath.
+                d. Chest not rising normally when breathing.
+                e. Coughing blood.
+                f. Rapid or weak pulse.
+                g. Bluishness around lips, fingernails/fingertips.
+     b. Apply a Dressing to an Open Chest Wound
+
+5-294
+
+
+---
+
+          (1) Locate and expose wound(s).
+
+                a. Check for entry and exit wound(s).
+
+                     i. Look for pool of blood under casualty.
+
+                     ii. Feel for wounds.
+
+                b. Listen for sucking sounds to determine
+if chest wall has been punctured.
+
+                c. Cut or remove clothing to expose
+wound, if possible. In a chemical environment do uncover
+the wound until the all clear is given.
+
+                            CAUTION
+ Do not remove any object extending from wound.
+ Improvise bulky dressing from cleanest material
+ available to build up area around object. No attempt
+ should be made to clean a wound before applying the
+ wrapper and dressing.
+
+          (2) Apply plastic wrapper to wound.
+
+                a. Tear open the wrapper of casualty’s
+dressing to create a flat surface.
+
+                b. Place the inside surface directly over the
+wound as casualty exhales.
+
+                c. Hold in place until dressing is applied to
+maintain air tight seal.
+
+                                                               5-295
+
+
+---
+
+          (3) Apply dressing to both entry and exit wounds.
+
+                a. Use casualty’s dressing for one wound.
+
+                b. Improvise seal and dressing for second
+wound (e.g., folded poncho, cellophane, foil as seal; cloth
+strips as dressing).
+
+                c. Using the free hand, shake open the
+dressing. Place the white side directly over the plastic
+covering the wound, holding it securely in place to create
+an airtight dressing.
+
+                d. Have casualty breathe normally.
+
+                e. Maintain pressure on the dressing while
+wrapping the first tail of the dressing under the body with
+one hand.
+
+                f. Continue to maintain pressure on the
+dressing while wrapping the other tail under the body,
+returning to the starting point, and grasping both tails.
+
+                g. Tie the tails into a nonslip knot over the
+center of the dressing while casualty exhales (or when
+chest falls, if unconscious).
+
+          (4) Position casualty on injured side or in a
+sitting position, whichever makes breathing easier.
+
+                a. If the casualty’s condition (difficulty in
+breathing, shortness of breath, restlessness, or blueness of
+
+5-296
+
+
+---
+
+skin) worsens after placing the dressing, the caregiver
+should quickly lift or remove and then replace the airtight
+dressing.
+
+                b. In a real situation, the casualty should be
+watched closely for life-threatening conditions and that he
+or she should be checked for other injuries. In a real-
+world situation, the aidman should also seek medical aid
+for the casualty.
+
+          (5) Seek Medical Aid.
+
+6. Apply a dressing to an open abdominal wound.
+
+     a. Background Information
+
+          (1) Open abdominal injuries are those in which a
+foreign object has entered the abdomen, such as in a stab
+or bullet wound.
+
+          (2) Open wounds will bleed severely due to the
+large blood vessels located in the abdomen.
+
+          (3) Death can occur rapidly with this type of
+wound. Ensure that medical help is sought immediately.
+
+     b. Apply a dressing to an open abdominal wound
+
+          (1) Position casualty on his back with knees up,
+to prevent further exposure of the bowels.
+
+          (2) Expose wound by cutting/pushing loose
+clothing.
+
+                                                               5-297
+
+
+---
+
+                            CAUTION
+ Do not attempt to remove clothing that is stuck to the
+ wound; This may cause further injury. Do not uncover
+ the wound in a chemical environment.
+
+          (3) Gently pick up any organs which may be on
+the ground, with a clean dressing, and place them on top
+of the casualty’s abdomen. If there is an object extending
+from the wound, do not remove it. Place as much of the
+plastic wrapper from the dressing as possible, sterile side
+down, over the wound without dislodging or moving the
+object. Do not place the wrapper over the protruding
+object.
+
+                            WARNING
+ Do not: touch exposed organs with hands; probe, clean or
+ remove foreign objects; push organs back inside body.
+
+          (4) Apply the dressing.
+
+                a. Apply the casualty’s dressing by
+grasping tails with two hands.
+
+                b. Hold dressing directly over wound,
+white side down, pull open, and place over wound. Cover
+any organs placed on the casualty’s abdomen when
+applying the field dressing.
+
+                c. With one hand, hold dressing in place;
+with the other, wrap one tail around the casualty. While
+
+5-298
+
+
+---
+
+holding the dressing or wrapping the wound, do not apply
+pressure to the wound or other exposed internal parts.
+
+                d. Wrap the other tail in the opposite
+direction until dressing is covered.
+
+          e. Tie the tails in nonslip knot over the outer edge.
+
+          f. Keep casualty’s knees up.
+
+(5) Notify medical personnel immediately.
+
+REFERENCES
+
+FM 21-11    SO616
+SO821       STP 21-1-SMCT
+
+PERFORM FIRST AID FOR TREATMENT OF
+                          BURNS
+
+                       081-831-1007
+
+                         CONDITIONS
+Given a casualty who is suffering from a burn. A canteen
+and first aid packet are available.
+
+                          STANDARDS
+Give first aid for a burn without causing further injury to
+the casualty.
+
+          TRAINING AND EVALUATION
+
+                    Evaluation Preparation
+Brief Soldier: Before giving first aid for burns evaluate the
+
+                                                               5-299
+
+
+---
+
+casualty (Task #081-831-1000, “Evaluate a Casualty”).
+Once you have determined that the casualty has a burn,
+you must determine the type of burn.
+
+Evaluation Guide
+
+Performance Measures
+
+1. Types of Burns
+
+     a. Thermal burns: caused by contact with fire, hot
+objects, hot liquids, gases, or nuclear blast fireball.
+
+     b. Electrical burns: caused by contact with bare
+electrical wires, current, or lightning.
+
+     c. Chemical burns: caused by contact with wet or
+dry chemicals and/or white phosphorus.
+
+     d. Laser burns.
+
+2. Protecting Casualty from Source
+
+     a. Thermal burns:
+
+          (1) Remove casualty from source of burn.
+
+          (2) If the casualty’s clothing is on fire, cover the
+casualty with a field jacket or any large non-synthetic
+material and roll him or her on the ground to put out
+flames.
+
+5-300
+
+
+---
+
+                            CAUTION
+     Synthetic materials will melt and cause additional
+
+                                injury.
+
+     b. Electrical Burns: Remove the casualty from the
+electrical source by using nonconductive materials such as
+rope, clothing, or dry wood.
+
+                            WARNING
+ Do not touch wire or casualty with bare hands. Turn off
+ the electrical current first, if it is nearby, but don’t waste
+ unnecessary time.
+
+     c. Chemical burns:
+
+          (1) Flush liquid chemicals with as much water as
+possible.
+
+          (2) Brush off loose particles of dry chemicals. If
+large amounts of water are available, flush the area.
+Otherwise do not flush.
+
+          (3) Smother burning white phosphorus with
+water, wet cloth, or wet mud. Keep phosphorus covered.
+
+                            WARNING
+ Blisters caused by a blister agent are actually burns. Do
+ not try to decontaminate skin where blisters have
+ already formed. If blisters have not formed,
+ decontaminate the skin.
+
+                                                               5-301
+
+
+---
+
+     d. Laser burns: Move casualty away from laser
+source while avoiding eye contact with the beams, if
+possible wear appropriate eye protection.
+
+3. Giving First Aid for Burns.
+
+     a. Expose the wound by gently lifting and cutting
+any clothing covering the burn area unless it is stuck to the
+burn or a chemical environment exists.
+
+NOTE: Electrical burns often have an entry and exit
+point. Treat both areas.
+
+                            CAUTIONS
+            (1) Do not pull clothing over the burns.
+            (2) Do not break blisters.
+            (3) Take first aid action for the burn.
+            (4) Do not clean the burn.
+            (5) Do not uncover the burn in a chemically
+ contaminated environment.
+            (6) Remove jewelry before swelling sets in, if
+ applicable.
+            (7) Place jewelry in casualty’s pockets.
+
+     b. Apply casualty’s field dressing or other clean
+material on the burn. (See Task 081-831-1032, “Perform
+First Aid for Bleeding of an Extremity.”)
+
+     c. Cover white phosphorus with a wet cloth or mud
+to exclude air.
+
+5-302
+
+
+---
+
+d. Do not cause further injury.
+
+(1) Do not break blisters.
+
+(2) Do not place dressing over face or genitals.
+
+(3) Do not apply ointment or grease to the burns.
+
+     e. Take first aid actions to prevent shock. (See Task 081-
+831-1005, “Perform First Aid to Prevent or Control Shock.”)
+
+f. Seek medical help.
+
+REFERENCES
+
+FM 21-11    S0821
+S0833       STP 21-1-SMCT
+
+PERFORM FIRST AID FOR SPLINTING A
+                    FRACTURE
+                    081-831-1034
+
+                         CONDITIONS
+Given a casualty who has an arm or leg, which you think
+is broken. The casualty has no more serious wounds or
+conditions that have not been treated. Materials to make a
+splint and to pad and tie the splint are available.
+
+                          STANDARDS
+Splint the suspected broken arm or leg so that the arm or
+leg does not move and circulation is not impaired.
+
+                                 5-303
+
+
+---
+
+             TRAINING AND EVALUATION
+
+                    Evaluation Preparation
+
+Setup: Divide all soldiers into buddy-teams. One soldier
+will simulate being a casualty with either a leg or arm
+fracture, and the other soldier will simulate rendering first-
+aid. Each buddy team must have the field dressings,
+improvised field dressings, padding materials (strips of
+cloth, socks, handkerchiefs, etc), and improvised splints
+(branches of trees, unloaded rifles, long sticks, etc).
+
+Brief Soldier: You observe a casualty with a possible
+fracture of an extremity. You are in a chemical free
+environment, perform the necessary first-aid.
+
+Evaluation Guide
+
+Performance Measures
+
+1. Definitions and Materials.
+
+     a. Fracture: A fracture is any break to a bone
+causing discomfort, disability, or even death if left
+unattended. There are two types of fractures:
+
+          (1) Closed: A closed fracture is a break in the
+bone without a break to the skin.
+
+          (2) Open: An open fracture is a break in the
+bone as well as the overlying skin.
+
+5-304
+
+
+---
+
+                          CAUTION
+Special attention should be given to an open fracture
+when bones are extending from the flesh. DO NOT
+ATTEMPT TO PUSH THEM BACK UNDER THE
+SKIN. Apply a field dressing to stop the bleeding and
+protect the area. See Task # 081-831-1032, “Perform
+First Aid for Bleeding of an Extremity.”
+
+b. Splinting materials and splint:
+
+          (1) Splinting materials consist of splints,
+padding, and ties (cravats). All of these items can be
+improvised if necessary.
+
+                a. Padding can be improvised from such items as
+a jacket, blanket, poncho, shelter half, or leafy vegetation.
+
+                b. Splinting materials can be improvised from
+wooden boards, tree branches, poles, or an unloaded rifle.
+
+                c. A cravat can be improvised from a piece
+of cloth, a large bandage, a shirt, or a towel, to form a tie
+around a suspected fracture.
+
+          (2) A splint is any rigid material, i.e., wooden
+boards, branches, poles and casualty’s unloaded rifle, used
+for immobilizing a fractured extremity.
+
+NOTE: Make sure that splints are long enough to immobilize the
+joints above and below the suspected fracture site.
+
+c. Dislocations and sprains:
+
+                                                        5-305
+
+
+---
+
+          (1) A dislocation is a displacement of a bone end
+from the joint. The surrounding ligaments and other soft
+tissue always suffer some injury.
+
+          (2) Sprains are injuries to the soft tissues
+surrounding joints. The ligaments, muscle tendons, and
+blood vessels are stretched and occasionally torn or
+partially torn.
+
+                            CAUTION
+    Splint a suspected dislocation or a sprain in the same
+
+                   manner as a closed fracture.
+
+2. Locating the Site of a Suspected Fracture.
+
+     a. Task #081-831-1000, “Evaluate a Casualty,” will
+be performed prior to administering first aid to splint a
+suspected fracture. Task #081-831-1032, “Perform First
+Aid for Bleeding of an Extremity,” will be performed if an
+open fracture is involved. You, the soldier, evaluate the
+casualty by checking the entire body for other injuries and
+performing necessary lifesaving measures first. Only after
+you have performed lifesaving measures do you
+administer first aid to splint a suspected fracture.
+
+     b. Ask the casualty about the location of the
+suspected fracture (i.e., pain, tenderness, inability to
+move).
+
+     c. Look for unnatural positions of the extremities
+and for a protruding (sticking out) bone.
+
+5-306
+
+
+---
+
+                            CAUTION
+ Unless there is immediate life-threatening danger (i.e.,
+ fire, explosions), DO NOT MOVE THE CASUALTY
+ WITH A SUSPECTED BACK OR NECK INJURY.
+ Movement may cause permanent paralysis or death. Do
+ not remove any protective clothing or boots in a
+ chemical environment. Apply the dressing over the
+ clothing.
+
+     d. Reassure the casualty if he is conscious and able
+to understand. For example, tell him that you will be
+taking care of him.
+
+     e. Check circulation below the site of the injured
+area by completing these checks:
+
+          (1) Check light-skinned persons for pale white
+or bluish-gray color of skin.
+
+          (2) Check dark-skinned persons by depressing
+the toe/fingernail beds and observing how fast the color
+returns. A slower return of color to the injured side when
+compared to the uninjured side indicates a problem with
+circulation.
+
+          (3) Check to see if the injured arm or leg feels
+colder then the uninjured one. Use your hand to compare
+temperature. Poor circulation is indicated by the coldness
+of the body area below the injury.
+
+          (4) Questioning the casualty about the presence
+of numbness, tightness, or cold sensation.
+
+                                                               5-307
+
+
+---
+
+     f. Remove all jewelry from the affected limb and place
+it in the casualty’s pocket. Tell the casualty that you are doing
+this to prevent further injury if swelling occurs later.
+
+                            WARNING
+ A casualty with impaired circulation should be evacuated
+ as soon as possible to prevent loss of the limb.
+
+3. Splint or Immobilize a Suspected Fracture.
+     a. Splint:
+
+                            WARNING
+ If it is an open fracture, the task “perform first aid for
+ bleeding of an extremity” (081-831-1032) will be
+ performed prior to splinting an open fracture.
+
+          (1) Splint the fracture in the position found.
+
+                            CAUTION
+  Do not attempt to reposition or straighten the suspected
+
+                              fracture.
+
+          (2) Select splints that reach beyond the joints,
+above and below the fracture site.
+
+5-308
+
+
+---
+
+          (3) Position the splints and apply padding
+between splints and where they touch any bony part of the
+body (i.e., elbow, hips, knees, ankles). Also protect the
+crotch and armpit areas.
+
+          (4) Take four improvised (or actual) cravats and
+push cravats through and under the normal body
+curvature.
+
+                            CAUTION
+ Insure minimal amount of movement of the injured area.
+
+          (5) Tie all four improvised (or actual) cravats on
+the splint, two above and two below the fracture, to
+secure the splint.
+
+          (6) Tie non-slip knots on the splint, on the side
+which is away from the body (injury).
+
+          (7) Recheck circulation after splinting.
+
+          (8) Check splint:
+
+                a. For looseness. Splints cannot be moved easily.
+
+                b. For tightness. Slip no more than two
+fingers between the improvised (or actual) cravats and the
+splints.
+
+     b. Immobilize:
+
+          (1) Arm - strapping the suspected fracture to the
+chest wall.
+
+                                                               5-309
+
+
+---
+
+          (2) Leg - strapping the suspected fracture to the
+uninjured leg.
+
+NOTE: Particular attention should be given to a
+suspected elbow fracture. It must be secured to the body
+with a swathe to prevent movement of the extremity.
+
+     c. Apply swaths.
+
+          (1) Definition - a swath is any band or wrapping
+which is used to immobilize an injured arm or leg.
+
+          (2) Purpose - to prevent further movement of the
+injured arm or leg.
+
+          (3) Improvised swaths. Use any large piece of
+cloth or a belt or strips from a blanket or clothing.
+
+          (4) A suspected elbow fracture or dislocation.
+Use swaths to immobilize the splinted arm against the
+body wall so that it does not move easily and cause further
+injury. Explain that the swaths are not placed directly on
+top of the injury. In the graphic the swaths are positioned
+above and below the injury.
+
+          (5) Apply Swathes to an injured arm by
+wrapping the swathes over the injured arm, around the
+casualty’s back, and under the arm on the uninjured side.
+Tie the ends on the uninjured side. Place swathes above
+and/or below the fracture, not over it.
+
+5-310
+
+
+---
+
+          (6) Apply swathes to an injured leg by wrapping
+the swathes around both legs and tying the swathes on the
+uninjured side.
+
+          (7) When splints are unavailable, swaths can be
+used to immobilize an injured extremity.
+
+                a. Tie an arm fracture to the chest wall.
+Use improvised swathes, such as a belt or strips of cloth.
+
+                b. Tie a leg fracture to the uninjured leg.
+
+REFERENCES
+
+FM 21-11
+
+        PERFORM FIRST AID AND PRACTICE
+       INDIVIDUAL PREVENTIVE MEDICINE
+
+                   COUNTERMEASURES
+                           081-831-1053
+
+                         CONDITIONS
+You are a soldier deployed to a unit in the field. Necessary
+equipment and materials: water, food, uniforms,
+replacement clothing, standard military skin extended-
+duration arthropod repellent lotion, permethrin clothing
+repellent, malaria pills, soap, mosquito bednet, iodine
+tablets, canteen, covered container, plastic bags, earplugs,
+foot powder, talcum powder, razor, toothbrush, dental
+floss, and an entrenching tool.
+
+                                                               5-311
+
+
+---
+
+                          STANDARDS
+Apply preventive medicine measures to protect against:
+cold, heat, arthropod bites and arthropod-borne diseases,
+water-borne diseases, food –borne diseases,, hearing loss,
+skin infections, sexually transmitted diseases (STD),
+acquired immunodeficiency syndrome (AIDS), foot
+problems and practice oral hygiene, disposal of waste and
+Army tobacco use rules.
+
+             TRAINING AND EVALUATION
+
+                Training Information Outline
+
+Because of the close living quarters frequently found in an
+Army environment, personal hygiene is extremely
+important. Disease or illness can spread and rapidly affect
+an entire group. Historically, in every conflict of U.S.
+involvement, only 20 percent of all hospital admissions
+have been from combat injuries. The other 80 percent
+have been from diseases and nonbattle injuries (DNBI).
+
+1. Background
+
+     a. Egyptian forces suffered 20,000 heat-related
+deaths, while Israeli forces had only 128 heat-related
+injuries. Israeli commanders used heat as a weapon, and
+the result is history. What else did the Israelis do right?
+The Israelis have a mandatory water consumption policy,
+and every leader at every level monitors water
+consumption.
+
+     b. The British, during the Falklands War had 109
+cold injuries out of 777 casualties.
+
+5-312
+
+
+---
+
+     c. Insects contributed to Napoleon's problems with
+the Russian campaign. It is estimated that more than
+100,000 of Napoleon's LeGrand Armee were lost due to
+louse-borne typhus. The threat of louse-borne typhus is
+one of the reasons that Enemy Prisoners of War (EPWs) in
+Southwest Asia were considered a big problem.
+
+     d. The U.S. commander of the 1980 Operation
+Bright Star in Egypt rewarded his troops for a job well
+done with a night on the town prior to redeployment.
+Thirty percent were infected with shigellosis and were
+vomiting and had severe diarrhea on the flight back to the
+United States.
+
+2. Preventive medicine measures (PMMs) are
+simple, common sense actions that any soldier can
+perform and must know, for protection against cold
+weather conditions, heat injury, insect-borne disease,
+intestinal disorders known as diarrhea and dysentery,
+and hearing loss. It is each individual's responsibility
+to maintain good health and use PMMs to reduce time
+lost due to disease and nonbattle injuries.
+
+3. Apply preventive medicine measures to protect against: cold,
+heat, arthropod bites and arthropos-borne diseases, water-borne
+diseases, food-borned diseases, hearing loss, skin infections,
+sexually transmitted diseases (STD), acquired immunodeficiency
+syndrome (AIDS), foot problems and practice oral hygiene,
+disposal of waste and Army tobacco use rules.
+
+4. Reasons for Vulnerability
+
+     a. Harshness of the environment--Harsh
+environments are a part of military operations. Soldiers
+
+                                                               5-313
+
+
+---
+
+must be prepared to live and fight in deserts, jungles, and
+the Arctic.
+
+     b. Natural defenses are reduced by exposure and
+fatigue--These defense mechanisms operate efficiently to
+protect against disease and climatic injury and are
+dependent upon our overall well-being. When you are
+placed in high stress situations such as climatic changes,
+sleep deprivation, and irregular meals, you become more
+susceptible to illness and combat stress. We have
+increased vulnerability in the Army, inevitably, because
+you must stand in countless lines, load onto noise-
+hazardous aircraft which dulls the senses, and be expected
+to be ready to fight or to otherwise perform the mission
+when you arrive.
+
+     c. Breakdowns in Basic Sanitation--While in
+garrison, clean water and proper waste disposal are rarely
+subjects of interest or concern to most soldiers. While in
+the field and especially in mission-oriented protection
+posture (MOPP) gear, things change. Even the most
+common tasks, such as changing socks, using the latrine,
+or washing hands become challenges and daily concerns.
+Breakdowns in basic sanitation can easily occur when
+basic personal hygiene practices are ignored or forgotten.
+
+5. Operating in Cold Weather
+
+     a. Wear layers of loose clothing. Avoid any tight-
+fitting clothing including underwear. Dress as lightly as
+possible consistent with the weather to prevent sweating
+and subsequent chilling. Minimize sweating; when
+
+5-314
+
+
+---
+
+clothing becomes wet or dirty, it loses its ability to provide
+warmth.
+
+          (1) Remove layers of clothing before doing
+strenuous work or when working in heated areas. This
+helps to prevent overheating that causes sweating. Wet or
+dirty clothing adds to the cold injury process.
+
+          (2) Replace layers of clothing when your
+strenuous work is completed.
+
+          (3) Launder clothing regularly.
+
+NOTE: Low temperatures and low relative humidity--dry
+cold--promote cold injuries. In this environment body
+parts such as arm and leg muscles, fingers, toes, and facial
+muscles should be exercised to keep warm and to detect
+numbness.
+
+          b. Exercise to increase blood circulation.
+Exercising body parts to increase blood circulation and to
+detect numbness include the following measures:
+
+                (1) Tighten and relax your arm and leg muscles.
+
+                (2) Tighten and relax your fingers and toes.
+
+                (3) Use your hands to massage and warm the face.
+
+                (4) Avoid smoking because smoking
+decreases blood flow to the skin.
+
+                (5) Physical and mental fatigue contribute to
+
+                                                               5-315
+
+
+---
+
+apathy which leads to inactivity, personal neglect,
+carelessness, and reduced heat production. In turn, these
+increase the risk of cold injury.
+
+NOTE: Most cold injuries to the feet result from soldiers
+not having a pair of dry socks available whenever the feet
+become moist or wet. Ideally a soldier should take at least
+five pairs of issue boot socks with him or her. Immersion
+syndrome (immersion foot and/or trench foot) may result
+during cold, wet conditions.
+
+     c. Change socks. Protecting the feet in a cold
+environment includes putting on dry socks during rest
+breaks to reduce the risk of frostbite and trench foot.
+Socks should be kept clean and dry. Damp socks can be
+dried by placing them inside your shirt.
+
+NOTE: Severe frostbite and trench foot can result in the loss
+of hands or feet. Immersion foot and trench foot may result
+from exposure of the feet to wet conditions at temperatures
+from approximately 50° to 32° F. Inactive feet in damp or
+wet socks and boots or tightly laced boots which impair
+circulation are even more susceptible to injury.
+
+NOTE: Dehydration occurs when the body loses
+excessive amounts of fluid, salt, and minerals. The danger
+of dehydration in cold weather operations is a serious
+problem. In cold weather, it is extremely difficult to
+realize that this condition exists.
+
+     d. Prevent dehydration. Prevent dehydration in cold
+weather by practicing the following:
+
+5-316
+
+
+---
+
+           (1) Continue to drink fluids such as potable
+      water, juices, and warm, nonalcoholic beverages.
+      Although inconvenient, each soldier should be sure
+      to drink sufficient fluids to prevent dehydration. The
+      amount of additional liquids consumed depends upon
+      the individual and the type of work being done.
+
+NOTE: Drinking a sufficient amount of fluids in cold
+weather is as important as it is in hot weather. In cold
+weather, you may not realize that your body is losing
+fluids and salt. Sweat evaporates rapidly or is absorbed so
+completely by the layers of clothing that it is seldom
+visible on the skin.
+
+           (2) Rest when possible. Rest is an important
+      preventive measure. Individuals must realize that
+      work done while bundled in several layers of
+      clothing is extremely exhausting.
+
+           (3) Pair with a buddy.
+
+        (a) Remind each other to do warming exercises
+         often.
+
+        (b) Watch for signs of cold injury such as frostbite,
+         trench foot, and hypothermia.
+
+        (c) Drink sufficient amounts of water.
+
+6. Operating in Hot Weather
+
+   a. Drink Water
+
+                                                               5-317
+
+
+---
+
+           (1) Your body needs a minimum amount of
+      water for cooling, waste elimination, and
+      metabolism. Drink water frequently. Any attempt to
+      train the body to use less water can be harmful and
+      may lead to heat injuries.
+
+                            CAUTION
+ Hourly fluid intake should not exceed 1½ quarts. Daily
+ fluid intake should not exceed 12 quarts.
+
+           (2) Depending on the type of work and the
+      temperature drink ½ to 1 canteen of water every
+      hour. (If your urine is dark yellow, you are not
+      drinking enough water.)
+
+           (3) Drink small quantities of water frequently.
+      It is better not to rely on thirst to remind you when to
+      drink water. Individuals in a hot climate seldom feel
+      thirsty enough to make up all water lost.
+
+           (4) Drink extra water before an attack or
+      mission. Excess water in your system will help keep
+      you physically strong and mentally sharp until the
+      tactical situation allows time to drink again. You
+      should not drink more than 1½ quarts hourly or 12
+      quarts daily.
+
+           (5) Maintain excess water in your system for
+      strength and alertness. You should not drink more
+      than 1½ quarts hourly or 12 quarts daily
+
+5-318
+
+
+---
+
+           (6) Protect yourself from dehydration and heat
+      injuries associated with wearing full chemical
+      protective gear. Drink more water. Work and rest as
+      your leader directs.
+
+           (7) Remember that heat injuries can be
+      prevented by drinking plenty of water. In hot
+      climates, the body depends upon sweating to keep it
+      cool; therefore, water intake must be maintained to
+      allow sweating to continue. You should not drink
+      more than 1 ½ quarts hourly up to a maximum of 12
+      quarts daily.
+
+NOTE: Rest breaks give the body a chance to cool off;
+that is why it is important to rest whenever the tactical
+situation permits.
+
+   b. Rest
+
+           (1) Take rest breaks in accordance as the
+      tactical situation permits.
+
+           (2) Use rest breaks to drink water and to cool
+      off. Work and rest in the shade if at all possible.
+
+NOTE: Heavy sweating will cause a salt loss in the body.
+Eating meals replaces salt.
+
+   c. Eat meals.
+
+           (1) Eat regular meals daily to replace salt lost
+      through heavy sweating. Military rations contain all
+      the salt needed. Salt tablets should not be used as a
+
+                                                               5-319
+
+
+---
+
+      preventive measure. Take a salt solution only when
+      directed by medical personnel.
+
+           (2) Excess intake of salt should be avoided.
+
+   d. Protect yourself from exposure by--
+
+           (1) Wearing your uniform properly.
+
+           (2) Providing shade whenever possible.
+
+           (3) Using barrier creams and lotions.
+
+7. Preventive Measures Against arthropod bites and
+arthropod-borned diseases.
+
+   a. Miscellaneous
+
+           (1) An arthropod is a segmented invertebrate of
+      the phylum arthropod which includes insects,
+      arachnids, crustaceans, centipedes and millipedes.
+
+           (2) The Department of Defense Arthropod
+      Repellent System -- Deet on the skin + permethrin on
+      the uniform + wear of the uniform = total protection.
+
+           (3) Extended-duration arthropod repellent skin
+      lotion is a preparation that can be used on the skin.
+
+   b. Bug Repellent
+
+           (1) Bug Repellent should be applied to exposed
+      areas of skin including—
+5-320
+
+
+---
+
+               (a) Face.
+
+               (b) Ears.
+
+               (c) Neck.
+
+               (d) Arms.
+
+               (e) Hands.
+
+     (2) The repellent is NOT applied to--
+
+               (a) Eyes.
+
+               (b) Lips.
+
+               (c) Sensitive skin.
+
+     (3) The arthropod repellent skin lotion is also
+applied two inches under the edges of the battle dress
+uniform (BDU). This includes the wrists, ankles,
+and waistline.
+
+               (a) Apply to the ankles to prevent
+        insects from creeping between the uniform
+        and boots.
+
+               (b) Blouse the uniform inside the boots
+        to further reduce insects getting inside the
+        clothing.
+
+                                                         5-321
+
+
+---
+
+                     (c) Keep the repellent skin lotion away
+               from flame or excessive heat and always wipe
+               hands after application.
+
+                     (d) Repeat application of repellent skin
+               lotion every six hours during strenuous
+               activity and soon after any activity, such as
+               stream crossing, that washes away the
+               repellent.
+
+NOTE: Wearing after-shave lotion or cologne in the field
+attracts biting or stinging insects.
+
+                     (e) Read the label on insect repellent
+               for directions and precautions before use.
+
+           (4) Applying permethrin clothing repellent.
+      Use either the IDA kit (most effective) or aerosol
+      treatments.
+
+                     (a) Follow the directions on the product
+               label!
+
+                     (b) Use only on fabric.
+
+                     (c) Treat outside of the BDU, insect
+               headnet, and mosquito bednet.
+
+                     (d) Treat all areas of the uniform.
+
+                     (e) Dry clothing (BDUs) thoroughly prior
+               to wearing.
+
+5-322
+
+
+---
+
+                 (f) Follow these precautions--
+                    i. Do not apply to skin.
+                    ii. Do not treat BDUs while being worn.
+                    iii. Do not treat underwear or inside the cap.
+                    iv. Avoid breathing vapors.
+                    v. Wear your uniform properly.
+                    vi. Tuck pants legs into the boots, roll the
+
+sleeves down, and close the collar.
+                    vii.Wear the uniform loosely.
+                    viii. Check clothing frequently.
+                    ix. Use the buddy system to check areas
+
+of your body not easily seen during self-examination.
+   c. Take malaria pills to protect against malaria parasites.
+  These pills should be taken when directed by the
+  commander.
+   d. Clean and inspect yourself.
+           (1) Cleaning and inspecting your body to
+      protect against arthropod bites includes the
+      following:
+
+                                                               5-323
+
+
+---
+
+             (a) Wash yourself daily if the tactical
+       situation permits. Pay particular attention to
+       the groin and the armpits.
+
+             (b) Use the buddy system to check each
+       other for ticks and other arthropod bites. (If
+       ticks are found attached, seek medical
+       attention.)
+
+             (c) Use insecticide powder, cream, or
+       shampoo when prescribed by medical
+       personnel.
+
+     (2) Ensure that students understand that proper
+wear of the uniform will also reduce the incidence of
+bites. The following points will be helpful in
+protecting your body:
+
+             (a) Wear headgear to protect the top of
+       your head.
+
+             (b) Wear a loose-fitting uniform (not
+       tightly tailored) and repair any tears or holes.
+
+             (c) When the arthropod threat is high,
+       use the following measures for protection:
+
+             (d) Blouse the pants in the boots and
+       completely lace the boots.
+
+       (e) Tuck the undershirt in at the waist.
+
+       (f) Wear sleeves down.
+
+5-324
+
+
+---
+
+                  (g) Button the blouse or shirt at the
+           neck and the wrists.
+
+        (3) Clean and inspect your clothing.
+
+                  (a) Cleaning and inspecting your
+           uniform will also provide protection against
+           insect bites.
+
+                  (b) Wash your uniform to remove
+           arthropods and their eggs. If the situation
+           permits, use the available military laundry
+           service (quartermaster laundry).
+
+                  (c) If laundry service is not available,
+           scrub the uniform yourself with soap and
+           water. The clothing seams may contain lice
+           eggs which will hatch after a few days.
+
+e. Use your bed net when sleeping.
+
+        (1) Protecting yourself against biting arthropods
+   at night includes the use of your bed net and the use
+   of insect spray inside the bed net.
+
+                  (a) Suspend the bed net above the sleeping
+           area.
+
+                  (b) Tuck the edges of the bed net under
+           the sleeping pad or bag.
+
+                  (c) Treat the bed net with permethrin
+           clothing repellent.
+
+                                                            5-325
+
+
+---
+
+                     (d) Spray the interior space with d-
+               phenothrin aerosol spray insecticide.
+
+           (2) Bed nets must be kept in good repair (mend
+      any holes) in order for the preceding measures to be
+      effective.
+
+           (3) Observe the following precautions when
+      preparing their bed net:
+
+                     (a) Avoid breathing vapors.
+
+                     (b) Do not use permethrin clothing
+               repellent or d-phenothrin aerosol spray
+               insecticide on skin.
+
+8. Purify Your Drinking Water
+
+   a. Fill your canteen with the cleanest water available.
+
+   b. Add iodine tablets.
+
+           (1) Add two tablets to a one-quart canteen of
+      water.
+
+           (2) Double the amount of tablets if a two-quart
+      canteen is used.
+
+   c. Replace the cap.
+
+   d. Wait five minutes for the tablets to dissolve.
+
+5-326
+
+
+---
+
+   e. Shake the canteen to mix the contents.
+
+   f. Tip the canteen to disinfect the cap threads.
+
+   g. Loosen the cap.
+
+   h. Tip the canteen over to allow leakage around the
+  canteen threads.
+
+   i. Turn the canteen right side up.
+
+   j. Tighten the cap.
+
+   k. Wait 30 additional minutes before drinking.
+
+NOTE: There are alternate methods for purifying water,
+such as chlorine ampoules, tincture of iodine, or common
+household bleach. If none of the purifying agents are
+available, boil water for five to ten minutes.
+
+9. Obtain food and drink from an approved source.
+
+NOTE: Intestinal diseases are usually spread through
+contact with infectious organisms which can occur in
+improperly prepared or disinfected food and water
+supplies as well as in human waste.
+
+   a. Obtain food, drink, and ice only from medically
+  approved sources.
+
+   b.Do not buy food, drinks, or ice from civilian vendors
+  unless they have been approved by medical personnel.
+
+                                                               5-327
+
+
+---
+
+           (1) When eating in local establishments, eat
+      only hot, cooked food.
+
+           (2) When eating food obtained from approved
+      vendors, eat only foods that can be cooked or raw
+      foods that can be washed and peeled.
+
+           (3) Inspect all cans and food packets prior to
+      use. Discard cans with leaks or bulges. Discard food
+      packets with visible holes or obvious signs of
+      deterioration.
+
+           (4) Do not eat foods or drink beverages that
+      have been prepared in galvanized containers. Such
+      food and drink could cause zinc poisoning.
+
+           (5) Obtain food from the dining facility when
+      possible. The dining facility is the best source for
+      safe food.
+
+   c. Wash your hands for at least 30 seconds.
+
+           (1) Wash hands for at least 30 seconds to
+      prevent disease.
+
+           (2) Wash after using the latrine.
+
+           (3) Wash before touching eating utensils or
+      food.
+
+           (4) Wash after eating.
+
+5-328
+
+
+---
+
+NOTE: Our hands come into contact with many sources
+of bacteria such as the latrine door, friend's hands, our
+nose, our weapons, and many others.
+
+10. Food Waste Disposal. Waste disposal is an important
+element in the protection of soldiers' health in the field.
+Intestinal diseases are usually spread through contact with
+infectious organisms that can be spread by flies. Discuss
+the following points pertaining to food waste disposal:
+
+   a. Use covered containers if available to keep out pests
+  and to prevent breeding of flies.
+
+   b. Use plastic bags in the event you have dumpster-type
+  receptacles and regular waste pick-up.
+
+   c. Bury your food waste immediately if other options
+  are not available.
+
+   d. Burying your waste immediately helps to prevent the
+  spread of germs by flies and other insects. Burying
+  waste also helps keep unwanted animals out of your
+  bivouac area.
+
+11. Prevent Hearing Loss
+
+   a.To protect against hearing loss use individual
+  measures against noise hazards.
+
+           (1) Use protective devices (earplugs, ear canal
+      caps, or earmuffs) to reduce the risk of noise-related
+      hearing loss. Earmuffs should be worn over earplugs
+      in high steady-state noise level areas.
+
+                                                               5-329
+
+
+---
+
+           (2) Use vehicle headgear, such as helicopter
+      crew helmets and armored vehicle crew helmets, for
+      their excellent hearing protection qualities.
+
+  b. Keep hearing protection devices clean to avoid ear
+  infections.
+
+   c. Avoid noise, and limit the time in noise hazardous
+  areas to only the time necessary to perform the mission.
+
+12. Prevent Skin Infections.
+
+   a. Preventing skin infections involves three simple steps.
+
+           (1) Bathe frequently. Take a full bath or
+      shower at least once every week. If showers or baths
+      are not available, you should use a washcloth daily to
+      wash your genital area, your armpits, your feet, and
+      any other areas where you sweat or which become
+      wet. These areas include the thighs and, for females,
+      under the breasts. Use of perfumed soaps or
+      feminine deodorants in the field could cause
+      irritation.
+
+           (2) Keep your skin dry. Using foot powder on
+      your feet is recommended. This is especially
+      important if you have had fungal infections in the
+      past. Talcum powder is recommended for areas
+      where wetness is a problem. If talcum powder is not
+      available, use cornstarch as a substitute.
+
+           (3) Change to clean clothing after a full bath or
+      shower. Loose-fitting uniforms allow for better
+
+5-330
+
+
+---
+
+      ventilation and blood circulation. Wear proper
+      clothing for the environment. Nylon and silk-type
+      undergarments are not suitable, especially in hot
+      weather. Cotton undergarments are more absorbent,
+      and they allow the skin to dry.
+
+   b. Males should shave facial hair often enough to be
+  clean shaven to allow a tight fit of the protective mask.
+
+NOTE: Nylon or silk-type undergarments are not suitable
+for wear in a field environment. Stress the importance of
+wearing cotton undergarments.
+
+13. Proper foot care.
+
+   a. Foot Care (Before movement). Before movement,
+  you must take the following steps in caring for your feet:
+
+           (1) Wear the proper type of footgear that is
+      correctly fitted and broken in.
+
+           (2) Wear clean socks that are free of holes or
+      knotty darns.
+
+           (3) Use foot powder and clean socks.
+
+           (4) Treat and protect blisters, pressure spots,
+      and infections before movement.
+
+   b. Foot Care (During movement). During movement,
+  you can care for your feet by following these simple
+  suggestions:
+
+                                                               5-331
+
+
+---
+
+           (1) Keep your feet as dry as possible.
+
+           (2) Change socks (if possible) when they
+      become damp or wet.
+
+           (3) Dry socks by putting them under your shirt
+      around your waist.
+
+           (4) Relieve tender pressure spots on the feet by
+      adjusting your gear.
+
+           (5) Dust your feet with foot powder once or
+      twice daily.
+
+           (6) Inspect your feet at rest periods.
+
+           (7) Wash your feet during the noon break if
+      possible.
+
+           (8) Raise your feet while resting to help reduce
+      congestion and swelling.
+
+           (9) Take care of blisters whenever time permits.
+
+           (10) Wash the blister and the surrounding area
+      with soap and water.
+
+   c. Seek medical treatment for painful blisters or signs of
+  infection such as redness, throbbing, and drainage.
+
+14. Oral Hygiene.
+
+   a. Good oral hygiene consists of three simple steps.
+5-332
+
+
+---
+
+  They are:
+
+           (1) Brush your teeth after every meal if
+      possible. Toothpaste helps but it is not a necessity.
+
+           (2) Use dental floss at least once a day.
+
+           (3) Rinse your mouth with potable water after
+      brushing and flossing. This care may prevent gum
+      disease, infection, and tooth decay.
+
+   b. Going to the dentist at least once a year for an
+  examination and treatment, if needed, can prevent
+  serious problems.
+
+15. Protect Against STDs.
+
+   a. Ensure that students understand that STD (including
+  HIV) are infections that are transmitted through sexual
+  contact with persons who are already infected. Avoiding
+  sexual contact with persons who may have one of these
+  infections is the surest way to avoid becoming infected.
+  Because it is difficult to know who is infected with an STD
+  or the HIV virus and who is not, the decision to have sex
+  with someone should follow an estimate of the chances that
+  the sexual partner may be infected. Persons who are more
+  likely to be infected include, those who have more than one
+  sex partner, unprotected sex, sex with casual partners,
+  prostitutes or their clients, sex with partners who are HIV
+  infected or who share needles with others.
+
+NOTE: There is no cure for AIDS and there is no
+vaccination to prevent HIV infection. Soldiers must take
+
+                                                               5-333
+
+
+---
+
+necessary precautions to protect themselves from being
+infected.
+
+   b. Follow the procedures listed below for protecting
+  against STD:
+
+           (1) Males should use a condom every time
+      during vaginal, anal or oral sex when an STD
+      infection may be transmitted. This practice will
+      protect both male and female partners.
+
+           (2) Avoid high risk sexual behaviors
+
+                     (a) Having sex with more than one
+               sexual partner
+
+                     (b) Changing sex partners often
+
+                     (c) Having sex with casual partners,
+               prostitutes or their clients
+
+                     (d) Sexual practices such as anal sex
+
+           (3) Control alcohol intake (it effects your
+      ability to use safe sex practices).
+
+16. Protect Against AIDS.
+
+   a. In addition to sexual contact the HIV virus can be
+  spread through the practice among drug abusers of
+  sharing needles when injecting drugs. The virus is
+  passed from an infected person to another through the
+
+5-334
+
+
+---
+
+  blood which contaminates the shared needles or
+  syringes.
+
+   b. Do not use injected non-prescribed drugs or permit
+  yourself to be injected or cut with a non-sterile sharp
+  object; avoid tattoos and body piercing with non-sterile
+  needles.
+
+   c. Avoid having sex with persons who might be
+  infected with HIV. At highest risk are those who have
+  more than one sex partner, unprotected sex, sex with
+  casual partners, prostitutes or their clients, sex partners
+  who are HIV infected or who share needles with others.
+
+17. Waste Disposal.
+
+   a. Waste disposal is an important element in the
+  protection of soldiers' health in the field. Intestinal
+  diseases are usually spread through contact with
+  infectious organisms which can be spread in human
+  waste. The method used for disposal of waste depends
+  upon the military situation and the unit and its location.
+  Waste disposal does impact upon the health of a unit's
+  personnel and must be done correctly.
+
+   b. Recommended methods of disposing of human waste
+  are as follows:
+
+           (1) Use the unit latrine when available. (Deep
+      Pit for Extended bivouac.)
+
+           (2) Use a cat-hole latrine on marches. On a march
+      cover the cat-hole with dirt immediately after use.
+
+                                                               5-335
+
+
+---
+
+           (3) Use a straddle trench for 1-3 day bivouac.
+
+           (4) Other Waste: The handling of other waste
+      such as garbage and rubbish depends upon the length
+      of stay in the field. For periods of less than one
+      week in the field, bury garbage and rubbish. The
+      primary reason for burying waste is to prevent the
+      breeding of flies. Flies increase the incidence of
+      diarrhea and dysentery.
+
+18. Department of the Army Smoking Policies.
+
+   a. The DOD has a smoke-free workplace policy. The
+  Army has the same policy. Programs have been
+  established to help soldiers and family members become
+  tobacco-free.
+
+   b. Effects of Tobacco Use
+
+           (1) Long Term Health Costs of Tobacco Use
+
+           (2) Leading Cause of Death United States:
+      Heart and blood vessel disease
+
+           (3) Leading Preventable Cause of Death:
+      Tobacco Use
+
+NOTE: Tobacco use is responsible for more deaths than
+all other causes: 450,000 plus deaths per year. That’s
+equivalent to two fully loaded jumbo jetliners colliding in
+mid-air, each day, with no survivors.
+
+   c. Diseases/Conditions Related to Tobacco Use
+
+5-336
+
+
+---
+
+     (1) Heart Disease: Leading risk for heart
+attack..
+
+     (2) Contributes to strokes and poor circulation.
+
+     (3) Chronic lung diseases: emphysema,
+bronchitis.
+
+     (4) Cancers: lung, throat, mouth, bladder,
+possibly cervix.
+
+     (5) Osteoporosis (brittle bones).
+
+     (6) Increases risk of surgery and prolongs
+healing process.
+
+     (7) May decrease male fertility.
+
+     (8) Affects health of nonsmokers.
+
+               (a) Second hand smoke linked to lung
+        cancer, asthma attacks.
+
+               (b) Children exposed to cigarette smoke
+        have more middle ear and lower respiratory
+        infections.
+
+               (c) Smoking during pregnancy is
+        associated with low birth weight and pre-term
+        births.
+
+                                                         5-337
+
+
+---
+
+             (d) May increase risk of Sudden Infant
+       Death Syndrome (SIDS).
+
+d.Smokeless Tobacco
+
+     (1) Smokeless tobacco use in the military has
+increased, particularly among males aged 18 - 24.
+
+     (2) In the overall U.S. population, a slight
+decrease in use by that age group is reported.
+
+NOTE: Many people believe smokeless tobacco is safer
+than smoking. It is well established that smokeless
+tobacco of all types (chew, snuff, bandits) leads to the
+development of heart disease, various cancers, gum
+recession, and bone loss around the teeth. Cancers of the
+mouth and throat are particularly deforming and deadly.
+
+       (3) Effect on soldiers performance and health.
+
+       (4) Increases number of sick call visits.
+
+NOTE: Smoking makes it far more likely that you will be
+susceptible to upper respiratory infections (colds and flu),
+which may progress to pneumonia.
+
+       (5) Decreases readiness
+
+       (6) Decreases night vision.
+
+       (7) Decreases hand-eye coordination.
+
+       (8) Decreases stamina.
+
+5-338
+
+
+---
+
+           (9) Increases cold weather injuries.
+
+           (10) Increases overall number of injuries.
+
+           (11) Leads to addiction.
+
+NOTE: There are far more smoking-related deaths every year
+than deaths due to illicit drug use. Despite the fact that people
+know tobacco is bad for their health and longevity, and want to
+give it up, it is very difficult for most to do so. The physical
+and emotional dependence developed with tobacco use is very
+great. Withdrawal symptoms are unpleasant. Often tobacco
+users feel jittery and irritable after a certain period of time
+without nicotine. These are symptoms of withdrawal! We
+need soldiers who are alert, can concentrate on the task at hand,
+and who are team players, not individuals who are easily
+aggravated by other people or stressful situations due to their
+bodies’ reaction to not having tobacco.
+
+   e. AR 600-63 Army Health Promotion.
+
+           (1) Smoking prohibited during Basic Combat
+      Training
+
+           (2) Prohibited smoking during AIT
+
+           (3) Smoking prohibited in all DA-occupied work
+      places.
+
+           (4) Available resources for tobacco use cessation.
+
+                                                               5-339
+
+
+---
+
+                     (a) Your doctor, nurse, physician’s
+               assistant (PA), or Primary Care Provider.
+
+NOTE: Your health care provider may be able to prescribe
+medication to help with your cessation effort.
+
+                     (b) Smoking cessation programs are
+               usually sponsored by the health care facility or
+               the local prevenitve medicine service.
+
+                     (c) Self-help materials available from:
+               Medical Treatment Facility and health care
+               providers.
+
+                     (d) Preventive Medicine
+
+                     (e) Community agencies such as the
+               American Cancer Society (800-486-2345) or the
+               local public health department.
+
+           (5) Other Assistance
+
+                     (a) Nicotine gum, nicotine patches
+
+                     (b) Family and unit support is critical
+
+   f. Closing Statement: The bottom line is tobacco use
+  detracts from readiness.
+
+REFERENCES
+FM 21-11
+
+5-340
+
+
+---
+
+     PERFORM FIRST AID FOR NERVE AGENT
+                             INJURY
+
+                           081-831-1044
+
+                         CONDITIONS
+You and your unit have come under a chemical attack. You
+are wearing protective over-garments and or mask, or they
+are immediately available. There are casualties with nerve
+agent injuries. Given chemical protective gloves, over-
+garments, over-boots, protective mask and hood, mask
+carrier, and nerve agent antidote auto-injectors. The casualty
+has three nerve agent antidote auto-injectors and one
+convulsant antidote for nerve agents (CANA) auto-injector.
+
+                          STANDARDS
+Correctly administer the antidote to yourself and administer
+three sets of nerve agent antidote auto-injectors followed by the
+CANA to a buddy following the correct sequence.
+
+             TRAINING AND EVALUATION
+
+                    Evaluation Preparation
+
+Setup: You must use nerve agent antidote injection training aid
+to train and evaluate this task. Actual auto-injectors will not be
+used. For self-aid, have the soldier dress in MOPP level 2.
+Have the soldier wear a mask carrier containing a mask and the
+training nerve agent auto-injectors. For buddy-aid, have the
+soldier being tested and the casualty dress in MOPP level 2.
+Have the casualty lie on the ground wearing the mask carrier
+containing a mask and the training nerve agent auto-injectors.
+
+                                                               5-341
+
+
+---
+
+Brief Soldier: For self-aid, tell the soldier to state, in any
+order the mild symptoms of nerve agent poisoning. The
+soldier must state seven of the eight symptoms to be
+scored GO. Then, tell the soldier that he or she has mild
+symptoms and to take appropriate action. For buddy-aid,
+tell the soldier to state, in any order, the severe symptoms
+of nerve agent poisoning. The soldier must state eight of
+the nine symptoms to be scored GO. Tell the soldier to
+treat the casualty for nerve agent poisoning.
+Evaluation Guide
+
+Performance Measures
+
+NOTE: When performing first aid on a casualty seek medical
+aid as soon as possible. Do not stop the first aid, but if the
+situation allows, send another person to find medical aid.
+
+1. Perform Self-Aid if Suffering from Nerve Agent
+Poisoning
+
+     a. Identify mild symptoms of nerve agent
+poisoning.
+
+          (1) Unexplained runny nose.
+
+          (2) Unexplained sudden headache.
+
+          (3) Excessive flow of saliva (drooling).
+
+          (4) Tightness of chest, causing breathing
+difficulties.
+
+          (5) Difficulty seeing (blurred vision).
+
+5-342
+
+
+---
+
+          (6) Muscular twitching of exposed/ contami-
+nated skin.
+
+          (7) Stomach cramps.
+          (8) Nausea.
+NOTE: For the above signs and symptoms first aid is
+considered to be self-aid.
+     b. Identify severe signs and symptoms of nerve
+agent poisoning.
+          (1) Strange and confused behavior.
+          (2) Gurgling sounds made when breathing.
+          (3) Severely pinpointed pupils.
+          (4) Red eyes with tearing.
+          (5) Vomiting.
+          (6) Severe muscular twitching.
+          (7) Loss of bladder and/or bowel control.
+          (8) Convulsions.
+          (9) Unconsciousness or stoppage of breathing.
+
+                                                               5-343
+
+
+---
+
+NOTE: If the casualty is exhibiting severe symptoms,
+assistance (buddy-aid) is required by the individual to
+complete first aid treatment.
+
+     c. React to the chemical hazard.
+
+          (1) Put on your protective mask.
+
+NOTE: Additional protective clothing will not be put on
+at this time.
+
+          (2) Give the alarm.
+
+NOTE: Do not put on additional protective clothing at
+this time. Give yourself the nerve agent antidote first.
+Then decontaminate exposed skin areas and put on
+remaining protective clothing.
+
+     d. Administer nerve agent antidote to self (Self-
+Aid), if necessary.
+
+          (1) Prepare to administer one atropine injection.
+
+NOTE: If you have the M17 series protective mask, the
+auto injectors will normally be stored in the mask carrier.
+The M40 Series mask carrier does not have room for
+storage of auto injectors; unit SOP dictates storage
+location, usually the BDU pocket.
+
+                a. Remove one set of auto-injectors from
+the mask carrier.
+
+5-344
+
+
+---
+
+                b. With one hand, hold the set of injectors
+by the plastic clip with the big injector on top.
+
+                c. With the other hand, check the injection
+site to avoid buttons and objects in pockets.
+
+                d. Grasp the small injector without
+covering or holding the needle (green) end, and pull it out
+of the clip with a smooth motion.
+
+                e. Hold the injector between the thumb and
+first two fingers without covering or holding the needle
+(green) end.
+
+NOTE: If the injection is accidentally given in the hand
+another small injector must be obtained and the injection
+given in the proper site.
+
+                f. Place the needle end of the injector
+against the outer thigh muscle.
+
+NOTE: The injection can be given in any part of the
+lateral thigh muscle from about a hand's width above the
+knee to a hand's width below the hip joint.
+
+                            CAUTION:
+  When injecting antidote in the buttocks be very careful
+  to inject only into the upper outer quarter of the
+  buttocks to avoid hitting the major nerve which crosses
+  the buttocks. Hitting the nerve may cause paralysis.
+
+                                                               5-345
+
+
+---
+
+NOTE: Very thin soldiers should give the injection in the
+upper outer part of the buttocks.
+
+          (2) Administer the atropine injection.
+
+                a. Push the injector into the muscle with
+firm, even pressure until it functions.
+
+          b. Hold the injector in place for at least 10
+
+seconds.
+
+NOTE: A jabbing motion is not necessary to trigger the
+activating mechanism.
+
+                c. Remove the injector from your muscle
+and carefully place this used injector between two fingers
+of the hand holding the plastic clip.
+
+          (3) Prepare to administer one 2 PAM Cl injection.
+
+                a. Pull out the large injector, forming a fist
+around it as before.
+
+                b. Place the needle (black) end of the
+injector against the injection site.
+
+          (4) Administer the 2 PAM Cl injection.
+
+                a. Push the injector into the muscle with
+firm, even pressure until it functions.
+
+          b. Hold the injector in place for at least 10
+
+seconds.
+5-346
+
+
+---
+
+          (5) Secure the used injectors.
+
+                a. Drop the clip without dropping the injectors.
+
+                b. Push the needle of each used injector (one
+at a time) through one of the pocket flaps of the protective
+overgarment.
+
+                c. Bend each needle to form a hook
+without tearing protective gloves or clothing.
+
+     e. Decontaminate your skin, if necessary.
+
+NOTE: Information on this step is provided in task
+Decontaminate Yourself and Individual Equipment Using
+Chemical Decontamination Kits, task number 031-503-1013.
+
+     f. Put on any remaining protective clothing.
+
+NOTE: Information on this step is covered in task Protect
+Yourself From NBC Injury/Contamination With the
+Appropriate Mission Oriented Protective Posture (MOPP)
+Gear, task number 031-503-1015.
+
+                            WARNING
+If within 5 to 10 minutes after administering the first set
+of injections your heart begins beating rapidly and your
+mouth becomes very dry do not administer another set of
+injections.
+
+     g. Seek buddy or medical aid.
+
+                                                               5-347
+
+
+---
+
+NOTE: After you have given yourself the first set of
+injections you most likely will not need additional antidote
+if you can walk and know who and where you are. If
+needed the second and third sets of injections will most
+likely be given by a buddy or by medical personnel.
+
+                            WARNING
+  Do not kneel at any time while providing aid to the
+  casualty. Contact with the ground could force the
+  chemical into or through the protective clothing.
+
+NOTE: Reposition the casualty on his or her back if
+necessary to mask the individual.
+
+2. Perform First-Aid for a Buddy Suffering From Nerve
+Agent Poisoning (Buddy-Aid).
+
+     a. Mask the casualty if necessary.
+
+          (1) Place the mask on the casualty.
+
+          (2) If the casualty can follow directions, have
+him or her clear the mask.
+
+          (3) Check for a complete mask seal by covering
+the inlet valves of the mask.
+
+          (4) Pull the protective hood over the head, neck,
+and shoulders of the casualty.
+
+5-348
+
+
+---
+
+     b. Position the casualty on the right side, similar to a
+swimmer position, with head slanted down so that the
+casualty will not roll back over.
+
+     c. Administer first aid to a nerve agent casualty
+(Buddy-Aid).
+
+          (1) Prepare to administer one atropine injection.
+
+          (2) Remove all three sets of auto-injectors and
+the single CANA auto-injector from the casualty's mask
+carrier or BDU pocket.
+
+          (3) With one hand, hold the set of injectors by
+the plastic clip with the big injector on top.
+
+          (4) With the other hand, check the injection site
+to avoid buttons and objects in pockets.
+
+          (5) Grasp the small injector and pull it out of the
+clip with a smooth motion.
+
+          (6) Hold the injector between the thumb and first
+two fingers without covering or holding the needle (green)
+end.
+
+          (7) Place the needle end of the injector against
+the casualty's outer (lateral) thigh muscle.
+
+NOTE: The injection can be given in any part of the
+lateral thigh muscle from about a hand's width above the
+knee to a hand's width below the hip joint. Very thin
+
+                                                               5-349
+
+
+---
+
+soldiers should be given the injections in the upper outer
+part of the buttocks.
+
+          (8) Administer the atropine injection.
+
+          a. Push the injector into the muscle with firm,
+even pressure until it functions.
+
+          b. Hold the injector in place for at least 10 seconds.
+
+          c. Carefully place the used injector between two
+fingers of the hand holding the clip.
+
+          (9) Prepare to administer one 2 PAM Cl injection.
+
+          a. Pull the large injector out of the clip and hold it
+between the thumb and first two fingers as you did with
+the small injector.
+
+          b. Place the needle (black) end of the injector
+against the injection site.
+
+          (10) Administer the 2 Pam Cl injection.
+
+          a. Push the injector into the muscle with firm,
+even pressure until it functions.
+
+          b. Hold the injector in place for at least 10 seconds.
+
+          c. Drop the clip without dropping injectors.
+
+          d. Lay the used injectors on the casualty's side.
+
+5-350
+
+
+---
+
+NOTE: Repeat steps 10a through 10d until the casualty
+has received a total (including self-administered) of three
+sets of antidote injections.
+
+          (11) Prepare to administer the CANA injection.
+
+                 a. Tear open the protective plastic packet
+and remove the injector.
+
+                 b. Grasp the injector with the needle
+(black) end extending beyond the thumb and two fingers
+(index plus next finger).
+
+                 c. With the other hand, pull the safety cap
+off the injector base to arm the injector.
+
+                 d. Place the black end of the injector
+against the casualty's injection site.
+
+                          CAUTION
+DO NOT touch the black (needle). You could
+accidentally inject yourself.
+
+          (12) Administer the CANA injection.
+
+                a. Push the injector into the muscle with
+firm, even pressure until it functions.
+
+          b. Hold the injector in place for at least 10
+
+seconds.
+
+          (13) Secure the used injectors.
+
+                                               5-351
+
+
+---
+
+                a. Push the needle of each used injector
+(one at a time) through one of the pocket flaps of the
+casualty's protective over-garment.
+
+                b. Bend each needle to form a hook
+without tearing protective gloves or clothing.
+
+d. Decontaminate the casualty's skin if necessary.
+
+NOTE: This information is covered in task Decontaminate
+Yourself and Individual Equipment Using Chemical
+Decontamination Kits, task number 031-503-1013.
+
+3. Seek Medical Aid.
+
+4. Perform all steps in the correct sequence.
+
+REFERENCES
+
+FM 21-11    STP 21-1-SMCT
+
+FM 8-285
+
+PERFORM FIRST AID AND TRANSPORTING
+                      CASUALTIES
+                       081-831-1046
+
+                         CONDITIONS
+You have come across a casualty who is in need of aid,
+but the casualty is in a hazardous location, or you have
+evaluated and given first aid to a casualty. You need to
+move the casualty to get further medical aid. You may
+have the help of another soldier. Materials to make a litter
+may be available.
+
+5-352
+
+
+---
+
+                          STANDARDS
+Transport the casualty, without dropping him or causing
+further injury; using an appropriate one- or two-man carry
+or properly improvised litter.
+
+             TRAINING AND EVALUATION
+
+                    Evaluation Preparation
+
+Setup: Have a soldier play the part of the casualty. Select
+a carry which is appropriate to the situation and transport
+the casualty without causing further injury.
+
+Brief Soldier: After evaluating the casualty and
+administering first aid, you must decide upon the most
+effective means of transporting a casualty using a manual
+carry.
+
+                        Evaluation Guide
+
+Performance Measures
+
+NOTE: When Performing First Aid On A Casualty, Seek
+Medical Aid As Soon As Possible. Do Not Stop The First Aid,
+But, If The Situation Allows, Send Another Person To Find
+Medical Aid.
+
+1. Types of One-Man Carries - In a tactical situation, one-
+man carries are often used to transport casualties. Your choice
+of which type of carry to use depends upon the seriousness of
+the illness/injury, weight of the casualty, strength of the carrier,
+and the distance to be traveled.
+
+                                                               5-353
+
+
+---
+
+     a. Support Carry
+
+          (1) You will evaluate the casualty by checking the
+entire body for injuries and performing necessary lifesaving
+measures first. Only after you have performed these lifesaving
+measures can you transport the casualty. Example: Clear
+airway before attempting to move the casualty.
+
+          (2) Assist the casualty to a standing position.
+
+          (3) Grasp the casualty's wrist and draw his arm
+around your neck. Place your arm around his waist.
+
+NOTE: The Support Carry is used for casualties who are able
+to walk or at least hop on one leg. The casualty uses your body
+as a crutch.
+
+          (4) Of major importance is bringing a casualty to a
+standing position, as it is used as a basis for several one-man
+carries one-man carries (for example, the Support Carry, The
+Arms Carry).
+
+     b. Fireman's Carry
+
+          (1) Bring the casualty to a standing position:
+
+                a. Roll the casualty over onto his stomach.
+
+NOTE: This step may not be needed, as not all casualties
+will be lying on their backs when encountered.
+
+                b. Straddle the casualty; place your hands
+under his chest and lock them together.
+
+5-354
+
+
+---
+
+                c. Raise the casualty to his knees as you
+move backwards.
+
+                d. Continue to move backwards,
+straightening the casualty's legs and locking his knees.
+
+                e. Walk forward until the casualty is
+standing; lean him slightly backwards to keep his knees
+from buckling.
+
+          (2) Move to a face-to-face position.
+
+          (3) Place one arm around the casualty's waist.
+Use your other arm to raise his arm straight up.
+
+          (4) Pass your head under his raised arm,
+releasing it as you pass under it until you are facing the
+casualty. Place your hands around his waist and your right
+foot in between his feet.
+
+          (5) Raise the casualty onto your shoulders.
+
+          (6) Stoop/bend down and pull the casualty
+across your shoulders. Place your other arm in between
+the casualty's knees.
+
+          (7) Grasp the casualty's right wrist with your
+right hand or left wrist with your left hand and place your
+other arm on your knee for support.
+
+          (8) Raise the casualty onto your shoulders. Rise
+slowly to a standing position.
+
+                                                               5-355
+
+
+---
+
+NOTE: The Fireman's Carry is usually used with
+unconscious or severely injured casualties.
+
+     c. Arms Carry.
+
+          (1) Raise the casualty to a standing position.
+(See first part of Fireman's Carry if casualty is
+unconscious or severely injured.)
+
+          (2) Place one arm under the casualty's knees and
+your other arm around his back; lift the casualty.
+
+NOTE: The Arms Carry may be used for a conscious or
+unconscious casualty who is not able to walk. Carry the
+casualty high to lessen fatigue. Tell the conscious casualty
+to put his arms around your neck.
+
+     d. Pack Strap Carry.
+
+          (1) Raise the casualty to a standing position.
+(See first part of Fireman's Carry if casualty is
+unconscious or severely injured.)
+
+          (2) Support the casualty with one arm around his
+waist; grasp his wrist closest to you with your other arm
+and place it over your head. Move in front of the casualty
+with your back to him.
+
+          (3) Place his arms over your shoulder. Follow
+the same procedure with the other arm while leaning his
+body against your back.
+
+5-356
+
+
+---
+
+          (4) Grasp his wrists. Bend forward and raise the
+casualty as high as possible, until his body weight is on
+your back. Pull the casualty forward until his armpits are
+on your shoulders.
+
+     e. Saddle Carry.
+
+          (1) Raise the casualty to a standing position.
+
+          (2) Move in front of the casualty with your back
+facing him.
+
+          (3) Tell the casualty to place his arms around
+your neck and hold his hands together.
+
+          (4) Stoop down, raise the casualty upon your
+back (piggy-back) and clasp your hands together beneath
+his thighs.
+
+NOTE: The Saddleback Carry requires a conscious
+casualty, as he must be able to hold his hands together
+around the carrier's neck.
+
+     f. Pistol Belt Carry.
+
+          (1) Form a sling by joining together two pistol
+belts, or any improvised material which will not cut or
+bind the casualty. Place the sling under the casualty's
+thighs and the lower back with a loop extending from each
+side, and with the buckles centered behind the casualty.
+Lay the soldier on his back.
+
+                                                               5-357
+
+
+---
+
+          (2) Lie face up between the casualty’s
+outstretched legs. Thrust you arms through the loops and
+grasp his or her hand and trouser leg on the injured side.
+
+          (3) Roll in the direction of the casualty's
+uninjured side onto your stomach, bringing him onto your
+back. Adjust the sling as needed.
+
+          (4) Rise with casualty to a kneeling position and
+then to a standing position, slightly bent forward at the
+waist.
+
+          (5) Carry the casualty with his full weight upon
+your shoulders
+
+NOTE: The Pistol Belt Carry is the best one-man carry
+for long distances. Your hands are free to use in firing a
+rifle, climbing banks, or moving around obstacles; the belt
+will hold the patient in place.
+
+     g. Pistol Belt Drag.
+
+          (1) Adjust/extend two pistol belts or similar
+objects to their full length and join them together to make
+one loop.
+
+          (2) Roll the casualty on his back.
+
+          (3) Pass the loop over the casualty's head and
+place it across his chest and under his armpits; then cross
+the remaining part of the loop to form a figure 8.
+
+5-358
+
+
+---
+
+                            CAUTION
+ Ensure the buckles cross in the center of the figure 8.
+ Keep tension on the belt so they do not become
+ unhooked.
+
+          (4) Lie on your side alongside and facing the
+casualty.
+
+          (5) Slip the loop over your nearest arm and
+shoulder and turn onto your stomach, away from the
+casualty.
+
+          (6) Drag the casualty as you crawl.
+
+NOTE: The Pistol Belt Drag, in addition to the other
+drags, is generally used to carry a casualty short distances.
+
+     h. Neck Drag.
+
+          (1) Tie the casualty's hands together at the wrists
+with a field dressing (or any other improvised material)
+that will not cut or bind.
+
+                            CAUTION
+ Do not tie so tightly as to cut off circulation.
+
+          (2) Straddle the casualty, kneeling in a face-to-
+face position.
+
+          (3) Loop the casualty’s hands over/around your neck.
+
+                                                               5-359
+
+
+---
+
+          (4) Crawling and looking forward, drag the
+casualty with you.
+
+NOTE: The Pistol Belt Drag and the Neck Drag are
+useful in combat as the carrier and the casualty may
+remain close to the ground.
+
+                            CAUTION
+      Not to be used with persons with broken arm(s).
+
+     i. Cradle-drop drag.
+
+          (1) With the casualty lying face up, kneel at his
+or her side. Slide your hands, palms up, under the
+casualty’s shoulders and get a firm hold under the armpits.
+
+          (2) Partially rise while supporting the casualty’s
+head on one of your forearms.
+
+NOTE: You may bring your elbows together and let the
+casualty’s head rest on both of your forearms.
+
+          (3) With the casualty in a semi-sitting position,
+rise and drag the casualty back-wards.
+
+          (4) Back down the steps (or if appropriate),
+supporting the casualty’s head and body and letting his or her
+hips and legs drop from step to step.
+
+2. Types of two-man carries – Manual carries are
+accomplished by one or two bearers. Two-man carries, are less
+likely to aggravate injuries and are less tiring for the
+bearers/carriers over long distances. The appropriate two-man
+5-360
+
+
+---
+
+carry, as with a one-man carry, depends upon the distance to be
+traveled, the strength of the carriers, the weight of the casualty,
+the seriousness of the injury, and the tactical situation.
+
+     a. When the distance is too far for a manual carry, the
+casualty has a severe injury, or a standard litter is not available,
+a litter must be improvised from materials at hand. Some of
+the materials often used to make a litter in the field are
+ponchos, fatigue shirts/jackets and two poles/tree limbs.
+
+                           WARNING
+ Unless there is an immediate life threatening situation
+ (i.e., fire, explosion), do not move the casualty with a
+ suspected back or neck injury. Seek medical personnel
+ for guidance on how to transport.
+
+     b. Task #081-831-1000, “Evaluate the Casualty,”
+will be performed prior to transporting the casualty with a
+two-man carry, or improvising a litter.
+
+     c. You will evaluate the casualty by checking the
+entire body for injuries and performing necessary
+lifesaving measures first. Only after you have performed
+these lifesaving measures do you transport the casualty.
+EXAMPLE: clear airway before attempting to move the
+casualty.
+
+     d. Two-man Support Carry
+
+          (1) Raise the casualty to his feet.
+
+                                                               5-361
+
+
+---
+
+NOTE: If the casualty is lying on his back, roll him over on
+his stomach.
+
+          (2) Raise the casualty to a standing position
+while supporting him with your arms around his waist.
+
+          (3) The carriers grasp the casualty’s wrists and
+draw his arms around their necks.
+
+          (4) Assist the casualty to move by continuing to:
+
+                a. Support him from the waist.
+
+                b. Hold on to his wrists securely.
+
+          (5) If the casualty is taller than the carriers, lift the
+casualty and position for carrying.
+
+     e. Two-Man Arms Carry
+
+          (1) Casualty is lying down. Prepare to lift the casualty.
+
+          (2) Carriers kneel at one side of the casualty; one
+soldier at the chest and one at the thighs of the casualty.
+
+          (3) Carrier closest to casualty's head slips his arms
+under casualty's shoulders and waist.
+
+          (4) Carrier closest to casualty's feet slips his arms
+under casualty's hips and knees.
+
+          (5) Lift the casualty and position him for carrying.
+
+5-362
+
+
+---
+
+          (6) Rise to your knees at the same time that you lift
+the casualty.
+
+          (7) Keep him level to prevent further injury.
+          (8) Bring the casualty toward your chests.
+          (9) Carriers rise to their feet.
+     f. Four-Hand Seat Carry
+          (1) To make a four-hand seat for a conscious casualty:
+
+                a. Carriers face each other.
+                b. Each carrier grasps his own left wrist with
+his right hand.
+                c. With your left hand grasp your partner's
+right wrist.
+          (2) Lift the casualty.
+          (3) Stand in back of the casualty.
+          (4) Squat your bodies at the same time to about the
+knee level of the casualty.
+          (5) Have the casualty sit on the hand-seat and place
+his arms around carrier’s shoulders to help support himself.
+          (6) Carriers rise to their feet at the same time.
+
+                                                               5-363
+
+
+---
+
+     g. Two-Man-Fore-and-Aft Carry
+
+          (1) Position yourself.
+
+                a. One carrier positions himself at casualty’s
+head, facing the casualty.
+
+                b. The shorter carrier positions himself at
+casualty’s feet with his back to the casualty.
+
+          (2) Prepare to lift the casualty.
+
+                a. Carrier at the head of the casualty kneels on
+one knee, slides his arms under the casualty’s arms, raises
+casualty up slightly, and locks his hands in front of the
+casualty’s chest.
+
+                b. Carrier at casualty’s feet spreads casualty’s
+legs, kneels on one knee between them and lifts the casualty’s
+legs, grasping the legs above the knees.
+
+          (3) Carriers lift the casualty. At the signal of the
+carrier at the head of the casualty, the two carriers rise together,
+lifting the casualty.
+
+     h. Improvised Litter
+
+          (1) Using the casualty’s poncho and two poles.
+
+                a. Open the poncho and lay the two poles
+(limbs) lengthwise across the center.
+
+5-364
+
+
+---
+
+                b. Reach in and pull the hood up (toward you)
+and lay it flat on the poncho.
+
+                c. Fold the poncho over the first pole.
+
+                d. Fold the free edges of the poncho over the
+second pole.
+
+          (2) Using the Casualty’s Shirts/Jackets, and Two Poles.
+
+                a. Button and/or zip two or three fatigue shirts
+or jackets and pull the sleeves inside.
+
+                b. Pass the poles through the sleeves.
+
+          (3) Placing and Transporting a Casualty on an
+Improvised Litter.
+
+                a. Place the casualty on the litter, using the
+Two-Man Arms Carry, or roll the casualty onto the litter.
+
+                b. Lift the litter.
+
+                c. Raise the litter at the same time as the other
+carrier/bearer.
+
+                d. Keep the litter as level as possible.
+
+REFERENCES
+
+FM 21-11    STP 21-1-SMCT
+
+                           5-365
+
+
+---
+
+                Appendix A: Quotations
+
+• “In war, there is no substitute for victory.”
+          - General Douglas MacArthur
+
+• “I have never taken any command into battle with
+     the slightest desire to come out of it alive unless I
+     won.”
+          - General P.H. Sheridan
+
+• “War is an ugly thing but not the ugliest of
+     things. The decayed and degraded state of mind
+     that thinks nothing is worth fighting for is far
+     worse.”
+          - John Stuart Mill
+
+• “Only the dead have seen the end of war.”
+          - Plato
+
+• “Battle is the ultimate to which the whole life’s
+     labor of a [soldier] should be directed. He may
+     live to the age of retirement without seeing a
+     battle; still, he must always be getting ready for it
+     exactly as if he knew the hour of the day it is to
+     break upon him. And then, whether it come early
+     or late, he must be willing to fight – he must
+     fight.”
+          - BG Charles F. Smith (1861)
+
+• “God grants liberty only to those who love it and
+     are always ready to defend it.”
+          - Daniel Webster
+                                                             A-1
+
+
+---
+
+           Appendix A: Quotations (Continued)
+
+     • “Let every nation know, whether it wishes us
+          well or ill, that we shall pay any price, bear any
+          burden, meet any hardship, support any friend,
+          oppose any foe, to assure the survival and success
+          of liberty.”
+                - President John F. Kennedy
+
+     • “I regret that I have but one life to lose for my
+          country.”
+                - Nathan Hale
+
+     • “To be prepared for war is one of the most
+          effectual means of preserving the peace.”
+                - President George Washington
+
+     • “Eternal vigilance is the price of freedom.”
+                - Thomas Jefferson
+
+     • “Winning is not a sometime thing. You don’t win
+          once in a while. You don’t do things right once in
+          a while. You do them right all the time.”
+                - Vince Lombardi
+
+     • “It is not enough to fight. It is the spirit which we
+          bring to the fight that decides the issue. It is
+          morale that wins the victory.”
+                - General George C. Marshall
+
+A-2
+
+
+---
+
+     Appendix A: Quotations (Continued)
+
+• “When duty whispers – ‘low, thou must’ – you
+     must reply: ‘I can!’
+          - Ralph Waldo Emerson
+
+• “When your shot is exhausted, knock down the
+     enemy with the stock of your rifle. If the rifle
+     stock be broken, bite with your teeth.”
+          - Russian Military Reader
+
+• “No sweat, sir. You can count on me. We’ll stop
+     them.”
+          - Last words of SPC James K. Stoddard as
+                he lay bleeding (and he knew it).
+                26 February 1968 – Hill 614
+
+• “You cannot be disciplined in great things and
+     undisciplined in small things. There is only one
+     sort of discipline – perfect discipline.”
+          - General George S. Patton, Jr.
+
+• “You gain strength, courage, and confidence by
+     every experience in which you really stop to look
+     fear in the face. You must do the thing you think
+     you cannot do.”
+          - Eleanor Roosevelt
+
+• “Encourage us in our endeavor to live above the
+     common level of life. Help us to choose the
+     harder right instead of the easier wrong.”
+          - West Point Cadet Prayer
+                                                             A-3
+
+
+---
+
+           Appendix A: Quotations (Continued)
+     • “Invincibility depends on one’s self; the enemy’s
+
+          vulnerability on him.”
+                - Sun Tzu
+
+     • “Perpetual optimism is a force multiplier.”
+                - General Colin Powell
+
+A-4
+
+
+---
+
+             Appendix B: Historic Documents
+
+     Extract from The Declaration of Independence
+When in the Course of human events, it becomes
+necessary for one people to dissolve the political bands
+which have connected them with another, and to assume,
+among the Powers of the earth, the separate and equal
+station to which the Laws of Nature and of Nature's God
+entitle them, a decent respect to the opinions of mankind
+requires that they should declare the causes which impel
+them to the separation. We hold these truths to be self-
+evident, that all men are created equal, that they are
+endowed by their Creator with certain unalienable Rights,
+that among these are Life, Liberty, and the pursuit of
+Happiness. That to secure these rights, Governments are
+instituted among Men, deriving their just powers from the
+consent of the governed, That whenever any Form of
+Government becomes destructive of these ends, it is the
+Right of the People to alter or to abolish it, and to institute
+new Government…Prudence, indeed, will dictate that
+Governments long established should not be changed for
+light and transient causes…But when a long train of
+abuses and usurpations, pursuing invariably the same
+Object evinces a design to reduce them under absolute
+Despotism, it is their right, it is their duty, to throw off
+such Government, and to provide new Guards for their
+future security. --Such has been the patient sufferance of
+these Colonies; and such is now the necessity which
+constrains them to alter their former Systems of
+Government. The history of the present King of Great
+Britain is a history of repeated injuries and usurpations, all
+having in direct object the establishment of an absolute
+
+                                                                  B-1
+
+
+---
+
+     Appendix B: Historic Documents (Continued)
+
+Tyranny over these States. To prove this, let Facts be
+submitted to a candid world……. He has obstructed the
+Administration of Justice, by refusing his Assent to Laws
+for establishing Judiciary Powers. He has made judges
+dependent on his Will alone, for the tenure of their offices,
+and the amount and payment of their salaries……He has
+kept among us, in times of peace, Standing Armies
+without the Consent of our legislatures. He has affected to
+render the Military independent of and superior to the
+Civil Power……For quartering large bodies of armed
+troops among us: For protecting them, by a mock Trial,
+from Punishment for any Murders which they should
+commit on the Inhabitants of these States: For cutting off
+our Trade with all parts of the world: For imposing taxes
+on us without our Consent: For depriving us, in many
+cases, of the benefits of Trial by Jury….. He has plundered
+our seas, ravaged our Coasts, burnt our towns, and
+destroyed the lives of our people.……We, therefore, the
+Representatives of the United States of America, in
+General Congress, Assembled, appealing to the Supreme
+Judge of the world for the rectitude of our intentions, do,
+in the Name, and by the Authority of the good People of
+these Colonies, solemnly publish and declare, That these
+United Colonies are, and of Right ought to be Free and
+Independent States; that they are Absolved from all
+Allegiance to the British Crown, and that all political
+connection between them and the State of Great Britain, is
+and ought to be totally dissolved; and that as Free and
+Independent States, they have full Power to levy War,
+conclude Peace, contract Alliances, establish Commerce,
+
+B-2
+
+
+---
+
+     Appendix B: Historic Documents (Continued)
+and to do all other Acts and Things which Independent
+States may of right do. And for the support of this
+Declaration, with a firm reliance on the Protection of
+Divine Providence, we mutually pledge to each other our
+Lives, our Fortunes and our sacred Honor.
+
+   Preamble to the Constitution of the United States
+We the People of the United States of America, in Order
+to form a more perfect Union, establish Justice, insure
+domestic Tranquility, provide for the common defense,
+promote the general Welfare, and secure the Blessings of
+Liberty to ourselves and our Posterity, do ordain and
+establish this Constitution for the United States of
+America.
+
+                                                                  B-3
+
+
+---
+
+     Appendix C: National Anthem (Star Spangled
+              Banner) and Pledge of Allegiance
+
+                     Star Spangled Banner
+O say can you see by the dawn's early light
+What so proudly we hail'd at the twilight's last gleaming
+Whose broad stripes and bright stars through the perilous fight
+O'er the ramparts we watch'd were so gallantly streaming?
+
+And the rocket's red glare, the bomb bursting in air,
+Gave proof through the night that our flag was still there,
+O say does that star-spangled banner yet wave
+O'er the land of the free and the home of the brave?
+
+On the shore dimly seen through the mists of the deep,
+Where the foe's haughtly host in dread silence reposes,
+What is that which the breeze, o'er the towering steep,
+As it fitfully blows, half conceals, half discloses?
+
+Now it catches the gleam of the morning's first beam
+In full glory reflected now shines in the stream
+'Tis the star-spangled banner—O long may it wave
+O'er the land of the free and the home of the brave!
+
+O thus be it ever when free men shall stand
+Between their loved home and the war's desolation!
+Blest with vict'ry and peace, may the heav'n rescued land
+
+Praise the power that hath made and preserved us a nation!
+Then conquer we must, when our cause it is just,
+And this be our motto—"In God is our Trust,"
+And the star-spangled banner in triumph shall wave
+O'er the land of the free and the home of the brave.
+
+                                                                  C-1
+
+
+---
+
+                      Pledge of Allegiance
+I pledge allegiance, to the flag, of the United States of
+America;
+And to the Republic, for which it stands;
+One nation, under God, indivisible;
+With Liberty and Justice for all.
+
+C-2
+
+
+---
+
+Verse:          Appendix D: Army Song
+
+First        The Army Goes Rolling Along
+Chorus:
+          March along, sing our song
+Refrain:    With the Army of the free.
+
+Second    Count the brave, count the true
+Chorus:     Who have fought to victory.
+
+          We're the Army and proud of our name!
+            We're the Army and proudly proclaim.
+
+          First to fight for the right
+            And to build the nation's might.
+               And THE ARMY GOES ROLLING
+
+          ALONG.
+          Proud of all we have done,
+
+             Fighting till the battle's won.
+               And THE ARMY GOES ROLLING
+
+          ALONG.
+
+          Then it's hi! hi! hey!
+            The Army's on its way,
+
+          Count off the cadence loud and strong:
+             For where'er we go, you will always know
+
+          That THE ARMY GOES ROLLING ALONG.
+
+          Valley Forge, Custer's ranks,
+             San Juan Hill and Patton's tanks,
+               And the Army went rolling along.
+
+          Minutemen from the start,
+            Always fighting from the heart,
+               And THE ARMY KEEPS ROLLING
+
+          ALONG..
+
+                                                       D-1
+
+
+---
+
+          Appendix D: Army Song (Continued)
+
+Refrain:  Then it's hi! hi! hey!
+            The Army's on its way,
+Third
+Chorus:   Count off the cadence loud and strong:
+             For where'er we go, you will always know
+Refrain:
+          That THE ARMY GOES ROLLING ALONG.
+
+          Men in rags, men who froze,
+             Still that Army met its foes,
+               And the Army went rolling along.
+
+          Faith in God, then we're right
+            And we'll fight with all our might
+               As THE ARMY KEEPS ROLLING
+
+          ALONG.
+
+          Then it's hi! hi! hey!
+            The Army's on its way,
+
+          Count off the cadence loud and strong:
+                   (two! three!)
+
+             For where'er we go, you will always know
+          That THE ARMY GOES ROLLING ALONG!
+
+                   (Keep it rolling!)
+               And THE ARMY GOES ROLLING
+          ALONG!
+
+D-2
+
+
+---
+
+     Appendix E: Soldier’s Code
+
+     THE SOLDIER'S CODE
+
+I.   I am an American soldier – a protector of the
+
+     greatest nation on earth – sworn to uphold the
+
+     Constitution of the United States.
+
+II.  I will treat others with dignity and respect and
+
+     expect others to do the same.
+
+III. I will honor my Country, the Army, my unit and
+          my fellow soldiers by living the Army Values.
+
+IV. No matter what situation I am in, I will never do
+          anything for pleasure, profit, or personal safety
+          which will disgrace my uniform, my unit, or my
+          Country.
+
+V.   Lastly, I am proud of my Country and its flag. I
+
+     want to look back and say that I am proud to have
+
+     served my Country as a soldier.
+
+                                         E-1
+
+
+---
+
+          Appendix F: Soldier’s Responsibilities
+
+Soldiers in the United States Army take on two critical
+responsibilities that are uncommon to the average citizen.
+Members of the Armed forces have sworn to defend the
+Constitution of the United States and to obey the orders of
+the President and the Officers appointed over them.
+
+1. Defend the Constitution: The Constitution (See
+Appendix B) is the document which established our
+modern-day government and outlines all of our rights as
+American citizens. Contained within it are the very words
+which authorize Congress to establish an Army. Written
+by James Madison and ratified by Congress in 1789, the
+Constitution has been a living document ever since and the
+centerpiece of the longest-standing democratic republic in
+history. As soldiers, we have sworn to defend the
+Constitution against all enemies, foreign and domestic. In
+doing so, we defend life, liberty, and the pursuit of
+happiness for hundreds of millions of Americans. We are
+“prepared to give our lives in its defense.”
+
+2. Obey the Orders of the President of the United
+States and Officers Appointed Over You: The
+President’s greatest responsibility – as Commander-in-
+Chief – is to preserve America’s freedom. This may
+require him to employ American military forces and risk
+the lives of American soldiers. He is the pinnacle of the
+Chain of Command, and it is incumbent upon every
+soldier to obey his orders. This obedience goes hand-in-
+hand with defending the Constitution.
+
+                                                                  F-1
+
+
+---
+
+  Appendix F: Soldier’s Responsibilities (Continued)
+By virtue of Congressional mandate, Commissioned
+officers receive their authority directly from the President.
+Therefore, when we receive orders from the officers
+appointed over us, we are indirectly receiving orders from
+the President of the United States.
+In addition to these two primary responsibilities, soldiers
+should also carry out their duties as dedicated and
+responsible citizens. Every citizen soldier is duty-bound to
+vote, obey civil laws, and partake in the community on a
+positive level.
+
+F-2
+
+
+---
+
+               Appendix G: General Orders
+                       1st General Order
+
+ I will guard everything within the limits of my post and
+         quit my post only when properly relieved.
+                      2nd General Order
+
+I will obey my special orders and perform all of my duties
+                      in a military manner.
+                      3rd General Order
+
+I will report violations of my special orders, emergencies,
+    and anything not covered in my instructions, to the
+                    commander of the relief.
+
+                                                                 G-1
+
+
+---
+
+               Appendix H: Code of Conduct
+
+                                   I
+                        I am an American,
+fighting in the forces which guard my country and our way
+
+                               of life.
+       I am prepared to give my life in their defense.
+
+                                  II
+         I will never surrender of my own free will.
+ If in command I will never surrender the members of my
+     command while they still have the means to resist.
+
+                                 III
+   If I am captured, I will continue to resist by all means
+
+                             available.
+I will make every effort to escape and aid others to escape.
+
+  I will accept neither parole nor special favors from the
+                               enemy.
+
+                                  IV
+  If I become a prisoner of war, I will keep faith with my
+
+                         fellow prisoners.
+I will give no information or take part in any action which
+
+              might be harmful to my comrades.
+If I am senior, I will take command. If not, I will obey the
+
+  lawful orders of those appointed over me and will back
+                      them up in every way.
+
+                                                                  H-1
+
+
+---
+
+       Appendix H: Code of Conduct (Continued)
+                                  V
+
+   When questioned, should I become a prisoner of war,
+I am required to give name, rank, service number, and date
+
+                              of birth.
+ I will evade answering further questions to the utmost of
+
+                             my ability.
+  I will make no oral or written statements disloyal to my
+
+       country and its allies or harmful to their cause.
+                                  VI
+
+   I will never forget that I am an American, fighting for
+ freedom, responsible for my actions, and dedicated to the
+
+           principles which made my country free.
+I will trust in my God and in the United States of America.
+
+H-2
+
+
+---
+
+                     Appendix I: Benefits
+
+Health Benefits
+
+TRICARE (Medical Coverage) TRICARE is the
+Department of Defense’s health care program – or the
+military’s equivalent of a medical insurance provider.
+Active Duty Service Member’s are automatically enrolled
+in the program and receive full medical benefits through a
+primary care provider at their local military facility.
+Active duty family members and retirees under the age of
+65 are also eligible for medical coverage (your family
+members are eligible from the first day you enter the
+Army). Sponsors must enroll their family members in the
+program through the local Health Benefits Advisor. (This
+is an important step – you need to ensure that you have
+enrolled your family in order for them to receive medical
+care.)
+
+There are three TRICARE programs to choose from. The
+most common option is TRICARE Prime. Active duty
+soldiers are automatically enrolled in TRICARE Prime
+(they have no choice), and most sponsors choose this
+program for their families also. TRICARE Prime is similar
+to an HMO (Health Maintenance Organization). You and
+your family members are assigned to a Primary Care
+Manager (usually in the closest military facility) who will
+take care of most of your medical needs. He or she will
+refer you to a specialist if necessary. The great advantage
+of TRICARE Prime is that almost all of your medical
+expenses are paid for. However, you must see your
+Primary Care Manager first for all health care problems.
+
+                                                                   I-1
+
+
+---
+
+             Appendix I: Benefits (Continued)
+
+The second option is TRICARE Standard. With
+TRICARE standard you can choose your own civilian
+doctor. However, you must pay a yearly deductible
+(approximately $100 per person) as well as 20% of all
+medical bills.
+
+The final option is TRICARE Extra. Under this plan, you
+may select from a list of TRICARE-participating civilian
+doctors. You are responsible for 15% of all medical
+expenses.
+
+Below are a few commonly asked questions about
+TRICARE.
+
+Q: I am a basic training soldier. My family members
+are not here with me. How will they get medical care in
+my hometown?
+A: They may enroll in TRICARE Prime if it is available in
+that area, or they may seek care under TRICARE Extra or
+TRICARE Standard. The most important step is to talk to
+the local Health Benefits Advisor to get your family
+enrolled in your program of choice.
+
+Q: What are the costs to enroll my family in TRICARE
+Prime?
+A: There is no cost for active duty family member
+enrollment in TRICARE Prime. There may be modest
+payments for in-patient stays at civilian hospitals (around
+$10 per day) or a cost-share when they are referred to
+civilian doctors ($6 per visit).
+I-2
+
+
+---
+
+             Appendix I: Benefits (Continued)
+
+Q: If my family and I are away from our local military
+facility, how do we receive medical care?
+A: In an emergency (threat to life, limb, eyesight, or
+broken bones), simply go to the nearest medical facility
+(civilian or military). If there is no emergency, contact
+your primary care manager for approval to see a civilian
+doctor. This makes it important to keep your Primary Care
+Manager’s phone number with you when you are on leave
+or away from your normal military post.
+
+Dental Coverage
+Active duty soldiers receive full dental and orthodontic
+care through military providers. However, these services
+are not available to family members, and dental care is not
+included as a part of TRICARE’s coverage. You may
+enroll your family members in a separate dental insurance
+program through your local Personnel Action Center
+(PAC). The insurance costs from about $8 to $20 per month
+depending on the number of dependents you have. It covers the
+costs of regular cleanings as well as providing partial payment
+for other procedures and surgery.
+
+Legal Benefits
+
+Judge Advocate Services
+The Staff Judge Advocate at each Army post is available
+to assist soldiers with legal matters such as drafting a will
+or power of attorney, filing claims against the government
+for damaged property, and general legal questions.
+
+                                                                   I-3
+
+
+---
+
+             Appendix I: Benefits (Continued)
+
+Trial Defense Services
+In the event that you encounter legal problems during your
+military career, the Army provides, at no cost to you,
+defense attorneys who will help you understand your
+rights and ensure that you are afforded due process. The
+Trial Defense Service at your local post assists soldiers
+with issues concerning chapters (removal from the Army),
+non-judicial punishment under Article 15 of the UCMJ,
+and other more serious UCMJ offenses (courts martial).
+While they may give you limited advice, the Trial Defense
+Service does not provide legal help for matters supervised
+by a civilian court.
+
+Personal and Family Benefits
+
+Life Insurance (SGLI)
+The Servicemen's Group Life Insurance (SGLI) program provides a
+term life insurance policy. All soldiers on active duty are
+automatically insured for $250,000 unless they decline or reduce the
+coverage. A charge of about $20 is deducted from your paycheck
+each month unless you state in writing that you don't want the
+insurance. Coverage in smaller quantities is available at lower
+monthly rates. Cancellation of SGLI or changes to a current policy
+can be done at the unit PAC.
+
+SGLI is an excellent program for military personnel
+because of its low cost, because it pays in addition to any
+other survivor benefits, and because it ensures that your
+survivors will receive compensation even if your event is
+the result of combat or other high-risk military duties.
+
+I-4
+
+
+---
+
+             Appendix I: Benefits (Continued)
+
+Housing
+
+The Army provides government quarters or a housing
+allowance for all soldiers. Single soldiers normally live on
+post in the unit’s housing area or the BEQ (Bachelor’s
+Enlisted Quarters). Those in the rank of Sergeant First Class
+and above may choose to live off post with permission from
+their commander.
+
+Soldiers in pay grade E4, with two or more years of service,
+and in pay grades E5 and above, with dependents, are
+eligible for government-owned or controlled family
+housing. Installations with adequate quarters assign housing
+as soon as possible. If no housing is available, your name is
+placed on a waiting list and you must find off-post
+accommodations.
+
+If you live off post, you will receive a basic allowance for
+quarters based on your rank. The money is intended to pay
+for 80% of the cost of rent and utilities. In most areas, you
+will also receive a variable housing allowance (VHA). This
+amount depends on the cost of housing in the area. For
+example, a soldier stationed in Washington, D.C. receives a
+greater VHA than one stationed at Fort Benning, Georgia,
+because living in the D.C. area costs more than living near
+Columbus, Georgia. The combination of your allowance for
+quarters and VHA is called BAH – Basic Allowance for
+Housing. A key benefit of BAH is that it is not taxed when
+you report your federal income taxes.
+
+                                                                   I-5
+
+
+---
+
+             Appendix I: Benefits (Continued)
+
+Post Exchange and Commissary
+
+Another important benefit of military service is the
+opportunity to shop in the post exchange (PX) and
+commissary.
+
+The post exchange is similar to a department store. There is
+no state sales tax on exchange items, and prices are often
+very reasonable. You may purchase items for your own
+personal use or for gifts, but you may not buy items for
+resale. You may use any military exchange facility in the
+United States and some overseas, as long as you are on
+active duty, retired, on special reserve duty, or are a
+dependent.
+
+The commissary is a supermarket which can be used by all
+military personnel and their dependents. Commissaries
+usually sell food at a lower price than civilian stores,
+particularly overseas. The government appropriates money
+to keep commissaries operating, and typically you will save
+from 20% to 30% by shopping at the commissary.
+
+Leave
+As a soldier in the United States Army, you accrue 2 ½ days
+of leave each month for a total of 30 days per year. Subject
+to the approval of your chain of command and the
+requirements of your unit’s mission, you can use this leave
+at your own convenience for any purpose you choose (if
+you do not use all 30 days, the excess carries over to the
+following year). A row on your LES is reserved specifically
+for leave and you can reference this section each month to
+
+I-6
+
+
+---
+
+              Appendix I: Benefits (Continued)
+
+see how much leave you have available. As a new soldier,
+you will have very few days of leave accrued. In the case of
+emergencies or special circumstances, your commander is
+authorized to advance you a certain number of days.
+
+Army Family Team Building (AFTB)
+
+The purpose of the Army Family Team Building program
+is to increase family readiness, which in turn increases
+mission accomplishment. It trains family members so that
+they can help themselves and other families in the event
+their sponsors deploy. Family training is conducted on
+three levels. First, the AFTB program teaches families
+how to manage their personal affairs, and where to find
+assistance if necessary. On the second level, AFTB trains
+family members to assist community organizations such as
+the Red Cross, Family Support Groups, church groups,
+and other community activities. Finally, the third level
+prepares volunteer family members to assume a leadership
+role in the aforementioned organizations. Each installation
+has its own AFTB program.
+
+                                                                   I-7
+
+
+---
+
+                   Appendix J: Promotions
+
+With the exception of your initial promotion from PVT to
+PV2, advancements in the Army are not automatic. Your
+chain of command will promote you or recommend you
+for promotion on the basis of your performance and
+increasing competency in your MOS.
+
+Promotion to PV2: A private will be advanced to PV2
+after completing six months of service (barring any
+adverse legal actions). Local commanders may recognize
+outstanding performance by promoting privates to PV2
+after only four months. This is done by employing a
+promotion waiver. These waivers are limited in number
+and only available to the very best soldiers.
+
+Promotion to PFC: Commanders may promote PV2s
+with 12 months of time in service and four months time in
+grade to Private First Class (E3). Waivers are also
+available for PFC with as few as six months time in
+service and two months time in grade.
+
+Promotion to Specialist: A PFC is eligible for promotion
+to specialist with 26 months time in service and 6 months
+time in grade. Commanders may promote outstanding
+performers to SPC with a waiver at as few as 18 months
+time in service and 6 months time in grade.
+
+Once you reach the rank of SPC, you must go before a
+local promotion board to gain eligibility for advancement
+to the rank of Sergeant. The promotion board tests you on
+
+                                                                   J-1
+
+
+---
+
+           Appendix J: Promotions (Continued)
+a number of items including leadership competency, basic
+soldier knowledge and skills, oral communication skills,
+and personal appearance, bearing, and self confidence.
+If you succeed at the promotion board, your NCO
+Support Channel will recommend you for promotion
+and, based on an Army-wide point system, you will
+advance to Sergeant when you have met the
+“Promotion Point Cutoff” for your MOS.
+
+J-2
+
+
+---
+
+       Appendix K: Managing Personal Finances
+
+It is your duty as a soldier to fulfill all of your financial
+obligations and provide for your family. There are several
+components that are key to achieving this task. The first is
+to ensure that you are properly receiving your paycheck.
+
+Sure- Pay and Banking Accounts:
+The Army requires all soldiers to enroll in the Sure-Pay
+program. This means that you must have your paycheck
+deposited directly to a checking or savings account. If you
+close or change this account, you must ensure that you go
+to your local PAC and fill out the proper forms to update
+your Sure-Pay data. The Army will pay you once per
+month on the 1st of each month, or twice per month on the
+1st and the 15th. You are free to choose your preferred
+option based on your budgeting necessities.
+
+Regardless of which option you choose, you must
+carefully review your monthly Leave and Earnings
+Statement (LES) to ensure that your pay is being deposited
+properly and you are receiving all of the benefits (Base
+Pay, BAH, etc.) that you are entitled to.
+
+Some key items to consider when choosing the financial
+institution at which you will keep your direct deposit
+account are:
+
+          - Is there a monthly service charge for
+maintaining a checking account? If so, look for a
+
+                                                                  K-1
+
+
+---
+
+       Appendix K: Managing Personal Finances
+                           (Continued)
+
+different bank. Numerous institutions offer free checking
+as long as you have set up Sure-Pay.
+
+          - Is there a charge for using ATMs? Cash
+withdrawal charges can be expensive. You should be able
+to find a bank that does not charge ATM fees at its
+branches.
+
+          - Does the bank have branches available
+throughout the country? Since the Army requires you to
+move frequently, it is important to consider a bank that
+provides service at the numerous military installations
+where you may be stationed. While a local bank may still
+be your best option, understand that you may endure some
+difficulty when you PCS and have to switch your account
+to a new bank.
+
+Check Writing
+Managing your checkbook will be a critical factor in
+properly administering your personal finances. You must
+pay close attention to each transaction to ensure that you
+always know your checking account balance. This will
+ensure that you do not write a bad check (a check that you
+do not have sufficient funds to cover).
+
+There are several consequences for writing a bad check.
+
+Your bank and the institution to which the check was
+written may each assess a service charge often as much as
+
+K-2
+
+
+---
+
+       Appendix K: Managing Personal Finances
+                           (Continued)
+
+$15 – and sometimes even higher if they use a percentage
+system based on the amount of your check.
+Your reputation and credit rating may be damaged,
+making it difficult to purchase a car, home, or other items
+that require a loan.
+You could lose check-writing privileges on post.
+If you bounce a check on post, your commander or 1SG
+will receive notification and you may be reprimanded or
+punished.
+
+                                                                  K-3
+
+
+---
+
+Appendix L: Explanation of the Leave and Leave and
+                 Earnings Statement (LES)
+
+The LES is your detailed pay statement issued at the end
+of each month. The chart below helps explain some of the
+key information on your LES. If you have further
+questions, or notice an error on your statement, ensure that
+you report it to your chain of command, or go to your
+Personnel Action Center (PAC) for assistance.
+
+Entitlements      Deductions Allotments                Summary
+
+This section      These are the       If you have    The bottom line
+shows all of the  deductions          signed up for  in this section is
+money that you    taken from          any            your End of
+have earned:      your                allotments,    Month Pay
+Base Pay, Basic   entitlements        they will be   (EOM). The
+Allowance for     and include         listed here.   amount listed in
+Subsistence       federal taxes,                     the EOM PAY
+(BAS), Basic      FICA or social                     block is the
+Allowance for     security taxes,                    amount that
+Housing (BAH),    Medicare taxes,                    will be
+and possibly      SGLI, Dental                       deposited in
+clothing          premiums (if                       your bank on
+allowance,        you have                           payday. It
+Family            requested                          equals your
+Separation Pay,   coverage), and                     entitlements
+or any other      various other                      minus your
+special pay       items.                             deductions and
+At the bottom,    Mid-month pay                      allotments.
+you will see      will also be
+TOTAL,            listed here, as it                             L-1
+indicating the    is a
+sum of all of     “deduction”
+your              from your end
+entitlements for  of month
+the month         entitlements.
+
+
+---
+
+Appendix L: Explanation of the Leave and Leave and
+         Earnings Statement (LES) (Continued)
+
+LEAVE  The most important item in this row is the CR
+       FWD block. It indicates the amount of leave you
+       currently have available.
+
+FICA   The rows labeled FICA TAXES, FED TAXES,
+TAXES  and STATE TAXES simply let you know how
+       much of your pay has been taken out for taxes
+       during the year.
+
+PAY    In this section, pay attention to BAH Type (it
+DATA   should be with dependent, without dependent(s),
+       or BAH differential depending on your situation).
+       Also, ensure that the BAH Zip Code correctly
+       identifies the area where you (or your dependents)
+       are living. If it is incorrect, and you are receiving
+       too much money, you will eventually have to pay
+       it back.
+
+Remarks:
+
+Various items will be listed in the remarks section each
+month. Some examples include: voting information, pay
+increase announcements, and other announcements from
+the Defense Finance and Accounting Service. On the right
+side, you will see leave dates (if you have taken any
+during the pay period), allotment information, your bank
+account information, advance pay debt balances, and other
+information specific to your individual pay situation.
+
+L-2
+
+
+---
+
+    Appendix M: Common Military Acronyms and
+                         Abbreviations
+
+AA               Assembly Area
+AAFES            Army and Air Force Exchange Service
+ACS              Army Community Service
+ADAPCP           Alcohol and Drug Abuse Prevention and
+Control Program
+AER              Army Emergency Relief
+AIT              Advanced Individual Training
+APFT             Army Physical Fitness Test
+AR               Army Regulation
+ARNG             Army National Guard
+ASAP             As soon as possible
+AT               Anti-tank
+AWOL             Absent Without Leave
+
+BAH              Basic Allowance for Housing
+BCT              Basic Combat Training
+BDU              Battle Dress Uniform
+BEQ              Bachelor Enlisted Quarters
+BRM              Basic Rifle Marksmanship
+BSA              Brigade Support Area
+
+CO               Commanding Officer
+COA              Course of Action
+CONUS            Continental United States
+CPR              Cardiopulmonary Resuscitation
+CQ               Charge of Quarters
+
+DA               Department of the Army
+
+                                                M-1
+
+
+---
+
+     Appendix M: Common Military Acronyms and
+                  Abbreviations (Continued)
+
+DEERS    Defense Enrollment Eligibility
+         Reporting System
+DENTAC   Dental Activity
+DFAC     Dining Facility
+DOD      Department of Defense
+
+EPW      Enemy Prisoner of War
+
+FM       Field Manual or Foot March
+FRAGO    Fragmentary Order
+FRG      Family Readiness Group
+FTX      Field Training Exercise
+
+HMMWV    High Mobility Multi-purpose Wheeled
+         Vehicle
+
+IAW      In accordance with
+
+IET      Initial Entry Training
+
+IG       Inspector General
+
+JAG      Judge Advocate General
+JRTC     Joint Readiness Training Center
+
+KP       Kitchen Patrol
+
+LBE/LCE  Load Bearing (or Carrying) Equipment
+LD       Line of Departure
+LES      Leave and Earnings Statement
+LRP      Logistics Release Point
+
+M-2
+
+
+---
+
+Appendix M: Common Military Acronyms and
+             Abbreviations (Continued)
+
+MOPP    Mission Oriented Protective Posture
+MOS     Military Occupational Specialty
+MP      Military Police
+MRE     Meal, Ready to Eat
+MTOE    Modified Table of Organization and
+        Equipment
+MWR     Morale, Welfare, and Recreation
+
+NBC     Nuclear, Biological, Chemical
+NCO     Noncommissioned Officer
+NLT     Not later than
+NTC     National Training Center
+
+OCONUS  Outside the Continental United States
+OPORD   Operations Order
+OSUT    One Station Unit Training
+
+PAC     Personnel Action Center
+PCS     Permanent Change of Station
+PCI     Pre-Combat Inspection
+PMCS    Preventive Maintenance Checks and
+        Services
+POW     Prisoner of War
+PT      Physical Training
+PX      Post Exchange
+
+RTO     Radio and Telephone Operator
+ROE     Rules of Engagement
+
+                                             M-3
+
+
+---
+
+Appendix M: Common Military Acronyms and
+             Abbreviations (Continued)
+
+SAW     Squad Automatic Weapon
+SALUTE  Size, Activity, Location, Unit, Time,
+        Equipment
+SDNCO   Staff Duty Noncommissioned Officer
+SGLI    Servicemen’s Group Life Insurance
+SOP     Standard Operating Procedure
+SPORTS  Slap, Pull, Observe, Release, Tap,
+        Squeeze
+
+TDY     Temporary Duty
+TOC     Tactical Operations Center
+TRADOC  Training and Doctrine Command
+
+UCMJ    Uniform Code of Military Justice
+USAR    United States Army Reserve
+
+VIP     Very Important Person
+
+M-4
+
+
+---
+
+        OATH OF ENLISTMENT
+
+I, (State your name), Do solemnly swear “or
+affirm” that I will support and defend, the
+Constitution of the United States against all
+enemies, foreign and domestic; that I will
+bear true faith and allegiance to the same; and
+that I will obey the orders of the President of
+the United States and the orders of the
+Officers appointed over me, according to
+regulations and the Uniform Code of Military
+Justice. So help me God!
+
+
+---
+
+
+
+--- 

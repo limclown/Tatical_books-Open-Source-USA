@@ -1,0 +1,11326 @@
+# fm_34-2-1-reconnaisance_1991-01  FIELD MANUAL                              *FM 34-2-1
+NO 34-2-1                                 HEADQUARTERS
+                                DEPARTMENT OF THE ARMY
+                        Washington, DC, 19 June 1991
+
+              TACTICS, TECHNIQUES, AND PROCEDURES                 FOR
+                         RECONNAISSANCE AND SURVEILLANCE
+                               AND INTELLIGENCE SUPPORT TO
+                                       COUNTERRECONNAISSANCE
+
+              Contents
+
+                                                                                   Page
+
+Preface                                                                            iv
+
+CHAPTER 1 - INTRODUCTION                                                           1
+
+                                    Collection Management Process                  1-
+                                   Solutions to Common Errors in
+                                                                                   1-4
+                                         Reconnaissance and Surveillance Planning
+
+CHAPTER 2 - RECONNAISSANCE AND SURVEILLANCE AND                                    2-1
+                                   INTELLIGENCE PREPARATION                        2-1
+                                  OF THE BATTLEFIELD
+                                        Terms                                      2-3
+
+                                   Reconnaissance and Surveillance Principles      2-6
+                                   Intelligence Preparation of the Battlefield
+                                                                                   2-23
+                                              Process
+                                    Reconnaissance and Surveillance Plan
+
+                                            Development
+
+CHAPTER 3 ~- ASSETS AND EQUIPMENT                                                  3-1
+
+                                    Assets and Equipment Organic to the            3-1
+                                         Maneuver Battalion                        3-6
+                                                                                   3-16
+                                    Assets and Personnel Normally Supporting
+                                        the Maneuver Battalion
+
+                                     Assets and Personnel Normally Supporting
+                                         the Maneuver Brigade
+
+CHAPTER 4 - PLANNING EFFECTIVE RECONNAISSANCE AND                                  4-1
+
+                                  SURVEILLANCE                                     4-3
+                                                                                   4-4
+                                  Staff Officer Responsibilities
+                                  Planning
+
+CHAPTER 5 - METHODS OF TASKING RECONNAISSANCE AND                                  5-1
+                                    SURVEILLANCE ASSETS
+
+DISTRIBUTION RESTRICTION: Approved for public release;
+distribution is unlimited.
+
+*This publication supersedes TC 30-25,  17 July 1977,                  and
+
+TC 34-50, 7 January 1980.
+
+                                                                                         i
+
+
+---
+
+FM 34-2-1
+
+CHAPTER 6 - THE RECONNAISSANCE AND SURVEILLANCE OVERLAY
+
+CHAPTER 7 - MONITORING THE RECONNAISSANCE AND
+
+                              SURVEILLANCE EFFORT
+                               Tracking Targets and Assets
+
+                               Evaluating How Your Assets Report
+
+                            Managing Priority Intelligence Requirements
+                            Modifying the Reconnaissance and
+
+                                      Surveillance Plan
+                                Tasking Assets
+
+CHAPTER 8  - AUGMENTING OR TASK ORGANIZING RECONNAISSANCE
+
+               AND SURVEILLANCE MISSIONS
+
+                   Task Organized with Engineers and
+                       Artillery Forward Observers Attached
+                         to Reconnaissance Patrol
+
+                   Task Organized with Signal Assets,
+                        Observation Posts, and Forward Observers
+                       Attached To Extended Reconnaissance
+
+                          Patrol
+
+                    Scouts with Infantry
+                    D Company, Scout Platoon, and Ground
+
+                        Surveillance Radar Effort Augmented
+
+CHAPTER 9  - RECONNAISSANCE AND SURVEILLANCE IN
+
+               OFFENSIVE OPERATIONS
+                    Detailed Reconnaissance
+
+                   Surveillance of the Objective
+                   Ongoing Reconnaissance and Surveillance
+
+                         Planning
+
+CHAPTER 10 ~ INTELLIGENCE SUPPORT TO
+
+                                COUNTERRECONNAISSANCE
+
+                                  Staff Officers
+                                  Mission Planning
+                                 D RA econna:issance Fundamentals
+                               Using Intelligence Preparation of the
+
+                                       Battlefield to Support Your
+                                     Counterreconnaissance Effort
+                                 Counterreconnaissance
+
+CHAPTER 11 ~ RECONNAISSANCE AND SURVEILLANCE IN                          11-1
+                                                                         11-1
+                                LOW-INTENSITY CONFLICT                   11-3
+                                                                         11-4
+                                      Factors                            11-9
+
+                               Guerrilla/Insurgent Operations            11-24
+                                Upper Echelon Organization
+
+                                    Equipment
+
+                                Intelligence Preparation of the
+                                     Battlefield Considerations
+
+ii
+
+
+---
+
+                                                             FM 34-2-1
+
+CHAPTER 12 - ELECTRONIC WARFARE ASSET EMPLOYMENT                             12-1
+                                       Fundamentals                          12-1
+                                     Planning                                12-3
+                                   What Type of Intelligence and Electronic
+                                         Warfare Assets Are Needed?          12-6
+
+APPENDIX A - Management Tools For Reconnaissance and                         A-1
+                                    Surveillance Operations
+
+APPENDIX B - Example of the Reconnaissance and                               B-1
+                                     Surveillance Process
+
+Glossary                                                     Glossary-1
+
+References                                                 References-1
+
+Index                                                                        Index-1
+
+                                                                             iii
+
+
+---
+
+FM 34-2-1
+
+           Preface
+
+      This field manual provides  collection managers; and other
+tactics, techniques, and          personnel involved in planning
+procedures (TTP) for              and conducting R&S and
+reconnaissance and surveillance   developing intelligence to
+(R&S) planning, mission           support CR operations. I t i s
+management, and reporting.        intended for use by both active
+It provides TTP for the           and Reserve Components (RC) and
+development of intelligence to    US Army Training and Doctrine
+support counterreconnaissance     Command (TRADOC) schools.
+(CR) operations. It describes
+employment considerations for           The doctrine in this
+R&S assets; and defines the       publication conforms with and
+roles of the collection manager   supports the principles
+and maneuver brigade and          contained in FM 34-1.
+battalion S2's in planning
+R&S operations. It describes            Unless this publication
+their roles in identifying        states otherwise, masculine
+intelligence requirements to      nouns and pronouns do not refer
+support CR operations.            exclusively to men.
+
+      This manual addresses             The proponent of this
+TTP for planning and              publication is the United
+conducting R&S and developing     States Army Intelligence
+intelligence to support CR        Center, Fort Huachuca, AZ.
+operations at maneuver brigade    Send comments and
+and below. It can also apply      recommendations on DA Form 2028
+to armored cavalry regiment       (Recommended Changes to
+(ACR) and separate brigades.      Publications and Blank Forms)
+                                  directly to Commander, US Army
+      This manual is intended     Intelligence Center and School,
+for maneuver commanders and       ATTN : ATSI-TDL-D, Fort
+their staffs (especially S2s);    Huachuca, AZ 85613-7000.
+intelligence staffs and
+
+iv
+
+
+---
+
+                                                             FM 34-2-1
+
+                           CHAPTER 1
+
+                           INTRODUCTION
+
+      Throughout history,           study, "Applying the National
+military leaders have               Training Center Experience:
+recognized the importance of        Tactical Reconnaissance.”
+R&S. Gaining and maintaining
+contact with the enemy is                 The message is clear:
+essential to win the battle.        Success on the battlefield
+Our own military history            begins with R&S and R&S begins
+contains many examples where        with the intelligence officer.
+our knowledge of the enemy,         As the S2, you play a big role
+or lack of knowledge, directlyy     in the success or failure of
+led to victory or defeat.           your unit. But if being able
+                                    to find the enemy is critical
+       The role of R&S has not      to the attack, what role does
+changed on the modern               the S2 play in the defense?
+battlefield; if anything,
+it has become even more                   Figure 1-2 shows the attack
+important. Battles at the           outcome according to reconnais-
+combat training centers prove       sance status (Opposing Force
+that a good R&S effort is           [OPFOR]). This is another
+critical to successful              chart from the same Rand study.
+attacks. On the other hand,         It clearly shows: If you blind
+a poor R&S effort almost            the enemy, they will most
+guarantees defeat for the           likely fail in the attack.
+commander. Figure 1-1 shows         Therefore, a successful defense
+attack outcome according to         depends on finding, targeting,
+reconnaissance status (Blue         destroying, or suppressing
+Force [BLUFOR]). This chart         enemy reconnaissance assets
+was developed by the Rand           before they can report your
+Corporation in its October 1987     unit’s defensive positions.
+
+RECONNAISSANCE   STATUS    SUCCESS       BATTLE OUTCOME      STANDOFF
+                                                   FAILURE
+
+Good             13              9       1                                                                                                                                         3
+
+Poor 50 4 38 8
+
+Figure 1-1. Attack outcome according to reconnaissance status (BLUFOR).
+
+RECONNAISSANCE   STATUS    SUCCESS       BATTLE OUTCOME      STANDOFF
+          Good      28            26                FAILURE
+           Poor
+                        2             Q  w
+
+                                                                                                                                                                               —s
+Figure 1-2. Attack outcome according to reconnais ince
+
+                                                                                                                                                                                      1-1
+
+
+---
+
+FM 34-2-1                          giving you and your commander
+      This implies an aggressive   the best chance for victory in
+                                   battle.
+CR effort that seeks out enemy
+reconnaissance units rather              The intent is for you to
+than passively screening. It       use this manual in the field as
+also implies the coordination      a guide. This manual is also
+and active participation among     designed to show commanders and
+the S2, S3, fire support           S3s the R&S planning process.
+officer (FSO), and the             This manual is arranged
+intelligence and electronic        sequentially to reflect the
+warfare support element            order of the R&S and collection
+(IEWSE).                           management processes. It will
+                                   help you understand R&S a step
+      This manual describes the    at a time.
+TTP you can use to develop and
+execute successful R&S plans.            The better prepared you
+Field Manual 34-2 and FM 34-80     are as an S2, the better your
+contain additional information     R&S plan will be. Therefore,
+on collection management and       you should have a solid
+R&S.                               appreciation for intelligence
+                                   preparation of the battlefield
+      This is a "how to" manual.   (IPB) and its contribution to
+It describes how to--              developing an R&S plan. (See
+                                   FM 34-130, Intelligence
+      o Plan R&S operations.       Preparation of the Battlefield,
+      o Task R&S assets.           for a complete discussion of
+      o Graphically depict R&S     IPB.) You need to know what
+operations.                        assets are available to you,
+      o Execute R&S operations.    as well as the capabilities
+      o Save time in the planning  and limitations of those
+process.                           assets. This supports
+      o Plan for intelligence      planning and executing R&S
+support to CR missions.            operations.
+      o Plan for division level
+assets, such as signals                  Once you formulate your
+intelligence (SIGINT)              plan, you must know how to
+collectors.                        task appropriate assets. One
+      This manual will show you    way to disseminate the R&S
+how to succeed in your             plan or taskings is to develop
+reconnaissance and CR effort,      an R&S overlay. FM 34-80,
+                                   Appendix E, describes the
+                                   preparation of the R&S
+                                   overlay. As you execute the
+                                   plan, you should know how to
+                                   monitor the R&S effort and
+
+1-2
+
+
+---
+
+modify the plan accordingly.                                           FM 34-2-1
+To reinforce the steps in the      requirements (PIR) or
+R&S process, this manual           information requirements (IR).
+includes examples at brigade
+and battalion levels of how to            PIR and IR are either
+plan, prepare, execute, and        stated by the commander or
+monitor the R&S effort.            recommended by you and approved
+                                   by the commander. They are the
+    COLLECTION MANAGEMENT PROCESS  very reason R&S plans (and all
+       To successfully plan and    c o l l e c t i o n p l a n s ) e x i s t . You
+                                   may also have requirements from
+execute the R&S effort, you        higher or subordinate units;
+should understand the five         these you will prioritize and
+phases of the collection           consolidate with the
+management process, and the        commander's PIR. Once you have
+relationship of R&S to             identified all requirements,
+collection management.             you will eventually convert
+Regardless of the echelon, you     them into specific items to
+will go through the following      look for.
+five steps or phases to develop
+a collection plan and,                          DETERMINE RESOURCE
+ultimately, an R&S plan:                AVAILABILITY AND CAPABILITY
+
+       o Receive and analyze              In simplest terms,
+requirements.                      determining resource
+                                   availability and capability
+       o Determine resource        means assessing what means you
+availability and capability.       have to look for the specific
+                                   items you have developed in the
+       o Task resources.           first step.
+
+       o Evaluate reporting.                       TASK RESOURCES
+       o Update collection                When tasking resources, you
+planning.                          must tell a specific resource
+                                   what it should look for, and
+            RECEIVE AND ANALYZE    how it is to report
+                 REQUIREMENTS      information.
+                                         At division and higher,
+      Receiving and analyzing      several elements accomplish
+requirements means identifying     these five steps. For example,
+what the commander must know       the all-source production
+about the enemy, weather, and      section (ASPS) aids the
+terrain to accomplish the          collection management and
+mission. Normally, the             dissemination (CM&D) section in
+commander’s concerns are           analyzing requirements. The
+expressed as questions, termed     CM&D may simply task the
+priority intelligence              military intelligence (MI)
+
+                                   1-3
+
+
+---
+
+ FM 34-2-1                                     question; or is it time to
+                                               shift focus and begin answering
+battalion to collect on                        another question?
+specific requirements; the MI
+battalion S3 is the one who                               SOLUTIONS TO COMMON
+actually tasks a specific                             ERRORS IN RECONNAISSANCE
+asset. In fact, very seldom                          AND SURVEILLANCE PLANNING
+does a division G2 directly
+task a specific asset.                               This manual focuses on
+                                              R&S at brigade and battalion
+       At maneuver brigade and                levels. It discusses ways
+battalion levels, however, your               to improve your R&S plans and
+S2 section will usually do all                to win the battle. Many
+five steps of the collection                  common mistakes made by S2s
+management process. You will                  in the planning stage result
+develop a collection plan which               in unproductive R&S operations.
+addresses how your unit will                  These mistakes were noted
+collect information to satisfy                during numerous observations
+all intelligence requirements.                at the training centers and
+Unlike division, you will                     occur regularly. To avoid
+normally task specific assets                 errors in R&S plans, use
+to collect specific                           the guidelines discussed
+information.                                  below.
+
+       This essentially is the                              USE IPB PRODUCTS
+difference between a collection
+plan and an R&S plan: a                              Use enemy situation
+collection plan identifies                    templates and event templates
+which units or agencies will                  to identify areas on the
+collect information. An R&S                   battlefield where and when
+plan identifies which specific                you expect significant events
+assets will be tasked to                      or targets to appear. These
+collect information, and how                  IPB products will save many
+they will do it. Therefore, as                hours of analysis by
+a general rule, R&S planning                  pinpointing specific areas
+occurs mostly at brigade and                  on which to focus your R&S
+below.                                        effort.
+
+            EVALUATE REPORTING                              KNOW YOUR ASSETS
+      Is the asset accurately
+reporting what it sees based on                     Know the capabilities and
+i t s c a p a b i l i t i e s ? And does the  limitations of the R&S assets
+report answer the original                    available to you. This should
+question?                                     ensure that assets are not sent
+                                              on missions they are not
+     UPDATE COLLECTION PLANNING               capable of conducting nor
+                                              trained to conduct.
+      Do you need more
+information to answer the
+
+1-4
+
+
+---
+
+               PROVIDE DETAILS                                       FM 34-2-1
+      When you develop your R&S   support is integrated into all
+plan, provide details. Generic    phases of R&S operations.
+R&S plans do not produce the
+amount of information required              STRESS THE IMPORTANCE
+in the time allocated.                           OF R&S MISSIONS
+
+             UNDERSTAND SCHEME          Subordinate elements tend
+                  OF MANEUVER     to ignore collection taskings
+                                  assigned by higher echelons;
+      It is imperative you        they sometimes consider these
+understand your unit’s scheme     nonessential taskings. Make
+of maneuver before you begin to   sure these subordinate element
+formulate the R&S plan. A well    commanders understand the
+thought out R&S plan that does    importance of their R&S
+not support the scheme of         missions. You must get the S3
+maneuver is a useless effort.     or the commander involved to
+                                  remedy this situation.
+              PROVIDE GUIDANCE
+      Provide detailed guidance               PARTICIPATE IN THE
+to the company and teams as                       DEVELOPMENT OF
+they plan their patrol
+missions; patrols also need to                 MISSION ESSENTIAL
+coordinate with the battalion                        TASK LISTS
+before, during, and after all
+missions. This should preclude          The battalion S2 should
+useless missions and wasted       take an active role in the
+l i v e s . You should also make  development of the scout
+sure patrols have enough time     platoon battle tasks. Figure
+to plan and execute their         1-3 is an example of scout
+missions.                         platoon battle tasks. The only
+       KNOW LOCATIONS OF ASSETS   way to establish a proper
+      You need to continuously    working relationship to train
+monitor and disseminate the       with the scout platoon leader
+current locations of friendly     in garrison as well as in the
+R&S assets. This should           field. The result will be a
+minimize the incidents of         scout platoon that understands
+fratricide.                       what the S2 needs and an S2
+                                  understanding the capabilities
+         INTEGRATE FIRE SUPPORT   and limitations of the scout
+      Involve the FSO in R&S      platoon.
+planning so that indirect fire
+                                                   POINT OUT NAI
+                                        During CR operations,
+                                  point out areas throughout
+                                  the battlefield where you
+                                  expect enemy reconnaissance.
+                                  Do not limit these NAI to
+
+                                  1-5
+
+
+---
+
+FM 34-2-1                                 o Lack of time makes the
+just along the forward edge        scout platoon leader reluctant
+of the battle area (FEBA) or       to exercise the initiative and
+the line of departure (LD)/        flexibility necessary to ensure
+line of contact (LC). Company      complete coverage. For
+and team commanders and staff      example, scouts remain in
+must understand that CR            their vehicles instead of
+operations extend throughout       dismounting.
+the depth of the battlefield.
+Enemy reconnaissance assets               o The scout platoon fails
+are trained to look deep and       to follow standing operating
+to conduct operations well         procedures (SOPS).
+into the rear area.
+                                             DO NOT OVERLY RELY ON
+        INCORPORATE FLEXIBILITY                 THE SCOUT PLATOON
+      Be sure to incorporate
+flexibility into your R&S                 Commanders tend to rely too
+plan. Be ready to make             much on their scout platoons.
+modifications at any time,         An untrained scout platoon may
+especially in a nuclear,           display weaknesses in land
+biological, and chemical           navigation, selecting proper
+(NBC) environment. The             R&S positions, reporting
+Combined Arms in a Nuclear/        information, and calling for
+Chemical Environment (CANE)        i n d i r e c t f i r e . When you do use
+IIB Test explains the              scout platoons, try to confirm
+difficulty in collecting           their reports with information
+intelligence data in an NBC        gathered from other assets.
+environment.                       Also, do not fall into the trap
+                                   of using the scout platoon as
+          DO NOT KEEP THE SCOUT    the only R&S collection asset.
+         PLATOON LEADER WAITING    When using the scout platoon,
+      Do not keep the scout        be sure the mission you give
+platoon leader at the              them is one they are capable of
+tactical operations center         successfully completing.
+(TOC) waiting for a complete
+operations order (OPORD).                These solutions apply to
+Some results are--                 common problems occurring
+      o The scout platoon deploys  throughout the Army. Take note
+too late to sufficiently           of these solutions and try to
+reconnoiter its assigned NAI.      develop R&S plans reflecting
+                                   the solutions, not the
+                                   problems.
+
+1-6
+
+
+---
+
+                                                                                   FM 34-2-1
+
+  1.                                                                 BATTLE TASKS
+
+  2.    Evaluate mission, formulate plans.
+  3.
+  4.    Maneuver.
+  5.    Conduct reconnaissance operations.
+  6.    Conduct security operations.
+  7.    Conduct mobility and countermobility operations.
+  8.    Operate in an NBC environment.
+  9.    Conduct air defense measures.
+10.     Perform intelligence operations.
+        Perform combat support operations.
+        Sustain readiness.
+
+                                                                        CRITICAL TASKS
+
+1. Platoon battle task: Evaluate mission, formulate plans.
+
+         Critical Tasks:
+a) Produce a platoon fire plan.
+b) Perform precombat checks.
+c) Perform tactical planning.
+ad) Employ command and control measures.
+e) Employ OPSEC.
+
+2. Platoon battle task: Maneuver.
+
+          Critical Tasks:
+a) Perform a tactical road march.
+b) Occupy an assembly area.
+c) Perform a passage of lines.
+ad) Conduct tactical movement.
+e) Conduct a relief in place.
+f) Assist in a passage of lines.
+
+——\ fh  \y/\                       \N
+        Figure 1-3. Example of a scout platoon battle tasks list.
+
+                                                                                        1-7
+
+
+---
+
+FM 34-2-1
+
+aN,                           NWN        NN     \.
+
+g) Execute actions on contact.
+h) Support a hasty attack.
+ i) Conduct air assault operations.
+j) Conduct a hasty river crossing.
+
+3. Platoon battle task: Conduct reconnaissance operations.
+
+          Critical Tasks:
+a) Perform a route reconnaissance.
+b) Perform a zone reconnaissance.
+c) Perform an area reconnaissance.
+d) Reconnoiter an obstacle and a bypass.
+é) Execute a dismounted reconnaissance patrol.
+
+4. Platoon battle task: Conduct security operations.
+
+          Critical Tasks:
+a) Screen a stationary force.
+b) Screen a moving force.
+c) Conduct dismounted security patrols.
+
+5. Platoon battle task:             Conduct mobility and countermobility
+operations.
+
+          Critical Tasks:
+a) Emplace and retrieve a hasty protective minefield.
+b) Perform demolition guard force operations.
+
+6. Platoon battle task: Operate in an NBC environment.
+
+          Critical Tasks:
+a) Prepare for a nuclear attack.
+b) Respond to the initial effects of a nuclear attack.
+c) Respond to the residual effects of a nuclear attack.
+
+a) Prepare for a chemical attack.
+@) Respond to a chemical agent attack.
+£f) Perform chemical decontamination.
+g) Cross a chemically contaminated area.
+h) Cross a radiologically contaminated area.
+
+7. Platoon battle task: Conduct air defense measures.
+
+——TM~S                        \ WN       —\\
+
+                 Figure 1-3.  Example of a scout platoon battle tasks list (continued).
+
+1-8
+
+
+---
+
+                                                 FM 34-2-1
+
+Ni  NWN  \N                                   \
+
+          Critical Tasks:
+
+a) Use passive air defense measures.
+b) Take active air defense measures against hostile aircraft.
+
+8. Platoon battle task: Perform intelligence operations.
+
+         Critical Tasks:
+
+a) Process EPWs.
+
+b) Process captured documents and equipment.
+
+9. Platoon battle task: Perform combat support operations.
+
+          Critical Tasks:
+a) Perform resupply operations.
+b) Prepare and evacuate casualties.
+c) Perform platoon maintenance operations.
+a) Perform field sanitation operations.
+
+10. Platoon battle task: Sustain readiness.
+
+          Critical Tasks:
+a) Conduct physical training.
+
+b) Conduct small arms and crew-served PMI and qualification.
+c) Perform PMCS on vehicles and equipment.
+a) Maintain property accountability.
+
+e) Conduct battle tasks 5 to 10.
+f) Counsel soldiers.
+g) Update soldiers records.
+
+    Figure 1-3. Example of a scout platoon battle tasks list (continued).
+
+                                                                           1-9
+
+
+---
+
+                                   FM 34-2-1
+
+CHAPTER 2
+
+RECONNAISSANCE AND SURVEILLANCE AND INTELLIGENCE
+               PREPARATION OF THE BATTLEFIELD
+
+      Think of developing an R&S             COUNTERRECONNAISSANCE
+plan as being similar to                 Essentially, CR means
+building a house. A good house     blinding the enemy's eyes so
+needs a solid foundation. The      they cannot detect our attack,
+pillars for the foundation of      or cannot locate our defensive
+R&S are the actual terms used.     positions. CR missions require
+Before going on, let us discuss    you to--
+some important terms.
+
+                       TERMS             o Know something about how
+      Refer to the glossary for    the enemy reconnoiters.
+the definitions of
+reconnaissance, surveillance,            o Be able to locate,
+and CR. Below is a discussion      target, destroy, or suppress
+of these terms.                    enemy reconnaissance assets.
+
+                RECONNAISSANCE           Providing support to the
+      Reconnaissance is concerned  CR mission means that you
+with three components: enemy,      must become an expert on
+weather, and terrain. You          threat reconnaissance doctrine,
+should understand that             tactics, unit organizations,
+reconnaissance is active; it       and equipment. You must know
+seeks out enemy positions,         how the enemy plans to collect
+obstacles, and routes. Since       information; when they do it;
+movement draws attention, good     and with what equipment,
+reconnaissance uses stealth to     vehicles, and organizations
+avoid detection.                   they collect.
+
+                 SURVEILLANCE            Then plan how to find
+      Surveillance is passive.     the enemy's reconnaissance
+Surveillance implies observing     assets before they are able
+a specified area or areas          to find friendly forces. You
+systematically from a fixed,       also need to understand US
+concealed position. A good R&S     maneuver organizations,
+plan contains the best mix of      doctrine, tactics, and
+R&S based on requirements,         c a p a b i l i t i e s , since you may
+assets available, and the          be called on to provide a
+threat.                            recommendation for organizing
+                                   CR forces.
+
+                                                  2-1
+
+
+---
+
+FM 34-2-1                           These two things tell you--
+                                           o What to collect.
+       Coordinate closely with the         o Where to collect.
+S3 and the FSO, since much of              o When to collect.
+their planning relies on your              o Who should collect it for
+ability to predict, locate, and
+confirm enemy reconnaissance        you .
+a s s e t s . Your knowledge of            o Why you must collect it.
+threat reconnaissance                      Your collection plan
+capabilities, limitations, and
+vulnerabilities aids the staff      enables you to direct and
+in developing high payoff           control the collection of
+targets (HPTs). It aids in          information. That information,
+determining how best to destroy     once recorded, evaluated, and
+or suppress those targets,          interpreted, becomes
+either by lethal or nonlethal       intelligence. Collecting
+means.                              information gives commanders
+                                    targeting data so they can
+      At brigade level, you must    destroy enemy weapon systems
+get the IEWSE officer involved      and units. Your analysis can
+in CR battle planning, because      provide insight into the enemy
+using EW may be crucial to the      situation to the extent that
+success of the mission.             you can make an educated
+                                    estimate of possible future
+       Defining R&S and CR in       enemy courses of action
+isolation may suggest they          ( COAs ) . At this point, inform
+occur in a vacuum. Nothing          your commander and the rest of
+could be further from the           the staff; then begin to
+truth. R&S is a crucial phase       develop friendly COAs for
+of the intelligence cycle. As       future operations.
+you will see, your R&S effort
+requires direction if it is to            The cycle continues
+provide the necessary               endlessly. However, within the
+intelligence the commander          cycle you may discover, based
+needs to fight and win the          on the picture you have
+battle.                             developed, that you must modify
+                                    the collection plan. Or, based
+      You might have the            on what you have collected, you
+impression R&S has definitive       must update the IPB terrain
+start and end points.               data base.
+Actually, R&S is part of a
+larger, continuing collection
+process. That process gets its
+direction from two things:
+first, the mission; and second,
+by extension, the IPB process.
+
+2-2
+
+
+---
+
+      There is an interrelation-                                             FM 34-2-1
+ship between all aspects of the           general) is commander-oriented
+i n t e l l i g e n c e c y c l e . Your  and commander-directed.
+collection plan has a direct              Therefore, you cannot develop
+effect on how you--                       a successful R&S plan until you
+                                          know exactly what the commander
+      o Process information and           needs to know.
+disseminate intelligence during
+the present battle.                             The commander’s questions
+                                          which positively must be
+      o Direct your intelligence          answered in order to accomplish
+efforts for future battles.               the mission are PIR. They are
+                                          the start point for the R&S
+      The R&S plan marries the            plan. The clearer and more
+IPB with assets available for             precise the commander’s PIR,
+information collection. It                the better you will be able to
+organizes and prioritizes                 develop the R&S plan to answer
+information requirements. This            them.
+results in R&S taskings to
+units through the S3.                           How do PIR come about? As
+                                          part of the mission analysis
+            RECONNAISSANCE AND            process, you and your commander
+        SURVEILLANCE PRINCIPLES           study the mission given to you
+      Now that we have defined            by higher headquarters. You
+the terms, let us discuss the             develop specified, implied, and
+two principles of R&S. They               e s s e n t i a l t a s k s . AS you do
+are--                                     this, you should also be able
+       o Tell commanders what they        to identify gaps in your
+need to know in time for them             understanding of the
+to act.                                   battlefield situation.
+       o Do as much as possible
+ahead of time.                                   The following are examples
+                                          of possible gaps:
+           TELL COMMANDERS WHAT
+             THEY NEED TO KNOW                   o Which avenue of approach
+                                          (AA) will the enemy use, and
+        IN TIME FOR THEM TO ACT           when?
+       This principle is of
+paramount importance. You must                   o Which fixed- and
+develop the R&S plan so that it           rotary-wing air AAs will the
+directly addresses what the               enemy use?
+commander wants to know. In
+essence, the R&S effort (as                      o How will the enemy deploy
+with the intelligence effort in           in their attack?
+
+                                                 o Where will the enemy
+                                          commit their second echelon
+                                          forces?
+
+                                          2-3
+
+
+---
+
+FM 34-2-1                                  o Where and when will the
+       o What are the enemy         enemy counterattack, and how
+                                    will they counterattack?
+reconnaissance forces, tactics,
+and capabilities?                          o Where are the enemy AT
+                                    weapons?
+       o Where is the enemy main
+supply route (MSR)?                        o Where is the enemy
+                                    artillery?
+       o Under what circumstances
+will the enemy use NBC                     Essentially, you and your
+weapons? How will they be           commander try to zero in on
+employed?                           exactly what will determine the
+                                    outcome of the battle. Many
+       o What are the enemy         times, the commander will tell
+subsequent and fallback             you what is of the most
+positions, and routes from          concern. It is the
+their main defensive positions      responsibility of the commander
+to the fallback positions?          to state PIR. However, the S2
+                                    and the S3 can assist in this
+       o In what strength will the  process by presenting their own
+enemy counterattack, and where      analyses of the mission.
+are the armor counterattack
+forces?                                    Remember, PIR drive your
+                                    R&S efforts; so it is critical
+       o Where are the enemy        that you understand just
+observation posts (OPs) and         exactly what your commander
+listening posts (LPs)?              needs to know in order to
+                                    fight.
+       o Where are the enemy
+antitank (AT) helicopters?                Try to keep the commander's
+                                    PIR as specific as possible.
+       o Where are the enemy TOCs   The more general the question,
+and tactical command posts,         the harder it is to answer.
+relays, and communications          Instead of asking, “With what
+sites?                              force will the 34th Motorized
+                                    Rifle Regiment attack?", try to
+       o Where are the enemy        discern exactly what it is your
+logistic and support areas?         commander is looking for. If
+                                    the commander wants to know how
+      o What effects of weather     the 34th will initially deploy,
+provide a key advantage or          it is better to ask, "Will the
+disadvantage to you or the          34th attack in column, with two
+enemy?                              battalions leading, or with
+                                    three battalions on line?"
+      o Where are the enemy
+obstacles and fire sacks?                 Similarly, is the commander
+                                    concerned with finding the
+      o Where are the enemy main
+defensive positions?
+
+2-4
+
+
+---
+
+enemy’s main defensive area;                                          FM 34-2-1
+or is he really worried about            Once developed, PIR should
+locating company and platoon       be disseminated to subordinate,
+positions within the main          adjacent, and higher units. In
+defensive area? How you            this way, you inform everyone
+phrase the PIR has a direct        of the questions you need
+bearing on how you answer          answered. Remember, although
+those PIR.                         you may not be able to answer
+                                   a specific PIR at your level,
+      To better focus R&S          your higher headquarters may
+efforts, keep PIR down to a        be able to. Disseminating
+manageable number. Normally,       your PIR also tells everyone
+you will only be able to           what you are most interested
+concentrate on three or four       in.
+at any one time. Of course,              Use the intelligence annex
+the mission and the                and intelligence summaries to
+commander’s needs may sometimes    disseminate PIR. Your PIR and
+dictate more. Having a large       IR also determine your request
+number of priorities defeats       for intelligence information
+the purpose of having PIR in       (RII) . The RII is the best way
+the first place.                   to let your higher headquarters
+                                   know your information needs.
+       Other questions the         Your higher headquarters does
+commander may have regarding       not always know what specific
+the enemy, weather, and terrain    information you may need.
+of a lesser priority than PIR             Your commanders PIR give
+are called IR. Examples of IR      you a direction in which to
+are--                              start your R&S planning.
+                                   Subsequently, most of your
+       o Where or what is the      time will be spent doing
+enemy’s immediate objective?       detailed planning and analysis,
+                                   all focused on answering
+       o Will the enemy employ     those PIR. Essentially, you
+smoke?                             will study the effects of
+                                   enemy, weather, and terrain
+       o Where are the usable      on the battlefield and the
+river fording points?              mission.
+                                          The best way to study the
+       Answers to these questions  enemy, weather, and terrain is
+may not be critical to the         through the IPB process. IPB--
+immediate success of the                  o Enables you to focus
+mission, but they will             analytical efforts on a
+certainly help provide answers     specific part of the
+to those critical questions.       battlefield.
+Keep in mind that IR may at
+some point become PIR, and vice
+versa, depending on the
+situation.
+
+                                   2-5
+
+
+---
+
+FM 34-2-1                                  Also, collect information
+       o Gives you a way to         on historic weather patterns
+                                    and conditions for your area.
+systematically examine the          Develop a data base that
+terrain and weather effects on      includes how the weather
+enemy and friendly actions.         influences the terrain and
+                                    the people of that region.
+       o Helps you determine the
+effects on R&S activities.                 Finally, learn as much as
+                                    you can about the potential
+       o Gives you an in-depth      threat in that region.
+view of how the enemy fight,        Depending on how much time you
+how they reconnoiter, and where     had and how much information
+they may be most vulnerable.        were available, you would--
+
+       Most importantly, IPB gives         o Find out individual unit
+you a way to synchronize your       identifications, unit
+R&S plan with the general           organization, and garrison
+battle plan. Figure 2-1             locations.
+illustrates the commander’s
+decision-making process                    o Determine the status of
+ (supported by IPB). If it is       unit training and overall
+done right, IPB is people-          combat readiness.
+intensive and time-consuming- .
+This brings us to a second                 o Study threat tactics,
+principle of R&S.                   both doctrinally and
+                                    historically.
+         DO AS MUCH AS POSSIBLE
+                 AHEAD OF TIME             o Build a data base
+                                    containing all this
+       The first four functions of  information.
+the IPB process are homework
+functions. That means you                  o Update your data base as
+build a data base on terrain        more recent information becomes
+and weather conditions, and         available. (Don’t forget to
+enemy order of battle (OB)          ask higher headquarters for
+before hostilities. For             data base information already
+example, your unit has received     obtained.)
+a new contingency mission for
+some part of the world. Given            INTELLIGENCE PREPARATION OF
+this mission, begin collecting              THE BATTLEFIELD PROCESS
+information on terrain features
+and conditions for the area               The majority of the IPB
+your unit is responsible for.       process needs to be done ahead
+You might get this information      of time. You simply will not
+from existing maps, area            have time during combat to
+studies, or special engineer        establish any data base or to
+products. Then build a data         perform an in-depth analysis of
+base on the people, customs,        the enemy, weather, or
+culture, and other demographics
+of the region.
+
+2-6
+
+
+---
+
+                                                                                        FM 34-2-1
+
+                                                MISSION RECEIVED
+
+      STAFF ACTIONS / \ COMMANDER’S ACTIONS
+
+      INFORMATIPORNOTVOIDCEOS MMANDER                         |       PROVIDES          |
+      (STAFF SITUATION UPDATE) +> INFORMATION TO STAFF
+
+      G2 OR $2 BRIEFS CURRENT                              “®] «mission ANALYSIS
+   | Seay SITUATION. ba * RESTATED MISSION | |
+      TEMPLATES, AND COAs                                         °                             !
+
+s| |            v                                                    GUIDANCE
+T                                                      C1         © COMMANDER'S INTENT
+
+A                                                      ON         ® INITIAL PIR
+F| | STAFF WAR GAMES POTENTIAL | [Mv
+
+F               COAs                                   MO
+
+dé              :                                      AL                                       |
+E               v
+                                                       NV
+
+.                                                      DE
+
+,     PRESENTS MOST LIKELY CoAs | [FM                                                            |
+
+A               ’                                      T                                         |
+
+E     PRESENTS DST                                     Dy                        v               ||
+      (MOST LIKELY COAs)
+
+                                                           ;
+
+                                                                  © COMMANDER'S WAR GAMING
+
+                                                              a]     (UPDATES PIR)                !
+
+      ORDERS (INCLUDES FINAL                       Laa
+
+      VERSION OF DST)                           |    ‘ ~|~ /
+
+      ISSUANCE OF PLANS OR ORDERS                                            y
+      (INCLUDES FORWARDING DST TO                                 APPROVAL OF PLANS OR oRDERS|
+
+        SUBORDINATE OR FUNCTIONAL
+               CDRs WHEN REQUIRED)
+
+      FEEDBACK                                                                      FEEDBACK fiatum
+
+LEGEND:                                         MISSION ACCOMPLISHED
+
+      | informal guidance flowing down.
+
+             ~-- Informal guidance flowing up.
+
+      Figure 2-1. Commander’s decision-making process (supported by IPB).
+
+                                                                                            2-7
+
+
+---
+
+FM 34-2-1                                The commander bases the
+terrain. To successfully plan     unit’s AI on many things. It
+and execute the R&S operation,    is normally an expansion of
+you must have this detailed       your unit's area of operations
+analysis. The IPB process has     (AO) . It should be large
+five components:                  enough to provide answers to
+                                  the commander’s PIR; yet small
+       o Battlefield area         enough to prevent your
+evaluation (BAE).                 analytical efforts from
+                                  becoming unfocused.
+       o Terrain analysis.        Determining the AI depends on
+       o Weather analysis.        the unit mission and threat
+       o Threat evaluation.       capabilities. For example, if
+       o Threat integration.      your unit is to attack, your AI
+       Refer to FM 34-130,        should extend across your LD/LC
+Intelligence Preparation of the   up to and surrounding your
+Battlefield, for detailed         intermediate and subsequent
+information on IPB.               objectives.
+     BATTLEFIELD AREA EVALUATION
+       BAE is the first step of          If the mission is to
+the IPB process. Begin your       defend, the AI should extend
+analysis by figuring out what     far enough to include any
+part of the battlefield should    possible units that might
+be of interest to you and your    reinforce against you. You can
+commander. The end result of      base your AI considerations in
+this step is the identification   terms of time and on how fast
+of the area of interest (AI):     you or the enemy moves.
+That part of the battlefield      Figure 2-2 lists general
+which contains significant        distance guidelines in hours
+terrain features or enemy units   and kilometers; use this to
+and weapon systems that may       determine your unit's AI.
+affect your unit’s near or
+future battle.                          Considerations for your AI
+      BAE is a crucial step in    should be expressed in terms of
+the IPB process because it        distance, based on--
+focuses your analytical efforts
+on a finite piece of the                o How your u n i t a t t a c k s .
+battlefield. By extension, it           o How the enemy attacks.
+will also provide geographic            o What your commander needs
+limits to your R&S and            to know.
+collection efforts.                     For example, a battalion
+                                  commander fighting an attacking
+                                  enemy using Soviet tactics is
+                                  normally interested in 1st- and
+
+2-8
+
+
+---
+
+2nd-echelon battalions of                                            FM 34-2-1
+1st-echelon regiments.
+                                  weather analyses. Essentially,
+      Doctrinally, these units    these are detailed studies of
+would normally be from 1 to 15    how the terrain and weather
+kilometers from our FLOT.         will affect both friendly and
+Therefore, the AI should extend   enemy operations.
+forward at least 15 kilometers.   Specifically, terrain and
+                                  weather will dictate how
+      You must determine your AI  effective R&S assets will be,
+during mission analysis. Your     and where they should go to
+commander and S3 play a big       be most effective. Your
+part in formulating the AI.       knowledge of terrain and
+They tell you what their          weather will allow you to
+intelligence concerns are.        anticipate effects on friendly
+Like PIR, your unist’s AI must    and enemy R&S systems and
+be the commander and must be      operations.
+sent to higher headquarters.
+Figures 2-3 and 2-4 show                Terrain analysis and
+examples of AIs for defensive     weather analysis should
+and offensive missions.           start as soon as you have
+Figure 2-5 shows both defensive   determined your AI. Do not
+and offensive. It will help in    wait until you deploy to
+determining your unit’s AI.       start your analysis! The
+                                  more prepared you are, the
+           TERRAIN ANALYSIS AND   better the R&S plan will be.
+              WEATHER ANALYSIS    Figures 2-6 and 2-7 show
+                                  specific uses and effects
+       The next two steps in the  for terrain and weather
+IPB process are terrain and       analyses.
+
+                                  AREA OF INTEREST
+
+COMMAND ECHELON
+
+                 Hours                               Kilometers
+
+Battalion        Up to 12                            Up to 15
+Brigade          Up to 24                            Up to 30
+Division         Up to 72                            Up to 100
+
+           Figure 2-2. General distance guidelines.
+
+                                                                 2-9
+
+
+---
+
+FM 34-2-1
+
+           AREA OF OPERATIONS
+
+XX |       1F1-41  1
+
+           —— | enseancrn rt
+
+                   TF1-42 | AREAOF OPERATIONS
+
+           Figure 2-3. Area of interest in the defense.
+
+2 - 1 00                                                                LD
+           Figure 2-4. Area of interest in the offense.
+
+
+---
+
+                                                                         FM 34-2-1
+
+                                        DEFENSE
+
+ECHELON    TIME           DISTANCE               WHAT YOU WILL SEE
+Bn
+         Up to                                Forward: out to enemy first
+
+         12                                   and second echelon bn of
+         hours
+                          15 km               first echelon regts.
+
+                          Flanks: 3 to 6 km      -Regimental artillery
+
+                          either side            -Regimental air defense
+
+                                                 -Div or regimental recon
+
+                                                 -Tank bn (-) (MRR)
+
+Bde      Up to            Forward: out to     Enemy first and second
+         24               30 km               echelon regt of first echelon
+         hours                                div
+
+                          Flanks: 6 to 10 km -Div artillery -ITB
+
+                          either side            -Div ADA        -~tank regt
+
+                                                 -~SSMs            (OF MRDs)
+
+         Up to            Forward: out to     Enemy first and second
+         72               100 km              echelon div of first echelon
+         hours
+                                              armies
+
+                          Flanks: 2 to           -Div, Army, or front arty
+
+Div                       30 km either side      ~Div or Army ADA        -SSMs
+
+                                                 -Div, Army, or front avn
+
+                          Rear: out to           -Follow-on div
+
+                          30 km                  -Div_or Army CP         -OMG
+
+                                        OFFENSE
+
+                  Up to   Forward: out to     Security echelon or first
+
+                12        subsequent          echelon bn in main defensive
+
+                   hours  objective           area
+Bn                        Flanks: out to          -Div or regt recon
+                          3 to 6 km of
+                          axis or zone            -Plt or co strong points
+                                                  -AT systems or plt
+
+                                                   -Tank bn (-) (MRR)
+
+         Up to            Forward: out to     First and second echelon bn
+         24
+         hours            subsequent          of main defensive area
+                          objective               -Co/bn strong points/fire
+         Up to
+         72                                           sacks
+         hours
+Bde                       Flanks: out to         -AT battery
+Div
+                          6 to 10 km of          -Tank regt or ITB (MRD)
+
+                            axis or zone             -AT_ bn
+                          Forward: out to     First and second echelon regt
+
+                          subsequent          in Army main defensive area
+
+                          objective              -Tank regt or ITB (MRD)
+                          Flanks: out to
+                                                 -Div, Army, or front arty
+                          25 to 30 km of
+                          axis or zone                            #      Aer
+
+                                                                 a2er ~
+                                                 -ITR or tank div of Army
+
+                                                 Second defensive echelon
+
+                                                 -SSMs
+
+                          Rear: out to 30 km     -Div or Army avn
+
+         Figure 2-5. Defensive and offensive areas of interest.
+
+                                                                              2-11
+
+
+---
+
+FM 34-2-1
+
+TERRAIN FACTOR                                                       R&S APPLICATION
+
+Observation     Ensuring LOS for GSRs
+
+                Emplacement of OPs/LPs and NODs                                       assets
+                Ensuring radio LOS for comm with R&S
+                Templating enemy R&S asset locations
+                Templating enemy smoke and obscurant
+
+                     employment
+
+Field of Fire   Templating enemy defensive positions
+                Templating possible enemy obstacle
+
+                     locations
+                Coordinating friendly supporting fires
+
+                     for patrols and other R&S assets
+
+Concealment     Ensuring routes for friendly patrols
+and cover            and scouts
+
+                Emplacement of REMBASS sensor strings
+                Emplacement of LPs, OPs, and GSRs
+                Templating enemy patrols
+
+                Templating enemy obstacles
+
+Obstacles       Ensuring routes for friendly patrols
+                   and scouts
+
+                Emplacement of REMBASS sensor strings
+                Emplacement of LPs, OPs, and GSRs
+                Templating enemy patrols
+                Templating enemy obstacles
+
+Key terrain     Emplacement of LPs, OPs, GSRs, NODs,
+
+                   and REMBASS
+
+                Ensuring routes for friendly patrols
+
+                     or scouts
+                Templating enemy patrols, recon, or
+
+                     obstacles
+                Templating enemy movement or defensive
+
+                    positions
+
+is
+
+        7)
+                                                                 td
+
+                     position
+
+                   Templating enemy recon effort
+
+             Figure 2-6. Special uses and effects of terrain.
+
+2-12
+
+
+---
+
+                                                                             FM 34-2-1
+
+ENVIRON-                         DRAGON                 TOW THERMAL
+
+ MENTAL         /|PVS5 |PVS2/PVS4| THERMAL] TVS2/5' TVS4| PAS7/UAS11 |GSR |REMBASS
+EFFECTS
+
+Reduced         MLT | MLT | MLT  MLT     MLT MLT        MLT               No   No
+
+visibility      200 | 400 | 600  1,000   1,200 | 2,000  3,200             EFX  EFX
+
+(in meters)
+
+(darkness,
+
+smoke and fog)
+
+Surface winds No | No | No       No      No No          No                SGT| SGT
+
+(in knots)      EFX | EFX | EFX| EFX     EFX | EFX      EFX               20   45
+
+                                                                          MGT | MGT
+
+                                                                          7    15
+
+Temperature (SGT {SGT |sGT; No           SGT |SGT | SLT (PAS7)            No   No
+
+(infahrenheit) [425 1/125 |125 | EFX     125 | 125      25                EFX | EFX
+
+                MLT  MLT                 MLT (5)        MLT (UAS11)
+                 32  -20                    -20                  20
+
+Precipitation   All sensors are severely degraded by heavy rain or snow.
+
+LEGEND: S = Severe degradation M = Moderate degradation. LT =Less than GT= Greater than
+                   EFX = Effects
+
+                     Figure 2-7. Effects of environment on R&S.
+
+             THREAT EVALUATION                 o Personalities.
+      Once you have analyzed                   o Other miscellaneous
+terrain and weather, begin a             factors.
+thorough study of enemy--                      This study results in
+      o Composition.                     threat evaluation, the fourth
+      o Disposition.                     step in the IPB process.
+      o Tactics.                         During this step--
+      o Training.                              o Develop a doctrinal
+       o Combat readiness.               template file.
+       o Logistic support.                     o Build up your threat data
+       o Electronic technical            base.
+data.                                           o Evaluate threat
+                                         capabilities.
+
+                                                                               2-13
+
+
+---
+
+FM 34-2-1                              table of enemy rates of advance
+       Doctrinal templates are         for specific situations and
+                                       terrain.
+important because they show how
+the enemy doctrinally attacks                 Finally, knowing how the
+or defends in various                  threat uses weapon systems and
+s i t u a t i o n s . Knowing how the  units gives you an appreciation
+enemy defends will tell you            of which are most important to
+what you ought to look for in          the enemy commander in a
+order to confirm that they are,        particular situation. These
+in fact, defending.                    important weapon systems and
+                                       units are called high value
+       Knowing how the enemy           targets (HVTs). They are the
+employs reconnaissance in the          starting point for the target
+attack will help you target            value analysis process. Target
+them, allowing you to destroy          acquisition is an important
+or neutralize those assets. It         aspect of R&S and CR. Target
+also helps you determine which         value analysis will play a big
+of those assets are most               role in your R&S planning.
+important to the enemy’s
+reconnaissance effort.                             THREAT INTEGRATION
+                                             Remember, the four IPB
+       Figures 2-8 and 2-9 are         steps should be started before
+examples of doctrinal templates        deployment. They ought to be
+you might use specifically for         part of your day-by-day
+R&S planning. Whenever you use         i n t e l l i g e n c e o p e r a t i o n s . You
+doctrinal templates, you must          are now at the point where you
+temper them with some reality.         can pull together what you have
+For example: a Soviet                  developed about the enemy,
+regimental attack template has         weather, and terrain and apply
+set doctrinal sector widths.           it to a specific battlefield
+It serves no purpose to place          situation.
+this over a map where a                      This step is threat
+battalion falls outside an AA.         integration. You will discover
+There is enough leeway even in         you can also perform some
+Soviet doctrine to conform to          threat integration functions
+terrain limitations; when using        ahead of time. The first such
+the template you must make             function is to develop a series
+those same allowances.                 of situation templates
+                                       depicting how you think the
+      A careful study of threat        enemy will deploy assets.
+doctrine tells how fast they
+will attack in various                             Situation Template
+situations. This information                 The situation template
+will become very important             takes what is on the doctrinal
+later on. For right now,
+remember during threat
+evaluation that you determine
+enemy doctrinal rates of
+advance. Figure 2-10 is a
+
+2-14
+
+
+---
+
+300 to 500m                                                  1st Plt  FM 34-2-1
+
+y                 ist Pit               QD &                                        MRC
+                  Security OP
+                                         OAe
+
+                                        saa\ <
+
+500 to 1,000m                  2d Pit                  O
+
+                           Security OP
+
+               7                        =e
+
+     2.0 op                       ase                                                    Mixed minefield
+
+|                              o1 km o                                ALLY, Defensive position
+
+   ~<                      A Platoon observation post
+
+    <-— 300 m — ——_>       A Company observation post
+LEGEND:
+
+           <{_] APC
+
+            <> Tank
+
+   Figure 2-8. Doctrinal template of an MRC (reinforced) strong point.
+
+                                                                                        2-15
+
+
+---
+
+                  > ANVIL                                 TT (aaaLnNeNOotWSIwa)ad sam                                     HAANGVNVdANNOODS¥                  U)ul wwaoaovuavi1aY                            (GN3D31
+
+           44511                 NOWHOA
+
+                                                          —                             =                                                                                     T               woo9  03 dn
+
+                              +                                                                      wool                                                                           voor                             Figure 2-9. Offensive doctrinal template.
+
+           WOOe               1 OOL                                                                    +
+
+                                                                                                                                                                                    Toros os
+
+           YOQIWYWOOE oO} 001 i                                                                                                                              OoOLor “or
+
+                                                                                                                                                             wooe
+
+                                                                        og, WY                                            orosos |                                            soot
+
+           Of k~-Wwooe                   001-4                                                                     To wetdn
+                                                                                                                          (paiunow) OOOO 3Da3M VAN, roogan. (pajunowsOiq)OOO 3NN
+           tor                                                                SO304OM O ASYuaAaY                                                                                                  “oWOOrL aoss oy
+
+           OOO© (payunowsiq)                                                                                                                                                                  “Toot ae
+
+                                                          (payunowsiq)                  |
+                                                                                            V
+                                                                                                                                                                                    woos            03 dn
+                                                                                                  Pook
+           woot osdn Oo: woor                                                              m00Z2                                             Y“y
+
+                     "al                                                                FoeOr} oor
+
+                                                                                        weloO 001
+
+            vyMNaL. -—————_—_——+4
+
+           0000
+FM 34-2-1                                                                                                                 WOO ©oFO0 O ot OOF
+
+                                                                              S866 OOOOwoos. 0) dp                        wooF               0) dn                                  PO‘mWOOOoF o”r 00} 1da
+
+                                                NOOLV1Id                WNVL  GSHOVLLV            HLIM             (ula)  ANVdNOS                   3T14IH         G3ZIHOLOW                                                                                    2-16
+
+                                                          (ANT NO SNOOLV1d)                             NOLLVWHO4                  MOVLLVY          ANVdWOO
+
+
+---
+
+                                                                                                  FM 34-2-1
+
+                                               RATES OF MARCH
+                    UNOPPOSED TACTICAL THREAT RATES OF MARCH
+
+Unpaved road or trail                                      20 to 30 km/h      1km/h 2 min
+
+Cross country                                              5 to15 km/h        1 km/h 4 min
+
+Paved roads                                                30 to 40 km/h      6 km/h 10 min
+
+Assault                                                    11 to 22 Km/h      1 km/h 3 min
+
+                          RATES OF MOVEMENT (km/h)                                       HASTY DEFENSE
+         PREPARED DEFENSE
+
+             RATIO                                                SLOW    NO             SLOW           NO
+THREAT: OPPOSITION
+                                                           GO     GO      GO  GO         GO             GO
+    Intense resistance                                         6
+                                                                     5    3   1.0              8           4
+                                                      1:4
+                                                                  .                   .     :           .
+
+Very heavy resistance                                      9      6       4   1.5        1.0            6
+
+  Y 2. {                                                   12     7       5   2.0        13             8
+ Heavy resistance
+
+Medium resistance                                          14     1.0     5   2.4        1.75 9
+
+  Light resistance                                         15     1.1     6   26         20             1.0
+
+         Negligible resistance                             1.7+   1.3+    6+  3.0+       23+      114+
+                         4:1
+                                                                          1 km/h 10 min
+Opposed doctrinal rates of advance                                        1 km/h 30 min
+                                                                          1 km/h 12 min
+                         6 km/h covering force
+                        2 km/h MBA
+                        5 km/h rear
+
+                       Figure 2-10. Threat rates of advance.
+
+                                                                                                              2-17
+
+
+---
+
+FM 34-2-1                              template. NAI do several
+template and integrates what           things for you. They--
+you know about weather and
+terrain. The situation                        o Focus the collection
+templates will show how an             effort on specific points or
+enemy unit might modify its            areas of the battlefield.
+doctrine and tactics because of
+the effects of weather and                    o Tell you what to look for
+terrain.                               and when you should expect to
+                                       see it, at those points or
+       Figure 2-11 is an example       areas on the battlefield (based
+of one situation template. It          on the situation templates).
+is important to understand that
+you should develop as many                    o Enable you to decide
+situation templates as there           which of your R&S assets are
+are enemy COAs. This allows            best suited to cover a
+you to thoroughly examine what         particular NAI. For example,
+options the enemy has for each         a point NAI for a road
+COA.                                   intersection where you expect
+                                       to see a motorized rifle
+       For example, you may            company (MRC) might require
+discover enemy forces have to          seismic-acoustic sensors. On
+use specific bridges, road             the other hand, an area NAI
+intersections, or mobility             designated for a dug-in BMP
+corridors (MCs) for a specific         platoon might require a
+COA. Or you may discover that          dismounted patrol.
+the terrain offers the enemy
+several choices to attack. Or                Remember, one of the things
+you may determine the terrain          you did during threat
+offers a limited number of             evaluation was to determine
+suitable enemy defensive               enemy rates of advance. You
+p o s i t i o n s . And you may learn  now put this knowledge to work
+that the terrain only provides         by developing time phase lines
+a limited number of concealed          (TPLs) . Think of TPLs as
+routes for enemy reconnaissance        snapshots of an enemy or a
+to enter your sector.                  friendly frontline trace. A
+                                       series of TPLs would portray
+      The bridges, road                friendly or enemy movement over
+intersections, and possible            a period of time.
+defensive positions you have
+identified become NAI. Focus                           Event Template
+your attention on these NAI                  If you combine NAI with
+because it is there you expect         TPLs, you will be able to show
+something to happen. What you          approximately when and where
+see or fail to see at your NAI         you would expect to see enemy
+will confirm whether or not the        critical events occur. This
+enemy is doing what you                is basically what the event
+expected them to do, as
+projected on the situation
+
+2-18
+
+
+---
+
+                                              FM 34-2-1
+
+1st Pit OP                                                                                 | @@|
+
+            3d Pit OP
+
+            Figure 2-11. Situation template.
+
+                                              2-19
+
+
+---
+
+FM 34-2-1                                     Event Analysis Matrix
+template does. Figure 2-12 is              The event analysis matrix
+a sample event template.            is a tool used along with the
+                                    event template to analyze
+       The event template allows    specific events. Figure 2-13
+you to--                            shows examples of event
+                                    analysis matrixes.
+       o Confirm or deny your              Basically, you calculate
+situation templates.                the not earlier than (NET) and
+                                    the not later than (NLT) times
+       o Gauge enemy and friendly   lead elements of a unit will
+rates of movement.                  arrive at an NAI. Determine
+                                    the distance between NAI and
+       o Compare rates of movement  multiply the distance by the
+between MCs and AAs.                expected rate of advance.
+                                           For example, suppose the
+       o Cue other collection       distance between NAI 1 and NAI
+assets based on friendly and        2 is 2.5 kilometers. Suppose
+enemy movement.                     also, for the sake of this
+                                    example, that the enemy
+       Of all IPB products, the     expected rate of advance is 6
+event template is the most          kilometers per hour, or 1
+important product for the R&S       kilometer every 10 minutes.
+effort. As you will see, the        Use this formula to calculate
+event template is also the          time:
+basis for the decision support
+template (DST).                                  distance = time
+                                                     rate
+       In many situations you
+might find it helpful to                     2.5 km ÷ .1 km (1 km every
+calculate how long an enemy         10 minutes) = 25 minutes.
+unit would take to move from        Therefore, it takes the unit 25
+one NAI to another. Normally,       minutes to travel from NAI 1 to
+your calculations will be based     NAI 2.
+on opposition and doctrinal
+rates of advance. Situational                     Decision Support
+aspects such as weather,                                 Template
+terrain, and your previous
+hindering actions are also                The final IPB product is
+factored in.                        the DST. The purpose of the
+                                    DST is to synchronize all
+      Comparing actual movement     battlefield operating systems
+rates with your calculations        (BOS) to the commander’s best
+will tell you whether the enemy     advantage. The DST consists of
+is moving slower or faster than     target areas of interest (TAI),
+expected. It will also help         decision points or lines, TPLs,
+you predict how long it will
+actually take the enemy to
+reach a certain point (your
+FEBA, for example).
+
+2-20
+
+
+---
+
+                                                        FM 34-2-1
+
+                    ~~        A                        O
+
+               |           O/l\A                     a
+                                                    /\ TPLs are based on
+                               9 “0
+                                                              friendly movement.
+                                             |
+
+                                                        + 2.5
+
+H+3      .                                                             H+2
+
+n IN                                                    Time phase lines.
+         H + 2.5 \ He",                             Qn
+                                                                      2-21
+A           A           O
+
+LEGEND:        Expected enemy avenues of approach.
+                   Figure 2-12. Event template.
+
+
+---
+
+FM 34-2-1                                                              COORDINATES:
+
+AVENUE OF APPROACH:
+
+MOBILITY CORRIDOR: 1                                                   SaaS76
+
+           NAI                                           DISTANCE | RATE OF |                                                              NET                    TIME OBSERVED
+
+cee   rinettttttiiiisiuiiininiesnee|                            MOVEM                                                                                        bo peeeeeesseipssnraverevttutvesumesstecisunnsneasieee
+
+      ACTIVITY                                           (KM)          ENT                                                                      NLT            [TIME CONFIRMED
+
+  1.                                                     ee     i                                                                          smn               EER rE EGS
+
+i Enemy recon elements, oe
+
+groups, and patrols move                                                                                                                        H-hours
+along MC 1.
+
+ 2..                                                     18 km  20 km                                                                      H + 54 min        pps cvesnanuusttesttipueetistittsssesiseituescese
+cootessssecesuesansteentusssessssesetsecsenssenenieseee
+                                                                                                                                                  H+ 69 min
+ Activity is as per NAI 1.
+                                                                                                                                           H +114 min
+  3,
+
+Recon elements assume rere                               20 km  20 km                                                                                                                                                     be ee cee e eee cence eset eee step ets cea yates ones seneeeneeees
+
+screen positions.                                                                                                                          H+ 4144 min
+
+AVENUE OF APPROACH:                                                    COORDINATES:
+
+MOBILITY CORRIDOR: 1                                                   CA aaeo PA oB40
+
+      NAI                                                DISTANCE ; RATE OF |                                                              NET                    TIME OBSERVED
+
+Pn    EEA EEE ee Eee eet  eee a EES                                                                                              MOVEMENT                                            A
+
+      ACTIVITY                                              (KM)                                                                                NLT TIME CONFIRMED
+
+1.
+
+Enemy MABS      conduct                                  __     __                                                                         a
+
+night river crossing with                                                                                                                       H-hours
+illumination.
+                                                         20 km  20 KMPH   H+14                                                                               Hse tet cect teeet cc ceescceretttievececenreinseieeees
+2
+                                                                         6
+Oct ecettttteetes ce yceeceeeetseneerses Leese
+                                                                                                                                           H+ 75 min
+Enemy counterattack with
+
+reinforced TB.
+
+3.                                                       48 km                   H +104 min                                                                  Phun
+
+Enemy reinforce MAB vee                                         opKmPh | 90 4%
+
+shifting into prebattle                                                                                            .
+
+formation.                                                                         H+ 144 min
+
+                                                Figure 2-13.    Event analysis matrixes.
+
+2-22
+
+
+---
+
+and a synchronization matrix.                                            FM 34-2-1
+Figure 2-14 shows a DST.
+                                            Once the staff has decided
+      There are many important        on HPTs, it begins to identify
+things you should know about          where on the battlefield it can
+the DST. First, the DST is            best interdict them. These
+a total staff product, not            interdicting sites are labelled
+something the S2 makes in             TAI . The next step is for the
+i s o l a t i o n . Although you may  staff to decide how best to
+begin the process of developing       interdict the enemy at a
+the DST, the S3 and the               particular TAI. The method of
+commander drive the                   interdiction will determine the
+development.                          location of decision points or
+                                      lines.
+      Second, the DST is a
+product of war gaming.                       Decision points or lines
+Together with the rest of the         are a time and a place on the
+staff, you develop friendly           battlefield which represent the
+COAs which consider what you          last chance your commander has
+envision the enemy doing. As          to decide to use a specific
+a result of this action,              system for a particular TAI.
+reaction, and counteraction           Once the enemy or friendly
+war game, you identify actions        forces pass the decision point,
+and decisions that may occur          the ability to use that system
+during the battle.                    is lost. Logically, you should
+                                      monitor decision points to
+       Third, the R&S plan must       detect if and when enemy units
+support the DST.                      enter and to confirm enemy
+                                      rates of movement.
+       Fourth, you can use the
+DST, as well as the general                  This logical relationship
+battle plan, to synchronize           shows that NAI (such as your
+the R&S effort.                       event template) must support
+                                      your decision points. There is
+       As a result of the             a relationship between NAI and
+war-gaming process, the               TAI as well. If battle damage
+staff identifies HPTs--those          assessment of a particular TAI
+enemy weapon systems and              is important, your event
+units that must be acquired           template (and your R&S plan)
+and successfully attacked             must support that TAI.
+for the success of the
+friendly commander’s mission.            RECONNAISSANCE & SURVEILLANCE
+The staff identifies HPTs from                       PLAN DEVELOPMENT
+the list of HVTs you developed
+during threat evaluation.                    There are many things you
+ (See FM 6-20-10, TTP for             must consider when you develop
+the Targeting Process.)               the R&S plan. You will
+                                      probably have to think about
+                                      fire support, maneuver,
+
+                                      2-23
+
+
+---
+
+FM 34-2-1
+
+                  PIR river|JAM recon.          PIR 2d echelon. JAM                    JAM             PIR 2d
+
+INTELLIGENCE| crossing                          regiment. Counter comm,                division        echelon
+                         and                                                           comm.           division,
+
+                                        recon.
+
+MANEUVER                                        2/68 north.                            | Attack hills             Screen forward.
+
+                                                                                        Eof WATCH.                Continue attack
+
+           HPT:       Suppress  | CUE |HPT: 1st echelon defensive         |CUE tab.    HPT: OBJ                   or pursuit.
+
+     FIRE  Recon      recon.      tab =| TAls and ADA.                                 WATCH.                     Trains cross
+SUPPORT
+           and —                           Smoke crossing sites                                                   river.
+   ADA
+           security                      3 and 4. Air strike E bank.
+  M/CM/S
+           forces.
+    css
+           Status:                              Upgrade ADA alert.
+
+           Tight                                Concentrate on rotary
+
+                                                aircraft.
+
+           Priority                             AVLB: Forward             Establish
+           engineer
+                                                countermeasures on road =| decon site
+           S---: N
+                                                toN.                      onriver,
+           MOPP 2
+
+                                                                                       Move trains
+
+                                                                                       to W bank.
+
+           Establish                            Jump main forward TAC to                                          Continue aitack.
+                                                C2 crossing.
+           retrans
+
+c3         on high
+
+           ground
+
+           to rear.
+
+                                                Figure 2-14. Decision support template.
+
+2-24
+
+
+---
+
+engineer  augmentation,  and                                         FM 34-2-1
+                                  assets an initial mission and
+                         2        update the mission when you
+command and control (C ).         have had the time to do more
+                                  detailed planning.
+You will also want to make sure
+                                        The technique that allows
+the R&S plan fits into your       you, your subordinate units,
+commander’s overall scheme of     and your higher headquarters
+maneuver.                         to conduct R&S planning
+                                  simultaneously is the use
+      You will want to make sure  of limits of responsibility.
+the R&S plan is closely tied to   A limit of responsibility is
+fire support and maneuver for     a boundary defining where a
+the CR mission as well. You       particular unit should
+can synchronize these elements    concentrate its R&S efforts.
+by completing the synchroniza-
+tion matrix as a staff. Once             In essence, a limit of
+again, completing the matrix      responsibility is a “no further
+can only be done by war gaming.   than" line; it tells the unit,
+                                  “your R&S responsibility stops
+      We have discussed IPB and   here." Figure 2-15 is an
+the importance of doing as much   example of limits of
+as you can ahead of time. The     responsibility for battalions,
+primary reason for this is        brigades, and divisions. They
+because you will not have a lot   may be tied to a unit’s AI or
+of time for in-depth analysis     may depend entirely on mission,
+in the field.                     enemy, terrain, time, and
+                                  troops available (METT-T).
+      On one hand, your higher
+headquarters normally gives you         The key is that limits of
+a deadline to develop and         responsibility allow each
+forward a copy of your R&S        echelon to formulate its R&S
+plans to them. You want to get    plan independently. I t i s
+your assets out looking as soon   important to note that an R&S
+as possible. On the other         plan is never a finished
+hand, you may feel you have to    product. Because the situation
+wait until your subordinates      and the operational plan will
+give you their R&S plans.         most likely change, the R&S
+                                  plan must change to fit them.
+      Do not wait! “Time is
+blood!” The faster your R&S             This chapter discussed R&S
+assets are out looking, the       and CR definitions, PIR, the
+more time they will have to       contributions of IPB to R&S,
+find what you want.               and limits of responsibility.
+                                  If you understand these
+      Do not delay your planning  concepts, you have a solid
+because you do not have a         foundation on which to build
+complete situation template, or   your R&S plan. The next
+because you do not have all
+your subordinate units’ plans.
+If necessary, give your R&S
+
+                                  2-25
+
+
+---
+
+FM 34-2-1                            you to actually build your
+chapter talks about assets you       plan.
+may have available to you.
+These will be the bricks for
+
+                      ALNISISNOdS3Y                                                                           Ww OOL
+                                                                                                          |
+
+ALNISISNOdSS3Y        NOISIAIG
+
+                                                          ALIMIGISNOdS3Y) 30VSi¥g                             wy O€
+                                                                                                          |
+
+JO LINN
+
+93d                                                                                                           Wy OL
+                                                                                                          |
+                                          ALNIGISNOdS3S¥                               ALNISISNOdS3Y
+                                     NOrVLLYa                                      NOMVLLVa
+
+                                                                                                              wy 0
+                                                                                                          |
+
+                                                          Hl                                          XX
+
+                                                                                                          Arepunog    BY YUN Jo Aujiqrsuodsai
+
+                                                                                                  —
+                                                          xX
+
+                                                                                                          —————_      we
+
+                      Figure 2-15. R&S limits of responsibility.
+
+                2-26
+
+
+---
+
+                                  FM 34-2-1
+
+CHAPTER 3
+
+ASSETS AND EQUIPMENT
+
+      Before you can develop an   are limited, the S2 faces a
+R&S plan you must know the        challenge when planning R&S
+characteristics of available      operations. Some of the
+assets and equipment. This        available assets are scouts,
+chapter discusses the organic     patrols, OPs/LPs, soldiers,
+and supporting R&S assets and     and equipment.
+equipment available to you,
+the maneuver battalion, and                        SCOUT PLATOON
+the brigade S2. This chapter            The scout platoon's primary
+also discusses the basic          missions in support of the
+capabilities and limitations      battalion are reconnaissance
+of these assets.                  and screening. FM 17-98
+                                  contains a detailed discussion
+      Due to security             of scout platoons. Presently
+classifications, detailed         all scout platoons are being
+information on some assets        reequipped with 10 high
+is not included. Refer to the     mobility multipurpose wheeled
+appropriate field manuals for     vehicles (HMMWVs).
+further details. Some assets
+are staff officers; this                           Capabilities
+chapter gives you the types of          The scout platoon can
+information they can provide      perform missions--
+and equipment they might use.           o Mounted or dismounted.
+
+    ASSETS AND EQUIPMENT ORGANIC
+      TO THE MANEUVER BATTALION
+
+      At the battalion level the        o In various terrain
+commander is fighting close-in    conditions.
+operations. To support the
+commander, focus the collection         o Under all weather
+effort at the lst- and            conditions.
+2d-echelon battalions of
+lst-echelon regiments (out to           o Day and night.
+15 kilometers). The assets              The primary mission of the
+available to conduct R&S          scout platoon is reconnais-
+missions at the battalion         sance. The scout platoon, with
+are limited. Since the assets     fire support protection, can
+available to conduct R&S          conduct reconnaissance missions
+missions at the battalion
+
+                                  3-1
+
+
+---
+
+FM 34-2-1                                 o Reconnoiters only a
+10 to 15 kilometers beyond the     single route during route
+FEBA. These distances vary         reconnaissance; METT-T is
+with the type of scout platoon     the determining factor.
+and METT-T.
+                                          o Reconnoiters a zone 3
+       The scout platoon is the    to 5 kilometers wide; METT-T
+only asset found at the            may increase or decrease the
+maneuver battalion specifically    zone.
+trained to conduct reconnais-
+sance. Other missions the                o During screening
+scout platoon conducts are--       missions, is extremely limited
+                                   in its ability to destroy or
+       o Quartering party duties.  repel enemy reconnaissance
+       o NBC reconnaissance,       units.
+including chemical detection       NOTE : Airborne and light
+and radiological surveying and     infantry scouts are not
+monitoring.                        mounted; they reconnoiter
+      o Limited pioneer and        areas out 500 to 1,000 meters
+demolition.                        during most missions.
+      o Security missions.
+      o Reconnoiter and establish        o During CR operations,
+OPs and LPs.                       can only acquire and maintain
+                                   visual contact with the enemy;
+                  Limitations      can kill or repel enemy
+      The scout platoon conducts   reconnaissance elements only
+reconnaissance operations as       if augmented or task organized
+part of a larger combined          with infantry, armor, or AT
+arms force. The scout platoon      assets.
+depends on its parent unit
+for combat support and combat            o Operates six OPs for
+service support to augment         limited periods (under 12
+and sustain its operations.        hours); or three OPs for
+Remember, the scout platoon's      extended periods (over 12
+design and training is to          hours ) . The light scout
+reconnoiter platoon size           platoon usually operates
+areas only.                        three OPs.
+      In addition, a full
+strength platoon--                       o Is restricted in the
+                                   distance it can operate
+                                   from the main body, due to
+                                   communications range and
+                                   range of supporting elements.
+
+3-2
+
+
+---
+
+       o Cannot operate                                              FM 34-2-1>
+continuously on all battalion            Combat patrols provide
+nets (such as battalion           security and harass, destroy,
+command, operations and           or capture enemy personnel,
+intelligence, rear operations,    equipment, and installations.
+and mortar) while operating on    The three types of combat
+the platoon net. The platoon      patrols are raid, ambush, and
+leader can monitor only two       security.
+nets at the same time.
+                                                    Capabilities
+      o Uses the HMMWV with only         Patrols can conduct
+a 30-inch fording capability;     missions mounted or dismounted
+its reconnaissance,               in various terrain and weather
+surveillance, target              conditions. Patrols can also
+acquisition, and night            conduct missions 10 to 15
+observation equipment includes    kilometers beyond the FEBA.
+the AN/UAS-11, Night Vision       Patrols sometimes pass through
+Sight; AN/PVS-4, Night Vision     the scout platoon to conduct
+Sight, Individual Weapon;         missions. Indirect fire should
+AN/PVS-5, Night Vision Goggles;   support patrols at all times.
+and binoculars.                   The distance for patrol
+                                  missions varies with the type
+     PATROLS (MANEUVER ELEMENTS)  of patrol and METT-T. The
+      There are two basic         company must always coordinate
+                                  with the battalion before the
+categories of patrols:            patrons departure to eliminate
+reconnaissance and combat. A      redundancy and gaps.
+patrol is a detachment sent to
+conduct reconnaissance, combat,                     Limitations
+or both. It consists of at              Patrols have many of the
+least two people who may be       same limitations as the scout
+accompanied by specially          platoon. Patrols normally do
+trained personnel or augmented    not provide surveillance for
+with equipment essential to the   extended periods. Patrols can
+mission. All maneuver elements    reconnoiter an area, establish
+conduct patrols during combat     OPs/LPs for a limited period,
+operations to provide             and then leave.
+reconnaissance, CR, security,
+and small-scale combat                        OBSERVATION POSTS/
+operations.                                      LISTENING POSTS
+
+      Reconnaissance patrols                  (MANEUVER ELEMENTS)
+collect information and confirm         Units establish OPs/LPs to
+or disprove the accuracy of       provide security, surveillance
+previously gained information.    of NAI, and early warning of
+The three types of                enemy activities. They are in
+reconnaissance patrols are        use extensively during limited
+route, area, and zone.
+
+                                  3-3
+
+
+---
+
+FM 34-2-1                                 provide a large quantity of
+v i s i b i l i t y . Proper emplacement  real-time information. You
+includes concealment and unit             must get involved in the
+support by fire.                          training to increase the
+                                          timeliness and accuracy of
+      Patrols differ in training          information reported. All
+and logistic support from scout           soldiers, from private to
+platoons and normally do not              general officer, must know
+establish OPs/LPs for extended            how to properly send
+periods. If you use patrols               information up the chain.
+to conduct surveillance for
+extended periods, you are                                  Capabilities
+mismanaging your R&S assets.                    Soldiers can determine the
+OPs/LPs are tasked to provide             types and numbers of enemy
+surveillance for extended                 approaching.
+periods as long as they meet
+the requirements stated above.                              Limitations
+                                                Soldiers do not always have
+                 Capabilities             the right equipment to send
+      Units can employ                    information quickly.
+practically an unlimited
+number of OPs/LPs. They can                                   EQUIPMENT
+provide 24-hour coverage if                     Night observation devices
+they have the proper day and              (NODS) are either active or
+night observation devices,                passive equipment designed to
+GSRs , or sensors. They can               permit observation during
+remain undetected due to lack             darkness. Active equipment
+of movement. Units can use                transmits infrared or white
+OPs/LPs all over the                      light to illuminate the
+battlefield as long as they are           target. Passive devices use
+provided with fire support.               either ambient light (from the
+                                          stars, moon, or other
+                  Limitations             low-intensity illumination) or
+       OPs/LPs cannot operate             operate by detecting the
+for 24 hours if they do not               differences in heat (infrared
+have the proper equipment.                energy) radiated by different
+A security element must be                objects. Heavy rain, snow,
+near the OP/LP to provide                 fog, or smoke degrade the
+support and security in a                 effectiveness of these
+timely manner.                            devices. You should use NODS
+                                          on night patrols and OPs/LPs.
+                     SOLDIERS             Figure 3-1 shows observation
+       During combat, soldiers            equipment associated with the
+are scattered all over the                maneuver battalion.
+battlefield; thus, they can
+
+3-4
+
+
+---
+
+                                                                         FM 34-2-1
+
+DEVICE        CAPABILITIES                                                           ADVANTAGES AND
+                                      CHARACTERISTICS D ISADVANTAGES
+
+AN/PVS-2 NV   200 to 400 m            Weight 6 lbs             Not detectable.
+
+Individual Weapon                     4 x magnification
+
+AN/TVS-2 NV   1,000 m                 Weight 15 lbs            Not detectable.
+Sight,        starlight,
+Crew-served   1,200 m
+Weapons       moonlight
+
+AN/TVS~4 NV   1,200 to                Weight 3.6 lbs           Not detachable.
+              2,000 m
+                                      7 x magnification
+
+AN/PVS-4 NV   400 m                   Weight 3.6 lbs           Not detectable.
+Sight,        starlight,
+Individual    600 m
+Weapons       moonlight
+
+AN/TVS-5      1,000 m                 Weight 7 lbs             Not detectable.
+Sight,
+Crew-served   starlight,
+Weapons
+              1,200 m
+
+              moonlight
+
+AN/PVS-5 NVG  150 m                   Weight 1.9 lbs           Not detectable.
+                                                               Eye fatigue
+                                                               after 3 to 5
+                                                               hours.
+
+An/TAS-5      1,000 m                 Weight 22 lbs            Penetrates all
+Thermal                                                        conditions of
+Dragon        (+)                                              limited visi-
+                                                               bility and
+Sight                                                          foliage. Not
+light                                                          detectable.
+                                                               Short battery
+                                                               and coolant
+                                                               bottle life.
+
+AN/UAS-12     3,000 m                 Weight 18.7 lbs          Same as
+Thermal TOW                                                    AN/TAS~5.
+Sight         (+)
+
+\)                \        equipment  associated  with  \A     maneuver  battalion.
+                                                           Vi
+ Figure 3-1.  Observation
+                                                        the
+
+                                                                                                     3-5
+
+
+---
+
+FM 34-2-1      AW                             \N   \; ADVANTAGES AND
+
+rN             CAPABILITIES      CHARACTERISTICS   DISADVANTAGES
+
+ DEVICE
+
+AN/UAS~11      3,000 m           Weight 58.4  lbs  Same as
+
+Mh Awm a 1     fay               u/trinngAa        AN /TACQuGR
+
+ 411406 LUMAL   Lr)              Wf we tw          eaayuy acaw w®@
+
+NOD
+
+Binoculars     Intensifies       7 x 50 power      Not detectable.
+               natural light.    or 6 x 30 power   Requires some
+                                                   type of visible
+                                                   light.
+
+AN/PAQ~4       150 m             Weight .5 lbs     Permits aimed
+                                 Used with         fire during
+Infrared       (limited by       AN/PVS-5 and      darkness.
+                                 mounts on M16.    Detectable.
+Aiming Light PVS-5)
+
+AN/PAS-7       Detects           Weight 9.5 lbs    Penetrates all
+Hand-Held      personnel                           conditions of
+
+Thermal        at 400 n,                           limited visi-
+Viewer         at 1 kn.                            bility and
+                                                   light foliage.
+
+                                                   Not detectable.
+
+Figure 3-1. Observation equipment associated with the maneuver battalion (continued).
+
+          ASSETS AND PERSONNEL   objects during limited
+           NORMALLY SUPPORTING   v i s i b i l i t y . GSR is capable of
+         THE MANEUVER BATTALION  accurately locating targets for
+      Assets and personnel that  rapid engagement. It provides
+normally support the maneuver    early warning of enemy movement
+battalion include GSR, REMBASS,  and assists friendly forces in
+field artillery, engineer        movement control.
+platoon, air defense artillery
+platoon, Army aviation, and                             Tasks
+tactical Air Force.                     GSR is used to--
+
+      GROUND SURVEILLANCE RADAR        o Detect enemy movement
+      GSR provides the tactical  during limited visibility.
+commander with timely combat
+information and target                 o Monitor NAI.
+acquisition data. The primary          o Monitor barriers and
+capability of GSR is to search,  obstacles to detect enemy
+detect, and locate moving        breaching.
+
+3-6
+
+
+---
+
+                                  FM 34-2-1
+
+      o Monitor flanks.                 o Line of sight (LOS)
+      o Extend the capabilities   operation only.
+of patrols and OPs/LPs.
+      o Vector patrols.                 o Limited mobility of the
+      o During daylight, detect   AN/PPS-5.
+enemy obscured by haze, smoke,
+or fog.                                 o Limited range of the
+      o Monitor possible drop     AN/PPS-15.
+zones or landing zones.
+                                                 Characteristics
+                 Capabilities           GSR should be used with
+      GSRs can--                  NODS as complementary
+      o Penetrate smoke, haze,    surveillance devices, since
+fog, light rain and snow, and     each device can be used to
+light foliage.                    overcome the limitations of the
+      o Operate in complete       other. Figure 3-2 shows GSR
+darkness.                         c h a r a c t e r i s t i c s . GSRs are
+      o Detect moving personnel   organic to the MI battalion,
+and equipment.                    intelligence and surveillance
+      o Be moved around on t h e  (I&S) company. The MI
+battlefield.                      Battalion provides GSRs in
+      o Provide adjustment o f    direct support (DS) of brigade
+indirect fire.                    operations. GSR teams that are
+                                  DS to the brigade can be
+                  Limitations     attached to maneuver battalion
+      GSR limitations are--       and company elements to support
+      o Emits active radar waves  the commanders.
+which are subject to enemy
+detection and electronic                        Radar Allocation
+countermeasures (ECM).                  Radar is allocated as
+      o Performance is degraded   follows:
+by heavy rain or snow and dense         o Heavy Division:
+foliage.
+                                            --Three squads of four
+                                  teams each.
+
+                                            --One PPS-5 per team
+                                  equals 12 PPS-5’s.
+
+                                         o Light Division:
+                                            --Four squads of three
+
+                                  teams each.
+
+                                  3-7
+
+
+---
+
+FM 34-2-1
+
+                                     AN/PPS-5                  AN/PPS-15
+
+RANGE: Personnel              6,000m                           1,500m
+
+              Vehicles       10,000m                           3,000 m
+
+ACCURACY: Range              +20m                              +20m
+
+                    Azimuth  + 10mils                          +10mils
+
+* SECTOR SCAN:               Automa- 5t5ic3, 1,067, 1,600,     Automatic .
+
+INDICATORS:                  and 1,955 mils (selectable)       800 or 1,600 mils
+
+                             Audio and visual                  Audio and visual
+
+                             (A- and B- scope)                 (digital readout)
+
+REMOTE CAPABILITY:           15.24m                            9.144m
+
+* Both radars can be manually rotated to any azimuth and manual scanning can be performed.
+
+                             Figure 3-2. GSR characteristics.
+
+          --One PPS-15 per team                of the team leader’s expertise
+equals 12 PPS-15’s.                            and knowledge of the GSR. S i t e
+                                               selection should provide--
+      o Airborne division and air
+assault division:                                    o Protection by combat
+                                               elements, as far forward as
+          --Three squads of four               possible to provide the
+teams each.                                    earliest warning.
+
+          --Three PPS-15's per                        o LOS between radar and
+squad equal nine PPS-15’s                      target.
+(two-person team).
+                                                     o Communication capability.
+          --One PPS-5 per squad                      o Concealment and cover.
+equals three PPS-5'S                                 o Protection against ECM.
+(three-person team).                                 Remember, radars are an
+                                               extreme electronic security
+         Site Selection Factors                r i s k . Both the main and side
+                                               lobes emit sufficient energy
+      General site selection                   for the enemy to detect and
+should be made in close                        use radio ECM. GSRs, once
+coordination with the GSR team                 detected, can give indicators
+leader whenever possible;                      to the enemy showing the size
+specific site selection should
+always be left to the team
+leader. This takes advantage
+
+3-8
+
+
+---
+
+                                    FM 34-2-1
+
+and disposition of friendly         set, which functions as the
+elements. GSRs can be               sensor output display, provides
+destroyed or jammed. The            target identification and
+following are common-sense          classification. In most cases,
+OPSEC measures to be used with      the sensor monitoring set is
+GSRs :                              placed at the supported unit's
+                                    TOC.
+       o Use terrain or vegetation
+to absorb or scatter side                 REMBASS teams hand deploy
+lobes.                              the sensors and repeaters; they
+                                    also provide personnel to
+      o Place radar site so the     operate a monitoring device.
+target is between the radar and     REMBASS allocations are
+the hills or forests to limit       different for all divisions
+the detection range.                and are based on each
+                                    divisions particular mission.
+      o Schedule random operating   It is important to remember
+periods of short duration.          to include the REMBASS team
+                                    leader in planning REMBASS
+      GSRs can be used in tandem    missions.
+with two or more widely
+dispersed radars having the                          Capabilities
+capability to illuminate the              REMBASS is an all-weather,
+same target area, alternating       day or night surveillance
+operation times. The GSR can        system, activated by magnetic,
+also be used with a night           seismic-acoustic, or infrared
+vision device that may not have     changes from moving targets.
+the same range capability, but      REMBASS transmits target data
+will provide some coverage when     by FM radio link to the
+the radar is turned off.            monitors. With this data the
+                                    operator can determine the
+                      REMBASS       target's--
+      REMBASS is organic to the            o Direction of travel.
+airborne, air assault, and                 o Rate of speed.
+light division MI battalion,               o Length of column.
+I&S company. REMBASS can                   o Approximate number.
+remain under division, in                  o Type (Personnel or
+general support (GS); or the        wheeled or tracked vehicles).
+division can provide it in DS             REMBASS can operate in
+to maneuver brigades, division      unusual climatic conditions and
+support command headquarters,
+armored cavalry squadron, or
+maneuver battalion. REMBASS
+teams report directly to the
+G2 or S2 of the supported
+unit. The sensor monitoring
+
+                                    3-9
+
+
+---
+
+FM 34-2-1                          disturbance (such as magnetic,
+on varied terrain. REMBASS         seismic-acoustic, infrared-
+has transmission ranges of 15      passive). Each sensor has a
+kilometers (ground-to-ground),     self-disabling and anti-
+and 100 kilometers (ground-        tampering feature built into
+t o - a i r ) . Because of the     it.
+flexibility and wide range
+of REMBASS application,                   Experience during Operation
+various sensor combinations        Desert Shield indicates an
+can be selected to suit any        increased radius of detection
+given mission.                     for sensors emplaced in sand or
+                                   sandy soil with a silica base,
+                  Limitations      while sensors emplaced in loose
+      Hand emplacement of sensors  rocky soil degrades sensor
+and repeaters in hostile areas     detection radius. Therefore,
+increases employment response      it is very important to check
+time. The sensor requires          the detection radius of each
+radio LOS to transmit data to      sensor in the type soil of its
+the monitor. The equipment's       intended employment and
+weight and size limit the          annotate the results on the
+amount and distance personnel      Sensor Operator Data Record,
+can hand carry for emplacement.    if the situation permits.
+REMBASS receivers are highly       Magnetic sensor. The magnetic
+susceptible to electronic          sensor uses a passive magnetic
+jamming; barrage jamming being     technique to detect targets
+the most effective. Operator       and determine the direction
+proficiency greatly affects the    of movement (left to right
+results obtained.                  and right to left). This
+                                   sensor detects moving objects
+                    Equipment      that are at least partially
+      REMBASS teams normally use   made of ferrous materials.
+three different types of           The magnetic sensor will not
+sensors: magnetic,                 c l a s s i f y t a r g e t s . The magnetic
+seismic-acoustic, and              sensor is most effectively
+infrared-passive. The sensors      used as a count indicator
+are arrayed in strings which       for vehicles.
+complement one another. The
+sensors function automatically,          Detection ranges of the
+transmitting information when      magnetic sensor are--
+movement, sound, or heat
+activates them.                          o Armed personnel, 3
+      Each sensor has detection    meters.
+and classification techniques
+suited to the physical                   o Wheeled vehicles, 15
+                                   meters.
+
+3-10
+
+
+---
+
+       o Tracked vehicles, 25On                                     FM 34-2-1
+meters.                                 Detection ranges of the
+                                 infrared-passive sensor are--
+       Due to these detection           o Personnel, 3 to 20
+ranges, REMBASS teams must       meters.
+use these sensors within                o Vehicles, 3 to 50 meters.
+proximity of the expected        Radio repeater. The radio
+routes of travel. The weight     repeater relays data
+of this sensor and battery is 3  transmissions between the
+kilograms.                       sensors and the monitoring
+Seismic-acoustic sensor. The     sites. The radio repeater
+seismic-acoustic sensor detects  intercepts the encoded radio
+and classifies personnel and     message from either a REMBASS
+wheeled or tracked vehicles by   sensor or another like
+analyzing target signature.      repeater.
+It transmits a target                  Ranges of the repeater
+classification report to the     are--
+monitor. The weight of the             o 15 kilometers
+sensor and its battery is 3      ground-to-ground.
+kilograms.                             o 100 kilometers
+                                 ground-to-air.
+       Detection ranges for the        The repeater, like the
+seismic-acoustic sensor are--    sensors, has a self-disabling
+                                 and antitampering feature built
+       o Personnel, 50 meters.   into it. The weight of the
+       o Wheeled vehicles, 250   repeater and three batteries
+meters.                          is 15 kilograms.
+      o Tracked vehicles, 350    Additional equipment.
+meters.                          Additional equipment for the
+Infrared-passve sensor. This     sensor includes--
+sensor detects and responds to         o A code programmer for
+a temperature change of 1.5      programming a sensor or
+degrees Celsius within its       repeater to a desired operating
+field of view. It can            channel.
+determine the direction of             o The antenna group for
+motion relative to the sensor    the REMBASS sensor monitoring
+position. The infrared-passive   set receives transmissions from
+sensor is most effectively used  extended ranges.
+as a count indicator for
+personnel. The weight of the
+sensor and battery is 3
+kilograms.
+
+                                 3-11
+
+
+---
+
+FM 34-2-1                           support operations. The FSE
+      o Sensor monitoring sets      also provides a fire support
+                                    team (FIST) to each maneuver
+for monitoring REMBASS              company.
+radio-linked sensor and
+repeater transmissions.                   Forward observers (FOs)
+                                    from each FIST are deployed
+      o A portable radio            to platoons (except in armor
+frequency monitor to monitor        battalions) and may accompany
+sensors and repeaters. It           reconnaissance patrols or help
+is used primarily during            operate OPs. FOs observe the
+emplacement of sensors to           battlefield to detect,
+test operational status and         identify, locate, and
+radio LOS. It can also be           laser-designate targets for
+used as a backup if the sensor      suppression, neutralization,
+monitoring set becomes              or destruction. They report
+inoperative.                        both targeting data and combat
+                                    information to the maneuver
+      Figure 3-3 shows site         battalion FSO and S2.
+symbols . Adjacent brigades
+or battalions can monitor the             The FISTs and FOs are
+same sensors if they exchange       specially equipped for their
+radio frequency information.        mission. The laser range
+This lateral monitoring             finder provides an accurate
+increases the surveillance          distance measurement to a
+of units and promotes the           target. Using the ground or
+exchange of intelligence.           vehicular laser locator
+For additional information          designator, the FO can
+on REMBASS characteristics and      determine distance, direction,
+employment techniques, refer        and vertical angle. The FO
+to FM 34-10-1.                      can also laser-designate
+                                    targets for Army, Navy, and
+               FIELD ARTILLERY      Air Force laser-guided
+       To properly integrate field  munitions.
+artillery assets into the R&S
+and CR plans, you must                     The capability of the FIST
+understand the capabilities and     to provide real-time combat
+limitations of this equipment.      information cannot be
+       A field artillery battalion  overemphasized. The FIST
+is both a producer and a            vehicle (FISTV) is capable of
+consumer of combat information.     accurate target location
+Field artillery battalions in       through the combination of a
+DS of brigades provide each         manual calculation laser range
+maneuver battalion headquarters     finder and a self-location
+a fire support element (FSE).       capability. It has a digital
+This element is headed by an        and voice interface with the
+FSO. The FSE helps plan,            fire support system and a
+direct, and coordinate fire         thermal sight.
+
+3-12
+
+
+---
+
+SENSOR SYMBOL    REQUIRED INFORMATION                         FM 34-2-1
+
+                                            INFORMATION LEGEND
+
+                                            A= Type of sensor (such
+                                                    as Mag, SA, IR)
+
+                                            B= ID code(s) and
+                                                    channel of sensor
+
+                                            C= Team and unit
+                                                    empiacing sensor
+
+                                            D = SMS pen number
+
+MONITOR SYMBOL   REQUIRED INFORMATION       INFORMATION LEGEND
+
+                                            A= Receiver channel
+                                                    (designate A or B
+                                                   when using the SMS)
+
+                                            B= Team and unit
+
+                       AOo
+                 REQUIRED INFORMATION
+REPEATER SYMBOL                               INFORMATION LEGEND
+
+                                            C = Receiver and transmitting
+                                                    channel
+
+                                            D= Team and unit emplacing
+                                                     the repeater
+
+                 Cc  D                      NOTE: The bottom of the
+                                            diamond points to the sensor
+                 Figure 3-3. Site symbols.  location.
+
+                                                                       3-13
+
+
+---
+
+FM 34-2-1                                  support officer can provide key
+       The FISTV can locate                information about the terrain
+                                           without your having to send out
+targets out to 10 kilometers               a reconnaissance patrol. In
+and designate targets out to 5             some cases it would prove
+kilometers. However, its                   valuable to have engineers go
+electro-optics capability                  along with reconnaissance
+cannot provide acquisition                 patrols. Engineers can provide
+beyond direct fire range (5                expert terrain and obstacle
+kilometers).                               analysis.
+
+       Maneuver company and troop                    AIR DEFENSE ARTILLERY
+FISTS and combat observation                                     PLATOON
+and laser teams use the FISTV.
+The FISTV has only LOS                            Short-range air defense
+target-acquisition capability.             elements normally support the
+When on the move, it cannot                maneuver battalion. These may
+designate targets. The thermal             include Stinger teams or
+sight’s range limitation is                sections and Vulcan squads.
+within 3 kilometers of its                 The air defense artillery (ADA)
+f i e l d o f v i s i o n . Being mounted  platoon or section leader
+on an M113 chassis, it lacks               functions as the battalion air
+the mobility and armor                     d e f e n s e o f f i c e r . The ADA
+protection of the maneuver                 leader works closely with the
+forces it supports.                        battalion S2, S3-air, FSO, and
+                                           air liaison officer (ALO) to
+              ENGINEER PLATOON             plan and coordinate air defense
+      The maneuver battalion               support.
+receives engineer support from
+the engineer company normally                     Specifically, the ADA
+placed in DS of the brigade.               leader would coordinate with
+Usually an engineer platoon                you to pinpoint areas of enemy
+supports a battalion. The                  air and ground activity. The
+mission of this engineer                   battalion air defense officer
+platoon is to provide mobility,            can tap into resources that
+countermobility, survivability,            look through the battlefield to
+and general engineering                    determine areas of enemy air
+support.                                   activity, thus revealing enemy
+      As the S2, you should learn          ground activity.
+to tap into this valuable
+resource for detailed                            The forward area alerting
+information on natural and                 radar (FAAR) and target data
+constructed terrain features.              display set provide air alert
+The S3 and the engineer support            warning information to Vulcan
+officer need to coordinate with            squads and Stinger teams. This
+each other to integrate                    warning includes tentative
+engineer assets into the R&S               identification, approximate
+and CR plans. The engineer                 range, and azimuth of
+
+3-14
+
+
+---
+
+approaching low-altitude                                                FM 34-2-1
+aircraft out to 20 kilometers.       support of units where no FSE
+                                     exists, the OH-58D crew
+                ARMY AVIATION        performs a fire support
+      Aviation units support         planning and coordination
+maneuver brigade and battalion       function.
+commanders. They provide a
+responsive, mobile, and                    The OH-58D has many of the
+extremely flexible means to          same capabilities as the FISTV.
+find, fix, disrupt, and destroy      It has a thermal sight; a laser
+enemy forces and their               range finder and designator; a
+supporting command, control,         self-location capability; and a
+and communications (C 3)             digital and voice inter ace
+f a c i l i t i e s . Some aviation  with the fire support C 3
+assets are capable of                system. It can locate and
+performing limited                   designate targets out to 10
+reconnaissance missions;             kilometers. Under less than
+however, most will collect           ideal weather conditions it can
+information only as part of          only detect and recognize
+normal aviation missions.            targets to within direct fire
+      You can find out from the      ranges.
+army aviation support officer
+information concerning enemy               This system provides--
+activity in areas where                    o Digital interface with
+aviation assets fly missions.        fire support C systems.
+Helicopters can resupply,                  o Digital interface with
+insert, or extract OPs/LPs           Army aviation aircraft equipped
+or patrols. Combat aviation          with the airborne target
+companies provide airlift            handover system (such as the
+support for troops and evacuate      AH-64 Apache).
+equipment, casualties, and                 o Interface with Air Force
+enemy prisoners of war (EPWs).       assets so equipped.
+      The OH-58D is found in the           These characteristics make
+attack helicopter battalion          the OH-58D a primary member of
+supporting maneuver brigades         Joint Air Attack Team (JAAT)
+and battalions. The crew of          operations.
+the OH-58D consists of a pilot
+and an artillery fire support                    TACTICAL AIR FORCE
+coordinator and observer. This             JAAT is a combination of
+aircraft performs two                Army attack and scout
+functions. First, when in            helicopters and Air Force close
+support of maneuver battalions       air support (CAS). It normally
+with FSEs, it is primarily a         operates in support of maneuver
+target acquisition and target        brigade or battalions. All
+attack system. Second, when in
+
+                                     3-15
+
+
+---
+
+FM 34-2-1                         l i m i t a t i o n s , and employment of
+staff officers participate in     the intelligence and electronic
+planning missions for Air Force   warfare (IEW) equipment
+support, especially the S2, S3,   supporting the brigade. The
+S3-air, FSO, and ALO.             IEWSE--
+Coordinate through the ALO to
+receive real-time information            o Coordinates IEW support
+from these Air Force assets.      of the maneuver brigade.
+
+       The ALO also provides the         o Is the link to the MI
+means to forward immediate        battalion for support.
+tactical air reconnaissance
+requests up the chain. Air               o Communicates with the MI
+reconnaissance reports,           bn to receive targeting and
+in-flight combat information      tasking information.
+reports, and air situation
+reports are all available                      EPW INTERROGATORS
+through the ALO. The ALO                 Interrogators screen and
+weighs this information against   interrogate EPW, detainees,
+information from the CR and the   and refugees. Their mission
+R&S plans. In this way the ALO    is to collect and report all
+can confirm or deny the           information possible to satisfy
+accuracy of those plans.          the commander’s PIR and IR.
+                                  FM 34-80 contains the types
+           ASSETS AND PERSONNEL   of information interrogators
+           NORMALLY SUPPORTING    can obtain and provide.
+           THE MANEUVER BRIGADE
+      At brigade level, the                   COUNTERINTELLIGENCE
+commander is fighting the               The counterintelligence
+close-in battle. You, as the      (CI) support team can evaluate
+brigade S2, must support the      the vulnerability of friendly
+commander. To do this you must    R&S assets to detection by
+focus your collection effort at   threat R&S and target
+the lst-echelon regiments and     a c q u i s i t i o n a s s e t s . CI members
+the 2d-echelon regiments          of support teams can identify
+capable of influencing your       and counter the specific enemy
+commanders battle (out to 30      target acquisition means which
+kilometers) . The brigade has     pose a significant threat to
+limited assets available to       brigade operations. These
+conduct the collection effort.    include--
+Here are some assets and                o Human intelligence
+personnel you can use to          (HUMINT).
+enhance your R&S and CR                 o Imagery intelligence
+operations.                       (IMINT).
+
+                       IEWSE
+      The IEWSE officer provides
+expertise on the capabilities,
+
+3-16
+
+
+---
+
+       o SIGINT.                                                     FM 34-2-1
+       Based on enemy R&S
+activities, you could determine          o AN/TLQ-17A (TRAFFIC JAM)
+which operations security         is a ground-based HF and VHF
+(OPSEC) and deception             communications intercept and
+operations would work against     jamming system. It is found
+the enemy, after coordination     in all divisions except light.
+with CI personnel. FM 34-80
+has detailed information on CI           o AN/TRQ-32 (TEAMMATE) is
+support.                          a ground-based HF, VHF, and UHF
+                                  communications intercept and
+               GSR AND REMBASS    LOB system. It is found in all
+       GSR and REMBASS can be     divisions.
+kept under brigade control.
+See the above paragraph                  o The AN/PRD-10\ll/12 is
+titled "Assets and Personnel      a ground-based radio DF system
+Normally Supporting The           capable of being carried by one
+Maneuver Battalion” for           person. It is found in air
+specific information.             assault, airborne, and light
+                                  d i v i s i o n s , and some heavy
+            ELECTRONIC WARFARE    divisions.
+            COLLECTION SYSTEMS
+      These assets operate near         o AN/ARQ-33A or AN/ALQ-151
+or within the brigade AO. They    (QUICKFIX) is an airborne
+provide intelligence from         communications intercept,
+intercepted enemy emitters.       jamming, and DF system. It
+Ground-based systems include      is found in all divisions.
+the following:
+      o AN/TSQ-138 (TRAILBLAZER)        There are also numerous
+is a ground-based HF and VHF      communications jamming
+communications intercept and      resources that will be
+VHF DF system. It is found in     available to the commander
+heavy divisions only.             in or near your brigade AO.
+      o AN/MSQ-103C, Heavy        FM 34-80 has detailed
+Divisions, AN/MSQ-l03B,           information about electronic
+Airborne and Air Assault          warfare (EW) equipment.
+Divisions, (TEAMPACK) is a
+ground-based noncommunications              DIVISION INTELLIGENCE
+intercept and line-of-bearing                           OFFICER
+(LOB) system. It is found in
+all divisions except light.             The G2 can provide many
+                                  kinds of detailed intelligence.
+                                  The G2 has various assets
+                                  available to collect
+                                  information and can pass this
+                                  down to you as intelligence.
+                                  FM 34-10 has specific
+                                  information concerning these
+                                  assets.
+
+                                  3-17
+
+
+---
+
+FM 34-2-1                              The AN/TPS-58B detects
+               FIELD ARTILLERY   moving vehicles out to 20
+                                 kilometers and personnel out
+      Like the maneuver          to 10 kilometers.
+battalion, the maneuver brigade
+has an FSO to coordinate fire          Field Artillery Battalion
+support. The FSO can                          Observation Posts
+communicate with numerous
+weapon-locating radars.                Survey parties and other
+                                 trained personnel of the field
+             Fire Finder Radar   artillery battalion operate the
+      The target acquisition     battalion OPs. These personnel
+battery of division artillery    survey designated target areas,
+(DIVARTY) has three AN/TPQ-36    and record high-burst and mean
+mortar-locating radars and two   point-of-impact registrations.
+AN/TPQ-37 artillery-locating     They send targeting data and
+radars.                          combat information to the fire
+      The AN/TPQ-36 detects      direction center or the FSO at
+mortars and artillery out to     the maneuver battalion or
+12 kilometers and detects        brigade.
+rockets out to 24 kilometers.
+      The AN/TPQ-37 detects                 Aerial Fire Support
+artillery and mortars out to                           Officer
+30 kilometers and rockets out
+to 50 kilometers.                      The DIVARTY support platoon
+                                 of the heavy division’s combat
+         Moving Target Locating  aviation brigade provides
+                      Radars     rotary wing aircraft for
+                                 DIVARTY air observers. Their
+      The DIVARTY target         mission is to call for or
+acquisition battery has either   adjust fires from the fire
+one AN/TPS-25A or one            support assets. Aerial fire
+AN/TPS-58B moving-target-        support officers--
+locating radar. These
+battlefield surveillance               o Cover areas masked from
+radars are similar to the        ground observers.
+GSR. They can detect,
+locate, and distinguish                o Cover thinly resourced
+wheeled and tracked vehicles     areas.
+and dismounted personnel.
+                                       o Provide coverage while
+      The AN/TPS-25A detects     ground-based R&S and target
+moving vehicles out to 18        acquisition assets displace.
+kilometers and personnel out
+to 12 kilometers.                      o Reinforce surveillance of
+                                 vulnerable areas.
+
+3-18
+
+
+---
+
+       o Report targeting data and                                     FM 34-2-1
+combat information to the FSO       tracked, wire guided [TOW]
+at the maneuver battalion or        missile systems and scout
+brigade, DIVARTY TOC, or the        HMMWVs); and one air assault
+fire direction center.              troop.
+
+              ENGINEER AND AIR             o The air cavalry squadron
+             DEFENSE ARTILLERY      of the light division consists
+      Engineer and ADA support      of two air cavalry troops; and
+officers are located at the         one ground cavalry troop (TOW
+maneuver brigade. Types of          and scout HMMWVs).
+information these personnel can
+provide is discussed in the               Headquarters and
+above paragraph titled “Assets      headquarters troops and
+and Personnel Normally              maintenance troops are not
+Supporting The Maneuver             included in the above list.
+Battalion."
+               AIR AND ARMORED                       ARMY AVIATION
+              CAVALRY SQUADRON                   Attack Helicopter
+      This squadron supports the
+division by conducting                                 Battalions
+reconnaissance and security               These battalions are
+missions. There are four types      primarily trained to "kill"
+of air and armored cavalry          enemy tanks. They can also--
+squadrons:                                o Provide aerial escort and
+      o The air and armored         suppressive fires to support
+cavalry squadron of the heavy       air assault operations.
+division consists of two ground           o Destroy enemy C3 a n d
+cavalry troops (M3 equipped);       logistic assets.
+and two air cavalry troops                o Conduct JAAT operations.
+(OH-58s and attack                         If these assets support
+helicopters).                       your brigade, they can provide
+      o The air cavalry squadron    detailed information about
+of the air assault division         enemy activity. The key to
+consists of three air cavalry       obtaining this information is
+troops; and one air assault         to coordinate with the S3-air
+troop.                              and the Army aviation support
+      o The air cavalry squadron    officer. Refer to the above
+of the airborne division            paragraph titled “Assets and
+consists of three air cavalry       Personnel Normally Supporting
+troops; one ground cavalry          The Maneuver Battalion" for
+troop (tube-launched, optically     additional information. Figure
+                                    3-4 shows an asset deployment
+                                    matrix. This matrix may be
+
+                                    3-19
+
+
+---
+
+FM 34-2-1                       S2s to keep track of deployed
+      If these assets support   assets.
+
+your brigade, they can provide          MILITARY POLICE PLATOON
+detailed information about            The military police (MP)
+enemy activity. The key to      platoon supports the maneuver
+obtaining this information is   brigade during some missions.
+to coordinate with the S3-air   If you have an MP platoon
+and the Army aviation support   supporting your unit, you
+officer. Refer to the above     should coordinate with the MP
+paragraph titled "Assets and    platoon leader for
+Personnel Normally Supporting   information. The MP platoon
+The Maneuver Battalion” for     can usually coordinate with
+additional information. Figure  other MPs who are normally
+3-4 shows an asset deployment   scattered all over the AO.
+matrix. This matrix may be
+used by brigade and battalion
+
+     ASSET     DESIGNATION        LOCATION            TARGET       PERSONNEL OR
+(each system)      (call sign)  (keep current)      (coordinate        EQUIPMENT
+                                                description, NAI)        REMARKS
+
+                                                                   (report channels)
+
+oe
+
+                                                                                a
+
+               Figure 3-4. Asset deployment matrix.
+
+3-20
+
+
+---
+
+                                   FM 34-2-1
+
+CHAPTER 4
+
+PLANNING EFFECTIVE RECONNAISSANCE
+              AND SURVEILLANCE
+
+      This chapter presents the    e f f o r t . The R&S plan should
+planning steps for effective       answer the PIR and IR. At this
+R&S operations. The S2 is          point you should have a rough
+responsible for making             draft R&S plan, such as when
+recommendations in R&S             and what areas to begin R&S
+operations. At brigade or          operations. (This is part of
+battalion, you are the driving     the mission analysis phase of
+force in the R&S effort.           the planning process steps.)
+(Refer to Chapter 1 for the
+collection management                    You can now begin adding
+process.) These steps apply to     some detail to the R&S plan.
+both brigade and battalion         Integrate any requirements from
+levels.                            higher headquarters into the
+                                   plan. You have to translate
+      The first step begins with   the initial PIR and IR into
+receiving the unit’s mission.      indicators on which R&S assets
+You must understand the            can collect. Figure 4-1 shows
+commander’s intent in this         examples of the PIR, indicator,
+particular mission. You have       specific information
+already completed most of the      requirements (SIR), and
+IPB process; but now you must      specific orders and requests
+produce some of the specific       (SOR) process. Additional
+information pertaining to the      examples of indicators are in
+mission.                           FM 34-3, Appendix C. Now
+                                   determine the SIR and SOR
+       Once you understand the     needed for the R&S plan. The
+mission, begin to analyze the      SIR and SOR ensure assets are
+requirements placed on you as      collecting specific information
+the S2. The commander should       that answers the PIR and IR.
+tell you the key pieces of
+information needed before and             The event template is a
+during the mission. This key       product of IPB showing when and
+information, called PIR, is        where the enemy could go.
+either stated by the commander     Compare the SIR to the event
+or recommended by you for the      template; this comparison
+commander’s approval.              should indicate when and where
+                                   to send friendly R&S assets.
+       The PIR and IR provide the  Those areas in which you expect
+initial focus of the R&S           enemy activity are labeled NAI.
+
+                                   4-1
+
+
+---
+
+FM 34-2-1
+
+                                      MY OFFENSE
+
+          Indicator:                             aunch a regimental- or battalion-size
+obstacles.                                         the next 12 hours?" - Commander
+
+                      Reconnaissance and destruction of our defensive
+
+NOTE: Usually the night preceding an attack, enemy patrols
+reconnoiter friendly obstacles to determine a plan for clearing
+lanes. The patrol destroys only those obstacles that will not
+
+disclose the direction of the main attack. - Threat Knowledge
+
+           SIR: "Is the enemy conducting reconnaissance and clearing
+obstacles along our FLOT?" - §2
+
+           SOR: “Report on status of friendly obstacles and the area
+
+around the obstacles. Report the location of all destroyed
+friendly obstacles or the indication of recent enemy activity
+around the obstacles (such as tracks, footprints, or crushed
+vegetation)." - S2
+
+                              ENEMY DEF
+
+           PIR: “Is the enemy going to defend or will they continue
+the attack?" - Commander
+
+          Indicator:  Formation of AT strong points in-depth along
+logical AAs.
+
+NOTE: The enemy forms AT strong points in-depth along logical
+AAS for armor. These are made up of motorized rifle, engineers,
+and AT gun and missile units strengthened by mines, ditches, and
+other obstacles. - Threat Knowledge
+
+           SIR: "Are the enemy placing their AT weapons forward as
+well as building obstacles?" ~- §2
+
+           SOR: "Reconnoiter  NAI 4.     Specifically look  for and                 report
+enemy AT positions (AT        4 or 5  mounted on BMPs or    BRDMs),                 BMPs,
+and obstacles." - S2
+
+                  Figure 4-1. Example of the PIR, indicator, SIR, and SOR process.
+
+4-2
+
+
+---
+
+      Once you have a picture of                                                FM 34-2-1
+the coverage required for the                your R&S assets to enemy
+R&S effort, you should                       collection and target
+prioritize the SIR. Those SIR                capabilities.
+that, when answered, will
+provide the greatest amount of                     o The FSO coordinates
+intelligence in the shortest                 indirect fires planned to
+amount of time should have a                 support R&S assets and
+high priority. (This is part                 recommends establishing
+of the COA development phase of              appropriate restrictive fire
+the planning process steps.)                 support coordination measures
+                                             to provide for troop safety.
+      By now you have set your
+SIR priorities, identified                         o The R&S asset commander
+areas to send R&S assets, and                is responsible for planning
+know when to begin the R&S                   targets and indirect fires for
+mission. For the next step,                  that element.
+you must be familiar with the
+capabilities and limitations of                    o The engineer officer
+all R&S assets at your                       supports the R&S effort by
+p a r t i c u l a r l e v e l . Compare the  collecting information on the
+SIR with available R&S assets.               terrain and obstacles.
+Close coordination between you
+and the other staff officers                        o The IEWSE officer
+should help ensure the assets                supports the R&S effort by
+are properly deployed.                       guiding the MI battalion assets
+Development of the R&S plan                  to assist in answering the PIR.
+should involve all staff
+officers. Your concern is                           o The ADA officer plans air
+developing IR and guiding                    defense for the R&S assets and
+assets to the proper areas.                  also provides information on
+                                             enemy air activity.
+                 STAFF OFFICER
+              RESPONSIBILITIES                      o The NBC officer
+                                             integrates NBC operations with
+       Other staff officers have a           R&S missions.
+role in this process. The
+following is a list of these                        o The aviation officer
+officers and their                           provides air movement for R&S
+responsibilities:                            assets and also information on
+                                             enemy activity while in flight.
+       o The S3 makes sure the
+assets are available and can                        o The ALO provides close
+conduct the mission and the R&S              air support for R&S missions as
+plan supports the overall                    well as in-flight reports on
+mission of the unit.                         enemy movement.
+
+       o The CI officer apprises                    These staff officers are
+you of the vulnerability of                  not cast aside upon completion
+                                             of the R&S plan. They should
+
+                                             4-3
+
+
+---
+
+FM 34-2-1
+
+be kept updated on the current           A scout platoon's mission
+R&S situation. These officers      is to conduct a 10-kilometer-
+provide recommendations during    wide by 10-kilometer-deep zone
+R&S operations and ensure their   reconnaissance before a
+assets are operating as           movement to contact. The scout
+instructed.                       platoon must accomplish this
+                                  mission in one hour. You have
+       The DST is a tool used in  determined the platoon needs
+the IPB process that brings the   augmentation to cover this much
+staff officers together to plan   area in the time allowed.
+the mission. The DST also         After you coordinate with the
+ensures involvement among the     S3, the S3 attaches two
+S2, the S3, and the FSO in        mechanized infantry squads to
+planning R&S missions.            the scout platoon. These two
+                                  squads are given the mission to
+                    PLANNING      provide security and mark
+       Once you know which R&S    infiltration routes.
+assets are available to conduct
+R&S operations, you have to              In this example the scout
+decide how to satisfy the SIR.    platoon is able to concentrate
+To collect the greatest amount    on reconnoitering the terrain
+of intelligence with the fewest   and locating enemy positions;
+assets, you must know how to      while the two mechanized squads
+plan missions using basic         provide security for the scout
+collection management strategy    platoon and mark infiltration
+such as augmenting, task          routes. If you had expected
+organizing, cueing, and           heavy enemy obstacles, the S3
+redundancy.                       could have attached an engineer
+                                  section to mark, breach, or
+                   AUGMENTING     provide obstacle assessment
+       Chapter 8 has an in-depth  while the scouts and infantry
+discussion of augmenting.         did their mission.
+
+               TASK ORGANIZING           You should consider all the
+      To collect the most         assets listed in Chapter 3 for
+information, with the fewest      augmentation or task organiza-
+assets and in the quickest way,   tion roles. See Chapter 8 for
+task organize assets. This        further discussion of task
+increases their overall           organization.
+effectiveness in gathering
+information and surviving on                            CUEING
+the battlefield. The following
+is an example of task                   Another collection strategy
+organizing.                       of R&S missions is cueing.
+                                  Cueing is using limited assets
+                                  to identify or verify enemy
+                                  activity or using one asset to
+
+4-4
+
+
+---
+
+tip off or alert another                                                 FM 34-2-1
+asset. Use the event template
+to pinpoint the times and areas       priority of the SIR and the
+to collect on the enemy.              number of NAI, you have to
+                                      decide which areas you want
+      Instead of the R&S assets       more than one asset to cover.
+trying to cover large areas for       With more than one asset
+extended periods of time, the         covering the same NAI, a backup
+assets are active only when           system is available in case one
+cued. The cueing can be the           asset breaks down. Redundancy
+time you expect the enemy to be       guarantees continuous area
+at a specific NAI, or the             coverage. An example of
+reaction to information               redundancy follows.
+reported by another asset. An
+example of cueing follows:                  You have a GSR covering an
+                                      NAI during limited visibility.
+      You have identified three       Just in case the GSR breaks
+NAI needing surveillance, while       down, you have assigned two
+using only one asset. For this        OPs/LPs with NODS to cover the
+example the only asset                NAI . The OPs also provide NAI
+available to cover the three          coverage during daylight while
+NAI is an OP. Due to the              the GSR crew rests. If the GSR
+distance between the NAI, the         breaks down, the OPs have NODS
+OP cannot cover all three NAI         to pick up the responsibility
+at the same time. You                 of surveilling the NAI. The
+determine a location central to       NODS can also specifically
+all three NAI. From this              identify the moving intruders
+location the OP can cover only        detected by the GSR.
+one NAI with surveillance.
+                                            Remember to include in the
+      An aircraft reports enemy       R&S planning efforts
+vehicles near one of the              coordination with the CI team
+unsurveilled NAI. You inform          supporting your unit. The
+the OP of the activity, thus          routes used by your scout
+cueing it; and the asset moves        platoon and the positions
+toward the NAI to verify the          operated by your assets will
+r e p o r t . You may use any of the  be potential NAI to enemy
+assets listed in Chapter 3 as         collection assets. Whatever
+cues for other assets.                OPSEC and deception measures
+                                      you incorporate into the R&S
+                   REDUNDANCY         plan, they should be based
+      Another collection strategy     on CI evaluation of the
+for R&S operations is                 vulnerability of your R&S
+redundancy. As the S2, your           assets to enemy collection
+primary effort is to provide          and target acquisition
+R&S coverage for as many NAI as       c a p a b i l i t i e s . As you expect
+possible. Based on the                to see the enemy at certain
+                                      times and places on the
+                                      battlefield, so the enemy
+                                      will expect to see you.
+
+                                      4-5
+
+
+---
+
+FM 34-2-1                         mission briefing. The purpose
+      Working with the S3, you    of this briefing is to inform
+                                  the collection assets of their
+are now ready to begin matching   missions and to provide them
+assets with missions. If the      with as much information as
+commander and the S3 approve      possible about it (such as IPB
+the R&S plan, then give warning   products). Use all available
+orders to the assets. The         information to provide as clear
+warning orders allow the assets   a picture as possible of what
+enough time to conduct troop-     you expect of them on the
+leading procedures.               battlefield and what they can
+                                  expect to encounter.
+      Once you issue the warning
+orders and refined R&S plan,
+prepare your portion of the
+
+4-6
+
+
+---
+
+                                   FM 34-2-1
+
+CHAPTER 5
+
+METHODS OF TASKING RECONNAISSANCE
+        AND SURVEILLANCE ASSETS
+
+      The S3 is responsible for   not as timely as FRAGOs or
+and has tasking authority over    warning orders, unit
+maneuver elements. The S2         instructions still let everyone
+makes tasking recommendations     know what you expect of them
+to the commander or S3. The S2    during the R&S operations.
+is the primary user of the
+scouts and, many times, the S2          Figure 5-1 shows a sample
+actually tasks them. In some      R&S tasking with subordinate
+units the S2 has tasking          u n i t i n s t r u c t i o n s . Maneuver
+authority over R&S assets after   battalions can also use this
+the commander and the S3          method when it is tailored to
+approve the R&S plan. Every       their level.
+unit has its own SOP regarding
+R&S responsibilities.                   Probably the quickest way
+                                  to issue R&S orders is to have
+      Normally, you can consider  the S3 issue them when issuing
+the commanders approval of the    the warning order to the unit.
+R&S plan as granting tasking      This method ensures the tasked
+authority. Many times the S3      assets know it is a formal
+does not have time to prepare     tasking coming from the
+and publish separate R&S          commander. Both the S2 and S3
+missions, so the S2 does it.      plan the R&S operation;
+Once the S2, after coordinating   however, the S3 continues to
+closely with the S3, has          have the responsibility of
+completed writing the formal      actually tasking assets.
+plan, it is sent to the
+commander for approval. Once            A formal method of tasking
+the commander signs the           assets for R&S operations is an
+fragmentary order (FRAGO) or      intelligence annex to the
+warning order, the taskings       OPORD. The intelligence annex
+within it become missions         is a formal intelligence
+ordered by the commander,         tasking document accompanying
+regardless of who actually        an OPORD or an operations plan
+wrote it.                         (OPLAN). Paragraph 2, Priority
+                                  Intelligence Requirements, and
+      Another way to publish the  paragraph 3, Intelligence
+missions and taskings of the      Acquisition Tasks, inform all
+R&S plan is to print it in the    assets what the focus of the
+subordinate unit instructions     R&S plan is and what mission
+within the unit OPORD. While      each asset is to conduct. The
+
+                                   5-1
+
+
+---
+
+FM 34-2-1
+
+                                     (Classification)
+
+*          *                     *   *                 *  *                      *
+
+3. Subordinate Unit Instructions
+
+   b. TF 1-6:
+
+                     (1) Establish contact point 1 and assist passage of
+covering force elements through the FEBA.
+
+                    (2) Defend in sector from NT888777 to NT666555 NLT
+
+181500U JAN94.
+
+                      (3) Establish  surveillance sites along Route TOM and
+HARRY to provide early               warning of enemy flank attack NLT 181500U
+JAN94.
+
+                       (4) Send  CR patrols along the FIBEL river and  the
+DICKEL ridge line                NLT 181600U JAN94 to confirm or deny  the
+presence of enemy                reconnaissance patrols.
+
+   c. TF 1-68:
+
+                     (1) Establish contact point 2 and assist passage of
+covering force elements through the FEBA.
+
+                     (2) Defend in sector from NS666444 to NS333222 NLT
+181500U JAN94.
+
+                     (3) Establish screen along the east side of the NEILSON
+AQUADUCT NLT 181500U JAN94. Establish surveillance positions
+near the intersection of AUBOBAHN 67 and 4 to provide early
+warning of enemy reinforcements.
+
+                      (4) Send a CR patrol in the forests southeast of           NLT
+KIBBLESNBITS capable of destroying a reinforced BMP Company
+181700U JAN94 to destroy enemy reconnaissance units.
+
+                                     (Classification)
+
+             Figure 5-1. Sample R&S tasking with subordinate unit instructions.
+
+5-2
+
+
+---
+
+S2 is responsible for the           an)                                FM 34-2-1
+intelligence annex. Again,          maneuver.
+before distribution, the S2
+coordinates the intelligence              o NAI on the event template
+annex with the commander and S3     show target locations.
+for their approval.
+                                          o The DST provides a
+      Figure 5-2 is a sample R&S    picture of the overall friendly
+tasking. Maneuver battalions        scheme of maneuver and warns
+can also use this method, but       the R&S assets of any friendly
+would tailor it to their level.     fires in their vicinity.
+
+      The R&S tasking matrix is           Once the assets have an
+another method of tasking R&S       understanding of the enemy and
+a s s e t s . (See Appendix A.)     terrain, they can receive
+Distribution can be--               detailed mission instructions.
+                                    It does not matter if you or
+      o Directly to the tasked      the S3 give this briefing, just
+asset.                              as long as the assets
+                                    understand their mission. If
+       o Attached to the            possible, the S2, S3, and FSO
+subordinate unit instructions       should be involved in this
+of the OPORD.                       briefing.
+
+       o Attached to the                   Each asset should
+intelligence annex.                 understand what the commander
+                                    wants it to accomplish. Give
+       Once tasked, the assets      the assets the big picture,
+must understand their mission.      then direct them to their
+During the mission briefing for     specific roles and how they are
+the assets, use as many of the      to support the overall mission.
+IPB products as possible. Each
+product serves a particular                You can see the extensive
+purpose:                            time required to plan R&S
+                                    operations. In most units
+       o The modified combined      there is not enough time to go
+obstacles overlay (MCOO)            into a lot of mission-specific
+reveals terrain constraints.        detailed planning before the
+                                    assets are deployed. R&S
+       o Photographs show terrain   operations must begin as soon
+features.                           as possible after the unit
+                                    receives the warning order or
+       o Enemy situation templates  OPORD . I f t h i s i s t h e c a s e ,
+provide a picture of the            assets can be sent out after
+enemy’s location and probable       you and the S3 have developed
+COA.                                the rough draft R&S plan.
+                                    Later, as you and the other
+       o Event templates indicate   staff officers refine the R&S
+where and when the enemy can        plan, you can adjust the assets
+                                    and their instructions.
+
+                                    5-3
+
+
+---
+
+FM 34-2-1
+
+                                   (Classification)
+
+*          *                    *  *                  *  *                        *
+
+ANNEX B (Intelligence) to OPORD 19...
+
+REFERENCES: Map sheets
+
+3. Intelligence acquisition tasks.
+
+     a. TF 1-6:
+
+                    (1) Establish  surveillance sites along routes TOM and
+HARRY to provide early             warning of enemy flank attack NLT 181500U
+
+JAN94.
+
+                      (2) Send  CR patrols along the  FIBEL river and  the
+DICKEL ridge line               NLT 181600U JAN94 to  confirm or deny  the
+presence of enemy               recon elements.
+
+     b. TF 1-68:
+
+                     (1) Establish screen along the east side of the NEILSON
+AQUADUCT NLT 181500U JAN94. Establish surveillance positions
+near the intersection of AUTOBAHN 67 and 4 to provide early
+warning of enemy reinforcements.
+
+                      (2) Send a CR patrol in the  forests southeast of
+KIBBLESNBITS capable of destroying a               reinforced BMP Company
+NLT 181700U JAN94.
+
+                                   (Classification)
+
+                                                                       Yo vo ott
+
+5-4
+
+
+---
+
+                                             FM 34-2-1
+
+                       CHAPTER 6
+
+THE RECONNAISSANCE AND SURVEILLANCE OVERLAY
+
+      The R&S overlay is the R&S        o Map sheet scale.
+plan in graphic form. The               o Map sheet number.
+purpose of the R&S overlay is           o Map sheet series.
+to show the assets and the key          o The “prepared by” line.
+staff officers exactly where            Another portion of the
+the R&S assets are operating.     administrative data is the
+You will extract most of the      legend. The legend contains
+overlay’s graphics and symbols    any nonstandard FM 101-5-1
+from FM 101-5-1. Additionally,    graphics used. It also
+due to the various R&S            contains detailed written
+operational techniques, you       instructions to each R&S
+will need to construct some       asset. These detailed
+"homemade” graphics and explain   instructions should focus on--
+them in the legend.                     o The required operational
+                                  times. You should give each
+      There are two parts to the  asset both a start and a finish
+R&S overlay. The first part is    time for each mission, as
+the graphic display of deployed   applicable.
+or planned deployment of R&S            o The target. To answer
+assets. The second part is the    the PIR, you need to look for
+marginal data consisting of the   specific indicators. Each
+legend, administrative data,      asset should be told exactly
+specific instructions to each     what to look for (such as type
+asset, and the distribution       units, equipment, and specific
+list.                             a c t i v i t y ) . Never give
+                                  broad-based generic missions to
+      The marginal information    “go out and look for and report
+found on the overlay consists     on anything that moves.”
+of the standard wording found     Specific guidance will promote
+on all overlays. The              specific answers.
+administrative data is
+comprised of the following:
+
+      o Classification.
+      o Overlay title.
+
+o Registration marks.                   o Coordinating
+o Map sheet name.                 instructions. All assets will,
+                                  at one time or another, move
+
+                                             6-1
+
+
+---
+
+FM 34-2-1                                 o Sectors of scan for
+through or near another unit's     sensors.
+AO . To keep units from
+shooting friendly R&S assets,             All of these control
+assets and units must              measures, except R&S limit of
+coordinate with each other.        responsibility, are found in
+It is also important that          FM 101-5-1. The R&S limit of
+R&S assets coordinate among        responsibility comes down from
+themselves.                        higher headquarters along with
+                                   other R&S guidance. This limit
+       o Reporting requirements.   is a control measure that
+All assets should know when,       informs subordinate units of
+how often, and what format         the limits of their R&S
+to use when reporting. You         operations. It can be
+should provide frequencies,        represented by a dashed line
+alternate frequencies, and          (- - - - ).
+reaction during jamming. You
+must also provide the NLT                 Remember, it is important
+time for specific information      to include detailed
+to be reported.                    instructions for each R&S asset
+                                   on the overlay. This method is
+       Initially, the locations    known as the overlay method for
+for assets are areas in which      distributing written
+you recommend they deploy.         i n s t r u c t i o n s . Another method
+After the assets have gone         is known as the matrix method.
+to these areas (NAI), they         The R&S tasking matrix is the
+report to you or the S3 the        matrix used for this method.
+actual locations in which          (See Appendix A.) Figure 6-1
+they can conduct their             shows an R&S tasking matrix.
+missions. You or the S3
+updates the graphics to                   Figure 6-2 is an example of
+show actual locations.             the R&S plan graphically
+                                   portrayed on an overlay with
+       Control measures are as     detailed instructions to each
+follows:                           asset written on the bottom of
+                                   the overlay. Attach the R&S
+      o Friendly boundaries, R&S   tasking matrix to the bottom
+limit of responsibility, NAI,      of the R&S overlay. The matrix
+start points (SP), release         provides the following
+points (RP), and checkpoints.      information:
+
+      o Graphics depicting route,        o The first column shows
+area, and zone reconnaissance.     the priority of each mission.
+                                   This number should correspond
+      o Primary, alternate, and    with the PIR number.
+supplementary positions.
+
+6-2
+
+
+---
+
+                                                                                          (uoneoyisseio)
+
+                                                                  -51d
+
+                                                     -NOISSIAN
+
+                                                     LHVIS                                a oLliualiosiinoilss
+
+                                      |ALINOIHd IVN                     SNOLLONHLSNI/UIS                  ulHlo  Ni
+                                                                                                          Lin    a4    NOLLVNIGHOOD
+                                                                                                                                     $1HuOd34
+                                                                                                          ivia   Yivi
+                                                            dOls
+                                                                                                          |§ls   si
+
+     Figure 6-1. R&S tasking matrix.
+
+6-3                                                                                       (uoneoysse|o)                                        FM 34-2-1
+
+
+---
+
+FM 34-2-1
+
+so             R&S overlay 91-3 (Defense)               Map sheet series: M748
+               Map sheet: AUSGABE                       Scale: 1:50,000
+
+               Map sheet No: Vil                        Prepared by: CPT Polk
+
+     TF1-71                              R&S LIMIT                                                              ° ‘
+
+                                                                                                                         — L
+                                                                                                                                      omen e csoteceee
+
+     A2      A                                                                                       LIMIT
+                      f
+                          r4
+
+                                                               iahteeateaneananell
+
+                                                                                  |
+             \. @_ ROUTE WATER                     NAI 5
+
+                                                                                                     R&S
+
+                                                   eos                                               NAI 3
+
+TF3-68                                                    NAI 6                               Q |           /
+
+TF2-68         ‘7 R&S LIMIT                                                                          us
+
+                                   seee
+
+                                                                                              ee                18
+
+INSTRUCTIONS:                                                                                               46
+
+SCOUTS: Establish forward screen NLT 1600 at coordinate —____-... Target enemy recon (BRDM, BMP, tanks).
+Coordinate with B Co for route to screen position and GSR team.
+
+REMBASS: Establish two strings vicinity            and ——— NLT 1800. Target enemy dismount recon and MR troops
+
+infiltrating along forest trails. Coordinate passage with B Co, Scout platoon, and GSR team.
+
+GSR: Establish position A1 vicinity        NLT 1700. Target enemy recon (BDRM, BMP, tanks, dismounted troops).
+
+Coordinate with A Co for passage, Scout platoon, and REMBASS team. Establish position A2 on order. Coordinate with
+B Co for position. Establish position B1 vicinity
+                                                   NLT 1700. Target enemy recon. Coordinate with B Co for passage,
+Scout platoon, and REMBASS team. Establish position B2 on order. Coordinate with C Co for position.
+
+PATROLS: A Co conduct recon and security patrols in Zone Duck. Begin patrols NLT 1830 and run them sporadically until
+0600, Target enemy dismounted troops, BMP, and BRDMs. Coordina'te with GSR team and Scout platoon. C Co establish
+screen along southern flank NLT 1800. Target enemy recon, BMP, BRDM, tanks. Coordinate with Scout platoon
+and GSR team.
+
+OP/LP: Position as per battalion R&S SOP.
+
+REPORTS: Report on battalion intelligence net using SALUTE format.      Patrol leaders report on intelligence net after  each
+patrol. Report combat information on intelligence or operations net.  Assets report using schedule in R&S SOP.
+
+React to jamming as per battalion TAC SOP.
+
+DISTRIBUTION: A, B, and C Companies, Scout platoon, GSR team, REMBASS team, $3, FSO, and brigade $2.
+
+               Figure 6-2. R&S overlay with instructions on acetate.
+
+6-4
+
+
+---
+
+      o The next column provides                                        FM 34-2-1
+the asset with the NAI number
+and grid coordinate.               assets to receive clear,
+                                   specific instructions.
+      o The start/stop column
+informs the asset the times              Disseminating the R&S
+for this mission.                  plan to all the assets can
+                                   be a problem. When the R&S
+      o The SIR column explains    plan reaches the dissemination
+to the assets exactly what         phase, the assets are usually
+they are looking for (target).     scattered great distances
+                                   over the battlefield. In
+      o The next set of columns    some instances the R&S plan
+lists the actual assets tasked     is disseminated by courier.
+to conduct each mission. An        To ensure all assets receive
+“X" placed under each asset        their copy, write each asset’s
+identifies the tasking.            title directly on the
+                                   distribution list, plan,
+       o The coordination column   or overlay. Exchanging
+tells the assets which units       brigade or battalion R&S
+to coordinate with for this        plans with adjacent units
+mission.                           ensures proper coordination,
+                                   minimizes the risk of
+       o The last column provides  shooting friendly soldiers,
+the assets with reporting          and cuts out unnecessary
+requirements.                      redundancy.
+
+       We have discussed two              Chapter 5 provides
+ways to distribute                 additional methods for
+instructions; however, the         disseminating R&S
+method is not important.           requirements. See FM 34-80,
+What is important is for           Appendix E, for another sample
+                                   R&S overlay.
+
+                                   6-5
+
+
+---
+
+                                            FM 34-2-1
+
+CHAPTER 7
+
+MONITORING THE RECONNAISSANCE
+     AND SURVEILLANCE EFFORT
+
+      During the battle, your               term "high payoff target," or
+commander will probably have                HPT? These are specific enemy
+several PIR that need to be                 weapon systems or specific
+answered. As the S2, you will               enemy units that are identified
+weigh those PIR in some way to              which must be destroyed,
+organize your collection                    degraded, or suppressed for
+e f f o r t . Remember the first            your unit to succeed in its
+principle of R&S: t e l l                   mission. Many times, locating
+commanders what they need to                an HPT may be one of your
+know in time for them to act.               commander’s PIR. Other times,
+                                            it might be an IR. In either
+      This principle implies                case, your R&S plan must
+that, as the S2, you must                   account for HPTs. During the
+monitor your collection effort              execution of your R&S plan, you
+at all times so you can make                must be able to identify HPTs
+sure you answer your                        and quickly forward their
+commander’s PIR.                            location to the S3 and FSO for
+                                            action. This is especially
+       If your commander develops           critical for CR operations.
+new PIR during the battle, you
+may have to modify your R&S                       Another reason for
+plan to address the new PIR.                monitoring your R&S operation
+Suppose a PIR becomes obsolete.             is to keep track of your asset
+For example, let's say your                 status and location. You will
+commander was very concerned                need to know which of your
+about enemy reconnaissance                  assets are still mission
+locations. This PIR would be                capable and which are
+valid as your unit prepared to              inoperative, so you will not
+cross the LD/LC. However, once              waste time retasking inoperable
+your unit consolidates on its               assets. Obviously, if you need
+objective, this particular PIR              to retask assets from one
+would be less important. The                location to another, you need
+point is, you should constantly             to know where those assets are.
+monitor the status of your R&S
+effort so you will know when to                    One technique to keep track
+update PIR or to modify your                of your assets is to have them
+R&S plan.                                   report in at predetermined
+                                            intervals based on METT-T,
+               TRACKING TARGETS             criticality of the area covered
+                  AND ASSETS                by the asset, or communications
+                                            a v a i l a b l e . You can even show
+       There are other reasons you          this graphically by using TPLs
+must monitor your R&S or                    for moving assets.
+c o l l e c t i o n p l a n . Remember the
+
+                                            7-1
+
+
+---
+
+FM 34-2-1                           happening on the battlefield.
+                                    The company commander or
+       For example, let us say you  platoon leader is preoccupied
+have given your scouts the          with fighting and winning the
+mission of route                    battle.
+reconnaissance. On your event
+template, you have developed a             Nevertheless, do not accept
+series of TPLs depicting            incomplete information! If a
+15-minute increments. As your       spot report lacks the type of
+scouts cross a TPL, they report     vehicle, number of vehicles, or
+in to you. In this way, you         direction of movement, get back
+can easily monitor where your       on the radio and ask for it.
+scouts are on the battlefield.      If your scouts send back a
+ (Instead of TPLs, you can use      report that does not make sense
+existing friendly control           to you, ask for clarification.
+graphics as well.)                  If you have not heard from your
+                                    ground surveillance radars for
+       If you lose contact with     an unusually long time, call
+your scouts, you at least have      them and ask for a situation
+an approximate idea of where        report.
+they last were. When you use
+TPLs, try to have recognizable             You should enforce negative
+features represent them.            situation reports at
+Figure 7-1 is an example of         predetermined intervals. Too
+this technique.                     many times in the past, S2s
+                                    thought no news was good news.
+           EVALUATING HOW YOUR      They were content to sit in
+                ASSETS REPORT       their vehicles in silence. Be
+                                    aggressive ! Remember, you are
+       You should monitor your      trying to answer your
+R&S plan to evaluate how well       commander’s questions. You
+your assets are reporting           cannot, and commanders cannot
+information back to you. If         do their jobs, unless incoming
+your assets are not reporting       information is timely,
+quickly enough, accurately          accurate, and complete.
+enough, or reporting the wrong      Nevertheless, you must be
+information, you will need to       realistic.
+make corrections.
+                                          There is much confusion in
+      At the brigade and            battle, and some information
+battalion levels, many times        will not be attainable. You
+you will find your assets may       cannot tie up the radio nets
+not always provide you with         trying to get "perfect"
+timely or complete information.     reports. Some information you
+There are many reasons for          will have to live without.
+this. Most of the time it is
+difficult to discern what is
+
+7-2
+
+
+---
+
+                                                                FM 34-2-1
+
+        HIGHWAY 3  RAILROAD                      BLUE RIVER
+
+                         H + 30 min:         H + 45 uD mi //iq
+        H+145 min
+                                        R&S LIMIT
+
+                                      Fa —
+
+        —_7
+
+“i -&)  ——tL ~ eee meee                       +                 -
+                                                 —_——— | [
+                      R&S LIMIT
+
+        HIGHWAY 3                                               BLUE RIVER
+
+                                      RAILROAD
+
+        Figure 7-1. Time phase line control.
+
+                                                                   7-3
+
+
+---
+
+ FM 34-2-1                          and their location. Later,
+       The reporting criteria you  however, you discover that
+                                    in order to answer your
+have specified in your             commander’s PIR, you must
+ intelligence annex or on your     calculate the enemy rate of
+R&S overlay will tell your         advance. You should modify
+assets how and when they are to    A Company's reporting criteria
+report. As you monitor your        to include speed and direction
+R&S operation, you should          of movement.
+evaluate two things:
+                                          Remember a good R&S
+       o Are my R&S assets         collection plan tells the
+reporting per my published         commander what he or she needs
+reporting criteria?                to know in time for the
+                                   commander to act. Therefore,
+       o Are my published          assets must report information
+reporting criteria adequate to     to you quickly so you can
+provide the specific               process and relay it to the
+information used to answer my      commander, S3, or FSO. It
+commanders PIR?                    does no good to report an enemy
+NOTE : Sometimes reports using     counterattack 30 minutes after
+only size, activity, location,     the fact. As the S2, you need
+and time (SALT) will be more       to enforce timely reporting of
+feasible and timely than the       information.
+full size, activity, location,
+unit, time, equipment (SALUTE)            Here again, the commander
+report.                            and/or the S3 can help.
+                                   Remember, be aggressive! The
+       If your assets are not      S2 must also inform the
+reporting per your criteria,       commander when information on
+it is simple to correct the        the PIR cannot be collected or
+asset; your S3 can help with       if the R&S assets have been
+t h i s . However, you should      destroyed.
+continually assess whether or
+not your reporting criteria                     MANAGING PRIORITY
+are sufficient to give you                INTELLIGENCE REQUIREMENTS
+answers to your commander’s               Now that you have evaluated
+questions.                         reporting, assume that you have
+                                   been able to answer your
+       If your assets are          commander’s first PIR. The
+reporting per your criteria        next logical step is for you
+and you are not getting the        to focus your R&S effort on
+detailed information you need,     answering the commander’s
+you should consider modifying      second highest PIR, then the
+your reporting criteria.           third, fourth, and so on.
+                                   Realistically, your R&S plan
+      For example, let us suppose  will probably address more
+you wanted A Company to report     than one PIR simultaneously.
+enemy motorized rifle units by
+number and type of vehicles
+
+7-4
+
+
+---
+
+The point for you to remember                                        FM 34-2-1
+is that R&S does not stop.        be important, and another time
+Once you have satisfied a         when the PIR will no longer be
+requirement, shift your           a valid concern. For example,
+attention to the next             let us suppose your unit's
+highest priority.                 mission is to attack.
+                                  Initially, the most important
+      Many times you may have     thing your commander might need
+answered a PIR out of             to know is the location of
+sequence. For example, you        enemy reconnaissance and
+may be able to answer PIR 2       security zone units.
+and 3 although you still
+have not been able to collect           However, a f t e r a c e r t a i n
+enough information to answer      point in the attack (after you
+PIR 1. Or you may find the        have penetrated the security
+battlefield situation has         zone) , this question becomes
+changed so drastically your       meaningless. Now, the most
+PIR 1 is no longer a valid        important thing might be to
+concern.                          locate the enemy's main
+                                  defensive area. Once you have
+      These cases prove you must  consolidated on the objective,
+continually reevaluate the s      the most important thing might
+priority of your commander        be locating any possible enemy
+PIR. If you have answered PIR     counterattack. Therefore,
+2 and 3, does PIR 4 become your   before the attack, your
+second priority? If PIR 1 is      commander’s PIR might look
+no longer a valid concern, does   like this:
+PIR 2 become your top priority?
+You must support your                    o PIR 1: What are the
+commander. Knowing and            locations of the 34th motorized
+understanding your commander’s    rifle regiment (MRR)
+intent will help you reevaluate   reconnaissance and platoon
+priorities and anticipate         strong points in the security
+possible changes, as will a       zone?
+solid relationship with your
+commander and S3.                        o PIR 2: What are the
+                                  locations of the 34th MRR’s
+       One useful technique that  MRC and AT positions within
+will aid you in managing PIR      the main defensive area?
+priorities is to "time phase"
+your commander's PIR based on            o PIR 3: What is the
+how you anticipate events on      location of the 4th Tank
+the battlefield. Essentially,     Battalion (TB) (-) of the
+you tie each PIR to a phase in    34th MRR?
+the battle through use of the
+DST.                                     Once you have reached your
+                                  intermediate objective, you
+       Normally, each PIR has a   might change your commander’s
+time relative to a point in the   PIR priorities to look like
+battle when answering it will     this:
+
+                                                                              7-5
+
+
+---
+
+FM 34-2-1                                 0 Where you want your
+       ° PIR 1: What are the       R&S assets to shift their
+                                   attention.
+locations of the 34th MRR's
+MRC and AT positions within               o Where you want those
+the main defensive area?           assets to actually move.
+
+       o PIR 2: What is the               o What you want your assets
+location of the 4th TB (-)         to look for.
+of the 34th MRR?
+                                          o How you want your assets
+       o PIR 3: What are the       to report.
+locations of the 34th MRR's
+reconnaissance and platoon               Here is where doing your
+strong points in the security      homework (IPB) ahead of time
+zone?                              comes in handy. If most or
+                                   all of your IPB products were
+       In fact, you might delete   prepared ahead of time, all
+PIR 3 altogether. Later, as        you need do is review and
+you consolidate on your            update those products as
+subsequent objective, you may      necessary.
+reprioritize like this:
+                                          Looking at your updated
+       o PIR 1: What is the        situation templates and event
+location of the 4th TB (-)         templates will give you a good
+of the 34th MRR?                   idea of where to shift your R&S
+                                   focus , and what you should
+       o PIR 2: What are the       expect to see. Your updated
+locations of the 34th MRR's        terrain and weather products
+MRC and AT positions within        will tell you where to place
+the main defensive area?           your assets.
+
+      Since PIR relate to events         However, if you have not
+on the battlefield, you can        been able to update or produce
+anticipate them by war gaming;     situation and event templates,
+and enter these changes onto       or you have advanced past your
+the intelligence BOS of your       AI, you still need to mentally
+unit's DST. Figure 7-2 shows       envision what you think the
+the process of time phasing        enemy will look like on the
+PIR .                              terrain, applying the effects
+                                   of weather. Your mental
+    MODIFYING THE RECONNAISSANCE   picture will help you quickly
+          AND SURVEILLANCE PLAN    come up with NAI and TPLs.
+
+      Whether modifying reporting        The next step is to retask
+requirements because of new        your R&S assets. Remember,
+reporting criteria or because      when you shift your R&S assets,
+of new or modified PIR, you        their vulnerability to enemy
+must be ready to change your       collection and target
+R&S plan to fit the commanders
+needs. Basically, you will
+have to decide--
+7-6
+
+
+---
+
+H+5 hrx f aL                                                                                    FM 34-2-1
+H+4
+H+3 hr                                                                            ||                           H+5 hr
+H+2 hr
+                                                                                      |
+          AXIS
+        MEADE                                                                                                     H+4 hr
+
+H+ 1hr                                                                                                           H+3 hr
+
+                                                                                                  PIR NUMBER
+                                                                                                  1. MAIN DEF AREA
+                                                                                                 2. TANK BN (-)
+
+                                                                                                                 H+2 hr
+
+                                                                                       [a
+
+                                                                                                 PIR NUMBER
+
+                                                                                       X 4. MAIN DEF AREA
+
+                                                                                                 2. TANK BN (-)
+
+                                                                                                                H+ 1hr
+                                                                                            PIR NUMBER
+                                                                                            1. RECON, SCTY ZONE
+                                                                                            2. MAIN DEF AREA
+                                                                                            3. TANK BN (-)
+
+                Figure 7-2. Time phasing PIR.
+
+                                                                                      7-7
+
+
+---
+
+FM 34-2-1                          vehicles (possibly reinforced    Pan fades
+acquisition capabilities may       with tanks) up to platoon size
+change.                            (three vehicles). You have
+                                   also told the GSR team they
+                TASKING ASSETS     must coordinate with A Company,
+       Chapter 5 described many    and should report targets by
+ways of tasking assets,            type (light or heavy wheeled
+including using a matrix           and light or heavy tracked) and
+format. A matrix is easy to        number of vehicles, location,
+use and can be quickly             speed, and direction of
+modified. Figure 7-3 is an         movement.
+example of a modified matrix.
+       Each column has a letter           Figure 7-4 shows a similar
+designator. For example, the       R&S tasking matrix with its
+Priority column is "A," the NAI    horizontal lines numbered and
+column is “B,” and so on. The      its vertical columns identified
+lettering makes it easy to         by letters. Use this system if
+quickly assign a new R&S           you wish to modify only one
+mission, or modify an existing     specific asset tasking on the
+mission. All you need do is        matrix. For example:
+transmit pertinent information
+within each column. For                   o Line 3C - 8.
+example:                                  o Line 3D - AB434160.
+      o Column B - 4.                     o Line 3E - Refer to 7E.
+      o Column C - 1800 to 2000.          In this example, you have
+      o Column D - BRDM, BMP,      just told Task Force 1-10 to
+platoon-size (three vehicles)      establish an OP at an NAI.
+with possible tanks.               The OP is to observe an
+      o Column L - Action.         alternate position for an
+      o Column N - Coordinate      MRC at NAI 8. You updated
+with ECHO.                         the mission of one asset
+      o Column O - Report by type
+(light and heavy wheeled and       without reconstructing the
+tracked), number of vehicles,      entire matrix.
+location, speed, and direction
+of movement.                             These are just two examples
+      You have told the attached   of a technique you can use to
+GSR team to monitor NAI 4 from     quickly retask your deployed
+1800 to 2000. They should          R&S assets. There are many
+expect to see BRDM or BMP          more. The key is to establish
+                                   a standard to quickly and
+                                   easily modify your R&S plan
+                                   based on your commanders
+                                   changing needs.
+
+7-8
+
+
+---
+
+                                                /div                    9                                      a                                                   4la |S} H Ei Wise                           d                                                         Oo
+
+                                                WN] 3                                                                               SNOLLONULSNI/UIS                              ay ale                                           NOILVNIGHOO9                              SLUOdaH
+                                                                  HVLS                                                                                             Vv  3;a19      |S); YIDIN
+
+                                                2                                                                                                                  0D 09 99/9909  9 |0 $|/ 3]
+
+                                                —                                                                                                                                 L Vi     Vv
+
+                                                3                       dOLS                                                                                                      yls      Ss
+                                                                                                                                                                                                                                                             FM 34-2-1
+                                                   it ||b OO9L|               ‘UAUAA|         ‘BiBYM              pue JEYM                                                                     UM g 0D 10J aNd!                                  18d) Uq S8H "dOS
+                                                                                                                                                                                       s$
+                                                         Z                    ad/} juawdinbe                        saop eu)                                                      x            0} Uaas0s       ‘uonIsod
+
+                                                           €                  Udde!      UoWAala                   Zaaey                                                                       UIA YS wee} pue
+
+     Figure 7-3. Example of a modified matrix.                                og jou ‘abeBue                                                                                                   SSVAINSAY       "weal
+
+                                                + 2] |OOS                     |moH si Awaus                       EBunesyyur                                                                   UUM © 0D 40}                                      YOdeY UO jaju! Jeu UaYM
+
+                                                    €                         UD JOO] JO ZA|DIUBA                                                                                          x   ‘eBessed                                          JOU payedo}|09              YM ‘QOL
+                                                                              poads pue uoI}OaJID                                   JO                                                                                                           yoday AiaAse sp seinuiw
+                                                                              gquewerow                                                                                                        UA ynoos uooje|d
+                                                                                                                                                                                                                                                 Woy ‘000Z-008}              -00€Z
+                                                                                                                                                                                               Pue YSO Wes}                                      ‘OEZO PUue ‘0€90-00%0
+
+                                                                                                                                                                                                                                                            JEUIO        JO} IOS BAS SunoY
+
+                                                                                                                                                                                                                                                 ayewaye             ‘Aouanba
+
+                                                   st |z ||00Zl ewes                     se ‘aaoge                                                                                             UM Y Puke g OD 10} |YOdaY                                           UO JayU! "JU
+
+                                                      rs                      usiiqeis3               ayewaye                                                                                  ebessed         0} ‘Ssuonsod                      |eayeBey            suodas pauinbes
+
+                                                                              suoNIsod                0} Jamsue                     ‘awies                                              x      WIM ynoos uooyejdpue      SSVEW3SY  “Weal— ‘Aunoy|          JO} jOS ees}               ayeusaye
+
+                                                                                                                                                                                               J04 eyeuaye               ‘seus                   ‘Aquanbay
+
+                                                AwauUa Si MOH] OOSI| 9 |2                                                                             -JaWOUUODSI                                         pue dOS S?uy Uq Jed uoojejd INoos UUM
+                                                                                                                                                                                               g pue 0 ‘0D
+
+                                                                              BUI au; Wauinos                                 yuey                                     x                       pue HSH wea}                                      /eonoer) dos
+                                                                              uj6uans                 pue ed}
+                                                                                                                                                                                                                     .                                              .
+
+                                                   2 |FY OES) |ONPUNYD  O}               si MOH "YONG BUuOZ]                                          Aweuea                                              ‘We3] HSH pue                                     dOS [B9h0e}
+                                                                 0090 |Buuayouuoses                   BUOZ UO98J Ul                                                                            UWA INoos uooje|d                                 Jed ug Sey dOs pue
+
+                                                                                                                  usauyou                                          x
+
+7-9                                                € Gi 0061; jonpuog|                                Awinoas                 pue                                                              UA InNods uoojejd                                 Jed Ug 98H dOS pue
+
+                                                                0} uodas|                sjoujyed Buoje anos                                                                                   pue HSH “Wwee}]                                   [eonoe}           "dOS
+
+                                                                            sdoosy       Ajay] ‘Burenyyut
+
+
+---
+
+FM 34-2-1
+
+        A      B     Cc  D                               E                                    F
+                                                                                        REMARKS
+UNIT TASKING |PRIORITY| NAI |LOCATION;  REPORTING REQUIREMENT
+                                            EVENT OR INDICATOR                   Report as
+                                                                                 obtained.
+TASK FORCE               See R&S | Conditiothnast affect trafficability
+         1-10
+                         overlay        and maneuver ability.
+
+Recon axis        1                     Obstacles: Type, size, and
+
+                                        orientation.
+
+speed.
+
+Recon.               2 | AB474155 | 2 to 3 x BMP2’s, 1 x T45B;                   Possible combat
+                     2A _ | AB466136 | possible obstacle (single strand          security outpost.
+                                                                                 Report NLT
+                                                    wire concertina).            010100Z SEPXX.
+
+Establish OP.        6A | AB427185 | Surveillance of activities on OBJ _| Establish position
+Recon.
+                                        CAT                                      NLT 312200Z.
+Recon.
+Recon.                                                                           AUGXX.
+
+                     4   AB453165       {3 x MRP’s with 7 to 8 x BMP2’s, | Report all fighting
+
+                     4B | AB430145      /2 to 3 x T64B’s in prepared             positions.
+
+                     4A | AB453138      |positions. Main obstacle array          Report obstacle
+
+                                        is from 800 to 1,000m forward            type, size, and
+
+                                        ofMRC position.                          orientation NLT
+
+                                                                                 101200Z SEPXX.
+
+                     6 AB434160 {2 to 3 x ATS(BRDM) systems or | Possible MRB
+
+                                        2 to 3 x T64Bs.                          reserve. Report
+
+                                                                                 as obtained.
+
+                     8 AB410158 |3 x MRP’s with 7 to 8 x BMP2’s| Report all fighting
+
+                                        in prepared fighting positions.          positions,
+
+                                                   Obstacle array 800 to 1,000m  Report obstacle
+                                                    forward of MRC positions.    type, size, and
+                                                                                 orientation NLT
+                     8A | AB450103 |Alternate position for MRC at                011200Z SEPXxX.
+                                                    NA 8.
+
+                     Figure 7-4. Modifying an R&S matrix.
+
+7-10
+
+
+---
+
+                                          FM 34-2-1
+
+CHAPTER 8
+
+         AUGMENTING OR TASK ORGANIZING
+RECONNAISSANCE AND SURVEILLANCE MISSIONS
+
+      Data gathered from          under the C2 of subordinate
+different training exercises      units. Both of these
+and the training centers          concepts --augmenting and task
+indicate maneuver battalions      organizing --can be used to
+typically overuse the scouts.     implement productive R&S plans.
+Very often the scout platoon is   The following examples provide
+the only R&S asset actively       augmented or task organized R&S
+collecting on the battlefield.    missions and what each
+This usually results in a dead    accomplishes.
+scout platoon, and many
+unanswered PIR. To increase           TASK ORGANIZED WITH ENGINEERS
+the effectiveness of the scout              AND ARTILLERY FORWARD
+platoon, other R&S assets, and              OBSERVERS ATTACHED TO
+the overall collection                      RECONNAISSANCE PATROL
+capability, you should augment
+or task organize as many R&S             In this example you want to
+missions as possible.             deny or confirm enemy activity
+                                  at NAI 1 and to check on
+      Augmenting and task         obstacles and booby traps along
+organizing are two different      the road. You also want to see
+concepts that strive for the      if the enemy has begun to
+same end result. In this field    prepare a possible fording site
+manual, the term “augmenting”     at NAI 2. Based on key
+is used to describe using         intelligence you have provided,
+numerous assets at the same       the S3 decides to send a
+time to support the R&S plan.     mounted patrol for this
+You task with independent or      mission. To increase mission
+dual R&S missions to augment      effectiveness, the S3 also
+the R&S effort; units are not     attaches some engineers and
+augmented.                        artillery FOs. Figure 8-1 is a
+                                  sample R&S task organization
+      There are circumstances in  with engineers and artillery
+which you do not wa2 nt to place  FOs attached to reconnaissance
+R&S assets under C of some        patrol.
+of your subordinate units; you
+or the S3 want to maintain              The engineers will be able
+control of these assets to task   to inform you of tampered-with
+or move them quickly without      obstacles and adjusted roadside
+disrupting the other units.       booby traps. The FOs will be
+                                  able to call for indirect fire
+      There may be times when     if the patrol finds any
+you or the S3 want R&S assets     prepared fording or bridging
+
+                                          8-1
+
+
+---
+
+FM 34-2-1
+
+           ROUTE STEP
+
+     FEBA
+
+     Figure 8-1. Sample R&S task organization with engineers and
+                    artillery FOs attached to reconnaissance patrol.
+
+sites along the river. In this      to extended reconnaissance
+example you have three             patrol. In this example you
+elements, each complementing       have a reconnaissance patrol
+the overall effectiveness of       conducting a zone
+the reconnaissance mission.        reconnaissance in Zone Buck.
+The reconnaissance element must    Due to the extended range of
+receive instructions to clear,     the patrol and the terrain,
+mark, breach, and/or bypass        radio communications will not
+instructions before mission        reach from Zone Buck to the
+execution.                         TOC . You also have two NAI, 4
+                                   and 7, needing surveillance
+      TASK ORGANIZED WITH SIGNAL   during a particular time
+      ASSETS, OBSERVATION POST,    window. NAI 4 is a high speed
+                                   avenue of approach exiting the
+          AND FORWARD OBSERVERS    battalion to the north. AI and
+          ATTACHED TO EXTENDED     NAI 7 is a road intersection.
+          RECONNAISSANCE PATROL    To augment this patrol you have
+      Figure 8-2 is a sample task  a signal retransmission
+organization with signal           element, OP, and artillery FOs
+assets, OPs, and FOs attached      attached to the patrol.
+
+8-2
+
+
+---
+
+                                               FM 34-2-1
+
+r L
+            0
+
+r oO QD DADIDIDIIDIIU
+
+                       Figure 8-2. Sample R&S task organization with signal assets,
+                             and FOs attached to extended reconnaissance patrol.
+
+      The retransmission element               platoons. Figure 8-3 is a
+enables the reconnaissance                     sample of R&S task organiza-
+patrol to report what is in                    tion with scout and infantry
+Zone Buck; the OP and FO enable                platoons.
+you to have surveillance of the
+NAI; and the FO allows you to                         The scout platoon leader
+interdict any targets moving                   is the reconnaissance commander
+along the NAI or the roads.                    for this particular mission.
+                                               The battalion has cross-trained
+           SCOUTS WITH INFANTRY                one of the infantry platoons as
+       In this example your                    the backup scout platoon. The
+battalion is preparing to                      scout platoon and the backup
+conduct a raid on Objective                    platoon mark crossing sites and
+Bear. The terrain along the                    infiltration routes while the
+river consists of thick                        other infantry platoon provides
+f o r e s t s . You only have two              security. Once the scout
+hours to reconnoiter from the                  platoon has marked the routes,
+LD to the objective and to mark                they dismount and reconnoiter
+i n f i l t r a t i o n r o u t e s . You and  Objective Bear while the two
+the S3 decide to task organize                  infantry platoons provide
+this mission with the scout                     security.
+platoon and two infantry
+                                                                                            8-3
+
+
+---
+
+FM 34-2-1
+
+            U UME
+
+           rBML
+
+     Figure 8-3. Sample of R&S task organization with scout and infantry platoons.
+
+       D COMPANY, SCOUT PLATOON,  platoon is conducting a screen
+        AND GROUND SURVEILLANCE   in the north. Two GSRs are
+         RADAR EFFORT AUGMENTED   providing surveillance of the
+       Figure 8-4 is a sample     flanks. Each asset is
+of an augmented R&S platoon       conducting an independent R&S
+mission. In this example your     effort. This particular
+battalion is in the defense and   mission concept allows you or
+has tasked Company D to conduct   the S3 to move or assign
+a route reconnaissance and        additional missions to these
+provide surveillance of NAI 3     assets with minimal disruption
+for four hours. The scout         to the entire battalion.
+
+8-4
+
+
+---
+
+TF 2-1 FEBA                                                     FM 34-2-1
+
+                  oa
+
+                   HIGHWAY 12
+                         ROUTE SWAT
+
+             LEE  NOTE: Onsome missions you may
+                                  substitute OPs with GSRs.
+
+aia
+
+               Figure 8-4. Sample augmented with D Company,
+                                      Scout Platoon, and GSRs.
+
+                                                                8-5
+
+
+---
+
+                                  FM 34-2-1
+
+CHAPTER 9
+
+RECONNAISSANCE AND SURVEILLANCE
+      IN OFFENSIVE OPERATIONS
+
+      Planning R&S missions in    detailed reconnaissance from
+offensive operations requires     the LD/LC to beyond the
+close coordination between the    objective. During this phase
+S2 , S3, FSO, and ALO. The        you need to plan missions which
+chance of fratricide multiplies   answer the PIR and provide the
+during these operations. The      commander and S3 with detailed
+reason is R&S assets are          information about the terrain
+usually conducting missions as    and enemy that lie between them
+the friendly units maneuver       and the objective.
+through these areas and engage
+possible enemy targets with             You should have assets
+direct or indirect fires.         first complete those missions
+                                  designed to provide specific
+      Detailed reconnaissance     information that will answer
+is the initial requirement        PIR, so gathered information
+for offensive operations.         can reach the TOC in time for
+Due to the limited time           the commander and the S3 to
+available to conduct detailed     make any changes to COAs or to
+reconnaissance, it is             finalize the OPORD. There are
+imperative you use, with          basically two areas in which to
+augmentation, all available       conduct this detailed
+reconnaissance assets.            reconnaissance: along the
+Recent training exercises         friendly AAs and at the
+reveal that many times S2s        objective.
+do not construct complete
+R&S plans for offensive                  RECONNAISSANCE ALONG THE
+operations. To make sure                     AVENUES OF APPROACH
+you construct complete R&S
+plans, consider three general           Typical reconnaissance
+areas when planning for           missions along the AA are to--
+offensive operations:
+                                        o Detect, pinpoint,
+      o Detailed reconnaissance.  classify, and report location,
+      o Surveillance of the       dimension, and type of all
+objective.                        obstacles (constructed or
+                                  natural).
+
+      o Ongoing R&S planning.           o Detect gaps or bypasses
+        DETAILED RECONNAISSANCE   of obstacles.
+
+      The first area of planning        o Provide surveillance
+consideration stresses a          and security of marks, gaps,
+                                  breaches, and bypasses of
+                                  obstacles.
+
+                                  9-1
+
+
+---
+
+      o Report trafficability                                         FM 34-2-1
+along AA.                          are providing coverage to the
+                                   maneuver elements while they
+      o Establish OPs overlooking  are preparing for this
+AA.                                offensive operation. It
+                                   appears to be two distinct
+      o Reconnoiter terrain and    R&S missions taking place at
+suspected enemy locations          the same time. The first
+capable of overmatching and        mission is providing support
+placing effective fire on the      to the units that are preparing
+AA.                                for the offensive OPORD. The
+                                   second mission conducts R&S
+      o Detect locations and       to answer PIR concerning the
+strength of enemy R&S assets       actual offensive operation.
+along the AA.
+                                              SURVEILLANCE OF THE
+          RECONNAISSANCE OF THE                        OBJECTIVE
+                    OBJECTIVE
+                                         Now it is time to focus
+      Typical reconnaissance       on the second area of planning
+missions in the area of the        consideration which stresses
+objective are--                    surveillance. Surveillance
+                                   focuses on--
+      o Pinpoint fighting
+positions. Provide strength,             o The objective.
+weapon orientations, and                 o Terrain along the
+description of fighting            friendly avenue of approach
+positions.                         (AA) .
+                                         o Possible enemy
+      o Detect obstacles           reinforcement routes.
+and prepare to mark.                     During this phase, you
+Detect breaches, gaps,             must make sure the S3 and
+and bypasses.                      all maneuver elements know
+                                   the locations of surveillance
+      o Reconnoiter area around    assets.
+the objective (area depends              Surveillance of the
+on METT-T) to detect possible      objective should detect any
+reinforcements or counterattack    changes while the friendly
+elements.                          elements are maneuvering
+                                   forward. The surveillance
+      o Establish OPs to maintain  assets report any enemy
+surveillance of the objective.     leaving or entering the
+                                   objective area.
+      As reconnaissance assets
+conduct these missions, you
+must ensure security,
+surveillance, and CR assets
+
+9-2
+
+
+---
+
+      Any terrain that can                                           FM 34-2-1
+control the friendly AA           second and third areas of
+should be covered with            planning considerations. A
+surveillance or controlled        key scout mission is
+by one of the seven BOS           maintaining visual contact
+listed at the bottom of the       with the enemy.
+DST.
+                                        If the unit's mission is
+      Any routes leading into     to occupy and defend the
+the friendly AA or the            objective, you should recommend
+objective should be covered       an R&S plan stressing early
+with surveillance to provide      warning and CR operations.
+early warning of an enemy
+counterattack or reinforcements         If the unit's mission is to
+approaching. Again, these         pursue the fleeing enemy, you
+surveillance operations occur     could recommend that scout
+while the friendly elements       elements provide flank security
+are maneuvering toward the        as other maneuver elements
+objective.                        conduct guard operations.
+
+      ONGOING RECONNAISSANCE AND        The most important aspect
+          SURVEILLANCE PLANNING   of the final planning
+                                  consideration is that it be
+      The third area of planning  planned out well in advance.
+consideration focuses on both     This ensures the assets are
+R&S missions. This area           prepared to execute the
+concerns planning R&S missions    mission, not reorganizing the
+once your unit takes the          objective.
+objective. The S3 can now task
+subsequent R&S missions to              The three areas of planning
+those assets which provided       considerations previously
+surveillance to the maneuver      stated work particularly well
+elements. These R&S missions      in a deliberate attack. You
+depend on the type of follow-on   can apply these same principles
+missions planned.                 for a movement to contact.
+                                  Do not be misled into thinking
+       If the unit's mission is   these three areas of planning
+to reconsolidate and prepare      considerations take place
+to continue the attack to a       independent of each other
+subsequent objective, you         at different times. On the
+should have a plan to continue    contrary, many times these
+R&S activities forward to the     missions overlap.
+next objective. Remember,
+planning is continuous. After           We have shown you a
+you accomplish this, your unit    technique for constructing
+can implement missions            complete R&S plans in
+discussed in supporting the       offensive operations. Refer
+                                  to Chapter 12 for examples.
+
+                                  9-3
+
+
+---
+
+                                           FM 34-2-1
+
+                               CHAPTER 10
+
+   INTELLIGENCE SUPPORT
+TO COUNTERRECONNAISSANCE
+
+      The S3 is in charge of            o Makes sure electronic
+the CR mission. However,          warfare support measures (ESM)
+the S2 plays a critical role      support any planned use of EW
+in developing the battlefield     against enemy reconnaissance
+situation in enough detail        elements.
+to allow the S3 to target,
+destroy, or suppress the                o Develops an R&S plan to
+enemy’s R&S assets.               find enemy reconnaissance well
+                                  forward.
+            STAFF OFFICERS
+                                        o Evaluates vulnerability
+      A number of staff officers  of R&S assets to enemy R&S
+participate in CR planning and    and target acquisition
+execution. Essentially, you       capabilities.
+must find the enemy’s
+reconnaissance units before               OPERATIONS AND TRAINING
+they can find and report back                           OFFICER
+on friendly unit locations.
+You must process information            The S3--
+quickly and pass targeting              o Integrates fire,
+data to the S3 and the FSO.       maneuver, obscurants, and EW
+Those staff officers involved     to destroy or suppress enemy
+in CR planning and execution      reconnaissance.
+are discussed below.
+
+           INTELLIGENCE OFFICER         o Task-organizes the unit
+      The S2 must be              to defeat enemy reconnaissance
+knowledgeable about the enemy,    well forward.
+weather, and terrain. Using
+this knowledge, the S2--                o Plans use of EW to
+                                  suppress enemy reconnaissance.
+
+      o Identifies enemy                o Determines and plans for
+reconnaissance HVTs.              use of engagement areas and
+                                  ambush sites (TAI).
+      o Recommends engagement
+areas and ambush sites                  o Determines HPT based
+(TAI).                            on the commander’s intent
+                                  and input from the S2 and
+      o Recommends HPTs.          the FSO.
+
+                                           10-1
+
+
+---
+
+FM 34-2-1
+
+      o Develops deception                 o Recommends the use of MI
+plans to deceive enemy              battalion assets, if attached
+reconnaissance.                     or in DS.
+
+      o Develops, executes,                o Informs the commander,
+and monitors the unit OPSEC         S2, and S3 of the status and
+program.                            location of MI battalion assets
+                                    within the unit's AO.
+      o Uses targeting data
+from the S2.                               o Acts as liaison between
+                                    the maneuver unit and the MI
+      FIRE SUPPORT OFFICER          battalion S3.
+
+      The FSO--                            o Provides expertise on EW
+                                    planning and use.
+      o Plans and coordinates all
+indirect lethal and nonlethal              o Receives priorities from
+means to destroy or suppress        the S3 and ESM priorities from
+enemy reconnaissance.               the S2.
+
+      o Provides appropriate fire             AIR DEFENSE ARTILLERY
+support coordination measures                             OFFICER
+to protect the R&S participants
+(such as no fire areas or                  The ADA officer--
+restricted fire areas).                    o Provides early warning
+                                    of enemy fixed-wing attack
+      o Uses targeting data         aircraft and rotary-wing
+based on FOS and organic or         aircraft.
+supporting target acquisition             o Plans for and provides
+radars.                             air defense coverage of
+                                    friendly units well forward.
+      o With the S2, recommends           o Recommends the use of ADA
+HPTs and TAI.                       assets.
+                                          o Needs information on the
+      o Needs targeting data  from  terrain and weather from the S2
+the S2 and also specific            to place assets.
+weather and terrain data                  o Receives information on
+for targeting and weapon            the air threat from the S2.
+emplacement.
+
+           IEWSE OFFICER
+
+      The IEWSE officer--
+
+10-2
+
+
+---
+
+       o Needs ADA priorities and                                      FM 34-2-1
+weapons status from the S3.         to best engage enemy
+                                    reconnaissance units. You
+              ENGINEER OFFICER      also recommend which enemy
+       The engineer officer--       reconnaissance elements are
+       o Recommends the placement   the most important for your
+and types of obstacles to stop      unit to destroy or suppress
+or slow down enemy                  (such as HPTs). This implies
+reconnaissance.                     close coordination and
+       o Provides the S2 with       synchronization among the S2,
+information on the state of         IEWSE, S3, FSO, and the rest
+the terrain and enemy special       of the staff.
+reconnaissance activities.
+       o Receives information on                  MISSION PLANNING
+the terrain, weather, and enemy            To plan the CR mission, you
+from the S2.                        should know something about
+       o Needs engineer priorities  how terrain and weather will
+and the unit scheme of maneuver     affect reconnaissance
+from the S3.                        operations. You should also
+                                    know threat reconnaissance
+              CHEMICAL OFFICER      operations, equipment,
+      The chemical officer--        doctrine, and tactics.
+      o Monitors contaminated       Remember, seek the assistance
+areas.                              of your CI team when evaluating
+      o Plans the use of            enemy capabilities.
+obscurants to suppress enemy              Each threat division and
+reconnaissance.                     regiment has organic ground
+      o Provides expertise on       reconnaissance units. These
+areas of likely enemy NBC use.      units either confirm
+      o Receives precise weather    information from other systems
+data.                               or develop their own
+      Several primary and special   information. They gather
+staff officers can provide you      information primarily by
+with information; however, they     patrolling and avoiding
+also require information from       contact. Reconnaissance units
+you . Remember, you are an          may conduct raids or ambushes
+integral part of the targeting      to gather information.
+process. You recommend where        Figure 10-1 shows division
+                                    reconnaissance assets.
+                                    Figure 10-2 shows regimental
+                                    reconnaissance assets.
+                                          Reconnaissance patrols will
+                                    usually be reinforced with
+                                    tanks or additional armored
+                                    personnel carriers (APCs) from
+                                    the lead units. In addition,
+                                    the lead battalions may use
+
+                                    10-3
+
+
+---
+
+FM 34-2-1
+
+1x BRM-1'
+
+                      3 x BMP-1 or 2
+
+           4 x Chem Recon BRDM-2Rkh §& X ASC, BRDM-2
+
+           :                           :        6 x ASC, BRDM-2 or
+                                          6 x APC, BTR-60, 70, or 80
+           3 x T-64, 72, or 80
+
+NOTE: 1. BRM-1 includes TALL MIKE radar.
+             2. Personnel in the Recon Assault Co are parachute or airmobile trained. Smail teams of
+                   5 to 6 soldiers are trained to enter the enemy rear area by parachute, helicopter,
+                   vehicle, or foot. They can land by helicopter (Mi-6A or Mi-26) with their vehicles.
+
+           OTHER RECONNAISSANCE ASSETS WITHIN THE DIVISION
+
+                           INCLUDES:   3 x BTR-50 or 60  4 x Chem Recon
+                2 x BTR-60, 70, or 80  2 x UAZ TRUCK         BRDM-2 Rkh
+        1 x MTLB with BIG FRED radar
+1 x BMP 1975 PRP-3 with SMALL FRED
+
+           Figure 10-1. Division reconnaissance assets.
+
+10-4
+
+
+---
+
+                                                                 FM 34-2-1
+
+   1 x BRM-1                    4x BRDM-2                       3 x Motorcycle
+with TALL MIKE
+
+       Radar
+
+                OTHER RECONNAISSANCE ASSETS WITHIN THE REGIMENT
+
+           Includes:          Includes:                           includes:
+
+ 1xBMP M1975 PRP-3     3 x Chem Recon                           3 x BTR-60
+with SMALL FRED radar     BRDM-2 Rkh/m
+
+            8 x ACRV
+
+NOTE: Frogmen may be attached to assist in the reconnaissance of water obstacles.
+
+                Figure 10-2. Regimental reconnaissance assets.
+
+reinforced platoons as combat   regimental main body, but may
+reconnaissance patrols.         operate a maximum of 50
+                                kilometers forward.
+                     REGIMENT
+      A reconnaissance company        These platoons, broken down
+with two reconnaissance         into patrols, are the eyes and
+platoons provides regimental    ears of the commander. They
+reconnaissance. These normally  normally consist of one to
+mounted platoons perform        three vehicles. Their purpose
+reconnaissance across the       is to provide information about
+regimental front. The           enemy location, composition,
+reconnaissance company will     and formations. These patrols
+normally operate 25 to 30       stress reconnaissance and will
+kilometers forward of the       avoid detection and engagement
+                                by the enemy.
+
+                                                                 10-5
+
+
+---
+
+FM 34-2-1                         for the division commander,
+       Patrols, however, can      with a primary mission of
+                                  reconnaissance rather than
+fight. Personnel and vehicle      combat.
+armament provide sufficient
+firepower for these                      Ideally, these companies
+reconnaissance elements to        will locate high priority
+protect and disengage             targets, such as headquarters
+themselves if necessary.          and C³ facilities, as well
+                                  as unit deployments and
+                     DIVISION     movements. Normally, these
+       Division reconnaissance    units will operate as small
+assets provide the commander      patrols of two to three
+ground, air defense, chemical,    vehicles with troops mounted.
+engineer, electronic, and         Troops will dismount to perform
+signal reconnaissance, as well    foot patrols or ambushes to
+as target acquisition. These      gather information. However,
+assets are located throughout     their vehicles will not be far
+the division, especially          away.
+artillery and rocket units.
+       For troop reconnaissance,         The RAC (also called
+the division has an organic       long-range reconnaissance
+reconnaissance battalion that     company) performs division
+includes two reconnaissance       long-range reconnaissance.
+companies, a reconnaissance       It also provides the division
+assault company (RAC) , and       commander with a look-deep
+other technical reconnaissance    capability out to 100
+a s s e t s . Due to the          kilometers. Small teams of
+unclassified nature of this       five or six soldiers from
+manual, technical                 this company can be inserted
+reconnaissance assets are not     by parachute, helicopter,
+presented here. For additional    vehicle, or on foot to collect
+information on the technical      information within the enemy
+reconnaissance assets, refer to   rear area. These teams will
+the Defense Intelligence Agency   move primarily on foot,
+(DIA) Study, "Reconnaissance      avoiding engagements with
+and Surveillance and Target       enemy forces, and will locate
+Acquisition of the USSR."         high priority targets within
+      The two division            the enemy's division rear and
+reconnaissance companies will     corps forward area.
+normally provide coverage
+across the division front,              While the primary
+operating between the             mission of these troops is
+regimental reconnaissance         reconnaissance, they may
+company and RAC. These            also have secondary missions
+companies typically perform       to conduct disruptive
+close reconnaissance missions     operations in the rear area,
+                                  such as--
+
+10-6
+
+
+---
+
+      o Ambushes.                                                   FM 34-2-1
+      o Prisoner snatches.                RECONNAISSANCE PATROLS
+      o Traffic diversions.            Reconnaissance patrols
+      o Disruption of lines of   will gain information by
+communication (LOC).             observation; they will bypass
+      o Limited attacks against  defenders. However, they will
+important targets of             fight if required. Normally
+opportunity.                     the tanks and BMPs will
+      When not operating in the  overwatch the BRDMs. BMPs and
+enemy area, this company is      BRDMs will make a detailed
+capable of providing additional  reconnaissance of all likely
+reconnaissance patrols mounted   enemy positions, with the tanks
+in their organic vehicles        providing cover.
+within the division area.
+    RECONNAISSANCE FUNDAMENTALS               CHEMICAL-ENGINEER
+      Reconnaissance plays an                    RECONNAISSANCE
+important part in the overall
+intelligence-gathering system.         Chemical-engineer
+It can provide confirmation      reconnaissance teams will move
+of other collection assets.      behind the lead reconnaissance
+It often provides initial        elements. When obstacles or
+information that can be          contaminated areas are located,
+confirmed by other means,        they will be marked and their
+such as electronic or signal     locations reported to the
+reconnaissance.                  regimental commander.
+                                 Reconnaissance elements will
+           TROOP RECONNAISSANCE  use bounding overwatch
+      Troop reconnaissance is    techniques. Figure 10-3 shows
+responsive to the commander’s    the Soviet reconnaissance
+needs and can provide timely     overwatch. Figure 10-4 shows
+information on which to base     Soviet reconnaissance overwatch
+command decisions.               with patrols. Figure 10-5
+      Division and regimental    shows Soviet technique patrols
+reconnaissance efforts are       with overwatch.
+carefully planned, coordinated,
+and supervised by the chief of                USING INTELLIGENCE
+reconnaissance; while battalion               PREPARATION OF THE
+and lower commanders must                BATTLEFIELD TO SUPPORT
+accomplish the task themselves.        YOUR COUNTERRECONNAISSANCE
+
+                                                        EFFORT
+                                       Once again, the IPB process
+                                 can help in your planning. The
+                                 two most important products you
+                                 will develop in CR are
+                                 situation templates and event
+                                 templates. It will be helpful
+                                 to develop a series of
+
+                                 10-7
+
+
+---
+
+FM 34-2-1          ee”               4 A is”
+
+2d ECHELON         _        OO 30 to 50 km
+
+1st ECHELON        Pe                      10 to 15 km
+
+  ADVANCE
+         GUARD
+
+      CRP          i           i
+
+REGIMENTAL                  iy
+      RECON     i     i
+
+      DIVISION     }     i     ]
+      RECON }         }     }           i                                 y
+
+      Figure 10-3. Soviet doctrinal deployment (meeting engagement).
+
+                                                                      ~.
+
+                                  BRDM                                \
+                                  BRDM-Rkh Q\ }
+
+                                           BRDM                        i
+
+                                        oo                             J
+                                                                   r
+                                        TANK                   oa”
+
+                Figure 10-4. Soviet reconnaissance overwatch.
+
+10-8
+
+
+---
+
+                                                            FM 34-2-1
+
+                                ld
+
+Figure 10-5. Soviet reconnaissance overwatch with patrols.
+
+situation templates which       reconnaissance will use routes
+depict enemy reconnaissance     that have plenty of concealment
+movement. Such templates allow  and cover.
+you to develop your event
+template; and let your S3             Also remember, enemy
+visualize how you expect the    reconnaissance is looking for
+enemy to conduct their          the best route of attack; the
+reconnaissance battle.          enemy may decide that attacking
+Figure 10-6 is a sample of      over rough terrain is
+one such situation template.    preferable to attacking open,
+                                but heavily defended, country.
+            SITUATION TEMPLATE  For this reason, be sure to
+      Do not make the mistake   consider your entire AI when
+of thinking the enemy's         you develop your situation
+reconnaissance will use the     templates. Do not get "tunnel
+same AAs as the enemy main      vision” and consider only
+f o r c e . Remember, enemy     obvious AAs or MCs.
+reconnaissance elements will
+most likely operate as two or         Look at all ways the enemy
+three vehicles. Such small      can enter your sector,
+elements can traverse almost    including using No-Go terrain!
+any kind of terrain. Keep       As a general rule, the more
+in mind, the mission of         concealment or protection a
+reconnaissance is to seek       route provides, the more likely
+and report information, not     it will be used by
+to fight. Therefore, enemy      reconnaissance elements. The
+                                outcome of well prepared
+
+                                                            10-9
+
+
+---
+
+FM 34-2-1
+
+                                                                    a” —
+
+                                  -44                                                                        BRDM-Rkh
+                                                        os
+                                                                    By? 5)
+                                 wey poet:
+                                                                      5)HERES
+                                  a
+
+                                        Ca ae ida)
+
+                                                                                           Nerel,
+                                                                               qty
+
+                                                                                  ella tptyttyt
+
+                                                                                aSgarreeeesa
+
+                                                                               Smeartetelytryy ttyyeettyyty
+                                                                                  bak
+
+                                                                                 BSyteeewe
+
+           “< ‘<ai g          « ot tite at          a7)!Cie—«€ FPS(e4.
+           Site sa aaa                         SeS ty
+               i                          K easoy
+                                                                     FARM
+           Di       pF)-                       é   if
+
+                            ‘e
+
+           €
+
+           aes
+
+              aeNH
+
+           Figure 10-6. Situation template of enemy reconnaissance.
+
+situation templates is a                                            battlefield you expect to see
+commander and staff that have                                       enemy reconnaissance elements.
+a good indication of what the                                       Then concentrate your R&S
+enemy will look like on the                                         attention on those areas (NAI)
+battlefield. This eventually                                        to detect enemy reconnaissance
+will save your R&S assets many                                      activity.
+hours of unnecessary
+reconnaissance or surveillance.                                            Remember, the key to CR
+                                                                    intelligence support is finding
+                EVENT TEMPLATE                                      those enemy reconnaissance
+                                                                    units before they can discover
+       Based on your situation                                      friendly positions and report
+templates, develop your event                                       back. Therefore, you must
+template. Your event template                                       carefully study the effects of
+will show where on the                                              weather and terrain on enemy
+
+10-10
+
+
+---
+
+reconnaissance to determine at                                       FM 34-2-1
+what point the enemy can          kilometers in front of your
+observe friendly positions.       FEBA which allow observation of
+Usually, this is a function       your unit’s positions.
+of observation (LOS) and          Essentially, those three hills
+visibility in your unit’s AI.     become key terrain for the CR
+                                  b a t t l e . You must prevent the
+      Compare these limits with   enemy from occupying those
+the enemy's known                 h i l l s . Figure 10-8 shows you
+reconnaissance observation        an example of this.
+capabilities (such as infrared,
+thermal, light enhancement, and         By integrating your LOEA
+telescopic). As you do this,      and key terrain with your event
+you will begin to identify a      template, you have narrowed the
+limit of enemy advance (LOEA).    battlefield to specific points
+Essentially, you must prevent     or areas where you can focus
+the enemy from going beyond       your R&S assets. You can now
+this limit; because past that     go through the process of
+limit, the enemy can observe      determining SIR, matching R&S
+friendly positions.               assets with SIR and NAI, and
+                                  developing detailed R&S
+       Figure 10-7 shows an       instructions.
+example of an LOEA, or you can
+recommend a phase line (PL)                 COUNTERRECONNAISSANCE
+that represents the LOEA.               Remember, normally your S3
+                                  will actually task units for
+                     R&S PLAN     the CR mission based on your
+       You should focus your R&S  input. (Of course. this may
+assets forward of the LOEA to     differ depending on unit SOP.)
+identify enemy reconnaissance     Because of the importance of
+before they can spot your         winning the CR battle, many
+unit’s positions.                 units use a large CR force.
+Additionally, your analysis of    (Sometimes this force may be up
+the terrain may indicate there    to one-third of the entire
+are isolated terrain features     unit.)
+forward of the LOEA you must
+control to prevent enemy                       FINDING THE ENEMY
+observation of your unit’s               Your S3 will task-organize
+position.                         the CR force based on the
+       For example, you may have  commander’s guidance, your R&S
+determined, based on general      requirements, and your estimate
+terrain and weather conditions,   of the enemy reconnaissance
+that your LOEA is 5 kilometers    force.
+in front of your FEBA.                   You have a big role to play
+However, you discover there are   in forming the CR force. This
+two hills approximately 7 to 8    implies, however, you know
+
+                                  10-11
+
+
+---
+
+FM 34-2-1
+
+      ty                                          a                  Ny
+
+i ah              Mekety kyla te tel te tetetetets
+TteeE eee ag eeee eee
+                                                        <¢  “<       ye “4 ‘<
+
+eT                                                TTT error                                                 an
+SECT Ba AE aa                                                                                             Matis
+      Saaeaa ah aa a ae ae hae a pases ety
+
+= x. case CAEA AAA RN ae ACA                                                                              aiid
+KaB acts M Ae Ea A riiiNADeo ass aa ia A                                       <4
+                                                                                                                   e
+       Ce Aary aeassees ratty
+
+      rte ty yt ety ty
+saree             ae                                                                   err sas  reratets
+          lata ty ty tats                              TET ETT TY                 a4 te
+                  sitetate                             Y, ,
+Me                                                Ae    aa                     gle                                          : ‘ i . ra tety ty tate tet ty ly
+                                 ete         EOS       “    LAG  <7                                                                                                                                                                                                                                                                   erx yt
+ki                                  Site           aC   ‘7
+          Sat
+              Py                      “etek
+
+         <<Sete
+             ie
+
+                                                                                                Bi                          434
+                                                                                                       a                        +¥ 3.3.)
+
+       eee,                                                                                                                                                 ‘.
+tytatetytetetyty tah                                                                                                                                                .
+tetytetytetytetytetetyty tet                                             yey
+R ANe a a I                                                                                                                                                             asesax's Y
+                                                                                                                                                                                  .
+
+                                                                                                                                            ise
+
+                                                                                                                                                        73?
+
+                                                                                                                                                 red
+
+                                                                                                                                                                 4g
+                                                                                                                                                                   tg
+                                                                                                                                                                       3
+                                                                                                                                                                             43
+                                                                                                                                                                              rg
+                                                                                                                                                                                     tj
+
+                                                                                                                                                                                                                                     ag
+                                                                                                                                                                                                                                            4
+
+                                                                                                                                                          i
+
+                                                                                                                                                                                                                                                                                                                          ti
+                                                  eR,                                                                       Ee vivtytyty eree tytygerr ete
+
+                                                                                                                                                                     cic anaes                                                                                                                                                     i
+                                                                                                                                                etatytetyrteyy                                                                                                                                                                oolie
+
+                                                  FEBA                                                                v                                            FEBA
+
+                                                                                                                       (x)
+
+                                                                                                          Figure 10-7. Limit of enemy advance.
+
+10-12
+
+
+---
+
+                                                                                                                                                                                                                                                                                                                                                                                           FM 34-2-1
+
+x
+
+                                                                                                                                     a4
+
+*oa} iiet.osokae aaks eketeaiCs adad   a                                               ‘iae                ‘cat                                                   a
+                                                                                                                                                                    Set
+                                                                     A! ee i! 3} ‘7 I          a ry yySit   aieSite                         Liat       3454
+                                                                                                                                                              ‘<            5? 3!
+                           ite ie leit                                               ieee                                            w e         “ang                          i
+
+                                                                                                                                                                          a
+
+                                                                                                                                                                                                                                         ¢
+
+             su ~¢ise                 i Gy csiatgel at S aite Se<¢ 33                     ‘f “i            Se as ne                  a      ‘4aita1 “4 7SPs ce    iS
+                                                                                                             Le                         <<
+                                                                                                              eH
+                                                                     3                                            SME<NEi                                                    an
+                                                                                                                           ‘F
+                                                                                     Fi                                       <e <¢                               tgFy  AH        <S              iat                                       ae
+                                                                                                                                                                                                                                              ce
+           it                                                                                                                                                             3                   7;                                                  re
+
+y Di Pr Hse“a4 3     ‘ei a:           esata                     tits 33!             73!                                                                          ry
+  o¢ “f iit
+                                                                                                                     ae                     apa a eA a
+                                                                                                                                                        %
+                           eee rt,
+             pata ze.                 “¢                                                                                                    ry hy ryt tyi                                         a At a
+                                                                                                                                                                             a A, ah Ab, Ab 6 ss Ad A 2
+           ee                          fetches                                                                        saciosnsoa 7, mte rete tyety                                                                                          TG
+                                                                                                                               eis                                                                                                                          ‘thea
+                             idieideeee     zt
+                                                                                                                     elarrtetyttaettyytyyetetyyrtyeettyetyttyttyy tet
+yy eoHaase                                                                                                 4          a my era
+                                                                                                                                                                                                                                                                                                                                                          ia athy4 Ney hy
+           Satie           Ne‘edd      By                       ieee                                       4 ees                                                                                                                                                                                     4 Ah                                    ii dibs sh                                    nny  Notas
+                                                                                                                   iat                                                                                                                                                                       TY,
+                Fs)
+                                                                                                                 ad
+                                                                                                                      Toe!                                                                                                                                                  Weyptatg hyrerereyey. rr                                         AA, A, ta, Ah, it Ab, sh, An A
+                                                                                                                                                                                                                                                                                                                                                                                                                   +A
+                                                                                                                                                                                                                                                                                                                                                            SOe A AN A IR nO a)
+                                                                                                                                                                                                                                                                                             SR UT Tr e ea o lt ryy t ety
+                                                                                                                                                                                                                                                                                             RTOTSTTETTe Rater or orn ie ee get                                                                                    4,
+                                                                                                                                                                                                                                                                                             At ok A ii oo a a AeCd ae                                                                                                   €
+                                                                                                                                                                                                                                                                                                                                                                                                                              ‘€
+
+                                                                                                                                                                                                                                                                                             ARAMA            Lae ak oe anh aa                                                             eiaty
+
+                                                                                                                                                                                                                                                                            Saauryrete hye                   hele yecyttee ON RN                                                            NE
+
+                                                                                                                                                                                                                                                                                                                           %                                                               rete
+                                                                                                                                                                                                                                                                                                                                             Dy
+                                                                                                                                                                                                                                                                            a                                                                                      Sie
+                                                                                                                                                                                                                                                                                 Fi                                                                                         =<
+
+                                                                                                                                                                                                                                                                                 3S)y yayos                                                             lahat ei
+                                                                                                                                                                                                                                                                                                                                                            <<au
+
+                                                                                                                                                                                                                                                                                                                                                              HGied 35) ‘¢
+                                                                                                                                                                                                                                                                                                                                                                                                            ~
+                                                                                                                                                                                                                                                                                                                                                                                                      te
+                                                                                                                                                                                                                                                                                                                                                                                ay
+
+                                                                                                                                                                                                                                                                                             CSG sieceecs    Sete Hea  ep ateh aety heheheh  SPEESDNPRSSESDOORtis PUHRHEHErebetaty seater  etalapethats            KIif ad
+                                                                                                                                                                                                                                                                                                                                                                                                                          O
+                                                                                                                                                                                                                                                                                               eHine eeeats                                                                                 a MG                                  m
+                                                                                                                                                                                                                                                                                                                                                                                                                                   >
+                                                                                                                                                                                                                                                                                                                                                                                                  Hee
+                                                                                                                                                                                                                                                                            = ee sae = arytrrerrrry                                                                                        . oy
+                                                                                                                                                                                                                                                                                             a ae pravey,                                    ByPaeaey
+                                                                                                                                                                                                                                                                                      re
+                                                                                                                                                                                                                                                                            A OM                                                                                                                               iS
+                                                                                                                                                                                                                                                                   caMat
+                                                                                                                                                                                                                                                                            trrrtrytyteteter Tress! Mareatyn ey tyre ety Cp i oe
+                                                                                                                                                                                                                                                                    Ain ob  rytety Rela eT                                                                                  yer ae ”
+                                                                                                                                                                                                                                                                            keSe M TTaTad ANT TATAerate TtT etteT ery
+                                                                                                                                                                                                                                                                                             eae ty nrrerere rrr
+
+                                                                                                                                                                                                                                                                                                             aS yia taeteA tylyAtnyttienelettyA y tty A a tye
+                                                                                                                                                                                                                                                                                                             Se                              a aa a aa aa aa
+                                                                                                                                                                                                                                                                                                             ia AasS A A Be adi ol
+
+                                                                                                                     FEBA                                                                                                                                          ¥v                                                                                                                      FEBA
+
+                                                                                                                                                                                                                                                                    xX)
+
+                                                                                                                                                                                                                                                  Figure 10-8. Example of key terrain.
+
+                                                                                                                                                                                                                                                                                                                                                                                                                   10-13
+
+
+---
+
+FM 34-2-1                        your S3 various engagement
+something about friendly R&S     areas or ambush sites (TAI)
+capabilities, maneuver           in which to catch enemy
+capabilities, organization,      reconnaissance elements.
+tactics, and equipment.
+Therefore, you cannot afford            Once again, remember, you
+to concentrate solely on         must destroy or suppress
+threat forces.                   enemy reconnaissance before
+                                 they can discover your unit's
+                    TARGETING    positions and report back.
+       So far this chapter       Therefore, any TAI you
+discussed finding enemy          recommend should be forward
+reconnaissance elements. The     of the LOEA. You will also
+other side of the CR mission     want to point out any key
+is to target and destroy or      terrain you have discovered
+suppress those reconnaissance    to your S3. Key terrain are
+elements so they cannot report   natural TAI, since the enemy
+your unit’s position. You have   recognizes their importance
+a role to play in this aspect    as much as you do. Do not
+of the CR mission as well.       forget the role EW can play
+       Remember, during the      in suppressing enemy
+war-gaming process, the          reconnaissance units.
+commander and the S3 identified
+friendly COAs. Part of that            Although your S3 is
+process was--                    responsible for planning the
+       o Developing TAI.         use of EW, you and the IEWSE
+       o Deciding how best to    can recommend its employment.
+engage enemy units at TAI.       Both of you should plan an
+       o Formulating decision    ESM program that will support
+points or lines.                 any EW use. Remember, enemy
+      As the S2, you are the     reconnaissance elements are
+expert on the enemy, weather,    priority targets of jamming
+and terrain. Based on your       and/or DF. You can also
+situation templates, you         integrate smoke and obscurants
+have a good idea which enemy     to multiply the effectiveness
+reconnaissance units will        of your EW effort.
+go where. Based on your IPB
+terrain and weather analyses,                USING R&S MISSIONS
+you have a good idea where                        TO SUPPORT CR
+on the battlefield your unit
+can best engage those enemy            As explained before, CR
+reconnaissance units.            essentially consists of finding
+Therefore, you are in a          the enemy reconnaissance; then
+position to recommend to         destroying or suppressing those
+                                 elements before they can report
+                                 friendly unit positions. This
+                                 implies some friendly elements
+                                 will act as finders and some
+                                 will act as shooters.
+
+10-14
+
+
+---
+
+      Normally, the scout platoon                                     FM 34-2-1
+should be finders, not
+shooters. They do not have         of scout employment to screen
+the organic firepower to           concealed routes. Figure
+decisively engage enemy units.     10-10, is an example of the
+However, your scouts must be       use of mechanized infantry with
+linked to the shooters, to         scouts under operational
+include aviation, maneuver,        control.
+a n d a r t i l l e r y . You may
+position your scouts along a             To effectively plan your
+screen line so they can            portion of the CR mission,
+observe NAI or concealed           you need to know how threat
+routes into your sector. The       reconnaissance operates. For
+scouts then report detection       additional information on
+of enemy reconnaissance and        threat smoke and obscurant
+provide targeting data to the      employment, refer to the
+shooters.                          Joint Test Command Group
+                                   manual, 61 JTCG/ME-87-10,
+      You may also augment your    Handbook for Operational
+scouts or R&S mission with         Testing of Electro-optical
+armor, mechanized infantry,        Systems in Battlefield
+light infantry, or AT              Obscurants.
+elements. In this situation,
+you might employ your scouts             This chapter discussed
+as roving teams. The scout         various staff roles in the
+element finds the enemy            CR mission, how you can
+reconnaissance, informs the        contribute, and how the threat
+S3, who then calls in the          performs reconnaissance at
+armor, infantry, aviation, or      regimental and division
+indirect fire assets to destroy    levels. It is also important
+it. Figure 10-9 is an example      for you to do your "homework"
+                                   to find out how the various
+                                   threat forces conduct
+                                   dismounted reconnaissance.
+
+                                   10-15
+
+
+---
+
+         FM 34-2-1
+
+       oeany  ey
+
+ree    ite
+
+       aye EE                            ELT TTT                                                      retest
+
+ ne ty tat y tya ty ty                   eT ytetyotyn
+setrentnricriee
+       eatery ateyh Mates
+Roaiakstatrrerereremtetertnytyy rtny tytryytyy ty tteenry eyty raeataey pia                                            ety tytety
+
+Been Rratyerty erry Sea igre | Wwarrea                                                                                      Retete tfyastyty:
+reraa alatta e leatetty ay tatE a AlatelE y tety lye Tely eCroloarste                                                       a Ah rreetrtye
+aratetatetyttylytelatty ele ety                                                                                        foscits os
+P LEe ELAN TTSA N prereset                                                                                                  Rrceetrtee rereettyy
+catty       ty ty Sat                    rarity,                                                                       oak          repty
+i                                              Bain                                                                         rere
+
+                                                                                                                       eSak rtphahy ak ya ee a eaaad a etabayes                vCyole oe                                                       ofotg
+
+                                                                                                                       Oe Feee S AaRTe LEaS eE eraTeTT NT TLTET:E STIToTeNrTORTe ara,T NEaOaNn
+                                                                                                                            aE etn pee ae, “
+                                                                                                                            sYaorteyttgyt:ateA R ha otgtetetyT ety hA T et iyly NP eA ay TrETRO E eTeAaTrOa Orn )TELE
+                                                                                                                                            axtrnareTbyytea Telyhelytetytyte                       vey          aie tytytyte”
+                                                                                                                                   ¥ I A retell tytA ety tye ty tyre tye tye try yA y ret
+                                                                                                                                   STPN eTeT ENaR tTAeTtvR atyER TtaTU ey LeENTNIE tTh ORTROaT seTERee
+                  Sha aTenteateays,               fetteet                                                                      pnCtAsI SOObAA AA Od A Ai
+                                                                                                                                   ERE NTT fy neta
+                  MgyreertattTyy theety        sytovtreyt                                                                   BR A MA AeMl A AeAk A oe a OE A A iaAEA AL Ne MAACACA
+                                         e ey e
+
+              P rete ain ee te reaetAryAAA yt                                                      “                        Phaeit aa ais, neta rt .                                                                                           |        OEA
+                       faB te fhri,rAh,r ei ty                  -                                                           we,TyTy MET Tyhylytaty tedath fh ae, lteyftfe,tyhhyetnTerigythhyeyttyeere
+              OEA 5 ah Ah AN, A 4 Pare eee tatycvtetete:                                                                    ens                                  helete tele   NyiTAab, ToVe,aN TaeaRTAThEAT,
+            LOE BrArCyAreRtAeRtaAaLtytyntyep tayty Ak a atkerMyk tACeAteA eatetR styy C tSyyeA ivvaiteety,                  wtey,           Sol
+                                                                                                                                                                 As
+                                                                                                                                   et AOiko N AE iA AAAi noel AOCCCASSato
+                                                                                                                            ah                                   ray ate                           ety tyty ty
+            PERI                         EE                     ETTe                                                        aT Mery Vaty Neh WelyVevey LeNyarn Veta ke ke
+       x etytetey heey y resa Nae eat aA hytyhy ane                                                                         fetal ety! ete neat mo A Arete ett
+iain meter                                                                                                                  petrryeyen erate Cnr NTT Tee
+       a A Aol a                                                                                                 ae TROAYYO Y FEVER UN TUTE APTOS TON, PETTENY
+       A SA a oak a                                                                                ey                  earerertrtytantreetyTtyetteytTetyatteelgelyty etteelee ly es veteTtte renea neveir n
+            WH tet tetes                 a Ab A VX i Ps ai tyty                                                        ary rt                     Veale tate, ates yt a Ae, A
+            BaEA teASlsAtSetAeadtpyAAnAA AreArriarrAirrAreArnAnAenDgOF Atsieten r yen                            SoA reA A 6 RA AAAA A A A ia 2
+              HETM el eaI  telNeg tytee lg ly   lAearne  tyler  BhUeTeaeea                                    ;        TET  TITAN           TET TLTOST UOTTTTAOT NTeLe Y TlgThTePeTey renhenTerecernyePrTer OreT n yTeyTs
+
+                Be          ACA RAe                       oe                                                                 em
+              A i a8 SAE ARE a A a                                                                            oye aah       tyres                 irrtytrtyn                          yt tnre rrr
+            . L P aet tyty tya Settay tyatryytytttyyyrteryheiyYT,ytrtyye tyy‘a tyn ty tyey_“ea, t             ttayaryyyytya Atyre tyAetyrxhoyeiy’ !y tyrtyy tynaylyNtyteettyy  yy ty  tA eNleytty  ttyayty  ty stoeesleetattya gtyheay4  1tye  e*te ty
+
+                                                                                                                                                                               pty a
+       AaaAtaDe A roeO i retary yS yy yet ye                                                                     soera aa “ atfomA eanI eteA rno sea A acaeies sy
+bie Se fe,                 hy ” y' , ety                                                                                                          ayratty yta' roetyty’ rerrety
+              = teebteetlyettesk”e       eMteteet                                                                                                                A MeA lle AtetetAeAnAsR Naytetyty HN,
+
+                          pa A              (a                                                                                                                       a A
+                                                                                                                                                                               ratt atet teley ty hytelata ty ket ty
+                                                                                                                                                                               o MeliytAleAteAtnA tnieteteetytettyy,
+
+                  FEBA
+
+                                                         Figure 10-9. Using scouts to screen concealed routes.
+
+       10-16
+
+
+---
+
+                                                                  FM 34-2-1
+
+fia, Ah tik A  Ae tit, Ab, At i  coh A  Abs ie  2
+
+                                                   See
+                                                       re etely,
+
+                                                         ctyty
+
+                                                     “Ah 8
+
+                                                   acsataiens
+
+                                                    i, Ae 8,
+                                                     aA
+
+                                                   Figure 10-10.  Example of the use of mechanized infantry with
+
+                                                                  scouts under operational control.
+
+                                                                                                                  10-17
+
+
+---
+
+                                   FM 34-2-1
+
+CHAPTER 11
+
+RECONNAISSANCE AND SURVEILLANCE
+     IN LOW-INTENSITY CONFLICT
+
+      During LIC operations, R&S                         THREAT
+must provide your commander a            The LIC threat can range
+wide range of information in a     from demonstrations, terrorist
+complex environment.               acts, insurgent or guerrilla
+                                   activity to confrontations with
+                      FACTORS      conventional forces. The
+      Factors to consider when     characteristics of a threat
+planning R&S in an LIC             force depend on the level of
+environment include--              insurgency. US maneuver forces
+      o US forces mission--        will most likely face insurgent
+counterinsurgency, combatting      forces or a hostile country
+terrorism, peacekeeping            conventional military force.
+operation, or peacetime            Your unit may face
+contingency operations.            demonstrators or terrorist
+       o Threat--conventional      threats. But primary popula-
+forces, insurgent forces,          tion control responsibility is
+terrorists, demonstrators, or      with the host nation.
+a combination of two or more.             Insurgent or guerrilla
+       o Environment-- social,     forces usually fight in small
+psychological, political, and      c e l l s . They carry light
+economic factors. Terrain and      weapons and can concentrate
+weather are also important         forces against major
+considerations.                    facilities, then disperse after
+       o Host nation government--  the operation. Insurgent
+support, information sharing,      forces can operate in urban
+security forces, and military      areas but prefer remote areas
+forces.                            for better concealment and
+       The US force's mission,     security. You can expect to
+environment, and host-nation       fight squad- to platoon-size
+government are influences that     forces when facing insurgent
+have an affect on what we do       forces. They will rely on--
+offensively or defensively.               o Well-planned ambushes.
+However, the LIC threat will              o Attacks on soft targets.
+require you to spend the most             o Sniper and mortar
+time learning how to predict       attacks.
+the enemy's next move.
+
+                                   11-1
+
+
+---
+
+FM 34-2-1                           roles attacking and defending
+       The objective is to          to support insurgents. These
+                                    forces are infantry, or
+demoralize and frustrate their      mechanized infantry supported
+opponent by attacking a variety     by artillery, mortars, and
+of targets in a wide AO.            armored vehicles. Along with
+Segments of the populace can        limited CAS, they could have
+play a key role in the              NBC weapons.
+insurgent intelligence net; in
+which case, they would become              Their equipment is a mix
+a primary target of friendly        from several major weapons-
+CI efforts.                         producing countries (for
+                                    example, United States,
+       Guerrilla forces need        Belgium, Soviet Union, China,
+support from political              and West Germany) . Usually
+sympathizers or foreign             this equipment is a generation
+powers. They need an effective      or two older than that found
+system of obtaining food,           in modern armies. However,
+ammunition, weapons, equipment,     this trend is slowly changing.
+and training. In some cases         The type of weapons used in
+insurgents conduct raids for        an LIC environment varies
+equipment. By eliminating           from homemade weapons (mines
+insurgent supply nets and           or shotguns) to sophisticated
+sources they lose combat            weapons (SA-7'S).
+effectiveness.                      Understanding the capabilities
+                                    of guerrilla/insurgent weapons
+       See DA Pam 381-3, How Latin  and collection and target
+American Insurgents Fight, for      acquisition systems helps you
+detailed information.               in R&S planning.
+
+            CONVENTIONAL THREAT                GUERRILLA/INSURGENT
+                 FORCES IN LIC                         OPERATIONS
+
+      Conventional threat forces          Guerrilla operations are
+in an LIC environment conduct a     those military actions executed
+variety of missions. These          with selected commands and
+missions involve advising and       combatants. For this reason,
+assisting insurgent forces on       it is necessary to obtain
+how to fight. Conventional          specific enemy information,
+threat forces train insurgents      and to know the enemy’s
+on the use of sophisticated         situation by observation.
+weapons or act as leaders for       In guerrilla operations,
+insurgent units. This               attacking by surprise and
+involvement depends on support      having control of key terrain
+provided by the hostile             are essential.
+government.
+
+      Conventional threat forces
+can operate in traditional
+
+11-2
+
+
+---
+
+      Everyone who engages in    m= &                               FM 34-2-1
+guerrilla operations, besides          o Infiltration (capture
+being elusive, must have had     of personnel, weapons, and
+excellent training and           documents).
+preparation. The following             In every guerrilla
+are general prerequisites or     operation, the execution of
+priorities for the preparation   the mission must be guaranteed.
+of an individual guerrilla             Current and accurate enemy
+fighter.                         information, including terrain
+                                 and weather knowledge, are key
+      o Physical conditioning.   to prepare, plan, and execute
+      o High morale.             the mission. Every small
+       o Individual combat       detail must be covered in the
+training.                        plan, and nothing should be
+       o Land navigation and     overlooked.
+knowledge of the terrain.              For each guerrilla
+       o Complete understanding  operation, training or
+of the mission.                  simulated attack must be
+       o Clear understanding     conducted and verified; these
+of his or her role in the        must be in terrain which
+mission.                         closely resembles the site
+       o Discipline.             characteristics where the
+       o Esprit de corps.        operation will be carried out.
+       o Aggressiveness,                Individual guerrilla
+dexterity, self-confidence,      training must be continuous;
+valor, and courage.              it must always strive for
+       o Decisiveness and        superiority in all aspects of
+patience.                        training. Training must focus
+       Guerrilla operations      on the prerequisites mentioned
+include--                        above.
+       o The ambush.                    Coordination is a high
+       o The incursion.          priority during each guerrilla
+       o The surprise attack.    operation. Coordination
+       o Sabotage (machinery,    ensures teamwork and helps to
+electrical energy, and           guarantee the success of the
+telephone).                      operation.
+                                        Selected commands and
+                                 combatants, as well as
+                                 weaponry, are key ingredients
+                                 for the operation. Each
+                                 querrilla fighter must make
+                                 full use of weapons and must
+                                 not fire continuously. It is
+                                 very important that strict fire
+                                 discipline be followed.
+
+                                                                            11-3
+
+
+---
+
+FM 34-2-1                                       UPPER ECHELON ORGANIZATION
+       Terrain knowledge,
+                                                The guerrilla’s military
+appropriate camouflage, and               organization is a network of
+surprise are essential                    insurgent groups placed in
+elements during the execution             different parts of a country.
+of a guerrilla operation.                 It has a definite command
+                                          structure based on geographical
+       Surprise, security,                location. Thus, a "Northern
+rational use of resources,                Command," an "Eastern Command,"
+and economy of force are the              a "Central Command," and a
+key principles of guerrilla               "Northwest Command" would
+w a r f a r e t a c t i c s . These must  correspond to the area of the
+be followed in every guerrilla            country in which each command
+operation.                                operates. Figure 11-1 shows a
+                                          typical insurgent organization.
+      Guerrillas around the
+world typically fight the                       The guerrilla military
+same way. They use surprise,              organization is headed by a
+night operations, careful                 general staff with staff
+planning and selection of                 departments organized to
+targets, and timing to                    fulfill training, logistic,
+inflict the greatest damage.              troop, intelligence, and
+They are particularly sensitive           operational functions.
+to the propaganda value of                Figure 11-2 shows the general
+the psychological impact of               s t a f f . Figure 11-3 shows the
+every action they take, from              logistic staff. Figure 11-4
+a single terrorist act                    shows the troop staff.
+(bombing or political
+assassination) to a major                       The guerrilla military
+assault on a critical                     forces have an infrastructure
+installation.                             ranging from a brigade of
+                                          several thousand down to a
+      Guerrillas can best be              cell of three to five people.
+described as capable, all-                Falling in between are
+weather soldiers who live                 battalions or columns with
+off the land, thus reducing               500; detachments, 100;
+the amount of rations they                platoons, 20 plus; and
+need to carry. They operate               squads, 10.
+in their own domain and,
+because of their familiarity                    The largest insurgent force
+with it, can negotiate the                normally encountered during
+most difficult terrain in                 combat is the platoon. The
+any kind of weather, at any               platoon consists of the
+time of the day. They usually             platoon leader and two or
+attack at night to ensure the             three squads. Each squad has
+element of surprise. The                  7 to 11 soldiers, a squad
+overall combat effectiveness              leader, an information or
+of these fighters is usually
+good .
+
+11-4
+
+
+---
+
+                                                                 FM 34-2-1
+
+Figure 11-1. Insurgent organization.
+
+                                                                             11-5
+
+
+---
+
+ FM 34-2-1
+
+                                                          POLITICAL
+                                                           STRUCTOR
+                                                          POLITICAL.
+
+                                                               Figure 11-2. General staff.
+
+11-6
+
+
+---
+
+                                                                                               FM 34-2-1
+
+NOTE: All these groups are mobilized to back up the fighting units. With the exception of
+the group in charge of medical equipment, these individuals are not combat trained and serve
+by supplying the combatants with munitions or by acting as medics. The arms and ammunition
+personnel guard the caches of weapons and the shops where weapons are repaired and
+munitions manufactured.
+
+                                                            Figure 11-3. Logistic staff.
+
+                                                            Figure 11-4. Troop staff.
+
+                                                                                                        11-7
+
+
+---
+
+FM 34-2-1                                          o Combat platoons have two
+political officer, and a                    squads: one assault squad and
+messenger. Squads are                       one security squad.
+sometimes subdivided into
+smaller units of three to                          o Reconnaissance platoons
+five men (including a leader);              have two squads: one
+these are also referred to                  reconnaissance squad and one
+as subsquads.                               security squad.
+
+                    SUBSQUADS                      o Other platoons provide
+      These smaller units, called           logistic support (storehouses
+subsquads, have the following               for arms), withdrawal sites,
+missions:                                   communications system,
+       o Combat subsquads maintain          transport, firing ranges and
+security for the remainder of               maneuver sites, underwater
+the squad during movement.                  demolition, sabotage, and
+       o Sabotage subsquads                 propaganda.
+consist of a demolition section
+and a security section. The                             COMMAND AND CONTROL
+security section provides                         The insurgent organization
+security to the demolition                  and chain of command simply
+section during sabotage                     consists of leaders and
+operations.                                 followers. Insurgent
+      o Reconnaissance subsquads            commanders exercise control
+consist of a reconnaissance                 over their forces by delegating
+section and a security section.             command authority down to the
+                                            platoon and squad levels.
+                      PLATOON               Although several platoons may
+      The guerrilla platoon is              be committed in combat, all
+the basic (tactical) unit of                missions are assigned and
+the guerrillas. It is made up               conducted at the squad level.
+of--                                              Insurgent combat units may
+      o One platoon leader.                 operate alone when seizing
+      o Two squads (of 7 to 11              terrain, but all unit
+g u e r r i l l a s e a c h ) . Each squad  commanders must ensure that the
+also has one leader.                        high command provides detailed
+      o Each squad can be                   instructions for their unit.
+subdivided into two subgroups,              The leader of a combat unit is
+depending on the mission.                   expected to exercise effective
+      Platoon organizations are--           control of all combatants, to
+                                            assign specific functions, and
+                                            to see that they are strictly
+                                            complied with.
+                                                  Insurgents are also trained
+                                            to use their own initiative
+
+11-8
+
+
+---
+
+when faced with unforeseen                                             FM 34-2-1
+situations. The unit must be        military supplies is by
+flexible and capable of solving     capturing government weapons;
+problems associated with            this ensures an abundant supply
+missions assigned by the            of ammunition and repair parts
+supreme command in such areas       is available. The three
+as--                                essential requirements of
+                                    insurgent weapons are
+       o Communications.            availability, simplicity, and
+                                    efficiency.
+       o Chain of command.
+       o Mobilization of forces.          Usually, each combatant has
+                                    the following equipment:
+       o The use of equipment and
+firepower.                                 o Rifle: Belgian FAL;
+                                    Israeli Galil; German G-3;
+                    EQUIPMENT       Soviet AK-47 or AKM; Czech
+                                    M-25; and United States M-2,
+       Insurgents require the same  M-14, or M-16.
+combatant gear to perform their
+mission as the friendly forces;            o Pack or knapsack.
+however, insurgents do not                 o Web belt.
+usually have the same                      o Canteen.
+equipment. Theirs is obtained              o Beret, cap, or hat.
+from a variety of sources                  o Protective combat
+through a complex logistic          clothing that blends with the
+system. Weapons, food,              terrain.
+medicine, and other supplies               o Combat boots.
+are obtained by one of the                 o Knife and steel blade.
+following methods: black                   o Weapon cleaning
+market, captured, stolen, or        equipment.
+provided by second-party                   o Nylon cord, approximately
+sources.                            2 meters long.
+                                           o Square of plastic, 2 by 2
+       Much of the equipment is     meters (to protect weapon from
+obtained from government forces     rain) .
+through raids on isolated                  o Medication kit (such as
+outposts or ambushes on              aspirin, bandages) .
+military units and convoys;                Each unit has a radio
+additional guerrilla supplies        (probably commercial type, AM
+and arms come from other
+countries. Some equipment is                                                   11-9
+purchased abroad with money
+obtained through terrorist
+ activities (kidnapping and
+ robbery) .
+
+       A more popular and
+practical means of obtaining
+
+
+---
+
+FM 34-2-1                                  o Caliber: small caliber,
+or FM) to keep the insurgents       20 to 57 mm; medium caliber, 58
+ informed of the news.              to 152 mm; large caliber, over
+                                    152 mm.
+       An insurgent unit may have
+one or more of the following               o Bore: smooth (mortar),
+weapons:                            t h e 205 mm has grooves.
+
+       o Hand grenades                     o Firing: high angle or
+ (fragmentation, concussion, and    flat trajectory.
+incendiary).
+                                           o Means of transport:
+       o Grenade launchers.         mechanical traction or
+       o Mortars.                   self-propelled.
+       o Mines of the claymore
+type.                                      o Initial velocity
+       o An assortment of AT and    classified as follows: mortars
+air defense weapons.                from 150 to 400 meters per
+                                    second; a howitzer from 300
+                    ARTILLERY       to 600 meters per second;
+       Artillery is the principal   and cannons from 900 to
+fire power for some insurgent       1,500 meters per second.
+forces. Insurgents use it
+because of its range, volume of            It is important to note
+f i r e , and accuracy. The         that some of this equipment
+principal mission for an            is homemade, such as uniforms,
+artillery unit is to neutralize     pistol belts, and harnesses.
+or destroy the enemy and their      Insurgent camps sometimes
+means of combat. Mortars and        contain factories where Molotov
+recoilless weapons are usually      cocktails; booby traps;
+the preferred artillery pieces      claymore type mines; grenades;
+used by the guerrilla, probably     and ammunition, including
+due to their mobility and           mortars, can be produced at
+portability.                        little cost in a short time.
+       Guerrillas can and will use
+captured heavier weapons. They         TYPES AND SOURCES OF SUPPLIES
+will transport them by                    The guerrilla, by
+commercial vehicles into the
+battle area; or abandon them,       necessity, uses a wide variety
+if necessary, if they impede        of weapons, some self-
+their withdrawal from the           manufactured, some captured,
+area. Artillery is classified       and some supplied from outside
+according to--                      sources. In the earlier stages
+       o Recoil construction and    of a war, the weapons are
+type of tube.                       usually primitive, homemade
+                                    r i f l e s , hand grenades, and
+11-10                               claymore type mines; trails
+                                    are crudely booby-trapped with
+                                    Punji stakes and shallow pits
+                                    lined with nail boards.
+
+
+---
+
+      Nearly every guerrilla war                                     FM 34-2-1
+has produced ingenious            meat, rice, beans, cereals,
+improvisations, both from         sugar, coffee) . The main
+necessity and to avoid a          sources for food are local
+cumbersome logistic supply        villages, supplies left behind
+system. Nothing can be simpler    by government troops,
+to construct and use than a       warehouses, stores, and the
+Molotov cocktail or a plastique   land itself.
+bomb; and under certain
+conditions, nothing can be more                      Explosives
+effective.                              Explosives are the key to
+                                  guerrilla operations due to
+           Arms and Ammunition    their destructive power. They
+      All types of arms are       are used to destroy bridges,
+needed for a guerrilla            railroad lines, airports of
+movement. However, there are      military value, communication
+three important factors which     lines, and electrical towers.
+insurgents have to keep in mind   To acquire explosives,
+when arms are selected:           clandestine groups are formed
+weight, range, and rate of        which operate in areas where
+fire. Guerrillas carry their      explosives are used. By
+weapons for long periods of       attacking vehicles which
+time, thus the weapon must be     transport the explosives,
+as light as possible. The         they are able to obtain the
+weapons must be effective both    explosives needed.
+at short and long range.
+Maximum rate of fire is                            Hand Grenades
+critical since guerrillas                These can be industrially
+need to place a large amount      or domestically manufactured.
+of fire in a short amount of      There are two types of hand
+time. With a variety of           grenades:
+weapons comes the need for               o Defensive--A metallic
+different types of ammunition.    container that splinters; has
+Individuals responsible for       an effective range of more
+acquiring ammunition must be      than 30 m; and is used mostly
+able to distinguish between the   to break out of a siege by
+different types and caliber       disorganizing the enemy.
+rounds needed.                           o Offensive--A container
+                                  filled with an explosive
+                         Food     charge, which when ignited,
+       Just as with arms and      creates a proliferous blast
+ammunition, food is a basic       of fire or pellets. This type
+necessity for a guerrilla         is used mostly for ambushes
+movement. It must be easy to      and in attacks on garrisons.
+carry, nutritious, and not        It also serves to disorganize
+perishable (such as chocolate,    the enemy, as well as cause
+condensed milk, dried fish or     casualties.
+
+                                                                             11-11
+
+
+---
+
+FM 34-2-1                          for cereals and basic food
+             External Supplies     grains, with the guerrillas
+                                   taking half of the harvest.
+       Nicaragua has been the      In some areas, sugar mills and
+main source of external            slaughter houses are operated
+supplies since the start of        by collaborators of the
+insurgences in Central             guerrillas. Basic food stuffs
+America. While in South            such as beans, rice, cooking
+America, Cuba has been the         o i l , s a l t , sugar, and corn are
+primary source guaranteeing        collected and stored before an
+the guerrillas a sustained         insurgent offensive. When not
+rate of supply and resupply.       in combat, guerrillas are able
+Supplies are carried by            to obtain supplies with money
+aircraft, small boats, trucks      almost anytime, anywhere.
+with false bottoms, stolen
+buses, or pack animals. It                         COMMUNICATIONS
+depends on the terrain and on             It is impossible to direct
+the control exercised by the       a war without communications.
+guerrillas in the area in which    Among the most important forms
+they are operating.                of communication for the
+                                   guerrillas is the radio. There
+             Internal Supplies     are two types of radio
+      On the local level, if the   communications: tactical and
+guerrillas have funds, they        operative communications and
+purchase food and medicine.        strategic communications.
+However, this is rare; and
+these are primarily acquired by             Tactical and Operative
+stealing and pillaging from              These are the radio signals
+villages and towns temporarily     used by leaders to command
+occupied by guerrilla groups.      their units in operations,
+Known as “war taxes," farmers      marches, and encampments. Due
+and merchants are threatened       to the need for maneuverability
+with death if they fail to pay     and agility, radios used
+(comply).                          include walkie-talkies, citizen
+       In the cities, safe houses  band, and PRC-77.
+serve as storage and
+distribution points for the                            Strategic
+guerrilla’s supply network.              These are radio signals
+Large caches of weapons and        used by strategic commands in
+ammunition are kept at             order to have an overall vision
+convenient, centrally located,     of all the fronts of the war
+and relatively safe geographic     and to direct the war. In long
+locations.                         distance communications, a
+      In regions controlled by     variable selection of ham
+the guerrillas, the                radios are used.
+noncombatant camp followers are
+required to cultivate the land
+
+11-12
+
+
+---
+
+      When setting up a base                                          FM 34-2-1
+camp, the radio operator seeks     campaign (arms, food,
+a high location to establish       propaganda). Generally, raids
+effective communications.          are well planned and carried
+Radio waves require LOS; so        out in small units composed of
+it is important that the radio     three to twelve individuals.
+operators set up operations at     They occur more frequently
+the highest point to avoid         in the initial stages of an
+natural or artificial objects.     insurgency when few individuals
+The radio is always set upright    and arms are available. Once
+with the antenna in a vertical     their goal is achieved, the
+position directed towards the      force withdraws quickly and
+receiver with whom the             disperses.
+insurgent wishes to
+communicate. Messages are                                ASSAULT
+brief.                                   This is a more
+                                   sophisticated, complex attack
+      Relay stations bridge        designed to annihilate a target
+stations that do not have          and its defenders. As assault
+direct communication because       is of a larger scale and
+of topographic obstacles or        purpose, it requires the
+too long a distance. There         occupation of positions and
+are two types of relay             strategic locations since the
+station: manual (operated by       guerrillas are fighting against
+an individual) and automatic       prepared defensive positions of
+(signal is sent out                the enemy. At a certain phase
+automatically when received) .     of a local insurgency, the
+                                   prime goal becomes that of
+       FORMS OF GUERRILLA COMBAT   eliminating enemy units, thus
+       To prepare for combat, the  changing the correlation of
+guerrillas must train in           forces in the region.
+isolated locations. Figure
+11-5 shows a typical guerrilla                            AMBUSH
+training complex. Before the              This is an action carried
+guerrillas train on hitting        out by small units against a
+targets they are indoctrinated     moving enemy with great
+on the typical targets they        superiority in soldiers and
+should hit. Figure 11-6 shows      arms. Factors that influence
+typical guerrilla targets.         the outcome of an ambush are
+                                   location, terrain, position,
+                         RAID      camouflage, signals, and
+       This is a fast, surprise    retreat. There are three types
+action carried out against an      of ambushes:
+enemy position or force. I t s            o Annihilation--enemy
+purpose is related directly        troops sustain the maximum
+to current needs in the            number of casualties to reduce
+development of the guerrilla’s     or destroy the combat
+
+                                                                              11-13
+
+
+---
+
+FM 34-2-1
+
+=  om
+
+     Poe
+
+Zz                                             “ie?
+
+=                                                \\
+
+<                                                \
+
+E                                                 \\
+
+$ TOWN LOCATED                                         AS
+
+= SOUTHWEST FROM
+
+o THE TRAINING CAMP
+
+5
+G)
+
+LEGEND:                                           H / H                        Roads
+
+         @     Faxholes                                      Trench
+
+            |  Build                                              Bomb craters
+
+     uM        Destroyed or damaged buildings     % Hand-to-hand combat area
+
+               Athletic fields                               Underground bunker system
+
+                                               +  a ch 0 te este ae Ht 00 ti,
+
+                                               TITIIITIIII                     Perimeter defensive positions
+
+               Figure 11-5. Typical guerrilla training complex.
+
+11-14
+
+
+---
+
+ENGINEERING AND | COMMUNICATIONS                                                                FM 34-2-1
+
+ENERGY SYSTEMS          AND SUPPLY                                   TRANSPORTATION         HUMAN
+
+Hydroelectric plants    Communications lines and|                    Railroads              Embassy and government
+Offshore oil rigs       facilities                                   Bus depot              Officials
+Nuclear facility sites  Chemical storage sites                       Airports and aircraft
+Gas pipelines           Dock facilities                              Trucking facilities    Corporate executives
+Dams and electric       Equipment warehouses                         Shipyard, docks
+power lines             Chemical storage sites                       COMMERCE               Police
+                                                                     Banks
+Water supply            Computer facilities                                                 Dependents of the above
+
+                                                                                            Schools and school buses
+                                                                                            Areas catering to personal
+                                                                                            needs
+
+Oil and gasoline storage |Weapons storage sites                      Gun and sporting       | Members of military forces
+                                        (special and conventional)|  goods store              and their dependents
+
+Repair facilities                                                                           Foreign tourists
+                                             Food storage
+
+Explosive storage
+
+                                             MILITARY
+
+Sensitive weapons       Logistic and storage                         Command and            Explosives
+Arms                    facilities                                   control facilities     Recreational facilities
+Ammunition                                                                                  Aircraft
+POL storage             Computer facilities                          Vehicles               Maintenance facilities
+
+                        Communication centers
+
+                        Figure 11-6. Typical guerrilla targets.
+
+                                                                                                                     11-15
+
+
+---
+
+FM 34-2-1                                  o Single firing or line
+effectiveness of the government     formation.
+forces. Figure 11-7 shows a
+typical annihilation ambush.               o Diamond formation.
+                                           o Wedge formation.
+       o Harassment-- enemy troops         o “L” formation.
+are harassed by engagement in              o Two-echelon formation.
+small skirmishes to destroy                o Fan formation.
+their will or to distract and
+tire them, thus causing                           COLUMN FORMATION
+deterioration of morale.                   Column formations are used
+Figure 11-8 shows a typical         for deploying from one area to
+harassment ambush.                  another when government forces
+                                    are not present. When this
+       o Containment--enemy forces  move is performed by a squad,
+are surrounded by mines,            all members know their places
+obstacles, and small arms fire      in the formation. Positions
+to halt movement to and from a      are numbered in advance by the
+specific area; usually to keep      squad leader, and each numbered
+them from reinforcing a             position is assigned a mission.
+government unit in contact with     Odd numbers are used for the
+insurgents. Figure 11-9 shows       left file of the column; and
+a typical containment ambush.       even numbers for the right
+                                    f i l e . The squad leader
+          INSURGENT MAP SYMBOLS     determines the spacing between
+      These are the symbols used    personnel based on the terrain
+by known insurgent groups.          and visibility.
+Figure 11-10 shows the military           When required by terrain
+mapping symbols. The listing        and operational needs, the
+includes many military mapping      squad leader divides the squad
+symbols used by the Soviet          into two groups. The assistant
+armed forces; however,              squad leader takes the second
+different meanings have been        group. This formation is
+applied.                            normally used for movement
+       Insurgents normally use the  over terrain where there is
+symbols that are taught to them     no probability of attack.
+by the country that is              The squad's fire power is
+providing training and              concentrated on the flanks;
+equipment. Also refer to DA         therefore, the point and rear
+Pam 381-3 for insurgent             are very weak. Figure 11-11
+military map symbols.               shows the column formation.
+
+           MOVEMENT FORMATIONS
+      Movement formations
+include--
+      o Column formation.
+
+11-16
+
+
+---
+
+                                                          FM 34-2-1
+
+y),LEGEND:
+                             AS Guerilla firing points
+                                                      (small arms)
+
+                                           eo .
+                                  o” Withdrawal Routes
+                                yA
+
+                                                   Government force wheeled
+
+                jae vehicie (personnel)
+
+s                                          Claymore mine
+
+                                           {electric detonator)
+
+Figure 11-7. Typical annihilation ambush.
+
+A                                          Guerrilla firing points
+
+                                           (small rifle)
+
+rd                                         Withdrawal routes
+
+                 Government force wheeled
+
+| vehicle (personnel)
+
+Figure 11-8. Typical harassment ambush.
+
+                                                                 11-17
+
+
+---
+
+FM 34-2-1
+
+LEGEND:                                  VaS rnN e4 r!
+
+  Ar Guerrilla firing points                vy >
+
+           ° (small rifie)            ~              __
+
+éo Withdrawal routes                  7, _ it
+
+ « Road block (obstacle)
+
+f Row of mines
+
+ ro Government force wheeled
+
+                 vehicle (personnel)
+
+           Figure 11-9. Typical containment ambush.
+
+are not present. When this            group. This formation is
+move is performed by a squad,         normally used for movement
+all members know their places         over terrain where there is
+in the formation. Positions           no probability of attack.
+are numbered in advance by the        The squad’s fire power is
+squad leader, and each numbered       concentrated on the flanks;
+position is assigned a mission.       therefore, the point and rear
+Odd numbers are used for the          are very weak. Figure 11-11
+left file of the column; and          shows the column formation.
+even numbers for the right
+f i l e . The squad leader                            SINGLE FILE OR
+determines the spacing between                  FIRING LINE FORMATION
+personnel based on the terrain
+and visibility.                             This type of formation
+                                      is used when necessary to
+      When required by terrain        cover a 100- to a 300-meter
+and operational needs, the            area. Figure 11-12 shows
+squad leader divides the squad        the single file or firing
+into two groups. The assistant        line formation. It is used
+squad leader takes the second         when--
+
+11-18
+
+
+---
+
+                                              UOIEAIasqo                                     JOPURLWLWOD                                                                                                  UWN}OD
+                                                                                                                                    rea
+                                              ysod                                           JO Jepea]                              weans
+
+                                                                                                See                                 eyoozeg
+                                              auiyoey             un6                                                                                                                                 ysod |e.l|pe-W
+                                                                                          LI
+                                                                                             PUPWILUOD                                              yUBYeQuUOD
+
+                                              OF JEQued                     J0                                                                                                                                   uonoeg
+                          und                                                                                                                                                                    uoO wid
+                                              Jobue| eulyoew                                                                                                                                                                  penbs
+          \ <—~« < =O <{— +—©)
+                                                          yuenuy                  uodeam                                                                                                                               an)
+       Figure 11-10. Military mapping symbols.
+                                                          o-Ddu             6Z-W             OIPEY                  ous
+
+                                                                                                                                    UCOId    Jepea|
+
+       apeua6                                                     Jayoune;
+
+                                              as BIGISSOd                                    SIIQOW                 Opel
+
+                                              SSAYOOSs            BIJ                                                     eg folls  uoIoesS  Japee}
+
+                                                                                                                                                                                                                       BIGISSOd       SOUNUG
+
+                                              sot ww Asayie                                  penbs
+                                                                                             —UONeNp
+                                                                                                                                    Aweu
+                                                                                                       uoissaideq]
+                                                                                                                                                      “ye                                                              BIQISSOd       SOYOUAL)]
+
+                                              SQISSO                                      Y                                                                                                                            LUM BAISUBJOP
+
+                                              yesourenue                                                                                                                                                               uonsod
+
+                                              euiysew             un6                        dO                                     Aweug    uonisod
+
+                                              0g ww pue                                                                                                                                                                Aayiuy         yoedu
+                                              OZE ww
+                                              SJEYOUW                                                                                                                                                                  seale
+
+                                              PROWIeYy                                       YEW                    anos            e6pug             KKK XXX X DIMA SOUS}                                                                       FM 34-2-1
+
+                                                                  syoes)
+
+11-19                                         UONJEASIZ OUl] JO adi}                                                                yoinyo
+
+
+---
+
+FM 34-2-1
+
+  ®) Squad leader
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           A
+
+     Direction of movement (>) ( ) ( ) (/) () () (>) (S2)
+
+                                                                       NS Ne Ne M7 Nee NL NN ZN” Ne
+
+                                                        Figure 11-11. Column formation.
+
+5. 00bdddb¢
+              Assistant squad leader
+                                      Figure 11-12. Single file or firing line formation.
+
+S Squad leader                                 A
+Y) Assistant squad leader
+                             “5 C) ad
+                           ~ C)
+
+       e Figure 11-13. Diamond formation.
+
+11-20
+
+
+---
+
+               WEDGE FORMATION                                         FM 34-2-1
+      A wedge formation is used     the insurgents change the
+for advancing or performing         above-mentioned formation. At
+reconnaissance over open            this time, the insurgents on
+terrain. This formation covers      the right extend to that side,
+the front, as well as both          while those on the left extend
+flanks; however, the rear is        to the right. (See Figure
+undefended. This type of            11-16.) The combatant from the
+formation is used mainly to         rear guard at the right flank
+move where there is a               maneuvers, while providing rear
+possibility of being attacked.      security. The group on the
+It can also be used to break        left that heads the team
+or penetrate an enemy barrier.      secures the front.
+Figure 11-14 shows the wedge
+formation.                                    TWO-ECHELON FORMATION
+                                          This type of formation is
+                 "L" FORMATION      used for a deliberate attack or
+                                    a movement to contact. While a
+      The “L” formation is an       squad advances, the other one
+attack formation used in two        supports it; and upon occupying
+flanks. Figure 11-15 shows the      a new position, the one
+"L" formation. It can be used       advancing stops and provides
+before the assault by deploying     support while the other unit
+one squad to gain a shock while     advances. Figure 11-17 shows
+the remaining squad provides        two-echelon formation.
+security. From the formation
+of a single to a double column,                      FAN FORMATION
+it can quickly change to a                This formation is used when
+diamond formation. These            the commander calls the unit to
+changes take place on command       assemble to assign a mission or
+and are performed as discussed      issue other directives. The
+below.                              voice of command is: “SQUAD
+                                    ASSEMBLE.” Figure 11-18 shows
+                 Double Column      the fan formation.
+      Upon command, odd numbers
+extend to the left, while even               TACTICAL COMMAND BASIC
+numbers extend to the right.                          ORGANIZATION
+One combatant leads the
+formation at the front while               Basic organizations for the
+the one at the rear provides        tactical command are the basic
+rear security. Figure 11-16         unit operations, basic platoon
+shows a double column               operations, and breaking
+formation.                          contact. Figure 11-19 shows
+       Changing Double Column to    the basic organization.
+
+            a Diamond Formation           A basic unit operation is
+       In order to change a double  when one squad conducts
+column to a diamond formation,      reconnaissance for about an
+                                    hour before the rest of the
+
+                                                                              11-21
+
+
+---
+
+FM 34-2-1
+
+       &) Squad leader                                         ne
+
+               Direction of movement..                             a
+
+                                                           &)
+
+       VY) Assistant squad leader                                   Q5
+
+                     Figure 11-14. Wedge formation.
+
+       & Squad leader
+
+       <a Direction of movement
+
+          iia                                              IOOO
+
+       VY)     Assistant Squad Leader                         SDOOO
+
+                                            Figure 11-15.  “L* formation.
+
+       &) Squad leader                                             oS)
+
+          Direction of movement                                  OOO
+
+       ~
+
+       (/) Assistant squad leader
+
+                     Figure 11-16. Double column formation.
+
+K >                                                              A  A
+XY Squad leader
+
+                                                                    1   |  i  I
+
+JS) Assistant squad leader C) C) C) a
+
+                     Figure 11-17. Two-echelon formation.
+
+11-22
+
+
+---
+
+                                                                              FM 34-2-1
+
+&) Squad leader                    C)       0)                                C)
+
+(/) Assistant squad leader         O)                                         O
+
+                                       O OC) SQ ©
+
+NOTE: Assistant squad leader has no set position.
+                                     Figure 11-18. Fan shape formation.
+
+                      ER AND           (42)
+                                                       2. PLATOON (21)
+     1. PLATOON (21)
+
+(7)  (7)                      (7)      (7)                               (7)     (7)
+
+          Figure 11-19. Basic organization.
+
+                                                                                  11-23
+
+
+---
+
+FM 34-2-1                         r o l e . You enhance your R&S
+                                  plan and the information
+unit follows. This                obtained by gaining the support
+reconnaissance squad then         of the civilian population.
+occupies key positions for        You also become familiar with
+observation to prevent            the civilian populations
+government forces from            attitude toward their own
+surprising the unit.              government and the US forces.
+                                  In most cases, your R&S asset
+      A basic platoon operation   will observe or monitor groups
+is when the first squad           of civilians to determine if
+provides frontal security, the    they pose a threat.
+second squad covers the flanks,
+and the third assumes the rear          The understanding and
+guard role.                       analysis of the civilian
+                                  population during the IPB
+      When breaking contact with  process impacts greatly on the
+the enemy, the first platoon      R&S effort. A lesson learned
+acts as a delaying force until    from Operation Just Cause is
+the second platoon withdraws;     that "the population cannot
+after which, the first platoon    read maps nor give grid
+withdraws by squads. Figure       coordinates." Therefore, when
+11-20 lists the sounds produced   providing the intelligence
+during basic operations.          information part of IPB during
+Figure 11-21 shows a typical      prehostilities, build a street
+base camp which is the hub of     map, showing city landmarks;
+all operations.                   use this with civilian
+                                  informants.
+       INTELLIGENCE PREPARATION
+            OF THE BATTLEFIELD                      IPB PRODUCTS
+                CONSIDERATIONS          Products produced during
+                                  the IPB process impacting on
+      The doctrine that threat    the R&S effort vary depending
+forces use to operate in LIC      on the threat. The mission
+may not be well known. Your       requirement influences the type
+initial IPB effort will           of overlays and subject
+probably require you to modify    categories needed. The
+some IPB products to account      following paragraphs cover some
+for the LIC environment. These    LIC IPB products and how they
+products can help you plan        relate to the R&S effort.
+R&S . Factors not graphically
+portrayed during the normal IPB                 Incident Overlay
+process which come into play            The incident overlay
+during LIC include social,        provides the historical data
+political, psychological, and     needed to look for trends and
+economic factors.                 to conduct pattern analysis on
+                                  the threat. Figure 11-22 shows
+           CIVILIAN POPULATION
+      During LIC operations the
+civilian population plays a key
+
+11-24
+
+
+---
+
+                                                                FM 34-2-1
+
+         SOUND                      HUEAM R GAA N HN EAR Iv
+
+ Normal conversation can be heard             90 to 100 meters
+Conversation in a low voice                   35 to 45 meters
+Conversation of words                        70 to 80 meters
+Normal footsteps                             20 to 30 meters
+Footsteps over leaves and branches           60 to 80 meters
+Sound of coughing                            55 to 65 meters
+
+Sound of something being dragged             10 to 20 meters
+Cocking a weapon                             400 to 500 meters
+Rifle shot                                   2 to 3 kilometers
+Automatic weapons fire                       3 to 4 kilometers
+Machete cutting                              150 to 250 meters
+Cutting down trees                           250 to 350 meters
+Trees falling down                           750 to 850 meters
+Digging trenches                             1 to 2 kilometers
+
+NOTE: This chart is based on the approximate distance heard without any outside disruptive influence.
+
+               at sea level.
+                                                             Figure 11-20. Sound chart.
+
+                                                                                                         11-25
+
+
+---
+
+FM 34-2-1
+
+                                                                  N\ye,
+
+                                            \f
+
+                                                AN
+
+                                      Sa Ne go
+
+                                   ,  HOSPITAL. j'                                       °
+                                         KITCHEN ; \
+
+                                         }                                   \
+
+                                                                                               \
+
+                                                                                                                 f
+
+                                   A‘                                                          --  \
+                                                                                      KITCa HEN /S e\ VS aa:A
+
+                                         fio
+
+                                      TAILOR SHOP ,fyo\\
+                                         / | BARRACKS/SUPPORT                                  apuiit BLOG_
+                                      i                                  BL        i  ;         ! (AV) aa 7
+                                                                                                              /
+                               -2     /B\ | (MAIN HOUSE)                              ue
+
+          -2e                                                  !                /        i”
+
+a                                                                                  SHELTER_.
+
+                                                                                   4
+
+                                                                                         \.
+
+                                                                                         4
+
+                                      o_*
+
+LEGEND:                            Building                                              (AV)  Air visible
+                                                                                          @
+       | |                         Trench                                                      Foxhole
+                                                                                       A
+     AAA                           Trail                                                       Cave
+                                                                                      ==22=2=
+    ---222                         bunker                                                      Entrance unimproved
+
+       Me                          Construction or obstacle                                    road or trail
+                                   is not active at this time
+
+                                      Figure 11-21. Typical base camp.
+
+11-26
+
+
+---
+
+t e+                                                        die                                                                                                                                                                                                                                                                               FM 34-2-1
+
+                                                            ré*,°                                                                                                                                                                                                                                                                                 Sf.
+
+                                                                 4 3? 7                                                                                                                                                                                                                                                                                     -RED
+                                                                   \4i. 4                                                                                                                                                                                                                                                                     8. GREEN
+
+ny Mata                                                           f ee e
+
+                    ~€ ‘ose                                 f                                                             Kx                                                   4 36aM                              ?                                                        +  4  .          } ye     .  i.
+                                                                                                                                                                                     , »,?
+                            ‘<A? ite “« Ae                        ©              at                                         e549                                                                          i. 4,3;    *,                                                               4
+                                                                                       .                                       us                                                    4
+                                               ah  a                                          ‘.                                  Me a4 3                                                 " . >                             if
+                            Yet
+                                                                                                Me                                                  ate                                                4                  :? 4H
+                                    * ¥-                                                                                                                                                                                  3
+                                                                                             4?                                         . xo
+                                                                                                                                                                                                                                              |
+                                                                                                            >.                                                  alt                                                                                         ’
+                                                                                                                       ,                                           ‘Fa
+                                                                                                                                                                                                                                                        ft
+                                                                                                                                                                            4                                                                                   +
+
+                                                                                                                                                                                                                                                                        he
+i        a “4iets “«                                                          rete      te ee                             oe yey                                                                          a ais naa                                                            .  >.                     4
+  <4                                                                               ett
+fi PPP aa                                                                     ete                                                                                                                                                                                                        “4        o         Me
+                                                                                        ey                                                                                                              na ak rheite enh a a OeOO
+ad “g                                                                          ee
+
+                                                                              S"aieain aoo syim ae ae a2 Smee y Aah mam ah
+                    3 Fe y a                                                  Bfe hetler,tAye aetetskEaReRakr‘~yhETkE     Ta=heah,aAlh,a=A lAly                                Sy-ty“mnpyxC.=aa ope1 fagyetT MayeatMite yT aeh.tayR N fea ehEiehh tyaE!T+E ,
+                      oe te
+                                                                                                                                                                                         a R
+                                          ‘aI  “   4  «  «                 aTagkyE tyty my e ha tt a Am tyite dgh Mh ate eMye oA rAM 8 ry                                                                                                                                                .
+
+                                                                           °
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                    Cod ed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                           ‘e  St “<<< Lets
+
+                                                                                                                                                                                                                                                                                                                                                                              ~                    Py~ ‘s                  ‘4                             etd
+
+                                                                                                                                                                                                                                                                                                                                                         on
+
+                                                                                                                                                                                                                                                                                                                                                         Cot
+                                                                                                                                                                                                                                                                                                                                                              Sette
+
+                                                                                                                                                                                                                                                                                                                                                                   Wisse!
+
+                                                                                                                                                                                                                                                                                                                                                         Mo                   4 “+ “< ‘¢ 4 Ca a —¢e“ ed                    “P qet Fi 23) Fs! Cae at PeayHe (eke
+
+                                                                                                                                                                                                                                                                                                                                                                CGoe                                   ce 7!
+
+                                                                                                                                                                                                                                                                                                                                                     ri S4 3 = ~              7!
+                                                                                                                                                                                                                                                                                                                                                     “4 “f dS   J!¥“A(Ae te “4
+                                                                                                                                                                                                                                                                                                                                                                                                   ‘td i (Aa2 Seid 7;if “7!                             at eS Pa] Bdeet?
+
+                                                                                                                                                                                                                                                                                                                                                     aco        A
+                                                                                                                                                                                                                                                                                                                                                     Ma            Cite                                              “4ee
+
+                                                                                                                                                                                                                                                                                                                                                     >eet
+
+                                                                                                                                                                                                                                                                                                                                                         33595!
+
+                                                                                                                                                                                                                                                                                                                                                                  Sed
+                                                                                                                                                                                                                                                                                                                                                                      >
+
+                                                                                                                                                                                                                                                                                                                                                               Ct
+
+                                                                                                                                                                                                                                                                                                                                                                            foe
+
+                                                                                                                                                                                                                                                                                                                                                               eed
+
+                                                                                                                                                                                                                                                                                                                                                                               “SH
+
+                                                                                                                                                                                                                                                                                                                                              <      “< iGexGAd Pi aC 5 ‘4a.‘eAeae                 i                       3                              o
+
+                                                                                                                                                                                                                                                                                                                                                     SK                                                ce i >i Ce                   Fj                    ite    4. ‘;(M4 3) “<eid
+
+                                                                                                                                                                                                                                                                                                                                                          3 Sf CF G             al                 {                                                                              et
+
+                                                                                                                                                                                                                                                                                                                                              Gi <<                             g                                          “¢ “€ Pj 7)                    ‘4 cAoq                 my ‘A toe
+
+                                                                                                                                                                                                                                                                                                                                                                                                   Cite                              odC4(Ae
+
+                                                                                                                                                                                                                                                                                                                                                                                “<
+
+                                                                                                                                                                                                                                                                                                                                                                                                   7;
+                                                                                                                                                                                                                                                                                                                                                                                                     Hy)
+
+                                                                                                                                                                                                                                                                                                                                                                                                      ‘ahah
+                                                                                                                                                                                                                                                                                                                                                                                                         Sit
+                                                                                                                                                                                                                                                                                                                                                                                                              r7 i
+
+                                            LEGEND: (not to scale)                                                                                                                                                                                                                                                                                     ee Oi
+
+                                                   nan Rairoad £25? Contour                                                                                                                                                                                                                                                                   emeeee at
+                                            yy Ma|pr road ,= . Heavy vegetatiIon
+                                               -——~         Bridge                                                                                                                                                                                                                                                                               a Se es
+                                                                                                                          RED - Insurgent attack, sabotage,
+                                                             ,                                                                                                                 and killings                                                                                                                                                                11-27
+                                            —-- Aiport
+                                                            Building YELLOW- Possible insurgent surveillance
+                                                                                                                                                                                                                                                                                                                      g0n88                              ot        4 itd                           oo Py!                  brpl
+                                                                                                                                                                                                                                                                                                                        sengene
+                                                                                                                          BLACK - Site or target penetration,                                                                                                                                                    —                                   ot  A i                                                               “ 44                           LG
+                                                                                                                                                                                                                                                                                                                 sae          paee
+                                            Wii ~=Dam                                                                                                                          attempted penetrations
+                                                                                                                                                                                                                                                                                                                              uaane
+                                                                                                                                                                                                                                                                                                                                th
+
+                                                                                                                                                                                                                                                                                                                                     8
+                                                                                                                                                                                                                                                                                                                                       TT)
+
+                                            a Riiver                                                                      GREEN _- I‘annsdurSgreonptlsiesg(aftohoerd, weeqaupipomnesn,t                                                                                                                               guage
+                                                                                                                                                                                                                                                                                                                        eqauane
+                                                      Mines                                                                          and money)                                                                                                                                                                            trite
+
+                                                                                                                                                                                                                                                                                                                              T L
+
+                                                                                                                                                                                                                                                                                                                              guaan
+                                                                                                                                                                                                                                                                                                                                C o
+
+                                                                                                                                                                                                                                                                                                                                     ggucena
+                                                                                                                                                                                                                                                                                                                                       aand
+
+                                                                                                                                                                                                          Figure 11-22. Incident overlay.
+
+
+---
+
+FM 34-2-1                                 o Patrol LOC.
+an incident overlay. You can              o Patrol critical sites.
+identify the types of missions            o Provide coordination
+the insurgents tend to favor       between local law enforcement
+and determine the insurgent        and host nation military units.
+AO. This map will show                    o Provide sketches of
+insurgent control or lack of       insurgent bases.
+control in specific areas.               When briefing patrols, the
+                                   SITMAP warns of danger areas
+       Based on this overlay,      such as mines or insurgent
+considerations on where to         controlled areas.
+focus R&S assets are made.
+Figure 11-23 shows an incident                          Trap Map
+matrix. By constructing an               The trap map identifies
+incident matrix, the analyst       targets the insurgents will
+can determine the times, days,     attempt to sabotage or attack.
+or methods when insurgents will    Figure 11-25 shows an LIC trap
+attack targets and can             map. These targets may
+determine their operational        include--
+trends. The incident overlay             o Hydroelectric plants.
+will require coordination with           o Weapon storage sites.
+the host nation to ensure                o Airports.
+complete and accurate                    o Banks.
+information.                             o Government offices.
+                                         o Terrain favoring
+                 Situation Map     ambushes.
+      The insurgent situation map        Analyze these areas for
+(SITMAP) is built from the         insurgent access and escape
+incident overlay. Figure 11-24     routes. Preplan use of R&S
+shows an LIC SITMAP. The           assets to support trap map
+SITMAP adds current                areas in case indicators show
+intelligence and activities        insurgent intent to attack.
+which indicate insurgent           Photographs or sketches of the
+movement, resupply operations,     areas can help the analysis and
+or attacks. You will confirm       planning process.
+or deny information on the
+SITMAP using R&S assets. These
+assets--
+      o Monitor insurgent supply
+routes.
+      o Monitor radio
+transmissions.
+      o Visit civilian
+communities.
+
+11-28
+
+
+---
+
+                                                                  FM 34-2-1
+
+     ACTIVITY            DATE/DAY   TIME               LOCATION
+
+     Surveillance of     06 Sep    1000                    grid
+     hydroelectric       Friday    to 1800             * yellow
+     plant
+                                   2000                     grid
+. Railroad bridge        12 Sep    to 2300             * red
+    sabotaged            Thursday
+                                   0800                     grid
+     Personnel watching  08 Oct    to 1500             * yellow
+     airport             Monday
+                                   2100                     grid
+     Bridge sabotaged    21 Sep    to 2200             * red
+
+                         Friday    0244                     grid
+                                                       * black
+     Attempted           03 Oct
+     penetration of      Thursday
+     hydroelectric
+     plant
+
+     Mine kills two      15 Oct    1700                    grid
+     government troops   Saturday  1200                * red
+                                   0230
+. Mine damages bus,      15 Oct    2100                    grid
+    1 killed 5 injured   Saturday  0330                * red
+
+     Food stolen from    17 Oct                            grid
+     village warehouse   Monday
+                                                       * green
+     Mayor executed      18 Oct
+     in village          Tuesday                           grid
+                                                       * red
+10.  Police uniforms     18 Oct
+                         Tuesday                            grid
+     and weapons
+     stolen                                            * green
+
+* Color code activity and plot on map as dot with activity
+number next to it. Look for patterns where insurgent forces
+are concentrating efforts. Identify insurgent targets and
+possible isolation or terrorizing of villages. Analyze matrix
+for times or days insurgents may tend to conduct specific
+operations.
+
+                       Figure 11-23. Incident matrix.
+
+                                                                  11-29
+
+
+---
+
+11-30                                          ne=                                                                                                                                                                                                                                                                                                           O                                                                                 PRR ABA                                                                                                                                                                                                                                                             FM 34-2-1                                 L                                                                                                                     iCal
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          SRS S                                                                                                             =z <a
+                                              ssa                                                                                                                                                                                                                                                                                                            _J                      EE RE RRR RRR RRR                                                                                                                                                                                                                                                                                                                        astetais ROP                     |                                                                                                                   t y
+                                              bo                                                                                                                                                                                                                                                                                                             tJ                                                                                                                                                                                                                                                                                                                                                                                      =e
+                                              | RY                                                                                                                                                                                                                                                                                                           t i                                                                                                                                                                                                                     R R                                            R R                ‘,)                                      ODO          IER                                                                                                                                                                   ?
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ss
+                                              aoc                                                                                                                                                                                                                                                                 <                    =                              ~O              EE ERERERR                                        REPRE  itsh atahalaha shahah latetet55 eG                                                                                                                                                       etete                                                                                                        aa s e
+                                                                                                                                                                                                                                                                                                                                                                   Zz                                                                                                                                                                                                                     ER RRR RRR PRR                                                                                        EPP RPV PPP                                          ges
+                                                                                                                                                                                                                                                                                                                                                                                     tahatattalatatgtgtat                                      tatahatalatgtatehtaalataCaaah UGt EaAEGEH EEE eee
+                                                                                                                                                                                                                                                                                                                                                               ;—                    NN MAMREEEEMMAM                                                                                                                        HARB tetee tetas » ft ,                                                                                                                                                                                                  =
+
+                                           2 co     2                                                                                                                                                                                                                                                                                  2z                           Cc                                                                         tetasesatteetg asetet                                                                                                                                                                      4
+                                                                                                                                                                                                                                                                                                                                                                    o
+                                           ®          :                                                                                                                                                                                                                                                                                     re)              G Par                                                                             ata ete eaetatetate                                                                                                                                                                              cheetlek ea
+                                                                                                                                                                                                                                                                                                                                            ra                      ~                                                                                                                                                                                                                THRE                                                     eles heattetetat
+                                                                tc                                                                                                                                                                                                                                                                          hoadO                                                                                              etetetatatetetalsetetettateelatactatateellattactsatetetets                                                                                 cletetatatatatetatet
+                                                                                                                                                                                                                                                                                                                                                                                                                                               atetelabatelehteetlaetteaftecttaetetalettectkeetatetetasetafetetetatetetate
+                                                                                                                                                                                                                                                                                                                                                                                                                                               ceeadyeceetaeye                                                                                                                                  ehetahetetetatecetanetatacececesag
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                «                                                                                     ¢
+
+                                                                                                                                                                                                                                                                                                                                                             &                                                                                                                                                              tearetelatatettatecetatetetataata
+
+                                           52 § &                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   afe§                                                                                         yasetetetertetetaty                   atetete
+                                                rep) i.
+                       Engagement between  _Cc a o                                                                                                                                                                                                                                                                =                                                                                                                                                                                                                                                                                                                                                                                                           tatetate! eee                     5}
+                   host nation forces
+               and insurgent forces        2a 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              RR                               hetete
+                                           5 8 © Ss
+       Figure 11-24. LIC SITMAP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             a ehedatefetel                  alekefae
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             4 etek eetaete                  etal
+
+                                                 N                                                                                                                                                                                                                                         ®                                      oy)
+
+                                            Oa. o fon .                                                                                                                                                                                                                                                Ss                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   eetafetatetaSetaetetetatete seseeseyeaszeraqeycsehetatetetasetatetateteaga
+
+                                              8                                                                                                                                                                                                                                            8”                     9                                                                                                                                                                                                                                                                                                                                                                                                                                          Hatteras                                                                                                       3
+                                              oS
+                                              & ¢5
+
+                                              _                                                                                                                                                                                                                                                                   Cc                                                                                                                                                                                                                                                                                                                                                                                                                                                            atetatatetetatetate satetSeattaetceefatete
+                                                                                                                                                                                                                                                                                                                  E
+
+                                                                                                                                                                                                                                                                                                                  §
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                               taSslataeesteletatecececesnecesees                                           esekeletetelahatetetatste                                                                                                                                                   ta'a ee
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                               ecatatatatatetatatatatetetatatatetetss atatetatatatatatetestettaeletat                                                                           ata                                                                                                   atatatelatatetetafete
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ats tate a
+
+                                                                                                                                                                                                                                                                                                                                                                                                           latetalatalalatetatatetata!  (3 te! tghate tata gta lata hggg hghgggg                                                                                                                                                             atahatatatatelatalatatatatatatatetatatatetatetals                                                                                  288                                         aeeen
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                alata gatgtalal                           Oat                                                                                                                                   abeen
+
+                                                                                                                                                                                                                                                                                                               M                                                                                           etatelatatetehatatatatetatelalatesatteettaatetteatettaatteetatatetatatatetatatatetatetetetetetatetctatetetetatate lelatetatatatetetatetatateletaseceteletetetelatatetece                                                                                                                      f                                                                      asan ea
+                                                                                                                                                                                                                                                                                                                                                                                                                teeta etaletate
+                                                                                                                                                                                                                                                                                           asfelsasecettetatasaces                     WH                                                                                                                                                                                                                                                 tastate ates tatCatala ate eee fetetekel Caleta aeaka                                                                                                                                 apan
+                                                                                                                                                                                                                                                                                                                                                                                                                       Hi                                                                                                                                                                                                                                                                                                                                                       enann
+                                                    HRRRaRteSateCHagatacaRneecasAecPetacaReecssecKsasesaHdeeaeceet                                                                                                                                 akssetetaattaafesteatteatetteattsettaete                                            stetelattaes                                                                                                                                                                                                                                       WRK)                                                                                                  Harr                                                                            aga an
+                                                                                                                                                                                                                                                                                                                                       URRRRRERRERH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Ss
+
+                                              hatahatatelatatetateteacteatteaSetatatcaattaatteettaatetatetteetteatteelsttaetfeestaccteattaeqtaactseeelautseeseatseetacatatatetacets atchehatatetatetetatatetetststetatatececetasesecesecctdescerd                                                                                                                         hataesata                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      \
+
+                                                    ‘ fe etetatatatatabctedaaatelgte*                                                                                                                                                                                                                                                                igtas'
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ERetKatateatataetatshtgtstg ateeePeRReG e gEstetetE,aededs Sohal REE PRErete et                                                  ‘,
+
+
+---
+
+FM 34-2-1                                                                                                                                                                                                           11-31
+
+                                                                                                            >
+
+                                                                                                            >
+
+                                   *?                    My                                                 Contour
+                                                      ‘                                                           Fence
+                                L  bgt tat
+                                                                2H                                                 A a Culvert
+                                   aac                                                                                        \/ GSR
+
+                                          HPPff > if                                                                                     A OP/LP
+
+                                eeteteats 3h                                                                                                               INQ Scout team
+                                  fatal OER fete                                                                                                                                       Figure 11-25. LIC trap map.
+
+                                Pebaatee h‘atfet,as iheiaiete'
+                                 sett Pees eee
+
+              \ a~\ Lt
+
+                           <                                        Cy                            =  a
+           * K oO Me                                                m Gt                          o
+                                                                    Fests eh
+
+           i            x  [a                                       SERED eenaiaaen TR            -~ G -2                          9
+
+                           1S)
+
+           mt | :                                                          eafa BY 3}             28585 o      .= °baw ra]  oO @
+
+                            >                                       ee enn                                       8-58       23
+                                                                    Ey                            xsesoata     SEE          SB
+                                                                              Ghee ethelfa rH KH
+
+                                                                                        i                      S            ‘
+
+                                                                    RECEG Gt ketal, ;bw —                      BS S         eet e
+                                                                                                               La           x
+
+
+---
+
+FM 34-2-1                                       o Scouts.
+       Population Status Overlay                o GSRs.
+       Figure 11-26 shows a                     o REMBASS.
+                                                o OPs.
+population status overlay.                      o Radio intercept
+This overlay portrays the                and DF.
+attitude of the population in            Additional assets depend on
+your AO and AI. It shows who             force package and may include--
+supports the government, who is                 o AN/TPQ-36 countermortar
+neutral, and who supports the            radar.
+insurgents. This overlay can                    o AN/MPQ-49 FAAR.
+further classify population                     o Army aviation.
+into tribal, religious, ethnic,                 o QUICKFIX and CI and
+p o l i t i c a l , or economic groups.  interrogation of prisoner of
+The detail of information on             war teams, supporting MPs,
+this overlay depends on                  and host-nation law enforcement
+insurgent strategy and                   and intelligence units.
+availability of information.
+                                                               PATROLS
+       Focusing R&S assets toward               In LIC operations,
+a particular group may provide           patrolling is one of the
+vital information on insurgent           primary ways to obtain and
+a c t i v i t y . Knowing pro-           develop information. Patrols
+Government areas and                     collect data on population,
+proinsurgent areas will also             insurgent activity, and terrain
+help protect your limited R&S            by using a combination of
+assets.                                  route, zone, and area
+                                         reconnaissance.
+                      ASSETS                   Effective patrolling
+      R&S assets available during        provides the location,
+LIC operations depend on                 strength, and disposition of
+mission and host-nation                  insurgent forces. Patrols can
+support. Peacetime contingency           confirm insurgent weapons and
+operations will require less             the presence of foreign
+R&S assets than counter-                 military advisors. Areas
+insurgency operations. Close             requiring special attention
+coordination with the host               while planning patrols include
+nation will be vital.
+Information received from local
+agencies will supplement the
+R&S plan.
+      Typical collection assets
+available to brigade and
+battalion S2s during LIC
+operations include--
+      o Patrols.
+
+11-32
+
+
+---
+
+FM 34-2-1                                                                                                                                                                                                                                                                                                                                                                                                                                                                        .                                                                                                                                                                                                                                                       11-33
+
+                                                                                                                                                                   ~x                                                                                                                                                                                                                                                   SG Gt GOCCeGit:     settee                    tatatet tata ate tet aleSG  HRstahNetedatytetad    Py pe
+                                                                                                                                                                                                                                                                                                                                                                                                                                            GGSGG
+                                                                     stetete                                                                                                                                                                                                                                                                                                                                                                                                     GQGit                                   MMR              Lb
+                                                                                                                                                                                                                                                                                                                                                                                                                                         a gtatetetatatatatats                                                   aatete  PgtgtataLtats P
+                                                                                                                                                                                                                                                                                                                                                                                                                     .                                                                                                   Sid
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ett
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                         hh                           te£98 eGy t       fy’                              4Fhaght iggthke’
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   td
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                errr           rye
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                oe bet oe pt bi         a“                                                ‘
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                         > ghetetel oHett, f,t        $4,                                                                 ry
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ‘
+
+KAN  xX
+
+                                                                                                                                                                                                                                                                                                                                                                                                                        Se EZ                                         LEGEND (not to scale)                                                                                                                                                                                                                                         eae
+                                                                                                                                                                                                                                                                                                                                                                                                                        , ATAR.I RRO KOS                                               Pro- Government
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                gEs d — £®5os
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         5
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             = Building <D Proinsurgent
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               WE Dam ESB Neutral .
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        iver
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Mi
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Figure 11-26. Populat ion status overlay.
+
+     NXte ven De ARACEAE LOIOOOO es ILI gt
+
+
+---
+
+FM 34-2-1                            Augmentation of native scouts
+rivers, streams, and                 familiar with the area provide
+agricultural areas. Patrols          an advantage. Again,
+conducted around key                 communications and security are
+installations give early             primary limitations to scout
+warning and prove effective          operations.
+during CR or security missions.
+                                                              GSR
+      Limitations to consider              GSR missions in an LIC
+include communication and            environment may include
+s e c u r i t y . The primary means  continued search of open
+of communication for dismounted      areas or surveillance of
+patrols is the FM battery-           point targets. GSRs are
+powered AN/PRC-77. Also,             very effective when integrated
+the patrol's small size leaves       into R&S plans for
+it vulnerable to ambush or           installations, bases, and
+attack.                              a i r f i e l d s e c u r i t y . They can
+                                     verify activity detected by
+      The scout platoon gathers      other sources (such as OPs,
+information on insurgent forces      REMBASS, NODs) or vector
+while conducting patrols or by       friendly patrols.
+established OPs in assigned                The AN/PPS-5 and AN/PPS-15
+a r e a s . They conduct much the    are currently found in MI
+same missions as patrols from        battalions supporting airborne
+the line companies; but scouts       and air assault divisions.
+usually extend out farther than      The AN/PPS-15 is found in
+company patrols. Examples of         light infantry division MI
+missions that scouts conduct         b a t t a l i o n s . System use depends
+include--                            on the AO and the mission.
+                                           GSR limitations include LOS
+      o Locating and providing       to target. This is a key
+detailed information on              factor when insurgent activity
+insurgent bases.                     occurs in forested or urban
+                                     areas.
+      o Establishing OPs to          Extremes in weather such as
+monitor these bases while            rain, wind, or snow will
+friendly forces move forward         degrade their operations.
+to attack.                                 AN/PPS-5 users must
+                                     consider the system’s weight
+      o Reporting possible supply    if the mission is in rough
+routes used by insurgent             terrain or requires quick
+forces.                              movement. It weighs in
+                                     excess of 110 pounds without
+      Augmenting patrols with
+attached interrogation assets
+can add to the patrol's ability
+to gather intelligence by
+interrogation or questioning
+of the local populace.
+
+11-34
+
+
+---
+
+b a t t e r i e s , which are 12                                       FM 34-2-1
+pounds each.                        It provides VHF LOB data. The
+                                    power of the intercepted signal
+                      REMBASS       and LOS determine range
+       REMBASS is a valuable asset  capability. Limitations to be
+in the LIC environment.             considered include mobility of
+REMBASS gives indications on        the prime mover and security
+the amount of traffic along         for systems when operating
+suspected insurgent trails; and     outside a security base.
+it provides early warning when
+used along routes leading to              The AN/PRD-10/11/12 is a
+possible insurgent targets or       mobile radio DF system. It can
+friendly base camps.                operate as a single station
+       Sensors have a 24-hour,      providing intercept and LOB
+near all-weather capability.        data. When operating in the
+The information obtained cues       net mode with three other
+the use of patrols, GSR, or OPs     stations, the AN/PRD-10
+to confirm activity.                provides intercept and manually
+Considerations when using           computed radio DF fix locations
+remote sensors include radio        of enemy transmissions. The
+LOS to the relay or monitoring      AN/PRD-10 weighs approximately
+station. The transmitting           80 pounds; its range depends on
+range is about 15 kilometers        LOS and the power of the
+for sensors and repeaters, and      intercepted signal.
+up to 100 kilometers for
+airborne repeaters.                       When available, the
+                                    QUICKFIX or GUARDRAIL can
+         VOICE COLLECTION TEAMS     conduct airborne DF. These
+      The MI battalion              systems have extensive range
+subordinate to heavy, light,        and can provide locations on
+air assault, and airborne           enemy transmitters.
+divisions have voice collection
+teams capable of supporting the           Evaluate all available
+R&S effort. The AN/TRQ-32           assets within the brigade or
+TEAMMATE and the AN/PRD-10          battalion capable of supporting
+provide IEW support. The            the R&S effort. Some assets
+QUICKFIX and GUARDRAIL (a corps     and their capabilities follow:
+MI brigade asset) can assist in
+the EW collection effort based            o Helicopters resupply,
+on availability.                    insert, or extract patrols;
+      The AN/TRQ-32(V)(I)           they also conduct limited
+(TEAMMATE) will intercept HF,       route and area reconnaissance.
+VHF, and UHF communications.
+                                          o The countermortar
+                                    radar AN/TPQ-36 (DS to the
+                                    artillery battalion) provides
+                                    information on insurgent mortar
+                                    locations.
+
+                                    11-35
+
+
+---
+
+FM 34-2-1                         law enforcement, and
+      o Patrols search suspect    intelligence.)
+
+areas for mortar tubes and              Fighting in an LIC
+ammunition cache sites.           environment requires a
+                                  continuous R&S effort. This
+      o CI teams provide          effort stresses reporting
+information on insurgent          information to the S2 and
+activities and their              disseminating that information
+intelligence capabilities.        no matter how insignificant.
+                                  It also involves the total
+      Consider all human sources  force. Figure 11-27 is an
+such as convoy truck drivers,     example of how these assets are
+FOs , and personnel from          employed in a battalion R&S
+host-nation agencies or units     plan.
+(such as refugee camps, civil
+affairs checkpoints, local
+
+11-36
+
+
+---
+
+                                                                                       FM 34-2-1
+
+ea aa                                                      ‘2                  ~ yas’
+                                                               ay,          Cran ow
+
+                                                           Corr,
+                                                                "~
+                                                                   a
+                                                                         ~
+
+LEGEND: (not to scale)
+
++44. Railroad
+
+       Major road ©
+
+—-—    Bridge   =. Heavy vegetation
+
+  =    pon      \e/ @sr
+
+Wii)   »~=Dam   er Axis of advance
+
+>      River      A oP/LP
+
+       Mines    CB) Landing zone
+
+       Contour   VW Point NAI
+
+                [NAt] Area NAI
+
+—\ i
+
+                        Figure 11-27. Battalion R&S plan.
+
+                                                                                       11-37
+
+
+---
+
+FM 34-2-1
+
+r\         My                                       he Ni
+
+                            FOR    INSTRUCTIONS     PLAN
+                                 BATTALION R&S
+
+                                             (LIC)
+
+          Scout Teams: Team 1 insert during darkness by POV or
+HMMWV. Check LZ A and conduct route reconnaissance along Axis
+Blue. Establish base at GSR position 1 and continue with four
+personnel to find enemy base camp vic 1111. Two personnel will
+return along Route Blue with sketches of enemy base and will
+guide attack force. The two personnel remaining at enemy base
+camp report activity. and indications camp may move prior to
+attack. Pick-up point for personnel with sketches vic 612345
+(during darkness).
+
+         Team 2 insert during darkness same technique as team 1.
+Check LZ B and conduct route reconnaissance along Axis Red.
+Locate enemy base camp and provide sketches. Two personnel will
+remain to observe and report base camp activities. Establish
+pick-up point for personnel with sketches vic 222222 (during
+darkness).
+
+          Team 3 use same insertion technique at vic 333333.
+Establish scout camp with GSR position 2. Set up OPs/LPs vic
+444444 and vic 555555. Report enemy movement in NAI 2 and also
+check LZ C.
+
+          GSR: Team 1 move with scout team  1 and         establish  site vic
+666666. Report enemy patrol activity        along         river vic  777777.
+
+Vector scouts upon request.
+
+          Team 2 move with  scout team 3. Establish site vic 888888 to
+monitor bridge NAI 3        and NAI 2. Give priority to movement along
+river, then activity        across bridge.
+
+           Figure 11-27. Battalion R&S plan (continued).
+
+11-38
+
+
+---
+
+                                     FM 34-2-1
+
+CHAPTER 12
+
+ELECTRONIC WARFARE ASSET EMPLOYMENT
+
+       Normally, division staffs   electronic systems. Your
+and higher echelons plan for       staff should plan for use
+the use of IEW assets.             of EW within three broad
+However, you may be in a           mission areas:
+situation where you have MI
+unit assets either attached or            o Defend.
+in DS of your unit. In either             o Degrade or disrupt.
+case, you must be able to                 o Deceive.
+properly direct those assets
+in support of your R&S plan,                              DEFEND
+as well as your unit’s CR                 The defend mission includes
+plan. To do that, you should       your use of electronic counter-
+understand--                       countermeasures (ECCM) to
+                                   protect your unit’s electronic
+       o The fundamentals of EW.   systems. ECCM includes proper
+       o Who plays what role in    use of signal operation
+EW planning.                       instructions (S0I), terrain
+       o What IEW assets are       masking, and proper radio and
+needed to help you answer your     television operator procedures.
+commander’s PIR and IR and         FM 24-33 contains detailed
+support the unit CR plan.          information on ECCM. The
+                                   defend mission also includes
+                FUNDAMENTALS       ESM to find and target enemy
+       IEW assets belonging to MI  jammers and ECM to screen
+units do three things: they        friendly communications from
+provide combat information;        the enemy.
+they provide data which
+contributes to production of                   DEGRADE OR DISRUPT
+intelligence; and they give              You degrade or disrupt
+your unit an EW capability.        enemy electronic systems by
+EW should be a vital element       targeting electronic emitters
+of your unit’s command,            or jamming electronic
+control, and communications        receivers. Normally, the small
+countermeasures (C³CM)             number of jammers available to
+program. EW is one way             you forces you to be highly
+commanders protect their           selective about which targets
+electronic systems while           to disrupt.
+attacking the enemy’s
+
+                                     12-1
+
+
+---
+
+FM 34-2-1                          S3 to make sure your IEW assets
+       The S3 is in charge of the  do not interfere with your
+                                   unit’s scheme of maneuver. We
+degrade or disrupt mission.        will address this later in this
+You must support this mission      chapter.
+through intelligence and ESM
+which intercept, identify, and            More than likely, your IEW
+locate potential targets.          assets will spend significant
+                                   time supporting or executing
+                      DECEIVE      the EW degrade or disrupt
+       Electronic deception is     mission. Look at this mission
+normally controlled by division    as consisting of two
+or corps. Deceiving, or            components: passive and
+electronic deception, provides     active. ESM is the passive
+false information to the enemy     part. That is, your IEW assets
+through electronic devices.        work to collect information
+It is intended to induce the       that will support the ECM, or
+enemy into acting against          the active part, of the
+their best interests.              mission.
+Deception is achieved by
+feeding false or misleading               ECM consists of jamming and
+information to enemy electronic    deception. Essentially,
+sensors; or by transmitting        jamming delivers a high level
+it directly into operational       of power to an enemy receiver,
+channels. (Normally, this          preventing that receiver from
+is part of an overall deception    receiving its intended
+plan.) Make sure that what         transmission. Your IEW assets
+the enemy collects                 must radiate energy to do
+electronically agrees with,        this. Therefore, they are
+or at least does not refute,       susceptible to enemy
+the overall deception              countermeasures.
+scheme.
+       IEW systems collect combat         Deception causes the enemy
+information through ESM.           to misinterpret what is
+Essentially, consider your         received by electronic
+IEW assets as one more source      systems. Once again, your
+you can use to help answer         IEW assets (and any other
+your commander's PIR. However,     assets you choose to use)
+you do not directly task this      must transmit to deceive.
+source, specify which assets       Therefore, deception is
+do what, nor emplace these         active as well. More
+a s s e t s . You do specify what  detailed descriptions of EW
+you want to know, and              are in FM 34-1, Chapter 5.
+coordinate with your IEWSE and
+
+12-2
+
+
+---
+
+                     PLANNING                                            FM 34-2-1
+      Your S3 is in charge of               Intercepting provides
+planning and using EW. The S3         combat information and
+is responsible for integrating        technical data on the enemy’s
+EW into your unit’s scheme of         electronic systems as well as
+maneuver. However, i t i s t h e      raw data for processing into
+FSO who must intergrate EW            intelligence. Technical data
+into the overall fire support         supports jamming and electronic
+plan. This becomes especially         deception.
+important for suppression of                The locating option
+enemy air defense operations.         provides approximate locations
+You must support your S3's EW         of enemy radio and radar
+plan by carefully selecting ESM       antennas. This aids in the
+p r i o r i t i e s . (The S2 should  use of directional antennas
+assist the S3 with EW                 for jamming, and may be used
+planning.) Figure 12-1 is a           with other information to
+breakdown of who does what in         provide targeting-quality
+EW planning.                          data.
+      Finally, the IEWSE officer            Jamming disrupts the
+is the resident expert on your        receipt or exchange of orders
+MI unit IEW assets. The IEWSE         and battlefield information.
+officer--                             It can delay the enemy long
+      o Recommends use.               enough for the commander to
+      o Coordinates physical          exploit a situation that
+placement.                            otherwise would have been
+      o Acts as liaison between       corrected. Jamming provides
+you and the assets.                   a nonlethal alternative or
+      o Coordinates EW planning.      supplement to attack by fire
+      o Recommends EW support for     and maneuver. I t i s w e l l -
+fire and maneuver.                    -suited for targets that cannot
+      Your unit has four              be located with targeting
+electronic options to attack          accuracy, or that only require
+enemy electronic systems:             temporary disruption.
+      o Intercept.                          As a general rule, you
+      o Locate.                       will want to destroy or jam
+      o Jam.                          enemy electronic systems
+      o Deceive.                      located near your FLOT.
+                                      Enemy communications systems
+                                      located farther back will
+                                      normally be used by enemy
+                                      planning elements. Therefore,
+                                      they may be more valuable as
+                                      a source of information.
+                                      Figure 12-2 is a list of
+                                      electronic options listed by
+                                      enemy echelon and distance from
+                                      the FLOT.
+
+                                      12-3
+
+
+---
+
+FM 34-2-1                -Friendly situation--electronic deception
+                         -Planned operations--ECCM
+   FIRE SUPPORT OFFICER  -ECM target priorities
+                         -EW HPT identification
+
+                         -Fire support integration
+                         -EW HPT identification
+
+      C-E OFFICER        -MlJI feeder report identification
+                         -Taboo, protected frequencies
+                         -ECM support to ECCM
+                         -Effects on friendly ECCM planning
+                         -Electronic deception
+
+                 $2      -ESM priorities
+IEWSE OR MI UNIT         -Enemy situation
+                         -Enemy capabilities
+                         -HVT identification
+                         -EW HPT identification
+
+                         - Electronic OB or EPB
+                         - Asset tasking
+                         - Asset status
+                         - Technical data
+                         -Effectiveness assessments
+
+      Figure 12-1. EW employment coordination requirements.
+
+12-4
+
+
+---
+
+                                        WWOO 13N                                                                                  LSt NO1HOA                                                                                                        GNooasS                                   |INOYS
+
+                                        AG NO1SHO4                                                                                                                                                                                               az NOTSHOS
+
+                                        SONVISIC         WOU                                                                                                                                                                                      OL |0S              0S OL 001] GNV
+
+                                        1074 (wy)                                    EOLO                      9OLE|}] | SLOLE|60L9                       W r                          v e  |OLS!             0Z!0Z OL ogi0e                     dOLNi                         oot                       dn
+                                                                                                                              Wr
+                                                                                      dOLNi                                                                                                     dOLNI                dO.LNi
+                                        GNVWWOD                     CNV              ALVOO)                    dOLN!                        dOLNi                  dOLNi                    |ALVOO7             |3LWOO1
+                                                                                                                                                               |SLVOO7T
+                                        OHLNOD                                          wr                     SLV901;                      SALVOOT|                                          =ALVOOT|                                                                dOLNI                              dOLNi
+                                                                              VL |SLvo01                                                                            wr
+                                        “LSMOOU          ‘AHATILYV                                                        Wr                          Wr       |3LV907                         3LVOO1}
+                                        GNV GaLivioossv                                                        SLVOOT1|
+                                                                                                                                  |31V001                         SLV907                                      |31V901                            |SLVOO1              ALYO01| |31V9001
+
+      Figure 12-2. Electronic options.  WSS                                                                                                                                                                   |aLvoo?                            |SLVOOT              31v001}                 |3LV901           31907
+                                                                                                                                                                                                                                                                                              suv907| |
+                                        uIv                         3SN3430                         SLVvO |01                     BLv001 |                     ALWOO |T                     SLV90 |7          AL |V907          aLvOO |1                      3LV001
+
+                                        3ONSOIAINI                               Wer                                                                                               Wet                dOLNI
+
+                                                                              aLVvOoO7              | wer                                             wr       |3ivoo1                                                  dO.LNI                   dOLN |dOLNI | dOLNI
+
+                                        SHAW                                  SLVO07                |SLVOO1                                 ALVOOT)            |ALVOOT
+
+                                        SHSSNIONS                             SLVOOT                           aLvo0O1|)                    3LVO01|            |SLVOOT                      |BLVO01                    | doint | dOLNI |doLnr | dOLN|
+
+                                        Ss9                                       wr                                                                  wr                           wr                 dO.LNI            dOJNI | dOLNI |dOLNI |dOLN|
+
+                                                                              aLVOO7 | Wr
+
+                                          NWOODNON                HVGVH                                                                     LSI NO1SHO3                                                                         az NO1SHO4                                                      INOW
+
+                                         Ag NO1SHO3        WOU                    G6OL9;/9OLE|EOLO                                                                       OL6|           SHSL OL OZ0Z OL O€ 0& OL OOl                                                                          OO- GNV df
+
+                                        ZONVISIC         GONV (vw¥                SLVO07                                                                                                                                        AYVWldd                   dV          AYWWNidd                           dV
+                                        1014 (wy)                             |3LVOO1
+                                                                              |SLVO01                  |SLV001                    |SLVO0T                                SLV9OT)            BLVOOT|           31WO0T!           |ALIISISNOdSSY]                                ALMIGISNOdSAY
+                                        HIV WS)                                                         |SLVOO1
+                                                                               eHueYyo                 |SLVOO1
+                                        3SNa4g0
+                                                                                                    apy BuuNp
+                                        SNOdvWSaM                   DNLLVOOT                                                      |BLVO01                                FLVOO1!|
+
+                                        WWOONON                     SHAWWY?P                                                             |SLVOOT                         SLVDO1|            31V901|                                                                                                                    FM 34-2-1
+
+12-5                                    ‘FLON            eseyt, suoNdo                                                            eWWoO                   ul Jue a} YORE JO ay ‘gSUajap
+
+
+---
+
+FM 34-2-1                                  o ESM priorities based on
+       EW planning follows the      your commander's PIR and IR.
+
+normal staff planning process.             o The S3’s ECM priorities.
+It begins with the mission and
+commander’s guidance. During               o When and where on the
+the planning process, your          battlefield the PIR, IR, and
+staff determines electronic         ECM become most important.
+HPTs . You then divide your
+electronic HPTs into four                  The IEWSE officer relays
+categories:                         your unit's ESM and ECM
+                                    priorities to your attached
+       o Targets located for        or supporting IEW assets.
+destruction (targeting).            Figure 12-3 is an example of
+                                    a completed EW target list work
+       o Targets to be jammed.      sheet. It shows how you can
+       o Targets to be intercepted  synchronize those priorities
+for combat information or           to support the DST. In this
+intelligence.                       example, identifying and
+       o Targets to be deceived.    locating enemy reconnaissance
+       WHAT TYPE OF INTELLIGENCE    units of the 141st MRR is the
+                                    number one ESM priority because
+          AND ELECTRONIC WARFARE    the commander's top PIR
+              ASSETS ARE NEEDED?    initially is to locate enemy
+                                    reconnaissance units.
+       Once you have categorized
+your electronic HPTs, you need             The second and third ESM
+to have a way to tell your IEW      priorities are to identify and
+assets what you want them to        locate divisional and
+do. Do this by providing your       regimental air defense assets.
+IEW assets a list of priorities     Note that the first ECM
+on a target list worksheet.         priority is to jam divisional
+Remember to include both ESM        air defense nets. In this
+(passive) and ECM (active)          case, the third ESM priority
+priorities.                         supports the first ECM
+                                    p r i o r i t y . Your EW assets
+                 STAFF ACTIONS      cannot jam those nets without
+       You and other staff          first finding them.
+officers determine ESM and
+ECM priorities by war gaming.             Obviously, the first ECM
+Remember that ESM must support      priority reflects that CAS is
+ECM. ESM may also help you          important to the success of
+answer the commander’s PIR.         the mission; and jamming enemy
+      Your S3 ultimately            divisional air defense nets
+determines ECM priorities           supports the planned CAS
+(based on staff input).             mission. If you compare the
+The S2 determines--                 target list work sheet to the
+                                    DST, you will see the
+                                    relationship between ESM and
+
+12-6
+
+
+---
+
+                                                                                                                FM 34-2-1
+
+                                              EW TARGET LIST WORKSHEET
+
+PRIORITY)        TIME                         TARGET | TARGET | TARGET                          | CONTROL |FEEDBACK AND]
+
+ESMIECM        WINDOW                         UNIT              LOCATION ACTIVITY                 [MECHANISM COORDINATION
+
+               3106002                        Regimental | Probable Reporting                                   Report by
+
+"| 1           311200Z.                       company, |NB865343 to |ffom OP to OP.
+                                              141st MRR. |NB741372. ia spot
+
+               310600Z                        Regimental | From                  Report                               identify and
+
+                    to                        air Defense |NB842340 to loccupying                                     location.
+
+ry 2           311300Z.                       battery, |NB627385 to|positions.
+
+ mT 63)                                       141st and |NB625522 to
+
+                                              142d MRRs.| NB868418.
+
+               ESM 311200Z to | Divisional air; From                             Report             Positive          Identify and
+
+                 3114002.                     defense           NB625372 to joccupying              control, locate ECM
+                                                                {NB868478. |positions, and | spot,and _| effectiveness.
+              7 JESM start:                   regiment,
+
+               Approx 311345 (39thGMRD.                                          operational        jam.
+
+               for 10 min.                                                       status of acquir-
+
+                                                                                 ing aircraft.
+
+               ~~ H-1                         HH                         H+1 \ H+2                                                  H+3
+
+                                              DECISION SUPPORT TEMPLATE                                                             LOA
+                                                                                                                                       ,
+        INTEL  PIR 1-RECON 141.                          PIR 1-REGT ADA.         PIR 1-DIV ADA. - JAM DIV.    PIR 1-MAIN DEF.
+ MANEUVER      PIR2-REGT ADA.                                 2-DIV ADA.              2-MAIN DEF. ADA NET.          2-{TB.
+
+FIRE SUPPORT   SCOUTS                         SP TF-141  - STRIP ALERTARTYTAI 2  |-SEAD TA! #3 PREP FIRE
+
+               OUT                            TF-39      3 x A7                  -CAS TAI#3 GP3 x 4
+
+               PREP GROUP
+
+               FIRE 1 X 2, TAI#1
+
+      ADA      YELLOW TIGHT                              RED FIRE                YELLOW HOLD
+
+                                                         1. MOBILITY             CORRIDOR "BABBALOG"
+
+MOBILITY AND   ENGINEER FORWARD                          2 SunNWVaRItge                                     1-C/MOB
+COUNTER MOBILITY | RECON PRIORITY
+                                                                                                            2- SURVL
+
+         c2    TAC FORWARD                               TAC ASSUMES CONTROL
+
+         css   TOP OFF                                   MAIN DISPLACE
+               AMMO DISTR
+                                                         RETRANS OUT
+
+                                                         DISPLACE
+
+                                                         TRAINS
+
+                             x                LD/LC                      PL FRED                      PL ETHEL
+                                                pra
+
+            7.                                       i                            | TAL 3                             ROICBKJY
+
+                                           l         2 va
+
+         |                                                      TAI 1
+
+         ||e OT e as                          -                                   | TAL 2 / OBJ
+
+                                               O Kad=~ RKAAAS                    aa |
+
+                                                                         PL FRED                PL ETHEL                            LOA
+
+                                                             C
+
+                                              Figure 12-3. EW target list worksheet.                                  12-7
+
+
+---
+
+FM 34-2-1                          Again, your IEWSE can help in
+ECM priorities and how the unit    this area.
+intends to fight the battle in
+time.                                       TARGET LIST WORKSHEET:
+                                                   RECONNAISSANCE
+       ELECTRONIC WARFARE TARGET
+                LIST WORKSHEET               AND SURVEILLANCE PLAN
+                                          An EW target list worksheet
+       Specifics of the EW target  is the equivalent of an R&S
+list worksheet follow:             plan for your IEW assets. It
+                                   tells your assets what they
+       o Time window is the time   should look for, when they
+you want your assets to spend      should look for it, and what
+looking for the target; or the     and when to jam. The EW target
+start/stop times you want your     list worksheet should be a
+assets to jam the target.          total staff effort among you,
+                                   the S3, the FSO, and the IEWSE.
+       o Target unit is the               Remember, you should not be
+specific unit or target you are    concerned with the details of
+looking for. The more specific     how to collect the information,
+you are, the easier it is for      such as which specific asset
+your IEW assets to find it.        should do what, and where each
+                                   asset should go. Those details
+       o Target location is where  are left to the attached or
+you expect the target to be.       supporting MI unit and your
+Location can be based on actual    IEWSE . Simply tell them what
+information or on situation        you want, and let them figure
+templates.                         out how best to do it.
+                                          You must, however, make
+       o Target activity is the    certain that the emplacement
+specific type of communications    of your IEW assets does not
+you want collected or jammed.      interfere with your unit’s
+                                   mission. Therefore, make sure
+       o Control mechanism is how  your IEWSE coordinates all IEW
+you want the target unit to be     positions with your S3. Also,
+jammed (such as spot jamming,      remember to continually monitor
+barrage jamming). Your IEWSE       those IEW positions so that
+can tell you more about the        they do not get overrun or
+advantages and disadvantages of    outdistanced by maneuver units.
+each type of jamming; and can            Keep your IEWSE updated on
+recommend which kind will best     the enemy frontline trace; and
+support your mission.              insist on frequent status
+                                   reports on your IEW assets.
+      o Feedback and coordination  Figure 12-4 is a list of
+is exactly what you are looking    organic or supporting MI units
+for; for example, location and     by echelon. Figure 12-5 is
+identification of the target
+and effectiveness of jamming.
+Check with your S3 to see what
+kind of feedback is required.
+
+12-8
+
+
+---
+
+                                                                            FM 34-2-1
+
+                             ELECTRONIC WARFARE UNITS
+
+ECHELON                      MI ORGANIZATION MAJOR EW UNIT                  EW SUBUNIT
+
+        CORPS                  BRIGADE      MI BN (TE)                  EW CO
+                             BATTALION  MI BN (TE) (RC)       EW CO (COLL) AND
+HEAVY DIVISION               BATTALION
+                             BATTALION     MI BN (AE)              EW CO (ECM)
+LIGHT DIVISION               BATTALION        C&J CO
+                                              EW CO                AVN CO (EW)
+   AIR ASSSAUL Li             COMPANY
+      DIVISION                              COLL CO         C&J PLATOON SIGINT
+                                                               PROCESSING PLT
+    AIRBORNE                                    HHOC           QUICKFIX FLT PLT
+      DIVISION                                C&J CO                     (OPCON)
+
+                    AlMD                      C&J CO          VOICE COLL PLT
+                                                             QUICKFIX FLT PLT
+                         Pw
+                                                                        (OPCON)
+   SEPARATE
+     BRIGADE                                                   QUICKFIX FLT PLT
+                                                                    C&J PLT AND
+
+                                                                 NONCOMM PLT
+
+                                                                    C&J PLT AND
+                                                                 NONCOMM PLT
+                                                               QUICKFIX FLT PLT
+
+                                                                         (OPCON)
+
+                                                                        C&J PLT
+                                                               QUICKFIX FLT PLT
+
+                                                                         (OPCON)
+
+                                                              COLL PLT (VOICE)
+                                                                   VHF ECM PLT
+
+                             Figure 12-4. Supporting IEW units by echelon.
+
+                                                                                        12-9
+
+
+---
+
+                             ‘(pz-a d ‘vol-ve                                     W4) seunpecoid                Gurodas            paquosaid      Ajjnjaseo                UM suayiWa          oyloeds            pseMo}          payoaip       ‘Bulyse}                 esi9elg               =‘Hd
+
+-oaye Buiuwer                                       “9g                                                                                                                                                                                                                                                             Figure 12-5. Electronic attack options.
+
+                                           yn sjuawAojdap
+
+payeioosse                                 ‘suepel
+
+                             odAuo                  ‘sain
+                             pue ‘swajsAs
+
+                             JOU -ONJIS             ‘SPJOM
+
+            apoo Aweus)                             *2Z
+                                           ‘9 (Ayqesedoieyu))
+
+UONEDIUNWIWOYFM 34-2-1                                 ‘Ss                                                                                                                                                               seniesey
+                             suoday                 ‘p                                                                                                                                                            Awuny| 3/934
+          (sueew
+                                                    ;                                                                                                                                                             -Joddo Jgourbuy
+
+               UONSI[JU0IAQ                            *€                                                                                                                                               joyebel!          =qy/Auy                              suoyiw3
+
+               UONCUIPIOOY                          Z                                                                                                                                                            129 UO Lananuey                                         SJBuIS
+
+                             *b Hid JOAQUIN)                                                                                                                                                            peuued                             Ae)                 $18}O0US
+
+                                           (mojeq                                                                                                                                                                 “8ld) uoD8y                                  SJOAOW                             Yd
+
+               SNHVANIY                                        NOILVDOTINOILVOOT  £9 S3LIS        aLis  NALSAS  M3       |SAISDI0             al  HOLINON      wr |3LV901  4a yuo  AONINOAYS|           YALLING   adAL    |19N 3dAL        |SNL)          Oud  ALIALLOV           YHOLVOIGNI|  [IV GNV IVNNOLLVSO1  12-10
+
+                                                                                                                                   HOVILLV        DINOYHLOAIZ                                                                     AWANI
+
+
+---
+
+                                                                                      FM 34-2-1
+
+an electronic attack options           FM 34-40 provides a detailed
+chart. Figure 12-6 shows               discussion of EW operations.
+IEWSE officer responsibilities.
+
+1. Integrates IEW missions with brigade operations.
+
+       a. Ensures collection and jamming missions support the
+commander's intent, concept of operations, scheme of maneuver,
+
+and fire support plan.
+
+                (1) LOS analysis for initial deployment locations,
+
+specifically:
+
+        (a) High ground for C&J.
+
+        (b) LOS from jammers and collectors to target
+
+(NAI).
+
+        (c) LOS between collectors for netting.
+
+                              (d)  LOS from j ammers and collectors to C3 sites
+for reporting.
+
+               (2) LOS analysis for subsequent redeployment locations
+
+in accordance with overall tactical scheme of maneuver. Same as
+
+above.
+
+       b. IEWSE officer studies brigade OPORD with special
+attention to items above, especially unit boundaries and phase
+
+lines.
+
+       c. Coordinates with brigade S$2s to identify specific PIR,
+IR, and NAI to confirm or deny enemy COAs, with special
+
+attention to--
+
+        (1~?)s How the S2 estimates enemy COAs to develop.
+
+                  (2) Templated enemy forces and IPB.
+
+                 (3) Probable indicators and enemy forces expected to
+
+deploy at each NAI.
+
+                 (4) Associated enemy emitters and electronic clusters
+
+at each NAI.
+
+        (5) Probable time line(s).
+
+            _ (6) Type nets and frequencies (technical control and
+
+analysis element).
+
+~                                  WS  WN                                         Nr  12-11
+                                   12-6. Brigade IEWSE officer responsibilities.
+
+
+---
+
+FM 34-2-1
+
+o—\ /      \N                                      AN   Ni
+
+                     (7) Location of specific collection assets to cover
+specific NAI above.
+
+           (8) Impact of weather on operations.
+
+          dad. Coordinates with S2 to ensure collection operations
+reflect commander's specific PIR and IR; and are synchronized
+with the overall R&S plan, with special attention to--
+
+           (1) Unit scouts, patrols, OPs/LPs.
+
+           (2) GSRs.
+
+           (3) REMBASS.
+
+           (4) Division long-range surveillance units.
+
+           (5) Cavalry operations.
+
+           (6) USAF reconnaissance.
+
+           (7) Interrogation of prisoners of war and CI.
+
+           (8) Fire support.
+
+          e. Coordinates with brigade S2 and brigade
+communications-electronics staff officer (CESO) to ensure
+current brigade challenge and password is passed to MI battalion
+
+$3.
+
+          f. Coordinates with brigade S3 to ensure IEW operations are
+synchronized with brigad= scheme of maneuver, with special
+attention to--
+
+                      (1) Locating jamming assets  to serve as an effective
+combat multiplier as part of overall               scheme of maneuver and fire
+support plan.
+
+                      (2) Coordinating operational sites and fallback
+positions with maneuver elements.
+
+                     (3) Coordinating times and routes for deployment or
+
+redeployment.
+
+——~S       ——\                                     \N
+
+           Figure 12-6. Brigade IEWSE officer responsibilities (continued).
+
+12-12
+
+
+---
+
+                                                                        FM 34-2-1
+
+“N\A                  S\N       —\ Ar            \—
+
+      (4) Planning redeployment of MI ground C&J assets by
+
+bounding as part of overall scheme of maneuver.
+
+                  (5) Planning integration of airborne QUICKFIX to cover
+times and locations not covered by ground assets.
+
+       g. Coordinates with brigade S4 for logistic support, with
+
+special attention to--
+
+      (1) Attachment of MI assets, as appropriate.
+
+                 (2) Roll up of all MI battalion assets operating in
+brigade ACR, from MI battalion S3 and S4.
+
+h. Coordinates with brigade CESO for--
+
+                   1) Proper CRYPTO fill and frequency for brigade
+
+operations and intelligence (O&I) net.
+
+                 (2)  Protected frequencies to prevent electronic
+fratricide.                )
+
+                   (yu 3)# Deco-nfliction of IEW operational and C3 sites with
+signal units.
+
+      (4) Location of jammers.
+
+      (5) Relays.
+
+         i. Coordinates with brigade FSO for--
+
+                (1) Deconfliction of IEW operational and C3 sites with
+
+fire support units.
+
+                 (2) Fire support planning to avoid engagement areas.
+
+                  (3) Family of scatterable mines (FASCAM) targets.
+
+                  (4) Use of tactical fire direction computer system
+(TACFIRE) net to pass sanitized reports quickly.
+
+      (5) Fire support radar locations.
+
+      (6) Protective fires to cover withdrawal of IEW                   assets,
+
+as required.
+
+—\S                   NNN       —\n—             \ir
+      Figure 12-6. Brigade IEWSE officer responsibilities (continued).
+
+                                                                        12-13
+
+
+---
+
+FM 34-2-1
+
+A NW                                                                        \N  Na
+
+       j. Coordinates with brigade engineer for--
+
+                   (1)             Location of current or planned mine fields and
+
+obstacles.
+
+                (2) Brigade classifications.
+                (3) Route reconnaissance.
+                (4) River crossing sites and classification.
+
+       k. Coordinates with brigade ADA officer for--
+
+                 (1)               Deconfliction of IEW operational and C3 sites with
+
+ADA units.
+
+                 (2)               FAAR locations.
+                                   QUICKFIX air corridors, loiter times, and
+                (3)
+
+locations.
+
+           (4)                     Identification, friend or foe (IFF) (radar).
+
+                 Pag               la!  —~ B ra” Ce eee eee  pe ee en ale,  peee a. ee, eay
+
+              ~~
+           ony
+                           ~~
+
+       1. Coordinates with brigade NBC officer for--
+
+                  (1) Current contaminated areas.
+
+                  (2) Planned NBC targets.
+
+                  (3) Smoke and obscurant employment.
+
+          m. Coordinates with brigade MP officer for current
+condition and status of routes, traffic control measures, and
+support to the reconnaissance, intelligence, surveillance, and
+target acquisition (RISTA) effort.
+
+                               mn
+
+       Nn. ho
+
+           (1) Timely in-flight reports.
+
+           (2) Latest weather updates.
+
+           (3)                     Current and planned air and ground engagement
+
+areas.
+
+—\)                                     \W\—                                \N
+
+                     Figure 12-6.       Brigade IEWSE officer responsibilities (continued).
+
+12-14
+
+
+---
+
+                                                                              FM 34-2-1
+
+aN,         \AIN  NN  Ni
+
+    2. Assists the brigade S2 in formulating the EW annex of the
+
+brigade OPLAN and OPORD.
+
+    3. Serves as a critical liaison officer between MI battalion
+
+and the maneuver brigade.
+
+         a. Keeps the MI battalion S3 informed of above data from
+brigade staff.
+
+b. Serves as functioning member of brigade orders group.
+
+        c.  Provides copies of maps and overlays from brigade orders
+
+group.
+
+        dad. Monitors brigade O&I net and brigade command net for
+latest developments.
+
+        e. Notifies MI battalion S3 in a timely manner of all
+brigade developments and redeployments.
+
+    4. Keeps brigade commander and staff informed of latest
+intelligence depicting the enemy situation:
+
+        a. Monitors tasking and reporting net for tactical reports.
+
+       b. Sanitizes tactical reports and passes combat information
+to brigade commander and staff in 15 minutes or less from time
+
+of receipt.
+
+            Figure 12-6. Brigade IEWSE officer responsibilities (continued).
+
+                                                                              12-15
+
+
+---
+
+                                            FM 34-2-1
+
+APPENDIX A
+
+                  MANAGEMENT TOOLS FOR
+RECONNAISSANCE AND SURVEILLANCE OPERATIONS
+
+      This appendix contains the        o Figure A-6. IEW Asset
+following checklists, formats,    redeployment matrix.
+and reports used in planning
+and supervising R&S missions.           o Figure A-7. Reconnais-
+NOTE : This appendix can be       sance asset utilization matrix.
+reproduced and used in the
+field as a pocket guide.                o Figure A-8. A patrol
+                                  plan.
+      o Figure A-1. Example
+of an intelligence estimate             o Figure A-9. Patrol
+in matrix format.                 report format.
+
+      o Figure A-2. R&S tasking         o Figure A-10. Hints
+matrix.                           on debriefing patrols.
+
+      o Figure A-3. Different           o Figure A-11. GSR
+versions of the R&S tasking       or REMBASS plan format.
+matrix.
+                                        o Figure A-12. GSR
+      o Figure A-4. R&S           or REMBASS briefing
+checklist.                        checklist.
+
+NOTE : The purpose of the               o Figure A-13. Standard
+R&S checklist is to make          collection asset request
+sure complete coordination        format (SCARF) basic format.
+is conducted for all R&S
+operations.                             o Figure A-14. Mission
+                                  report format.
+      o Figure A-5. Collection
+plan format.
+
+                                                              A-1
+
+
+---
+
+FM 34-2-1
+
+                                                 AS OF CURRENT INTELLIGENCE ESTIMATE
+
+1. Weather: For period from                                                                     to
+
+BMNT from                                        to            - EENT from                          to
+
+Sunrise                                          - Sunset                          - Temp from          to
+
+Winds: Speed from                                          to                      knots. Direction
+
+Night operations: Skies cloudy clear. % of moon illum
+
+Trafficability: Poor good excellent.
+
+Precipitation: Snow rain Sleet hail.
+
+Maximum precipitation per month                                                    inches.
+
+Average precipitation per month                                                    inches.
+
+nN
+
+                ze)
+                      (D
+                          K
+                             5
+                                   my
+                                             -~
+                                                                               to
+Observation and fields of fire:
+Concealment and cover:
+
+Obstacles:
+
+Key terrain
+          Decisive terrain:
+          Other key terrain:
+
+Avenues of approach:
+Other:
+
+—“\S                                             \W\—                              \ Ae
+
+         Figure A-1. Example of intelligence estimate in matrix format.
+
+A-2
+
+
+---
+
+                                                         FM 34-2-1
+
+—\S                     NWN                \y~———\
+
+        3.  Enemy in brigade sector
+
+            Map sheets:
+
+            Intelligence overlay:
+
+Committed forces:
+
+Reinforcements:
+
+Recent activities:
+
+Strengths:
+Weaknesses:
+
+Second line of defense:
+
+Probable courses of action:
+
+Enemy NBC:               Possible    Probable  Imminent
+
+                                     Next      hours.
+
+Figure A-1. Example of intelligence estimate in matrix format (continued).
+
+                                                                            A-3
+
+
+---
+
+FM 34-2-1
+
+                              (CLASSIFICATION)              DTG:
+
+                               A) BJC|DIE and A   MISSION:
+
+PRIORITY                                         COORDINATION| REPORTS
+
+(matches | NAI |START
+
+PIR no) | (grid) | STOP  SIR
+
+                                                                           (CLASSIFICATION)
+        NOTE: A maneuver battalion S2 or S3 tasking subordinate units would change SIR to SOR.
+        S2s use this matrix to coordinate and manage the R&S effort.
+
+                                                      Figure A-2. R&S tasking matrix.
+
+A-4
+
+
+---
+
+         BRIGADE R&S TASKING MATRIX                                   FM 34-2-1
+
+   UNIT  PRIORITY! NAI| LOCATION  REPORTING REQUIREMENT             REMARKS
+
+TASKING                              EVENT OR INDICATOR
+
+         BRIGADE OR BATTALION R&S TASKING MATRIX
+
+         REPORTING REQUIREMENT              COLLECTION UNIT         REMARKS
+                                                 OR ASSETS
+
+PRIORITY |NAI|LOCATION| EVENT OR INDICATOR
+
+         Figure A-3. Different versions of the R&S tasking matrix.
+
+                                                                    A-5
+
+
+---
+
+FM 34-2-1
+
+I. Planning Process.
+
+     A. Initial Requirements:
+
+                    1. Did higher headquarters provide tasking
+
+requirements?
+
+           2. Was the commander's PIR and IR stated and included?
+
+           3. Did the commander provide R&S intent?
+
+                     4. Did the S2 brief the staff on enemy collection
+capabilities?
+
+           5. Were other staff tasks performed?
+
+     B. SIR Developed (IPB Driven):
+
+           1. Did S2 identify air or ground AAs?
+
+                       2. Do situation and event templates reflect probable
+or prioritized enemy COAs?
+
+            3. Was NAI developed in detail?             (What is expected?
+
+When?  Where?)
+
+           4. Were collectable indicators at NAI developed?
+
+           5. Were SIR developed from NAI and indicators?
+
+                     6. Were reporting requirements developed for priority
+collection missions to allow the commander time to change plan?
+
+     C. Possible Collectors Analyzed:
+
+                      1. Did S2 coordinate with staff, S2, and G2 to
+identify all available collection assets?
+
+                     2. Did S2 analyze asset capabilities to develop
+collection requirements based on range to target, time
+available, target characteristics, terrain, weather, enemy
+(obscurants use), and communication?
+
+                     3.  Did S2 analyze collection redundancy (is it
+
+necessary?)
+
+                         Eines     A A   moO  mlm wld:
+                         riyguic  A-+*.  Mas  GCHCTCAl
+
+A-6
+
+
+---
+
+                                                                                            FM 34-2-1
+
+\                                  WW                           Ne
+
+   4. Did staff identify support requirements
+(communication nets, retransmission, fire support, logistic
+                                       bs |  *
+support, special equipment ssuupport?)
+                               oo  oh
+
+   5. Did S2 identify gaps in collection?
+
+                           6.      Did S2 backbrief S3 or the commander on R&&
+                                   Were warning orders sent to appropriate assets?
+concept?
+
+                          7.
+
+   8. What were timelines?
+
+                                   a. When was mission received?
+
+                                   b. What is NLT for execution?
+
+                                   c. When was templating done?
+
+                                   -d. When was tentative plan made? Backbriefed?
+
+                                   e. When were warning orders issued?
+
+                                   f. When was initial reporting needed?
+                                   g. Who was in charge of R&S planning?
+                                   h. Who was in charge of CR planning?
+
+Il. Preparation for R&S Operations.
+
+   A. Specific Collection Instructions:
+             1. What assets were available? Used?
+
+                                   a. Scouts.
+
+                                   b. GSR.
+
+                                   c. Patrols.
+
+                                   ad. OPs/LPs.
+
+                                   e. FOs.
+
+                                   f. Infantry.                                     AN  ve
+                                    Figure A-4. R&S
+                                                     checklist  (continued).
+
+                                                                                            A-7
+
+
+---
+
+FM 34-2-1     NWN                Nit                                  \.
+
+     A     g. Armor.
+
+           h. AT.
+
+           i. Aviation.
+
+           j.- Engineer.
+
+           k. Signal.
+
+           1. Cavalry.
+
+           m. EW.
+
+           n. MP.
+
+           oOo. Other.
+
+assets?  2. Did the S2 provide detailed instructions to tasked
+         Did the instructions include--
+
+           a. Who is tasked?
+
+           b. What to look for?
+           c. Why to look?
+
+           ad. When to look?
+
+           e. Where to look?
+
+                      f. What you could expect to see?
+         g.- How to get there?
+
+                      h. Who to coordinate with?
+                     i. Passage of lines and recognition signals?
+                     j. Reporting requirements?
+                     k. Friendly assets in AO?
+                      1. Resupply?
+
+           m. Obstacles?
+
+           Figure A-4.                                            \N
+                        R&S checklist (continued).
+
+A-8
+
+
+---
+
+                                                                   FM 34-2-1
+
+——\A                     Nw         NN                         Nv
+
+                       n. MEDEVAC?
+
+                                o. NBC hazards?
+
+                   3. Was the collection location appropriate
+(concealment, collectable)?
+
+                 4. Were there sufficient control measures included to
+
+control assets during mission?
+
+                  5. Did the S2 request assistance from higher
+headquarters for identified collection gaps?
+
+            6. Did the R&S plan cover all collection requirements?
+
+                     7. Were assets overtasked?
+
+                  8. Was redundancy appropriate for this mission?
+
+B. Coordination:
+
+                   1.  What is format of plan (collection plan, overlay,
+
+matrix.)?
+
+                  2. Were direct or indirect fires or jamming
+
+coordinated between staff and S2?
+
+      3. Was a CI vulnerability assessment made?
+
+      4. Was additional equipment (special) planned for?
+
+                  5. Were communication nets established to meet
+
+reporting needs?
+
+                   6.  Were commanders and staff briefed on plan before
+
+execution?
+
+      7. Did commander or S3 approve final plan?
+
+      8. Did assets know specific requirements (PIR and IR)?
+
+                  9, Was plan disseminated to all involved or those with
+
+a need to know (FRAGO, overlay)?
+
+      10. Was plan sent to higher headquarters?
+
+                       Figure A-4. R&S checklist (continued).
+
+                                                                   A-9
+
+
+---
+
+FM 34-2-1                           AN                                        \.
+
+                      NWN
+
+      Asset Internal Coordination:
+
+                        1. Was equipment checked?
+
+                       2. Were internal procedures clarified?
+                       3. Did coordination between assets occur?
+                       4. Was mission rehearsed?
+
+                          5. Was plan developed far enough in advance for assets
+to prepare or rehearse?
+
+                          6.  Was plan developed in time for higher headquarters
+to review?
+
+IIIf. Execution.
+
+          A. Continuity of R&S and CR Operations:
+
+                       1. Did unit plan provide for operations when scout or
+other R&S assets are inoperable?
+
+                        2. Did unit SOP provide for operations during
+briefings, debriefings, or rehearsals?
+
+                        3. Are units and leaders cross trained to facilitate
+substitutions or replacement of scouts?
+
+           B. Asset and Unit Response:
+                       1. Did assets depart and set up on time?
+                       2. Did assets use concealment, cover, and camouflage?
+                           3. Were assets able to observe enemy undetected?
+                         4. Was low-level deception used?
+                          5. What were meteorological report requirements?
+                          6. Were enemy locations pinpointed?
+                        7. Was objective reconnoitered?
+
+                              wsFigure A-4. R&S ———_\ checklist (continued).  \\
+
+A-10
+
+
+---
+
+                                                                     FM 34-2-1
+
+oN,                      AWS                         WN          Ni
+
+     8. Were obstacles identified and marked?
+
+       9.                Were routes marked?
+     10.                 Was enemy reconnaissance located?
+     11.                 Were CR missions performed?
+     12.                 Did assets help with C2 during attack?
+     13.                 Did assets help direct or control fires?
+
+                    14.  Was terrain reconnoitered?  (Trafficability
+reported?)
+
+C. Reporting:
+
+     1. Were reports timely, accurate, and concise?
+
+     2. Were assets debriefed?
+
+D. Results:
+
+                      1. Did S2 plot asset reports (track results of plan)?
+
+                      2. Did S2 identify inadequately tasked or unproductive
+
+assets and change tasking (with approval of commander or S3)?
+
+     3. Did reports or analysis answer PIR and IR?
+
+     4. Was R&S plan updated and recoordinated?
+
+              5. Were templates updated?
+E. Dissemination:
+
+              1. Was commander briefed on answer to PIR?
+
+     2. Has commander updated PIR?
+
+     3. Did units get intelligence based on priority?
+     4. Did higher headquarters get answers to taskings?
+
+     5. Did assets receive feedback on level of success?
+
+                         Figure A-4. R&S checklist (continued).
+
+                                                                      A-11
+
+
+---
+
+   * APAIND Xe                               pun aus pun      UOHELLLIOSU!                                                                                                                                                                                                                                             NOTE: Normally used at division and above, however,it can be modified for use at the brigade or battalion.
+   papas                   Agenpe
+                           iy                ap           annUboee
+
+                yO                           ayjUl        0p0e0h9o2d9u0sa0
+
+   3Q UD yl SBUN BIQEWEAE      “UOQEUULOYLE      O]  Pe IST) (St9s9angb0as3
+
+   Hee sotLORE*UOp A paAS MOGs                            UOREQpUIYIeS                                                      O3AN3SGO ae [su30O ssanoawuo 31919348    memes                                           LONE3NT gyn [TONY
+                                                                                                                                                                                                                          ON HOGIHUOD
+   @yeQuersqns             ma yey ONS 3901                                                                                      eztv OL O21                                                                          O2nvN                 30aEY                                                                                                                                                                                   Figure A-5. Collection plan format.
+                UOUULUOYU                        ares Ajovg                                                                     1O6G BL ow                                                                                  HOWOWddY     ALITTBOR
+                                                                                                                                                                                                                                        40 30NSAV
+                                                                                                                               saivNiauoos
+FM 34-2-1                                                                    G3A0 143 36 O1 S21DNIOV
+
+                                             wba                                                                                                                                                         “yueuenINs
+
+                                                                                                                                                             OL                   wy                     sebury>
+
+                                                                                                                                                                                                         pesnposjur
+                                                                                                                                                                                                         “suodsem
+
+                                                                                                                                                                                  Aionoonp               §=ppodey
+
+   papsou sy poaurewo                                sy                                                                                                                     Pue             £19001
+                                                                                                                                                                                             siZeOL
+                                                                                                                                                                 Bufsso1 “Oz0901
+                                                                                                                                                                                             s9p20g DIA
+                                                                                                                                                               pesreiwm
+                                                                                                                                                                                              yodey
+
+                                                                             xi xj=z                 #Tol] of ofol “lo                                                                                                                    Ant
+
+                                                                             etei”|818] fe|                    * 1 F/E128]
+                                                                             22/2)12 52 l/o3lale)l5 S| e5l/eSle1l3e]s|° Ef] 8 [03Auase0 anid |suaduo asanoaw 51419908” wo FOES 344), Jaonvisial 4OaNvNva0uv
+
+                                                 siuod3A ie alm                                                RI                                              WOas                                                  ONHOGIUUOD ALITIGON           (SL NaEZEINO su  SANANIUINO                                     BW
+                                                                                                                                                                                                                      MOVOUdEY 30 JONBAV           23INZOTT TALI              NOLLVERUOIM
+
+,                                                             |                                      iterates               DePayercchaieaues z OAOL                                                                                               4SN0HOLLVDICN ses ave) |SONIOCTIRANS ONY GINZA ALINONE
+   sxeveay 40MON union G2A0 i1a 3G OL SIIONZOV
+1                              OL                            WOUS ‘DSUBACD                   GOluad                             NVId NOILO3IT1I09                                                                                                                                                          =ameny
+                                                                                                                                         NOULWOISISSV1D
+                                                                                                                        a
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        A-12
+
+
+---
+
+                                                        FM 34-2-1
+
+ASSET  POSITION1 POSITION2 posiTION 3            REMARKS
+
+                                       e FINAL CROSSING SITES(S).
+                                       e OPCON OR ATTACHMENT.
+                                       e FINAL OBJ COORDINATION.
+                                       e CHALLENGE AND PASSWORD.
+                                       e PHASE LINE TIMING.
+
+Note: This matrix is filled in by the IEWSE officer. Other staff officers refer to this to find out
+where the assets are deployed or where they will deploy.
+
+       Figure A-6. Redeployment matrix for IEW assets.
+
+                                                                                                     A-13
+
+
+---
+
+FM 34-2-1                                                              FO q4                                         and EW
+                                                                                j
+       SQUADRON or BATTALION:                                                      (
+
+        Date:                                                                  infantry { -
+        Acheck indicates asset
+        named was employed in                                                               ”
+        the listed task.
+                                                                                          Armor
+                                asks
+
+                                                               Aids
+
+                                           NAI            GSR  Visual                            Aviation  Engineer  Signal
+                                                   Scout
+
+Objective  Locate enemy positions
+           Locate objective obstacles
+           Breach or mark obstacles
+
+Route      Direct fires
+Other
+           Assist C”
+
+           Locate screen
+           Locate route obstacles
+           Breach or mark obstacles
+           Mark assault route
+           Mark Infiltration route
+
+           Establish route OP
+           Perform terrain reconnaissance
+
+           Determine trafficability
+           Provide timely communications
+           Reconnoiter beyond objective
+
+           Establish screen
+
+       NOTE: Taken from the Rand study. Canbe used as a tool to ensure all available assets
+
+        are used in R&S operations.
+
+                             Figure A-7. Reconnaissance asset utilization matrix.
+
+A-14
+
+
+---
+
+                                                                                          FM 34-2-1
+
+           Patrol number.
+
+         Task organization and effective time.
+          Mission (PIR and IR included).
+
+           Start time.
+           Completion time.
+           Action upon enemy contact.
+            Action at obstacles.
+
+          Location of friendly minefields and barriers.
+
+             Routes.
+
+10. SP, RP, passage points, and checkpoints.
+
+11. Fire support.
+
+12. Organization and communication frequency for reporting.
+
+13. Actions upon completion of mission.
+14. Special instructions.
+
+                                                   Figure A-8. Patrol plan.
+
+                                                                                                    A-15
+
+
+---
+
+ FM 34-2-1
+
+            Patrol reports are prepared by the S2 section based on
+
+information reported by the patrol during debriefing. All
+pertinent information is included in the report to ensure
+completeness. The report is then disseminated in accordance
+with appropriate SOP.
+
+ (DESIGNATION OF PATROL)
+TO:
+
+MAPS:
+
+A. Size and composition of patrol.
+B. Mission.
+€. Time of departure.
+D. Time of return.
+E. Routes out and back.
+F. Terrain: (Description of the terrain: dry, swampy, jungle,
+
+          thickly wooded, high brush, rocky; deepness of ravines and
+           draws; condition of bridges as to type, size, and strength;
+           effect on armor and wheeled vehicles.)
+
+G. Enemy: (Strength, disposition, condition of defense,
+           equipment, weapons, attitude, morale, exact location,
+           movements, and any shift in disposition; time activity was
+           observed; coordinates where activity occurred.)
+
+H. Any map corrections.
+I. (Not used.)
+J. Miscellaneous information (including aspects of NBC
+
+           warfare).
+K. Results of encounters with enemy: (Enemy prisoners and
+
+          disposition, identifications, enemy casualties, captured
+          documents, and equipment.)
+L. Condition of patrol (including disposition of any dead or
+           wounded.)
+M. Conclusions and recommendations (include to what extent the
+           task was accomplished and recommendations as to patrol
+          equipment and tactics).
+
+Signature               Rank            Unit of Patrol Leader
+
+N. Additional remarks by interrogator.
+
+Signature         Rank        Unit of Interrogator   Time
+O. Distribution.
+
+                  Figure A-9. Patrol report format.
+
+A-16
+
+
+---
+
+                                                              FM 34-2-1
+
+1. Make the subject comfortable.
+
+2. Debrief orally.
+
+3. Debrief as soon as possible.
+
+  4. Do not ask leading questions.
+
+  5. Make sure PIR and IR are given to the patrol before it goes
+
+out.
+
+  6. Was intelligence accurate?  If not, what were the
+inaccuracies?
+
+7. Was the map accurate? If not, what were the inaccuracies?
+
+  8. If aerial photos were used, was the imagery analysis
+
+accurate?
+
+  9. What was the condition of trails?    Did the trails show
+
+signs of recent use?
+
+10. Were rivers or streams crossed or followed?
+
+11. What were stream and river conditions.
+12. Give location of the following and were they in recent use?
+
+o Bridges, by type.
+
+o Fords.
+
+o Roads, trails.
+
+13. Local contacts:
+
+o Name of village, city, or town.
+
+o Number, location.
+
+o Were they friendly? Indifferent? Hostile?
+
+o Was there any previous government contact?
+
+o Have they moved recently? If so, why?
+
+     o  Did  they  give any information?
+oN,
+                   NA                     NN
+
+                   Figure A-10. Hints on debriefing patrols.
+
+                                                               A-17
+
+
+---
+
+FM 34-2-1                                NIN         Ni
+                         nN
+
+ 14. Enemy contacts:
+
+      ie) Where and when.
+
+      } Number, race, and sex
+
+      How were they dressed?
+
+      Were they carrying packs? How were they armed?
+
+      Activity? If moving, in what direction?
+      Any equipment or documents recovered?
+      Casualties (own and enemy?)
+
+           Enemy casualties identified?  Disposition of bodies?
+      1@] Any prisoners or crossovers?
+
+             Le) Any observed (detected) ground or airborne R&S or other
+
+intelligence collection activity?
+
+15. Camps:
+
+      12) Where, when, and how was camp discovered?
+      ie) How sited? How many huts or buildings?
+      Oo What type? How long ago were they built?
+
+      In use? Food dumps?
+
+      Defenses constructed? Approach and escape routes?
+      Weapons, ammunition, or tools?
+
+      Signs of radios having been used?
+
+      Electricity? Generators? Used batteries?
+
+      Printing press? Copiers? Used carbon paper?
+
+      What was done with the camp?
+
+      NAN                                —\N
+
+      Figure A-10. Hints on debriefing patrols (continued).
+
+A-18
+
+
+---
+
+                                                                FM 34-2-1
+
+     \WI  NN                                                \,
+
+16.  Cultivated areas:
+     o Time, date, location of discovery?
+     o Size and shape?
+     o Was camouflage attempted?
+     o What crops?
+     o How old? Signs of harvesting?
+     o When last tended?
+     o Signs of habitation? Tools? Machinery?
+     o Trails in area?
+     o What was done to the cultivation?
+
+     Figure A-10. Hints on debriefing patrols (continued).
+
+                                                                A-19
+
+
+---
+
+FM 34-2-1
+
+     1. Mission.
+
+    2. Time required to be operational.
+    3. Routes to GSR site or REMBASS emplacement areas.
+
+    4. Location of primary or alternate and subsequent GSR sites
+
+  and REMBASS strings and fields.
+
+    5. Left and right scan limits of GSRs in mils; point target
+
+   location.
+
+    6. Withdrawal routes to subsequent GSR sites.
+    7. Location of friendly minefields and barriers.
+
+     8. Action upon enemy contact.
+     9. Passage points and checkpoints.
+   10. Fire support planning.
+
+  11. Organization and communication frequency for reporting.
+
+   12. Special instructions.
+
+                                         Figure A-11. GSR or REMBASS plan format.
+
+A-20
+
+
+---
+
+                                                      FM 34-2-1
+
+     Friendly and enemy situation.
+
+     Mission.
+
+     Maps, photos, overlays.
+
+     Expected targets (type).
+
+     Required reports.
+
+     Reporting procedures.
+     Communications.
+
+     Security.
+
+     Food service.
+
+10. Maintenance support.
+
+11. Sensor emplacement sites.
+
+12. Monitoring sites.
+
+13. Mission security implant.
+
+14. Proposed radar site locations.
+
+15.  Surveillance sectors.
+16.  Operation periods and schedules.
+
+17. MEDEVAC.
+
+18. Passage of lines.
+
+     Figure A-12. GSR or REMBASS briefing checklist.
+
+                                                      A-21
+
+
+---
+
+FM 34-2-1                        unit with a specific
+      STANDARD COLLECTION ASSET  requirement, but not with
+                REQUEST FORMAT   specific instructions for
+      Asset managers use the     carrying out the mission. The
+                                 SCARF tells you--
+standard collection asset
+request format (SCARF) for             o What information is
+intelligence requirements        needed.
+tasking and for requesting
+information from higher or             o Where to look for the
+adjacent headquarters. At        movers, shooters, sitters, and
+corps and division,              emitters.
+intelligence requirements
+tasking is directed toward MI          o When to look.
+commanders and commanders of           o When the information is
+other elements of the combat     needed.
+force capable of collecting the        o What to look with (in
+information.                     some cases).
+
+      Intelligence requirements
+tasking provides the selected
+
+A-22
+
+
+---
+
+                                                                                         FM 34-2-1
+
+A. Requester number.
+B. Originator priority.
+
+C. Activity or target type (area emitter and size [point,
+
+areas, or unit]).
+D. BE number, ELINT notation or case.
+E. Location (if known or last known).
+F. Duration:
+
+         o Start date-time.
+
+           o Frequency.
+
+          o Stop date-time.
+
+        o Latest acceptable date-time for information utility.
+
+G. Location accuracy:
+          o Required.
+            o Acceptable.
+
+H. PIR and IR desired.
+ I. Justification.
+J. Remarks (include disciplines and collectors recommended).
+
+Figure A-13. SCARF basic format.
+
+                                  A-23
+
+
+---
+
+FM 34-2-1                                                         MISSION REPORT
+             JOINT TACTICAL AIR                          Air units include strike or
+            RECONNAISSANCE AND                    attack, reconnaissance or
+                                                  surveillance, airlift,
+           SURVEILLANCE REQUEST                   observation, and helicopter.
+            FORM (DD Form 1975)                   Air units use the mission
+      This form is used to                        report to report the results of
+request a joint tactical air                      all missions and significant
+reconnaissance or surveillance                    sightings along the route of
+mission. The form states                          the flight.
+requirements, identifies needs,                          The mission report
+and, o c c a s i o n a l l y , s p e c i f i e s  amplifies the inflight report
+the actual air asset to perform                   and is normally submitted
+the mission.                                      within 30 minutes after
+      Any echelon initiates the                   aircraft landing to--
+request. It is used for both                             o The tasking agency.
+immediate and preplanned                                 o The requesting unit or
+mission requirements. The                         agency.
+requestor completes section                             o Other interested
+1 of the request for each                         organizations.
+specific mission. Normally,                             When the EW air task or
+these requests are transmitted                    mission is completed,
+by electrical means. The                          intelligence personnel conduct
+headquarters receiving the                        a briefing and submit a mission
+request adds information                          report.
+required to validate or
+complete the request.
+Obtain DD Form 1975 through
+your S1.
+
+A-24
+
+
+---
+
+                                           FM 34-2-1
+
+HEADING
+PRECEDENCE
+ORIGINATING AGENCY
+ACTION ADDRESSEES
+INFORMATION ADDRESSEES
+SECURITY CLASSIFICATION/CODE
+MISSION REPORT (Number) DATE-TIME GROUP
+
+BODY
+
+1. AIR TASK/MISSION NUMBER OR NICKNAME. Reference the request
+number, FRAGO number, or directive causing initiation of the
+
+mission.
+
+2. LOCATION IDENTIFIER. Target    number, line number, approved
+target designator/identifier, or  coordinates of the target or
+sighting being reported.
+
+3. DIME ON TARGET/TIME OF SIGHTING. Report all times by
+date-time group, using ZULU time unless otherwise directed.
+
+4. RESULTS/SIGHTING INFORMATION. This item should contain the
+
+pilot and aircrew evaluation of expected results (for example,
+
+percent destroyed, number and type destroyed, or percent of
+coverage). It should contain concise narrative information on
+
+significant sightings (for example, unusual or new enemy
+equipment or concentrations of enemy forces observed to include
+number, speed, and direction [if applicable]).
+
+5- REMARKS. Includes information not specifically mentioned in
+
+above items (for example, enemy defenses encountered: weather
+
+data; hostile meaconing, intrusion, jamming, and interference
+attempts).
+
+      Figure A-14. Mission report format.
+
+                                           A-25
+
+
+---
+
+                                   FM 34-2-1
+
+APPENDIX B
+
+EXAMPLE OF THE RECONNAISSANCE
+    AND SURVEILLANCE PROCESS
+
+      The objective of R&S               MANEUVER BRIGADE SCENARIO
+planning is the collection of            The following is the
+information the commander needs    scenario for a maneuver brigade
+in order to fight and win the      in a high-intensity conflict.
+battle. Planning results in              COL Link Gayagas,
+the coordinated efforts of all     Commander, 1st Brigade, 52d
+intelligence resources             Infantry Division (Mech), had
+integrated into one collection     just received the divisions
+effort.                            OPORD. Based on the division
+                                   commanders concept of
+              PLANNING PROCESS     operations and intent, COL
+      The planning process         Gayagas knew his brigade was in
+includes--                         for a hard time in
+      o Determining requirements.  accomplishing the mission. The
+      o Assigning priorities.      brigadets mission is to conduct
+      o Allocating the resources   a supporting attack in the
+to satisfy each requirement.       southern zone of the division’s
+This appendix will assist          AO .
+commanders and staffs in                 The brigade is to seize
+understanding the process used     defensible terrain. This will
+to develop, implement, and         allow the division to prepare
+execute an R&S operation.          for a defense and destroy a
+      The process described in     reinforcing combined arms Army
+this appendix is a deliberate      soon to be committed. To
+one which can be used when         support the division’s main
+sufficient time is available.      attack, the division commander
+In a hasty planning process,       wants the brigade to draw the
+the procedures can be              commitment of the 41st guards
+modified. Most of the products     motorized rifle division’s
+described here will not be done    (GMRD) reserve, the 35th tank
+formally; but the steps            regiment (TR), into the
+involved should still be           brigadets zone. The 35th TR is
+applied mentally.                  the only threat to any major
+                                   drive by the 52d Infantry
+                                   Division to the north.
+
+                                   B-1
+
+
+---
+
+FM 34-2-1                          Baker had developed a good idea
+                                   of the enemy situation; and
+      While still at the division  since he understood the
+OPORD briefing, COL Gayagas        informational requirements
+took advantage of a short break    associated with the type
+to instruct the brigade S3, MAJ    mission assigned, he was ready
+Booth, to call the brigade TOC     to support the brigadets
+and give them a warning order      decision-making process.
+for the upcoming mission. MAJ
+Booth provided the brigade TOC                   BRIGADE PLANNING
+with the type mission,                   The brigadets planning
+boundaries, and the brigade’s      staff was assembled quickly
+objective, as assigned by          upon the return of the
+higher headquarters. This was      commander. COL Gayagas
+to allow the staff to begin        provided all the information he
+work on the mission,               had that was not published in
+particularly the S2 who needed     the OPORD. He also provided
+the additional time to develop     the higher commander’s intent
+the intelligence products to       and guidance, insights, and
+support the brigade’s IPB          concerns, along with some
+process.                           available options.
+                                         COL Gayagas was
+      MAJ Baker, the brigade's     particularly concerned about
+S2, immediately began to           the brigade’s ability to create
+orchestrate the intelligence       a situation which would force
+system to support the upcoming     the enems y motorized rifle
+mission. He directed SGT           division (MRD) commander to
+Hockins, the section               commit his reserve into his
+intelligence analyst, to           brigade sector. He knew he had
+develop an MCOO of the AO; and,    to find an enemy weakness and
+for initial planning purpose,      exploit it quickly; to do that,
+to include in the MCOO the         he needed detailed information
+analysis of the AI extending 5     on the enemy disposition. COL
+kilometers to the flanks and 10    Gayagas gave MAJ Baker the PIR:
+kilometers forward of the AO.             1. What is the 15th guards
+MAJ Baker also directed his        motorized rifle regiment (GMRR)
+assistant, CPT Roberts, to call    defensive disposition?
+the G2 shop or division                  2. Is there a weakness in
+operations and intelligence        the 15th GMRR defensive
+(O&I) and get as much              disposition? If so, where?
+information as possible on the
+enemy situation.
+
+      By the time the brigade
+commander returned from the
+division OPORD meeting, MAJ
+
+B-2
+
+
+---
+
+       3. Where are the artillery                                     FM 34-2-1
+battalions comprising the 15th
+GMRR regimental artillery          template. They were comparing
+group?                             their product to the OB
+                                   holdings on the enemy unit
+      4 . Will the 41st GMRD       facing 1st Brigade. MAJ Baker
+commander direct any of his        informed CPT Roberts he had
+gunships against 1st Brigade?      received the division’s
+If so, when?                       intelligence products and
+                                   commander’s PIR and needed him
+      5. Where and when will the   to assist in the mission
+35th TR be committed?              analysis process.
+
+       6. Will the enemy employ          They both understood the
+chemical munitions against 1st     higher commanders intent and
+Brigade? If so, when and           knew the informational
+where?                             requirements associated with
+                                   the offensive operation being
+      COL Gayagas provided his     conducted by the brigade. They
+planning guidance, stressing       completed the mission analysis
+his PIR. He left his second        process as it pertained to the
+in command, LTC Larcom, to         intelligence system. MAJ Baker
+initiate the planning process      was about to leave to meet with
+and coordinate those staff         the orders group to present the
+actions requiring operating        result of his analysis. He
+system integration. LTC Larcom     took with him the MCOO and the
+provided each staff element        enemy situation template.
+with its corresponding portion     Figure B-1 shows an MRR
+of the division OPORD.             situation template (based on a
+                                   prepared defense). He
+      He informed the staff they   instructed CPT Roberts to start
+had two hours to go through        developing the brigade R&S
+the mission analysis process       plan.
+in their respective area of
+responsibility and to be back            CPT Roberts began his
+at the end of those two hours      efforts by analyzing the
+to review the results of their     commander’s PIR. Using the
+analysis.                          enemy situation template, CPT
+                                   Roberts took the PIR and began
+           S2 ANALYSIS PROCESS     to associate them with
+                                   indicators of enemy COAs. At
+      With the commanders PIR      the same time, he identified
+in hand, MAJ Baker began to        those PIR which could be
+develop the products needed        satisfied with organic,
+to support the accomplishment      assigned, or attached
+of the mission. When MAJ Baker     collection assets; and those
+arrived at his 577, CPT Roberts    PIR for which he would have to
+and SGT Hockings were refining     submit an RII to higher
+the initial situational            headquarters. The PIR analysis
+                                   conducted by CPT Roberts
+                                   reflected:
+
+                                   B-3
+
+
+---
+
+FM 34-2-1
+
+                    H +20 min
+
+                      H +30 min®
+
+                                                                                          .
+
+           H+40m in
+
+                                                                                             eaten
+
+                                                                                             inst
+
+     Figure B-1. MRR s tuation template based on a prepared defense.
+
+B-4
+
+
+---
+
+      PIR : What is the 15th GMRR                                         FM 34-2-1
+defensive disposition?                              - No impeding type
+                                       obstacle within the main AA.
+      INDICATOR:
+             3 x MRCs with a total                  - Location of tanks
+             of 8 to 10 BMP-2's, and   within MRC positions.
+             2 to 3 T-64B'S per MRC,
+             all in prepared                        - No tanks with second
+             fighting position or in   echelon forces.
+             assembly area.
+             Main obstacle array                        Location of MRR
+             from 800 meters to        reserve.
+             1,000 meters forward of
+             the MRC prepared                PIR: Where are the
+             fighting positions.       artillery battalions comprising
+             8 to 12 T-64B's in an     the 15th GMRR regimental
+             assembly area.            artillery group? This PIR will
+             2 to 3 BMP-2's forward    also serve as an RII to higher
+             1 to 3 kilometers of      headquarters and will
+             main defensive position   facilitate the integration of
+             with possible             ECM support by the IEWSE
+             protective type           officer to support the scheme
+             obstacle.                 of maneuver.
+             1 BMP-2 or BMP-1 BRDM
+             forward and isolated            INDICATOR: 3 x 5 t o 8
+             from any additional       2S1’s or 2S3’s on line, located
+             forces.                   off a major AA or MC.
+             5 to 7 BRDM-2's,
+             mounting 5 AT-5                 PIR: Will the 41st GMRD
+             Spandrel AT guided        commander direct any of their
+             missiles in assembly      gunships against 1st brigade?
+             area, possible mine       If so, where? This PIR will
+             layer with 1 BTR          serve as an RII to higher
+             included.                 headquarters.
+
+      PIR : Is there a weakness              PIR : Where and when will
+in the 15th GMRR defensive             the 35th TR be committed
+d i s p o s i t i o n ? If SO, where?  against 1st brigade? This PIR
+                                       will also serve as an RII to
+      INDICATOR:                       higher headquarters for initial
+             - Distance between MRCs   acquisition and tracking.
+
+greater than 2,000 meters.                   INDICATOR: 60 to 70
+                                       T-64B's moving southeast from
+                                       NAI 90 to NAI 16 and NAI 18.
+
+                                             PIR : Will the enemy use
+                                       chemical munitions against 1st
+                                       brigade? If so, when? This
+                                       PIR will serve as an RII to
+
+                                       B-5
+
+
+---
+
+FM 34-2-1                            commander’s concept of
+higher headquarters for initial      operations. COL Gayagas wanted
+indication of intent to employ.      a good reconnaissance of Axis
+                                     Speed and Axis Kill (Annex A of
+      INDICATOR:                     the OPORD); and he wanted two
+             - Break off activities  OPs established: one
+                                     overmatching OBJECTIVE CAT and
+of enemy forces in contact.          the other OBJECTIVE DOG.
+             - Enemy troops wearing
+                                           MAJ Baker told CPT Roberts
+protective overgarment.              that since he now knew the
+      DEVELOPMENT OF SITUATION       brigadets scheme of maneuver,
+                                     he had sufficient information
+TEMPLATE AND EVENT TEMPLATE          to assign specific
+      Concurrently with the          informational requirements to
+                                     subordinates and attached units
+development of the indicators,       and complete the brigade R&S
+CPT Roberts began to identify        plan. CPT Roberts was also to
+NAI that, when defined by the        develop the R&S tasking matrix,
+indicators, would form the           which is the tool used to
+basis and focus of the brigade       disseminate R&S taskings to
+R&S efforts. CPT Roberts'            subordinate and attached
+event analysis process was           units. He is to have the
+developed to ascertain the           matrix ready within the hour so
+defensive COA as it relates to       MAJ Baker could pass it through
+the reconnaissance and security      COL Gayagas for his approval
+echelon and the 2d echelon           and MAJ Booth for coordination.
+motorized rifle battalion (MRB)
+and MRR reserve. T h i s i s               The following samples are
+outlined in the brigade SOP.         the results of the brigade's
+The first echelon MRBs               mission analysis and
+defensive COA was given to the       decision-making process to
+task forces to develop, as           develop the R&S plan. The
+assisted by the brigade S2’s         sample is given along with the
+enemy situation template and         figure number assigned to it.
+event template. Figure B-2
+shows an event template.                   o Figure B-4. Sample
+Figure B-3 is a combined             warning order.
+situation template and event
+template.                                  o Figure B-5. Sample
+                                     OPORD.
+          SPECIFIC R&S GUIDANCE
+      When MAJ Baker returned              o Figure B-6. Sample Annex
+from the meeting he had the          A to OPORD l-XX.
+tentative brigade plan to
+accomplish the mission. He                 o Figure B-7. Sample Annex
+informed CPT Roberts of the          B to OPORD l-XX.
+brigade's scheme of maneuver
+and provided him additional R&S            o Figure B-8. A sample
+instructions based on the            Appendix 3 to Annex B to OPORD
+                                     l-XX .
+B-6
+
+
+---
+
+                                                                                            FM 34-2-1
+
+Tes
+
+               Figure B-2. Mod ied event template based on MRRsituation template.
+
+                                                                                                     B-7
+
+
+---
+
+FM 34-2-1                                  4        H +20 min
+
+       NAI aX)                               “      H+30 min
+
+                                      62A       H +40 min
+
+                              @
+
+     Figure B-3. Situation template and event template combined
+                           to form the foundation for the R&S plan.
+
+B-8
+
+
+---
+
+                                                  FM 34-2-1
+
+WARNING ORDER
+
+TO: Orders Group ALPHA
+
+FROM: Commander, 1st Brigade
+
+ZULU Time = UNIFORM + 7
+
+SITUATION: The 41st GMRD is defending in prepared positions
+from AB448098 to AB362456. The 41st GMRD has not established a
+security zone; expect subordinate MRRs to establish combat
+security outposts.
+
+ATTACHMENTS AND DETACHMENTS: Team 1/1/2/B/104th MI OPCON to TF
+1-10 (Mech); Team 2/1/2/B/104th MI OPCON to TF 1-12(Mech)
+effective 3105002 Aug XxX.
+
+EARLIEST TIME OF MOVE:   Main  body movement from assembly  area
+will be NET 012300Z Sep  XX.   Order of movement will be
+designated at OPORD.
+
+NATURE AND TIME OF OPERATIONS: Brigade, 52d Infantry Division
+(Mech) destroys enemy in zone (012245Z Sep XX) to force the
+commitment of the 41st GMRD reserve in lst Brigade Zone. On
+order, seize OBJ Watch (AB2635) to facilitate the advance of
+follow-on forces. R&S activities will commence NLT 3117012 Aug
+
+XX.
+
+TIME AND PLACE OPORD ISSUANCE: 1st   Brigade  OPORD will be issued
+at brigade Toc vicinity AB621180 at  310700Z  Aug XX. Orders
+group ALPHA will attend.
+
+Acknowledge.
+
+               Figure B-4. Sample warning order.
+
+                                                                  B-9
+
+
+---
+
+FM 34-2-1
+
+                            Copy                of    Copies
+                                                      (M)
+                            lst Bde, 52d ID
+
+                            (Location)
+
+                            310700Z Aug XX
+
+OPORD 1-XX
+
+Reference: Omitted
+
+Time Zone Used Throughout Order: ZULU (UNIFORM + 7).
+
+Task Organization: Omitted
+
+1. SITUATION.
+
+      a. Enemy Forces: Annex B (Intelligence).
+
+      b. Friendly Forces:
+
+                      (1) 52a ID (Mech). Attacks to destroy the 41st GMRD
+and seize defensible terrain from AB255385 to AB145135 NLT
+012245Z Sep XX. On order, defend in sector to destroy the 9th
+CAA. The Div Cdr intent is to force the commitment of the 41st
+GMRD reserve into 1st Brigade Zone to allow the division main
+effort in the north to quickly penetrate deep into the MRD
+sector and rapidly destroy the enemy; and allow the Div more
+time to prepare the defense to destroy the 9th CAA.
+
+           (2) 2d Brigade. Division main effort in the north....
+
+           (3) 3d Brigade. Follow and support 2d Brigade....
+
+2. MISSION.
+
+          lst Brigade, 52d ID (Mech) attacks 0122452 Sep Xx to seize
+
+OBJ CAT (AB4014) and OBJ DOG (AB4011) to destroy enemy in zone
+and force the commitment of 41st GMRD reserve into ist Brigade
+Zone. On order, continue the attack west to seize OBJ WATCH
+(AB2635). Be prepared to conduct a hasty defense on OBJ CAT and
+DOG to destroy the 41st GMRD's counterattack.
+
+3. EXECUTION.
+
+           a. Concept of Operations. Annex A of the OPORD. I see
+this as a multiphase operation. First, the reconnaissance
+phase: I want an aggressive R&S effort conducted to ascertain
+the disposition of the 15th GMRR. I want to find their
+
+oN A           NIN          AN                  Nc
+
+                    Figure B-5. Sample OPORD.
+
+B-10
+
+
+---
+
+                                                           FM 34-21
+
+oN,  ANN                           \ No     N\
+obstacles, to be able to take advantage of any weaknesses and
+
+avoid his strength. I need R&S assets deep to track the 41st
+
+GMRD reserve (the 35th TR, counterattack force) once it is
+
+committed in my zone. The second phase is from the LD to the
+
+objectives (CAT and DOG). MTF 1-10 will be the main attack on
+
+Axis Speed; TF 1-12 will conduct the supporting attack in zone.
+
+TF 3-68 will be the Bde reserve. I want TF 1-12 to cross the LD
+
+at 012245Z Sep XX and the rest of the Bde crossing 15 minutes
+
+later. TF 1-12 will draw the 15th GMRR reserve to counterattack
+
+into its zone to facilitate TF 1-10 efforts to unhinge the enemy
+
+defense from the north quickly. We will clear enemy in zone; no
+
+enemy force platoon size or larger will be bypassed. I will
+
+interdict enemy disposition with the fire support assets then
+
+destroy them with overwhelming combat power. We cannot allow
+
+the enemy to slow our attack. The third phase will be the
+
+destruction of the 41st GMRD reserve. Once TF 1-10 and TF 1-12
+
+seize OBJ CAT and DOG, and the 41st GMRD initiates its
+
+counterattack, TF 3-68 will pass through TF 1-10 and
+
+counterattack into the flank of the 41st GMRD reserve and
+
+destroy the enemy. The last phase is to continue the attack
+
+west to facilitate the Bde's follow-on defensive mission.
+
+                   (1) Maneuver.  ist Brigade conducts this mission in
+
+four phases.
+
+                               (a) Phase 1: Reconnaissance and surveillance.
+
+                               (b) Phase 2: TF 1-10, initial main effort;
+attacks on Axis Speed at 072300Z Sep XX to seize OBJ CAT
+(AB4014), to destroy enemy in defensive position; occupies
+Attack Position #1 NLT 012200Z Sep XX; LD is PL Space. TF 3-68
+follows TF 1-10 as the Bde reserve. TF 1-12 occupies Attack
+Position #2 NLT 012200Z Sep XX, conducts supporting attack at
+0122452 Sep XX, to destroy enemy in zone and seize OBJ DOG, in
+an effort to force the commitment of the 15th GMRR reserve into
+OBJ DOG (AB4011) to support TF 1-10 attack on OBJ DOG.
+
+                               (c) Phase 3: On order, TF 3-68 becomes the main
+effort and counterattacks on Axis Kill to destroy 41st GMRD
+reserve (35th TK Regt (-)); TF 1-10 supports TF 3-68 by fire, to
+fix enemy in engagement area RED (AB395165). TF 1-12, be
+prepared to support TF 3-68 and TF 1-10; on order, TF 1-12
+
+becomes the Bde reserve.
+
+     (ad) Phase 4: 1st Bde conducts a deliberate
+
+defense on OBJ WATCH NLT 022400Z Sep XX, lst Bde defends in
+
+sector with two TFs abreast--TF 1-10 (North) and TF 1-12
+
+(South) --and TF 3-68 in reserve.  NN
+oN,  \nJ-                                             Ave
+
+     Figure B-5. Sample OPORD (continued).
+
+                                                                        B-11
+
+
+---
+
+FM 34-2-1                       NWN                  See Annex--            WN   Nr
+
+   ~,                        Fires.                               (omitted)      See
+
+                        (2)
+
+                      (3) Obstacles,                 Mines,  and Fortification.
+Annex--Omitted
+
+      (4) IEW. I want an aggressive R&S effort. My first
+
+requirement is to have a good description of tHe enemy's
+
+offensive posture and find out if he is deploying any security
+
+forces forward. The S2 will coordinate and supervise the
+
+effort. The S3 will integrate my EW requirements through the
+
+TEWSE. I want EW support in locating the 41st GMRD, and 15th
+
+GMRR reserves. I want jamming support directed against the 15th
+
+GMRR artillery resource and integrated into the Bde's scheme of
+
+maneuver to support our movement onto the OBJs. Additionally, I
+
+need jamming                 support directed against C“ nodes between the MRB
+
+in the south                 and the 15th GMRR. This will support their belief
+
+that my main                 effort will be in the south.
+
+      b. Subordinate Units Subparagraphs.
+
+      (1) Combat Arms Unit. Omitted
+
+      (2) Fire Support. Omitted
+
+      (3) Air Defense, Aviation, Engineer, MI. Omitted
+
+      (4) Reserve. Omitted
+
+      (5) Coordinating Instruction.
+
+                             (a) PIR Phase 1:
+
+                                                 12  What is the 15th GMRR defensive disposition
+and obstacle array?
+
+                                              2 What is the identification and location of
+the artillery battalions comprising the 15th GMRR regimental
+artillery group?
+
+                             (b)  3 Where is the 15th GMRR reserve located?
+                                  PIR Phase 2:
+
+                                              1 What is the identificatioonn a                   ati  Me
+the artillery battalions comprising the 15th GMRR                                                              O
+artillery group?                                                                 regiment                             a)
+
+                                  Figure B-5. Sample OPORD (continued).
+
+B-12
+
+
+---
+
+                                                                           FM 34-2-1
+
+                                    |to  Where and when is the 15th GMRR reserve
+
+being committed?
+
+                                    3 Where is the 35th TR located?
+
+against lst Bde?                    4 Will the enemy employ chemical munitions
+
+                                    If so, when?
+
+               (c) PIR Phase 3:
+
+                                    1 Where and when is the 35th TR being
+
+committed?
+
+                                         2 Will the enemy employ any of their gun
+
+ships against lst Bde? If so, when?
+
+                                 *      3 Will the enemy employ chemical munitions
+                                    If so, we her n?
+against 1 Bde:
+
+                  (da)              TF's R&S plans:  Required at Brigade by
+
+311400Z   Sep  XX.
+
+4, SERVICE SUPPORT. Omitted
+
+5. COMMAND AND SIGNAL. Omitted
+
+Acknowledge.
+
+                                                     GAYAGAS
+                                                     COL
+
+OFFICIAL
+
+(SIGNED)    A - Operations Overlay.
+S3          B - Intelligence:
+
+Annexes:             APP 1--Enemy Situation Overlay (Figure B-1).
+                     APP 2--Event and R&S Overlay (Figure B-2).
+                      APP 3--R&S Tasking Matrix.
+
+                                    Figure B-5. Sample OPORD (continued).
+
+                                                                                   B-13
+
+
+---
+
+FM 34-2-1
+
+                                                                     \
+
+                                                                           TF 1-10 = TF1-12
+
+            OBJ DOGME
+
+       OBJ  CAT
+      / ¢      TF 1-10= TF 1-12
+
+                                                                                             PL BLUE
+
+      ENGAGEMENT.
+
+        AREA RED [10>]
+
+                Figure B-6. Sample Annex A to OPORD 1-XxX.
+
+B-14
+
+
+---
+
+                                                     FM 34-2-1
+
+ANNEX B (INTELLIGENCE) TO lst BDE OPORD 1-XX
+
+Reference: Basic OPORD.
+
+1. SUMMARY OF ENEMY SITUATION.
+
+         a. Enemy Situation (See Appendix 1, Enemy Situation
+
+Overlay).
+
+                      (1) Composition or Disposition. Elements of the 41st
+GMRD are in prepared defensive position from AB373856 to
+AB448098. 41st GMRD is part of the 8th CAA's second defensive
+echelon. The 41st GMRD is dispositioned with 3 MRRs (15 G, 37
+G, and 60 G) on line and the 35th TR, as the reserve. Committed
+forces against lst Bde are shown on Appendix 1. Reinforcement
+is limited to the 35th TR. Known location for 41st GMRD's
+artillery battalions are 15th GMRR at AB3812; 37th GMRR at
+AB3720; and 60th GMRR at AB3635. The 37th TR artillery
+battalion is currently in support of the 41st GMRD DAG.
+
+                       (2) Strength. 41st GMRD elements are presently at 60
+to 70 percent strength in equipment and personnel. 41st GMRD's
+reconnaissance is believed to be at less than 50 percent.
+
+                      (3) Enemy Capabilities. 41th GMRD and the 8th CAA are
+not capable of resuming offensive operations. The 385th Fighter
+Bomber Regiment of the 37th TAA can fly 1 to 2 sorties of MIG 27
+Flogger Ds or SU-25 Frogfoot, in support of the 8th CAA. The
+41st GMRD has the capability of employing 2 battalions of 122 mm
+ (2S1), 2 battalions of 152 mm (283), and 3 batteries of 120 mm
+mortars against lst Bde. Nuclear and biological attacks are
+possible, but not likely. The enemy has used persistent and
+nonpersistent chemical agents previously, and is likely to do so
+again. The 41st GMRD has the capability to counterattack with
+the 37th TR to blunt 52d ID (Mech) attack. Units at all levels
+should expect local counterattacks.
+
+                      (4) Most Probable Course of Action. The 41st GMRD will
+continue to defend to allow the 9th CAA sufficient time to
+deploy and assume offensive operations. The 15th GMRR defending
+within the lst Brigade zone of attack will defend with 2 MRBs in
+the first echelon and 1 MRB in the second echelon. The TB has
+been broken up to reinforce the first echelon MRBs. The 15th
+GMRR reserve (counterattack force) consists of the TB HQs and
+one TK Company. The AT Missile (AT-5) Battery will be used as a
+
+——\/  NIN  \N                                    \\
+
+      Figure B-7. Sample annex B to OPORD 1-XX.
+
+                                                     B-15
+
+
+---
+
+FM 34-2-1
+
+mobile reserve, with the possibility of one of its platoons sent
+to reinforce one of the first echelon MRBs. Although, there is
+no MRD-level security zone, expect combat security outposts
+forward of each first echelon MRB. Expect enemy artillery fire
+to commence as soon as the brigade moves across the LD. Enemy
+will use nonpersistent chemical munitions mixed in with their
+initial artillery fires, to slow and disrupt the brigade
+movement. Enemy use and intent for their obstacles will be to
+channelize the Bde and impede our movement within their
+established kill zones and fire sacks.
+
+2. INTELLIGENCE REQUIREMENTS.
+
+      a. PIR: see Coordinating Instruction, basic order.
+
+      b. IR:
+
+                      (1) Has the 15th GMRR deployed combat security
+outposts? If so, where and what size?
+
+           (2) Where is the 15th GMRR and AT missile battery?
+
+           (3) Where are the 15th GMRR obstacles?
+
+3. INTELLIGENCE ACQUISITION TASKS.
+
+      a. Subordinate and Attached Units: See Appendix 3.
+
+      b. Request to Higher, Adjacent, and Cooperating Units:
+
+           (1) Will the 41st GMRD employ NBC attacks?
+
+           (2) What enemy REC locations are in lst Brigade zone?
+
+           (3) When will the 37th TR be committed in 1st Brigade
+
+zone?
+
+4. MEASURES FOR HANDLING PERSONNEL, DOCUMENTS, AND MATERIALS.
+
+5. DOCUMENTS AND/OR EQUIPMENT REQUIRED. Omitted.
+
+6. CI AND OPSEC. Commanders will emphasize dispersion,
+camouflage, noise and light discipline, and COMSEC.
+
+           Figure B-7. Sample Annex B to OPORD 1-XX (continued).
+
+B-16
+
+
+---
+
+                                        FM 34-2-1
+
+7. REPORTS AND DISTRIBUTION.  Subordinate Units R&S Plans -
+submit NLT311400Z Aug XX.
+
+8. MISCELLANEOUS INSTRUCTION. Omitted.
+
+APPENDIXES:
+
+1 - Enemy Situation Overlay
+
+2 - Event and R&S Overlay
+
+3 - R&S Tasking Matrix
+
+Figure B-7. Sample Annex B to OPORD 1-XX (continued).
+
+                                                             B-17
+
+
+---
+
+FM 34-2-1
+
+                                       (CLASSIFICATION)
+
+                        R&S TASKING MATRIX
+
+    UNIT          PRI-                 REPORTING REQUIREMENT                                       REMARKS
+TASKING           ORITY NAI |LOCATION      EVENT AND INDICATOR
+
+TASK FORCE
+         1-10
+
+1. Recon Axis     1     See R&S        Conditions that affect trafficability and            Report as obtained.
+                        overlay        maneuverability. Obstacle type, size,
+Speed.                                 and orientation.
+
+2. Establish OP.        67 |AB427185 Surveillance of activities on OBJ CAT. Establish position NLT
+3. Recon.                                                                                                                           311900 AUG Xx.
+
+4. Recon                61 |AB410150 3 MRP’s with 8 to 10 x BMP-2s, in                      Report all occupied or
+5. Recon                                               prepared fighting positions:         unoccupied fighting
+
+6. Recon                               Obstacle array 800 to 1,000 m forward positions. Obstacles:
+
+                                       of MRC position.                                     report type, size, and
+
+                                                                                            orientation NLT
+
+                                                                                            010200Z Sep Xx.
+
+                        61A|AB400163 Alternate position for MRC at NAI 8.
+
+                        63 | AB390133 3 MRPs with 8 to 10 x BMP2s,                          Report all occupied or
+                                                     prepared fighting positions: Obstacle  unoccupied fighting
+                                                      array 800to 1000m forward of MRC      positions. Obstacles:
+                                                     position.                              report type, size, and
+                                                                                            orientation NLT
+                                                                                            010200Z Sep Xx.
+
+                     65 |AB390150 8 to 12 x T64B’s in assembly area.                        Possible MRR reserve.
+                                                                                            Report NLT 010200Z
+                                                                                            Sep XX.
+
+NN                                                 (CLASSIFICATION)    WN
+
+        Figure    B-8.  NAN                                          B to  OPORD            1-Xx.
+
+                         Sample Appendix 3 to Appendix
+
+B-18
+
+
+---
+
+—TM                WS (CLASSIFICATION) WW                                                   FM 34-2-1
+
+                                                                                         Ne
+
+                   R&S TASKING MATRIX
+
+      UNIT         PRI-                 REPORTING REQUIREMENT                                     REMARKS
+                   ORITY NAI |LOCATION     EVENT AND INDICATOR
+  TASKING                                                                                MRR recon company
+
+TASK FORCE                                                                               element. Report as
+         1-12                                                                            obtained.
+
+1. Recon.          1 | 43 |AB501098|/1 BRDM or 1 BMP-2.
+
+2. Establish OP.   60 |AB416099| Surveillance of activities on OBJ DOG. | Establish positions NLT
+
+                                                                                                                       311900 2 Aug XX.
+
+3. Recon           62 |AB408105/3 MRP’s with 8 to 10 EMP-2s, in prepar-| Report all occupied or
+
+4, Recon.                               ed fighting positions: Obstacle array            unoccupied fighting
+5. Recon.
+                                        800 to 1,000 m forward or MRC position.| positions. Obstacles:
+
+                                                                                         report type, size, and
+
+                                                                                         orientation NLT
+
+                                                                                         010200Z Sep XX.
+
+                   62A |AB384098| Alternate positions for MRC at NAI 8.
+
+                   64 |AB379118/3 batteries with 4 to 6 2S1 x 283s                       Report all positions NLT
+                                           on line, located off a major avenue of        (010200Z Sep Xx.
+
+                                                   aanpnp orro oa ac ch h oor r M MCC..
+
+TASK FORCE         AB360160 |60 to 70 x T64B’s moving southeast                          Coordinate passage or
+         3-60            to from NAI 16 (AB380192) and NAI 18                            flank screen element
+                                                                                         with TF 1-10.
+Establish flank    AB413370 |(AD362184) heading towards NAI 10                           Establish screen NLT
+screen oriented
+north, northwest.                   (AB370162) or NAI 20 (AB360125).                     011000Z Sep XX.
+
+                                                           (CLASSIFICATION)
+
+Figure B-8. Sample Appendix 3 to Annex B to OPORD 1-XX (continued).
+
+                                                                                             B-19
+
+
+---
+
+AA                                                                     FM 34-2-1
+AAA                       GLOSSARY
+ACR      avenue of approach
+ACRV     antiaircraft artillery
+ADA      armored cavalry regiment
+AE       a type Soviet equipment
+AF       air defense artillery
+AI       aerial exploitation
+ALO      Air Force
+AM       area of interest
+ammo     air liaison officer
+AO       amplitude modulated
+APC      ammunition
+approx   area of operations
+arty     armored personnel carrier
+ASC      approximately
+ASPS     artillery
+AT       armored scout car
+attn     all-source production section
+AVLB     antitank
+avn      attention
+AZ       armored vehicle launched bridge
+ BAE     aviation
+bde      Arizona
+ BE      battlefield area evaluation
+ bldg    brigade
+ BLUFOR  basic encyclopedia
+ BMNT    building
+ BMP     Blue Force (US)
+ bn      beginning of morning nautical twilight
+ BOS     a type of Soviet personnel carrier
+ BRDM    battalion
+ BRM     battlefield operating systems
+ BTR      a type of Soviet equipment
+ CAA      a type of Soviet equipment
+ c²       a type of Soviet equipment
+ C³       combined arms army
+ C3CM     command and control
+ C&J      command, control, and communications
+          command, control, and communications
+ CANE     countermeasures
+ CAS      collection and jamming
+ cdr      Combined Arms in a Nuclear/Chemical
+ C-E         Environment
+          close air support
+          commander
+          Communications-Electronics
+
+                                                                       Glossary-1
+
+
+---
+
+FM 34-2-1         communications-electronic  staff officer
+CESO              chemical                   dissemination
+them              counterintelligence
+CI                collection management and
+CM&D              countermobility
+C/MOB             company
+co                course of action
+COA               collection
+Coil              communication
+Comm              communications security
+COMSEC            contact
+con
+counter-          all measures taken to prevent hostile    (DOD)
+reconnaissance--   observation of a force, area, or place
+CP                 command post
+CPT
+CR                captain
+CSS               counterreconnaissance
+CUCV              combat service support
+DA                commercial utility cargo vehicle
+DAG
+DC                Department of the Armywh)
+DD                division artillery group (Soviet)
+decon             District of Columbia
+def               Department of Defense
+det               decontamination
+DF                defense/defensive
+DIA               detachment
+dist              direction finding
+div               Defense Intelligence Agency
+DIVARTY           distribution
+DS                division
+DST               division artillery
+DTG               direct support
+DZ                decision support template
+E                 date-time group
+ECCM              drop zone
+ECM
+EENT              east
+ELINT             electronic counter-countermeasures
+engr              electronic countermeasures
+EPB               end of evening nautical twilight
+EPW               electronic intelligence
+ESM               engineer
+EW                electronic preparation of the battlefield
+                  enemy prisoner of war
+                  electronic warfare support measures
+                  electronic warfare
+
+Glossary-2
+
+
+---
+
+                                             FM 34-2-1
+
+FAAR    forward area alerting radar
+FASCAM  family of scatterable mines
+FEBA
+FIST    forward edge of the battle   area    division)
+FISTV   fire support team            (heavy
+577     FIST vehicle
+FLOT    tracked operations vehicle
+flt     forward line of own troops
+FM      flight
+FM      (with number) field manual
+FO      frequency modulated
+FRAGO   forward observer
+FSE     fragmentary order
+FSO     fire support element
+fwd     fire support officer
+        forward
+G2
+GMRD    Assistant Chief of Staff (Intelligence)
+GMRR    guards motorized rifle division
+gp      guards motorized rifle regiment
+GS      group
+GSR     general support
+        ground surveillance radar
+H
+HF      the time hostilities commence
+HHOC    high frequency
+        Headquarters, headquarters and operations
+HMMWV   company
+HPT     high mobility multipurpose wheeled vehicle
+hq      high payoff target
+hr      headquarters
+HUMINT  hour
+HVT     human intelligence
+        high value targets
+I&S
+ID      intelligence and surveillance
+IEW     infantry division/identification
+IEWSE   intelligence and electronic warfare
+        intelligence and electronic warfare support
+IFF     element
+illum   identification, friend or foe (radar)
+IMINT   illumination
+ intcp  imagery intelligence
+ intel  intercept
+ IPB    intelligence
+ IR     intelligence preparation of the battlefield
+ ITB    information requirements
+ ITR    independent tank battalion
+        independent tank regiment
+
+                                             Glossary-3
+
+
+---
+
+FM 34-2-1   Joint Air Attack Team
+JAAT        Joint Test Command Group
+JTCG        kilometer
+km          kilometers per hour
+km/h        pounds
+lbs         line of contact
+LC          line of departure
+LD          low-intensity conflict
+LIC         limit of advance
+LOA         lines of communications
+LOC         limit of enemy advance
+LOEA        line of sight
+LOS         listening post
+LP          line of bearing
+LOB         mechanized
+m           meter
+m           magnetic
+mag         major
+MAJ         mobility corridor
+MC          mobility, countermobility, and survivability
+M/CM/S      modified combined obstacles overlay
+MCOO        mechanized
+mech        medical evacuation
+MEDEVAC     mission essential task list
+METL        mission, enemy, terrain, troops, and time
+METT-T      available
+MI          Military Intelligence
+MIJI        meaconing, intrusion, jamming, and
+min         interference
+MOPP        minute
+MP          mission-oriented protection posture
+MR          Military Police
+MRB         motorized rifle
+MRC         motorized rifle battalion
+MRD         motorized rifle company
+MRP         motorized rifle division
+MRR         motorized rifle platoon
+MSR         motorized rifle regiment
+MTLB        main supply route
+N           a type Soviet equipment
+NAI         north
+NATO        named areas of interest
+NBC         North Atlantic Treaty Organization
+NET         nuclear, biological, and chemical
+            not earlier than
+Glossary-4
+
+
+---
+
+                                                       FM 34-2-1
+
+NLT                not later than
+no                 number
+NOD                night observation device
+noncomm            noncommunications
+NV                 night vision
+NVG                night vision goggles
+OB
+obj                order of battle
+O&I                objective
+OMG                operations and intelligence
+OP                 operational maneuver group
+OPCON              observation post
+OPFOR              operational control
+OPLAN              opposing force
+OPORD              operations plan
+OPSEC              operations order
+PIR                operations security
+PL
+plt                priority intelligence requirements  services
+PMCS               phase line
+PMI                platoon
+POL                preventive maintenance checks and
+poss               preventive maintenance inspections
+POV                petroleum, oils, and lubricants
+prep               possible
+prob               privately owned vehicle
+R&S                prepare
+RAC                probable
+RC
+REC                reconnaissance and surveillance
+ recon             reconnaissance assault company
+REMBASS            Reserve Components
+ reconnaissance--  radio electronic combat
+                   reconnaissance
+ regt              Remotely Monitored Battlefield Sensor System
+ retrans           A mission undertaken to obtain, by visual
+ RII
+ RISTA              observation or other detection methods,
+ Rkh                 information about the activities and
+                    resources of an enemy or potential enemy;
+                    or to secure data concerning the
+                    meteorological, hydrographic, or geographic
+                     c h a r a c t e r i s t i c s o f a p a r t i c u l a r a r e a . ( DOD,
+                    NATO )
+                   regiment
+                   retransmission
+                   request for intelligence information
+                   reconnaissance, intelligence, surveillance
+                   and target acquisition
+
+                   a type of Soviet equipment
+
+                                                       Glossary-5
+
+
+---
+
+FM 34-2-1       a type of Soviet equipment
+Rkh/m           release point
+RP
+s                south
+S2               Intelligence Officer (US Army)
+S3               Operations and Training Officer (US Army)
+S3-air           Air Operations and Training Officer (US Army)
+S-A              seismic-acoustic
+SA               surface to air
+SALT             size, activity, location, and time
+SALUTE           size, activity, location, unit, time,
+SAM              equipment (spot report format)
+SCARF            surface to air missile
+scty             standard collection asset request format
+SEAD             security
+SIGINT           suppression of enemy air defense
+SIR              signals intelligence
+SITMAP           specific information requirements
+SMS              situation map
+SOI              simultaneous monitoring system
+SOP              signal operation instructions
+SOR              standing operating procedure
+SP               specific orders and requests
+SSM              start point
+Survl            surface-to-surface missile
+surveillance--   surveillance
+                The systematic observation of aerospace,
+TA
+TAA                surface or subsurface areas, places, persons,
+TACFIRE            or things by visual, aural, electronic,
+TAI                photographic, or other means. (DOD,NATO)
+TB
+TC              theater army                       system
+TE              tactical air army                   wire guided
+temp            tactical fire direction computer
+TF              target areas of interest
+tk              tank battalion
+TNT             training circular
+TOC             tactical exploitation
+TOT             temperature
+TOW             task force
+TPL             tank
+TR              trinitrotoluene
+                tactical operations center
+                time over target
+                tube-launched, optically tracked,
+                time phase line
+                tank regiment
+
+Glossary-6
+
+
+---
+
+TRADOC                                                                FM 34-2-1
+TTP     United States Army Training and Doctrine
+UHF     Command
+us      tactics, techniques, and procedures
+USAF    ultra high frequency
+USAICS  United States
+USSR    United States Air Force
+VHF     US Army Intelligence Center and School
+vic     Union of Soviet Socialist Republics
+w       very high frequency
+        vicinity
+        west
+
+        Glossary-7
+
+
+---
+
+                                                                                            FM 34-2-1
+                                              REFERENCES
+                                    REQUIRED PUBLICATIONS
+      Required publications are sources that users must read in
+order to understand or to comply with this field manual.
+
+Field Manuals (FMs)  Scout Platoon. October 1987.
+FM 17-98             Intelligence and Electronic Warfare
+FM 34-1
+FM 34-2                 Operations. July 1987.
+FM 34-3              Collection Management. 22 October 1990.
+FM 34-10-1           Intelligence Analysis. 15 March 1990.
+                     Tactics, Techniques, and Procedures for the
+FM 34-80
+                        Remotely Monitored Battlefield Sensor
+FM 34-130               Systems (REMBASS). November 1990.
+FM 101-5             Brigade and Battalion Intelligence and
+FM 101-5-1              Electronic Warfare Operations.
+61 JTCG/ME-87-10        April 1986.
+                     Intelligence Preparation of the
+                        B a t t l e f i e l d . May 1989.
+                     Staff Organization and Operations.
+                        May 1984.
+                     Operational Terms and Symbols.
+                        October 1985.
+                     Handbook for Operational Testing of
+                        Electro-Optical Systems in Battlefield
+                        Obscurants. October 1987.
+
+Department of the Army Pamphlet (DA Pam)
+
+DA Pam 381-3         How Latin America Insurgents Fight.
+DD Form 1975            June 1986.
+
+                     Joint Tactical Air Reconnaissance and
+                        Surveillance Request Form.
+
+Rand Study. Applying the National Training Center Experience:
+   Tactical Reconnaissance. October 1987.
+
+                                          References-1
+
+
+---
+
+FM 34-2-1
+                                     RELATED PUBLICATIONS
+
+      Related publications are sources of additional information.
+They are not required in order to understand this publication.
+
+Field Manuals (FMs)
+
+FM 6-20-10           TTP for the Targeting Process, Mar 90
+FM 24-33             Communications Techniques: Electronic
+FM 34-10
+(U) FM 34-1OA           Counter-Countermeasures. 22 Mar 85
+                     Division IEW Operations. November 1986.
+FM 100-5             Division Intelligence and Electronic
+FM 101-5
+                        Warfare Operations, Secret.
+                        December 1986.
+                     Operations. May 1986.
+                     Staff Organization and Preparation.
+                        May 1984.
+
+(U) DIA Study. Reconnaissance and Surveillance and Target
+  Acquisition in the USSR, Secret/NOFORN. June 1988.
+
+References-2
+
+
+---
+
+                                                           FM 34-2-1
+
+INDEX
+
+AA See avenue of approach.          area
+
+ADA See air defense artillery.          R&S location of operations,
+                                    1-8, 2-6, 2-33, and 3-3
+ADA officer. See air defense
+artillery officer.                  area of interest              2-12
+
+aerial fire support officer             identification of, 2-8
+                                        offensive and defensive,
+     mission support, 3-19
+                                    area of operation
+AI See area of interest.                IPB process requirement, 2-8
+
+air AA                              armor           information
+     enemy use of, 2-3
+                                        commanders  2-4
+air and armored cavalry
+                                    requirement,
+squadron
+                                    armored vehicle
+     mission support, 3-19              commanders information
+
+air defense artillery               requirement, 2-4
+     defensive area of interest
+                                    Army aviation          mission
+ for Div ADA, 2-12
+                                        digital interface
+air defense artillery officer
+                                    support, 3-20
+      R&S asset, 3-5                    mission, 3-15
+
+     staff responsibility, 4-3           R&S asset, 3-5
+
+ air defense artillery platoon      Army aviation support officer
+     mission, 3-15
+                                        mission coordination, 3-20
+ air liaison officer
+     coordination, 3-15             artillery       information
+     JAAT coordination, 3-16                        2-4
+                                        commanders
+      See chapter 9.                requirement,
+
+     staff responsibility, 4-4      ASPS See all-source production
+
+ all-source production section      section.
+
+      support to CM&D process, 1-3  asset
+                                        tasking assets, 1-2, 1-4
+ ALO See air liaison officer.
+                                    assets and equipment
+ antitank (AT) helicopter                support to R&S plans, 3-1
+      commanders information
+                                    attack helicopter battalion
+ requirement, 2-4
+                                        mission support, 3-20
+ AO See area of operation.
+                                    augment                       3-2
+
+                                        scout combat missions,
+
+                                         See chapter 8.
+
+                                                           Index-1
+
+
+---
+
+                                                              FM 34-2-1
+
+augmentation                        CESO See communications-
+     See chapter 8.                 electronics staff officer.
+
+augmented                           changing double column to a
+     essential equipment, 3-3       diamond formation
+     scout limitations, 3-2
+                                         LIC movement, 11-22
+augmenting
+     See chapter 8.                 checkpoint         6-2
+                                         R&S overlay,
+
+avenue of approach                  chemical environment
+     R&S application, 2-13               IIB Test in NBC environment,
+      support to commanders needs,
+                                    1-6
+27-3
+                                    chemical officer
+     terrain factor in support to        See chapter 10.
+R&S application, 2-13
+
+aviation officer            4-4     chemical-engineer
+     staff responsibility,          reconnaissance
+
+                                         See chapter 10.
+
+battle task                         CI See counterintelligence.
+     development of,
+     list of, 1-7     1-5           CI team                 4-5
+     platoon 1-8 and  1-9                R&S coordination,
+
+BAE See battlefield area            civilian population
+evaluation.                              LIC operations, 11-25
+
+battlefield area evaluation         close air support
+                                         EW operations, 12-8
+      component of, 2-8
+
+battle damage assessment            CM&D See collection and
+     in support of TAI, 2-25        dissemination.
+
+battlefield operating system        collection and dissemination
+     part of DST process, 2-22           support to R&S, 1-3 and 1-4
+
+BOS See battlefield operating       collection asset
+system.                                 tasking of, 1-6 and 2-20
+
+CANE See chemical environment.      collection effort
+CAS See close air support.               battalion forces level, 3-1
+                                         requirements for information,
+
+                                    2-8, 2-18, and 2-20
+
+Index-2
+
+
+---
+
+                                                                 FM 34-2-1
+
+collection management process          data base          for  R&S  planning,
+     R&S and the CM&D praocess,             IPB support
+
+1-2, 1-3, and 1-4                      2-6
+
+collection plan                        day and night observation
+     control of the collection         device
+
+requirement, 2-2 and 2-3                    unit capability, 3-4
+     phases to develop a, 1-3
+    unit collection requirements,      deceive
+                                            LIC operations, 12-2
+1-4
+
+column           11-18                 decision point
+     formation,                             support relationship to, 2-25
+
+combat                                 decision points or line
+     category of patrol, 3-3                part of the DST process, 2-22
+
+    mission to support R&S,     1-7,
+
+1-9, and 2-6                           decision support template
+                                            IPB product, 2-22
+combat patrol                               staff responsibility, 4-4
+     provides, 3-3
+
+                                       defensive and offensive       areas
+                                       of interest
+communications-electronics
+staff officer                              requirements for R&S
+                                       planning, 2-12
+     Brigade operations interface,
+12-13
+
+concealment and cover                  demonstration
+     R&S application, 2-13                  LIC threat, 11-1
+
+counterintelligence                    diamond formation
+    mission support, 3-17                   insurgent movement, 11-18
+    staff responsibility,
+                            4-3        disseminating
+
+counterreconnaissance                       PIR, 2-5
+     CR efforts, 1-2                        see chapter 5
+     CR operations used of
+                            NAI,       division
+1-6 (see NAT)                               organization
+     TTP and CR, iv                                        support,  1-2,
+                                       1-3, and 1-4
+
+CR See counterreconnaissance.          division reconnaissance asset
+                                           division, 10-4
+
+critical task           tasks,   1-7,  doctrinal template
+     supporting battle                      IPB product, 2-15
+                                           product integration,
+1-8, and 1-9
+
+                                                                     2-15
+
+cueing                                 double column
+    R&S planning, 4-4                       insurgent movement,
+
+                                                                    11-22
+
+                                                                    Index-3
+
+
+---
+
+                                                                FM 34-2-1
+
+DST See decision support            engineer and air defense
+template.                           artillery
+
+ECCM See electronic                      IPB product, 2-14
+counter-countermeasures.
+                                        mission support, 3-19
+ECM See electronic
+counter-measures.                   engineer officer
+                                         staff responsibility,
+
+                                    4-3
+
+electronic counter-measures         engineer platoon
+     EW asset, 12-1                     mission, 3-14
+                                         R&S asset, 3-5
+electronic
+counter-countermeasures             engineer product
+                                         IPB special product,
+     EW asset, 12-1
+                                    2-6
+
+electronic HPT                      engineer section
+     EW planning, 12-5                   4-4
+
+electronic support measures         engineer support officer
+     collection, 12-2                    3-14
+
+electronic warfare            2-2   environmental effects for R&S
+     CR battle planning and,             see Figure 2-7
+
+electronic warfare      collection  EPW interrogator. See enemy
+system                  3-17        prisoner of war interrogator.
+
+    mission support,
+
+enemy order of battle               equipment        3-1
+     data base requirement,              R&S asset,
+
+                              2-6
+
+enemy prisoner of  war              ESM See electronic support
+
+interrogator                        measures.
+    mission, 3-17
+                                    event analysis matrix
+enemy     rates of advance                IPB product for specific
+     See  threat evaluation.
+                                    events, 2-22
+
+enemy situation template            event template     1-4 and  2-22
+  IPB product, 1-4                       IPB product,  2-20
+                                         process for,
+
+engineer                            EW See electronic warfare.
+
+     augmentation support to R&S,
+2-25
+
+Index-4
+
+
+---
+
+fan                       11-18                                      FM 34-2-1
+     insurgent movement,
+                                  FRAGO See fragmentary order.
+fan formation                     fragmentary order
+     insurgent movement,
+                                      method of tasking, 5-1
+11-23                             FSO See fire support officer.
+
+FEBA See forward edge of the      G2
+battle area.
+                                      division, 3-18
+field artillery
+     integration into R&S and CR                                  1-4
+
+plans, 3-12                       GSR See gruond surveillance
+    mission support, 3-18         radar.
+     R&S asset, 3-5
+
+field of fire                     GSR and REMBASS
+    R&S application, 2-13
+                                      mission support 3-17
+
+fire support                      ground surveillance                  radar
+     see fire support                  24-hour coverage,               3-4
+     to R&S, 2-25                      mission, 3-5
+                       officer         R&S asset, 3-5
+
+fire support officer              GUARDRAIL         11-36
+    in R&S planning, 1-5
+    JAAT coordination, 3-16            collection,
+    R&S planning, 1-5
+     staff coordination, 1-2      guerrilla                            11-2
+     staff responsibility, 4-3         LIC threat, 11-1
+                                       support requirements,
+
+fire support team                 guerrilla platoon
+    mission, 3-12 and 3-14            mission, 11-6
+
+FIST See fire support team.       guerrilla training complex
+
+                                        11-13
+
+FLOT See forward line of own
+troops.
+
+FO See forward observers.
+
+forward edge of the battle area   high payoff target
+     enemy movement to, 2-22           developing, 2-2
+                                      monitoring, 7-1
+forward line of own troops
+    enemy distance from, 2-9      high value target
+                                       supporting the identification
+forward observers
+    mission, 3-12 and 3-14        of HPT's, 2-25
+
+                                                                       Index-5
+
+
+---
+
+                                                                 FM 34-2-1
+
+HPT  See high payoff target.        intelligence and electronic
+HVT  See high value target.         warfare support element
+
+                                        coordination with R&S, 1-2
+                                        mission, 3-16
+
+IEW See intelligence and            intelligence annex
+electronic warfare.                      use of, 2-5
+
+IEWSE See   intelligence and        intelligence cycle            2-2
+electronic  warfare support             crucial phase in R&S,
+element.
+
+                                    intelligence preparation of         the
+                                    battlefield
+IEWSE officer                  4-3
+     staff responsibility,               R&S and IPB, 1-2 and 1-5
+
+ITB Test See CANE.                  intelligence     requirement
+                                         commanders  needs, 1-3,
+                                                                  (see
+                                    PIR and R&S)
+incident matrix
+     overlay support,   11-29
+     see figure 11-23
+                                    intelligence summaries
+incident overlay
+    historical data,                     use of, 2-5 (see intelligence
+                                    annex)
+
+                        11-25
+
+incursion                           intercept        12-3
+     operations,                         IEW asset,
+
+                  11-3
+
+indicator                           interrogation      11-33
+    effective R&S planning,
+                                         LIC support,
+
+                               4-1
+
+infantry                            IPB See intelligence
+                                    preparation of the battlefield.
+     3-2
+
+infantry platoon                    IR See intelligence
+                                    requirement.
+     8-4
+
+infiltration      11-3              JAAT See Joint Air Attack
+    operations,                     Team.
+
+insurgent                           jam                    12-3
+    conduct, 11-2                       LIC operations,
+     LIC threat, 11-1
+
+intelligence acquisition task       jammer                       12-14
+    method of tasking, 5-3              brigade operations,
+
+intelligence and     electronic     Joint Air Attack Team
+                                         OH-58D interface, 3-16
+warfare              to R&S, 1-2
+     system support
+
+Index-6
+
+
+---
+
+                                                     FM 34-2-1
+
+key terrain             2-13    mission, enemy, terrain, time,
+     R&S application,           and troops available
+
+                                    unit responsibilities to R&S
+                                planning, 2-26
+
+"EL" formation                  modified combined  obstacles
+    insurgent movement, 11-18
+                                overlay
+LIC See chapter 11.                  overlay, 5-3
+
+light infantry See chapter 10.  movement formation
+                                     insurgent operations, 11-18
+
+limit of enemy advance          MP See military police
+     identify, 10-11            platoon.
+
+limits of responsibility        named areas of interest
+     in the R&S effort, 2-26        part of situation templating,
+
+listening post          3-4     2-20
+                                     GSR task, 3-5
+     enemy, 2-4                      use of 1-6 (see CR)
+     maneuver element,
+     R&S asset, 3-1
+
+locate                          NAI See named areas of
+     LIC operations,            interest.
+
+                       12-3
+
+LOEA See limit of enemy         NBC See nuclear, biological,
+advance.                        and chemical.
+
+LP See listening post.          NBC officer
+                                     staff responsibility,
+
+matrix                          night observation device
+     method,                         equipment, 3-4
+
+              6-2
+
+MCOO See modified combined      night vision device
+obstacles overlay.
+                                     3-9
+
+mechanized infantry             NOD See night observation
+                                device.
+     see chapter 10
+
+METT-T See mission, enemy,      nuclear, biological, and     and
+terrain, time, and troops       chemical
+available.
+                                     environment, 1-6, 1-7,
+
+                                1-8
+
+military police platoon         OB See order of battle.
+    mission support, 3-20
+                                observation
+mission analysis                     R&S application, 2-13
+     AI determination, 2~9
+
+                                                     Index-7
+
+
+---
+
+                                                            FM 34-2-1
+
+observation equipment           population status overlay
+     used by scouts, 3-3             LIC support, 11-35
+
+observation equipment           priority intelligence       (see IR
+associated with maneuver        requirement
+battalion
+                                     commanders needs, 1-3
+      3-7                       and R&S)
+
+observation post        3-4     QUICKFIX         11-33
+                        3-2          R&S asset,
+      enemy, 2-4
+     maneuver element,
+
+     scout operations,
+
+obstacle                        R&S See reconnaissance and
+                                surveillance.
+    R&S application, 2-13
+
+obstacle analysis               R&S tasking See chapter 5.
+    provided by, 3-14
+
+offensive operation             R&S limit of responsibility
+     see chapter 9              See Figure 2-15.
+
+OP See observation post.        R&S overlay                 1-2
+
+                                    dissemination of R&S,
+
+                                     overlay, 6-1
+
+operations order   See chapter
+
+5.                              R&S tasking matrix      See figure
+                                7~4.
+
+operations plan                 radio intercept
+                                     R&S asset, 11-33
+      5-1
+
+OPLAN See operations plan.      raid
+                                    mission, 11-15
+OPORD See operations order.
+                                reconnaissance
+order of battle                     active, 2-1
+     2-6                             as a patrol, 3-2
+                                     attack outcome and,
+overlay                             TTP and, iv           1-1
+     method,
+              6-2
+
+patrol                  3-2     reconnaissance and surveillance
+     maneuver element,               develop solutions in R&S
+     R&S scout, 3-1
+                                plans, 1-6
+PIR See priority intelligence        importance of R&S, 1-1
+requirement.                         R&S and PIR and IR, 1-3 (see
+
+                                PIR and IR)
+                                      (see scheme of maneuver, 1-5)
+                                     solutions to common errors in
+
+                                planning, 1-4
+
+Index-8
+
+
+---
+
+                                                                 FM 34-2-1
+
+reconnaissance company       See       S2
+chapter 10.                                 role of S2 in planning of
+
+reconnaissance battalion               R&S, iv
+acquisition See chapter 10.                S2 coordination with S3 and
+
+                                       FSO, 1-2
+                                            S2 unit role, 1-1
+
+reconnaissance subsquad                S3
+     organization, 11-6
+                                           JAAT coordination, 3-16
+redundancy                                  $3 coordination with S2     and
+     R&S planning,
+                    4-4  and 4-5       FSO, 1-2
+
+regiment                                    S3 involvement with
+     reconnaissance unit,              subordinate commands, 1-5
+
+                           10-4
+
+REMBASS See remotely monitored         S3-air                    3-16
+battlefield sensor system.                  JAAT coordination,
+
+remotely monitored battlefield         sabotage
+sensor system                              operations, 11-3
+                                            subsquads, 11-6
+  capabilities, 3-10
+     R&S asset, 3-5                    scheme of maneuver        plan,  1-5
+     teams and equipment, 3-11 and          formulation of R&S
+
+3-12                                   (see R&S)
+
+release point       6-2                scout            3-1
+     R&S overlay,                           R&S asset,
+
+request for intelligence               scout platoon
+information
+                                           operations, 3-2
+     information needs, 2-5                 platoon tasks, 1-5,
+
+                                       and 1-8
+
+retask             7-8                 scouts with infantry
+     R&S assets,                           mission requirements,
+                                            See chapter 8.
+                                                                  3-2
+
+RII See request for
+
+intelligence information.
+
+RP See release point.                  screening             1-2 and 3-2
+                                            scout mission,
+
+route                   mission,  3-3  security
+     task, 1-8                              combat patrol capability, 3-3
+    type of patrol
+                                       and 3-4
+route reconnaissance                        patrol requirement, 3-3
+     scout mission, 3-2                     scout mission, 3-2
+     scout task, 1-8                        scout platoon task, 1-7 and
+
+                                       1-8
+
+                                                                 Index-9
+
+
+---
+
+                                                                        FM 34-2-1
+
+sensor      24-hour  capability,       3-4  surprise attack
+
+     LP/OP                                       operations, 11-3
+
+seven BOS See chapter 9.                    surveillance
+
+single                                          passive, 2-1
+     formation,
+                   11-18                    synchronization matrix
+                                                 part of the DST process,
+single file      or firing      line                                            2-22
+formation        movement,      11-20
+                                            synchronization   See
+     insurgent                              synchronize.
+
+SIR. See specific         information       synchronize
+requirement.
+                                                 battlefield operating
+situation map                               systems, 2-22
+     insurgents, 11-29
+                                                 R&S with battle, 2-6
+                                                the R&S effort, 2-25
+
+Situation template              2-15        tactical Air Force
+  IPB praoduct, 1-4                              mission, 3-16
+     product integration,                        R&S asset, 3-5
+
+soldier            asset,  1~9 and          TAI See target area of
+     information
+                                            interest.
+3-4
+
+SOR See specific        orders  and         target
+requests.                                        enemy, 2-14
+                                                 R&S planning, 1-4
+SP See start point.                              REMBASS identification    of,
+
+special uses and effects of                 3-10, 3-11, and 3-14
+terrain
+                                            target acquisition       3-18
+     for R&S planning, 2-3                       fire finder radar,
+                                                 R&S and CR product
+specific information
+requirement                                 requirement, 2-15
+
+     R&S planning, 4-1 and      10-11       target acquisition asset
+                                                  3-16
+Specific orders and request
+     R&S planning, 4-1                      target acquisition data
+                                                 provided by GSR, 3-5
+start point        6-2
+     R&S overlay,                           target areas of interest
+
+subordinate unit instruction                     interdicting sites, 2-25
+     method of tasking, 5-1                      part of DST process, 2-22
+
+subsquad                                    target identification
+     guerrilla units,                            3-9
+
+Index-10                  11-6
+
+
+---
+
+                                                               FM 34-2-1
+
+target list worksheet                 threat evaluation        2-8,  2-14,
+                                           component of IPB,
+      12-6
+                                      and 2-15
+
+target value analysis process         threat integration
+    to determine HVT's, 2-15
+                                           component of IPB,
+                                      2-15                     2-8   and
+
+target-acquisition                    time phase line                     2-22
+     FIST V capability, 3-14
+     OH-58D capability, 3-15               part of the DST process,
+     to determine HVT's, 2-15
+
+targeting                             TPL See time phase line.
+     part of a successful defense,
+                                      trap map
+1-1                                        insurgent,
+
+                                                       11-29
+
+targeting data                        two-echelon formation
+     a collection requirement, 2-2         insurgent movement, 11-18
+
+targeting process
+
+      2-23
+
+task organize                         war gaming
+     increase scout                        DST a product of, 2-25
+
+3-2                  capabilities,
+
+                                      war gaming process       gaming,
+                                           the process of war
+task organized See chapter 8.
+                                      2-25
+
+task organizing                       weather analysis         2-8
+    R&S planning, 4-4                      component of IPB,
+     See chapter 8.
+
+tasking See chapter 5.                weather            R&S  planning,
+                                           required for
+
+                                      1-3 and 2-5
+
+tasking asset                         wedge formation
+     requirement, 7-8                      insurgent movement, 1-18
+
+terrain                      3-14     vegetation See chapter 2.
+     analysis provided by,   1-3 and
+    part of R&S planning,
+
+2-5
+
+terrain analysis        2-8           zone
+     component of IPB,
+                                          R&S patrol locations, 3-3
+terrorist act                              scout R&S area coverage, 3-2
+     LIC threat, 11-1
+                                      zone reconnaissance
+threat data base                          scout mission, 3-2
+                                           scout task, 1-8
+  information for IPB, 2-14
+
+                                                               Index-11
+
+
+---
+
+                                          FM 34-2-1
+                                        19 JUNE 1991
+
+By Order of the Secretary of the Army:
+
+                                       CARL E. VUONO
+                             General, United States Army
+
+                                       Chief of Staff
+
+Official:
+     PATRICIA P. HICKERSON
+
+Colonel, United States Army
+     The Adjutant General
+
+DISTRIBUTION : Active Army, USAR, and ARNG: To be distributed
+in accordance with DA Form 12-llE, requirements for FM 34-2-1,
+Tactics, Techniques, and Procedures for Reconnaissance and
+Surveillance and Intelligence Support to Counterreconnaissance
+(Qty rqr block no. 4873).
+
+                                                                                                 *U.S. Government Printing Office 1994—300-421/82314
+
+
+--- 

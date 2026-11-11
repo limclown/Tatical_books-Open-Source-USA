@@ -1,0 +1,14910 @@
+# mcrp_3-15-2a  MCRP 3-15.2A
+                          FM 23-90
+
+Mortars
+
+U.S. Marine Corps
+
+                   PCN 144 000100 00
+
+
+---
+
+                             PREFACE
+
+This publication prescribes guidance for leaders and crewmen of mortar squads and
+platoons. It is concerned with the problems of mortar crew training. It presents practical
+solutions to assist in the timely delivery of accurate mortar fires but does not discuss all
+possible situations. Local requirements may dictate minor variations from the methods
+and techniques described herein. However, principles should not be violated by
+modification of techniques and methods.
+
+The scope of this publication includes mortar crew training at squad and section levels.
+The 60-mm mortar, M224; 81-mm mortar, M29A1; 81-mm mortar, M252; 4.2-inch (107-
+mm) mortar, M30; and 120-mm mortar, M120, are discussed herein to include
+nomenclature, sighting, equipment, characteristics, capabilities, ammunition, and
+maintenance.
+
+Note: For clarity and simplicity, the artwork in this manual does not show soldiers in
+         BDUs. The words and required art detail cannot be seen due to the camouflage
+         on BDUs.
+
+The provisions of this publication are the subject of international agreements:
+
+QSTAG 900 Characteristics of a Multirole Mortar Fuze (Edition One)
+
+STANAG  NATO Code of Colors for the Identification of Ammunition
+2321    (Except Ammunition of a Caliber Below 22 millimeters)
+
+The proponent of this manual is HQ TRADOC. Submit changes for improving this
+publication on DA Form 2028 (Recommended Changes to Publications and Blank
+Forms) and forward it to US Army Infantry School, ATTN: ATSH-INB-O, Fort
+Benning, GA 31905-5594.
+
+Unless otherwise stated, whenever the masculine gender is used, both men and women
+are included.
+
+
+---
+
+                                                                                    FM 23-90
+                                               TECHNICAL ORDER 11W2-5-13-21
+
+                                                                           1 MARCH 2000
+
+By Order of the Secretary of the Army:
+
+                                                ERIC K. SHINSEKI
+                                               General, United States
+
+                                                         Army
+                                                     Chief of Staff
+
+Official:
+
+Administrative Assistant to
+               the
+
+   Secretary of the Army
+
+                                      0000505
+
+DISTRIBUTION: Active Army, Army National Guard, and U.S. Army Reserve: To be
+distributed in accordance with the initial distribution number 110209, requirements for
+FM 23-90.
+
+
+---
+
+                   *FM 23-90/TO 11W2-5-13-21
+
+FIELD MANUAL                              HEADQUARTERS
+NO. 23-90                 DEPARTMENT OF THE ARMY
+TECHNICAL ORDER
+NO. 11W2-5-13-21                     AND THE AIR FORCE
+                   WASHINGTON, DC, 1 March 2000
+
+                      FM 23-90
+                   MCRP 3-15.2A
+
+                     MORTARS
+
+Table of Contents
+
+PREFACE
+
+CHAPTER 1     INTRODUCTION
+
+Section  I    General Doctrine
+              1-1. Effective Mortar Fire
+Section  II   1-2. Mortar Positions
+              Indirect Fire Team
+Section  III  1-3. Applications
+              1-4. Team Mission
+CHAPTER 2     Safety Procedures
+              1-5. Duties of the Safety Officer and Supervisory Personnel
+Section  I    1-6. Ammunition Care and Handling
+              1-7. Field Storage of Ammunition
+Section  II
+              SIGHTING AND FIRE CONTROL EQUIPMENT
+
+              Compass, M2
+              2-1. Characteristics
+              2-2. Description
+              2-3. Use
+              Aiming Circles, M2 and M2A2
+
+
+---
+
+Section        2-4. Characteristics
+Section        2-5. Description
+               2-6. Use
+Section        2-7. Accessory Equipment
+Section        2-8. Setup and Leveling of Aiming Circle
+               2-9. Declination Constant
+               2-10. Orienting of the Instrument on Grid North to Measure Grid
+
+                        Azimuth to Objects
+               2-11. Measurement of Horizontal Angle Between Two Points
+               2-12. Orienting of the 0-3200 Line on a Given Grid Azimuth
+               2-13. Orienting of the 0-3200 Line on a Given Magnetic Azimuth
+               2-14. Verifying the Lay of the Platoon
+               2-15. Orienting by Orienting Angle
+               2-16. Disassembly of Aiming Circle
+               2-17. Care and Maintenance
+         III Sightunits
+               2-18. Sightunit, M53-Series
+               2-19. Operation of M53 Sightunit
+               2-20. Care and Maintenance of M53 Sightunit
+               2-21. Sightunit, M64-Series
+               2-22. Sightunit, M67
+         IV Boresights
+               2-23. Boresight, M45-Series
+               2-24. Boresight, M115
+               2-25. Principles of Operation
+               2-26. Installation
+               2-27. Sight Calibration
+               2-28. Boresight Method of Calibration
+               2-29. Calibration for Deflection Using the M2 Aiming Circle
+         V Other Equipment
+               2-30. Instrument Light, M53E1
+               2-31. Aiming Posts, M14 and M1A2
+               2-32. Aiming Post Lights, M58 and M59
+         VI Laying the Section
+               2-33. Reciprocal Laying
+
+
+---
+
+         2-34. Reciprocal Laying on a Grid Azimuth
+
+         2-35. Reciprocal Laying on a Magnetic Azimuth
+
+         2-36. Reciprocal Laying Using the Orienting Angle
+
+         2-37. Reciprocal Laying Using the Mortar Sights
+
+         2-38. Reciprocal Laying Using the M2 Compass
+
+         2-39. Placing Out Aiming Posts
+
+         2-40. Alternate Method of Placing Out Aiming Posts
+
+         2-41. Correction for Displacement of Sight
+
+Section  VII Loading and Firing
+
+         2-42. Firing the Mortar
+
+         2-43. Target Engagement
+
+         2-44. Execution of Fire Commands
+
+         2-45. Arm-and-Hand Signals
+
+         2-46. Subsequent Fire Commands
+
+         2-47. Repeating and Correcting of Fire Commands
+
+         2-48. Reporting of Errors in Firing
+
+         2-49. Night Firing
+
+CHAPTER 3 60-mm MORTAR, M224
+
+Section  I Squad and Section Organization and Duties
+
+         3-1. Organization
+
+         3-2. Duties
+
+Section  II Components
+
+         3-3. Tabulated Data
+
+         3-4. Cannon Assembly, M225
+
+         3-5. Baseplate, M7
+
+         3-6. Baseplate, M8
+
+         3-7. Bipod Assembly, M170
+
+Section  III Operation
+
+         3-8. Premount Checks
+
+         3-9. Mounting of the Mortar
+
+         3-10. Safety Checks Before Firing
+
+         3-11. Small Deflection and Elevation Changes
+
+         3-12. Large Deflection and Elevation Changes
+
+         3-13. Referring of the Sight and Realignment of Aiming Posts
+
+         3-14. Malfunctions
+
+
+---
+
+Section  IV   3-15. Removal of a Misfire
+              3-16. Dismounting and Carrying of the Mortar
+CHAPTER 4     Ammunition
+              3-17. Classification
+Section  I    3-18. Color Codes
+              3-19. Preparation of Ammunition
+Section  II   3-20. Types of Fuzes
+              3-21. Standard B Ammunition
+Section  III  3-22. Care and Handling
+
+Section  IV   81-mm MORTAR, M252
+
+              Squad and Section Organization and Duties
+              4-1. Organization
+              4-2. Duties
+              Components
+              4-3. Tabulated Data
+              4-4. Cannon Assembly, M253
+              4-5. Mount, M177
+              4-6. Baseplate, M3A1
+              Operation
+              4-7. Premount Checks
+              4-8. Mounting of the Mortar
+              4-9. Safety Checks Before Firing
+              4-10. Small Deflection and Elevation Changes
+              4-11. Large Deflection and Elevation Changes
+              4-12. Referring of the Sight and Realignment of Aiming Posts Using
+
+                       M64 Sight
+              4-13. Malfunctions
+              4-14. Removal of a Misfire
+              4-15. Dismounting of the Mortar
+              Ammunition
+              4-16. Classification
+              4-17. Function
+              4-18. High-Explosive Ammunition
+              4-19. Red/White Phosphorus Ammunition
+              4-20. Illuminating Ammunition
+
+
+---
+
+CHAPTER 5     4-21. Types of Fuzes
+              4-22. Characteristics of Proximity Fuzes
+Section  I    4-23. Fuze Wrench and Fuze Setter
+              4-24. Preparation of Ammunition
+Section  II   4-25. Care and Handling
+
+Section  III  81-mm MORTAR, M29A1
+
+Section  IV   Squad and Section Organization and Duties
+              5-1. Organization
+              5-2. Duties
+              Components
+              5-3. Tabulated Data
+              5-4. Cannon Assembly, M29A1
+              5-5. Bipod Assembly, M23A1
+              5-6. Baseplate, M3
+              Operation
+              5-7. Premount Checks
+              5-8. Mounting of the Mortar
+              5-9. Safety Checks Before Firing
+              5-10. Small Deflection and Elevation Changes
+              5-11. Large Deflection and Elevation Changes
+              5-12. Referring of the Sight and Realignment of Aiming Posts Using
+
+                       M53 Sight
+              5-13. Malfunctions
+              5-14. Removal of a Misfire
+              5-15. Dismounting of the Mortar
+              Ammunition
+              5-16. Function
+              5-17. High-Explosive Ammunition
+              5-18. White Phosphorus Ammunition
+              5-19. White Phosphorus Ammunition
+              5-20. Types of Fuzes
+              5-21. Characteristics of Proximity Fuzes
+              5-22. Fuze Wrench and Fuze Setter
+              5-23. Preparation of Ammunition
+              5-24. Care and Handling
+
+
+---
+
+CHAPTER 6     4.2-INCH MORTAR, M30
+
+Section  I    Squad and Section Organization and Duties
+              6-1. Organization
+Section  II   6-2. Duties
+              6-3. Section Drill and Section Leader Duties
+Section  III  Components
+              6-4. Tabulated Data
+Section  IV   6-5. Mortar Cannon, M30
+              6-6. Mortar Mount, M24A1
+Section  V    Operation of Ground-Mounted Mortar
+              6-7. Mounting of the Mortar
+              6-8. Safety Checks Before Firing
+              6-9. Small Deflection Change
+              6-10. Large Deflection and Elevation Changes
+              6-11. Loading and Firing of M329A2 Round
+              6-12. Malfunctions
+              6-13. Removal of a Misfire
+              6-14. Dismounting of the Mortar
+              Mortar Carriers, M106, M106A1, and M106A2
+              6-15. Description
+              6-16. Tabulated Data
+              Operation of Carrier-Mounted Mortar
+              6-17. Mortar and Vehicular Mount
+              6-18. Maintenance
+              6-19. Placement of Mortar Into Firing Position on Carrier
+              6-20. Laying for Deflection and Elevation
+              6-21. Removal of a Misfire (Carrier-Mounted)
+              6-22. Mounting of Mortar on Carrier From Ground-Mounted
+
+                       Position
+              6-23. Dismounting of Mortar From Carrier
+              6-24. Preparation for a March Order From Ground-Mounted Position
+              6-25. Safety Checks
+              6-26. Measurement of Minimum and Maximum Elevations
+              6-27. Squad Formations
+              6-28. Dismounted Mortar Squad
+
+
+---
+
+Section  VI   6-29. Reciprocally Laying the Mortar Carrier Section
+              Ammunition
+CHAPTER 7     6-30. Classification
+              6-31. Types of Fuzes
+Section  I    6-32. Preparation of Ammunition
+              6-33. Care and Handling
+Section  II
+              120-mm MORTAR, M120
+Section  III
+              Squad and Section Organization and Duties
+Section  IV   7-1. Organization
+              7-2. Duties
+Section  V    Components
+              7-3. Tabulated Data for the 120-mm Mortar, M120
+              7-4. Barrel Assembly, M298
+              7-5. Bipod Assembly, M191 (Carrier-/Ground-Mounted)
+              7-6. Bipod Assembly, M190 (Ground-Mounted)
+              7-7. Baseplate, M9
+              Operations
+              7-8. Placing a Ground-Mounted 120-mm Mortar Into Action
+              7-9. Performing Safety Checks on a Ground-Mounted 120-mm
+
+                       Mortar
+              7-10. Performing Small Deflection and Elevation Changes on a
+
+                       Ground-Mounted 120-mm Mortar
+              7-11. Performing Large Deflection and Elevation Changes on a
+
+                       Ground-Mounted 120-mm Mortar
+              7-12. Malfunctions on a Ground-Mounted 120-mm Mortar
+              7-13. Performing Misfire Procedures on a Ground-Mounted 120-mm
+
+                       Mortar During Combat
+              7-14. Loading and Firing the Ground-Mounted 120-mm Mortar
+              7-15. Taking the 120-mm Mortar Out of Action
+              Mortar Carrier, M1064A3
+              7-16. Description
+              7-17. Tabulated Data for the M1064A3 Carrier
+              Operation of a Carrier-Mounted 120-mm Mortar
+              7-18. Mortar and Vehicular Mount
+              7-19. Maintenance
+              7-20. Placing Carrier-Mounted 120-mm Mortar Into Action
+
+
+---
+
+Section  VI  7-21. Lay for Deflection and Elevation on a Carrier-Mounted 120-
+                      mm Mortar
+CHAPTER 8
+             7-22. Performing Misfire Procedures on a Carrier-Mounted 120-mm
+Section  I            Mortar During Combat
+
+             7-23. Mounting of the Mortar From a Carrier to a Ground-Mounted
+                      Position
+
+             7-24. Taking the Mortar Out of Action (Ground-Mounted to
+                      M1064A3 Carrier-Mounted)
+
+             7-25. Performing Safety Checks on a Carrier-Mounted 120-mm
+                      Mortar
+
+             7-26. Reciprocally Laying the Mortar Carrier Section
+             Ammunition
+             7-27. Classification
+             7-28. Authorized Cartridges
+             7-29. Preparation for Firing
+             7-30. Loading and Firing
+             7-31. Unfired Cartridges
+             7-32. Care and Handling of Cartridges
+             7-33. Fuzes
+             7-34. Setting Fuzes
+             7-35. Resetting Fuzes
+
+             FIRE WITHOUT A FIRE DIRECTION CENTER
+
+             Fire Procedures
+             8-1. Advantages and Disadvantages
+             8-2. Firing Data
+             8-3. Observer Corrections
+             8-4. Initial Fire Commands
+             8-5. Fire Commands
+             8-6. Fire Control
+             8-7. Movement to Alternate and Supplementary Positions
+             8-8. Squad Conduct of Fire
+             8-9. Reference Line
+             8-10. Fire Adjustment
+             8-11. Squad Use of Illumination and Smoke
+             8-12. Attack of Wide Targets
+             8-13. Attack of Deep Targets
+
+
+---
+
+Section  II   Direct-Lay Method
+              8-14. Step 1: Initial Firing Data
+Section  III  8-15. Step 2: Referring the Sight
+              8-16. Step 3: Bracketing the Target
+Section  IV   8-17. Step 4: Fire for Effect
+              Direct-Alignment Method
+CHAPTER 9     8-18. Mortar Dismounted
+              8-19. Mortar Mounted
+Section  I    8-20. Natural Object Method
+              Adjustment of Range
+Section  II   8-21. Range Spottings
+              8-22. Miscellaneous Spottings
+              8-23. Bracketing Method
+              8-24. Creeping Method of Adjustment
+              8-25. Normal Fire Commands
+              8-26. Modified Fire Commands
+              8-27. Fire Control
+              8-28. Establishment of a Reference Line and Shifting From That Line
+              8-29. Ladder Method of Adjustment
+
+              GUNNER'S EXAMINATION
+
+              Preparatory Instruction
+              9-1. Methods of Instruction
+              9-2. Prior Training
+              9-3. Preparatory Exercises
+              9-4. Examining Board
+              9-5. Location and Date
+              9-6. Eligible Personnel
+              9-7. Qualification Scores
+              9-8. General Rules
+              Gunner's Examination With Ground-Mounted Mortar
+              9-9. Subjects and Credits
+              9-10. Equipment
+              9-11. Organization
+              9-12. Procedure
+              9-13. Mounting of the Mortar
+
+
+---
+
+            9-14. Small Deflection Change
+
+            9-15. Referring of the Sight and Realignment of Aiming Posts
+
+            9-16. Large Deflection and Elevation Changes
+
+            9-17. Reciprocal Laying
+
+Section  III Gunner's Examination With the Track-Mounted Mortar
+
+            9-18. Subjects and Credits
+
+            9-19. Equipment
+
+            9-20. Organization
+
+            9-21. Procedure
+
+            9-22. Placement of Mortar Into a Firing Position From Traveling
+                     Position
+
+            9-23. Small Deflection Change
+
+            9-24. Referring of the Sight and Realignment of Aiming Posts
+
+            9-25. Large Deflection and Elevation Changes
+
+            9-26. Reciprocal Laying
+
+            9-27. Support Squad
+
+APPENDIX A TRAINING DEVICES
+
+APPENDIX B MORTAR TRAINING STRATEGY
+
+GLOSSARY
+
+REFERENCES
+
+AUTHENTICATION
+
+DISTRIBUTION RESTRICTION: Approved for public release, distribution is
+unlimited.
+
+*This publication supersedes FM 55-1, 30 November 1984.
+
+
+---
+
+                                       CHAPTER 1
+
+                        INTRODUCTION
+
+         The mission of the mortar platoon is to provide close and immediate
+         indirect fire support for the maneuver battalions and companies.
+
+                                 Section I. GENERAL DOCTRINE
+
+Doctrine demands the timely and accurate delivery of indirect fire to meet the needs of
+supported units. All members of the indirect fire team must be trained to quickly execute
+an effective fire mission.
+
+1-1. EFFECTIVE MORTAR FIRE
+
+For mortar fire to be effective, it must be dense enough and must hit the target at the right
+time with the right projectile and fuze. Good observation is necessary for effective mortar
+fire. Limited observation results in a greater expenditure of ammunition and less effective
+fire. Some type of observation is desirable for every target to ensure that fire is placed on
+the target. Observation of close battle areas is usually visual. When targets are hidden by
+terrain features or when great distance or limited visibility is involved, observation can be
+by radar or sound. When observation is possible, corrections can be made to place mortar
+fire on the target by adjustment procedures; however, lack of observation must not
+preclude firing on targets that can be located by other means.
+
+         a. Mortar fire must be delivered by the most accurate means that time and the
+         tactical situation permit. When possible, survey data are used to accurately locate
+         the mortar position and target. Under some conditions, only a rapid estimate of
+         the location of weapons and targets may be possible. To achieve the most
+         effective massed fires, a survey using accurate maps should be made of each
+         mortar position, registration points, and targets.
+
+         b. The immediate objective is to deliver a large volume of accurate and timely fire
+         to inflict as many casualties as possible on the enemy. The number of casualties
+         inflicted in a target area can usually be increased by surprise fire. If surprise
+         massed fires cannot be achieved, the time required to bring effective fires on the
+         target should be kept to a minimum. The greatest demoralizing effect on the
+         enemy can be achieved by delivery of a maximum number of effective rounds
+         from all the mortars in the shortest possible time.
+
+         c. Mortar units must be prepared to accomplish multiple fire missions. They can
+         provide an immediate, heavy volume of accurate fire for sustained periods.
+         Mortars are suppressive indirect fire (high-angle-of-fire) weapons. They can be
+
+
+---
+
+         employed to neutralize or destroy area or point targets, screen large areas with
+         smoke, and to provide illumination or coordinated HE/illumination.
+
+         d. In the armor and mechanized infantry battalions, mortars are normally fired
+         from mortar carriers; however, they maintain their capability to be ground-
+         mounted. Firing from the carrier permits rapid displacement and quick reaction.
+
+1-2. MORTAR POSITIONS
+
+Mortars should be employed in defilade to protect them from enemy direct fire and
+observation, and to take the greatest advantage of their indirect fire role. Although the use
+of defilade precludes sighting the weapons directly at the target (direct lay), it is
+necessary for survivability. Because mortars are indirect fire weapons, special procedures
+ensure that the weapon and ammunition settings used will cause the projectile to burst on
+or above the target. A coordinated effort by the indirect fire team ensures the timely and
+accurate engagement of targets.
+
+                                Section II. INDIRECT FIRE TEAM
+
+Indirect fire procedure is a team effort (Figure 1-1). Since the mortar is normally fired
+from defilade (where the crew cannot see the target), the indirect fire team gathers and
+applies the required data. The team consists of an FO, an FDC, and the gun squad.
+
+
+---
+
+                                  Figure 1-1. Indirect fire team.
+
+1-3. APPLICATIONS
+
+To successfully accomplish missions from a defilade position, certain steps must be
+followed in applying essential information and engaging targets.
+
+    • Locate targets and mortar positions.
+    • Determine chart data (direction, range, and vertical interval from mortars to
+
+         targets).
+    • Convert chart data to firing data.
+    • Apply firing data to the mortar and ammunition.
+
+1-4. TEAM MISSION
+
+
+---
+
+The team mission is to provide accurate and timely response to the unit it supports.
+Effective communication is vital to the successful coordination of the efforts of the
+indirect fire team.
+
+         a. The forward observer (FO), as part of the fire support team (FIST), is normally
+         provided by a direct support (DS) artillery battalion. One 4-man FO team supports
+         each mechanized infantry company. The light infantry company is supported by a
+         10-man company-level FO team. The team is composed of a lieutenant, staff
+         sergeant, radio-telephone operator, driver with a HMMWV at company
+         headquarters, and six FOs (one 2-man team for each infantry platoon in the
+         company). The FO’s job is to find and report the location of targets, and to
+         request and adjust fire.
+
+         b. The fire direction center (FDC) has two computer personnel who control the
+         mortar firing. They convert the data in a call for fire from the FO into firing data
+         that can be applied to the mortars and ammunition.
+
+         c. A mortar squad consists of three to five mortarmen, depending on the system.
+         The squad lays the mortar and prepares the ammunition, using the data from the
+         FDC fire command. When those data have been applied, the squad fires the
+         mortar--it must also be able to fire without an FDC.
+
+                               Section III. SAFETY PROCEDURES
+
+Although safety is a command responsibility, each member of the mortar fire team must
+know safety procedures and enforce them. Misfire procedures discussed in this field
+manual are based on peacetime operations. (See ARTEP 7-90-Drill for combat
+operations.)
+
+1-5. DUTIES OF THE SAFETY OFFICER AND SUPERVISORY PERSONNEL
+
+Safety officers must help commanders meet the responsibility of enforcing safety
+procedures. The safety officer has two principal duties: first, to ensure that the section is
+properly laid so that when rounds are fired, they land in the impact area; second, to
+ensure that all safety precautions are observed at the firing point.
+
+         a. Duties Before Departing for Range. The safety officer must read and
+         understand the following:
+
+              • AR 385-63.
+              • Post range and terrain regulations.
+              • The terrain request of the firing area to know safety limits and coordinates
+
+                  of firing positions.
+              • Appropriate field and technical manuals pertaining to weapons and
+
+                  ammunition to be fired.
+
+
+---
+
+b. Duties of Supervisory Personnel. Supervisory personnel must know the
+immediate action to be taken for firing accidents. The following is a list of
+minimum actions that must be taken if an accident occurs.
+
+         (1) Administer first aid to injured personnel, then call for medical
+         assistance.
+
+         (2) If the ammunition or equipment presents further danger, move all
+         personnel and equipment out of the area.
+
+         (3) Do not change any settings on or modify the position of the mortar
+         until an investigation has been completed.
+
+         (4) Record the ammunition lot number involved in the accident or
+         malfunction and report it to the battalion ammunition officer. If a certain
+         lot number is suspected, its use should be suspended by the platoon leader.
+
+c. Mortar Range Safety Checklist. A mortar range safety checklist can be
+written for local use. The following is a suggested checklist, which can also
+include three columns on the right titled "Yes," "No," and "Remarks."
+
+         (1) Items to check before firing.
+
+                  (a) Is a range log or journal maintained by the officer in charge?
+
+                  (b) Is radio or telephone communication maintained with--
+
+                       • Range control?
+                       • Unit S3?
+                       • Firing crews?
+                       • Forward observers?
+                       • Road or barrier guards?
+
+                  (c) Are the required emergency personnel and equipment present
+                  on the range?
+
+                       • Properly briefed and qualified medical personnel.
+                       • A wheeled or tracked ambulance.
+                       • Fire-fighting equipment.
+
+                  (d) Are the following range controls and warning devices
+                  available, readily visible, and in use during the firing exercise?
+
+                       • Barrier/road guards briefed and in position.
+                       • Road barriers in position.
+                       • Red range flag in position.
+
+
+---
+
+    • Blinking red lights for night firing.
+    • Signs warning trespassers to beware of explosive hazards
+
+         and not to remove duds or ammunition components from
+         ranges.
+    • Noise hazard warning signs.
+
+(e) Are current copies of the following documents available and
+complied with?
+
+    • AR 385-63.
+    • Technical and field manuals pertinent to the mortar in use.
+    • Appropriate firing tables.
+    • Installation range regulations.
+
+(f) Are the following personal safety devices and equipment
+available and in use?
+
+    • Helmets.
+    • Protective earplugs.
+    • Protective earmuffs.
+
+(g) Is the ammunition the correct caliber, type, and quantity
+required for the day’s firing? Are the rounds, fuzes, and charges--
+
+    • Stored in a location to minimize possible ignition or
+         detonation?
+
+    • Covered to protect them from moisture and direct sunlight?
+    • Stacked on dunnage to keep them clear of the ground?
+    • Strictly accounted for by lot number?
+    • Exposed only immediately before firing?
+    • Stored separately from ammunition and protected from
+
+         ignition?
+
+(h) Has the range safety officer verified the following?
+
+    • The mortar safety card applies to the unit and exercise.
+    • The firing position is correct and applies to the safety card,
+
+         and the base mortar is within 100 meters of the surveyed
+         firing point.
+    • Boresighting and aiming circle declination are correct.
+    • The plotting board or MBC is correct.
+    • The FO has been briefed on the firing exercise and knows
+         the limits of the safety fan.
+    • The lay of each mortar is correct.
+    • The safety stakes (if used) are placed along the right and
+         left limits.
+
+
+---
+
+              • Each safety NCO and gunner has been informed in writing
+                  of the following:
+                       o Right and left limits (deflection).
+                       o Maximum elevation and charge.
+                       o Minimum elevation and charge.
+                       o Minimum time setting for fuzes.
+
+              • All personnel at the firing position have been briefed on
+                  safety misfire procedures.
+
+              • If the safety card specified overhead fire, firing is IAW AR
+                  385-63.
+
+              • The mortars are safe to fire by checking--
+                       o Mask and overhead clearance.
+                       o Weapons and ammunition.
+                       o Properly seated sights on weapons.
+                       o Carefully positioned lights on the sights and aiming
+                            stakes for night firing.
+
+              • T he OIC is informed that the range is cleared to fire and
+                  that range control has placed it in a "wet" status.
+
+(2) Items to check during firing.
+
+         (a) Are the unit personnel adhering to the safety regulations?
+
+         (b) Is each charge, elevation, and deflection setting checked before
+         firing?
+
+         (c) Does the safety NCO declare the mortar safe to fire before the
+         squad leader announces, "Hang it, fire"?
+
+         (d) Do all gun settings remain at last data announced until a
+         subsequent fire command is issued by the FDC?
+
+         (e) Are ammunition lots kept separate to avoid the firing of mixed
+         lots?
+
+(3) Items to check after firing.
+
+         (a) Have the gunners and safety NCO verified that no loose
+         propellants are mixed with the empty containers?
+
+         (b) Has the safety NCO disposed of the unused propellants?
+
+         (c) Has the unused ammunition been inventoried and repacked
+         properly?
+
+
+---
+
+                       (d) Have the proper entries been made in the equipment logbook
+                       (DA Form 2408-4).
+
+                       (e) Has the OIC or safety officer notified range control of range
+                       status and other required information?
+
+                       (f) Has a thorough range police been conducted?
+
+    d. Safety Card. The safety officer should receive a copy of the safety card from
+    the OIC before allowing fire to begin. He constructs a safety diagram based on the
+    information on the safety card. A safety card should be prepared and approved for
+    each firing position and type of ammunition used. The form of the card depends
+    upon local regulations (training list, overlay, range bulletin). Even without a
+    prescribed format, it should contain the following:
+
+         • Unit firing or problem number.
+         • Type of weapon and fire.
+         • Authorized projectile, fuze, and charge zone.
+         • Grid of the platoon center.
+         • Azimuth of left and right limits.
+         • Minimum and maximum ranges and elevations.
+         • Any special instructions to allow for varying limits on special ammunition
+
+              or situations.
+
+    e. Safety Diagram. The safety officer, on receipt of the safety card, constructs a
+    safety diagram. The safety diagram is a graphic portrayal of the data on the safety
+    card, which need not be drawn to scale but must accurately list the sight settings
+    that delineate the impact area. The diagram serves as a convenient means of
+    checking the commands announced to the gun crews against those commands that
+    represent the safety limits.
+
+              (1) The diagram shows the right and left limits, expressed in deflections
+              corresponding to those limits; the maximum and minimum elevations; and
+              the minimum fuze settings (when applicable) for each charge to be fired.
+              The diagram also shows the minimum and maximum range lines, the left
+              and right azimuth limits, the deflections corresponding to the azimuth
+              limits, and the direction on which the guns are laid. The safety diagram
+              must show only necessary information.
+
+              (2) To accurately complete a safety diagram, the safety officer must use
+              the information supplied by range control or, in the example in Figure 1-2,
+              the safety card.
+
+1. Enter the known data, supplied from the safety card, on the safety diagram.
+2. Determine the azimuth center sector.
+
+
+---
+
+    3. Determine mounting azimuth.
+    4. Determine mils left and right deviations of mounting azimuth.
+    5. Determine referred deflection.
+    6. Determine deflections to left and right limits.
+    7. Determine minimum and maximum charges and elevations.
+    8. If illumination is to be used, determine from the appropriate firing tables the
+
+         minimum and maximum charges and ranges to burst and impact for the canister.
+         The minimum range is used to determine the minimum charge and range to burst.
+         The maximum range is used to determine the maximum charge and range to
+         impact.
+
+EXAMPLE
+
+    1. Place all data supplied by the safety card on the safety diagram at this time.
+    2. Add the right and left limits and divide by 2 to compute the azimuth center sector.
+
+RIGHT LIMIT    0920
+LEFT LIMIT   + 0500
+TOTAL        = 1420
+
+TOTAL = 1420 divided by 2 = 0710
+
+3. The answer 0710 is the azimuth center sector to use.
+4. Determine mounting azimuth. For all mortars (M16 plotting board), round off to
+
+    nearest 50 mils; for example, 0710 = 0700.
+5. Determine referred deflection. It can be any number, but 2800 is normally used.
+6. Determine referred deflection for left and right limits.
+
+         a. Determine the number of mils from the mounting azimuth to the left limit.
+
+MOUNTING AZIMUTH 0700
+
+LEFT LIMIT   - 0500
+
+MILS TO LEFT LIMIT = 0200
+
+b. Using the LARS rule for referred deflection, calculate the left limit
+    deflection.
+
+CENTER OF SECTOR                    2800
+REFERRED DEFLECTION               + 0200
+MILS TO LEFT LIMIT                = 3000
+LEFT LIMIT DEFLECTION
+
+c. Determine the number of mils from the mounting azimuth to the right
+
+
+---
+
+        limit.
+
+        RIGHT LIMIT  0920
+
+        MOUNTING AZIMUTH - 0700
+
+        MILS TO RIGHT LIMIT = 0220
+
+        d. Using the LARS rule for referred deflection, calculate the right limit
+            deflection.
+
+        CENTER OF SECTOR          2800
+        REFERRED DEFLECTION     - 0220
+        MILS TO RIGHT LIMIT     = 2580
+        RIGHT LIMIT DEFLECTION
+
+7. Determine minimum and maximum charges and elevations by using the firing
+    tables for the mortar being fired.
+
+Note :  When determining deflections for 4.2-inch mortars, add the minimum drift for
+        the minimum range to the left limit deflection and maximum drift for the
+        maximum range to the right limit deflection. This is the responsibility of the
+        section sergeant.
+
+      Figure 1-2. Example of how to complete a safety diagram (continued).
+
+1-6. AMMUNITION CARE AND HANDLING
+
+A complete round of mortar ammunition contains all the components needed to get the
+round out of the tube and to burst it at the desired place and time. The key to proper
+ammunition functioning is protection. Rounds prepared but not fired should be placed
+back in their containers, fin end first. Safety is always a matter of concern for all section
+personnel, and it requires special attention where ammunition is concerned. Supervision
+is critical, because improper care and handling can cause serious accidents as well as
+inaccurate fire. Following are some of the principles of proper ammunition handling.
+
+    • Never tumble, drag, throw, or drop individual cartridges or boxes of cartridges.
+    • Do not allow smoking, open flames, or other fire hazards around ammunition
+
+         storage areas.
+    • Inspect each cartridge before it is loaded for firing. Dirty ammunition can damage
+
+         the weapon or affect the accuracy of the round.
+    • Keep the ammunition dry and cool.
+    • Never make unauthorized alterations or mix components of one lot with another.
+
+
+---
+
+Note: For care and handling of specific mortar rounds, see corresponding chapter in this
+         manual.
+
+         a. Projectiles/Cartridges. Each projectile must be inspected to ensure that there
+         is no leakage of the contents, and that the projectile is correctly assembled. The
+         HE 4.2-inch mortar projectiles are issued without a fuze. Each is issued with a
+         removable supplementary charge so that it can be used with an impact,
+         mechanical, or VT (proximity) fuze.
+
+         b. Burning of Unused Propelling Charges. Mortar increments and propelling
+         charges are highly flammable, and they must be handled with extreme care to
+         preclude exposure to heat, flame, or any spark-producing source. This includes
+         exposure to the hot residue from burning increments or propelling charges that
+         float downward after a cartridge leaves the barrel. Like other types of
+         ammunition, increments and propelling charges must be kept cool and dry.
+         Storing these items inside the ammunition boxes until needed is an effective way
+         to prevent premature combustion.
+
+                  (1) Unused charges must not be saved but should be removed to a storage
+                  area until they can be burned or otherwise disposed of.
+
+                  (2) Burning increments create a large flash and a lot of smoke. In a tactical
+                  environment, the platoon leader must ensure that burning increments do
+                  not compromise camouflage and concealment. The burning of increments
+                  in a dummy position, if established, can aid in the deception effort. The
+                  safety officer, in a range environment, supervises the disposal of unused
+                  propellant increments.
+
+         c. Fuzes. Never fire a round with a fuze that is not authorized for that round.
+         Specific fuzes available for each weapon system are discussed in this manual.
+
+                  (1) Fuzes are sensitive to shock and must be handled with care. Before
+                  fuzing a round, inspect the threads of the fuze and fuze well for cleanliness
+                  and crossed threads. The fuze should be screwed into the fuze well slowly
+                  until resistance is met and then firmly seated with a sharp twist of the M25
+                  or M18 fuze wrench, as appropriate.
+
+                                        WARNING
+
+         Premature detonation may occur if a fuze is not properly
+         seated.
+
+                  (2) To prevent accidental functioning of the point-detonating elements of
+                  fuzes of the M524 series, the fuzes must not be dropped, rolled, or struck
+
+
+---
+
+                  under any circumstances. Any mechanical-time fuze that is set and
+                  modified must be reset to SAFE, and the safety wires (if applicable) must
+                  be replaced before the fuze is repacked in the original carton.
+
+                  (3) All primers must be inspected before use for signs of corrosion. If a
+                  seal has been broken, it is likely that the primer has been affected by
+                  moisture and should be turned in.
+
+         d. Segregation of Ammunition Lots. Different lots of propellant burn at different
+         rates and give slightly different effects in the target area. Therefore, the
+         registration corrections derived from one lot do not always apply to another.
+         Ammunition MUST be segregated by lot and weight zone (square weight [4.2-
+         inch mortar only]). In the field storage area, on vehicles or in a dump, ammunition
+         lots should be roped off with communications wire or twine and conspicuously
+         marked with a cardboard sign or other marker.
+
+1-7. FIELD STORAGE OF AMMUNITION
+
+Most ammunition components can be stored at temperatures as low as -80 degrees F for
+not longer than three days and as high as 160 degrees F for not longer than four hours.
+
+         a. The greatest hazards to ammunition in the storage area are weather, enemy fire,
+         NBC contamination, improper handling, and accidental fires. Regardless of the
+         method of storage, those hazards must be considered. Some general
+         considerations that apply to storage are as follows:
+
+                  (1) Stack ammunition by type, lot number, and weight zone (Figure 1-3).
+
+Note : WP ammunition must be stacked fuze-end up.
+
+
+---
+
+             Figure 1-3. Stacked ammunition.
+
+(2) If ammunition is being stored on the ground, use good strong dunnage
+at least 6 inches under each stack.
+
+(3) Keep the ammunition dry and out of direct sunlight by storing it in a
+vehicle or covering it with a tarpaulin. Be sure adequate ventilation is
+provided around ammunition and between covering material and
+ammunition.
+
+
+---
+
+         (4) Protect ammunition as much as possible from enemy indirect fires. If
+         sandbags are used for protection, keep the walls at least 6 inches from the
+         stacks and the roof at least 18 inches from the stacks to ensure proper
+         ventilation.
+
+b. An increase in malfunctions can occur with some proximity fuzes if fired when
+the temperature is below 0 degrees F or above 120 degrees F. Powder temperature
+affects the muzzle velocity of a projectile and is of frequent concern to the FDC.
+
+
+---
+
+                                       CHAPTER 2
+
+    SIGHTING AND FIRE CONTROL EQUIPMENT
+
+         Proper employment of sighting and fire control equipment ensures
+         effective fire against the enemy. This chapter describes this equipment and
+         its applications.
+
+                                     Section I. COMPASS, M2
+The compass (Figures 2-1 through 2-3) is used to measure azimuths or angles of site. It
+measures magnetic azimuths or grid azimuths, when the instrument has been declinated
+for the locality.
+
+                              Figure 2-1. Compass, M2, (top view).
+
+
+---
+
+Figure 2-2. Compass, M2 (side view).
+
+
+---
+
+                  Figure 2-3. Compass, M2 (user's view).
+
+Note : For detailed information, see TM 9-1290-333-15.
+
+2-1. CHARACTERISTICS
+The main characteristics of the M2 compass are:
+
+Angle-of-site scale  1200-0-1200 mils
+Azimuth Scale        0 to 6400 mils
+Dimensions Closed    2 3/4 inches by 1 1/8 inches
+Weight               8 ounces
+
+2-2. DESCRIPTION
+
+
+---
+
+The principal parts of the compass are described herein.
+
+         a. Compass Body Assembly. This assembly consists of a circular glass window
+         that covers the instrument, and keeps dust and moisture from its interior,
+         protecting the compass needle and angle-of-site mechanism. A hinge assembly
+         holds the compass cover in the position in which it is placed. A hole in the cover
+         coincides with a small oval window in the mirror on the inside of the cover. A
+         sighting line is etched across the face of the mirror.
+
+         b. Angle-of-Site Mechanism. The angle-of-site mechanism is attached to the
+         bottom of the compass body. It consists of an actuating (leveling) lever located on
+         the back of the compass, a leveling assembly with a tubular elevation level, and a
+         circular level. The instrument is leveled with the circular level to read azimuths
+         and with the elevation level to read angle of site. The elevation (angle-of-site)
+         scale and the four points of the compass, represented by three letters and a star,
+         are engraved on the inside bottom of the compass body. The elevation scale is
+         graduated in two directions; in each direction it is graduated from 0 to 1200 mils
+         in 20-mil increments and numbered every 200 mils.
+
+         c. Magnetic Needle and Lifting Mechanism. The magnetic needle assembly
+         consists of a magnetized needle and a jewel housing that serves as a pivot. The
+         north-seeking end of the needle is white. (The newer compasses have the north
+         and south ends of the needle marked "N" and "S" in raised, white lettering.) On
+         some compasses a thin piece of copper wire is wrapped around the needle for
+         counterbalance. A lifting pin projects above the top rim of the compass body. The
+         lower end of the pin engages the needle-lifting lever. When the cover is closed,
+         the magnetic needle is automatically lifted from its pivot and held firmly against
+         the window of the compass.
+
+         d. Azimuth Scale and Adjuster. The azimuth scale is a circular dial geared to the
+         azimuth scale adjuster. This permits rotation of the azimuth scale about 900 mils
+         in either direction. The azimuth index provides a means of orienting the azimuth
+         scale at 0 or the declination constant of the locality. The azimuth scale is
+         graduated from 0 to 6400 in 20-mil increments and numbered at 200-mil
+         intervals.
+
+         e. Front and Rear Sight. The front sight is hinged to the compass cover. It can
+         be folded across the compass body, and the cover is closed. The rear sight is made
+         in two parts--a rear sight and holder. When the compass is not being used, the rear
+         sight and holder are folded across the compass body and the cover is closed.
+
+2-3. USE
+
+The compass should be held as steadily as possible to obtain accurate readings. The use
+of a sitting or prone position, a rest for the hand or elbows, or a solid nonmetallic support
+
+
+---
+
+helps eliminate unintentional movement of the instrument. When being used to measure
+azimuths, the compass must not be near metallic objects.
+
+         a. To measure a magnetic azimuth--
+
+                  (1) Zero the azimuth scale by turning the scale adjuster.
+
+                  (2) Place the cover at an angle of about 45 degrees to the face of the
+                  compass so that the scale reflection is viewed in the mirror.
+
+                  (3) Adjust the front and rear sights to the desired position. Sight the
+                  compass by any of these methods:
+
+                            (a) Fold the rear sight holder out parallel with the rear sight of the
+                            compass face perpendicular to its holder. Sight through the
+                            window in the cover. If the object sighted is at a lower elevation
+                            than the compass, raise the rear sight holder as needed. The
+                            compass is correctly sighted when it is level and the black
+                            centerline of the window, rear sight, and object are aligned.
+
+                            (b) Raise the front and rear sights perpendicular to the face of the
+                            compass (Figure 2-2 and Figure 2-3). Sight over the tips of the rear
+                            and front sights. The compass is correctly sighted when it is level
+                            and the tips of the sights and object are aligned.
+
+                  (4) Hold the compass in both hands, at eye level, with the arms braced
+                  against the body and the rear sight near the eyes. For precise
+                  measurements, rest the compass on a nonmetallic stake or object.
+
+                  (5) Level the instrument by viewing the circular level in the mirror and
+                  moving the compass until the bubble is centered. Sight on the object, look
+                  in the mirror, and read the azimuth indicated by the black (south) end of
+                  the magnetic needle.
+
+         b. To measure a grid azimuth--
+
+                  (1) Index the known declination constant on the azimuth scale by turning
+                  the azimuth scale adjuster. Be sure to loosen the locking screw on the
+                  bottom of the compass. (The new lightweight [plastic] M2 compass has no
+                  locking screw.)
+
+                  (2) Measure the azimuth as described above. The azimuth measured is a
+                  grid azimuth.
+
+         c. To measure an angle of site or vertical angle from the horizontal--
+
+
+---
+
+                  (1) Hold the compass with the left side down (cover to the left) and fold
+                  the rear sight holder out parallel to the face of the compass, with the rear
+                  sight perpendicular to the holder. Position the cover so that, when looking
+                  through the rear sight and the aperture in the cover, the elevation vial is
+                  reflected in the mirror.
+
+                  (2) Sight on the point to be measured.
+
+                  (3) Center the bubble in the elevation level vial (reflected in the mirror)
+                  with the level lever.
+
+                  (4) Read the angle on the elevation scale opposite the index mark. The
+                  section of the scale graduated counterclockwise from 0 to 1200 mils
+                  measures plus angles of site. The section of the scale graduated clockwise
+                  from 0 to 1200 mils measures minus angles of site.
+
+                       Section II. AIMING CIRCLES, M2 AND M2A2
+
+The aiming circle is used to obtain angular values. It is a low-power telescope that is
+mounted on a composite body and contains a magnetic compass, adjusting mechanisms,
+and leveling screws for establishing a horizontal plane. The instrument is supported by a
+baseplate for mounting on a tripod. Angular measurements in azimuth are indicated on
+graduated scales and associated micrometers.
+
+2-4. CHARACTERISTICS
+
+The main characteristics of the aiming circles are described herein.
+
+                                     M2          M2A2
+
+Weight (w/o equipment)               9 pounds    9 pounds
+Weight (w/equipment less batteries)  21 pounds   21 pounds
+Azimuth rotation                     6400 mils   6400 mils
+Elevation (maximum)                  800 mils    1100 mils
+Depression (maximum)                 400 mils    400 mils
+Magnification                        4 power     4 power
+
+Field of view                        10 degrees  10 degrees
+
+2-5. DESCRIPTION
+
+The M2 and M2A2 aiming circles consist of an elbow telescope mounted on orienting
+and elevating mechanisms, which are contained within a main housing. The main
+housing, in turn, is supported by adjusting screws through the baseplate.
+
+2-6. USE
+
+
+---
+
+The M2 or M2A2 aiming circle (Figure 2-4) is used for the precise measurement of the
+azimuth and elevation angles of a ground or aerial target with the respect to a preselected
+baseline as required for the orientation of indirect fire weapons. It can also be used for
+general topographical surveying.
+
+       Figure 2-4. Aiming circles, M2 and M2A2, and accessory equipment.
+Note : For detailed information, see TM 9-1290-262-15.
+
+         a. The orienting and elevating mechanisms permit unlimited azimuth orienting
+         movement (360 degrees [6400 mils] and limited elevation and depression [M2,
+         1200 mils; M2A2, 1500 mils]). Azimuth orienting rotation is controlled by two
+         orienting knobs (Figure 2-5). Azimuth measurement is controlled by the
+         micrometer knob. Elevation and depression movement are controlled by the
+         elevation micrometer knob. The azimuth micrometer worm can be disengaged to
+
+
+---
+
+provide rapid azimuth measurement of movement by exerting pressure on the
+azimuth micrometer knob against the pressure of an internal spring-loaded
+plunger. Releasing the pressure on the azimuth micrometer knob allows the
+mechanism to reengage. A similar throw-out mechanism permits the azimuth
+orienting worm to also be disengaged to provide rapid azimuth orienting
+movement.
+
+
+---
+
+
+
+---
+
+                         Figure 2-5. Aiming circle, M2
+
+b. The telescope of the aiming circle is a four-power, fixed-focus, elbow-type
+instrument. The reticle of the telescope contains cross lines graduated to give
+azimuth and elevation angular readings from 0 to 85 mils in 5-mil increments.
+Thus, the FO can read small angular values directly from the reticle without
+referring to the azimuth and elevation micrometer scales. An externally stowed
+filter is provided for protection against the rays of the sun. A slotted bracket
+provides the means of securing the lamp bracket on one lead wire of the M51
+instrument light so that illumination of the reticle during night operation can be
+accomplished. The reflector can be illuminated and used in conjunction with the
+sightunits on the mortars during night operations to backlight the vertical
+centerline of the aiming circle.
+
+c. Three levels are contained within the telescope body and main housing of the
+aiming circle. One tubular level, held between two bosses on the telescope body,
+is used to establish a true horizontal line-of-sight. The two bosses supporting this
+level are machined to form an open sight for approximate alignment of the
+telescope and target, and for quick or emergency sighting. One circular level and
+one tubular level are held within bosses on the main housing. The circular level is
+used for rough leveling of the aiming circle, and the tubular level is used for fine
+leveling adjustments. The three leveling screws on the baseplate are used to level
+the instrument and each is controlled by a leveling screw knob.
+
+d. A magnetic compass needle is located in a recess in the top of the housing. A
+magnifier and rectangular reticle located at one end of the recess enable the FO to
+observe the end of the compass needle and to align the line of sight of the
+telescope with the needle. The compass needle can be locked in position by
+actuating the locking lever on the side of the housing.
+
+e. Azimuth scales and elevation scales are employed to measure accurate azimuth
+or elevation angles. The scales provide coarse readings and the micrometer
+provides fine reading. The two readings added together give the angle. Graduation
+intervals and numeral scales are graduated into relatively large round number
+intervals for convenience in reading. The scale intervals are in graduations of 100
+mils.
+
+         (1) The azimuth scale is graduated from 0 to 6400 mils (zero equals 6400).
+         The upper series forms the main azimuth scale, colored black and
+         numbered at 200-mil intervals. The lower series, colored red, is numbered
+         from 0 to 3200 mils (the large zero in the main scale equals 3200). The red
+         scale should only be used when verifying the lay of the aiming circle with
+         another aiming circle.
+
+         (2) The azimuth micrometer scale is graduated at 1-mil intervals and
+         numbered from 0 to 100 at ten 10-mil intervals.
+
+
+---
+
+                  (3) The elevation scale is graduated and numbered on both sides of 0.
+                  Minus (red) readings represent depression and plus (black) readings
+                  represent elevations at 100-mil intervals from minus 400 to 800 mils.
+
+                  (4) The elevation micrometer scale is graduated at 1-mil intervals from 0
+                  to 99 mils--large zero is designated 0 and 100. Red numerals represent
+                  depression and black numerals represent elevation.
+
+         f. A notation strip is provided on the baseplate. This strip is a raised and machined
+         surface on which scale readings, settings, or other data can be recorded for
+         reference.
+
+2-7. ACCESSORY EQUIPMENT
+
+The accessory equipment for the M2 aiming circle includes the aiming circle cover, M24
+tripod, and the accessory kit which includes the M51 instrument light, backplate, cloth
+cover, plumb bob, and a lamp holder and remover. This equipment is mounted on the
+M24 tripod when the instrument is set up for use.
+
+         a. The aiming circle cover is a metal cover that protects and houses the aiming
+         circle when not in use. It attaches to the baseplate of the aiming circle and can be
+         carried by means of its strap. When the aiming circle is in use, the cover is placed
+         on the tripod head cover.
+
+         b. The M24 tripod comprises three telescoping wooden legs hinged to a metal
+         head, which contains a captive screw for attaching the aiming circle. When not in
+         use, the tripod cover should be fitted on the head to protect the head and captive
+         screw from damage, and the legs are held retracted by a strap. Attachments are
+         provided so that the aiming circle cover and cloth cover with attached accessory
+         equipment can be mounted on its legs when the aiming circle is set up for use. A
+         hook is also provided from which the plumb bob can be suspended by means of
+         its attaching thread when in use.
+
+         c. The M51 instrument light is a lighting device for use with the M2 aiming circle
+         during night operations and for certain test and adjustment procedures. The light
+         is flashlight battery-powered and contains two attaching lead wires. A lamp
+         bracket attached to one lead wire can be inserted into the slotted bracket of the
+         aiming circle telescope for illumination of the telescope reticle. A hand light,
+         attached to the other lead wire, can be used for general-purpose illumination
+         (scales, level vials, reflector, compass needle, and so forth). Rotation of the
+         rheostat knob turns the two lamps on and off and increases or decreases the
+         intensity of illumination.
+
+         d. The backplate provides the necessary clips and attachments for securing and
+         protecting the instrument light and lamp bracket, hand light, and lead wires of the
+         light. The plate with the attached instrument light is stored within the cloth cover.
+
+
+---
+
+         e. The cloth cover is used to store the backplate and attached M51 instrument
+         light. It is also used to store the plumb bob and a lamp holder and remover. When
+         the aiming circle is set up for use, the cloth cover with attached equipment is
+         mounted on one of the legs of the M24 tripod. When not in use, attached snap
+         fasteners keep the cover in a closed position.
+
+         f. The plumb bob is used to aid in orienting the aiming circle over a certain grid
+         point. It composes a pointed weight attached to a nylon thread that can be
+         suspended from the hook under the tripod head when in use. The effective length
+         of the thread can be adjusted by means of the slide. When not in use, the plumb
+         bob is stored within the cloth cover.
+
+         g. A lamp holder and remover are used to hold spare incandescent lamps for the
+         M51 instrument light. They also facilitate the removal and replacement of
+         unserviceable lamps in the light.
+
+2-8. SETUP AND LEVELING OF AIMING CIRCLE
+
+The aiming circle must always be level during operation.
+
+         a. Unstrap the tripod legs, loosen the leg clamp thumbscrews, extend the legs so
+         that the tripod is about chest high, and tighten the leg clamp thumbscrews. Spread
+         the legs about 18 inches apart, adjust the legs so the tripod head is about level, and
+         plant the feet firmly in the ground.
+
+         b. Remove the tripod head cover. Open the baseplate cover of the aiming circle
+         head. Keeping the baseplate cover pointed toward you, thread the tripod guide
+         screw assembly into the aiming circle until it is firmly seated. The base of the
+         aiming circle should not protrude over the machine surface of the tripod head.
+         Pull out and down on the strap latch assembly. Remove the cover and hang it on
+         the tripod head cover.
+
+         c. If the instrument is to be set up over an orienting point, attach the plumb bob to
+         the hook. Adjust the tripod legs and aiming circle head until it is over the point.
+
+         d. Loosen the leveling screws to expose sufficient threads (3/8 to 1/2 inch) on the
+         three screws to permit the instrument to be leveled. Number the leveling screws
+         clockwise, 1, 2, and 3 (Figure 2-6). Now place the tubular level vial over the
+         notation pad. Grasp leveling screw number 1 between the thumb and forefinger of
+         the right hand, and grasp leveling screw number 2 between the thumb and
+         forefinger of the left hand. Turn the screws so that the thumbs move toward or
+         away from each other. Using these two leveling screws, center the bubble. The
+         bubble moves in the same direction as the left thumb.
+
+
+---
+
+                          Figure 2-6. Leveling screws.
+
+e. Rotate the aiming circle head until the magnifier is over the notation pad. Level
+the tubular level by turning only level screw number 3. The bubble should now
+remain level in any direction that the aiming circle is rotated. A variation of one
+graduation from the center of the vial is acceptable. If the bubble does not remain
+level, repeat this procedure.
+
+Note : If the spring plate is bent, the aiming circle cannot be leveled and must be turned
+         in to the DS maintenance unit.
+
+f. The aiming circle should be set up at the distance indicated from the following
+objects:
+
+OBJECT                     DISTANCE (METERS)
+High-tension power lines               150
+Electronic equipment                   150
+Railroad tracks                         75
+Tanks and trucks                        75
+Vehicles                                50
+Barbed wire                             30
+Mortars or telegraph wire               25
+Helmets, and so forth                   10
+
+
+---
+
+2-9. DECLINATION CONSTANT
+
+Since the magnetic needle of an aiming circle does not point to the grid north determined
+from a map, it is necessary to correct for this difference by using the declination constant.
+The declination constant of an instrument is the clockwise angle between grid north and
+magnetic north; that is, the grid azimuth of magnetic north. This constant differs slightly
+for different instruments and must be recorded on each instrument. The constant also
+varies for the same instrument in different localities. To determine the declination
+constant, proceed as follows:
+
+         a. Declination Station. Declination stations are established by corps artillery,
+         division artillery, and artillery battalion survey teams to determine the declination
+         constants of instruments and to correct for local attractions, annual variations, and
+         instrument errors. When a unit moves from one locality to another, a station
+         should be established where all instruments are declinated. If the declination
+         constants for all instruments of a unit are determined at the same station, grid
+         azimuths measured with each instrument will agree with the map grid, and all
+         instruments will agree with each other. The point chosen for the declination
+         station must have a view of at least two distant, well-defined points with a known
+         grid azimuth. Two additional points are desirable, one in each quadrant, as a
+         check.
+
+         b. Procedure for Declinating Aiming Circle at a Declination Station. Where a
+         declination station is available, the procedure for declinating the aiming circle is
+         as follows:
+
+STEP 1.  Set up and fine-level the aiming circle directly over the declination
+STEP 2.  station marker using the plumb bob.
+
+STEP 3.  Place the grid azimuth of the first azimuth marker on the scales using
+         the recording motion. Place the vertical cross line of the telescope on
+STEP 4.  the azimuth marker using the nonrecording (orienting) motion. The
+STEP 5.  aiming circle is now oriented on grid north.
+
+         With the recording motion, rotate the instrument to zero. Release the
+         magnetic needle and look through the magnifier. Center the north-
+         seeking needle using the recording motion, then relock the magnetic
+         needle.
+
+         Notice the new azimuth on the scale, which is the declination
+         constant--record it.
+
+         Recheck the aiming circle level and repeat steps 2 through 4 using
+         the remaining azimuth markers until three readings have been taken.
+         If there is only one marker, repeat the entire procedure twice using
+         the same marker.
+
+
+---
+
+STEP 6.  Find the average declination constant using these three readings.
+STEP 7.
+         EXAMPLE 1
+
+         1st point reading = 6399 mils
+         2d point reading = 6398 mils
+         3d point reading = 6398 mils
+
+         Total = 19195 mils
+
+         19195 ÷ 3 = 6398.3 (rounded off to the nearest whole number) =
+         6398 mils (average declination constant)
+
+         EXAMPLE 2
+
+         1st point reading = 0030 mils
+         2d point reading = 0031 mils
+         3d point reading = 0029 mils
+
+         Total = 0090 mils
+
+         0090 ÷ 3 = 0030 mils (average declination constant)
+
+         Record the average declination constant in pencil on the notation
+         (strip) pad of the aiming circle as its declination constant. All
+         readings should be within 2 mils of each other; if not, repeat steps 2
+         through 4. Ensure the aiming circle is directly over the station marker
+         to obtain the 2-mil tolerance. If the desired 2-mil accuracy is not
+         gained after two tries, the aiming circle is defective and should be
+         turned in for repair.
+
+c. Use of the Grid-Magnetic Angle. If an aiming circle is used in a new area
+without a declination station, a declination constant can be determined by using
+the grid-magnetic (GM) angle from a map. When the GM angle (converted to
+mils) is westerly, it is subtracted from 6400 mils. The remainder is the declination
+constant. When the GM angle is easterly, the angle (in mils) is the declination
+constant.
+
+d. Redeclination of an Aiming Circle. An aiming circle is redeclinated when
+moved over 25 miles (40 kilometers) from the last declination station. It is also
+redeclinated upon initial issue, when returned from repair (if 30 days since last
+declinated), or if severely jolted.
+
+e. Procedure for Declinating an Aiming Circle When a Declination Station is
+Not Available. This procedure is the least desirable and should be used only
+
+
+---
+
+when no other means are available. It does not compensate for the error that could
+be inherent in the aiming circle.
+
+         (1) Determine the GM angle from the map of the area in which the aiming
+         circle is to be used. This GM angle is used as indicated below.
+         (2) In 1, Figure 2-7, the difference between grid north and magnetic north
+         is 200 mils (westerly). This total is then subtracted from 6400 mils. The
+         declination constant that can be used is 6200 mils.
+
+                   Figure 2-7. Marginal data from a map.
+
+
+---
+
+                  (3) In 2, Figure 2-7, the difference between grid north and magnetic north
+                  in a clockwise direction is 120 mils. This can be used as the declination
+                  constant.
+
+         f. When to Declinate the Aiming Circle. Certain rules prescribe how often and
+         under what circumstances the aiming circle should be declinated to determine and
+         keep the declination constant current. These rules are as follows:
+
+                  (1) The aiming circle should be declinated when it is moved 25 miles or
+                  more from the area in which it was last declinated. A move of a few miles
+                  can change the relationship of grid north and magnetic north as measured
+                  by the instrument. In some locations, a move of less than 25 miles could
+                  require declination of the aiming circle.
+
+                  (2) The aiming circle must be declinated after an electrical storm or after
+                  receiving a severe shock, such as a drop from the bed of a truck to the
+                  ground. The magnetic needle is a delicately balanced mechanism, and any
+                  shock can cause a significant change in the declination constant.
+
+                  (3) The aiming circle should be declinated every 30 days to guard against
+                  changes that may have occurred due to unreported accidents to the
+                  instrument. If a radical change is observed, the instrument should be
+                  declinated again within a few days to determine if the observed change
+                  was due to a magnetic storm or is a real change in the characteristics of the
+                  instrument.
+
+                  (4) The aiming circle should be declinated when it is initially received and
+                  when it is returned from support maintenance repair. Variations in the
+                  declination constant due to the time of day are not significant enough to
+                  warrant declinating again.
+
+2-10. ORIENTING OF THE INSTRUMENT ON GRID NORTH TO MEASURE
+GRID AZIMUTH TO OBJECTS
+
+The procedure to orient the aiming circle on grid north to measure grid azimuth to objects
+is as follows:
+
+         a. Level the instrument.
+
+         b. Set the azimuth micrometer and the azimuth scale on the declination constant
+         of the instrument.
+
+         c. Release the magnetic needle.
+
+         d. With the orienting knob, align the south end of the needle accurately with the
+         center etched line by using the magnetic needle magnifier.
+
+
+---
+
+         e. Lock the magnetic needle and close the orienting knob covers.
+
+         f. Using the throw-out mechanism (azimuth knob), turn the telescope until the
+         vertical line of the reticle is about on the object.
+
+         g. By rotating the azimuth knob, bring the vertical line exactly on the object.
+
+         h. Read the azimuth to the object on the azimuth and micrometer scales.
+
+2-11. MEASUREMENT OF HORIZONTAL ANGLE BETWEEN TWO POINTS
+
+To measure the horizontal angle between two points, at least two measurements should
+be made.
+
+         a. Set the azimuth micrometer and the azimuth scale at zero.
+
+         b. Rotate the instrument using the orienting knob throw-out mechanism until the
+         vertical line of the telescope is about on the left edge of the left-hand object.
+
+         c. Lay the vertical line exactly on the right edge of the left-hand object by rotating
+         the orienting knob.
+
+         d. Using the throw-out mechanism (azimuth knob), turn the telescope clockwise
+         until the vertical line is about on the left edge of the right-hand object.
+
+         e. Lay the vertical line exactly on the left edge of the right-hand object by turning
+         the azimuth knob.
+
+         f. Read the horizontal angle on the scales and record the value to the nearest 0.5
+         mil. This completes the first repetition.
+
+         g. Rotate the aiming circle, using the lower motion, until the vertical cross line is
+         again on the rear station.
+
+Note: The value obtained from the first repetition is still on the scales.
+
+         h. Rotate the aiming circle body, using the upper motion, until the vertical cross
+         line is again on the forward station.
+
+         i. Read and record the accumulated value of the two measurements of the angle to
+         the nearest 0.5 mil. This completes the second repetition.
+
+         j. Divide the second reading by 2 to obtain the mean angle to the nearest 0.1 mil.
+         This mean angle must be within 0.5 mil of the first reading; if it is not, the
+         measurement is void and the angle is measured again.
+
+
+---
+
+2-12. ORIENTING OF THE 0-3200 LINE ON A GIVEN GRID AZIMUTH
+
+The procedure for orienting the 0-3200 line of the aiming circle on a given grid azimuth
+is illustrated below. In this example, the mounting azimuth is 5550 mils and the aiming
+circle is assumed to have a declination constant of 6380 mils.
+
+         a. Set up and level the aiming circle.
+
+         b. Subtract the announced mounting azimuth from the declination constant of the
+         aiming circle (adding 6400 to the declination constant of the aiming circle if the
+         mounting azimuth is larger). In this case, subtract the mounting azimuth 5550
+         from the declination constant 6380.
+
+                  Solution:
+
+Declination constant  6380 mils
+
+Announced mounting azimuth - 5550 mils
+
+Remainder             830 mils
+
+c. Set the remainder on the azimuth and micrometer scales of the aiming circle. In
+this case, the remainder is 830 mils (recording motion).
+
+d. Release the compass needle. Look through the window in the cover housing
+and rotate the instrument until the needle floats freely using the orienting knob
+throw-out mechanism. For fine adjustments, use orienting knobs until the
+magnetic needle is exactly centered on the etched marks on the magnifier. Relock
+the compass needle to orient the 0-3200 line of the aiming circle on the mounting
+azimuth; in this case, grid azimuth of 5550 mils (Figure 2-8).
+
+
+---
+
+            Figure 2-8. Aiming circle oriented in desired direction of fire.
+
+         e. Once the aiming circle is oriented, do not disturb the lower motion of the
+         aiming circle.
+
+2-13. ORIENTING OF THE 0-3200 LINE ON A GIVEN MAGNETIC AZIMUTH
+
+The procedure for orienting the 0-3200 line of the aiming circle on a given magnetic
+azimuth is as follows:
+
+         a. Subtract the announced magnetic azimuth from 6400.
+
+         b. Set the remainder on the azimuth and micrometer scales of the aiming circle.
+
+         c. Release the compass needle and rotate the orienting knob until the magnetic
+         needle is exactly centered in the magnetic needle magnifier. Lock the compass
+         needle.
+
+         d. The 0-3200 line of the aiming circle is now oriented on a given magnetic
+         azimuth.
+
+2-14. VERIFYING THE LAY OF THE PLATOON
+
+
+---
+
+After the platoon is laid, the platoon leader verifies the lay by using another M2 aiming
+circle, which is referred to as the safety circle.
+
+         a. The platoon leader or designated safety officer sets up and orients an M2
+         aiming circle by using the method that was used with the lay circle (Figure 2-9).
+         The aiming circle must be located where it can be seen by all mortars and should
+         not be closer than 10 meters to the lay circle.
+
+                 Figure 2-9. Method used to orient an M2 aiming circle.
+         b. After picking up a line of sight on the lay circle, the safety circle operator
+         commands, LAY CIRCLE REFER, AIMING POINT THIS INSTRUMENT. The
+         lay circle operator sights his instrument onto the safety circle by use of the
+         recording motion.
+         c. When the aiming circle is used to orient another aiming circle for direction, the
+         reading between the two circles will be 3200 mils apart, because both circles
+         measure horizontal clockwise angles from the line of fire. To prevent confusion,
+         remember that if you see red, read red. One half of the aiming circle azimuth scale
+         has a second red scale that goes in the opposite direction of the black scale.
+         d. There should be no more than 10 mils difference between the circles.
+         e. If the lay circle and the safety circle deflection are within the 10-mil tolerance,
+         the instrument operator on the safety circle places the deflection reading by the
+         lay circle on the upper motion of the safety circle. With the lower motion, the
+         instrument sights back on the lay circle. This serves to align the 0-3200 line of the
+         safety circle parallel to the 0-3200 line of the lay circle.
+
+
+---
+
+         f. The instrument operator on the safety circle commands, PLATOON, REFER
+         AIMING POINT THIS INSTRUMENT. All gunners refer and announce the
+         deflection to the safety circle. If the deflection referred by the mortar is within 10
+         mils, the operator on the safety circle announces that the mortar is safe. Once the
+         mortars are safe, the operator announces, "The platoon is safe."
+
+         g. The platoon leader walks the gun line and visually checks the guns to ensure
+         they are parallel. An M2 compass should also be used to ensure the guns are on
+         the azimuth of fire.
+
+2-15. ORIENTING BY ORIENTING ANGLE
+
+Orienting by orienting angle eliminates magnetic errors that result from the use of the
+magnetic needle of the aiming circle.
+
+         a. An orienting angle is the horizontal clockwise angle from the mounting
+         azimuth to the orienting line, the vertex being at the orienting station. It is a line
+         of known direction established on the ground near the firing section which serves
+         as a basis for laying for direction. This line is established by a survey team.
+
+         b. The instrument operator sets the aiming circle over the orienting station and
+         levels it. He places the orienting angle on the azimuth scale. He then sights on the
+         far end of the orienting line, using the lower motion. The magnetic needle is not
+         used to orient the aiming circle. This eliminates any magnetic error that may exist
+         in the instrument. The orienting knob cover is closed.
+
+         c. The 0-3200 line of the aiming circle is now oriented parallel to the mounting
+         azimuth. Example azimuth of orienting line is 3200 mils. The azimuth on which
+         the section leader wishes to lay the section is 1600 mils. The orienting angle is
+         1600 mils (Figure 2-10).
+
+Azimuth of orienting line 3200 mils
+
+Minus mounting azimuth 1600 mils
+
+Orienting angle  - 1600 mils
+
+
+---
+
+                         Figure 2-10. Orienting by orienting angle.
+
+The aiming circle is set up over the orienting station by use of the plumb bob. The upper
+motion is used to set off 1600 mils on the aiming circle. The section leader sights on the
+end of the orienting line using the lower motion. The 0-3200 line of the aiming circle is
+now oriented.
+
+2-16. DISASSEMBLY OF AIMING CIRCLE
+
+Instructions for disassembling the aiming circle are located inside the circle cover.
+
+2-17. CARE AND MAINTENANCE
+
+The aiming circle cannot withstand rough handling or abuse. Proper care prolongs its life
+and ensures better results for the user. Inaccuracies or malfunctions result from
+mistreatment. The following precautions must be observed:
+
+         a. Since stops are provided on instruments to limit the travel of the moving parts,
+         do not attempt to force the rotation of any knob beyond its stop limit.
+
+         b. Keep the instrument as clean and dry as possible. If the aiming circle is wet,
+         dry it carefully.
+
+
+---
+
+         c. When not in use, keep the equipment covered and protected from dust and
+         moisture.
+
+         d. Do not point the telescope directly at the sun unless a filter is used; the heat of
+         the focused rays can damage optical elements.
+
+         e. Keep all exposed surfaces clean and dry to prevent corrosion and etching of the
+         optical elements.
+
+         f. To prevent excessive wear of threads and other damage to the instrument, do
+         not tighten leveling, adjusting, and clamping screws beyond a snug contact.
+
+Note: Only maintenance personnel are authorized to lubricate the aiming circle.
+
+                                      Section III. SIGHTUNITS
+
+The M53-series and M64-series sightunits are the standard sighting devices used with the
+mortars. The sightunits are used to lay the mortar for elevation and deflection.
+
+2-18. SIGHTUNIT, M53-SERIES
+
+The sightunit, M53-series, consists of an M128 telescope mount and an M109 elbow
+telescope fastened together in one unit for operation (Figure 2-11). The elbow telescope
+provides magnification and a line of sight from which the weapon is aimed. The
+telescope mount secures the telescope in the correct position with respect to weapon
+azimuth and elevation axis).
+
+
+---
+
+                          Figure 2-11. Sightunit, M53.
+
+a. Elbow Telescope, M109. The elbow telescope (Figure 2-12) is a lightweight,
+4-power, fixed-focus instrument with a 10-degree field of view that provides the
+optical line of sight for aiming the weapon in azimuth and elevation planes.
+
+
+---
+
+ Figure 2-12. Sightunit with elbow telescope, M109.
+
+(1) The telescope incorporates a cross- or lined-mil scale reticle that can
+be illuminated for night operations. The reticle pattern consists of two
+center lines at right angles to each other. Both center lines are graduated
+every 5 mils from 5 to 85 and are numbered every 10 mils in all four
+quadrants on both center lines.
+
+(2) The telescope can be used in three positions: with the eyepiece to the
+left, right, or up. The eyepiece provides maximum comfort to the user. A
+telescope locking clamp permits the elbow telescope to be moved to any
+of the three positions and locked in these positions by the locking clamp.
+Indexes on the telescope and support indicate the horizontal and vertical
+positions of the center lines on the reticle when boresighted and the
+plumbed positions of the center lines. If the indexes are not lined up, the
+image is tilted.
+
+
+---
+
+         (3) An angle-of-site mechanism, controlled by an angle-of-site knob,
+         moves the telescope in a vertical plane.
+
+b. Telescope Mount, M128. The telescope mount consists of three main parts:
+lower, center, and upper. The lower part contains a locking lever hatch, elevation
+micrometer knob with scales, and elevation locking knob. The center part
+contains a bushing for vertical axis, deflection micrometer knob and deflection
+locking knob, stationary and slip scales, and a pair of level vials. The upper part
+consists of a common horizontal axis. The telescope support is fitted with an open
+sight, light projection unit, and angle-of-sight knob with scales.
+
+         (1) Lower part. A dovetail located on the right side of the mount fits into
+         the sight socket on the sight mount assembly to secure the sightunit to the
+         weapon.
+
+                  (a) A dual-purpose locking device in the lower section of the
+                  mount locks the dovetail of the sightunit into the sight socket of the
+                  sight mount assembly. The locking device is also used to unlock
+                  the connection between the dovetail parts for disassembly.
+
+                  (b) A semicircular, course elevation scale on the left side has 18
+                  graduations, each graduation representing 100 mils. The
+                  graduations are numbered every 200 mils, from minus 2 through 0
+                  to 16. Negative (red) readings are for depression; positive (black)
+                  readings are for elevation settings. A reference index is inscribed
+                  on the lower part of the casting. The scale settings can be adjusted
+                  by loosening the two attaching screws, slipping the scale, and
+                  tightening the screws.
+
+                  (c) The elevation knob elevates or depresses the line of sight and is
+                  fitted with a crank handle for large changes. Secured to the
+                  elevation knob is an adjustable micrometer scale consisting of
+                  positive and negative readings, numbered in black for elevation
+                  and red for depression. The scale has 100 graduations, each
+                  representing 1 mil, and is numbered every 10 mils from 0 to 90. A
+                  reference index is inscribed on the main casting. To release the
+                  scale for slipping, two screws at the front of the elevation knob
+                  must be loosened. A device controlled by a locking knob prevents
+                  the elevation knob from rotating during firing.
+
+         (2) Center part. The fixed deflection scale is a nonslip scale of 64 red
+         graduations, with each 400 mils numbered in red from 0 to 60. The scale
+         rotates with the upper part of the telescope mount when the deflection
+         knob is turned.
+
+
+---
+
+                            (a) The deflection knob is fitted with a crank for large changes.
+                            The index for the scale is on a stationary bracket which is bolted to
+                            the main casting. The deflection micrometer scale consists of 100
+                            red graduations numbered from 0 to 90 in increments of 10 mils.
+                            This scale is fastened to the deflection knob. To slip the
+                            micrometer scale, two screws at the front of the deflection knob
+                            must be loosened. The scale is pushed toward the sightunit and
+                            rotated to the desired setting.
+
+                            (b) The coarse deflection slip scale is a large circular scale retained
+                            in place by friction and located adjacent to the fixed deflection
+                            scale. The slip scale has 64 black graduations numbered every 200
+                            mils. The index for the scale is engraved on the main casting. The
+                            coarse deflection setting can be changed by depressing the scale
+                            and turning.
+
+                            (c) The adjustable micrometer deflection slip scale, also located on
+                            the deflection knob, has 100 black graduations numbered from 0 to
+                            90 in increments of 10 mils. The scale is retained in place by
+                            friction. The scale is fitted with an index attached to the main
+                            housing.
+
+                            (d) Two level vials, located 90 degrees apart on the main housing,
+                            are used for leveling the sightunit. Both vials have rotating metal
+                            covers to protect them from damage.
+
+                  (3) Upper part. The telescope support is equipped with an open sight,
+                  clamping mechanism, and mechanism for adjusting the angle-of-sight
+                  reading change.
+
+2-19. OPERATION OF M53 SIGHTUNIT
+
+Operation of the M53 sightunit is described herein.
+
+         a. Attaching the Sightunit. Insert the dovetail of the telescope mount into the
+         sight socket. Press the locking lever inward, seat the mount firmly, and release the
+         locking lever.
+
+Note: Until the baseplate is firmly seated, remove the sight from the mortar before
+         firing each round.
+
+         b. Placing Sightunit Into Operation. Place the sightunit into operation as
+         follows:
+
+                  (1) Setting for deflection.
+
+
+---
+
+                            (a) To place a deflection setting on the sight, turn the deflection
+                            knob. This turns the elbow telescope, the coarse deflection scales,
+                            and the deflection micrometer scales. Before attempting to place a
+                            deflection setting on the sightunit, ensure that the deflection
+                            locking knob is released. After placing a setting on the sight, lock
+                            the locking knob to lock the data onto the sight and to ensure that
+                            the scale does not slip during firing.
+
+                            (b) When setting the deflection, it is necessary to use the red fixed
+                            coarse scale and the red fixed micrometer scale to obtain the
+                            desired setting. Set the first two digits of the deflection on the
+                            coarse scale and the last two on the micrometer scale.
+
+Note : The black coarse scale and the black micrometer scale are slip scales.
+
+                            (c) Setting a deflection on the deflection scale does not change the
+                            direction in which the barrel is pointing (the lay of the mortar). It
+                            only moves the vertical line off (to the left or right) the aiming line.
+                            The deflection placed on the sight is the deflection announced in
+                            the fire command. Place a deflection on the sight before elevation.
+
+                  (2) Setting the elevation.
+
+                            (a) To set for elevation, turn the elevation knob. This operates both
+                            the elevation micrometer and coarse elevation scales. Both scales
+                            must be set properly to obtain the desired elevation. For example,
+                            to place elevation 1065 mils on the M53 sightunit, turn the
+                            elevation knob until the fixed index opposite the moving coarse
+                            elevation scale is between the black 1000- and 1100-mil
+                            graduations on the scale (the graduations are numbered every 200
+                            mils, from minus 2 through 0 to 16), and the 65-mil mark on the
+                            elevation micrometer is opposite the fixed index. When making
+                            elevation settings, remember that the black numbers are for
+                            elevation and the red numbers are for depression.
+
+                            (b) Setting an elevation on the elevation scale does not change the
+                            elevation of the mortar barrel. The elevation to be placed on the
+                            sight is announced in the fire command.
+
+                            (c) Before setting elevations on the sight, unlock the elevation
+                            locking knob. Once the elevation is placed on the sight, lock the
+                            elevation locking knob. This ensures the data placed on the sight
+                            do not accidentally change.
+
+
+---
+
+         c. Replacing th e sightunit in the carrying case. Before returning the sightunit to
+         the carrying case, close the covers on the level vials and set an elevation of 800
+         mils and deflection of 3800 mils on the scales. Place the elbow telescope in the
+         left horizontal position. All crank handles should be folded into the inoperative
+         position. The M53 instrument light is stored in the same case with the rheostat
+         knob down.
+
+2-20. CARE AND MAINTENANCE OF M53 SIGHTUNIT
+
+Although the M53-series sightunits are rugged, if abused or handled roughly, the unit
+could be inaccurate or malfunction.
+
+         a. Avoid striking or otherwise damaging any part of the sight. Be particularly
+         careful not to burr or dent the dovetail bracket. Avoid bumping the micrometer
+         knobs, telescope adapter, and level vials. Except when using the sight, keep the
+         metal vial covers closed.
+
+         b. Keep the sight in the carrying case when not in use. Keep it as dry as possible,
+         and do not place it in the carrying case while it is damp.
+
+         c. When the sight fails to function correctly, return it to the DS maintenance unit
+         for repair. Members of the mortar crew are not authorized to disassemble the
+         sight.
+
+         d. Keep the optical parts of the telescope clean and dry. Remove dust from the
+         lens with a clean camel’s-hair brush. Use only lens cleaning tissue to wipe these
+         parts. Do not use ordinary polishing liquids, pastes, or abrasives on optical parts.
+         Use only authorized lens cleaning compound for removing grease or oil from the
+         lens.
+
+         e. Occasionally oil only the sight locking devices by using a small quantity of
+         light preservative lubricating oil. To prevent accumulation of dust and grit, wipe
+         off excess lubricant that seeps from moving parts. Ensure that no oil gets on the
+         deflection and elevation scales. (Oil removes the paint from the deflection scale.)
+         No maintenance is authorized.
+
+2-21. SIGHTUNIT, M64-SERIES
+
+The sightunit (Figure 2-13) is the device on which the gunner sets deflection and
+elevation to hit targets by using the elevation level vial and the cross-level vial. After the
+sight has been set for deflection and elevation, the mortar is elevated or depressed until
+the elevation bubble on the sight is level. The mortar is then traversed until a proper sight
+picture is seen (using the aiming posts as the aiming point) and cross-level bubble is
+level. The mortar is laid for deflection and elevation when all bubbles are level. After the
+ammunition has been prepared, it is ready to be fired.
+
+
+---
+
+                     Figure 2-13. Sightunit, M64-series.
+
+a. Major Components. The two major components are the elbow telescope and
+sight mount. The elbow telescope has an illuminated cross line. The sight mount
+has a dovetail, locking knobs, control knobs, scales, cranks, and locking latch.
+
+         (1) Dovetail. The dovetail is compatible with standard US mortars. When
+         the dovetail is properly seated in the dovetail slot, the locking latch clicks.
+         The locking latch is pushed toward the barrel to release the sight from the
+         dovetail slot for removal.
+
+         (2) Locking knobs. The red locking knobs lock the deflection and elevation
+         mechanisms of the sight during firing.
+
+         (3) Micrometer knobs. The elevation and deflection micrometer knobs are
+         large for easy handling. Each knob has a crank for large deflection and
+         elevation changes.
+
+
+---
+
+         (4) Scales. All scales can be adjusted to any position. Micrometer scales
+         are white. The elevation micrometer scale and fixed boresight references
+         (red lines) above the coarse deflection scale and adjacent to the
+         micrometer deflection scale are slipped by loosening slot-headed screws.
+         Coarse deflection scales and micrometer deflection scales are slipped by
+         depressing and rotating. The coarse elevation scale is factory set and
+         should not be adjusted at crew level. (If the index does not align with the
+         coarse elevation scale within ±20 mils when boresighting at 800 mils, DS-
+         level maintenance should be notified.) The screws that maintain the coarse
+         elevation scale are held in place with locking compound. If the screws are
+         loosened and then tightened without reapplying the locking compound, the
+         coarse elevation scale can shift during firing.
+
+b. Illumination. Instrument lights are not needed when using the sightunit at
+night. Nine parts of the sight are illuminated by tritium gas.
+
+    • Telescope.
+    • Coarse elevation scale.
+    • Coarse elevation index arrow.
+    • Elevation vial.
+    • Fine elevation scale.
+    • Coarse deflection index arrow.
+    • Cross-leveling vial.
+    • Fine deflection scale.
+    • Coarse deflection scale.
+
+c. Tabulated Data. The tabulated data of the M64-series sightunit are as follows:
+
+Weight: 2.5 pounds (2.2 kilograms).
+Field of view: 17 degrees (302 mils).
+Magnification: 1.5 unity power.
+Length: 4 3/8 inches (11 centimeters).
+Width: 4 3/4 inches (12 centimeters).
+Height: 7 3/8 inches (19 centimeters).
+Light source: Self-contained, radioactive tritium gas (H3).
+
+                                       CAUTION
+            When not in use, store the sightunit in its carrying case.
+
+d. Safety Precautions. The radioactive material used in the sightunit for
+illumination during night operations is tritium gas (H3), which is sealed in glass
+tubes. The gas is not hazardous when intact. If there is no illumination, the RPO
+or NBC officer should be notified.
+
+
+---
+
+                                                WARNING
+              Do not try to repair or replace the radioactive material. If
+              skin contact is made with tritium, wash the area immediately
+              with nonabrasive soap and water.
+
+                  (1) Identification. Radioactive self-luminous sources are identified by
+                  means of warning labels (Figure 2-14), which should not be defaced or
+                  removed. If necessary, they must be replaced immediately.
+
+                     Figure 2-14. Warning label for tritium gas (H3).
+                  (2) Storage and shipping. All radioactively illuminated instruments or
+                  modules that are defective must be evacuated to a depot maintenance
+                  activity. Defective items must be placed in a plastic bag and packed in the
+                  shipping container from which the replacement was taken. Spare
+                  equipment must be stored in the shipping container as received until
+                  installed on the weapon. Such items should be stored in an outdoor shed or
+                  unoccupied building.
+
+Note : For information on first aid, see FM 21-11.
+
+2-22. SIGHTUNIT, M67
+The M67 sightunit (Figure 2-15) is used to lay the M120/M121 mortar for deflection and
+elevation. Lighting for night operations using the sightunit is provided by radioactive
+tritium gas contained in phosphor-coated glass vials. The sightunit is lightweight and
+portable. It is attached to the bipod mount by means of a dovetail. Coarse elevation and
+deflection scales and fine elevation and deflection scales are used in conjunction with
+elevation and deflection knob assemblies to sight the mortar system.
+
+
+---
+
+                           Figure 2-15. M67 sightunit.
+
+a. Major Components. The M67 sightunit consists of two major components: the
+elbow telescope and the telescope mount.
+
+         (1) Elbow telescope. T he elbow telescope is 4.0-power, hermetically
+         sealed with a tritium illuminated crosshair reticle.
+
+         (2) Telescope mount. The telescope mount, provided with tritium back-
+         lighted level vials, indexes, and translucent plastic scales, is used to orient
+         the elbow telescope in azimuth and elevation.
+
+                           CAUTION
+When not in use, store the sightunit in its carrying case.
+
+b. Equipment Data. The equipment data for the M67 sightunit are as follows:
+
+Field of view  10 degrees
+Magnification
+               4.0 X nominal
+               3.5 effective
+
+
+---
+
+Dimensions    4 3/8 x 5 3/8 x 8 1/2 inches
+              (11.1 x 13.7 x 21.6 centimeters)
+
+Illumination  Self-illuminated
+              6 to 8 years service life
+
+Weight        2.9 pounds (1.3 kilograms)
+
+Radioactive material 5.79 curies of tritium
+
+c. Safety Precautions. The radioactive material used in the sightunit for
+illumination during night operations is tritium gas (H3), which is sealed in glass
+tubes. The gas is not hazardous as long as the glass tubes are intact. If there is no
+illumination, the RPO or NBC officer should be notified. Radioactive self-
+luminous sources are identified by means of warning labels (Figure 2-14), which
+should not be defaced or removed. These warning labels should be replaced as
+necessary.
+
+                                 WARNING
+
+Do not try to repair or replace the radioactive material. If
+skin contact is made with tritium, wash the area immediately
+with nonabrasive soap and water.
+
+                                     Section IV. BORESIGHTS
+
+Boresights are adjusted by the manufacturer and should not require readjustment as a
+result of normal field handling.
+
+2-23. BORESIGHT, M45-SERIES
+
+The boresight, M45-series, detects deflection and elevation errors in the sight.
+
+         a. Components. The boresight, M45, (Figure 2-16) consists of an elbow
+         telescope, telescope clamp, body, two strap assemblies, and clamp assembly.
+
+
+---
+
+                          Figure 2-16. Boresight, M45.
+
+         (1) The elbow telescope establishes a definite line of sight.
+
+         (2) The telescope clamp maintains that line of sight in the plane
+         established by the centerline of the V-slides.
+
+         (3) The body incorporates two perpendicular V-slides. It contains level
+         vials (preset at 800 mils elevation) that are used to determine the angle of
+         elevation of 800 mils and whether the V-slides are in perpendicular
+         positions. It also provides the hardware to which the straps are attached.
+
+         (4) Two strap assemblies are supplied with each boresight and marked for
+         cutting in the field to the size required for any mortar.
+
+         (5) The clamp assembly applies tension to the strap assemblies to secure
+         the boresight against the mortar barrel.
+
+b. Tabulated Data. The tabulated data of the M45-series boresight are as follows:
+
+Weight:  2.5 pounds
+
+
+---
+
+                  Field of View: 12 degrees
+                  Magnification: 3 power
+2-24. BORESIGHT, M115
+The boresight, M115, (Figure 2-17) detects deflection and elevation errors in the sight.
+The boresight has three plungers that keep it in place when mounted in the muzzle of the
+barrel. The telescope has the same field of view and magnification as the M64-series
+sightunit. The elevation bubble levels only at 0800 mils.
+
+                                  Figure 2-17. Boresight, M115.
+         a. Second Cross-level Bubble. A second cross-level bubble is used as a self-
+         check of the M115. After leveling and cross-leveling, the M115 can be rotated
+         180 degrees in the muzzle until the second cross-level bubble is centered. The
+
+
+---
+
+image of the boresight target should not vary in deflection. A large deviation
+indicates misalignment between the cross-level bubble and lenses.
+
+b. Components. The components of the M115 boresight are the body, telescope,
+and leveling bubbles (one for cross-leveling and one for elevation).
+
+c. Tabulated Data. The tabulated data of the M115 boresight are as follows:
+
+Weight:  5 ounces
+
+Field of view: 17 degrees
+
+Magnification: 1.5 power
+
+2-25. PRINCIPLES OF OPERATION
+
+The boresight is constructed so that the telescope line of sight lies in the plane established
+by the center lines of the V-slides. When properly secured to a mortar barrel, the
+centerline of the contacting V-slide is parallel to the centerline of the barrel. Further, the
+cross-level vial, when centered, indicates that the center lines of both slides, the elbow
+telescope, and the barrel lie in the same vertical plane. Therefore, the line of sight of the
+telescope coincides with the axis of the barrel, regardless of which V-slide of the
+boresight is contacting the barrel. The elevation vial is constructed with a fixed elevation
+of 800 mils.
+
+2-26. INSTALLATION
+
+Installation procedures for the M45 boresight are described herein.
+
+         a. Remove the boresight, clamp assembly, and straps from the carrying case.
+         Grasp the boresight by the body to prevent damaging the telescope.
+
+         b. Place the ring over the hook and attach the strap snap to the eye provided on the
+         strap shaft.
+
+         c. If necessary, release the catches and reset the straps to the proper length.
+
+         d. Remove any burrs or projecting imperfections from the seating area of the
+         mortar barrel to ensure proper seating of the boresight. Attach the boresight to the
+         barrel below and touching the upper stop band on the M252 mortar. However,
+         attach the boresight about 1 inch from the muzzle of the barrel on all other
+         mortars.
+
+Note : For further information, see TM 9-1240-278-12.
+
+2-27. SIGHT CALIBRATION
+
+
+---
+
+Always calibrate the mortar sight to the mortar on which it is to be mounted. This
+procedure is necessary since the sight socket that receives the sightunit is a machined part
+and varies in accuracy with each mortar. There is no set rule for frequency of calibration.
+The sight should be calibrated each time the mortar is mounted in a new location, since
+the movement might disturb the setting of the elevation and deflection scales. Time
+available and accuracy dictate the frequency of calibration.
+
+2-28. BORESIGHT METHOD OF CALIBRATION
+
+Once the mortar has been mounted, place the M53-, M64-, or M67-series sightunit into
+position in the sight socket. Using the M53- (fixed deflection [red] scale), the M64-, or
+the M67-series sightunit, place a deflection of 3200 mils and an elevation of 0800 mils on
+the scales. For the M252 mortar, place a deflection of 0 mils on the sight. Align the
+vertical cross line of the sight on an aiming point (at least 200 meters distant) by shifting
+the bridge assembly or bipod. If necessary use the traversing mechanism; however, keep
+the mortar within two turns of center of traverse (four turns of center of traverse for the
+120-mm mortar). Make a visual check of the mortar for cant; if cant exists, remove this
+cant and re-lay, if necessary.
+
+Note: For a detailed discussion of the boresight method of calibration, see applicable
+         TM.
+
+         a. Elevation Setting.
+
+                  (1) Install the boresight on the mortar barrel. Center the cross-level vial by
+                  rotating the boresight slightly around the outside diameter of the mortar
+                  barrel. Slight movements are made by loosening the clamp screw and
+                  lightly tapping the boresight body. When the bubble centers, tighten the
+                  clamp screw.
+
+                  (2) Elevate or depress the mortar barrel until the boresight elevation level
+                  vial is centered. The mortar is now set at 800 mils (45 degrees) elevation.
+
+                  (3) Using the elevation micrometer knob, elevate or lower the sightunit
+                  until the elevation level bubble is centered. If necessary, cross-level the
+                  sightunit.
+
+                  (4) Recheck all level bubbles.
+
+                  (5) The reading on the coarse elevation scale of the sightunit should be
+                  800 mils and the reading on the elevation micrometer scale should be 0. If
+                  adjustment is necessary, proceed as indicated below.
+
+                            (a) Loosen the two screws that secure the coarse elevation scale
+                            and slip the scale (for the M53-series sightunit only) until the 800-
+
+
+---
+
+                            mil mark on the scale coincides with the reference mark on the
+                            housing. Tighten the two screws to secure the scales.
+
+Note : Do not adjust the M64-series sightunit coarse elevation scale. If it does not line
+         up with the 0800-mil mark, turn it in to DS maintenance.
+
+                            (b) Loosen the two screws on the elevation micrometer knob and
+                            slip the elevation micrometer scale until the 0 mark on the
+                            micrometer scale coincides with the reference mark on the
+                            housing. Tighten the two screws to secure the micrometer scale.
+
+                  (6) Recheck all level bubbles.
+
+         b. Deflection Setting.
+
+                  (1) Check again to ensure that the sight setting reads 3200 on the fixed
+                  deflection (red) scale and elevation 800 mils. Set zero deflection for the
+                  M252 mortar.
+
+                  (2) Traverse the mortar no more than two turns of center of traverse (four
+                  turns for the 120-mm mortar) and align the vertical cross line of the
+                  boresight on the original aiming point. Adjust the boresight to keep the
+                  cross-level bubble centered since the mortar could cant during traversing.
+                  (If the mortar is initially mounted on the aiming point, it decreases the
+                  amount of traverse needed to align the cross line on the aiming point.)
+                  Also, the elevation level bubble may need to be leveled.
+
+                  (3) After the boresight is aligned on the aiming point, level the sight by
+                  centering the cross-level bubble. Rotate the deflection micrometer knob
+                  until the sight is aligned on the aiming point. The coarse deflection scale
+                  should read 3200 mils and the micrometer scales should read 0. If
+                  adjustment is necessary, loosen the two screws on the deflection
+                  micrometer knob and slip the micrometer deflection scale until the arrow
+                  on the index is aligned with the zero mark on the micrometer scale.
+
+                  (4) To ensure proper alignment, remove and place the boresight in position
+                  underneath the barrel as shown in Figure 2-18. Center the boresight cross-
+                  level bubble and check the vertical cross line to see if it is still on the
+                  aiming point. If cant exists, the vertical cross line of the boresight is not on
+                  the aiming point. This indicates that the true axis of the bore lies halfway
+                  between the aiming point and where the boresight is now pointing.
+
+
+---
+
+Figure 2-18. Checking for proper alignment with the boresight device.
+
+            (5) To correct this error, look through the boresight, traverse the mortar
+            onto the aiming point. If bubbles are level, use the deflection micrometer
+            knob and place the vertical cross line of the sight back onto the aiming
+            point. With the sight in this position, index one-half of the mil variation
+            between the sight and boresight. Slip zero on the micrometer scale to the
+            index mark--for example, the mil variation is 10 mils and one-half of this
+            value is 5 mils. Loosen the two screws on the deflection micrometer and
+            index zero.
+
+            (6) Check all level bubbles, sightunit, and boresight.
+
+            (7) With a deflection on the micrometer scale of half the value of the
+            original mil variation, both the sightunit and boresight are on the aiming
+            point. If an error exists, repeat the procedure outlined above.
+
+            (8) Using the M64-series sightunit, adjust the deflection scale and
+            micrometer scale of the sightunit to zero. To do this, loosen the deflection
+            knob screws and slip the scale to zero. Adjust the deflection micrometer
+            scale to zero by pushing in on the micrometer knob retaining button and
+            slipping the scale to zero.
+
+            (9) Check again all level bubbles, and the lay of the sightunit and the
+            boresight on the aiming point.
+
+
+---
+
+Note: The M53-series sightunit should be received from the manufacturer with the red
+         deflection scale calibrated on 3200. If it is not, turn the sightunit in to DS
+         maintenance for calibration.
+         c. Removal.
+                  (1) Loosen the clamp screw, releasing the boresight from the barrel.
+                  (2) Swing the elbow telescope until it is about parallel with the elevation
+                  level bubble.
+                  (3) Release the clamp assembly and straps by removing the ring from the
+                  hook and strap shaft.
+                  (4) Stow the clamp assembly and straps in the corner compartment. Put
+                  the boresight in the center compartment of the carrying case.
+
+2-29. CALIBRATION FOR DEFLECTION USING THE M2 AIMING CIRCLE
+Two methods can be used to calibrate the sight for deflection using the M2 aiming circle:
+the angle method (Figure 2-19) and the distant aiming point method (Figure 2-20).
+
+          Figure 2-19. Calibration for deflection using the angle method.
+
+
+---
+
+Figure 2-20. Calibration for deflection using the distant aiming point method.
+
+         a. Calibration for Deflection Using the Angle Method.
+
+                  (1) Set up the aiming circle 25 meters to the rear of the mounted mortar.
+                  (The mortar is mounted at 800 mils elevation.)
+
+                  (2) With the aiming circle fine leveled, index 0 on the azimuth scale and
+                  azimuth micrometer scale. Using the orienting motion (nonrecording
+                  motion) align the vertical line of the reticle of the telescope so that it
+                  bisects the baseplate.
+
+                  (3) Traverse and cross-level the mortar until the center axis of the barrel
+                  from the baseplate to the muzzle is aligned with the vertical line of the
+                  aiming circle telescope reticle.
+
+                  (4) Turn the deflection knob of the sight until the vertical line is centered
+                  on the lens of the aiming circle and read angle A, opposite the fixed index.
+
+                  (5) Turn the azimuth micrometer knob of the aiming circle until the
+                  vertical line of the telescope is laid on the center of the sight lens and read
+                  angle B, opposite the azimuth scale index. If the sight is in calibration,
+                  angles A and B will be equal. If they are not equal the sight is adjusted by
+                  loosening the two screws in the face of the deflection knob of the sight and
+                  slipping the micrometer deflection scale until the scale is indexed at the
+                  same reading as angle B of the aiming circle.
+
+         b. Calibration for Deflection Using the Aiming Point Method.
+
+                  (1) Set up the aiming circle and fine level. Align the vertical line of the
+                  telescope on a distant aiming point (a sharp, distinct object not less than
+                  200 meters in distance).
+
+                  (2) Move the mortar baseplate until the baseplate is bisected by the
+                  vertical line of the telescope of the aiming circle. Mount the mortar at an
+                  elevation of 800 mils. Traverse and cross-level the mortar until the axis of
+
+
+---
+
+                  the barrel from the baseplate to the muzzle is bisected by the vertical line
+                  of the aiming circle (the mortar should be mounted about 25 meters from
+                  the aiming circle).
+Note: Indexing the aiming circle at 0 is not necessary; only the vertical line is used to
+         align the mortar with the distant aiming point.
+                  (3) The aiming circle operator moves to the mortar and lays the vertical
+                  line of the sight on the same distant aiming point. If the sight is calibrated,
+                  the deflection scales of the sight are slipped to a reading of 3200.
+
+                                 Section V. OTHER EQUIPMENT
+Other equipment required to operate and employ mortars are discussed in this section.
+2-30. INSTRUMENT LIGHT, M53E1
+The instrument light (Figure 2-21) illuminates the reticle of the M109 elbow telescope
+and scales of the M128 telescope mount during night operations. This instrument light is
+the standard night light used with the 4.2-inch and 120-mm mortars.
+
+                             Figure 2-21. Instrument light, M53E1.
+         a. The light consists of mainly two flashlight batteries, battery case, rheostat knob,
+         and two separate light assemblies attached to a pair of flexible lead wires that
+         extend from one end of the battery case. Because the wires are coiled, the leads
+         can be extended from a normal length of 2 feet to about 6 feet.
+         b. One light assembly consists of a bracket assembly that can be screwed into the
+         lamp bracket holder for lighting the elbow telescope reticle. This light is turned
+         on/off by the rheostat knob. The knob is also used to increase or decrease the
+
+
+---
+
+intensity of the illumination. The second light assembly is a hand light that can be
+directed upon the telescope mount scales or the level vials as required. The on/off
+switch for this light is located on the hand light.
+c. To place the instrument light into operation (Figure 2-22), the cap is pressed
+inward at the end of the battery case and turned counterclockwise until free. Two
+BA-30 batteries are inserted terminal ends first. The cap is installed by turning
+clockwise until finger tight. Install the battery case of the light in the carrying case
+with the rheostat knob accessible. The carrying case is positioned so the lead
+wires reach the sightunit. The dust cover is removed from the lamp bracket holder
+of the M109 elbow telescope, and the protective cap is removed from the end of
+the light assembly lead. The end of the light assembly is threaded into the socket
+on the elbow telescope for illuminating the telescope reticle. The hand light is
+retained in the case until required for use. DO NOT ATTEMPT TO USE THE
+M53 LIGHT ON THE LIGHT PROJECTOR OF THE M53 SIGHT.
+
+              Figure 2-22. Installation of instrument light.
+d. The M166 carrying case is a lightweight, sturdy case with an isofoam bed that
+provides storage for the M53 sightunit and the M53 instrument light (Figure 2-
+23).
+
+
+---
+
+                               Figure 2-23. Carrying case, M166.
+
+2-31. AIMING POSTS, M14 and M1A2
+
+The M14 aiming posts (Figure 2-24) are used to establish an aiming point (reference line)
+when laying the mortar for deflection. They are made of aluminum tubing and have a
+pointed tip on one end. Aiming posts have red and white stripes so they can be easily
+seen through the sight. The M14 aiming post comes in a set of eight segments, plus a
+weighted stake for every 16 segments to be used as a driver in hard soil. The stake has a
+point on each end and, after emplacement, it can be mounted with an aiming post. The
+segments can be stacked from tip to tail, and they are carried in a specially designed case
+with a compartment for each segment. Four M1A2 aiming posts are provided with the
+mortar. They may be stacked end to end (two at most).
+
+
+---
+
+                         Figure 2-24. Aiming posts, M14 and M1A2.
+
+2-32. AIMING POST LIGHTS, M58 and M59
+
+Aiming post lights (Figure 2-25) are attached to the aiming posts so they can be seen at
+night through the sight. The near post must have a different color light than that of the far
+post. Aiming post lights come in sets of three--two green (M58) and one orange (M59).
+An extra third light is issued for the alternate aiming post. Each light has a clamp,
+tightened with a wing nut, for attachment to the aiming post. The light does not have a
+cover for protection when not in use and does not need batteries.
+
+
+---
+
+      Figure 2-25. Aiming post lights, M58 and M59.
+
+                                 WARNING
+
+Radioactive material (tritium gas [H3]) is used in the M58 and
+M59 aiming post lights. Radioactive leakage may occur if M58
+and M59 aiming post lights are broken or damaged. If
+exposed to a broken or damaged M58 or M59 aiming post
+light or if skin contact is made with any area contaminated
+with tritium, immediately wash with nonabrasive soap and
+water, and notify the local RPO.
+
+                               Section VI. LAYING THE SECTION
+
+When all mortars in the section are mounted, the section leader lays the section parallel
+on the prescribed azimuth with an aiming circle. The mortar section normally fires a
+parallel sheaf (Figure 2-26). To obtain this sheaf, it is necessary to lay the mortars
+parallel. When a section moves into a firing position, the FDC determines the azimuth on
+which the section is to be laid and notifies the platoon sergeant (section sergeant). Before
+laying the mortars parallel, the section leader must calibrate the mortar sights. All mortars
+are then laid parallel using the aiming circle, mortar sight, or compass. The section is
+normally laid parallel by following two steps:
+
+STEP  Establish the 0-3200 line of the aiming circle parallel to the mounting
+1:    azimuth.
+
+STEP  Lay the section parallel to the 0-3200 line of the aiming circle
+
+
+---
+
+2:  (reciprocal laying).
+
+                                    Figure 2-26. Parallel sheaf.
+
+2-33. RECIPROCAL LAYING
+
+Reciprocal laying is a procedure by which the 0-3200 line of one instrument (aiming
+circle) and the 0-3200 line of another instrument (sightunit) are laid parallel (Figure 2-
+27). When the 0-3200 lines of an aiming circle and the 0-3200 line of the sightunit are
+parallel, the barrel is parallel to both 0-3200 lines, if the sight has been properly
+calibrated. The principle of reciprocal laying is based on the geometric theorem that
+states if two parallel lines are cut by a transversal, the alternate interior angles are equal.
+The parallel lines are the 0-3200 lines of the instruments, and the transversal is the line of
+sight between the two instruments. The alternate interior angles are the equal deflections
+placed on the instruments
+
+
+---
+
+               Figure 2-27. Principles of reciprocal laying.
+
+a. Orient the aiming circle so that the 0-3200 line of the aiming circle is parallel to
+the mounting azimuth. The section leader announces to the mortar gunners (either
+by voice or visual signal), "Section, aiming point this instrument." The gunners
+turn their sights until the vertical cross line of the sight is sighted on the lens of
+the aiming circle and the mortar is level. The gunners announce (either by voice
+or visual signal), "Number (1, 2, and so on), aiming point identified." The section
+leader, using the upper motion, sights on the lens of the sightunit, reads the
+deflection on the azimuth micrometer scales, and announces the deflection to the
+gunner on the mortar. The gunner sets the deflection on the sightunit and causes
+
+
+---
+
+         the mortar to be moved until the vertical cross line of the sight is sighted on the
+         lens of the aiming circle and the mortar is level.
+
+         b. When the sight has been sighted on the aiming circle, the gunner reports,
+         "Ready for recheck." The platoon sergeant (section sergeant) again sights on the
+         lens of the sightunit, and reads and announces the deflection. This procedure is
+         repeated until the gunner reports a difference of ZERO (or ONE) MIL between
+         successive deflections. The mortar has then been laid.
+
+2-34. RECIPROCAL LAYING ON A GRID AZIMUTH
+
+T his paragraph discusses the commands and procedures used in reciprocal laying of the
+mortar section on a given grid azimuth.
+
+         a. The FDC normally directs the section to lay the mortar parallel on a mounting
+         (grid) azimuth.
+
+         b. The platoon sergeant (section sergeant) receives the command MOUNTING
+         AZIMUTH FIVE FIVE FIVE ZERO (5550 mils) from the FDC.
+
+                  (1) The mounting azimuth is 5550 mils, and the aiming circle has a
+                  declination constant of 450 mils.
+
+Declination constant                  450 mils
+                                   + 6400 mils
+Minus the mounting (grid) azimuth
+Remainder to set on aiming circle    6850 mils
+                                   - 5550 mils
+
+                                     1300 mils
+
+(2) The platoon sergeant (section sergeant) mounts and levels the aiming
+circle at a point from which he can observe the sights of all the mortars in
+the section (normally the left front or left rear of the section).
+
+(3) He places 1300 mils on the azimuth and micrometer scales of the
+aiming circle (recording motion).
+
+(4) Using the orienting knob, he centers the magnetic needle in the
+magnetic needle magnifier. This orients the 0-3200 line of the aiming
+circle in the desired direction (mounting azimuth 5550 mils).
+
+(5) The platoon sergeant (section sergeant) announces, "Section, aiming
+point this instrument."
+
+
+---
+
+  (6) All gunners refer their sights to the aiming circle with the vertical cross
+  line laid on the center of the aiming circle. The gunner then announces,
+  "Number two (one or three), aiming point identified."
+  (7) To lay the mortar barrel parallel to the 0-3200 line of the aiming circle
+  (Figure 2-28), the platoon sergeant (section sergeant) turns the upper
+  motion of the aiming circle until the vertical cross line is laid on the center
+  of the lens of the mortar sight. He reads the azimuth and micrometer scales
+  and announces the deflectionXfor example, "Number two, deflection one
+  nine nine eight (1998)."
+
+Figure 2-28. Mortar laid parallel with the aiming circle.
+
+
+---
+
+Note :  When the M53 sightunit is used, it is calibrated at 3200 mils on the red deflection
+        and micrometer scales. All readings from the aiming circle to the sight are placed
+        on the red deflection scale and the mortar is laid on the aiming circle using this
+        scale.
+
+        (8) The gunner repeats the announced deflection, "Number two, deflection
+        one nine nine eight," and places it on his sight. Assisted by the assistant
+        gunner, he lays the mortar so that the vertical line is once again laid on the
+        center of the aiming circle after the gunner announces, "Number two,
+        ready for recheck."
+
+        (9) Using the upper motion, the platoon sergeant (section sergeant) again
+        lays the vertical cross line of the aiming circle on the lens of the mortar
+        sight. He reads the new deflection from the azimuth and micrometer scales
+        and announces the reading--for example, "Number two, deflection two
+        zero zero zero."
+
+        (10) The gunner repeats the new deflection (Number two, deflection two
+        zero zero zero) and places it on his sight. Assisted by the assistant gunner,
+        he lays the mortar with the vertical cross line of the sight on the center of
+        the aiming circle and announces, "Number two, ready for recheck."
+
+        (11) The above procedure is repeated until the mortar sight and aiming
+        circle are sighted on each other with a difference of not more than ONE
+        mil between the deflection readings. When so laid, the gunner announces,
+        "Number two (one or three), zero mils (one mil), mortar laid." The mortar
+        barrel is now laid parallel to the 0-3200 line of the aiming circle.
+
+        (12) The platoon sergeant (section sergeant) uses the same procedure to
+        lay each of the other mortars in the section parallel. When all mortars are
+        parallel to the 0-3200 line of the aiming circle, they are parallel to each
+        other and laid in the desired azimuth (Figure 2-29).
+
+
+---
+
+        Figure 2-29. Mortars laid parallel in the desired azimuth.
+
+Note :  The section can be laid parallel by laying all mortars at the same time. The
+        instrument operator reads deflections to each of the mortars in turn. As soon as
+        the gunner of any mortar announces, "Ready for recheck," the instrument
+        operator reads the new deflection to that mortar. By laying all mortars at the same
+        time, the section is quickly ready to fire.
+
+        (13) As soon as each mortar is laid, the platoon sergeant (section sergeant)
+        commands DEFLECTION TWO EIGHT ZERO ZERO (2800), REFER,
+        PLACE OUT AIMING POSTS. (The aiming posts are normally placed
+        out on a referred deflection of 2800 mils.) The gunner, without disturbing
+        the lay of the mortar, places the announced deflection on his sight and
+        aligns the aiming posts with the vertical line of the mortar sight. He then
+        announces, "Up."
+
+
+---
+
+                  (14) When all mortar gunners announce, "Up," the instrument operator
+                  covers the head of the aiming circle, but leaves the instrument in position
+                  to permit a rapid recheck of any mortar, if necessary.
+
+2-35. RECIPROCAL LAYING ON A MAGNETIC AZIMUTH
+
+Although the section is normally laid parallel on a grid azimuth, it can be laid parallel on
+a magnetic azimuth by subtracting the magnetic mounting azimuth from 6400 mils and
+by setting the remainder on the azimuth and micrometer scales of the aiming circle. The
+section leader orients the instrument and lays the section.
+
+2-36. RECIPROCAL LAYING USING THE ORIENTING ANGLE
+
+The mortars of each section can be laid parallel more accurately if the instrument
+operator lays the section parallel by using the orienting angle. He sets up and levels the
+aiming circle; orients the aiming circle, and lays the section.
+
+2-37. RECIPROCAL LAYING USING THE MORTAR SIGHTS
+
+The mortar section can be laid parallel by using the mortar sights. For this method, it is
+best to have the mortars positioned so that all sights are visible from the base mortar. The
+base mortar (normally No. 2) is laid in the desired direction of fire by compass or by
+registration on a known point. After the base mortar is laid for direction, the remaining
+mortars are laid parallel to the base mortar as follows:
+
+         a. The platoon sergeant (section sergeant) moves to the mortar sight of the base
+         mortar and commands SECTION, AIMING POINT THIS INSTRUMENT. The
+         gunners of the other mortars refer their sights to the sight of the base mortar and
+         announce, "Aiming point identified."
+
+         b. The platoon sergeant reads the deflection from the red scale on the sight of the
+         base mortar. He then determines the back azimuth of that deflection and
+         announces it to the other gunners.
+
+Note: A back azimuth is determined by adding or subtracting 3200 to the initial
+         deflection--for example, "Number three, deflection one two zero zero."
+
+         c. Each gunner repeats the announced deflection for his mortar, places the
+         deflection on his sight (using the red fixed scale), and re-lays on the sight of the
+         base mortar. When the lens of the base mortar sight is not visible, the gunner lays
+         the vertical cross line of his sight on one of the other three mortar sights (Figure
+         2-30). He is laid in by this mortar once it is parallel to the base mortar sightunit.
+         He then announces, "Number one (or three), ready for recheck."
+
+
+---
+
+                          Figure 2-30. Sighting on the mortar sight.
+
+d. After each mortar has been laid parallel within zero (or one mil), the mortar barrels are
+parallel to the base mortar (Figure 2-31).
+
+
+---
+
+                        Figure 2-31. Mortar laid parallel with sights.
+
+         e. As soon as each mortar is laid, the platoon sergeant (section sergeant)
+         commands NUMBER THREE, DEFLECTION TWO EIGHT ZERO ZERO
+         (2800), REFER, PLACE OUT AIMING POSTS.
+
+2-38. RECIPROCAL LAYING USING THE M2 COMPASS
+
+A rapid means of laying the section parallel is by using the compass. This is an alternate
+means and is used only when an aiming circle is not available or when time dictates. It is
+not as accurate as the methods previously described.
+
+         a. Before mounting the mortars, each squad leader places a base stake in the
+         ground to mark the approximate location of the mortar.
+
+         b. The platoon sergeant (section sergeant) announces the desired mounting
+         azimuth--for example, "Mount mortars, magnetic azimuth two two one two."
+
+         c. Each squad leader places his compass on the base stake marking the location of
+         his mortar, and orients the compass on the desired mounting azimuth. By sighting
+
+
+---
+
+        through the compass, he directs the second ammunition bearer in aligning the
+        aiming posts along the mounting (magnetic) azimuth.
+
+        d. Each mortar is then mounted and laid on the aiming posts with a deflection of
+        3200 (zero on the M64-series sight) placed on the sight. If no mechanical or
+        human error exists, the mortar barrels are now laid parallel. (This is normally not
+        true, however, since both mechanical and human error usually exist.)
+
+Note :  Recognizing the difference in individual compasses, the platoon sergeant (section
+        sergeant) can prescribe that all mortars be laid with one compass. This eliminates
+        some mechanical error. It is also possible to lay only the base mortar as described
+        above and then lay the remaining mortars parallel using the mortar sight method.
+        The compass method is used only when the aiming circle or mortar sight method
+        is not practical.
+
+2-39. PLACING OUT AIMING POSTS
+
+When a firing position is occupied, the gunner must determine in which direction the
+aiming posts are to be placed out. Factors to consider are terrain, sight blockage, and
+traffic patterns in the section area. If possible, the aiming posts should be placed out to
+the left front. This direction gives a large latitude in deflection change before sight
+blockage occurs. Also, the aiming posts do not interfere with the traffic pattern of troops
+and vehicles within the section area. Under normal conditions the front aiming post is
+placed out 50 meters and the far aiming post 100 meters.
+
+         a. When the black deflection scales and red line scales numerically coincide, local
+         terrain features may not permit placing out the aiming posts at a referred
+         deflection of 2800 mils. When this occurs, the following procedure is used:
+
+Note: This is constant only with the M64 sightunit.
+
+        (1) Determine the general direction to properly place out aiming posts that
+        allows a maximum traverse before encountering a sight block.
+
+        (2) Refer the sight to that general direction and index any deflection to the
+        nearest 100 mils.
+
+        (3) Place out the aiming posts.
+
+        (4) Record the deflection reading on the red scales.
+
+        b. The black deflection scale of the M64 sightunit must be slipped when
+        the mortar section is being used in a 6400-mil capability.
+
+
+---
+
+        (1) After the mortar is initially laid for direction, rotate the deflection
+        micrometer knob until the deflection scale is set on 2800 mils. Place out
+        two aiming posts to the left front.
+
+        (2) Using the deflection course scale, index a deflection of 700 mils and
+        place out two more aiming posts to the right rear.
+
+        (3) Be sure to use ONLY the aiming posts placed out at 2800 mils for the
+        front reference points. Use the aiming posts placed out at 700 mils for the
+        rear reference points.
+
+Note :  To ensure that the gunners are on the appropriate aiming posts, the section leader
+        may direct that each mortar squad place out cardinal direction stakes around its
+        mortar position. He should also announce the general direction of fire before
+        giving the initial fire command.
+
+         c. When the M64 sightunit is used within the same firing section that is being
+         used in a 6400-mil capability, the gunner must slip the black deflection scale of
+         the sightunit so that 0 mils on the black deflection scale coincides with the red
+         3200-mil line.
+
+         d. When the section is laid parallel, the rounds usually land in the impact area the
+         same distance apart as the mortars are mounted (25 to 30 meters). When they do
+         not, the FO must adjust the sheaf.
+
+                  (1) Sheaf adjustment is normally accomplished after the base mortar is
+                  adjusted on the registration point. The section leader has the section fire a
+                  section right (left) with the same charge and deflection setting as the base
+                  mortar (No. 2). The FO adjusts mortar No. 1 until it is in its proper
+                  position in the sheaf. Any adjustment of either mortar results in that
+                  mortar having a different deflection. This makes it necessary to announce
+                  a different deflection for each mortar to fire two mortars as a section. To
+                  avoid that complication, the sights are referred so that each sight has the
+                  same deflection reading.
+
+                  (2) At the completion of the adjustment, the FDC commands SECTION,
+                  REFER DEFLECTION, (FDC gives the deflection of the base No. 2
+                  mortar), REALIGN AIMING POSTS. The gunner refers his sight to the
+                  deflection setting and, without disturbing the lay of the mortar, directs the
+                  ammunition bearer in moving the aiming posts until they are aligned with
+                  the vertical cross line of the sight. The barrels of the mortars are parallel,
+                  and each mortar has the same deflection reading.
+
+2-40. ALTERNATE METHOD OF PLACING OUT AIMING POSTS
+
+
+---
+
+After the section leader has laid the section for direction, he commands SECTION,
+REFER DEFLECTION (normally, TWO EIGHT ZERO ZERO), PLACE OUT AIMING
+POSTS. The gunner determines which general direction will enable him to place out his
+aiming posts and still allow a maximum traverse before encountering a sight block. He
+refers the sight to that direction and indexes any deflection to the nearest 100 mils. He
+then places out the aiming posts, assisted by the ammunition bearer, and informs the
+section leader of his deflection (Figure 2-32).
+
+       Figure 2-32. Arm -and-hand signals used in placing out aiming posts.
+
+
+---
+
+Figure 2-32. Arm -and-hand signals used in placing out aiming posts (continued).
+
+         a. Two more aiming posts must be placed out to prevent a sight block if the
+         mortar is used in a 6400-mil capability. The section sergeant must then select an
+         area to the rear of each mortar where aiming posts can be placed on a common
+         deflection for all mortars. A common deflection of 0700 mils is preferred;
+         however, any common deflection to the rear may be selected when obstacles,
+
+
+---
+
+         traffic patterns, or terrain prevent use of 0700 mils. If the black deflection scale is
+         moved, it can easily be re-indexed on the referred deflection.
+
+         b. After the section leader has laid the section for direction, he commands
+         SECTION, REFER DEFLECTION (normally, TWO EIGHT ZERO ZERO),
+         PLACE OUT AIMING POSTS. The initial steps are the same as those given
+         above. The gunner refers the sight to the back deflection of the referred deflection
+         and directs the ammunition bearer to place out two aiming posts 50 and 100
+         meters from the mortar position. If the gunner receives a deflection that would be
+         obscured by the barrel, he indexes the referred back deflection, and lays in on the
+         rear aiming post.
+
+2-41. CORRECTION FOR DISPLACEMENT OF SIGHT
+
+In laying the mortar for direction, the two aiming posts do not always appear as one when
+viewed through the sight(s). This separation is caused by one of two things: either a large
+deflection shift of the barrel or a rearward displacement of the baseplate assembly caused
+by the shock of firing.
+
+         a. When the aiming posts appear separated, the gunner cannot use either one as
+         his aiming point. To lay the mortar correctly, he takes a compensated sight
+         picture. Then, he traverses the mortar until the sight picture appears with the left
+         edge of the far aiming post placed exactly midway between the left edge of the
+         near aiming post and the vertical line of the sight. This corrects for the
+         displacement. A memory trick for correcting displacement is: Hey diddle diddle,
+         far post in the middle.
+
+         b. The gunner determines if the displacement is caused by traversing the mortar or
+         by displacement of the baseplate assembly. To do so, he places the referred
+         deflection on the sight and lays on the aiming posts. If both aiming posts appear
+         as one, the separation is caused by traversing. Therefore, the gunner continues to
+         lay the mortar as described and does not realign the aiming posts. When the posts
+         appear separated, the separation is caused by displacement of the baseplate
+         assembly. The gunner notifies his squad leader, who requests permission from the
+         section/platoon leader to realign the aiming posts. (For more information, see
+         Chapter 3, paragraph 3-14.)
+
+                              Section VII. LOADING AND FIRING
+
+Upon receiving a fire command from the section leader, the gunner repeats each element
+of it. He places the firing data on the sight and, assisted by the assistant gunner, lays the
+mortar. The first ammunition bearer repeats the charge element when announced by the
+gunner and prepares the round with that charge. (If a fuze setting is announced, the first
+ammunition bearer also repeats the setting and places it on the fuze.) He completes his
+preparation of the cartridge to include safety checks. The squad leader spot-checks the
+data on the sight and the lay of the mortar. He then commands FIRE.
+
+
+---
+
+2-42. FIRING THE MORTAR
+
+The crew fires the mortar as follows:
+
+         a. The gunner removes the sight, being careful not to disturb the lay of the mortar.
+         He continues to remove the sight until the baseplate assembly is settled and there
+         is no danger of the sight becoming damaged from the recoil of the mortar. The
+         bipod assembly can slide up the barrel when the gunner fires the 81-mm mortar,
+         M252 or the 120-mm mortar, M120. The gunner must not try to place the mortar
+         back into position until the baseplate is settled.
+
+         b. The first ammunition bearer passes a round to the assistant gunner. He holds
+         the round with the palms of both hands up and near each end of the round so that
+         the fuze is pointing in the general direction of the mortar.
+
+         c. The assistant gunner takes the round from the first ammunition bearer with his
+         right hand, palm up, and his left hand, palm down. He grasps the body of the
+         round near the center, guides it into the barrel to a point beyond the narrow
+         portion of the body of the shell, and releases the round. He cuts both hands
+         sharply away and down along the barrel. At the same time, he pivots to the left
+         and bends toward the first ammunition bearer, extending his hands to receive the
+         next round. He is careful not to disturb the lay of the mortar as he loads the round
+         (the round can bind as the base end enters the barrel). This can cause considerable
+         dispersion in the target area and can create unsafe conditions due to erratic fire.
+
+Note : See Chapter 6 for loading and firing the M329A2 round.
+
+                                                CAUTION
+                       Do not load or fire the mortar while wearing gloves.
+
+2-43. TARGET ENGAGEMENT
+
+Target engagement is achieved through fire commands, which are the technical
+instructions issued to mortar crews. The basis for these commands is the data processed
+in the FDC. There are two types of commands: initial fire commands, issued to start a fire
+mission; and subsequent fire commands, issued to change firing data and to cease firing.
+The elements of both commands follow the same sequence. However, subsequent
+commands include only such elements that are changed, except for the elevation element,
+which is always announced. A correct fire command is brief and clear, and includes all
+the elements necessary for accomplishing the mission. The commands are sent to the
+platoon sergeant (section sergeant) by the best available means. To limit errors in
+transmission, the person receiving the commands at the mortar position repeats each
+element as it is received. The sequence for the transmission of fire commands is:
+
+
+---
+
+SEQUENCE        EXAMPLE
+
+Mortars to follow Section
+
+Shell and fuze  HE quick
+
+Mortars to fire Number two
+
+Method of fire One round
+
+Deflection      Deflection two eight hundred
+
+Charge          Charge eight and four eighths
+
+Time
+
+Elevation       Elevation nine hundred
+
+Note: All fire commands follow this sequence. Elements not necessary for the proper
+         conduct of fire are omitted.
+
+2-44. EXECUTION OF FIRE COMMANDS
+
+The various fire commands are explained herein.
+
+         a. Mortars to follow. This element serves two purposes: it alerts the section for a
+         fire mission and it designates the mortars that are to follow the commands. The
+         command for all mortars in the section to follow the fire command is SECTION.
+         Commands for individual or pairs of mortars are given a NUMBER (ONE, TWO,
+         and so forth).
+
+         b. Shell and fuze. This element alerts the ammunition bearers as to what type of
+         ammunition and fuze action to prepare for firing--for example, HE QUICK; HE
+         DELAY; HE PROXIMITY; and so forth.
+
+         c. Mortar(s) to fire. This element designates the specific mortar(s) to fire. If the
+         mortars to fire are the same as the mortars to follow, this element is omitted. The
+         command to fire an individual mortar or any combination of mortars if
+         NUMBER(s) (ONE, THREE, and so forth).
+
+         d. Method of fire . In this element, the mortar(s) designated to fire in the
+         preceding element is told how many rounds to fire, how to engage the target, and
+         any special control desired. Also included are the number and type ammunition to
+         be used in the fire-for-effect phase.
+
+
+---
+
+(1) Volley fire. A volley can be fired by one or more mortars. The
+command for volley fire is (so many) ROUNDS. Once all mortars are
+reported up, they fire on the platoon sergeant’s (section sergeant’s)
+command. If more than one round is being fired by each mortar, the
+squads fire the first round on command and the remaining as rapidly as
+possible consistent with accuracy and safety, and without regard to other
+mortars. If a specific time interval is desired, the command is (so many)
+ROUNDS AT (so many) SECONDS INTERVAL, or (so many) ROUNDS
+PER MINUTE. In this case, a single round for each mortar, at the time
+interval indicated, is fired at the platoon sergeant’s (section sergeant’s)
+command.
+
+(2) Section right (left). This is a method of fire in which mortars are
+discharged from the right (left) one after the other, normally at 10-second
+intervals. The command for section fire from the right (left) flank at
+intervals of 10 seconds is SECTION RIGHT (LEFT), ONE ROUND.
+Once all mortars are reported up, the platoon sergeant (section sergeant)
+gives the command FIREX for example, SECTION RIGHT, ONE
+ROUND; the platoon sergeant (section sergeant) commands FIRE ONE;
+10 seconds later FIRE TWO, and so forth.
+
+         (a) If the section is firing a section left, the fire begins with No. 3
+         and works to the right. The command LEFT (RIGHT) designates
+         the flank from which the fire begins. The platoon sergeant (section
+         sergeant) fires a section right (left) at 10-second intervals unless he
+         is told differently by the FDC--for example, SECTION LEFT,
+         ONE ROUND, TWENTY-SECOND INTERVALS.
+
+         (b) When it is desired to fire continuously at a target, the command
+         is CONTINUOUS FIRE. When it is desired to maintain a smoke
+         screen, it may be necessary to fire a series of sections right (left).
+         In this case, the command is CONTINUOUS FIRE FROM THE
+         RIGHT (LEFT). The platoon sergeant (section sergeant) then fires
+         the designated mortars consecutively at 10-second intervals unless
+         a different time interval is specified in the command.
+
+         (c) Changes in firing data (deflections and elevations) are applied
+         to the mortars in turns of traverse or elevation so as not to stop or
+         break the continuity of fire--for example, NUMBER ONE, RIGHT
+         THREE TURNS; NUMBER TWO, UP ONE TURN. When
+         continuous fire is given in the fire command, the platoon sergeant
+         (section sergeant) continues to fire the section until the FDC
+         changes the method of fire or until the command END OF
+         MISSION is given.
+
+
+---
+
+(3) Traversing fire. In traversing fire, rounds are fired with a designated
+number of turns of traverse between each round. The command for
+traversing fire is (so many) ROUNDS, TRAVERSE RIGHT (LEFT) (so
+many) TURNS. At the platoon sergeant’s (section sergeant’s) command
+FIRE, all mortars fire one round, traverse the specified number of turns,
+fire another round, and continue this procedure until the number of rounds
+specified in the command have been fired.
+
+(4) Searching fire. Searching fire is fired the same as volley fire except
+that each round normally has a different range. No specific order is
+followed in firing the rounds. For example, the assistant gunner does not
+start at the shortest range and progress to the highest charge or vice versa,
+unless instructed to do so. Firing the rounds in a definite sequence (high to
+low or low to high) establishes a pattern of fire that can be detected by the
+enemy.
+
+(5) At my command. If the FDC wants to control the fire, the command AT
+MY COMMAND is placed in the method of fire element of the fire
+command. Once all mortars are reported up, the platoon sergeant (section
+sergeant) reports to the FDC: SECTION READY. The FDC then gives the
+command FIRE.
+
+(6) Do not fire. The FDC can command DO NOT FIRE immediately
+following the method of fire. DO NOT FIRE then becomes a part of the
+method of fire. This command is repeated by the platoon sergeant (section
+sergeant). As soon as the weapons are laid the platoon sergeant (section
+sergeant) reports to FDC that the section is laid. The command for the
+section of fire is the command for a new method of fire not followed by
+DO NOT FIRE.
+
+(7) Deflection. This element gives the exact deflection setting to be placed
+on the mortar sight. It is always announced in four digits, and the word
+DEFLECTION always precedes the sight setting--for example,
+DEFLECTION, TWO EIGHT FOUR SEVEN (2847). When the mortars
+are to be fired with different deflections, the number of the mortar is given
+and then the deflection for that mortar--for example, NUMBER THREE,
+DEFLECTION TWO FOUR ZERO ONE (2401).
+
+(8) Charge. This element gives the charge consistent with elevation and
+range as determined from the firing tables--for example, CHARGE FOUR
+(4). The word CHARGE always precedes the amountXfor example, ONE
+ROUND, CHARGE FOUR (4).
+
+(9) Time. The computer tells the ammunition bearer the exact time setting
+to place on the proximity, MTSQ, and the MT fuze. The command for
+
+
+---
+
+                  time setting is TIME (so much)-- for example, TIME TWO SEVEN. The
+                  command for a change in time setting is a new command for time.
+                  (10) Elevation. This element serves two purposes: first, it gives the exact
+                  elevation setting that is to be placed on the mortar sight; second, it serves
+                  as the command to fire, if no restrictions are placed on method of fire.
+                  When no restrictions are announced in the method of fire, the section,
+                  when laid, fires at the platoon sergeant’s (section sergeant’s) command
+                  FIRE. The platoon sergeant (section sergeant) may allow the mortar(s) to
+                  fire when ready. The elevation element is always given in a fire command.
+                  It is announced as, "Elevation (so many mils)."
+2-45. ARM-AND-HAND SIGNALS
+When giving the commands FIRE or CEASE FIRING, the section leader or squad leader
+uses both arm-and-hand signals and voice commands (Figure 2-33).
+
+       Figure 2-33. Arm -and-hand-signals for ready, fire, and cease firing.
+         a. Ready. The signal for "I am ready" or "Are you ready?" is to extend the arm
+         toward the person being signaled. Then, the arm is raised slightly above the
+         horizontal, palm outward.
+         b. Fire. The signal to start fire is to drop the right arm sharply from a vertical
+         position to the side. When the section leader desires to fire a single mortar, he
+         points with his arm extended at the mortar to be fired, then drops his arm sharply
+         to his side.
+         c. Cease Firing. The signal for cease firing is to raise the hand in front of the
+         forehead, palm to the front, and to move the hand and forearm up and down
+         several times in front of the face.
+
+
+---
+
+2-46. SUBSEQUENT FIRE COMMANDS
+
+Only the elements that change from the previous fire command are announced in this
+command. However, the elevation element (command to fire) is always announced in the
+subsequent fire command.
+
+         a. Changes in direction are given in total deflection to be placed on the sight--for
+         example, DEFLECTION TWO EIGHT ONE TWO (2812).
+
+         b. When a change is made in mortars to fire or in the method of fire, the
+         subsequent command includes one or both of these elements and the elevation.
+         When the elevation does not change, the command ELEVATION (so many mils)
+         is given (same as that given in the previous command).
+
+         c. To interrupt firing, CEASE FIRING or CHECK FIRE is commanded.
+
+                  (1) CEASE FIRING indicates to the section the completion of a fire
+                  mission, but not necessarily the end of the alert. Firing is renewed by
+                  issuing a new initial fire command.
+
+                  (2) CHECK FIRE indicates a temporary cessation of firing and allows
+                  firing to be resumed with the same data by the command RESUME
+                  FIRING or by a subsequent fire command.
+
+         d. So that the mortar crews can relax between fire missions, the end of the alert is
+         announced by the command END OF MISSION. All gunners then lay their
+         mortars as directed by the FDC. Upon completion of a fire mission, all mortars
+         normally lay on final protective fire data unless otherwise directed. It is the
+         responsibility of the platoon sergeant (section sergeant) to ensure that the mortars
+         are laid on final protective fire data and that the prescribed amount of ammunition
+         for the final protective fire is prepared and on position.
+
+2-47. REPEATING AND CORRECTING OF FIRE COMMANDS
+
+If the platoon sergeant (section sergeant) or squad member fails to understand any
+elements of the fire command, he can request that element be repeated by starting--for
+example, "Say again deflection, elevation," and so forth. Misunderstanding is avoided
+when the repeated element is prefaced with "I say again deflection (repeats mils)."
+
+         a. In an initial fire command, an incorrect element is corrected by stating,
+         "Correction," and giving only the corrected element.
+
+         b. In a subsequent command, an incorrect element is corrected by stating,
+         "Correction," and then by repeating all of the subsequent commands. (The term
+         "correction" cancels the entire command.)
+
+
+---
+
+2-48. REPORTING OF ERRORS IN FIRING
+
+When any squad member discovers that an error has been made in firing, he immediately
+notifies his squad leader, who in turn notifies the FDC. Such errors include, but are not
+limited to, incorrect deflection or elevation settings, incorrect laying of the mortar, or
+ammunition improperly prepared for firing. Misfires are also reported this way. Errors
+should be promptly reported to the FDC to prevent loss of time in determining the cause
+and required corrective action.
+
+2-49. NIGHT FIRING
+
+When firing the mortar at night, the mission dictates whether noise and light discipline
+are to be sacrificed for speed. To counteract the loss of speed for night firing, the gunner
+must consider presetting both fuze and charge for illumination rounds with the presetting
+of charges for other rounds. The procedure for manipulating the mortar at night is the
+same as during daylight operations. To assist the gunner in these manipulations, the sight
+reticle is illuminated, and the aiming posts are provided with lights.
+
+         a. The instrument lights illuminate the reticle of the sights and make the vertical
+         cross lines visible. The hand light on the flexible cord is used to illuminate the
+         scales and bubbles.
+
+         b. An aiming post light is placed on each aiming post to enable the gunner to see
+         the aiming posts. Aiming posts are placed out at night similar to the daylight
+         procedure. The lights must be attached to the posts before they can be seen and
+         positioned by the gunner. The gunner must issue commands such as NUMBER
+         ONE, MOVE RIGHT, LEFT, HOLD, DRIVE IN, POST CORRECT. Tilt in the
+         posts is corrected at daybreak. Some of the distance to the far post can be
+         sacrificed if it cannot be easily seen at 100 meters. However, the near post should
+         still be positioned about half the distance to the far post from the mortar. The far
+         post light should be a different color from the one on the near post and be
+         positioned so it appears slightly higher. Adjacent squads should alternate post
+         lights to avoid laying on the wrong posts--for example, 1ST SQUAD, NEAR
+         POST --GREEN LIGHT, FAR POST --RED LIGHT; 2D SQUAD, NEAR POST --
+         RED LIGHT, FAR POST --GREEN LIGHT. (The M58 light is green and the M59
+         light is orange.)
+
+         c. The mortar is laid for deflection by placing the vertical cross line of the sight in
+         the correct relation to the center of the lights attached to the aiming posts. The
+         procedure for laying the mortar is the same as discussed in Section VI.
+
+         d. The night lights can be used to align the aiming posts without using voice
+         commands.
+
+                  (1) The gunner directs the ammunition bearer to place out the aiming
+                  posts. The ammunition bearer moves out 100 meters and turns on the night
+
+
+---
+
+                  light of the far aiming post. The gunner holds the instrument night light in
+                  his right (left) hand and, by moving the light to the right (left), directs the
+                  ammunition bearer to move to the right (left). To ensure that the
+                  ammunition bearer sees the light moving only in the desired direction, the
+                  gunner places his thumb over the light when returning it to the starting
+                  position. The gunner continues to direct the ammunition bearer to move
+                  the aiming post until it is properly aligned.
+
+                  (2) The gunner moves the instrument light a shorter distance from the
+                  starting position when he desires the ammunition bearer to move the
+                  aiming post a short distance.
+
+                  (3) The gunner holds the light over his head (starting position) and moves
+                  the light to waist level when he desires to have the ammunition bearer
+                  place the aiming post into the ground. In returning the instrument light to
+                  the starting position, the gunner covers the light with his thumb to ensure
+                  that the ammunition bearer sees the light move only in the desired
+                  direction.
+
+                  (4) The gunner uses the same procedure described above when he wants
+                  the ammunition bearer to move the aiming post light to a position
+                  corresponding to the vertical hairline in the sight after the aiming post has
+                  been placed into the ground.
+
+                  (5) The gunner reverses the procedure described above when he wants the
+                  ammunition bearer to take the aiming post out of the ground. The gunner
+                  places the uncovered light at waist level and moves it to a position directly
+                  above his head. He then directs alignment as required.
+
+                  (6) When the gunner is satisfied with the alignment of the aiming posts, he
+                  signals the ammunition bearer to return to the mortar positions by making
+                  a circular motion with the instrument light.
+
+Note: When the night light is used to signal, the gunner directs the light toward the
+         ammunition bearer.
+
+
+---
+
+                                       CHAPTER 3
+
+                    60-mm MORTAR, M224
+
+         The 60-mm mortar, M224, reacts quickly to support infantrymen by
+         engaging the target first. This allows infantrymen to confront the enemy
+         while supporting the battle plan. The mortar can be fired accurately with
+         or without a fire direction center.
+
+         Section I. SQUAD AND SECTION ORGANIZATION AND DUTIES
+
+This section discusses the organization and duties of the 60-mm mortar squad and
+section.
+
+3-1. ORGANIZATION
+
+If the mortar section is to operate quickly and effectively in accomplishing its mission,
+mortar squad members must be proficient in individually assigned duties. Correctly
+applying and performing these duties enables the mortar section to perform as an
+effective fighting team. The section leader commands the section and supervises the
+training of the elements. He uses the chain of command to assist him in effecting his
+command and supervising duties.
+
+3-2. DUTIES
+
+The mortar squad consists of three soldiers. Each squad member is cross-trained to
+perform all duties involved in firing the mortar. The positions and principal duties are as
+follows:
+
+         a. The squad leader is in position to best control the mortar squad. He is
+         positioned to the right of the mortar, facing the barrel. He is also the FDC.
+
+         b. The gunner is on the left side of the mortar where he can manipulate the sight,
+         elevating gear handle, and traversing assembly wheel. He places firing data on the
+         sight and lays the mortar for deflection and elevation. Assisted by the squad
+         leader (or ammunition bearer), he makes large deflection shifts by shifting the
+         bipod assembly.
+
+         c. The ammunition bearer is to the right rear of the mortar. He prepares the
+         ammunition and assists the gunner in shifting and loading the mortar. He swabs
+         the barrel every 10 rounds or after each end of mission.
+
+
+---
+
+                                     Section II. COMPONENTS
+
+The 60-mm mortar, M224, can be fired in the conventional mode or handheld mode
+(Figure 3-1). The mortar is a muzzle-loaded, smooth-bore, high-angle-of-fire weapon. It
+can be drop-fired or trigger-fired and has five major components.
+
+Figure 3-1. The 60-mm mortar, M224, (handheld mode and conventional mode).
+3-3. TABULATED DATA
+The tabulated data of the 60-mm mortar are as shown in Table 3-1.
+
+CONVENTIONAL  HANDHELD
+       MODE       MODE
+
+
+---
+
+WEIGHTS
+
+         Complete mortar           46.5 pounds          18.0 pounds
+         Cannon, M225              18.0 pounds          14.4 pounds
+         Bipod Assembly,           15.2 pounds
+         M170                 (traverse, 250 miles)
+                                    2.5 pounds
+         Sightunit, M64A1       (1.5 candlepower;
+                           17.5 degrees field of view)
+         Baseplate, M7             14.4 pounds
+         Baseplate, M8
+RANGE                               3.6 pounds
+
+         Cannon, M225           70 meters                         75 meters
+                              3,490 meters                      1,340 meters
+                  Minimum  70 to 3,490 meters               70 to 1,340 meters
+                  Maximum  70 to 3,490 meters               70 to 1,340 meters
+         HE (M888)         44 to 1,930 meters           50 to 1,300 meters (charge
+         HE (M720)
+         HE (M49A4)        33 to 1,630 meters                          3)
+         WP (M302A1)       725 to 951 meters            45 to 1,200 meters (charge
+         Illum (M83A3)      56 to 538 meters
+         TP (M766) SRTR                                                3)
+                                                        725 to 750 meters (charge
+RATE OF FIRE
+                                                                       2)
+
+Maximum                    30 rounds for first 4
+         M720/M888                minutes
+
+         M49A4             30 rounds for 1 minute; 18       No limit at charges
+                           rounds for next 4 minutes                0 and 1
+Sustained
+         M720/M888            20 rounds per minute      Drop-fire (charges 0 and 1
+                                    indefinitely                     only)
+         M49A4
+                               8 rounds per minute              Trigger-fire*
+                                    indefinitely               One-man carry
+
+TYPE OF FIRE               Drop-fire
+
+CARRYING OPTIONS           One-man carry
+                           Two-man carry
+
+
+---
+
+                                             Two-man carry
+                                            Three-man carry
+ *Do not trigger-fire above charge 1.
+                                     Table 3-1. Tabulated data.
+3-4. CANNON ASSEMBLY, M225
+The cannon assembly (Figure 3-2) has one end closed by a base cap. The base cap end of
+the cannon has cooling fins on the outside, which reduce heat generated during firing.
+Attached to the base cap end is a combination carrying handle and firing mechanism. The
+carrying handle has a trigger, firing selector, range indicator, and auxiliary carrying
+handle. On the outside of the barrel is an upper and a lower firing saddle. The lower
+saddle is used when firing at elevations of 1100 to 1511 mils; the upper saddle is used
+when firing at elevations of 0800 to 1100 mils.
+
+                             Figure 3-2. Cannon assembly, M225.
+Note: When the bipod is positioned in the upper saddle, one turn of the traversing
+
+         handwheel will move the barrel 10 mils. When the bipod is positioned in the
+         lower saddle, one turn of the traversing handwheel will move the barrel 15 mils.
+3-5. BASEPLATE, M7
+
+
+---
+
+The baseplate, M7, (Figure 3-3) is a one-piece, circular, aluminum-forging base. It has a
+ball socket with a rotating locking cap and a stationary retaining ring held in place by
+four screws and lock washers. The locking cap rotates 6400 mils, giving the mortar full-
+circle firing capability. The underside of the baseplate has four spades to stabilize the
+mortar during firing.
+
+                                     Figure 3-3. Baseplate, M7.
+3-6. BASEPLATE, M8
+The baseplate, M8, (Figure 3-4) is a one-piece, rectangular, aluminum-forging base. It
+should be used when the mortar is fired in the handheld mode. The baseplate allows the
+mortar to be fired 0800 mils left and 0800 mils right of the center of sector for a total
+sector coverage of 1600 mils. It has a socket in which the barrel can be locked to the
+baseplate by securing the locking arm. The underside of the baseplate has four spades to
+strengthen and stabilize the mortar during firing. Two spring-loaded plungers lock the
+baseplate to the barrel in its carry position.
+
+
+---
+
+                                     Figure 3-4. Baseplate, M8.
+3-7. BIPOD ASSEMBLY, M170
+The bipod assembly (Figure 3-5) can be assembled to the barrel either before or after
+assembly of the barrel to the baseplate. It consists of seven subassemblies.
+
+                               Figure 3-5. Bipod assembly, M170.
+
+
+---
+
+         a. Collar Assembly. The collar assembly, with an upper and lower half, is hinged
+         on the left and secured by a locking knob on the right. The collar fastens in one of
+         the two firing saddles (depending on the elevation being fired), securing the bipod
+         to the barrel.
+
+         b. Shock Absorbers . Two shock absorbers located on the underside of the collar
+         assembly protect the bipod and sight from the shock of recoil during firing.
+
+         c. Traversing Mechanism. The traversing mechanism moves the collar assembly
+         left or right when the traversing hand crank is pulled out and turned. The hand
+         crank is turned clockwise to move the barrel to the right, and counterclockwise to
+         move the barrel to the left. The left side of the traversing mechanism has a
+         dovetail slot to attach the sight to the bipod.
+
+         d. Elevating Mechanism. The elevating mechanism is used to elevate or depress
+         the barrel by turning the hand crank at the base of the elevation guide tube. This
+         assembly consists of an elevating spindle, screw, hand crank, and housing
+         (elevation guide tube). The housing has a latch to secure the collar and shock
+         absorbers to the housing for carrying. The hand crank is turned clockwise to
+         depress, and counterclockwise to elevate.
+
+         e. Right Leg Assembly. The right leg assembly has no moving parts. It consists
+         of a foot, tubular steel leg, and hinge attached to the elevating mechanism
+         housing.
+
+         f. Left Leg Assembly. The left leg assembly consists of a foot, tubular steel leg,
+         hinge attached to the elevating mechanism housing, locking nut, and fine cross-
+         leveling sleeve.
+
+                  (1) The locking sleeve is near the spiked foot. It is used to lock the
+                  elevation housing in place.
+
+                  (2) The fine cross-leveling nut above the locking sleeve is used for fine
+                  leveling.
+
+         g. Spread Cable. The spread cable is a plastic-coated steel cable attached to the
+         bipod legs, which controls the spread of the two tubular steel legs. A snap hook is
+         fixed to the cable to secure the bipod legs when they are collapsed for carrying.
+
+                                      Section III. OPERATION
+
+Safe operation of the 60-mm mortar requires that training include drill practice on tasks
+for safe manipulation and effective employment. Crew training achieves the speed,
+precision, and teamwork needed to deliver responsive and effective fire on target.
+
+3-8. PREMOUNT CHECKS
+
+
+---
+
+Before the mortar is mounted, the squad must perform premount checks. Each squad
+member should be capable of performing all the premount checks.
+
+         a. The gunner performs the premount checks on the mount so that--
+
+              • The spreader cable is fixed to both legs and taut.
+              • The clearance on the left leg above the adjusting nut is two fingers in
+
+                  width.
+              • The locking sleeve is neither too loose nor too tight.
+              • The traversing bearing is centered.
+
+         b. The squad leader performs the premount checks on the barrel so that--
+
+              • The barrel is clean both inside and outside.
+              • The firing pin is visible.
+              • The spherical projection is clean, and the firing pin is firmly seated.
+              • The selector switch is on drop-fire mode.
+
+         c. The ammunition bearer is responsible for the premount checks on the baseplate
+         ensuring that--
+
+              • The rotatable socket cap moves freely and has a light coat of oil.
+              • The ribs and braces are checked for breaks and dents, and the inner ring is
+
+                  secured to the outer ring.
+
+         d. When all pieces of equipment are checked, the gunner notifies the section
+         leader by announcing, "All correct."
+
+3-9. MOUNTING OF THE MORTAR
+
+The squad leader picks up and places the sight case and two aiming posts at the exact
+position where the mortar is to be mounted.
+
+         a. The ammunition bearer places the outer edge of the baseplate against the
+         baseplate stake. He aligns the left edge of the cutout portion of the baseplate with
+         the right edge of the baseplate stake. He then rotates the socket cap so that the
+         open end points in the direction of fire.
+
+         b. The gunner picks up the bipod with his left hand on the traversing hand crank
+         and his right hand on the dovetail slot. He moves forward of the baseplate about
+         12 to 15 inches and faces the baseplate on line with the left edge (gunner’s
+         viewpoint) of the baseplate. Dropping down on one knee in front of the bipod, the
+         gunner supports the bipod with his left hand on the gear case. He then detaches
+         the hook and unwraps the cable assembly. The gunner places his left hand on the
+         midsection of the traversing slide and his right hand on the mechanical leg, and he
+         extends the bipod legs the length of the cable assembly. He then aligns the center
+
+
+---
+
+         of the bipod assembly with the center of the baseplate. He ensures that the
+         elevation guide barrel is vertical and the locking nut is hand tight. The gunner
+         moves to the mechanical leg side and supports the bipod with his left hand on the
+         shock absorber. He unscrews the collar locking knob to open the collar.
+
+         c. The ammunition bearer picks up the barrel and inserts the spherical projection
+         of the base plug into the socket. He rotates the barrel 90 degrees to lock it to the
+         baseplate. If performed properly, the carrying handle is on the upper side of the
+         barrel, facing skyward.
+
+         d. The gunner pushes down on the shock absorber and raises the collar assembly.
+         The ammunition bearer lowers the barrel and places the lower saddle on the lower
+         part of the collar. The gunner closes the upper part of the collar over the barrel.
+         He replaces the locking knob to its original position and makes it hand tight. The
+         ammunition bearer cranks the elevation hand crank up 15 to 17 turns.
+
+         e. The gunner takes the sight out of the case and sets a deflection of 3200 mils and
+         an elevation of 1100 mils. He mounts the sight to the mortar by pushing the lock
+         latch on the sight inward. He slides the dovetail on the sight into the dovetail slot
+         on the bipod until firmly seated. The gunner releases the latch. He should tap up
+         on the bottom of the sight to ensure proper seating. He then levels the mortar first
+         for elevation 1100 mils, and then cross-levels. The gunner announces, "(gun
+         number) up," to his squad leader.
+
+3-10. SAFETY CHECKS BEFORE FIRING
+
+Safety checks are performed by the entire squad.
+
+         a. The gunner ensures that--
+
+                  (1) There is mask and overhead clearance.
+
+                            (a) Since the mortar is normally mounted in defilade, there could
+                            be a mask such as a hill, trees, buildings, or a rise in the ground.
+                            Roofs or overhanging tree branches can cause overhead
+                            interference. The gunner must be sure the round does not strike any
+                            obstruction.
+
+                            (b) When selecting the exact mortar position, the squad leader
+                            checks quickly for mask and overhead clearance. After the mortar
+                            is mounted, the gunner checks it thoroughly. He determines mask
+                            and overhead clearance by sighting along the top of the barrel with
+                            his eye placed near the base plug. If the line of sight clears the
+                            mask, it is safe to fire. If not, he may still fire at the desired range
+                            by selecting a charge zone having a higher elevation for that
+                            particular range. When firing under the control of an FDC, the
+
+
+---
+
+                            gunner reports to the FDC that mask clearance cannot be obtained
+                            at a certain elevation.
+
+                            (c) Firing is slowed if mask clearance is checked before each
+                            firing. Therefore, if the mask is not regular throughout the sector of
+                            fire, the minimum mask clearance is determined to eliminate the
+                            need for checking on each mission. To do this, the gunner
+                            depresses the barrel until the top of the mask is sighted. He then
+                            levels the elevation bubble and reads the setting on the elevation
+                            scale and elevation micrometer. That setting is the minimum mask
+                            clearance. The gunner notifies the squad leader of the minimum
+                            mask clearance elevation. Any target that requires that elevation or
+                            lower cannot be engaged from that position.
+
+                            (d) Placing the mortar in position at night does not relieve the
+                            gunner of the responsibility for checking for mask and overhead
+                            clearance.
+
+                  (2) The barrel is locked to the baseplate and the open end of the socket cap
+                  points in the direction of fire. The bipod should be connected to either the
+                  upper or lower saddle of the barrel.
+
+                  (3) The barrel is locked on the collar by the locking knob.
+
+                  (4) The locking nut is wrist tight.
+
+                  (5) The cable is taut.
+
+                  (6) The selector switch on the barrel is on drop-fire.
+
+         b. One crewman ensures that the bore is clean; he swabs the bore dry.
+
+         c. The second crewman ensures that each round is clean, safety pin is present, and
+         ignition cartridge is in proper condition.
+
+3-11. SMALL DEFLECTION AND ELEVATION CHANGES
+
+With the mortar mounted and the sight installed, the gunner lays the sight on the two
+aiming posts (placed out 50 and 100 meters from the mortar) on a referred deflection of
+2800 mils and an elevation of 1100 mils. The mortar is within two turns of center of
+traverse. The vertical cross line of the sight is on the left edge of the aiming post.
+
+         a. The gunner is given a deflection change in a fire command between 20 and 60
+         mils. The elevation change announced must be less than 90 mils and more than 35
+         mils.
+
+
+---
+
+         b. As soon as the sight data are announced, the gunner places it on the sight, lays
+         the mortar for elevation, and then traverses onto the aiming post by turning the
+         traversing handwheel and the adjusting nut in the same direction. A one-quarter
+         turn on the adjusting nut equals one turn of the traversing handwheel. When the
+         gunner is satisfied with his sight picture he announces, "Up."
+
+Note : The gunner repeats all elements given in the fire command.
+
+         c. After the gunner has announced "Up," the mortar should be checked by the
+         squad leader to determine if the exercise was performed correctly.
+
+3-12. LARGE DEFLECTION AND ELEVATION CHANGES
+
+With the mortar mounted and the sight installed, the gunner lays the sight on the two
+aiming posts (placed out 50 and 100 meters from the mortar) on a referred deflection of
+2800 mils and an elevation of 1100 mils.
+
+         a. The gunner is given a deflection and elevation change in a fire command
+         causing the gunner to shift the mortar between 200 and 300 mils and an elevation
+         change between 100 and 200 mils.
+
+         b. As soon as the sight data are announced, the gunner places it on the sight,
+         elevates the mortar until the elevation bubble floats freely, and then centers the
+         traversing bearing. If the elevation is between 1100 to 1511 mils, the cannon is
+         mounted in the lower saddle. If the elevation is between 0800 to 1100 mils, the
+         high saddle is used. If the saddle is changed, the squad leader helps the gunner.
+
+         c. The squad leader moves into position to the front of the bipod on either knee
+         and grasps the bipod legs (palms out), lifting until the feet clear the ground
+         enough to permit lateral movement. The gunner moves the mortar as the squad
+         leader steadies it, attempting to horizontally maintain the traversing mechanism.
+         To make the shift, the gunner places the fingers of his right hand in the muzzle
+         (Figure 3-6) and his left hand on the left leg, and moves the mortar until the
+         vertical line of the sight is aligned approximately on the aiming post. When the
+         approximate alignment is completed, the gunner signals the squad leader to lower
+         the bipod by pushing down on the mortar.
+
+
+---
+
+                   Figure 3-6. Large deflection and elevation changes.
+
+         d. The gunner levels the mortar for elevation, then cross-levels. He continues to
+         traverse and cross-level until the correct sight picture is obtained. The mortar
+         should be within two turns of center of traverse when the exercise is completed.
+
+3-13. REFERRING OF THE SIGHT AND REALIGNMENT OF AIMING POSTS
+
+Referring the sight and realigning aiming posts ensure that all mortars are set on the same
+data. The section leader, acting as the FDC, has one deflection instead of two.
+
+         a. The sheaf is paralleled, and each mortar is laid on the correct data.
+
+         b. The section leader, acting as the FDC, prepares an administrative
+         announcement using the format for a fire command and the hit data of the base
+         piece as follows:
+
+                  "Section."
+                  "Do not fire."
+                  "Refer deflection one eight zero zero (1800)."
+                  "Realign aiming posts."
+
+         c. The gunners refer their sights to the announced deflection. Each gunner checks
+         his sight picture. If he has an aligned sight picture, no further action is required.
+
+
+---
+
+d. In laying the mortar for direction, the two aiming posts do not always appear as
+one when viewed through the sight. This separation is caused by either a large
+deflection shift of the barrel or by a rearward displacement of the baseplate
+assembly caused by the shock of firing.
+e. When the aiming posts appear separated, the gunner cannot correctly use either
+one of them as his aiming point. To lay the mortar correctly, he takes a
+compensated sight picture (Figure 3-7). He traverses the mortar until the sight
+picture appears with the left edge of the far aiming post, which is placed exactly
+midway between the left edge of the near aiming post and the vertical line of the
+sight. This corrects for the displacement.
+
+                  Figure 3-7. Compensated sight picture.
+f. At the first lull in firing, the gunner must determine whether the displacement is
+caused by traversing the mortar or by displacement of the baseplate assembly. To
+do this, he places the referred initial deflection on the sight and lays on the aiming
+posts. If both aiming posts appear as one, the separation is caused by traversing.
+In this case, he continues to lay the mortar as described and does not realign the
+aiming posts. When the posts still appear separated, the separation is caused by
+displacement of the baseplate assembly. He notifies his squad leader, who in turn
+requests permission from the section leader to realign the aiming posts. To realign
+the aiming posts using the sightunit, the gunner--
+
+         (1) Places on the sight the deflection originally used to place out the posts.
+
+
+---
+
+                  (2) Lays the mortar so that the vertical line of the sight is aligned on the
+                  left edge of the far aiming post.
+
+                  (3) Without shifting the mortar, refers the sight until the vertical cross line
+                  falls on the left edge of the near aiming post. This actually measures the
+                  angle between the posts.
+
+                  (4) With this last deflection set on the sight, re-lays the mortar until the
+                  vertical cross line is aligned on the far aiming post.
+
+                  (5) Without shifting the mortar, refers the sight again to the original
+                  referred deflection used to place out the aiming posts. The line of sight,
+                  through the sight, is now parallel to the original line established by the
+                  aiming posts.
+
+                  (6) Looking through the sight, directs the ammunition bearer to move the
+                  aiming posts so that they are realigned with the sight’s vertical line. The
+                  posts are now realigned to correct the displacement.
+
+Note: This procedure is used only when displacement is so great that it is difficult to
+         obtain a compensated sight picture.
+
+3-14. MALFUNCTIONS
+
+Mortarmen must be aware of the following malfunctions.
+
+         a. Misfire . A misfire is a complete failure to fire. It can be caused by a faulty
+         firing mechanism or faulty element in the propelling charge explosive train. A
+         misfire cannot be immediately distinguished from a delay in functioning of the
+         firing mechanism or from a hangfire; therefore, it must be handled with care. All
+         firing malfunctions should be considered a misfire. Mechanical malfunctions can
+         be caused by a faulty wiring pin or by rounds lodged in the barrel because of
+         burrs, excess paint, oversized rounds, or foreign matter in the barrel. Procedures
+         for removing a misfire are discussed in paragraph 3-15.
+
+         b. Hangfire . A hangfire is a delay in the functioning of a propelling charge
+         explosive train at the time of firing. In most cases, the delay ranges from a split
+         second to several minutes. Thus, a hangfire cannot be distinguished immediately
+         from a misfire.
+
+         c. Cookoff. A cookoff is a functioning of one or more of the explosive
+         components of a round chambered in a hot weapon, initiated by the heat of the
+         weapon.
+
+3-15. REMOVAL OF A MISFIRE
+
+
+---
+
+The procedures for removing a misfire are different for handheld and conventional
+modes. The propelling charge may not function for the following reasons:
+
+    • Defective ignition cartridge.
+    • Defective, damaged, or loose firing pin.
+    • Fouled firing pin or firing pin obstructed by extraneous material.
+    • Fouled bore.
+    • Excess oil or water in the bore.
+    • Misaligned stabilizing fin.
+    • Foreign matter or excess paint on round.
+    • Selector switch on SAFE or TRIGGER.
+
+         a. Conventional Mode .
+
+                  (1) When a misfire occurs, any member of the squad immediately
+                  announces, "Misfire." The entire squad stays with the mortar. If it is
+                  obvious to the squad leader that the round has reached the bottom of the
+                  barrel and it has failed to ignite, the gunner places the selector switch on
+                  trigger fire and squeezes the trigger several times to try to clear the round.
+
+        WARNING
+
+        During peacetime live -fire training, the ammunition bearer
+        moves at least 50 meters to the rear of the mortar.
+
+Notes:  1. A faulty firing pin assembly on a 60-mm mortar, M224, requires that the
+        firing pin be tightened upon completion of firing when frequent trigger firing
+        using M720-, M721-, or M722-series ammunition. These type rounds usually
+        fire when trigger fired.
+
+        2. In case of a hangfire, kick the cannon several times to dislodge the round.
+
+                                          CAUTION
+
+        Trigger fire the M720-series rounds with charges 0 and 1 only. If
+        an emergency requires trigger fire above charge 1, the baseplate
+        must be well seated and extreme caution taken.
+
+        (2) If the round fails on trigger fire, the gunner places the selector switch
+        back on drop fire. Staying clear of the muzzle at all times, the squad leader
+        holds the bipod legs to prevent slippage. The gunner strikes the barrel
+        sharply several times with the heel of his boot just above the handle
+        assembly. If the round fails to dislodge after trigger firing and kicking, the
+        gunner places the selector switch on SAFE.
+
+
+---
+
+                                                WARNING
+
+              During peacetime live -fire training, the gunner and squad
+              leader join the ammunition bearer and wait one minute (in
+              case of a cookoff). After waiting one minute, the gunner
+              returns to the mortar.
+
+                  (3) The gunner checks for heat by starting from just below the muzzle and
+                  working down to the base with his fingertips. If the barrel is too hot to be
+                  handled, he cools it with water (or snow) and checks it one minute later. If
+                  no water (or snow) is available, the barrel is air cooled until it can be
+                  easily handled with bare hands.
+
+Notes: 1. Liquids must never be poured into the barrel.
+
+          2. During peacetime live-fire training, the gunner signals the squad leader to
+          come forward once the barrel is cool.
+
+                  (4) The gunner locks the data down on the sight, then removes the sight
+                  and places it in a safe location. He then lowers the barrel to its minimum
+                  elevation and backs off one-quarter turn. DO NOT MOVE THE BIPOD
+                  LEGS OR CHANGE THE FIRING SADDLE DURING THIS
+                  PROCEDURE. The gunner unlocks the barrel from the baseplate by
+                  loosening the locking knob until the barrel can be rotated. He rotates the
+                  barrel 90 degrees in the socket cap so that the flats on the barrel are
+                  aligned with the flats of the socket cap. The squad leader places his left leg
+                  in front of the nonmechanical leg of the bipod to keep the bipod steady
+                  during the misfire removal. After placing his leg in this position, the squad
+                  leader places his left hand near the top of the barrel and his right hand on
+                  the underside, just below the muzzle. He prevents any part of his body
+                  from passing in front of the muzzle.
+
+                                                WARNING
+
+              Once the barrel reaches the horizontal, it must not be lowered
+              back down until the round is extracted. If the round slips
+              down the barrel before extraction, it could ignite, causing
+              death or personal injury.
+
+                  (5) The gunner continues to raise the barrel so that the base of the barrel is
+                  higher than the top. With the muzzle pointing toward the ground, the
+                  gunner shakes it slightly to help dislodge the round. As the round starts to
+                  clear the muzzle, the squad leader squeezes his thumbs against the body of
+
+
+---
+
+                  the round--not the fuze--and removes it. If the round fails to come out
+                  once the barrel is lifted, the barrel is lowered back to the horizontal. It is
+                  removed from the bipod assembly and placed in a designated dud pit.
+                  EOD personnel are notified for removal or disposal.
+
+                  (6) Once the round has been removed, the squad leader gives the round to
+                  the ammunition bearer who inspects it. The ammunition bearer replaces
+                  any safety pins and inspects the primer of the ignition cartridge. If dented,
+                  the round should not be fired. If the primer has not been dented, the firing
+                  pin on the mortar should be checked for proper seating and tightened
+                  down if needed.
+
+                  (7) While the round is being inspected, the gunner lowers the barrel back
+                  into the baseplate and remounts the sightunit to the bipod. The
+                  ammunition bearer then swabs the bore, and the gunner re-lays the mortar
+                  on the previous firing data.
+
+Note: If the baseplate moved during the misfire procedure, the mortar must be
+         reciprocally laid.
+
+                  (8) If the primer on the round has not been dented, the gunner tries to fire
+                  the round again. If the same round misfires, he repeats the misfire
+                  procedures. If the primer has been dented, he notifies organizational
+                  maintenance IAW unit SOP.
+
+         b. Handheld Mode .
+
+                  (1) When a misfire occurs, any member of the squad immediately
+                  announces, "Misfire." The entire crew stays with the mortar, and the
+                  gunner immediately pulls the trigger twice. If the round still fails to
+                  function, he announces, "Misfire." The gunner places the selector switch
+                  on SAFE and bounces the mortar from at least 6 inches off the ground to
+                  dislodge the round. (Disregard if the crew heard the round strike the
+                  bottom of the barrel.)
+
+                                                WARNING
+
+              During peacetime live -fire training, the gunner stays with the
+              mortar and all other crew members move at least 50 meters
+              behind the mortar.
+
+Note: The gunner bounces the mortar only if the round is between the muzzle and firing
+         pin.
+
+
+---
+
+                  (2) The gunner places the selector switch back on trigger fire and squeezes
+                  the trigger twice--the mortar should fire. If the round does not fire, he
+                  places the selector switch on SAFE and supports the mortar barrel with
+                  sand bags, logs, or empty ammunition boxes to keep the barrel upright and
+                  stable. He ensures the barrel is up and pointing downrange. The gunner
+                  checks for heat with his fingertips only, starting just below the muzzle and
+                  working down to the base.
+
+                                                WARNING
+
+              During peacetime live -fire training, the gunner joins the rest
+              of the squad and waits one minute.
+
+                  (3) If the barrel is hot, the gunner cools it with water (or snow) and then
+                  rechecks for heat. If there is no water (or snow), he lets the barrel air cool
+                  until it can be easily handled with bare hands.
+
+Note : During peacetime live-fire training, the gunner signals the squad to come forward
+         once the barrel is cool.
+
+                  (4) Once the barrel is cool, the squad leader places his left hand (fingers
+                  and thumb extended and together) near the top of the barrel and his right
+                  hand on the underside just below the muzzle. In one smooth motion, the
+                  gunner lifts the base of the mortar with the M8 baseplate to the horizontal
+                  position. Once the barrel reaches the horizontal position, the squad leader
+                  extends the meaty portion of his thumbs over the end of the muzzle. The
+                  gunner continues to raise the base of the barrel past the horizontal. With
+                  the muzzle pointing downward, the gunner slightly shakes the barrel to
+                  help dislodge the round. As the round starts to clear the muzzle, the squad
+                  leader catches the round by squeezing his thumbs against the sides of the
+                  body--not the fuze--and removes it. The squad leader passes it to the
+                  ammunition bearer. If the fuze has safety pins (other than the M734), he
+                  tries to replace them.
+
+                  (5) The ammunition bearer inspects the primer of the ignition cartridge. If
+                  dented, he does not try to fire the round again. If the pins cannot be
+                  replaced, the fuze may be armed. He lays the round in the designated dud
+                  pit and notifies EOD personnel.
+
+                  (6) If the round does not come out after lifting the barrel up and shaking it,
+                  the gunner returns the barrel to the horizontal. The squad leader places the
+                  barrel in the designated dud pit and notifies EOD personnel.
+
+
+---
+
+                                                WARNING
+
+              Once the barrel reaches the horizontal, it must not be lowered
+              back down until the round is extracted. If the round slips
+              down the barrel before extraction, it could ignite, causing
+              death or personal injury.
+
+                  (7) If the primer on the round has not been dented, the gunner lifts the base
+                  as high as possible. He shakes the barrel to dislodge any debris and swabs
+                  the bore. He tries to fire the round again. If two misfires occur in a row
+                  without the primer being dented, the gunner notifies organizational
+                  maintenance IAW unit SOP.
+
+3-16. DISMOUNTING AND CARRYING OF THE MORTAR
+
+To dismount and carry the mortar, the squad leader commands OUT OF ACTION.
+
+         a. Dismounting. The ammunition bearer retrieves the aiming posts. The gunner
+         removes the sight, places an elevation of 0800 mils and a deflection of 3200 mils
+         on the M64 sightunit, and places it in the case. Then he lowers the mortar to its
+         minimum elevation and backs off one-quarter turn. He then centers the traversing
+         mechanism and unlocks the collar with the collar locking knob.
+
+                  (1) The squad leader grasps the base of the barrel and turns it 90 degrees
+                  (a one-quarter turn), until the spherical projection is in the unlocked
+                  position in the baseplate socket. He then lifts up on the base end of the
+                  barrel and removes it from the collar assembly. The ammunition bearer
+                  secures the baseplate.
+
+                  (2) The gunner relocks the collar with the collar locking knob. He moves
+                  to the front of the bipod and faces it, kneels on his right knee with his left
+                  hand on the gear case, and loosens the locking nut. He tilts the bipod to his
+                  left and closes the bipod legs, placing the cable around the legs and
+                  rehooking the cable. He stands up, placing his right hand on the sight slot
+                  and his left hand on the traversing handwheel.
+
+                  (3) On the command MARCH ORDER, squad members take the
+                  equipment distributed to them by the squad leader and move.
+
+         b. Carrying. The mortar can be carried by one or two men for short distances.
+         When the sight is left mounted on the mortar, care must be taken to prevent
+         damaging it.
+
+                  (1) For a one-man carry, the mortar is in the firing position with the mount
+                  attached to the barrel at the lower saddle. The elevating mechanism is
+
+
+---
+
+                  fully depressed, and the bipod legs are together. The mount is folded back
+                  underneath the barrel until the elevating mechanism latches to the collar
+                  assembly. The cable is passed through one of the baseplate openings and
+                  wrapped around the barrel. The cable is attached to itself, using its snap
+                  hook. The carrying handle is used to carry the complete mortar.
+
+                  (2) For a two-man carry, the M7 baseplate is one load, and the
+                  barrel/mount combination is the second load. The mount is attached to the
+                  barrel at the lower saddle, and the elevating mechanism is fully depressed.
+                  The bipod legs are together, and the bipod is folded up under the barrel
+                  until the elevating mechanism latches to the collar assembly. The cable is
+                  wrapped around the legs and barrel and hooked onto itself with its snap
+                  hook.
+
+Note: The carrying position can be in the upper or lower saddle, depending on the
+         mission or enemy situation.
+
+                  (3) For the handheld mode, the M8 baseplate is left attached to the barrel.
+                  The baseplate is rotated 90 degrees to the right and rotated up until the two
+                  spring plungers on the front edge of the baseplate body latch onto the
+                  protrusion on the right side of the basecap. Then the auxiliary carrying
+                  handle is placed in the carrying position.
+
+                                     Section IV. AMMUNITION
+
+            This section implements STANAG 2321 and QSTAG 900 (Edition 1).
+
+The type of ammunition selected to engage targets depends on the elevation.
+
+3-17. CLASSIFICATION
+
+All 60-mm mortar rounds, except training rounds, have three major components--a fuze,
+body, and tail fin with propulsion system assembly (Figure 3-8).
+
+
+---
+
+                  Figure 3-8. 60-mm mortar ammunition.
+
+a. Based upon use, the principal classifications of training and service ammunition
+for the M224 mortar are as follows:
+
+         (1) High explosive (HE)--Used against personnel and light materiel
+         targets.
+
+         (2) White phosphorus (WP)--Used as a screening, signaling, casualty-
+         producing, or incendiary agent.
+
+         (3) Illumination (ILLUM)--Used in night missions requiring illumination
+         for assistance in observation.
+
+         (4) Training practice (TP)--Used for training in limited areas.
+
+b. The two service rounds specifically developed for the M224 mortar are the
+M720 and M888 HE rounds. The M720 round with multioption fuze (M734) has
+four settings--proximity, near-surface, impact, and 0.5-second delay. The M888 is
+
+
+---
+
+a standard point-detonating fuze (M935) with both impact and 0.5-second delay
+settings.
+
+Note : A marking round, M722, and an illumination round, M721, have been type-
+         classified.
+
+c. The ammunition designed for the M2 and M19 mortars can be fired from the
+M224 mortar. When fired from the M224 mortar, greater ranges are achieved than
+those shown in the M2 and M19 firing tables. Standard A ammunition for the M2
+and M19 mortars is standard B for the M224 mortar. No more than two charges
+are used when firing the M720 or M999 in either of the 60-mm mortars.
+
+Note : Firing Table 60-P-1 has been published for all ammunition fired in the M224
+         mortar.
+
+3-18. COLOR CODES
+
+Mortar ammunition is painted and marked with a color code for quick, accurate
+identification. A color-code chart (Table 3-2) identifies rounds using the NATO color
+code and the US color code.
+
+                                  NATO COLOR CODE             US COLOR CODE
+
+TYPE OF ROUND                     ROUND MARKINGS BAND ROUND MARKINGS BAND
+
+HIGH EXPLOSIVE                    Olive  Yellow    NA Olive   Yellow Yellow
+  M720, M888, and M49A4           Drab    Drab
+
+Causes troop casualties and       Light  Red     Yellow Gray  Yellow Yellow
+damage to light material.         Green
+
+WHITE PHOSPHORUS                  White  Black     NA  NA     NA                NA
+  M302A1
+  M302A2                          Blue   White     NA  Blue   White  Brown
+
+To screen, signal, and act as an  Blue   White   Brown Blue   White
+incendiary.
+                                  Blue   White     NA  Blue   White
+ILLUMINATION
+  M83A3
+  M721
+
+To illuminate, signal, and mark.
+
+TRAINING PRACTICE
+  M69TP
+  M50A3
+  M766 (SRTR)
+
+For training and practice.
+
+
+---
+
+                         Table 3-2. Mortar ammunition color codes.
+
+3-19. PREPARATION OF AMMUNITION
+
+The ammunition bearer receives information in a fire command sent by the FDC and
+prepares the ammunition for firing. The number of rounds, type of round, fuze setting,
+and charge are all included in the fire command. To apply the data, the ammunition
+bearer selects the proper round, sets the fuze, and adjusts (removes or replaces) the
+charge on the quantity of rounds called for in the fire command. He also inspects each
+round for cleanliness and serviceability.
+
+                                                WARNING
+
+              For protection, a round(s) prepared but not fired should be
+              returned to its container(s) increment end first. The pull wire
+              on the M888 fuze must be replaced before returning it to its
+              container.
+
+The ammunition bearer should cut charges immediately in an FFE mission. In an adjust-
+fire mission, he should prepare the round and delay cutting the charges until FFE is
+entered. This is a precaution if the charge changes during adjustment.
+
+3-20. TYPES OF FUZES
+
+The two types of fuzes are the M734 multioption fuze and the M935 point-detonating
+fuze.
+
+         a. Multioption Fuze, M734. This fuze for the M720 HE round can be set to
+         function as proximity burst, near-surface burst, impact burst, or delay burst
+         (Figure 3-9). Tools are not needed to set this fuze. The setting can be changed any
+         number of times before firing without damaging the fuze. The fuze has no safety
+         pins or wires to reduce preparation time. The round bursts at 1 to 4 meters (3 to 13
+         feet) above the target. If a round set for proximity fails to burst at the proximity
+         distance above the target, it automatically bursts at 0 to 1 meter (0 to 3 feet) above
+         the target. If a round set for near-surface burst (NSB) fails to burst at the near-
+         surface distance above the target, it automatically bursts on impact. If a round set
+         for impact fails to burst on impact, it automatically bursts 0.5 (1/2) second after
+         impact (delay).
+
+
+---
+
+                     Figure 3-9. Multioption fuze, M734.
+
+b. Point-Detonating Fuze, M935. This fuze for the M888 HE round can be set to
+function as superquick (SQ) or delay (D) (Figure 3-10). It has a standard pull-wire
+safety that is removed immediately before firing.
+
+
+---
+
+                          Figure 3-10. Point-detonating fuze, M935.
+
+3-21. STANDARD B AMMUNITION
+
+Standard B ammunition, designed for the M2 and M19 mortars, fits the bore (diameter)
+of the M224. Since the M224 has a longer barrel, firing tables developed for the standard
+B ammunition are not accurate when standard B ammunition is fired in the M224.
+
+         a. The M720, M721, and M722 cartridges (designed specifically for M224
+         mortars) can be fired in the M19 mortar at reduced charges: maximum charge 2
+         for training and charge 3 in combat.
+
+         b. The standard B rounds shown in Figure 3-11 are available for training with the
+         M224. Ranges given are for general reference and could vary from those actually
+         obtained. Never fire over charge 1 for the M720 or M888 cartridge when using
+         the M224 in the handheld mode. Using standard B ammunition, HE can be fired
+         up to charge 3 and WP/ILLUM can be fired up to charge 2.
+
+
+---
+
+                    Figure 3-11. Standard B ammunition.
+
+c. The M766 sh ort -range training round (SRTR) cartridge (Figure 3-12) can be
+fired from the 60-mm mortar using standard sight and fire control equipment and
+firing table FT 60-P-1. A 60-mm subcaliber device can be inserted in the 4.2-inch
+mortar to fire the M766 (SRTR) for training 4.2-inch heavy mortar platoons.
+
+
+---
+
+                              Figure 3-12. M766 (SRTR) cartridge.
+
+                  (1) The M766 (SRTR) cartridge weighs 2.9 pounds and is 11 inches long.
+                  It has a maximum range of 538 meters and a minimum range of 56 meters.
+                  The cartridge is blue with white markings and one brown band.
+
+                  (2) The M766 (SRTR) uses an M779 PD fuze, which produces a visible
+                  flash, a cloud of smoke, and an audible sound on impact for spotting
+                  purposes. The M779 has multioption type (PRX/NSB/IMP/DLY) dummy
+                  settings to simulate an M734 multioption fuze.
+
+3-22. CARE AND HANDLING
+
+Ammunition is manufactured and packed to withstand all conditions normally
+encountered in the field. However, moisture and high temperature can damage
+ammunition. Also, explosive elements in primers and fuzes are sensitive to strong shock
+and high temperature. Complete cartridges being fired should be handled with care.
+
+                                                WARNING
+
+              Do not try to disassemble any fuze.
+
+
+---
+
+a. The moisture-resistant seal of the shipping container should not be broken until
+the ammunition is to be used. When a large number of cartridges (15 or more for
+each squad) are prepared before a combat mission, the cartridges may be removed
+from the shipping container and the propellant increments adjusted. Then the fin
+assemblies should be reinserted into the container to protect the propelling
+charges.
+
+b. Ammunition should be protected from mud, dirt, sand, water, and direct
+sunlight. Cartridges must be free of such foreign matter before firing.
+Ammunition that is wet or dirty should be wiped off at once.
+
+c. Before firing, the gunner must remove the safety wire of the M888. Safety
+wires should be reinserted into all cartridges that have been prepared for firing but
+not used. Powder increments that have been removed should be replaced.
+Cartridges should be returned to their original packing and marked accordingly.
+(These cartridges should be used first in subsequent firings.)
+
+                                      WARNING
+
+     Duds are cartridges that have been fired but have not
+     exploded. Duds are dangerous and should not be handled by
+     anyone other than a member of the EOD team.
+
+d. Ammunition should always be stored under cover. When this is not possible, it
+is raised at least 6 inches (15 centimeters) off the ground and covered with a
+double thickness of tarpaulin. Trenches are dug around the ammunition pile for
+drainage. WP cartridges must be stored with the fuze end up.
+
+         (1) In combat, store ammunition underground such as in bunkers.
+
+         (2) In the field, use waterproof bags, ponchos, ground cloths, and dunnage
+         to prevent deterioration of ammunition. Ensure that ammunition does not
+         become water-soaked.
+
+         (3) In arctic weather, store the ammunition in wooden boxes or crates.
+         Place the boxes or crates on pallets and cover them with a double
+         thickness of tarpaulin.
+
+                                      WARNING
+
+     Do not walk on, tumble, drag, throw, roll, or drop
+     ammunition. Ensure that ammunition is kept in original
+     container until ready for use. Do not combine WP and HE in
+     storage. Maintain compatibility and quantity of ammunition,
+
+
+---
+
+as outlined in TM 9-1300-206.
+
+
+---
+
+                                       CHAPTER 4
+
+                    81-mm MORTAR, M252
+
+         The 81-mm mortar, M252, delivers timely, accurate fires to meet the
+         requirements of supported troops. This chapter discusses assigned
+         personnel duties, crew drill, mechanical training, and characteristics of
+         the mortar.
+
+         Section I. SQUAD AND SECTION ORGANIZATION AND DUTIES
+
+Each member of the infantry mortar squad has principle duties and responsibilities. (See
+FM 7-90 for a discussion of the duties of the platoon headquarters.)
+
+4-1. ORGANIZATION
+
+If the mortar section is to operate quickly and effectively in accomplishing its mission,
+mortar squad members must be proficient in individually assigned duties. Correctly
+applying and performing these duties enables the mortar section to perform as an
+effective fighting team. The platoon leader commands the platoon and supervises the
+training of the elements. He uses the chain of command to assist him in effecting his
+command and supervising duties.
+
+4-2. DUTIES
+
+The mortar squad consists of five men (Figure 4-1). Their firing positions and principal
+duties are as follows:
+
+
+---
+
+                  Figure 4-1. Position of squad members.
+
+a. The squad leader stands behind the mortar where he can command and control
+his squad. In addition to supervising the emplacement, laying, and firing of the
+mortar, he supervises all other squad activities.
+
+b. The gunner stands to the left side of the mortar where he can manipulate the
+sight, elevating handwheel, and traversing handwheel. He places firing data on the
+sight and lays the mortar for deflection and elevation. He makes large deflection
+shifts by shifting the bipod assembly and keeps the bubbles level during firing.
+
+
+---
+
+         c. The assistant gunner stands to the right of the mortar, facing the barrel and
+         ready to load. In addition to loading, he swabs the bore after 10 rounds have been
+         fired or after each fire mission. He may assist the gunner in shifting the mortar
+         when the gunner is making large deflection changes.
+
+         d. The first ammunition bearer stands to the right rear of the mortar. He has the
+         duty of preparing the ammunition and passing it to the assistant gunner. He is also
+         the squad driver.
+
+         e. The second ammunition bearer stands to the right rear of the mortar behind the
+         ammunition bearer. He maintains the ammunition for firing and provides local
+         security for the mortar position. He performs other duties as the squad leader
+         directs.
+
+                                     Section II. COMPONENTS
+
+The 81-mm mortar, M252, is a smooth-bore, muzzle-loaded, high-angle-of-fire weapon.
+The components of the mortar consist of a cannon, mount, and baseplate. This section
+discusses the characteristics and nomenclature of each component (Figure 4-2).
+
+
+---
+
+                             Figure 4-2. The 81-mm mortar, M252.
+4-3. TABULATED DATA
+The tabulated data of the 81-mm mortar, M252, are shown in Table 4-1.
+
+Weights (pounds)
+
+System (including basic issue items)   121
+
+Barrel (with blast attenuator device)  35
+
+Mount                                  27
+
+M3A1 Baseplate                         29
+
+M64A1 Sightunit                        2.5
+
+
+---
+
+         Ammunition                                    HE Smoke   Illum  Practice
+                                                       9.4 10.6    9.1      9.4
+                  Ready to fire                        12.0 13.8  12.4     12.5
+                  In single container                  57.0 63.0  60.0     60.0
+                  In three-round pack
+                                                       800 to 1515 mils
+Elevation                                                    10 mils
+         Elevation (approximate)
+         For each turn of elevation drum
+         (approximate)
+
+Traverse
+
+Right or left from center (approximate)
+
+                                  100 mils (10 turns)            83 to 5,608 meters
+Range
+                                                        15 rounds per minute indefinitely
+         Minimum to maximum                            30 rounds per minute for 2 minutes
+Rate of Fire
+                                                              30 percent greater than
+         Sustained                                            current US M374 series
+         Maximum
+                                                          90 to 150 by 30 to 40 meters
+HE Lethality                                                    for 2 2 to 3 minutes
+         (M821/M889)
+                                                       600,000 candlepower for 1 minute
+Smoke Screen (M819)                                     M821 w/multioption fuze M734
+         (maximum range 4,875 meters)                     M889 w/point-detonating fuze
+
+Illumination (M853A1)                                                    M935
+         (maximum range 5,050 meters)                        M64A1, lightweight, self-
+
+HE Fuze Options                                                      Illuminating
+
+Sight
+
+
+---
+
+                                     Table 4-1. Tabulated data.
+4-4. CANNON ASSEMBLY, M253
+The cannon assembly consists of the barrel that is sealed at the lower end with a
+removable breech plug, which houses a removable firing pin (Figure 4-3). At the muzzle
+end is a cone-shaped blast attenuator device (BAD) that is fitted to reduce noise. The
+BAD is removed only by qualified maintenance personnel.
+
+                             Figure 4-3. Cannon assembly, M253.
+Note: The terms cannon and barrel are used interchangeably in this chapter.
+4-5. MOUNT, M177
+The mount consists of elevating and traversing mechanisms and a bipod (Figure 4-4).
+
+
+---
+
+                        Figure 4-4. Mount, M177, in folded position.
+
+         a. The bipod provides front support for the barrel and carries the gears necessary
+         to lay the mortar. The barrel clamp, which consists of an upper and lower clamp,
+         is situated at the top. The upper clamp is fitted with a locking arrangement that
+         consists of a curved handle and a spring-loaded locking rod, which is ball-shaped
+         at its lower end. The lower clamp is shaped and bored on each side to house the
+         buffer cylinders. On its right side, the clamp is recessed to receive the ball end of
+         the locking rod. A safety latch located at the side of the recess is used to secure
+         the ball.
+
+         b. The sight bracket is attached to the buffer carrier, which is fitted to the
+         traversing screw assembly. Attached to the right of the screw is the traversing
+         handwheel. The traversing screw assembly is fitted to the clamp assembly, which
+         is pivoted in the center on an arm attached to the elevating leg. Attached to the
+         arm is the cross-leveling mechanism, which is attached to the clamp assembly at
+         its upper end.
+
+         c. The elevating shaft is contained in the elevating leg; to the left of the elevating
+         leg is the elevating handwheel. A plain leg is fitted to a stud on the elevating leg
+         and is secured by a leg-locking handwheel. A spring-loaded locating catch is
+         behind the elevating gear housing, which locates the plain leg in its supporting
+         position for level ground. A securing strap is attached to the plain leg for securing
+         the bipod in the folded position. Both legs are fitted with a disk-shaped foot with a
+         spike beneath to prevent the mount from slipping.
+
+4-6. BASEPLATE, M3A1
+
+
+---
+
+The baseplate (Figure 4-5) is of one-piece construction, and supports and aligns the
+mortar for firing. During firing, the breech plug on the barrel is sealed and locked to the
+rotatable socket in the baseplate.
+
+                                   Figure 4-5. Baseplate, M3A1.
+                                      Section III. OPERATION
+
+This section contains information on how to prepare the 81-mm mortar, M252, for firing,
+how to conduct safety checks, and, if a misfire should occur during firing, what actions
+the crew applies to remove the cartridge from the barrel.
+4-7. PREMOUNT CHECKS
+Before the mortar is mounted, the squad must perform premount checks. Each squad
+member should be able to perform all the following premount checks:
+
+         a. The gunner checks the baseplate and ensures that--
+
+
+---
+
+         (1) The rotating socket is free to move in a complete circle.
+         (2) The ribs and braces have no breaks, cracks, or dents.
+
+         (3) The circlip is correctly located, securing the rotating socket to the
+         baseplate.
+b. The assistant gunner checks the bipod and ensures that--
+         (1) The barrel clamps are clean and dry.
+         (2) The barrel carrier is centered.
+
+         (3) The securing strap is correctly located, securing the barrel clamps and
+         buffers to the plain leg.
+         (4) The leg-locking handwheel is hand tight.
+         (5) Four inches of elevation shaft are exposed, and the shaft is not bent.
+c. The first ammunition bearer checks the barrel and ensures that--
+
+         (1) The barrel is clean and free from grease and oil both inside and out.
+         (2) The breech plug is screwed tightly to the barrel.
+         (3) The firing pin is secured correctly.
+         (4) The blast attentuator device is secured correctly.
+
+d. The squad leader supervises the squad drill and is responsible for supervising
+the laying out of the equipment as shown in Figure 4-6. The equipment is placed
+out the same as for the gunner’s examination (Chapter 9).
+
+
+---
+
+                                Figure 4-6. Layout of equipment.
+
+4-8. MOUNTING OF THE MORTAR
+
+The squad leader picks up the sight case and the two aiming posts, and moves to the exact
+position where the mortar is to be mounted. He places the sight case and aiming posts to
+the left front of the mortar position. The squad leader points to the exact spot where the
+mortar is to be mounted. He indicates the initial direction of fire by pointing in that
+direction and commands ACTION.
+
+         a. The gunner places the outer edge of the baseplate against the baseplate stake so
+         that the left edge of the cutaway portion of the baseplate is aligned with the right
+         edge of the stake (Figure 4-7). He rotates the socket so that the open end is
+
+
+---
+
+         pointing in the direction of fire. During training, the gunner may use the driving
+         stake from the aiming post case.
+
+                  Figure 4-7. Baseplate placed against baseplate stake.
+Note: The squad leader indicates the direction of fire when mounting.
+
+         b. When the baseplate is in position, the first ammunition bearer lowers the breech
+         plug into the rotating socket and rotates the barrel a quarter of a turn to lock it. He
+         ensures that the firing pin recess is facing upwards. He stands to the rear of the
+         baseplate and supports the barrel until the bipod is fitted.
+         c. The assistant gunner lifts the bipod and stands it on its elevating leg so that the
+         elevating handwheel is to the rear and the plain leg is to the front. He releases the
+         securing strap, loosens the leg-locking handwheel, and lowers the plain leg until
+         the locating catch engages in the recess. The leg-locking handwheel must then be
+         tightened by hand, ensuring the teeth on either side are correctly meshed. The
+         assistant gunner exposes 8 inches (200 millimeters) of elevation shaft, leaving the
+         elevation handwheel unfolded. He opens the cross-level handwheel, traversing
+         handwheel, and barrel clamp. The assistant gunner carries the bipod to the front of
+         the barrel and places the bipod feet on the ground 12 to 15 inches in front of the
+         baseplate and astride the line of fire. He positions the lower barrel clamp against
+         the lower stop band on the barrel and secures the upper barrel clamp. He must
+         ensure that the ball-shaped end of the locking rod is secured in its recess by the
+         locking latch.
+
+
+---
+
+         d. The gunner removes the sight from its case, mounts it on the mortar, and sets a
+         deflection of 3200 mils and an elevation of 1100 mils. He levels all bubbles.
+
+4-9. SAFETY CHECKS BEFORE FIRING
+
+The following safety checks must be enforced before firing the mortar.
+
+         a. The gunner ensures that--
+
+                  (1) Mask clearance and overhead clearance are sufficient.
+
+                            (a) Since the mortar is normally mounted in defilade, there could
+                            be a mask such as a hill, tree, building, or rise in the ground.
+                            Overhead interference can be branches of trees or roofs of
+                            buildings. In any case, the gunner must ensure that the cartridge
+                            does not strike an obstacle.
+
+                            (b) In selecting the exact mortar position, the leader looks quickly
+                            for mask clearance and overhead interference. After the mortar is
+                            mounted, the gunner makes a thorough check.
+
+                            (c) The gunner determines mask and overhead clearance by
+                            sighting along the barrel with his eye near the breech plug. If the
+                            line of sight clears the mask, it is safe to fire. If not, he may still
+                            fire at the desired range by selecting a charge zone having a higher
+                            elevation. When firing under the control of an FDC, he reports to
+                            the FDC that mask clearance cannot be obtained at a certain
+                            elevation.
+
+                            (d) Firing is slowed if mask clearance must be checked before each
+                            firing but this can be eliminated if minimum mask clearance is
+                            determined. This is accomplished by depressing the barrel until the
+                            top of the mask is clear. The gunner levels the elevation bubble by
+                            turning the elevation micrometer knob and reading the setting on
+                            the elevat ion scale and elevation micrometer--this setting is the
+                            minimum mask clearance. The squad leader notifies the FDC of
+                            the minimum mask clearance elevation. Any target that requires
+                            that elevation, or a lower one, cannot be engaged from that
+                            position.
+
+                            (e) If the mask is not regular throughout the sector of fire, the
+                            gunner determines the minimum mask clearance as described
+                            above. Placing the mortar in position at night does not relieve the
+                            gunner of the responsibility of checking for mask clearance and
+                            overhead interference.
+
+
+---
+
+                  (2) The barrel is locked to the baseplate, and the open end of the socket
+                  points in the direction of fire.
+
+                  (3) The firing pin recess faces upwards.
+
+                  (4) The bipod locking latch is locked, securing the barrel clamps.
+
+Note : See TM 9-1015-200-10 for more on loading and firing.
+
+                  (5) The leg-locking handwheel is tight.
+
+         b. The assistant gunner cleans the bore and swabs it dry.
+
+         c. The first ammunition bearer ensures that each cartridge is clean, the safety pin
+         is present, and the ignition cartridge is in good condition.
+
+4-10. SMALL DEFLECTION AND ELEVATION CHANGES
+
+With the mortar mounted and the sight installed, the gunner lays the sight on the two
+aiming posts (placed out 50 and 100 meters from the mortar) on a referred deflection of
+2800 mils and an elevation of 1100 mils. The mortar is within two turns of center of
+traverse. The vertical cross line of the sight is on the left edge of the aiming point.
+
+         a. The gunner is given a deflection change in a fire command between 20 and 60
+         mils inclusive. The elevation change announced must be less than 90 mils and
+         more than 35 mils.
+
+         b. As soon as the sight data are announced, the gunner places it on the sight, lays
+         the mortar for elevation, and traverses onto the aiming post by turning the
+         traversing handwheel and adjusting nut in the same direction. One-quarter turn on
+         the adjusting nut equals one turn of the traversing handwheel. When the gunner is
+         satisfied with his sight picture he announces, "Up."
+
+Note : All elements given in the fire command are repeated by the squad.
+
+         c. After the gunner has announced, "Up," the squad leader should check the
+         mortar to determine if the exercise was performed correctly.
+
+4-11. LARGE DEFLECTION AND ELEVATION CHANGES
+
+With the mortar mounted and the sight installed, the gunner lays the sight on the two
+aiming posts (placed out 50 and 100 meters from the mortar) on a referred deflection of
+2800 mils and an elevation of 1100 mils.
+
+
+---
+
+a. The gunner is given a deflection and elevation change in a fire command
+causing the gunner to shift the mortar between 200 and 300 mils for deflection
+and between 100 and 200 for elevation.
+
+b. As soon as the sight data are announced, the gunner places it on the sight. The
+gunner should expose 6 inches (150 millimeters) of elevation shaft and center the
+buffer carrier. This ensures a maximum traversing and elevating capability after
+making the movement.
+
+c. The assistant gunner moves into position to the front of the bipod on his right
+knee and grasps the bipod legs (palms up), lifting until they clear the ground
+enough to permit lateral movement. The gunner moves the mortar as the assistant
+gunner steadies it. The assistant gunner attempts to maintain the traversing
+mechanism on a horizontal plane. To make the shift, the gunner places the fingers
+of his right hand in the muzzle and his left hand on the left leg. He moves the
+mortar until the vertical line of the sight is aligned approximately on the aiming
+post. When the approximate alignment is completed, the gunner signals the
+assistant gunner to lower the bipod by pushing down on the mortar.
+
+d. The gunner rough levels the cross-level bubble by making the bubble bounce
+from one side to the other. He then checks the sight picture to ensure he is within
+20 mils of a proper sight picture. If he is not within 20 mils, the gunner and
+assistant gunner must make another large shift before moving on.
+
+e. The gunner centers the elevation bubble. He lays for deflection, taking the
+proper sight picture. The mortar should be within two turns of center of traverse
+when the task is compete.
+
+f. The open end of the socket must continue to point in the direction of fire.
+Normally, it can be moved by hand, although this may be difficult to do if the
+mortar is moved through a large arc. If required, the gunner/assistant gunner
+lowers the barrel so that the breech plug engages with the open end of the socket,
+and he uses the barrel as a lever to move the socket.
+
+g. The barrel clamps can be moved along the barrel to counter large changes in
+elevation. This may preclude moving the bipod. It is especially useful if the
+baseplate sinks deep into the ground during prolonged firing. Upon completion of
+any bipod movement on the barrel, the gunner ensures that the firing pin recess is
+facing upward.
+
+h. Where the ground is uneven and there is no level surface for the bipod, the
+gunner can adjust the plain leg. While the assistant gunner supports the barrel, the
+gunner slackens the leg-locking handwheel, releases the locating catch, and
+positions the plain leg. The leg-locking handwheel must then be tightened,
+ensuring the teeth are correctly meshed.
+
+
+---
+
+4-12. REFERRING OF THE SIGHTAND REALIGNMENT OF AIMING POSTS
+USING M64 SIGHT
+
+Referring and realigning aiming posts ensure that all mortars are set on the same data.
+The section leader, acting as FDC, has one deflection instead of two or more.
+
+         a. The mortar is mounted and the sight is installed. The sight is laid on two aiming
+         posts (placed out 50 and 100 meters from the mortar) on a referred deflection of
+         2800 mils and an elevation of 1100 mils. The mortar is within two turns of center
+         of traverse. The gunner is given an administrative command to lay the mortar on a
+         deflection of 2860 or 2740 mils. The mortar is then re-laid on the aiming posts
+         using the traversing crank.
+
+         b. The gunner is given a deflection change between 5 and 25 mils, either
+         increasing or decreasing from the last stated deflection, and the command to refer
+         and realign aiming posts.
+
+         EXAMPLE
+
+                  REFER DEFLECTION TWO EIGHT SEVEN FIVE (2875), REALIGN
+                  AIMING POSTS.
+
+         c. Upon receiving the command REFER, REALIGN AIMING POST, two actions
+         take place at the same time in the mortar squad. The gunner places the announced
+         deflection on the sight (without disturbing the lay of the weapon) and looks
+         through the sightunit. At the same time, the first ammunition bearer moves out on
+         the double to realign the aiming posts. He knocks down the near aiming post and
+         proceeds to the far aiming post. Following the arm-and-hand signals of the gunner
+         (who is looking through the sight unit), he moves the far aiming post so that the
+         gunner obtains an aligned sight picture. The same procedure for aligning the far
+         aiming post is used to align the near aiming post.
+
+4-13. MALFUNCTIONS
+
+See Chapter 3, paragraph 3-14 for a detailed discussion of malfunctions.
+
+4-14. REMOVAL OF A MISFIRE
+
+When a misfire occurs, any member of the squad immediately announces, "Misfire." The
+entire squad stays with the mortar. The gunner then kicks the barrel several times with his
+heel in an attempt to dislodge the round. If the round fires, the mortar is re-laid on the
+aiming point and firing is continued.
+
+                                                WARNING
+
+
+---
+
+     During peacetime live -fire training, all personnel, except the
+     gunner, move 50 meters or farther to the rear of the mortar.
+
+a. If the round does not fire, the gunner tests the barrel for heat. If the barrel is
+cool enough to handle, the crew removes the round as described below. If the
+barrel is hot, the gunner may then apply water to the outside of the barrel until it is
+cool. If water is not available, the gunner must stand clear of the mortar until the
+barrel is cool.
+
+                                      WARNING
+
+     During peacetime live -fire training, if the round does not fire,
+     the gunner joins the crew and waits one minute to avoid a
+     possible personal injury due to a cookoff. After waiting one
+     minute, the gunner returns to the mortar and tests the barrel
+     for heat. When the barrel is cool enough to handle, the gunner
+     signals for the rest of the crew to come forward.
+
+b. After the barrel cools, the gunner removes the sight and firing pin. This ensures
+that the mortar does not fire should the round slip down the barrel during the
+subsequent drills. The gunner can depress the barrel, if necessary, to provide
+easier access to the firing pin. The gunner unlocks the barrel clamp and rotates the
+barrel, unlocking the breech plug from the rotating socket of the baseplate. Then
+he relocks the barrel clamp.
+
+c. The gunner grasps both ends of the traverse screw assembly and supports the
+mortar during the subsequent drill. The assistant gunner places his right hand
+palm up (1 inch from the muzzle end) under the BAD and his left hand palm
+down (1 inch from the muzzle end) on top. He places his thumbs alongside the
+forefingers, being careful to keep both hands away from the muzzle. The first
+ammunition bearer puts both hands on the cooling fins under the barrel and
+slowly lifts the barrel until it is horizontal. He must not stand directly behind the
+mortar.
+
+d. When the barrel reaches the horizontal position, and not before, the assistant
+gunner moves the thumb of each hand over the muzzle. When the fuze of the
+misfired round reaches the BAD, the assistant gunner stops the round with his
+thumbs (he does not touch the fuze) and carefully removes it from the barrel. The
+first ammunition bearer shakes the barrel to dislodge any remnants from the last
+round fired, and he lowers the barrel into the rotating socket of the baseplate.
+
+e. The assistant gunner passes the round to the first ammunition bearer who
+inspects it for the cause of the misfire. If the primer of the ignition cartridge is
+dented, the first ammunition bearer attempts to replace the safety wire and places
+
+
+---
+
+         the round in a marked, safe location for disposal by ordnance personnel. If the
+         primer is not dented, the round may be used again. The firing pin must be
+         replaced and the bore swabbed.
+
+         f. If the above procedure fails to remove the misfire, the barrel must be kept
+         horizontal. Then it is removed from the bipod and laid horizontally on the ground
+         at the dud pit until it can be turned over to ordnance personnel.
+
+4-15. DISMOUNTING OF THE MORTAR
+
+To dismount the mortar, the squad leader commands, OUT OF ACTION. At this
+command, the squad proceeds as follows:
+
+         a. The gunner removes the sight and places it in the case with 3200 deflection and
+         0800 elevation indexed.
+
+         b. The first ammunition bearer holds the barrel until the assistant gunner has
+         removed the mount. The barrel is then rotated a quarter turn to unlock it from the
+         socket, and it is placed in an area designated by the squad leader. The second
+         ammunition bearer retrieves the aiming posts.
+
+         c. The assistant gunner disengages the barrel clamps and moves the bipod from
+         the immediate area of the mortar position. The barrel clamps are then closed.
+         With the clamps facing away from him, the assistant gunner traverses the buffer
+         carrier to the traversing handwheel and folds the handle. He exposes 1 inch (25
+         millimeters) of cross-level shaft and folds the handle. He exposes 4 inches (100
+         millimeters) of elevation shaft and folds the handle. Finally, the assistant gunner
+         loosens the leg-locking handwheel, presses the spring-loaded locating catch, and
+         raises the plain leg behind the buffer cylinders until it touches the traversing
+         handwheel. He tightens the leg-locking handwheel (ensuring the teeth are
+         correctly meshed) and fastens the securing strap over the arm and around the
+         buffers.
+
+         d. The gunner recovers the baseplate to the area designated by the squad leader.
+
+         e. The squad leader picks up the aiming posts and sight. At the command,
+         MARCH ORDER, the squad places the mortar, equipment, and ammunition in the
+         squad vehicle and trailer.
+
+                                     Section IV. AMMUNITION
+
+            This section implements STANAG 2321 and QSTAG 900 (Edition 1).
+
+The ammunition that can be fired by the 81-mm mortar, M252, is identified and
+described herein.
+
+
+---
+
+4-16. CLASSIFICATION
+
+Ammunition is typed according to use (Table 4-2). High explosive is used for both
+fragmentation and blast effect against personnel and light-skinned vehicles. Red
+phosphorus/white phosphorus is used for screening, producing casualties, creating
+incendiary effects, and signaling. Illuminating is used for battlefield illumination and
+signaling. Training practice is used only for training.
+
+                                        CARTRIDGE
+
+                M821        M889        M819         M853        M880
+                 HE          HE                                   TP
+TYPE              A           A         RP           ILLUM         A
+STANDARD          83          83                                   47
+MINIMUM RANGE                           A            A
+(meters)
+MAXIMUM RANGE                           300          300
+(meters)
+EFFECTIVE       5,608       5,608       4,875        5,100       458
+BURSTING AREA
+                40-meter 40-meter                    1,200-
+AVERAGE BURN    diameter diameter                    meter
+TIME (seconds)                                       diameter
+FUZE
+                                                         60
+COLOR CODING
+                  M734        M935         M772        M772        M775
+                                                       M768
+                Olive drab  Olive drab  Light green              Blue with
+                 w/yellow    w/yellow      Brown       White       white
+                markings    markings        band     with black
+                                          w/black    markings    markings
+
+                                         markings
+
+Table 4-2. Types of rounds, classification, and characteristics for the 81-mm mortar,
+                                                   M252.
+
+Note: Standard A ammunition for the M29A1 mortar is Standard B for the M252
+         mortar (Table 4-3). Standard B ammunition for the M29A1 mortar is Standard C
+         for the M252 mortar.
+
+                                   CARTRIDGE
+
+                M374A3      M375A2                   M301A3      SABOT
+
+
+---
+
+TYPE                HE      WP                  ILLUM        TP
+STANDARD             A
+MINIMUM             73                          A            NA
+RANGE (meters)
+MAXIMUM           4,800     70                  100          70
+RANGE (meters)
+EFFECTIVE       34-meter    4,595               3,150        435
+BURSTING AREA   diameter
+AVERAGE BURN                                    1,100-meter
+TIME (seconds)    M524                            diameter
+FUZE              M526
+                  M532                                60
+COLOR CODING
+                Olive drab  M524                M84          M744
+                w/yellow                                     M745
+                markings    M526                             M746
+                                                             M747
+                            M567
+                                                             Silver
+                            Light green Yellow  White with   metal
+                               band with red       black
+                                  markings
+                                                 markings
+
+Table 4-3. Types of rounds, classification, and characteristics for the 81-mm mortar,
+                    M29A1 (Standard B for the 81-mm mortar, M252).
+
+         a. Identification. All mortar cartridges are painted to prevent rust and to identify
+         their type.
+
+                  (1) Marking on container. The contents of ammunition containers are
+                  shown by markings. Additional information is included on an ammunition
+                  data card inside each container.
+
+                  (2) Color code. All rounds are colored according to their type.
+
+                  (3) Markings on rounds. Each round is stenciled with the ammunition lot
+                  number, type of round, type of filler, and caliber.
+
+         b. Ammunition Lot Number. An ammunition lot number is assigned to each
+         ammunition lot, which is marked on each cartridge and packing container. It is
+         used for records such as reports on condition, malfunctions, and accidents.
+
+         c. Authorized Cartridges. The following are authorized (Standard B) cartridges
+         for the 81-mm mortar, M252:
+
+              • High explosive--M821, M889, M374-series, and M362.
+
+
+---
+
+              • Red phosphorus/white phosphorus--M819 and M375-series.
+              • Illuminating--M853 and M301-series.
+              • Training practice--M879, M880, M68, and sabot.
+
+4-17. FUNCTION
+
+Each cartridge has fins around the tail to stabilize it in flight and to cause it to strike fuze-
+end first. The propelling charge consists of an ignition cartridge and removable propellant
+increments. The ignition cartridge (with primer) is fitted into the base of the fin shaft. The
+removable increments are fitted onto or around the shaft, depending on their type. The
+cartridge is dropped down the barrel, fin-end first. The ignition cartridge strikes the firing
+pin and detonates, which causes a flash that passes through the radial holes in the shaft.
+The propellant increments are ignited, which produce rapidly expanding gases that force
+the cartridge from the barrel. The obturating ring ensures equal muzzle velocities in hot
+or cold barrels by keeping all the gases in the barrel until the cartridge has fired. When
+fired, the cartridge carries the ignition cartridge with it, leaving the mortar ready for the
+next cartridge.
+
+4-18. HIGH-EXPLOSIVE AMMUNITIO N
+
+Several types of HE ammunition are used in the 81-mm mortar, M252. HE ammunition is
+used against personnel and materiel.
+
+         a. The M821 HE cartridge (M252 only) is a British-made cartridge fitted with the
+         US M734 multioption fuze. It is constructed from ductile cast iron and contains
+         about 1.5 pounds of cyclonite (RDX)/trinitrotoluene (TNT) composition
+         explosive. The aluminum tail assembly has six integral fins equally spaced around
+         the rear, which stabilize the round in flight. The cartridge is painted olive drab
+         with yellow markings. Each cartridge weighs about 10 pounds and is provided
+         with the M223 propelling charge, consisting of four horseshoe-shaped increments
+         fitted around the tail.
+
+         b. The M889 HE cartridge (M252 onlyXUS Marine Corps) is of the same
+         construction as the M821 cartridge in every detail except the fuze, which is the
+         M935.
+
+         c. The M374A3 HE cartridge is constructed from pearlitic malleable cast iron and
+         contains about 2.10 pounds of composition B explosive. It uses the M205
+         propelling charge, consisting of four horseshoe-shaped increments fitted around
+         the tail. The cartridge is painted olive drab with yellow markings and weighs
+         about 9.05 pounds. It can be fitted with either the M567, M524, or M532-series
+         fuzes.
+
+         d. The M374A2, M374A1, and M374 HE cartridges are painted olive drab with
+         yellow markings and are constructed from pearlitic malleable cast iron. They
+         contain about 2.10 pounds of composition B explosive. The M374 cartridge is
+
+
+---
+
+         fitted with the M90 propelling charge. The M374A2 and M374A1 cartridges are
+         fitted with the M90A1 propelling charge. Both the M90 and M90A1 propellants
+         are in nine wax-tested, cotton cloth, bag increments assembled to the tail unit. The
+         cartridge can be fitted with the M524-series, M526-series, M567, or M532 fuzes.
+         Those cartridges assembled with the M524 (A1, A2, A3, or A4) fuze are for use
+         by the US Marine Corps and US Navy only. Cartridges assembled with the M532
+         fuze must be fired above charge 0. Short cartridges can be expected when firing
+         below charge 4. The cartridge weighs about 9.12 pounds.
+
+         e. The M362A1 and M362 HE cartridges are of steel forge construction and
+         contain about 2.10 pounds of composition B explosive. They use the M5
+         propelling charge that consists of eight cloth bags attached to the tail unit. The
+         cartridges are painted olive drab with yellow markings. They are fuzed with the
+         M524-series, M256-series, or M532. Cartridges assembled with the M524 (A1,
+         A2, A3, or A4) fuze are for use by the U.S. Marine Corps and U.S. Navy only.
+         Cartridges assembled with the M532 fuze must be fired above charge 0. The
+         cartridge weighs about 9.4 pounds.
+
+4-19. RED/WHITE PHOSPHORUS AMMUNITION
+
+Several types of RP/WP ammunition are described herein.
+
+         a. The M819 cartridge (M252 only) has a cylindrical body and contains red
+         phosphorus that produces white smoke on contact with air. The cartridge uses the
+         M218 propelling charge, which consists of four horseshoe-shaped increments
+         fitted around the tail. The cartridge is painted light green with black markings and
+         one narrow brown band. It uses the M772 mechanical time fuze and weighs about
+         10.6 pounds.
+
+Note: Red phosphorus rounds can be fired from the M29/M29A1 at a reduced charge
+         (maximum charge = charge 2). This round may be stored in a horizontal position.
+
+         b. The M375A3 cartridge is ballistically similar to the M374A3 (HE) cartridge. It
+         contains white phosphorus that produces white smoke on contact with air. The
+         cartridge is painted light green and has red markings and one narrow yellow band.
+         The cartridge uses the M205 propelling charge and is assembled with the M567 or
+         M524-series fuze. It weighs about 9.05 pounds. This round must be stored in a
+         vertical position.
+
+         c. The M375A2, M375A1, and M375 cartridges may also be used. They are
+         painted light green with red markings and one narrow yellow band. They are
+         assembled with either an M524-series, M526-series, or M567 fuze. The M375
+         cartridge uses the M90 propelling charge while the M375A2 and M375A1
+         cartridges use the M90A1 propelling charge. Cartridges assembled with the M524
+         (A1, A2, A3, or A4) fuze are for use by the US Marine Corps and US Navy only.
+
+
+---
+
+         Short cartridges can be expected when firing below charge 4. This cartridge is
+         ballistically matched to the M374A2, M374A1, and M375 HE cartridges, and
+         weighs about 9.12 pounds.
+
+4-20. ILLUMINATING AMMUNITION
+
+The M853 and M301A3 illuminating ammunition are described herein.
+
+         a. The M853 cartridge (M252 only) has a cylindrical body that contains an
+         illuminating candle and parachute assembly. It provides illumination for about 60
+         seconds with 600,000 candlepower illumination. It is assembled with the M772A1
+         MTSQ. It uses the M219 propelling charge and weighs about 9.1 pounds.
+
+         b. The M301A3 cartridge has a cylindrical body that contains an illuminating
+         candle and parachute assembly. The round has a burst height of 600 meters and
+         provides illumination for about 60 seconds for an area of about 1,200 meters. It is
+         painted white with black markings. It uses the M185 propelling charge that
+         consists of eight increments fitted into the spaces between the fins and held by a
+         propellant holder. The increments are individually wrapped with waterproof bags
+         that are not removed. The cartridge must not be fired below charge 3.
+
+4-21. TYPES OF FUZES
+
+The types of fuzes described in this paragraph are point detonating, proximity,
+mechanical time, multioption, and dummy.
+
+         a. Point-Detonating. All PD fuzes are superquick--detonate on impact.
+
+                  (1) The M935 fuze has two function settings: impact and delay. It is set
+                  using the bladed end of the M18 fuze wrench. It is fitted with a standard
+                  pull wire and safety pin that are removed immediately before firing.
+
+                  (2) The M524-series fuze has two function settings: superquick/impact
+                  (SQ/IMP) and delay. When set at delay, the fuze train causes a 0.05-
+                  second delay before functioning. When set at SQ, the fuze functions on
+                  point impact or graze contact. The fuze contains a delayed arming feature
+                  that ensures the fuze remains unarmed and detonator safe for a minimum
+                  of 1.25 seconds of flight. It arms within a maximum of 2.50 seconds. To
+                  prepare for firing, the slot is aligned in the striker with SQ or delay using
+                  the M18 fuze wrench. The safety pull wire is removed just before inserting
+                  the cartridge into the mortar.
+
+Note: If, upon removal of the safety wire, a buzzing sound in the fuze is heard, the
+         round should not be used. The round is still safe to handle and transport if the
+         safety wire is reinserted.
+
+
+---
+
+                                      WARNING
+
+     If the plunger safety pin (upper pin) cannot be reinserted, the
+     fuze may be armed. An armed fuze must not be fired since it
+     will be premature. It should be handled with extreme care,
+     and EOD personnel notified immediately. If it is necessary to
+     handle a round with a suspected armed fuze, personnel must
+     hold the round vertically with the fuze striker assembly up.
+
+         (3) The M256-series fuze has an SQ/IMP function only. It is fitted with a
+         safety wire and pin that are removed immediately before firing.
+
+         (4) The M567 fuze is an impact fuze that has a SQ/IMP or D function. It
+         comes preset to function on SQ/IMP, and the selector slot should align
+         with the SQ mark on the ogive. To set for delay, the selector slot should be
+         rotated clockwise until it is aligned with the "D" mark on the ogive. An
+         M18 fuze wrench is used to change settings. The fuze has a safety wire
+         that must be removed before firing.
+
+b. Proximity (VT). The M532 fuze is a radio doppler fuze that has a proximity
+(PROX) or SQ/IMP function. An internal clock mechanism provides nine seconds
+of safe air travel (610 to 2,340 meters along trajectory for charge 0 through 9,
+respectively). Once set to act as an impact fuze, the mechanism cannot be reset for
+PROX. The fuze arms and functions normally when fired at any angle of
+elevation between 0800 and 1406 mils at charges 1 through 9. The fuze is not
+intended to function at charge 0. However, at temperatures above 32 degrees
+Fahrenheit and at angles greater than 1068 mils, the flight time is sufficient to
+permit arming. To convert the fuze from PROX to SQ/IMP, the top of the fuze
+must be rotated 120 degrees (one-third turn) in either direction. This action breaks
+an internal sheet pin and internal wire, thereby disabling the proximity function.
+
+c. Mechanical Time. These fuzes use a clockwork mechanism to delay
+functioning for a specific time.
+
+         (1) The M772A1 fuze is a MTSQ. It can be set from 3 to 55 seconds at
+         half-second intervals. The settings are obtained from the range tables and
+         are applied using a wrench (number 9239539) or a 1 3/4-turn open-end
+         wrench. The safety wire must be removed before firing.
+
+         (2) The M84 fuze is a single-purpose, powder-train, mechanical-time fuze
+         used with the 81-mm M301A1 and M301A2 illuminating cartridges. It has
+         a time setting of up to 25 seconds. The fuze consists of a brass head, body
+         assembly, and expelling charge. The fuze body is graduated from 0 to 25
+         seconds in 1-second intervals; 5-second intervals are indicated by bosses.
+         The 0-second boss is wider and differs in shape from the other body
+
+
+---
+
+                  bosses; the safe setting position is indicated by the letter "S" on the fuze
+                  body. The adjustment ring has six raised ribs for use in conjunction with
+                  fuze setter, M25, and a setting indicator rib (marked SET) about half the
+                  height and width of the other six ribs. Safety before firing is provided by a
+                  safety wire, which must be removed just before firing.
+
+                  (3) The M84A1 fuze is a single-purpose, tungsten-ring, mechanical-time
+                  fuze used with the 81-mm M301A3 illumination cartridge. It has a time
+                  setting of up to 50 seconds. The fuze consists of a brass head, body
+                  assembly, and expelling charge. The fuze body is graduated from 0 to 50
+                  seconds in 2-second intervals; 10-second intervals are indicated by bosses.
+                  The 0-second boss is wider and differs in shape from the other body
+                  bosses; the safe setting position is indicated by the letter "S" on the fuze
+                  body. The adjustment ring has six raised ribs for use in conjunction with
+                  fuze setter, M25, and a setting indicator rib (marked SET) about half the
+                  height and width of the other six ribs. Safety before firing is provided by a
+                  safety wire, which must be removed just before firing.
+
+         d. Multioption. The M734 multioption fuze is the only one used with the 81-mm
+         mortar. It has four function settings: PRX (proximity) causes the cartridge to
+         explode between 3 and 13 feet above the ground; NSB (near-surface burst) causes
+         the cartridge to explode up to 3 feet above the ground; IM (impact) causes the
+         cartridge to explode on contact; and DLY (delay) incorporates a 0.05-second
+         delay in the fuze train before exploding the cartridge. No tools are needed to set
+         the fuze, and the setting can be changed several times without damaging the fuze.
+         It has no safety pins or wires to reduce preparation time. If the fuze does not
+         function as set, it automatically functions at the next lower setting.
+
+         e. Dummy. The M751 fuze is the only dummy fuze used with the 81-mm mortar.
+         It has two types: type 1 resembles the M734 fuze, and type 2 resembles the M935
+         fuze. The M751 is fitted with a smoke charge that operates on impact. The
+         safety/packing clip should be removed when the cartridge is unpacked.
+
+4-22. CHARACTERISTICS OF PROXIMITY FUZES
+
+A proximity fuze is an electronic device that detonates a projectile by means of radio
+waves sent out from a small radio set in the nose of the projectile.
+
+         a. Disposal Precautions. Proximity-fuzed short cartridges, which are duds,
+         contain a complete explosive train and impact element. They should not be
+         approached for 5 minutes or disturbed for at least 30 minutes after firing. After
+         the 30-minute waiting period, the dud is still dangerous but can be approached
+         and removed carefully or destroyed in place by qualified disposal personnel. If the
+         situation allows for a longer waiting period, the dud can be considered safe for
+         handling after 40 hours.
+
+
+---
+
+b. Burst Height. The principal factors affecting height of burst are the angle of
+approach to the target and the reflectivity of the target terrain. The air burst over
+average types of soil ranges from 1 to 6 meters, depending on the angle of
+approach. High angles of approach (near vertical) give the lowest burst heights.
+Light tree foliage and light vegetation affect the height of burst only slightly, but
+dense tree foliage and dense vegetation increase the height of burst. Target terrain,
+such as ice and dry sand, gives lowest burst heights, whereas water and wet
+ground give highest burst heights.
+
+c. Crest Clearance . Close approach to crests, trees, towers, large buildings,
+parked aircraft, mechanized equipment, and similar irregularities causes
+functioning at heights greater than average level. When targets are beyond such
+irregularities, a clearance of at least 30 meters should be allowed to ensure
+maximum effect over the target area.
+
+d. Climatic Effects. The fuzes may be used for day or night operations. They
+function normally in light rain; however, heavy rain, sleet, or snow can cause an
+increase in the number of early bursts. At extreme temperatures (below -40
+degrees Fahrenheit and above 125 degrees Fahrenheit), it is not unusual to
+experience an increase in malfunctions proportionate to the severity of conditions.
+
+e. Care, Handling, and Preservation. Proximity fuzes withstand normal
+handling without danger of detonation or damage when in their original packing
+containers or when assembled to projectiles in their packing containers.
+
+                                      WARNING
+
+     The explosive elements in primers and fuzes are sensitive to
+     shock and high temperatures. Boxes containing ammunition
+     should not be dropped, thrown, tumbled, or dragged.
+
+f. Installation. The fuze should already be fitted to the cartridge. If not, the
+cartridge is placed on its side, and the closing plug is removed using an M18 fuze
+wrench. (The handle of the wrench is turned counterclockwise.) The fuze threads
+and fuze well threads are inspected for damage. The fuze is screwed into the
+cartridge body, and it is seated and secured using an M18 wrench. There must not
+be a visible gap between the fuze and cartridge body.
+
+                                      WARNING
+
+     Do not use the fuze if the thread(s) is damaged. Do not use the
+     cartridge if the fuze well is damaged or if the explosive is
+     visible on the thread.
+
+
+---
+
+4-23. FUZE WRENCH AND FUZE SETTER
+
+The fuze wrench, M18, assembles the fuze to the cartridge, and the bladed tip on the end
+sets PD-type fuzes. The wrench (P/N 9349539) sets M772 MT and M768 time fuzes. It
+engages the 1 3/4-inch flats on the setting ring or the fuze head. The fuze setter, M25, sets
+M84-series time fuzes. Notches in the setter engage ribs in the setting ring of the fuze.
+
+4-24. PREPARATION OF AMMUNITION
+
+The propellant train (except the training cartridge) consists of an ignition cartridge and
+propellant charges. The ignition cartridge has a percussion primer and is assembled to the
+end of the fin assembly. The propelling charge is contained in four horseshoe-shaped,
+felt-fiber containers or nine wax-tested, cotton cloth, bag increments. The propelling
+charges are assembled around the fin assembly shaft.
+
+         a. Cartridges are shipped with a complete propelling charge, an ignition cartridge,
+         and primer. Firing tables are used to determine the correct charge for firing.
+         Remaining increments are repositioned towards the rear of the tail fin assembly
+         when firing the cartridge with horseshoe-shaped increments at less than full
+         charge.
+
+Note :  Charge 0--Ignition cartridge only.
+        Charge 1--Ignition cartridge and one increment.
+        Charge 2--Ignition cartridge and two increments.
+        Charge 9--Ignition cartridge and nine increments.
+
+        b. Increments removed from cartridges before firing should be placed in a metal
+        or wooden container located outside the firing vehicle/position at least 25 meters
+        away. Excess increments should not accumulate near the mortar positions but are
+        removed to a designated place of burning and destroyed. Check the post SOP
+        before applying the following procedure:
+
+                 (1) Select a place at least 100 meters from the mortar position, parked
+                 vehicles, and ammunition piles.
+
+                 (2) Burn all dead grass or brush within 30 meters around the burning
+                 place. Do not burn increments in piles but spread them in a train 1 to 2
+                 inches deep, 4 to 6 inches wide, and as long as necessary.
+
+                 (3) From this train, extend a starting train that will burn against the wind
+                 of single increments laid end to end. End this starting train with not less
+                 than 1 meter of inert material (dry grass, leaves, or newspapers).
+
+                 (4) Ignite the inert material.
+
+
+---
+
+                  (5) Do not leave unused increments unburned in combat operational areas.
+                  The enemy will use them.
+
+4-25. CARE AND HANDLING
+
+Ammunition is made and packed to withstand all conditions ordinarily encountered in the
+field. However, since explosives are affected by moisture and high temperature, they
+must be protected.
+
+         a. Before-firing checks include the following:
+
+                  (1) Ammunition should be free of moisture, rust, and dirt.
+
+                  (2) The fin and fuze assembly must be checked for tightness and damage.
+
+                  (3) Charges must be kept dry.
+
+                  (4) Extra increments are removed if the cartridge is to be fired with less
+                  than full charge.
+
+                  (5) With the exception of a few unused increments (within the same
+                  ammunition lot number) as replacements for defective increments, excess
+                  powder should be removed from the mortar position.
+
+                  (6) The primer cartridge is checked for damage or dampness.
+
+                  (7) When opening an ammunition box, the ammunition bearer ensures the
+                  box is horizontal to the ground, not nose- or fin-end up. After the bands
+                  are broken and the box opened, the rounds should be removed by allowing
+                  them to roll out along the lid of the box (Figure 4-8). After the rounds
+                  have been removed, they should always be handled with two hands to
+                  prevent accidental dropping. Dropping may cause the propellant charges
+                  to ignite, causing bodily injuries.
+
+                                                WARNING
+
+              Incidents occurring from mishandling 300-series ammunition
+              have resulted in minor burns to the hands and legs.
+
+
+---
+
+                  Figure 4-8. Correct way to open an ammunition box.
+Note: The floating firing pin located within the primer has approximately 1/16 of an
+
+         inch to move around. This may cause the firing pin to ignite the charges if the
+         cartridge is dropped on the fin end (Figure 4-9).
+
+                                  Figure 4-9. Floating firing pin.
+                  (8) To help minimize the occurrence of short rounds and or duds,
+                  unpackaged ammunition that has been dropped should not be fired. It
+                  should be destroyed in accordance with standard procedures.
+
+
+---
+
+                                        DANGER
+
+     M800-SERIES CARTRIDGES (HE, TP, SMOKE, AND
+     ILLUMINATION) ARE AUTHORIZED FOR FIRING IN
+     THE 81-mm, M29-SERIES MORTARS ONLY AT CHARGE
+     3 OR BELOW. FIRING THE M800-SERIES CARTRIDGES
+     ABOVE CHARGE 3 CAN CAUSE CATASTROPHIC
+     FAILURE OF THE MORTAR TUBE RESULTING IN
+     PERSONNEL INJURY OR DEATH.
+
+b. Complete cartridges are always handled with care. The explosive elements in
+primers and fuzes are sensitive to shock and high temperature. Fuzes are not
+disassembled.
+
+c. The moisture-resistant seal of the container is broken when the ammunition is
+to be used. When a large number of cartridges are needed for a mission, they may
+be removed from the containers and prepared. Propelling charges are covered or
+protected from dampness or heat.
+
+d. The ammunition is protected from mud, sand, dirt, and water. If it gets wet or
+dirty, it must be wiped off at once. The powder increments, mainly, should not be
+exposed to direct sunlight. More uniform firing is obtained if ammunition is kept
+at the same temperature.
+
+e. The pull wire and safety wire are removed from the fuze just before firing.
+When cartridges have been prepared for firing, but are not used, all powder
+increments and safety wires are replaced. The cartridges are returned to their
+original containers. These cartridges are used first in subsequent firing so that
+once-opened stocks can be kept to a minimum.
+
+                                      WARNING
+
+     Do not handle duds; the fuzes could be armed. Duds are
+     extremely dangerous. Do not move or turn them. To dispose
+     of duds, immediately call the nearest EOD unit.
+
+f. Ammunition should be stored under cover. If it is necessary to leave the
+ammunition uncovered, it should be raised on dunnage at least 6 inches above the
+ground. The pile is covered with a double thickness of tarpaulin. Trenches are dug
+to prevent water from flowing under the pile. WP cartridges are stored with the
+fuze end up. Since phosphorus liquefies at about 100 degrees Fahrenheit, the
+ammunition is protected against an uneven rehardening of the filler. An air cavity
+can form on one side of a cartridge to unbalance it, causing instability in flight.
+Red phosphorus cartridges (M252 only) are stored the same as HE cartridges.
+
+
+---
+
+                                 WARNING
+When firing HE ammunition less than 400 meters, personnel
+must have adequate cover for protection from fragments.
+
+                                  DANGER
+M800-SERIES AMMUNITION IS NOT AUTHORIZED FOR
+FIRING IN THE 81-mm MORTAR, M1.
+
+
+---
+
+                                       CHAPTER 5
+
+                   81-mm MORTAR, M29A1
+
+         The 81-mm mortar, M29A1, delivers timely, accurate fires to meet the
+         requirements of supported troops. This chapter discusses personnel duties,
+         mechanical training, and the characteristics of the mortar.
+
+         Section I. SQUAD AND SECTION ORGANIZATION AND DUTIES
+
+Each member of the infantry mortar squad has principle duties and responsibilities. (See
+FM 7-90 for platoon drills.)
+
+5-1. ORGANIZATION
+
+For the 81-mm mortar section to operate effectively, each mortar squad member must be
+proficient in his individual duties. By performing those duties as a team member, he
+enables the mortar squad and section to perform as a fighting team. The platoon leader
+commands the platoon and supervises the training of the elements. He uses the chain of
+command to assist him in effecting his command and supervising duties.
+
+5-2. DUTIES
+
+The mortar squad consists of five men (Figure 5-1). Their firing positions and principal
+duties are as follows:
+
+
+---
+
+                  Figure 5-1. Positions of squad members.
+
+a. The squad leader stands behind the mortar where he can command and control
+his squad. In addition to supervising the emplacement, laying, and firing of the
+mortar, he supervises all other squad activities.
+
+b. The gunner stands on the left side of the mortar where he can manipulate the
+sight, elevating gear handle, and traversing assembly wheel. He places firing data
+on the sight and lays the mortar for deflection and elevation. He and assistant
+gunner make large deflection shifts by shifting the bipod assembly.
+
+c. The assistant gunner stands on the right of the mortar, facing the barrel and
+ready to load. In addition to loading, he is responsible for swabbing the bore after
+every 10 rounds have been fired or after each fire mission. He assists the gunner
+in shifting the mortar when making large deflection changes.
+
+d. The first ammunition bearer stands to the right rear of the mortar. He prepares
+the ammunition and passes it to the assistant gunner.
+
+e. The second ammunition bearer is normally behind the mortar, maintaining the
+ammunition for firing, providing local security for the mortar position, filling
+sandbags, and performing other duties as the squad leader directs. He normally
+places out and retrieves the aiming post. The second ammunition bearer is also the
+squad truck driver. When his duties do not require him to be with the vehicle, he
+
+
+---
+
+         is used as an ammunition bearer (performing the same duties as the first
+         ammunition bearer).
+
+                                     Section II. COMPONENTS
+
+This section contains the technical data and description of each component of the 81-mm
+mortar, M29A1. The 81-mm mortar is a smooth-bore, muzzle-loaded, high angle-of-fire
+weapon (Figure 5-2). It consists of a cannon assembly, bipod assembly, and baseplate.
+
+                               Figure 5-2. 81-mm mortar, M29A1.
+5-3. TABULATED DATA
+The tabulated data for the 81-mm mortar, M29A1, are as shown in Table 5-1.
+
+Weights (pounds)                                        121.5
+         System (including basic issue items)  (total in three loads)
+
+         Barrel                                           28
+         Mount                                            40
+         M3 Baseplate                                    25.4
+         M23A1 Baseplate                                  48
+         M53 Sightunit                                   5.25
+
+
+---
+
+       Ammunition                                    HE Smoke Illum Practice
+                Ready to fire
+                In single container                  9.4 10.6 9.1         9.4
+                In three-round pack
+                                                     12.0 13.8 12.4 12.5
+
+                                                     57.0 63.0 60.0 60.0
+
+Note: M3 baseplate is standard A.
+
+Elevation                                            800 to 1511 mils
+         Elevation (approximate                            10 mils
+         For each turn of elevation crank
+         (approximate)
+
+Traverse                                             95 mils (9 2 turns)
+         Right or left from center (approximate)     190 mils (19 turns)
+         Total turns of handwheel for full traverse
+         (approximate)                                    6400 mils
+         Total traverse by movement of mount
+         without moving baseplate
+
+Range                                                70 to 4,737 meters
+         Minimum to maximum
+
+Rate of Fire                                           3 (charge 8) to 5 (charge 6)
+                                                     rounds per minute for 1 minute
+         Sustained                                   12 (charge 8) rounds per minute
+                                                     12 (charge 6) rounds per minute
+         Maximum for 2 minutes
+         Maximum for 5 minutes
+
+HE Lethality (M374 series)                           34-meter diameter
+
+Smoke Screen (M375 series)                           20-meter diameter
+
+Illumination (M301A3)                                500,000 candlepower for 1 minute
+                                                       (1,200-meter area illuminated)
+
+HE Fuze Options                                      M524 PD, M536 PD, M532
+                                                                proximity
+
+Sight                                                M53 series
+
+                                     Table 5-1. Tabulated data.
+
+5-4. CANNON ASSEMBLY, M29A1
+
+The cannon assembly consists of the barrel, mount attachment ring, and base plug with a
+spherical projection that contains a removable firing pin (Figure 5-3).
+
+
+---
+
+                            Figure 5-3. Cannon assembly, M29A1.
+5-5. BIPOD ASSEMBLY, M23A1
+The bipod assembly consists of the elevating and traversing mechanism, and bipod legs
+(Figure 5-4).
+
+                              Figure 5-4. Bipod assembly, M23A1.
+
+
+---
+
+         a. The bipod legs consist of two tubular steel legs that are hinged at the sides of
+         the elevating mechanisms. The legs have spiked feet, and their spread is limited
+         by an adjustable chain. A spring attached to the right end of the chain and the
+         right leg relieves shock to the legs during firing. The right leg has no moving
+         parts. The left leg has a cross-level mechanism consisting of a sliding bracket
+         mounted on the leg with a locking sleeve and adjusting nut. The sliding bracket is
+         connected to the elevating housing by a connecting rod. Any movement of the
+         sliding bracket is transmitted through the connecting rod, elevating mechanism
+         assembly, and traversing mechanism assembly to the barrel, moving it in a like
+         manner. The locking nut locks the sliding bracket in any desired position on the
+         leg. Cross-leveling is performed to remove any cant from the sight. The sight
+         must be level to attain true readings in elevation and deflection. Cross-leveling is
+         completed by rotating the adjusting sleeve on the upper part of the leg.
+
+         b. The elevating mechanism assembly includes a vertical spindle screw moving in
+         an elevating housing assembly. The screw is turned by a bevel gear and pinion
+         contained in the gear case. The gear and pinion are moved by an elevating crank.
+         The top cover of the gear case contains an oil fitting for oiling the elevating
+         screw, gear, and pinion.
+
+         c. The traversing mechanism consists of the yoke assembly, traversing
+         mechanisms, and shock absorber. The yoke body supports the upper end of the
+         barrel when the mortar is assembled.
+
+Note: Older models of the yoke contain a level vial.
+
+         d. The sightunit is mounted in the dovetail sight slot on the left side of the yoke.
+         The traversing mechanism is an internal screw shaft operating within a nut and
+         tube. The handwheel turns the screw, which forces the nut to traverse the yoke
+         and, therefore, the barrel. The tube over the nut is connected to the elevating shaft,
+         which protrudes from the gear case of the bipod. The shock absorber is a
+         compression spring-type unit mounted in the yoke. A shock absorber clevis
+         screws to the projecting end of the shock absorber shaft. When the barrel is
+         assembled to the yoke, this clevis is attached to the barrel ring with the shock
+         absorber clevis locking pin.
+
+5-6. BASEPLATE, M3
+
+The baseplate (Figure 5-5) is of one-piece construction, and supports and aligns the
+mortar for firing. During firing, the base plug on the barrel is seated and locked to the
+rotatable socket in the baseplate. The barrel passes through the yoke of the mount and is
+secured to the shock absorber by a locking pin.
+
+
+---
+
+                                     Figure 5-5. Baseplate, M3.
+
+                                      Section III. OPERATION
+
+This section contains information on how to prepare the 81-mm mortar, M29A1, for
+firing, and how to conduct safety checks and misfire procedures.
+
+5-7. PREMOUNT CHECKS
+
+Before the mortar is mounted, the squad must perform premount checks. Each squad
+member should be able to perform the following premount checks:
+
+         a. The gunner checks the mount and ensures that--
+
+                  (1) The spread chain is doubled, wrapped around the legs, and hooked,
+                  untangled, to the left leg.
+
+                  (2) The clearance on the left leg above the adjusting sleeve is two fingers
+                  in width.
+
+
+---
+
+         (3) The locking nut is neither too loose nor too tight.
+
+         (4) The traversing bearing is centered.
+
+         (5) The clevis locking pin is fully seated.
+
+b. The assistant gunner checks the barrel and ensures that--
+
+         (1) The barrel ring is centered between the two beveled cutouts on the
+         outer ring.
+
+         (2) The barrel is clean both inside and outside.
+
+         (3) The firing pin is visible.
+
+         (4) The spherical projection is clean and the firing pin is firmly seated.
+
+c. The first ammunition bearer checks the baseplate and ensures that--
+
+         (1) The rotatable socket cap moves freely and has a light coat of oil.
+
+         (2) The ribs and braces are free from breaks and dents, and the inner ring
+         is secured to the outer ring (M23A1 baseplate).
+
+d. After each piece of equipment is checked, the squad members notify the gunner
+that either the baseplate (or cannon) is correct or they report what is wrong with
+that piece of equipment.
+
+e. The squad leader supervises the conduct of squad drill and is responsible for
+supervising the laying out of the equipment as shown in Figure 5-6. The
+equipment is placed out the same for the gunner’s examination.
+
+
+---
+
+                                Figure 5-6. Layout of equipment.
+
+5-8. MOUNTING OF THE MORTAR
+
+The squad leader picks up the sight case and two aiming posts, and moves to the exact
+position where the mortar is to be mounted. He places the sight case and aiming posts to
+the left front of the mortar position. The squad leader points to the exact spot where the
+mortar is to be mounted. He indicates the initial direction of fire by pointing in that
+direction and commands ACTION.
+
+         a. The first ammunition bearer places the outer edge of the baseplate against the
+         baseplate stake, so that the left edge of the cutout portion of the baseplate is
+         aligned with the right edge of the stake (Figure 5-7). He then rotates the socket
+         cap so that its open end is pointing in the direction of fire.
+
+
+---
+
+         Figure 5-7. Baseplate placed against baseplate stake.
+
+b. When the baseplate is in position, the gunner places his left hand on the
+traversing handwheel and his right hand on the sight slot, and lifts the bipod. He
+moves to the front, faces the baseplate, and places the bipod legs about 12 to 15
+inches in front of the baseplate on line with the right edge so that an extension of
+the right edge of the baseplate would bisect the interval between the closed legs.
+Kneeling on his right knee in front of the bipod and supporting it with his left
+hand on the gear case, the gunner unhooks the doubled chain from the chain hook
+on the left leg, unwinds it, and rehooks the end loop on the chain hook. Lifting the
+left leg, he opens the legs to the full extent of the chain.
+
+
+---
+
+c. The gunner moves the elevating mechanism housing to the left until the
+traversing mechanism is in a horizontal position, and then tightens the locking
+sleeve.
+
+d. The gunner rises and moves to the left rear of the bipod while supporting the
+bipod with his left hand on the shock absorber. He disengages the clevis locking
+pin and raises the yoke assembly to a horizontal position, keeping both hands on
+the shock absorber. He holds the clevis locking pin and chain out of the way with
+his right hand.
+
+e. The assistant gunner inserts the barrel (mount attachment ring lug up and
+centered between the two beveled cutouts on the outer ring) into the yoke
+assembly with a slight twisting motion until the lug on the mount attachment ring
+fits into the shock absorber clevis (Figure 5-8). The gunner locks the clevis to the
+barrel ring with the clevis locking pin. The assistant gunner inserts the spherical
+projection of the base plug into the socket and rotates the barrel 90 degrees to lock
+it to the baseplate.
+
+
+---
+
+                 Figure 5-8. Bipod and mount attachment ring secured.
+
+         f. The gunner then places the traversing crank in its operating position. Removing
+         the sight from its case, he mounts it on the mortar and sets it at a deflection of
+         3200 mils and an elevation of 1100 mils. He centers the elevation level bubble,
+         centers the cross-level bubble, and rechecks the elevation bubble.
+
+5-9. SAFETY CHECKS BEFORE FIRING
+
+The following safety checks must be enforced before firing the mortar.
+
+         a. The gunner makes certain that--
+
+                  (1) There is mask and overhead clearance.
+
+
+---
+
+                  (a) Since the mortar is normally mounted in defilade, there may be
+                  a mask such as a hill, trees, a building, or a rise in the ground.
+                  Overhead interference can be caused by overhanging branches of
+                  trees or roofs of buildings. However, the gunner must ensure that
+                  the round does not strike a obstacle.
+
+                  (b) In selecting the exact mortar position, the leader checks quickly
+                  for mask clearance and overhead interference. After the mortar is
+                  mounted, the gunner makes a thorough check.
+
+                  (c) The gunner determines mask and overhead clearance by
+                  sighting along the top of the barrel with his eye placed near the
+                  base plug. If the line of sight clears the mask, it is safe to fire. If
+                  not, he can still fire at the desired range by selecting a charge zone
+                  having a higher elevation. When firing under the control of an
+                  FDC, he reports to the FDC that mask clearance cannot be
+                  obtained at a certain elevation.
+
+                  (d) Firing would be slowed if mask clearance had to be checked
+                  before each firing but this can be eliminated if minimum mask
+                  clearance is determined. This is accomplished by depressing the
+                  barrel until the top of the mask is sighted. The gunner levels the
+                  elevation bubble and reads the setting on the elevation scale and
+                  elevation micrometer--this setting is the minimum mask clearance.
+                  The squad leader notifies the FDC of the minimum mask clearance
+                  elevation. Any target that requires that elevation, or a lower one,
+                  cannot be engaged from that position.
+
+                  (e) If the mask is not regular throughout the sector of fire, the
+                  gunner determines the minimum mask clearance as described
+                  above. Placing the mortar in position at night does not relieve the
+                  gunner of the responsibility of checking for mask clearance and
+                  overhead interference.
+
+         (2) The barrel is locked to the baseplate with the open end of the socket
+         cap pointing in the direction of fire. The barrel ring should be positioned
+         between the etched markings on the barrel.
+
+         (3) The shock absorber clevis locking pin is secure.
+
+         (4) The locking sleeve is wrist tight.
+
+         (5) The chain is taut and is hooked to the left leg.
+
+b. The assistant gunner ensures that the bore is clean, and he swabs the bore dry.
+
+
+---
+
+         c. The ammunition bearer ensures that each round is clean, the safety pin is
+         present, and the ignition cartridge is in good condition.
+
+5-10. SMALL DEFLECTION AND ELEVATION CHANGES
+
+With the mortar mounted and the sight installed, the gunner lays the sight on the two
+aiming posts (placed out 50 and 100 meters from the mortar) on a referred deflection of
+2800 mils and an elevation of 1100 mils. The mortar is within two turns of center of
+traverse. The vertical cross line of the sight is on the left edge of the aiming post.
+
+         a. The gunner is given a deflection change in a fire command between 20 and 60
+         mils. The elevation change announced must be less than 90 mils and more than 35
+         mils.
+
+         b. As soon as the sight data are announced, the gunner places it on the sight, lays
+         the mortar for elevation, and then traverses onto the aiming post by turning the
+         traversing handwheel and the adjusting nut in the same direction. A one-quarter
+         turn on the adjusting nut equals one turn of the traversing handwheel. When the
+         gunner is satisfied with his sight picture, he announces, "Up."
+
+Note: All elements given in the fire command are repeated by the gunner.
+
+         c. After the gunner has announced, "Up," the mortar should be checked by the
+         squad leader to determine if the exercise was performed correctly.
+
+5-11. LARGE DEFLECTION AND ELEVATION CHANGES
+
+With the mortar mounted and the sight installed, the gunner lays the sight on the two
+aiming posts (placed out 50 and 100 meters from the mortar) on a referred deflection of
+2800 mils and an elevation of 1100 mils.
+
+         a. The gunner is given a deflection and elevation change in a fire command
+         causing the gunner to shift the mortar between 200 and 200 mils and an elevation
+         change between 100 and 200 mils.
+
+         b. As soon as the sight data are announced, the gunner places it on the sight,
+         elevates the mortar until the elevation bubble floats freely, and then centers the
+         traversing bearing. This ensures a maximum traversing capability after making
+         the movement.
+
+         c. The assistant gunner moves into position to the front of the bipod on his right
+         knee, places his right shoulder against the gear case, and grasps the bipod legs
+         (palms out), lifting until they clear the ground enough to permit lateral movement.
+         The gunner moves the mortar while the assistant gunner steadies it. The gunner
+         attempts to horizontally maintain the traversing mechanism. To make the shift,
+
+
+---
+
+         the gunner places the fingers of his right hand in the muzzle (Figure 5-9), his left
+         hand on the left leg, and moves the mortar until the vertical line of sight is aligned
+         approximately on the aiming post. When the approximate alignment is completed,
+         the gunner signals the assistant gunner to lower the bipod by pushing down on the
+         mortar.
+
+                             Figure 5-9. Large deflection changes.
+5-12. REFERRING OF THE SIGHT AND REALIGNMENT OF AIMING POSTS
+USING M53 SIGHT
+Referring and realigning aiming posts ensure that all mortars are set on the same data.
+The section leader, acting as FDC, has one deflection instead of two.
+
+
+---
+
+         a. The mortar is mounted and the sight is installed. The sight is laid on two aiming
+         posts (placed out 50 and 100 meters from the mortar) on a referred deflection of
+         2800 mils and an elevation of 1100 mils. The mortar is within two turns of center
+         of traverse. The gunner is given an administrative command to lay the mortar on a
+         deflection of 2860 or 2740 mils. The mortar is then re-laid on the aiming posts
+         using the traversing crank.
+
+         b. The gunner is given a deflection change between 5 and 25 mils, either
+         increasing or decreasing from the last stated deflection, and the command to refer
+         and realign aiming posts.
+
+         EXAMPLE: REFER DEFLECTION TWO EIGHT SEVEN FIVE (2875),
+                           REALIGN AIMING POST.
+
+         c. Upon receiving the command REFER, REALIGN AIMING POST, two actions
+         take place at the same time in the mortar squad. The gunner places the announced
+         deflection on the sight (without disturbing the lay of the weapon) and looks
+         through the sightunit. Also, the first ammunition bearer moves out to realign the
+         aiming posts. He knocks down the near aiming post and proceeds to the far
+         aiming post. Following the arm-and-hand signals of the gunner (who is looking
+         through the sightunit), he moves the far aiming post so that the gunner obtains an
+         aligned sight picture. The same procedure for aligning the far aiming post is used
+         to align the near aiming post.
+
+5-13. MALFUNCTIONS
+
+See Chapter 3, paragraph 3-14 for a detailed discussion of malfunctions.
+
+5-14. REMOVAL OF A MISFIRE
+
+When a misfire occurs, any member of the squad immediately announces, "Misfire." The
+entire squad stays with the mortar. The gunner then kicks the barrel several times with his
+heel in an attempt to dislodge the round. If the round fires, the mortar is re-laid on the
+aiming point and firing is continued.
+
+                                                WARNING
+
+              During peacetime live -fire training, all personnel, except the
+              gunner, move at least 50 meters to the rear of the mortar.
+
+         a. If the round does not fire, the gunner tests the barrel for heat. After one minute,
+         if the barrel is cool enough to handle, the crew removes the round as described
+         below. If the barrel is hot, the gunner may then apply water to the outside of the
+
+
+---
+
+         barrel until it is cool. If no water is available, the gunner stands clear of the mortar
+         until the barrel is cool.
+
+                                                WARNING
+
+              During peacetime live -fire training, if the round does not fire,
+              the gunner joins the crew and waits one minute to avoid
+              personal injury due to a cookoff. After waiting one minute,
+              the gunner returns to the mortar and tests the barrel for heat.
+              When the barrel is cool enough to handle, the gunner signals
+              for the rest of the crew to come forward.
+
+         b. After the barrel cools, the gunner removes the sight and depresses the barrel to
+         the minimum elevation. The assistant gunner braces the right leg of the bipod by
+         placing his left leg in front of it. The gunner rotates the barrel while ensuring that
+         he is positioned beside not behind, the weapon, until it is unlocked from the
+         baseplate. The assistant gunner then places his right hand, palm up, under the
+         barrel near the muzzle, and his left hand, palm down, on top of the barrel. He
+         places the thumbs of both hands alongside the forefingers, being careful to keep
+         both hands hand away from the muzzle.
+
+         c. The gunner lifts the base of the barrel until it is horizontal. He never lowers the
+         base of the barrel below a horizontal position before the round has been removed.
+         As soon as the barrel is in the horizontal position, and not before, the assistant
+         gunner places the meaty portion of the thumb of each hand over the muzzle.
+         When the fuze reaches the muzzle, the assistant gunner stops the round with his
+         thumbs (avoiding the fuzes). He then carefully removes the round and passes it to
+         the first ammunition bearer who inspects it to determine the cause of the misfire.
+         If the primer of the ignition cartridge is dented, the ammunition bearer replaces
+         the safety wire (if applicable) and places the round in a marked, safe location for
+         disposition by ordnance personnel. If the primer is not dented, the round can be
+         used again. The gunner shakes the barrel to dislodge any remnants from the last
+         round fired, then locks the barrel.
+
+         d. If the procedure above fails to remove the misfire, the barrel must be kept
+         horizontal. Then it is removed from the bipod and laid horizontally on the ground
+         at the dud pit or safe area until it can be turned over to ordnance for disposal.
+
+5-15. DISMOUNTING OF THE MORTAR
+
+To dismount the mortar, the squad leader commands, OUT OF ACTION. At this
+command, the squad proceeds as follows:
+
+         a. The second ammunition bearer retrieves the aiming posts. The gunner removes
+         the sight and places it in the sight box. He places an elevation of 800 mils and a
+
+
+---
+
+         deflection of 3800 mils on the M53 sightunit. Then he lowers the mortars to its
+         minimum elevation.
+
+         b. The assistant gunner turns the barrel 90 degrees, lifts up on the base end of the
+         barrel and removes the barrel from the yoke assembly. He then turns to his left
+         and places the barrel in the area designated by the squad leader.
+
+         c. The gunner disengages the clevis locking pin. He moves to the front of the
+         bipod and faces it, kneels on his right knee with his left hand on the gear case,
+         loosens the locking nut, and unhooks the chain from the left leg. He tilts the bipod
+         to his left and closes the bipod legs, placing the chain around the legs and
+         rehooking the chain. He stands up, placing his right hand on the sight slot and left
+         hand on the traversing handwheel.
+
+         d. The squad leader picks up the aiming posts and sight. At the command
+         MARCH ORDER, the squad places the mortar, equipment, and ammunition in the
+         squad vehicle and trailer.
+
+                                     Section IV. AMMUNITION
+
+            This section implements STANAG 2321 and QSTAG 900 (Edition 1).
+
+The ammunition that can be fired by the 81-mm mortar, M29A1, is identified and
+described herein. Ammunition is typed according to use (see Chapter 4, Table 4-2). High
+explosive is used against personnel and light-skinned vehicles. White phosphorus is used
+for screening, producing casualties, incendiary action, and signaling. Illuminating is used
+for battlefield illumination and signaling. Training practice is only for training.
+
+The following are authorized cartridges for the 81-mm mortar, M29A1:
+
+    • High explosive--M374 series and M362 series.
+    • White phosphorus--M375 series, M370 series, and M57 series.
+    • Illuminating--M301 series.
+    • Training practice--M68 and M880 (SRTR).
+
+The M29A1 may fire M821, M889, and M819 at reduced charges: charge 2 for training
+and charge 3 for combat.
+
+Note: For a discussion of identification and ammunition lot numbers of cartridges, see
+         Chapter 4, Section IV.
+
+5-16. FUNCTION
+
+Each cartridge has fins around the tail to stabilize it in flight and to cause it to strike fuze-
+end first. The propelling charge consists of an ignition cartridge and removable propellant
+
+
+---
+
+increments. The ignition cartridge (with primer) is fitted into the base of the fin shaft. The
+removable increments are fitted onto or around the shaft, depending on their type. The
+cartridge is dropped down the barrel, fin-end first. The ignition cartridge strikes the firing
+pin and detonates, which causes a flash that passes through the radial holes in the shaft.
+The propellant increments are ignited, which produce rapidly expanding gases that force
+the cartridge from the barrel. The obturating ring ensures equal muzzle velocities in hot
+or cold barrels by keeping all the gases in the barrel until the cartridge has fired. When
+fired, the cartridge carries the ignition cartridge with it, leaving the mortar ready for the
+next cartridge (Figures 5-10 and 5-11).
+
+          Figure 5-10. Standard A ammunition for 81-mm mortar, M29A1.
+
+          Figure 5-11. Standard B ammunition for 81-mm mortar, M29A1.
+
+
+---
+
+5-17. HIGH-EXPLOSIVE AMMUNITION
+For a description of the types of HE ammunition, see Chapter 4, paragraph 4-18.
+5-18. WHITE PHOSPHORUS AMMUNITION
+For a description of the types of WP ammunition, see Chapter 4, paragraph 4-19.
+5-19. ILLUMINATING AMMUNITION
+For a description of the types of illuminating ammunition, see Chapter 4, paragraph 4-20.
+5-20. TYPES OF FUZES
+For a description of the types of fuzes, see Chapter 4, paragraph 4-21.
+5-21. CHARACTERISTICS OF PROXIMITY FUZES
+For an explanation of the characteristics of proximity fuzes, see Chapter 4, paragraph 4-
+22.
+5-22. FUZE WRENCH AND FUZE SETTER
+For details on the use of the fuze wrench and fuze setter, see Chapter 4, paragraph 4-23.
+5-23. PREPARATION OF AMMUNITION
+For an explanation of preparation of ammunition, see Chapter 4, paragraph 4-24.
+5-24. CARE AND HANDLING
+For proper care and handling of ammunition, see Chapter 4, paragraph 4-25.
+
+
+---
+
+                                       CHAPTER 6
+
+                   4.2-INCH MORTAR, M30
+
+         The 4.2-inch mortar, M30, delivers timely, accurate fires to meet the
+         requirements of supported troops. This chapter discusses assigned
+         personnel duties, organization, operation, carriers, and ammunition.
+
+         Section I. SQUAD AND SECTION ORGANIZATION AND DUTIES
+
+Each member of the infantry mortar squad has principal duties and responsibilities. (See
+FM 7-90 for platoon drills.)
+
+6-1. ORGANIZATION
+
+The 4.2-inch mortar section is the basic fire unit for the mortar platoon. If the mortar
+section is to operate quickly and effectively in accomplishing its mission, mortar squad
+members must be proficient in individually assigned duties. Correctly applying and
+performing these duties enables the mortar section to perform as an effective fighting
+team. The platoon leader commands the platoon and supervises the training of the
+elements. He uses the chain of command to assist him in effecting his command
+supervising duties.
+
+6-2. DUTIES
+
+The 4.2-inch mortar squad consists of four men (Figure 6-1). Their firing positions and
+principal duties are as follows:
+
+
+---
+
+                  Figure 6-1. Positions of squad members.
+
+a. The squad leader stands behind the mortar where he can command and control
+his squad. In addition to supervising the emplacement, laying, and firing of the
+mortar, he supervises all other squad activities.
+
+b. The gunner stands on the left side of the mortar where he can manipulate the
+sight and elevating gear handle and traversing assembly wheel. He places firing
+data on the sight and lays the mortar for deflection and elevation. He and the
+assistant gunner make large deflection shifts by shifting the bridge assembly (or
+turntable when track mounted).
+
+c. The assistant gunner stands to the right of the mortar, facing the barrel and
+ready to load. In addition to loading, he assists the gunner in laying the mortar by
+cross-leveling the sight. He is responsible for swabbing the bore after each 10
+rounds have been fired, or after each end of (fire) mission. He assists the gunner
+in shifting the bridge assembly (or turntable, if track mounted) when making large
+deflection changes, and shifts the mortar from low range to high range or vice
+versa when making large elevation changes.
+
+d. The ammunition bearer/driver stands behind the mortar to maintain, prepare,
+and then pass the ammunition to the assistant gunner for firing. He also places out
+
+
+---
+
+         the aiming post. If necessary, he is also responsible (along with the squad leader)
+         for the combat readiness of their mortar carrier.
+
+6-3. SECTION DRILL AND SECTION LEADER DUTIES
+
+Section training is the commander’s responsibility. His imagination and ingenuity
+determine the value of this training; therefore, a prescribed sequence of training is not
+listed. The mortar section is drilled in all aspects of section training under the supervision
+of the section leader.
+
+         a. The section leader is located in the mortar section of the infantry heavy mortar
+         platoon. He is responsible for the actions of the three mortar squads under his
+         control. The duties of the section leader are as follows:
+
+              • Supervises the occupation of the firing position.
+              • Lays the section.
+              • Checks communications with the FDC and mortar squads.
+              • Gives section leader’s report to the FDC.
+              • Has the mortar sights calibrated, if time permits.
+              • Controls the delivery of fires as directed by the FDC.
+              • Ensures that adequate and balanced stocks of ammunition are on hand and
+
+                  properly stored.
+              • Supervises the accounting of ammunition to include lot registration and
+
+                  control.
+              • Ensures that the section is laid on final protective fire data when not
+
+                  otherwise engaged.
+
+         b. At intervals, the squad is given the command to refer and realign their aiming
+         posts and to remove misfires from the mortar.
+
+Note : Guidelines for a training program can be found in ARTEP 7-90-MTP and
+         ARTEP 7-90-Drill.
+
+                                     Section II. COMPONENTS
+
+The 4.2-inch mortar, M30 (Figure 6-2), is a rifled, muzzle-loaded weapon with the
+mission to deliver high-angle, indirect fire. During firing, its components absorb the
+forces of recoil as a unit. The mortar can be hand carried for short distances when
+disassembled into five loads.
+
+
+---
+
+                                Figure 6-2. 4.2-inch mortar, M30.
+6-4. TABULATED DATA
+The tabulated data for the 4.2-inch mortar, M30, are as shown in Table 6-1.
+
+WEIGHTS (pounds)                                                    672.25
+  Mortar complete (welded steel rotator and M53                     156.50
+                                                                    169.00
+sight)                                                              193.00
+  Cannon, M30                                                       59.50
+  Bridge assembly
+  Baseplate assembly                                                57.50
+  Standard assembly                                                 89.00
+  Rotator assembly                                                   5.25
+     Cast magnesium
+     Welded steel                                                   6,840
+  Sight, M53                                                         770
+
+RANGE (M329A2 ammunition) (meters)                   LOW RANGE             HIGH RANGE
+  Maximum (approximate)                                     933                   1156
+  Minimum (approximate)                                     706                    919
+
+ELEVATION (Level ground; flat, even surface) (mils)     800 or 900           900 or 1065
+  Maximum                                                    13                     13
+  Minimum
+  Firing elevations
+  For each turn of elevating handle (approx)
+
+
+---
+
+SHIFTS (mils)                                           10
+  Per turn of traversing crank (approximately)          125
+  On traversing mechanism (right or left from center)  6400
+  Movement of standard assembly and bridge
+
+assembly
+
+RATE OF FIRE (M329A2 ammunition)
+The maximum rate of fire is 18 rounds per minute for the first minute and 9 rounds per minute for the
+next five minutes. This can be followed by a sustained rate of fire of 3 rounds per minute for prolonged
+periods.
+
+Note: Locational terms "right," "left," "front," and "rear" regarding the 4.2-inch mortar, M30, and
+          sightunits, M53 and M64 series, apply when viewed in the direction the mortar is firing.
+
+                      Table 6-1. Tabulated data for the 4.2-inch, M30.
+
+6-5. MORTAR CANNON, M30
+
+The cannon (also referred to as the barrel) is a rifled tube 60 inches (152.4 centimeters)
+long with an inside diameter of 106.7 mm (4.2 inches) between lands (Figure 6-3). This
+rifling consists of 24 lands and 24 grooves of which the first 9 inches (22.86 centimeters),
+as measured from the base inside the barrel, are straight. The twist increases to the right
+from zero at this point to one turn in 84 inches (213 centimeters). The tube cap and firing
+pin are combined in a one-piece casting that screws onto the barrel. The trunnion pins on
+the cap fit into slots in the cap trunnion sockets in the bridge. These trunnion pins lock
+the cannon to the bridge assembly or socket assembly (track mounted) during firing. The
+coupling and sight mount assembly are held in position by two fully enclosed shock
+absorbers. The cannon is fastened to the standard assembly at this coupling. The sight
+socket and sight mount assembly are attached to this coupling.
+
+
+---
+
+        Figure 6-3. Cannon, M30.
+
+Note :  Although the terms cannon, tube, and barrel indicate an assembly in which
+        ammunition is fired and which controls the initial direction of a projectile, in
+        mortar terminology barrel is the most commonly used term. The M30 mortar
+        cannon is the complete assembly consisting of the mortar tube, tube cap, firing
+        pin, tube cap trunnion pins, coupling and sight mount assembly, sight socket, and
+        shock absorbers. In order to facilitate understanding and increase learning, the
+        term barrel is used throughout this chapter in all references pertaining to the
+        mortar cannon (the complete cannon assembly).
+
+6-6. MORTAR MOUNT, M24Al
+
+The mortar mount consists of the standard assembly, bridge assembly, rotator assembly,
+and baseplate.
+
+         a. Standard Assembly. The standard assembly consisting of the elevating,
+         traversing, and recoil mechanisms connects the cannon and bridge assembly or
+         standard support on the turntable (Figure 6-4). It is held to the bridge assembly by
+         two trunnions that fit into sockets on the bridge spade or standard support
+         assembly. The connection for the mortar locking pin assembly on the standard
+         assembly is fastened to the coupling and sight mount assembly by the mortar
+         locking pin assembly. Both the elevating and traversing screws are enclosed.
+
+
+---
+
+Figure 6-4. Standard assembly with elevating, traversing, and recoil mechanisms.
+
+                  (1) The elevating gear handle, located in front of the mortar at the top of
+                  the standard assembly, is used to elevate or depress the mortar throughout
+                  the low or high ranges of elevation. An elevating screw housing assembly
+                  in the lower part of the standard assembly makes possible the two ranges
+                  of elevation. The desired high or low range is selected by using the
+                  elevating mechanism cam located just above the recoil mechanism on the
+                  standard assembly.
+
+                  (2) The elevating mechanism cam (Figure 6-4) locks the elevating screw
+                  housing assembly in its low or high range position. This assembly cannot
+                  be locked in any intermediate position.
+
+                  (3) The traversing mechanism (Figure 6-4) consists of an enclosed screw
+                  and bearing located at the top of the standard assembly. It is operated by
+                  turning the traversing crank on the left side of the mechanism.
+
+
+---
+
+         (4) The recoil mechanism consists of a series of springs mounted in the
+         lower section of the standard assembly. They are designed to ease the
+         downward shock of firing and to return the mechanism to the prefiring
+         position.
+b. Bridge Assembly. The bridge assembly (Figure 6-5) consists of two pieces
+joined by a swivel joint.
+
+                          Figure 6-5. Bridge assembly.
+         (1) The socket end is designed to receive the tube cap. It has a closed slot
+         in the left side of the socket and an open slot in the right side. These slots
+         receive the tube cap trunnions. Two bridge trunnions behind the socket fit
+         into the bridge trunnion socket on the rotator.
+         (2) The spade at the front of the bridge assembly facilitates the digging
+         action of the bridge assembly during firing. Two steel trunnion sockets to
+         the rear of the spade hold the standard assembly.
+c. Rotator Assembly. The rotator assembly (Figure 6-6) is about 20 inches (50.8
+centimeters) in diameter. The bridge trunnion sockets are on the upper side of the
+rotator assembly. A projection on the underside fits into a recess in the baseplate
+assembly and contains the rotator slide lock. The rotator slide lock is actuated by
+the insertion of the bridge trunnions into their sockets, which depresses the
+expansion pin and securely locks the rotator and baseplate assemblies together.
+This projection also forms the pivot around which the rotator assembly rotates on
+the baseplate assembly.
+
+
+---
+
+                         Figure 6-6. Rotator assembly.
+d. Baseplate and Rotator Assemblies. The baseplate assembly (Figure 6-7) is
+about 38 inches (96.52 centimeters) in diameter. A recess in the center receives
+the bottom insert of the rotator assembly. The lower surface contains six ribs to
+increase the area in contact with the ground. Each rib has a depth of about 6 1/2
+inches (16.51 centimeters).
+
+                               Figure 6-7. Baseplate.
+                                      WARNING
+
+     Two carrying handles are provided but not recommended for
+     use since possible bodily injury may result.
+   Section III. OPERATION OF GROUND-MOUNTED MORTAR
+
+
+---
+
+This section contains information on how to prepare the 4.2-inch mortar, M30, for firing;
+how to conduct safety checks; and how to perform misfire procedures. The battalion
+heavy mortar platoon may be employed as a complete platoon of six mortar squads or it
+may be split and employed as two firing sections.
+
+6-7. MOUNTING OF THE MORTAR
+
+The purpose of squad drill is to develop teamwork within the mortar squad and to cross-
+train each mortar squad member.
+
+         a. The squad leader picks up the sight case and two aiming posts, and moves to
+         the exact position where the mortar is to be mounted. He places the sight case and
+         aiming posts to the left front of the mortar position. He then points to the exact
+         spot where the mortar is to be mounted and indicates the initial direction of fire.
+         He commands, ACTION.
+
+         b. The gunner on the left side and assistant gunner on the right secure the
+         baseplate and rotator assemblies (carried as one unit). They place it in the position
+         indicated by the squad leader. The assistant gunner positions the rotator assembly
+         in the desired direction of fire.
+
+         c. The gunner ensures that the sandbags or ammunition boxes are in position so
+         that the bridge assembly rests on them. (Sandbags or ammunition boxes are used
+         only for gunner examinations, crew drills, and demonstrations.) When the mortar
+         is fired, the baseplate assembly is dug in to be firmly placed on the ground. This
+         also ensures that the bridge assembly is level with the baseplate assembly.
+
+Note: Squad members move to the mortar position from the left side and return on the
+         right side when assembling and disassembling the cannon.
+
+         d. The squad leader and ammunition bearer secure the bridge assembly; the
+         ammunition bearer carries the socket end and seats the trunnions of the bridge
+         assembly into the trunnion socket of the rotator. The squad leader elevates the
+         spade end of the bridge, thus allowing the trunnions to slide into place (Figure 6-
+         8). The squad leader places the spade end down on the sandbags or ammunition
+         box and positions it so it is level in the horizontal plane.
+
+
+---
+
+         Figure 6-8. Rotator and bridge assemblies installed.
+
+e. The assistant gunner picks up the standard assembly with his right hand on the
+traversing assembly wheel and his left hand on the locking lug. He places the
+standard base trunnions behind the standard base bearings, tilts the top of the
+standard forward, and pulls the standard toward himself. The standard base
+trunnions fall into the standard base trunnion sockets (Figure 6-9). The assistant
+gunner raises the standard assembly to the vertical position, turns the traversing
+assembly slide 180 degrees, centers the traversing assembly slide, and elevates the
+elevating mechanism 15 turns.
+
+
+---
+
+              Figure 6-9. Installation of standard assembly.
+
+f. The squad leader and ammunition bearer secure the barrel (the squad leader
+carrying the muzzle end) and bring it up on the left side. The squad leader inserts
+the left tube cap trunnion pin into its recess in the left side of the bridge socket
+(Figure 6-10). The ammunition bearer than cants the barrel to the right, allowing
+the right tube cap trunnion pin to slide down an elongated slot to its socket, and
+places the barrel on the right shoulder of the assistant gunner.
+
+
+---
+
+      Figure 6-10. Barrel positioned into the bridge assembly.
+
+g. The ammunition bearer withdraws the mortar locking pin assembly. The
+assistant gunner lowers the barrel until it fits into position on the locking lug of
+the slide assembly. He inserts the mortar locking pin and turns it 180 degrees in
+either direction to lock the barrel to the standard assembly (Figure 6-11). He
+removes the muzzle cover.
+
+
+---
+
+              6-11. Barrel locked to the standard assembly.
+
+h. The gunner (who has placed a 3200-mil deflection on the deflection scale of the
+M53 sightunit and 900 mils elevation) now places the sightunit on the mortar
+(Figure 6-12). He then ensures that the unit is properly seated in the sight socket
+to prevent errors or damage to the sight. Aided by the assistant gunner, he levels
+the mortar and announces, "Up."
+
+
+---
+
+                                Figure 6-12. Sightunit installed.
+
+         i. The squad leader verifies the proper mounting of the mortar and notifies the
+         section leader that this mortar is mounted by announcing, "Number two (or
+         appropriate mortar number) up."
+
+6-8. SAFETY CHECKS BEFORE FIRING
+
+The following safety checks must be enforced before firing the mortar.
+
+         a. The gunner ensures that--
+
+                  (1) Tube cap trunnion pins are properly inserted into the bridge socket.
+
+                  (2) Bridge trunnions are properly inserted into the bridge trunnion socket
+                  of the rotator assembly.
+
+                  (3) There is clearance between the bridge assembly and the rotator pad.
+
+                  (4) The bridge spade has contact with the ground (sandbags should not be
+                  used to support the bridge spade during firing) and that any noticeable cant
+                  has been removed from the weapon.
+
+                  (5) Standard base trunnions are properly seated into the sockets of the
+                  bridge.
+
+                  (6) Elevating assembly cam is in the locked position.
+
+
+---
+
+                  (7) Standard assembly is properly coupled and locked to the barrel by the
+                  mortar locking pin assembly (turned 180 degrees in either direction).
+
+                  (8) The mortar has mask and overhead clearance by placing his head near
+                  the tube cap and sighting along the barrel for any obstructions in the path
+                  of the round. The gunner checks the mortar at its maximum and minimum
+                  firing elevations.
+
+         b. The assistant gunner ensures that the bore is clean and swabs the bore dry.
+         During firing, he swabs the bore after every 10 rounds fired or at the completion
+         of each fire mission.
+
+         c. The ammunition bearer ensures that--
+
+                  (1) Ammunition is clean and that all rust-preventive compound is removed
+                  from the fuze, body, cartridge container, and flash holes.
+
+                  (2) Fuzes are screwed tightly against the shell body. If fuzes are loose, the
+                  ammunition bearer tightens them with the correct fuze wrench.
+
+                  (3) Correct charge is placed on each cartridge, and the propelling charges
+                  are positioned properly.
+
+                  (4) Ignition cartridge is present and the striker nut is tight.
+
+Note : See TM 9-1015-215-12 for more information.
+
+                                                WARNING
+
+              The squad leader supervises the enforcement of safety
+              procedures to prevent injury to personnel or damage to
+              equipment.
+
+6-9. SMALL DEFLECTION CHANGE
+
+With the mortar mounted and sight installed, the sight is laid on the two aiming posts
+(placed out 50 to 100 meters from the mortar) on a referred deflection of 2800 mils and
+elevation of 900 mils. The mortar is within two turns of center of traverse, and the
+vertical cross line of the sight is on the left edge of the aiming post.
+
+         a. The gunner is given a deflection change in a fire command between 50 to 75
+         mils inclusive. As soon as the deflection change is announced, the gunner places
+         the announced deflection on the sightunit and traverses back onto the aiming post.
+         The sight is cross-leveled by the assistant gunner.
+
+
+---
+
+         b. After the gunner has announced, "Up," the mortar should be checked by the
+         squad leader to determine if the exercise was performed correctly.
+
+6-10. LARGE DEFLECTION AND ELEVATION CHANGES
+
+With the mortar mounted and sight installed, the sight is laid on the two aiming posts
+(placed out 50 and 100 meters from the mortar) on a referred deflection of 2800 mils and
+an elevation of 900 mils (low range).
+
+         a. The gunner is given a deflection and elevation change in a fire command. The
+         gunner must shift the mortar between 200 and 300 mils inclusive and make an
+         elevation change that causes him to elevate or depress the barrel. As soon as the
+         deflection and elevation changes are announced, the gunner places the announced
+         deflection on the sightunit. The assistant gunner unlocks the elevating mechanism
+         cam and places the mortar in high or low range, whichever is appropriate.
+
+         b. The gunner elevates or depresses the mortar until the bubble floats freely. The
+         assistant gunner picks up the spade end of the bridge. Looking through the sight,
+         the gunner places his left hand on the assistant gunner’s shoulder, pulling to the
+         left or pushing to the right, until the vertical cross line is on or near the correct
+         sight picture.
+
+         c. The assistant gunner moves back into position and cross-levels the sightunit.
+         The mortar should be within two turns of center of traverse when the exercise is
+         completed.
+
+6-11. LOADING AND FIRING OF M329A2 ROUND
+
+On receiving a fire command from the section leader, the gunner repeats each element.
+He places the firing data on the sight and, aided by the assistant gunner, lays the mortar.
+The ammunition bearer repeats the charge element when announced by the gunner and
+prepares the round with that charge. (If a fuze setting is announced, the ammunition
+bearer also repeats the setting and places it on the fuze.) He completes his preparation of
+the round to include the safety checks. The squad leader spot-checks the data on the sight
+and the lay of the mortar. He then commands, FIRE. The crew fires the mortar as
+follows:
+
+         a. If firing from a ground mount, the gunner removes the sightunit, being careful
+         not to disturb the lay of the mortar. He continues to remove the sightunit until the
+         baseplate assembly is settled and there is no danger of the sightunit becoming
+         damaged from the recoil of the mortar.
+
+         b. The first ammunition bearer passes a round to the assistant gunner. He holds
+         the round with the palms of both hands up near each end of the round so that the
+         fuze is pointing in the general direction of the mortar.
+
+
+---
+
+         c. The assistant gunner takes the round from the first ammunition bearer with his
+         right hand palm up and his left hand palm down. The assistant gunner grasps the
+         body of the round near the center and guides it into the barrel as far as the rotating
+         band. The tail end (tail assembly, projectile base, and rubber obturator) of the
+         cartridge is inserted into the muzzle. The assistant gunner rotates the cartridge
+         clockwise until the pre-engraved band (M329A2 cartridge) engages the lands and
+         grooves (rifling) in the barrel. The assistant gunner lowers the cartridge into the
+         barrel (to the "4.2-INCH-M" marking).
+
+         d. While lowering the cartridge, the assistant gunner rotates it clockwise, ensuring
+         the cartridge follows the twist of the rifling. He cuts both hands sharply away and
+         down along the barrel. At the same time, he pivots to the left and bends toward
+         the first ammunition bearer, extending his hands to receive the next round. The
+         assistant gunner must not disturb the lay of the mortar as he loads the round (the
+         round can bind when the base end enters the barrel). This can cause considerable
+         dispersion in the target area and can create unsafe conditions because of erratic
+         fire.
+
+6-12. MALFUNCTIONS
+
+See Chapter 3, paragraph 3-14 for a detailed discussion of malfunctions.
+
+6-13. REMOVAL OF A MISFIRE
+
+Misfire procedures are described herein.
+
+         a. During firing, the first crew member who notices a misfire has occurred
+         announces, "Misfire."
+
+                  (1) When a misfire is announced, the entire squad stays with the mortar. If
+                  the round did not slide down the barrel and the projectile body can be
+                  grasped, the gunner removes the stuck round. The M329A2 is freed by
+                  rotating it in a clockwise direction.
+
+                                                WARNING
+
+              During peacetime live -fire training, all personnel, except the
+              gunner, move at least 50 meters to the rear of the mortar or
+              carrier.
+
+                  (2) If the round slid completely or partly down the barrel (not visible or
+                  only the fuze is visible), the gunner stands behind the barrel and kicks it
+                  sharply several times with the heel of his boot.
+
+
+---
+
+                                                WARNING
+
+              During peacetime live -fire training, if the round does not fire,
+              the gunner joins the crew and waits one minute to avoid
+              personal injury due to a cookoff. After waiting one minute,
+              the gunner then returns to the mortar and tests the barrel for
+              heat. When the barrel is cool enough to handle, the gunner
+              signals for the rest of the crew to come forward.
+
+                  (3) If kicking the barrel does not dislodge the round, the gunner waits until
+                  the barrel is cool enough to handle with bare hands (he checks for heat
+                  with his fingertips from the muzzle to base plug). The barrel may be
+                  cooled with water or snow. If the barrel is not cool enough to handle, the
+                  gunner waits one minute to avoid an accident from a hangfire or the
+                  ignition cartridge and possible damage to the barrel from rapid quenching
+                  during cooling.
+
+Note: If temperature is above 32 degrees, a minimum of three quarts of water is used. If
+         temperature is below 32 degrees, a solution of two quarts of water and two quarts
+         of antifreeze is used.
+
+                                                WARNING
+
+              The water or water and antifreeze cushions the impact of the
+              round onto the firing pin should a stuck round dislodge
+              during the removal operation. This prevents the primer from
+              functioning. The round will not be refired.
+
+                  (4) The gunner lifts the container of water or water and antifreeze from
+                  behind the barrel and pours the entire amount slowly into the barrel. If
+                  only water is used, a 2-minute wait is allowed to let the water flow past the
+                  cartridge to the bottom of the barrel. If water and antifreeze is used, a 30-
+                  minute wait is allowed to let the water flow past the cartridge to the
+                  bottom of the barrel.
+
+                                                WARNING
+
+              A stuck round could dislodge and fire as the water or water
+              and antifreeze is being poured into the barrel. All personnel
+              except the gunner will take cover. If carrier-mounted, the
+
+
+---
+
+              ramp of the carrier is closed to protect the gunner. At no time
+              will any part of the gunner’s hands or body be placed in front
+              of the muzzle of the barrel.
+
+Note: The gunner moves back with other crew members when water and antifreeze is
+         used to remove the cartridge from the ground-mounted mortar.
+
+                                                WARNING
+
+                     Keep body and head away from front of the mortar.
+
+         b. Removal procedures are described herein.
+
+                  (1) The gunner locks the firing data on the sight, removes it, and places it
+                  in a safe place.
+
+                  (2) The gunner signals the squad to come forward and removes the
+                  sightunit.
+
+                  (3) The assistant gunner cranks the mortar barrel to its highest position in
+                  low range or to its lowest position in high range and backs off two turns.
+
+                  (4) The gunner traverses the mortar to the extreme left.
+
+                  (5) The gunner and assistant gunner tilt the mortar barrel, bridge assembly,
+                  and standard assembly to the left, allowing the cap assembly trunnion pin
+                  to slide up in the slots.
+
+                  (6) The squad leader and ammunition bearer, without getting behind the
+                  mortar barrel, should carefully lift the barrel out of the bridge trunnion
+                  socket and rest it on the bridge assembly. The gunner and assistant gunner
+                  return the bridge assembly to its original position.
+
+                  (7) The assistant gunner places his hands around the muzzle, making
+                  certain that no part of his hands extend over the muzzle.
+
+                  (8) The gunner supports the barrel in front of the standard assembly
+                  (Figure 6-13) with his right arm around the barrel.
+
+
+---
+
+          Figure 6-13. Gunner supporting the barrel.
+
+                                 WARNING
+
+Never lower the base of the barrel below a horizontal position
+until the cartridge has been removed.
+
+    (9) The squad leader and ammunition bearer carefully lift the base end of
+    the barrel without getting behind it, and slowly raise it to the horizontal
+    position, while the cartridge moves slowly toward the muzzle.
+
+    (10) The assistant gunner extends the thumbs of both hands over the
+    muzzle as the barrel reaches the horizontal position. The squad leader and
+    ammunition bearer continue to raise the rear of the barrel.
+
+
+---
+
+                                 WARNING
+When removing the cartridge, the assistant gunner does not
+touch the striker since it may be armed.
+
+    (11) The assistant gunner stops the cartridge with his thumbs, removes it,
+    and places it a safe distance from the mortar position as prescribed by
+    local policy (Figure 6-14). Explosive ordnance disposal personnel are
+    notified.
+
+       Figure 6-14. Assistant gunner removing misfire.
+                                 WARNING
+
+Under no circumstances will an attempt be made to refire the
+round.
+
+    (12) The gunner and ammunition bearer shake the barrel to remove any
+    debris. The barrel is then placed back into the firing position, and the
+    ammunition bearer swabs it.
+
+
+---
+
+                  (13) If another misfire occurs when firing is resumed, the cartridge is
+                  removed and the barrel is checked for damage or fouled firing pin.
+
+         c. If the cartridge cannot be removed from the barrel (ground-mounted), the
+         crewmembers must follow these procedures:
+
+                  (1) The gun crew returns the barrel to its horizontal position. The gunner
+                  pushes in, rotates, and disengages the mortar locking pin assembly, while
+                  supporting the standard assembly. The squad leader, assistant gunner, and
+                  ammunition bearer support the barrel, keeping it in the horizontal position.
+
+                  (2) The squad leader, assistant gunner, and ammunition bearer remove the
+                  barrel from the standard assembly. Keeping the barrel horizontal, they
+                  place it on the ground in the direction of fire, a safe distance from the
+                  mortar. Explosive ordnance disposal personnel are notified.
+
+Note : For more information on the disposition of misfires, see AR 385-63, TM 9-1300-
+         206, or TM 9-1015-215-10.
+
+6-14. DISMOUNTING OF THE MORTAR
+
+To dismount the mortar, the squad leader commands, OUT OF ACTION. Then, the
+squad follows these procedures:
+
+         a. The second ammunition bearer retrieves the aiming posts. The gunner removes
+         the sight, places an elevation of 800 mils and a deflection of 3800 mils on the
+         M53 sightunit and places it in the case.
+
+         b. The assistant gunner replaces the muzzle cover.
+
+         c. If the mortar barrel is in high range, the assistant gunner places his shoulder
+         under the barrel, unlocks the elevating cam, and gently lowers the barrel to the
+         low range.
+
+         d. The assistant gunner disengages the mortar locking pin assembly and raises the
+         barrel with his right shoulder to disengage the mortar from the standard assembly.
+         The ammunition bearer removes the barrel from the assistant gunner’s shoulder,
+         then reinserts the mortar locking pin and cants the barrel to the left to disengage
+         the trunnion pins. The squad grasps the base end of the barrel. Both mortarmen
+         (squad leader and ammunition bearer) lift the barrel out of the socket.
+
+         e. The assistant gunner lowers the elevating mechanism, positions the connection
+         for the mortar locking pin assembly to the extreme right, and folds the traversing
+         crank to its inoperative position. He then rotates the standard assembly away from
+         the baseplate assembly and lifts up, disengaging the standard base trunnions.
+
+
+---
+
+         f. The ammunition bearer moves to the spade end of the bridge and elevates it.
+         The squad leader disengages the bridge trunnions from the rotator assembly.
+         g. As the bridge spade is raised, the gunner removes the sandbags. The gunner
+         and assistant gunner remove the baseplate and rotator assemblies (assembled).
+         h. The squad leader picks up the aiming posts and sightunit. At the command
+         MARCH ORDER, the squad places the mortar, equipment, and ammunition in the
+         squad vehicle and trailer.
+
+          Section IV. MORTAR CARRIERS, M106, M106A1, AND M106A2
+This section is a guide for training mortar units equipped with the M106, M106A1, and
+M106A2 mortar carriers for mounting the 4.2-inch mortar, M30. The procedures and
+techniques for a mounted mortar are different from ground-mounted.
+6-15. DESCRIPTION
+The M106 carrier (Figure 6-15) is the M113 armored personnel carrier modified to carry
+the 4.2-inch mortar, M30, on a specially designed mount (Figure 6-16). It is an armored,
+full-tracked, self-propelled vehicle that can swim streams and small bodies of water. A
+caliber .50 machine gun is mounted on the cupola for the vehicle commander’s use.
+
+   Figure 6-15. Mortar carrier, M106, left front view (caliber .50 machine gun
+                                         mounted on cupola).
+
+
+---
+
+                     Figure 6-16. Mortar carrier, M106, top rear view.
+
+         a. To fire the 4.2-inch mortar from the carrier, the top plating to the rear of the
+         carrier has a mortar-hatch cover, which is hinged and folds to both sides. The
+         carrier provides limited armor protection for the squad during maneuver. In
+         combat, the mortar is fired with the ramp closed and locked. During firing
+         exercises in training, the mortar may be fired with the ramp open for visual
+         inspection by safety personnel.
+
+         b. The mortar and its components can be removed from the carrier for ground-
+         mounted firing. The baseplate, bridge, and rotator assemblies of the ground mount
+         are stowed outside the carrier.
+
+6-16. TABULATED DATA
+
+The tabulated data of the M106 carrier are as shown in Table 6-2 follows:
+
+GENERAL INFORMATION             M106            M106A1            M106A2
+  Crew capacity                    5                 5                 6
+  Weight (pounds):
+     Combat load               25,700            26,137            26,876
+     Airdrop                   19,380            19,850            20,589
+  Ground pressure (psi)
+     (combat weight)             8.2               8.3               8.6
+  Armament
+                         4.2-inch mortar,  4.2-inch mortar,  4.2-inch mortar,
+                         M30; .50-caliber  M30; .50-caliber  M30; .50-caliber
+
+                           machine gun       machine gun       machine gun
+
+
+---
+
+AMMUNITION STOWAGE                         93 rounds    88 rounds   88 rounds
+  Mortar, 4.2 -inch, M30                  600 rounds   600 rounds  600 rounds
+  .50 Caliber                             720 rounds   720 rounds  720 rounds
+  7.62-mm
+  Fuzes                                     54 fuzes     54 fuzes    54 fuzes
+
+MEASUREMENTS (inches)                          194          194         194
+  Overall length                               113          113      105 3/4
+  Maximum width                                87           98        87 1/2
+  Maximum height                               16           16        17 1/8
+  Ground clearance
+                                          85 gasoline   95 diesel   95 diesel
+FUEL CAPACITY (gallons)
+                                               40          41.5         40
+PERFORMANCE                                    3.5          3.5         3.6
+  Speed (mph):
+     Land                                      60           60          60
+     Water                                     30           30          30
+  Grade ability (percent):                     24           24          24
+     Forward slope                             66           66          66
+     Slide slope
+  Vertical obstacle (inches)                  22.8         22.8        22.8
+  Trench crossing (inches)                    12.8         12.8        12.8
+  Turning radius (feet):                       185          295         300
+     Differential steer                    Unlimited    Unlimited   Unlimited
+     Pivot steer
+  Cruising range (miles)                       44           44          44
+  Fording capability                                    M106A1      M106A2
+     (Do not exceed gross weight rating)     M106
+  Bilge pump output (gpm)                                   825         800
+
+MORTAR CAPABILITIES MOUNTED                                 775         800
+ON TURNTABLE
+                                                           1600        1600
+  Traversing limits (mils):
+     Right of center with connection for                   1124        1600
+     mortar locking pin assembly                            740        1600
+     Left of center with connection for
+     mortar locking pin assembly
+
+  Total traverse capability from extreme
+  left to extreme right (mils)
+  Elevation limits (level track) maximum
+(mils)
+  Elevation limits (level track) minimum
+(mils)
+
+                       Table 6-2. Tabulated data for the M106 carrier.
+
+             Section V. OPERATION OF CARRIER-MOUNTED MORTAR
+
+The mortar section is the basic fire unit for the mortar platoon. When a position is
+occupied, the mortars are emplaced 40 meters apart, making a section front (distance
+between flank mortars) of about 80 meters. The mortars are numbered 1, 2, and 3 from
+right to left when facing in the direction of fire, without regard to the permanent squad
+
+
+---
+
+numbers within the section--for example, the first squad is not necessarily mortar No. 1.
+The squads of the heavy mortar platoon in the mechanized infantry battalion and tank
+battalion, whose prime mover is the mortar carrier (Ml06, M106Al, or M106A2), consist
+of four men: the squad leader, gunner, assistant gunner, and ammunition bearer/driver
+(Figure 6-17). The differences in the procedures from a ground-mounted mortar squad
+are also discussed herein.
+
+                                               Figure 6-17.
+6-17. MORTAR AND VEHICULAR MOUNT
+The mortar is carried while attached to its vehicular mount. A mount tie-down strap is
+provided to tie the mortar (when it is depressed to its lowest elevation) and the standard
+base trunnion bearing support (when lowered to its lowest position) (Figure 6-18). The
+trunnion detent pins at the base assembly are placed in their innermost position. The
+vehicular mount is locked in position by the turntable traverse lock. Securing the mortar
+for distant moves is required to prevent damage to the standard assembly recoil and
+counterrecoil mechanism, and possible injury to personnel. The mortar is provided with a
+sight extension arm assembly, which is received by the socket of the coupling and sight
+mount assembly. The gunner uses the sight extension arm to sight on his aiming point
+above the hull of vehicle. The sight extension must be removed before movement to
+prevent wear on the sight mount coupling gears. The vehicular mount supports the mortar
+
+
+---
+
+and aids in securing the mortar for traveling. The mount consists of the components
+described in the following paragraphs.
+
+                                  Figure 6-18. Vehicular mount.
+         a. Mortar Standard Assembly Support. The standard assembly support located
+         at the front of the mortar turntable retains the mortar barrel in the firing position.
+         The lock consists of spring-loaded release levers, a catch, and a spring-loaded
+         guard. The catch automatically latches when the mortar and standard assembly are
+         raised to the firing position. To release the catch, raise the guard, step on the
+         release, and lower the mortar barrel and standard assembly.
+         b. Traverse Locking Handle. The traverse locking handle, located in the center
+         of the mortar turntable, locks the turntable to the indexing ring during mortar
+         firing. To engage the lock, push the handle down until the latch automatically
+         engages. To release the lock, raise the latch and pull up the locking handle.
+         c. Traversing Straps. These two straps are used to help traverse the turntable
+         when it must be forced into position.
+
+
+---
+
+         d. Mortar Barrel Socket Assembly. The socket assembly, located at the rear of
+         the mortar turntable, receives and retains the barrel with detent pins--one on each
+         side of the socket. The pins have two detent positions. To insert the barrel, the
+         pins must be pulled to their outermost detent position. To retain the barrel, the
+         pins are pushed to their innermost detent positions.
+         e. Mortar Tie-Down Strap. The mortar tie-down strap is located on the mortar
+         turntable. When not in use, the strap is stowed in the mortar equipment bag. The
+         strap consists of a ratchet buckle with a hook on the lower and upper ends, with a
+         D-ring attached in the center section. The strap is used to secure the mortar during
+         travel. To install the strap, the ratchet end is hooked into the eye on the turntable,
+         the upper end is wrapped around the barrel between the coupling and sight mount
+         assembly, and the hook is fastened to the D-ring. The ratchet handle is operated
+         up and down until the strap is tight. To loosen, the handle is opened all the way,
+         the release latch is depressed, and the tie-down strap is pulled on.
+         f. Recoil Stop Clamp. The recoil stop clamp is a hinged collar installed on the
+         standard assembly during on-vehicle mortar firing. This clamp prevents the barrel
+         from being accidentally depressed beyond safe limits (Figure 6-19).
+
+                                  Figure 6-19. Recoil stop clamp.
+6-18. MAINTENANCE
+Care and cleaning of the mortar, instruments, and equipment are the duty and
+responsibility of the mortar squad. Care and cleaning of the carrier-mounted mortar are
+the same as for the ground-mounted mortar. All maintenance records for the mortar and
+carrier are kept IAW the instructions outlined in TM 38-750-1.
+
+
+---
+
+Note : See TM 9-1015-215-20&P for cleaning and lubricating procedures for the 4.2-
+         inch mortar, M30, and the mount, M24Al. For maintenance procedures for the
+         M106, M106A1, and M106A2 carriers, see TM 9-2300-257-10.
+
+6-19. PLACEMENT OF MORTAR INTO FIRING POSITION ON CARRIER
+This exercise should begin with the mortar and crew mounted in the carrier (Figure 6-20).
+The purpose of this exercise is to get the mortar into a firing position to be reciprocally
+laid, or to engage a target using the direct lay method. The driver leaves the engine
+running. The intercom between the driver and squad leader is maintained so that the
+squad leader can direct the driver to move the carrier for the first deflection reading in
+reciprocal laying. To mount the mortar in the firing position, the squad leader gives the
+preparatory command PREPARE FOR ACTION, and the mortar squad takes the
+following actions.
+
+                               Figure 6-20. Mounted firing posts.
+         a. The gunner moves to the center hatch cover chain and grasps the chain. The
+         assistant gunner moves the left mortar hatch cover chain and grasps the chain. The
+         ammunition bearer picks up the sightunit case. When the squad is ready, the
+         squad leader commands ACTION.
+         b. On the command ACTION, the gunner and assistant gunner unlock, fold, and
+         lock the hatches. The gunner then unlocks, folds, and locks the right hatch cover
+         into its fully open position.
+         c. After the assistant gunner has locked the left hatch, he picks up the sight
+         extension and passes it to the gunner. The gunner places the sight extension on the
+         mortar and adjusts it to his height.
+
+
+---
+
+         d. The gunner removes the sightunit from its case, places a 3200-mil deflection
+         and 900-mil elevation on the sight, and places it into the sight socket of the
+         extension.
+
+         e. The assistant gunner releases the tie-down strap ratchet and removes the strap.
+         He then moves to the front of the mortar, places his right shoulder under the
+         mortar, and pushes up until the standard support locks in the raised position. He
+         then elevates the mortar about 15 turns.
+
+         f. The assistant gunner removes the muzzle cover. The gunner and assistant
+         gunner cross-level the mortar and level it for elevation. The ammunition bearer
+         ensures that the detent pins are in their innermost detent position.
+
+         g. The gunner then announces, "Up," and the squad leader signals up to the
+         instrument operator. At this time, the crew should be at the firing post.
+
+         h. The squad is now ready to reciprocal lay or to engage a target by the direct lay
+         method.
+
+6-20. LAYING FOR DEFLECTION AND ELEVATIO N
+
+This procedure demands coordination and numerous exercises. The turntable must be
+properly adjusted and lubricated. The squad should know that the traversing turntable
+straps are used only when the turntable must be forced into position. The connection for
+the mortar locking pin assembly normally is within two turns of center after properly
+being laid. Two and one half turns may exist because of the 50-mil interval between the
+teeth of the turntable traversing ring. This procedure is the same as for the ground-
+mounted mortar with the following exceptions.
+
+         a. Large Deflection Shifts to the Left.
+
+                  (1) When a deflection greater than 75 mils is announced in the fire
+                  command, the assistant gunner prepares the turntable to be traversed
+                  before firing the round.
+
+                  (2) As soon as the deflection is announced, the gunner immediately
+                  indexes it on the sight (Figure 6-21). He ensures that the mortar is within
+                  two turns of center of traverse.
+
+
+---
+
+Figure 6-21. Gunner indexing the sight and assistant gunner unlocking the turntable
+                                          traversing handle.
+
+                  (3) The assistant gunner pushes down on the turntable traversing handle
+                  latch with his left foot. He then raises the handle to the unlocked position
+                  and assumes the following position: right foot on the standard support, left
+                  foot on the mortar tube socket assembly, right and left hands on the rim of
+                  the mortar hatch cover, and body braced on the fuze rack (Figure 6-22).
+
+
+---
+
+ Figure 6-22. Positions for traversing the turntable.
+
+(4) The gunner assumes the following position: right foot near or on the
+mortar tube socket assembly, left foot off the turntable, right hand on top
+of the coupling and sight mount assembly, and left hand on the traversing
+crank. At the same time, he looks through the telescope of the M53- or
+M64-series sightunit (Figure 6-22).
+
+(5) The gunner commands PUSH. At this time the assistant gunner pushes
+the turntable with his right foot; and the gunner pushes with his right foot
+and pulls with his right hand.
+
+(6) When the gunner has the approximately correct sight picture, he
+commands HOLD. Upon confirming this sight picture, he commands
+LOCK.
+
+(7) The assistant gunner locks the traversing lock handle with his right
+hand (Figure 6-23) or right foot. (The gunner does not attempt to finalize
+his sight picture before the assistant gunner locks the turntable.)
+
+
+---
+
+     Figure 6-23. Assistant gunner locking the turntable traversing handle.
+
+                  (8) The gunner and assistant gunner continue to lay the mortar for
+                  deflection and elevation using the operating mechanism on the mortar.
+
+                  (9) When the mortar is correctly laid, the gunner announces, "Up," or
+                  commands FIRE.
+
+         b. Large Deflection Shifts to the Right. This exercise is the same as large
+         deflection shifts to the left with the following exceptions:
+
+                  (1) The gunner reverses the position of his feet on the turntable. His right
+                  foot is off the turntable and his left foot is on or near the standard support.
+
+                  (2) When the turntable has been unlocked, the gunner commands PULL.
+
+                  (3) The gunner and assistant gunner push the turntable with their left feet.
+
+6-21. REMOVAL OF A MISFIRE (CARRIER-MOUNTED)
+
+During firing, the first crew member who notices a misfire has occurred announces,
+"Misfire."
+
+         a. Procedures for removal of a cartridge when the barrel is carrier-mounted as
+         described herein.
+
+
+---
+
+    (1) The entire crew remains with the mortar.
+
+                                 WARNING
+
+During peacetime live -fire training, when the water and
+antifreeze is used, the gunner joins the crew and waits the
+prescribed time. After waiting, the driver mounts the carrier
+first and then the gunner second.
+
+    (2) The gunner closes the ramp door. The driver lowers the ramp. The
+    gunner signals the crew to mount the carrier.
+
+    (3) The driver moves to the left of the mortar, the squad leader moves to
+    the right of the mortar, and the gunner and assistant gunner are in the
+    firing positions. If the mortar is not centered, the gunner and assistant
+    gunner now center the mortar toward the rear of the carrier.
+
+    (4) The gunner uses the traversing handwheel to center the mortar. The
+    gunner removes the sight extension with the sightunit attached and places
+    it on the carrier roof.
+
+    (5) The assistant gunner then elevates or depresses the mortar barrel to its
+    lowest position in high range or to its highest position in low range (minus
+    two turns). The gunner and assistant gunner must support the barrel while
+    it is being lowered.
+
+    (6) The assistant gunner places his hands around the muzzle, making
+    certain that no part of his hands extend over the muzzle. The gunner
+    supports the barrel in front of the standard assembly.
+
+                                 WARNING
+
+Never lower the base of the barrel below a horizontal position
+until the cartridge has been removed.
+
+    (7) The ammunition bearer removes the two detent pins. Then the squad
+    leader and ammunition bearer carefully lift the base end of the barrel
+    (without getting behind the barrel) and slowly raise it to the horizontal.
+
+    (8) The assistant gunner extends the thumbs of both hands over the muzzle
+    as the barrel reaches the horizontal position. While the cartridge moves
+    slowly toward the muzzle, the squad leader and ammunition bearer
+    continue to raise the rear of the barrel.
+
+
+---
+
+                                                WARNING
+
+              When removing the cartridge, the assistant gunner must not
+              touch the striker since it may be armed.
+
+                  (9) The assistant gunner stops the cartridge with his thumbs, removes it,
+                  and places it a safe distance from the mortar position (as prescribed by
+                  local policy). The squad leader and ammunition bearer shake the barrel to
+                  remove any debris. The barrel is then placed back into the firing position
+                  and the ammunition bearer swabs the barrel. Explosive ordnance disposal
+                  personnel are notified.
+
+         b. If the cartridge cannot be removed from the carrel (carrier-mounted), the
+         crewmembers must follow these procedures:
+
+                  (1) The gun crew returns the barrel to its horizontal position. The gunner
+                  pushes in, rotates, and disengages the mortar locking pin assembly, while
+                  supporting the standard assembly. The squad leader, assistant gunner, and
+                  ammunition bearer support the barrel, keeping it in the horizontal position.
+
+                  (2) The squad leader, assistant gunner, and ammunition bearer remove the
+                  barrel from the standard assembly. Keeping the barrel horizontal, they
+                  place it on the ground in the direction of fire, a safe distance from the
+                  mortar. Explosive ordnance disposal personnel are notified.
+
+Note : For more information on the disposition of misfires, see AR 385-63, TM 9-1300-
+         206, or TM 9-1015-215-10.
+
+6-22. MOUNTING OF MORTAR ON CARRIER FROM GROUND-MOUNTED
+POSITION
+
+With the weapons system already out of action, the driver first ensures it is safe to lower
+the ramp and then does so.
+
+         a. The gunner and assistant gunner open the mortar hatch cover and ensure the
+         turntable is centered to the rear of the track and locked. At the same time, the
+         squad leader ensures that the detent pins are in their outermost detent positions.
+
+         b. With the gunner at the muzzle end of the mortar and the driver and squad
+         leader at the base end of the mortar, they move the barrel into the carrier, base end
+         first. The driver and squad leader place the tube cap trunnion pins into the tube
+         socket, aligning the tube cap trunnion pin.
+
+
+---
+
+         c. The gunner raises the muzzle end of the mortar high enough for the assistant
+         gunner to mount the standard assembly. The assistant gunner aligns the standard
+         base trunnion with the standard trunnion socket of the standard support, ensuring
+         that the standard assembly is leaning toward the rear of the track when the
+         trunnions are seated in the trunnion bearings. He then moves the standard
+         assembly to the vertical position and supports the standard assembly.
+
+Note: If the above procedures are not followed, the standard assembly can be emplaced
+         improperly, causing undue stress on the standard support assembly.
+
+         d. The gunner lowers the barrel, aligning the locking lugs and standard assembly,
+         pushes in the mortar locking pin assembly and turns it 180 degrees in either
+         direction, locking the barrel to the standard assembly. He then ensures that the
+         connection for the mortar locking pin assembly is centered, and that the standard
+         assembly is fully depressed.
+
+         e. The assistant gunner secures the muzzle cover and tie-down strap, and places
+         the muzzle cover on the barrel. He then hooks the ratchet end of the tie-down
+         strap to the eye on the turntable and wraps the upper end around the barrel
+         between the coupling and sight mount. After fastening the hook to the D-ring, he
+         operates the ratchet until the strap is tight.
+
+         f. The bridge and baseplate assemblies are mounted by the gunner, the assistant
+         gunner, and the driver. One mortarman always manipulates the bridge clamping
+         assembly or baseplate locking clamp and, at the same time, aids in bracing these
+         components. The rotator assembly is placed in its position on the right rear of the
+         carrier.
+
+         g. The mortar and its components are now secured in the traveling position
+         (Figure 6-19).
+
+6-23. DISMOUNTING OF MORTAR FROM CARRIER
+
+A minimum of four mortarmen is required to remove the mortar and standard assembly
+from the travel position.
+
+         a. The driver ensures it is safe to lower the ramp and then does so. He joins the
+         squad leader located at the base end of the mortar.
+
+         b. The assistant gunner removes the tie-down strap and muzzle cover from the
+         mortar and stows them in the equipment bag. He then moves to the front of the
+         mortar to support the standard assembly.
+
+
+---
+
+         c. The gunner unlocks the mortar locking pin and lifts up on the front of the
+         mortar. The assistant gunner leans the standard assembly forward and removes it.
+         The driver pulls the detent pins to their outermost detent positions.
+         d. With the driver and squad leader at the base end of the barrel and the gunner at
+         the muzzle end, they remove the barrel from the carrier.
+         e. If the mortar is to be ground-mounted at this time, the crew removes the bridge,
+         rotator, and baseplate assemblies from the carrier. The mortar is then mounted the
+         same as in the previous paragraph.
+6-24. PREPARATION FOR A MARCH ORDER FROM GROUND-MOUNTED
+POSITION
+This exercise begins with the squad members at their firing posts at the ground-mounted
+mortar (Figure 6-24) and with the ramp of the carrier lowered. The preparatory command
+is PREPARE FOR MARCH ORDER; the command for execution is MARCH ORDER,
+upon which the crew proceeds as follows.
+
+      Figure 6-24. Firing posts (squad and mortar dismounted from carrier).
+
+
+---
+
+Note: When not serving with the carrier, the driver serves as an ammunition bearer.
+
+         a. Squad Leader.
+
+                  (1) Receives the sight from the gunner, places it in the sight case, and
+                  stows the case in the carrier.
+
+                  (2) Supervises the mounting of the mortar and the storing of the
+                  ammunition.
+
+                  (3) Directs the driver in the closing of the ramp.
+
+                  (4) Takes his mounted post.
+
+                  (5) Connects the breakaway plug.
+
+                  (6) Commands REPORT.
+
+                  (7) When the carrier is prepared for march order, reports, "Number one
+                  (two, three, or four); ready for march order."
+
+         b. Gunner.
+
+                  (1) Removes the sight and hands it to the squad leader.
+
+                  (2) Disconnects the barrel from the standard assembly.
+
+                  (3) Assists the ammunition driver/bearer and the driver in carrying and
+                  mounting the barrel.
+
+                  (4) Assists the assistant gunner in placing the mortar in the traveling
+                  position.
+
+                  (5) Assists the driver and assistant gunner in replacing the bridge and
+                  baseplate assemblies.
+
+                  (6) Assists the ammunition bearer/driver in carrying and stowing
+                  ammunition.
+
+                  (7) Assists in closing the mortar hatch cover.
+
+                  (8) Takes his mounted post.
+
+                  (9) Reports, "Gunner ready."
+
+
+---
+
+c. Assistant Gunner.
+         (1) Swabs out the bore.
+         (2) Mounts the recoil stop on the standard assembly.
+         (3) Assists the ammunition bearer and gunner in carrying and stowing the
+         baseplate and bridge assemblies.
+         (4) Assists the gunner in placing the mortar in the traveling position.
+         (5) Dismounts and mounts the standard assembly.
+         (6) Attaches and tightens the traveling strap assembly to the mortar.
+         (7) Stows the cleaning staff and places the muzzle cover on the barrel.
+         (8) Assists the ammunition bearer in carrying and stowing ammunition.
+         (9) Assists in closing the mortar hatch cover.
+         (10) Takes his mounted post.
+         (11) Reports, "Assistant gunner ready."
+
+d. Driver.
+         (1) On command of the squad leader, raises and lowers the ramp.
+         (2) Moves the carrier as directed by the squad leader.
+         (3) Stows the rotator assembly.
+         (4) Assists the gunner and assistant gunner in mounting the mortar.
+         (5) Takes his mounted post.
+         (6) Reports, "Driver ready."
+         (7) Assists the gunner and assistant gunner in dismounting, carrying, and
+         stowing the bridge and baseplate assemblies.
+         (8) Retrieves the aiming post.
+         (9) Places the detent pins in the innermost detent.
+
+
+---
+
+6-25. SAFETY CHECKS
+
+Specific safety checks must be performed before firing from the M106, M106Al, or
+M106A2 carrier. Most checks can be made by visual inspection. The gunner, assistant
+gunner, and ammunition bearer are responsible for physically performing these safety
+checks under the squad leader’s supervision. The squad leader supervises to ensure that
+all precautions are taken to prevent possible damage to equipment or injury to personnel.
+
+         a. Gunner Safety Checks.
+
+                  (1) The trunnion detent pins are in the innermost detent.
+
+                  (2) The traversing lock handle is locked.
+
+                  (3) The standard support assembly is in a raised position and firmly
+                  latched.
+
+                  (4) The standard base trunnions are correctly aligned and seated in the
+                  standard support trunnion bearing.
+
+                  (5) The elevating mechanism cam is locked and operational.
+
+                  (6) The recoil stop is in position and the wing nut is tight.
+
+                  (7) The mortar locking pin is fully seated and locked.
+
+                  (8) A mask and overhead clearance exist through the entire traverse
+                  capability of the mortar mounted on the carrier.
+
+                            (a) When a mask and overhead clearance do not exist at points
+                            along the full traverse and elevation capability of the mortar, the
+                            gunner traverses the barrel (using the turntable when necessary)
+                            and, by sighting along the barrel, aligns the barrel with the
+                            obstruction. Using the sight, he then measures the elevation, refers
+                            the sight back to the aiming posts, and takes a correct sight picture.
+
+                            (b) When referring back to sight, he measures the number of mils,
+                            left or right, that the mask or overhead obstruction covers and
+                            announces the result to the squad leader.
+
+                  (9) The two mortar hatch covers are securely latched.
+
+         b. Assistant Gunner Safety Checks.
+
+                  (1) The mortar barrel is clear of foreign materials.
+
+
+---
+
+                  (2) The bore is swabbed before firing, and after every 10 rounds or fire for
+                  effect.
+
+                  (3) The left mortar hatch cover is securely latched.
+
+         c. Ammunition Bearer Safety Checks.
+
+                  (1) The rounds are clean and free of burrs.
+
+                  (2) The fuze is screwed tightly against the shell body. If the fuze is loose,
+                  he tightens it with the correct fuze wrench.
+
+                  (3) The correct charge is placed on each round and the propelling charges
+                  are properly positioned.
+
+                  (4) The striker nut is tight.
+
+                  (5) The proper fuze option or fuze time setting is selected.
+
+6-26. MEASUREMENT OF MINIMUM AND MAXIMUM ELEVATIONS
+
+When in a firing position, mortar carriers should be positioned on the best obtainable
+level ground. If the carriers are not on level ground, the mortars may not be able to fire at
+certain elevations because of the longitudinal cant of the carrier. When the carrier is
+positioned, the gunner measures the minimum elevations that can be obtained on his
+mortar by elevating and depressing the mortar barrel and measuring with his sight. He
+gives the results of his measurements to the squad leader who in turn informs the FDC.
+The FDC then determines which constant elevation to fire and may direct the squad
+leader to move his carrier to a new position.
+
+Note: The sight must be calibrated before minimum and maximum elevations are
+         measured.
+
+6-27. SQUAD FORMATIONS
+
+This paragraph discusses the traveling and firing positions of the squad members.
+
+         a. Traveling Posts. The squad takes traveling posts as follows:
+
+                  (1) Squad leader: in the cupola, standing on the platform or seated on the
+                  cupola seat.
+
+                  (2) Gunner (No. 1): on the gunner’s seat, facing the assistant gunner (No.
+                  2).
+
+
+---
+
+                  (3) Assistant gunner (No. 2): on the assistant gunner’s seat, facing the
+                  gunner.
+
+                  (4) Driver: in the driver’s seat.
+
+         b. Firing Posts (Mounted). When the carrier-mounted mortar is prepared for
+         action, the squad members take their firing positions as follows:
+
+                  (1) Squad leader: any position in the carrier that allows him to supervise
+                  the action of the squad.
+
+                  (2) Gunner (No. 1): to the left of the mortar where he can lay for elevation
+                  and direction.
+
+                  (3) Assistant gunner (No. 2): to the right of the mortar where he can load
+                  the mortar and cross-level the sight for the gunner.
+
+                  (4) Driver: in the driver’s seat or the seat next to the vertical ammunition
+                  rack.
+
+         c. Firing Posts (Dismounted). When the mortar is ground-mounted and prepared
+         for action, the squad members take their firing posts. The driver remains with the
+         carrier.
+
+6-28. DISMOUNTED MORTAR SQUAD
+
+This exercise (Figure 6-25) begins with the squad members at their traveling posts with
+the ramp and ramp door closed. The preparatory command is PREPARE TO
+DISMOUNT; the command of execution is DISMOUNT. A mounted squad drill should
+be practiced under section and squad control.
+
+
+---
+
+                                  Figure 6-25. Dismounted posts.
+
+         a. At the command PREPARE TO DISMOUNT, the driver disconnects the
+         breakaway plug and turns off the master switch. The squad leader disconnects the
+         breakaway plug and turns off the radio. The assistant gunner unlatches and opens
+         the ramp door.
+
+         b. At the command DISMOUNT, the assistant gunner, gunner, squad leader, and
+         driver (in that order) dismount, move to the front of the carrier, and take their
+         dismounted posts. Squad members move around the carrier using the fastest route
+         available.
+
+6-29. RECIPROCALLY LAYING THE MORTAR CARRIER SECTION
+
+When fully trained, the mortar squad increases the speed and accuracy of the section
+functioning as a unit.
+
+         a. The procedure for laying the carrier-mounted mortar parallel on the mounting
+         azimuth is the same as for the ground-mounted mortar, with the following
+         exceptions:
+
+                  (1) When the first deflection is given to the mortars identifying the aiming
+                  point, all carrier engines are running.
+
+                  (2) Intercom between the gunner and drivers is maintained until the
+                  carriers cease further pivots. The connection for the mortar locking pin
+
+
+---
+
+         assembly is centered or is within two turns of center. The mortars are
+         centered on the rear of the carriers and the correct sight pictures are on the
+         aiming point. At this time, the carrier engines are turned off.
+
+b. When a reconnaissance of a position has been made and is known by at least
+one member of the platoon, the procedure for laying the carrier-mounted mortars
+parallel on the mounting azimuth is as follows (ramps are always up for this
+exercise):
+
+         (1) The instrument operator, if not already in position, dismounts from the
+         command post carrier and positions his instrument 75 meters to the front,
+         right front, or left front of the area occupied by the carriers. He then
+         orients the aiming circle on the mounting azimuth. He swings the aiming
+         circle telescope, by using upper motion, in the general direction of the
+         mortar carriers and awaits the signal from the squad leader when ready to
+         be laid for direction. The instrument operator reciprocally lays the mortar
+         squad upon signal from the first squad leader (normally the base squad)
+         ready to be laid for direction.
+
+         (2) As soon as the base squad is positioned, the squad leaders align their
+         respective squads: first squad 40 meters to the right of the base squad; and
+         third squad 40 meters to the left of the base squad (left and right are given
+         in relation to the direction of fire). All squad leaders note the alignment of
+         the base squad and direct their drivers by intercom to pivot, aligning their
+         respective carriers parallel to the base squad.
+
+         (3) The squad leaders then command PREPARE FOR ACTION. While
+         the gunners and assistant gunners are placing the mortars into the firing
+         positions, the squad leader is carrying the aiming posts, dismounting from
+         the carriers through the ramp door, latching the door from the outside, and
+         moving half the distance between their carriers and the instrument
+         operator to relay commands.
+
+         (4) As soon as the gunners command UP, the squad leaders signal to the
+         instrument operator I AM READY.
+
+         (5) On the command UP, the gunners immediately refer their sights to the
+         aiming point, even though the command AIMING POINT THIS
+         INSTRUMENT has not been given. The gunners are up when the
+         connection for the mortar locking pin assembly is centered; the mortars
+         are centered to the rear of the carriers; the sights are set at elevation 900
+         and 3200 deflection (zero with the M64-series); and the cross-level and
+         elevation bubbles are centered.
+
+         (6) When the first deflection command is given, the gunners then index
+         the sights at the given deflection and note the direction the telescopes
+
+
+---
+
+move. They look through the telescopes and signal to the drivers (who
+should be observing) the direction to pivot the carrier. The gunners may
+give this direction over the intercom to the drivers as a command PIVOT
+RIGHT (LEFT) and terminate the pivot by the command HALT. The
+gunners finalize the lay on the aiming point with all bubbles centered,
+ensuring that it does not take in excess of two turns to lay on the aiming
+point. The gunners then signal the drivers to cut the carrier engines. The
+gunners may transmit this signal to the drivers as a command CUT
+ENGINE.
+
+(7) The instrument operator successively lays each squad. The carrier-
+mounted mortars are properly laid on the mounting azimuth when the
+connection for the mortar locking pin assembly is within two turns of
+center; the mortars are centered to the rear of the carriers; the last
+deflection given by the instrument operator is on the sights; all bubbles are
+centered; and the last sight picture obtained by the gunners is on the
+optical center of the aiming point.
+
+(8) Without command, the gunners refer the sights to the deflection 2800
+and direct the squad leaders in aligning the aiming posts. If any other
+referred deflection is to be used, the instrument operator announces this
+deflection before laying the mortar squads.
+
+                  Section VI. AMMUNITION
+
+This section implements STANAG 2321 and QSTAG 900 Edition 1.
+
+Ammunition for the 4.2-inch mortar, M30, is issued in the form of semi-fixed complete
+rounds. A complete round of ammunition composes all of the ammunition components
+required to fire the round. For mortar ammunition, this includes a loaded projectile
+propelling charge to develop the required gas pressure to propel the projectile to its
+target, primer to initiate the burning of the ignition charge that ignites the propelling
+charge, and fuze to cause the projectile to function at the time and under the conditions
+desired. Semi-fixed ammunition is characterized by an accessible propelling charge that
+can be adjusted for firing. The propelling charge consists of an ignition cartridge and 41
+propellant increments (39 for M329A2) assembled in a bag and sheets. To adjust the
+charge, the individual increments are removed from the cartridge container or cartridge
+container extension.
+
+6-30. CLASSIFICATION
+
+The 4.2-inch mortar ammunition is stabilized in flight by rotation rather than by fins as in
+the case of the 60-mm and 81-mm mortar ammunition (Table 6-3).
+
+MINIMUM MAXIMUM EFFECTIVE AVERAGE RATE OF
+
+CARTRIDGE TYPE STANDARD RANGE  RANGE BURSTING  BURN DESCENT COLOR CODING
+
+
+---
+
+                     (METERS) (METERS)     AREA          TIME    (MPS)
+                                        (METERS)      (SECONDS)
+                                                                   5
+M329A2  HE      A    770  6,840            40E20                  10    OLIVE DRAB
+M329A1                                                                  WITH YELLOW
+M328A1  HE      (B)  920  5,650         40E20                           MARKINGS
+M325A2
+M335A1  SMOKE   A    920  5,650                                         OLIVE DRAB
+M2A1                                                                    WITH YELLOW
+        ILLUM        400  5,490         1,500-        90                MARKINGS
+M2
+                                        METER                           LIGHT GREEN
+XM430                                                                   WITH RED
+                                        DIAMETER                        MARKINGS,
+                                                                        YELLOW BAND
+        ILLUM        640  5,290         8 0 0 -METER  70
+                                                                        WHITE WITH
+                                        DIAMETER                        BLACK
+                                                                        MARKINGS
+        GAS     A    870  4,540
+                                                                        WHITE WITH
+        GAS     (B)  870  4,540                                         BLACK
+                                                                        MARKINGS
+        TAC/CS            5,650                       60
+                                                                        TOXIC,
+                                                                        NONPERSIS-TENT,
+                                                                        GREY WITH
+                                                                        GREEN
+                                                                        MARKINGS, ONE
+                                                                        GREEN BAND,
+                                                                        ONE YELLOW
+                                                                        BAND (IF
+                                                                        BURSTER
+                                                                        PRESENT)
+
+                                                                        TOXIC,
+                                                                        PERSISTENT,
+                                                                        GREY WITH
+                                                                        GREEN
+                                                                        MARKINGS, TWO
+                                                                        GREEN BANDS,
+                                                                        ONE YELLOW
+                                                                        BAND (IF
+                                                                        BURSTER
+                                                                        PRESENT)
+
+                                                                        TOXIC V AND G
+                                                                        AGENT, GREY
+                                                                        WITH GREEN
+                                                                        MARKINGS,
+                                                                        THREE GREEN
+                                                                        BANDS, ONE
+                                                                        YELLOW BAND
+                                                                        (IF BURSTER
+                                                                        PRESENT)
+
+                                                                        IRRITANT,
+                                                                        NONPER -SISTENT,
+                                                                        GREY WITH RED
+                                                                        MARKINGS, ONE
+                                                                        RED BAND, ONE
+
+                                                                        YEL-LOW BAND
+                                                                        (IF BURST-ER
+                                                                        PRESENT)
+
+                                                                        IRRITANT,
+                                                                        PERSISTENT,
+                                                                        GREY WITH RED
+
+                                                                        MARKINGS, TWO
+                                                                        RED BANDS, ONE
+                                                                        YELLOW (IF
+                                                                        BURSTER
+                                                                        PRESENT)
+
+
+---
+
+                     Table 6-3. Ammunition for 4.2-inch mortar, M30.
+         a. Identification. Ammunition is identified by the markings on the original
+         packing containers, which includes the ammunition lot number. Once removed
+         from its packing, ammunition can also be identified by its color and markings.
+Note: For further information concerning identification, model designation, lot number,
+         painting and markings, and weight zones, refer to TM 9-1300-200. For the
+         NATO color-coding standard, refer to TB 9-1300-256 and TB 34-9-93.
+         b. Type. Depending on the type of projectile filler, ammunition is classified as
+         high explosive (HE), smoke (PWP or WP), or illumination (Figures 6-26 to 6-28.)
+
+Figure 6-26. High-explosive 4.2-inch cartridges, M329A1 and M329A2 showing
+                                        supplemental charge.
+
+         Figure 6-27. White phosphorus smoke 4.2-inch cartridge M328A1.
+
+
+---
+
+Figure 6-28. Illuminating 4.2-inch cartridge, M335A2, with mechanical time fuze,
+                                                   M565.
+
+Note: For detailed information on mortar ammunition, see TM 9-1015-215-10, TM 9-
+         1300-200, TM 9-1300-206, TM 43-0001-28, and FT 4.2-H-2.
+
+6-31. TYPES OF FUZES
+
+A fuze is a device used to explode a projectile at the time and under the circumstances
+required (Table 6-4).
+
+                                                              FUZE
+
+               PD                                      MT              MTSQ                PROX
+
+CARTRIDGE                                                                       M520 M513
+
+            M8 M48A3 M521 M51A5 M557 M562 M565 M501A1 M548 M577 M564 Series Series M514A1E1
+
+CS M630                                                             X
+
+GAS M2A1 X
+
+HE M329A1          X  X                                                      X  X  P
+
+HE M329A2
+
+(M329A1E1)            X                                                      X  X          P
+
+ILLUM                                               X         X
+M335A1
+
+ILLUM
+
+M335A2                                                     X           X
+
+SMOKE WP
+
+M328        X
+
+SMOKE WP
+
+M328A1      X  X
+
+PD--POINT DETONATING
+MT--MECHANICAL TIME
+MTSQ--MECHANICAL TIME SUPERQUICK
+
+PROX--PROXIMITY
+P--REQUIRES REMOVAL OF SUPPLEMENTARY CHARGE, IF USED.
+
+NOTE: When using the M732 fuze, see TM 43-0001-28.
+
+      Table 6-4. Fuze combination table for 4.2-inch mortar ammunition.
+
+       a. Classification. Three types of nose fuzes are used with the 4.2-inch mortar
+       ammunition: time, impact, and proximity.
+
+                (1) Time fuze. This fuze is designed to function while the round is still in
+                flight. Certain time fuzes are also provided with a backup impact element
+                (time and impact). There are two types of time fuzes:
+
+                         (a) Mechanical time. This fuze uses a clockwork mechanism to
+                         delay functioning for a specific time.
+
+
+---
+
+                                • MTA--The entry to select for an air burst option when
+                                     computing data with the M23 MBC (4.2-inch only).
+
+                                • MTB--The entry to select for a below-surface burst option
+                                     when computing data with the M23 MBC (4.2-inch only).
+
+                            (b) Powder-train time. This fuze uses a compressed black powder
+                            train to delay functioning for a specific time.
+
+                  (2) Impact fuze. This fuze functions upon striking a resistant object. It is
+                  classified according to the time of function after impact as superquick or
+                  delay.
+
+                  (3) Proximity fuze. This is a radio-activated point fuze that functions either
+                  after a preset arming time or, without setting or adjustment, upon approach
+                  to a target.
+
+         b. Bore -safe Fuze. A bore-safe fuze is one in which the explosive train is so
+         interrupted that, while the round is still in the bore of the weapon, premature
+         action of the bursting charge is prevented should any of the more sensitive
+         elements (primer or detonator) function. The fuzes used with the ammunition
+         described in this manual are considered bore safe.
+
+6-32. PREPARATION OF AMMUNITION
+
+To prepare a round for firing, remove the round from its container and the U-shaped
+packing stop from the tail assembly. Examine the round for burrs or deformities that
+might cause the round to stick in the tube or to malfunction. Ammunition with serious
+defects is not used. When handling a projectile, protect its base with the fiber container.
+Handle a round with its base up to protect the sensitive primer.
+
+         a. Propelling Charges. Propelling charges M6, M36Al, and M36A2 are used
+         with 4.2-inch cartridges (Figure 6-29).
+
+
+---
+
+                     Figure 6-29. Arrangement of propelling charges.
+
+Note: When using propellants M36Al or M36A2, duds can occur when firing below
+         charge 7.
+
+                  (1) Propelling charge, M6. The M6 propelling charge consists of 25 1/2
+                  increments assembled in the form of one half-increment sheet, four 5-
+                  increment bundles, and five single increments. The individual increments
+                  can be removed for firing adjustment (charge firing). The full propelling
+                  charge is assembled to the cartridge as issued. Maximum range is obtained
+                  with the full charge; lesser ranges, with fewer increments as indicated in
+                  the appropriate firing tables. The method of securing the propellant
+                  increments differs from round to round. In full charge for M2Al chemical
+                  (gas or smoke) cartridges, increments are held firmly between the pressure
+                  plate nut and propellant holder.
+
+
+---
+
+                  (2) Propelling charge, M36A1 and M36A2. The M36Al and M36A2
+                  propelling charges differ from the M36 propelling charge in that a
+                  doughnut-shaped cloth bag containing M9 flake propellant replaces the
+                  first five M8 sheet propellant increments. This doughnut-shaped bag is not
+                  removed at any time. The striker nut assembly and cartridge container
+                  extension have been modified to allow direct ignition of the propellant,
+                  eliminating the need for changing the position of the ignition cartridge
+                  when the extension is removed.
+
+         b. Ignition Cartridges. The M2 ignition cartridge is used with the M6 propelling
+         charge, and the M2Al ignition cartridge is used with the M36Al propelling
+         charge. Both ignition cartridges contain a primer and look like a commercial 12-
+         gauge shotgun cartridge. The M2A2 ignition cartridge, which has greater
+         resistance to moisture and longer shelf life than the M2A1 ignition cartridge, is
+         used with the M36Al propelling charge only in the XM630 tactical CS M335A2
+         illuminating cartridge, and the M329A2 cartridge with the M36A2 propelling
+         charge.
+
+         c. Adjustment of the Propellant Charge. The M329A2 cartridge is assembled
+         with the M36A2 propellant charge. It composes a bag charge containing M8
+         propellant flakes and M8 propellant sheets.
+
+                  (1) The bag charge is needed for proper burning of the propellant sheets
+                  and must not be removed in charge adjustment. The bag charge is located
+                  in the center of the propellant charge and must not be repositioned. The
+                  bag must be positioned over the flash holes in the center of the tail
+                  assembly for proper ignition. The cartridge is shipped with a full charge
+                  assembled, which includes 39 increments with the bag charge counted as
+                  five charges.
+
+                  (2) The propellant charge is arranged from the base of the projectile as
+                  follows:
+
+                       • Three 5-increment bundles.
+                       • Five 1-increment bundles.
+                       • A bag charge of five increments.
+                       • Two half-increment sheets.
+                       • Three 1-increment bundles.
+                       • Two 5-increment bundles.
+
+Note : Only Firing Table 4.2-K-2 may be used to determine the proper charge of firing
+         for the M329A2.
+
+                  (3) Propellant charges should be removed equally from both sides of the
+                  bag charge until the required charge remains. Excess charge sheets should
+
+
+---
+
+         be placed in an empty wooden box with a lid to prevent accidental ignition
+         during firing.
+
+d. Procedures. To ensure proper ignition of increments when using the M6
+propelling charge at less than full charge, the increments must cover the flash
+holes in the cartridge container and push up firmly against the striker nut. To use
+the M36Al propelling charge with fewer than 25 1/2 increments, the cartridge
+container extension is removedXthe ignition cartridge does not require
+repositioning.
+
+e. Precautions. Inspection for proper assembly of propelling charge is essential to
+avoid excessive chamber pressures, erratic ranges, and short rounds. When firing
+at any charge other than maximum charge, the propelling charge must be varied
+depending on the mortar-target range. (Charges are set so that increments of 1/8,
+2/8, or 3/8 will not stick between the 5-increment or 1-increment bundles. The
+procedure when a charge ends with 1/8, 2/8, or 3/8 is demonstrated in Figure 6-
+30.
+
+16 2/8 CHARGE
+
+                            Bag  = 5 increments
+ Two 5-increment bundles         = 10 increments
+Two 5/8-increment sheets         = 1 2/8 increments
+
+               Total = 16 2/8 increments
+
+30 1/8 CHARGE
+
+                           Bag   = 5 increments
+Four 5-increment bundles         = 20 increments
+ Four 1-increment sheets         = 4 increments
+One 4/8-increment sheet          = 4/8 increment
+One 5/8-increment sheet          = 5/8 increment
+
+               Total = 30 1/8 increments
+
+11 2/8 CHARGE
+
+                          Bag    = 5 increments
+ One 5-increment bundle          = 5 increments
+One 6/8-increment sheet          = 6/8 increment
+One 4/8-increment sheet          = 4/8 increment
+
+               Total = 11 2/8 increments
+
+
+---
+
+24 3/8 CHARGE
+
+                            Bag  = 5 increments
+Three 5-increment bundles        = 15 increments
+Three 1-increment sheets         = 3 increments
+                                 = 5/8 increment
+ One 5/8-increment sheet         = 6/8 increment
+ One 6/8-increment sheet
+
+               Total 24 3/8 increments
+
+   Figure 6-30. Examples of charges ending with 1/8, 2/8, or 3/8.
+
+f. Preparation of an Unfuzed and Fuzed Deep-Cavity Round. The procedures
+for preparing an unfuzed and fuzed deep-cavity round are as follows:
+
+         (1) To prepare an unfuzed or fuzed round for firing with mechanical time
+         superquick (MTSQ) fuze--
+
+                  (a) Use the cover of the fiber container to cover the striker nut,
+                  cartridge extension, and propelling charge before fuzing the round.
+                  This cover protects against accidental ignition.
+
+                  (b) Place the round on its side with the closing plug or fuze
+                  pointing to the right.
+
+                  (c) Remove the closing plug. If a round is fuzed, insert an M18 or
+                  M7Al fuze wrench in the wrench slots of the fuze, ensuring the
+                  proper slot is used. Strike the wrench handle sharply with the hand
+                  in a counterclockwise direction while looking downward on the
+                  fuze. Do not to strike any part of the fuze. Unscrew and remove the
+                  fuze.
+
+                  (d) Inspect the cavity for damage and the presence of foreign
+                  material, and remove any loose material. If any HE filler is found
+                  adhering to the threaded portion of the fuze cavity, place the round
+                  aside for disposal by qualified ammunition personnel.
+
+                  (e) Examine the nose threads and fuze to ensure they are in good
+                  condition--do not use components with damaged threads.
+
+                  (f) Screw the fuze into the fuze cavity and tighten it securely with
+                  an M18 or M7Al fuze wrench. Make sure the fuze shoulder seats
+                  firmly against the nose of the shell so that no space exists between
+                  them. Do not remove the supplementary charge.
+
+
+---
+
+                          (g) If not fired, restore the fuze and shell to their original condition
+                          and packing.
+
+                 (2) To prepare an unfuzed or a fuzed deep-cavity round for firing with the
+                 M513 proximity fuze--
+
+                          (a) Perform the steps outlined above.
+
+                          (b) Using the tab lifting loop, remove the supplementary charge.
+                          Screw in the proximity fuze by hand. If the fuze binds, inspect the
+                          fuze cavity and the threads of both fuze and shell. Reject
+                          whichever is defective.
+
+                          (c) Tighten the fuze with the M18 fuze wrench. Use only such
+                          force as can be applied by hand. Do not hammer on the wrench or
+                          use an extension handle. Do not force the fuze to the cartridge
+                          under any circumstances. If the fuze cannot be tightened to form a
+                          good seat between the shell and fuze, reject the defective
+                          component.
+
+        g. Preparation of the Fuze for Firing. The procedures for preparing the fuze for
+        firing are as follows.
+
+                 (1) M535 fuze. To set the fuze for delay action, turn the slot 90 degrees to
+                 align it with the index mark for DELAY. The setting can be changed for
+                 firing with the screwdriver end of the M18 fuze wrench or a similar tool.
+                 If nighttime, feel for the slot position and make the correct setting.
+
+                 (2) M563 MTSO Fuze. Remove the safety wire from the fuze. If only
+                 impact action is desired, set the fuze for 100 seconds. Do not fire fuzes
+                 when set on the shipping mark "S." If time action is required, set the fuze
+                 to the desired time to the nearest 1/2 second using the M14, M26, M27, or
+                 M63 fuze setter.
+
+Note :  If the fuze is not fired after setting, reset the fuze to SAFE and replace the safety
+        wire in its proper position before defuzing the round and returning the
+        components to their packing containers. Turn the fuze in a clockwise direction
+        only.
+
+        (3) M513 Proximity fuze. Make time settings the same as for a mechanical
+        time fuze. Looking down on the nose of the fuze, rotate the M28 fuze
+        setter in a clockwise direction. If point detonating action is desired, place a
+        time setting of 90 seconds on the fuze.
+
+
+---
+
+        (4) M572 and M565 mechanical time fuzes. These fuzes are used with the
+        base-ejection M335Al and M335A2 illuminating projectiles. Because of
+        size and difference in threads, they cannot be interchanged with the MTSQ
+        M501Al fuze. These fuzes differ from the MTSQ M50lAl fuze in that they
+        have a vernier scale to allow for accurate settings to the nearest .1 second.
+        Set time by turning the fuze in a clockwise direction only. For further
+        information on these fuzes, see TM 43-0001-28.
+
+        (5) M557 point-detonating fuze. This fuze is similar to the PD 5lA5 fuze.
+        The difference is that the M557 fuze contains a booster M125A1, which is
+        a manufacturing component of the fuze and incorporates a delayed arming
+        feature. This fuze is a combination superquick/delay fuze.
+
+Note :  When making time settings using the time fuzes, follow the NO-BACKUP rule,
+        since backing up can damage the internal workings of some fuzes. To do so, the
+        fuze time scale is made to turn clockwise. If the time required is exceeded,
+        continue to turn the fuze until the proper time is in line again. If the time is
+        exceeded and the fuze is turned counterclockwise, the internal parts of the fuze
+        may be damaged, causing some fuzes to malfunction.
+
+6-33. CARE AND HANDLING
+
+Because explosives are adversely affected by moisture and high temperature, the
+following precautions must be observed
+
+         a. Do not break the moisture-resistant seal on the fiber container until the
+         ammunition is to be used.
+
+         b. Protect the ammunition (particularly the fuze and the propellant) from high
+         temperatures, including the direct rays of the sun. More uniform firing is obtained
+         when the rounds are at the same temperature. When the filling of the white
+         phosphorous (WP) shell melts (111.4 degrees F) and then hardens in any position
+         other than on its base, a large percentage of the rounds will tumble in flight and
+         result in duds. To prevent this, store WP-filled shells in an upright position (fuze
+         end up).
+
+         c. Do not remove safety devices from the fuze until just before firing.
+
+         d. Keep the round and the propelling charges dry. Moisture causes incomplete
+         combustion of the propelling charges, reduces the range, and can cause short
+         rounds.
+
+         e. When ammunition is left in the open, place it on at least six inches of dunnage
+         and cover it with a double thickness of tarpaulin. Dig trenches around the pile to
+         prevent water from flowing under it.
+
+
+---
+
+Note : For further precautions in storage, see TM 9-1015-215-10, TM 9-1300-206, and
+         FM 9-207.
+
+         f. Before loading the round, make sure it is free of foreign matter such as sand,
+         mud, and grease.
+
+         g. Protect the propelling charges of the rounds prepared for firing by slipping one
+         end of the fiber container over the base of the round.
+
+         h. Return rounds prepared for firing to their original condition by reinserting the
+         safety pins (when applicable), replacing the packing, and repacking the rounds
+         into their original containers. Inspects fuzes before repacking. To keep opened
+         stocks at a minimum, use repacked rounds first in subsequent firing exercises.
+
+                                                WARNING
+
+              Do not handle duds; the fuzes could be armed. Duds are
+              extremely dangerous. Do not move or turn them. To dispose
+              of duds, immediately call the nearest EOD unit.
+
+         i. To maintain accuracy in firing, it is important that ammunition of the same lot
+         number be used on a given mission.
+
+         j. To know how much ammunition of a given lot number each squad has,
+         ammunition should be stored by lot number. Storing ammunition by lot number
+         also facilitates keeping track of suspended lots of ammunition as well as giving a
+         means of determining which ammunition has been on position the longest.
+         Ammunition that has been on position the longest should be fired first.
+
+         k. When repacking, do not mix lot numbers of ammunition.
+
+
+---
+
+                                       CHAPTER 7
+
+                   120-mm MORTAR, M120
+
+         The 120-mm mortar delivers timely, accurate fires to meet the
+         requirements of supported troops. This chapter discusses assigned
+         personnel duties, organization, mounting the mortar, and characteristics.
+
+         Section I. SQUAD AND SECTION ORGANIZATION AND DUTIES
+
+Each member of the infantry mortar squad has principle duties and responsibilities.
+
+7-1. ORGANIZATION
+
+For the mortar section to operate effectively, each squad member must be proficient in
+his individual duties. By performing those duties as a team member, he enables the
+mortar squad and section to perform as a fighting team. The platoon leader commands the
+platoon and supervises the training of the elements. He uses the chain of command to
+assist him in effecting his command and supervising duties.
+
+7-2. DUTIES
+
+The mortar squad consists of five men (Figure 7-1). Their firing positions and principal
+duties are as follows:
+
+
+---
+
+                  Figure 7-1. Position of squad members.
+
+a. The squad leader stands behind the mortar where he can command and control
+his squad. In addition to supervising the emplacement, laying, and firing of the
+mortar, he supervises all other squad activities.
+
+b. The gunner stands to the left side of the mortar where he can manipulate the
+sight, elevating handwheel, and traversing handwheel. He places firing data on the
+sight and lays the mortar for deflection and elevation. He makes large deflection
+shifts by shifting the bipod assembly and keeps the bubbles level during firing.
+
+c. The assistant gunner stands to the right of the mortar, facing the barrel and
+ready to load. In addition to loading, he swabs the bore after 10 rounds have been
+fired or after each fire mission. He assists the gunner in shifting the mortar when
+the gunner is making large deflection changes.
+
+d. The first ammunition bearer stands to the right rear of the mortar. He has the
+duty of preparing the ammunition and passing it to the assistant gunner. He is also
+the squad driver.
+
+e. The second ammunition bearer stands to the right rear of the mortar behind the
+ammunition bearer. He maintains the ammunition for firing and provides local
+
+
+---
+
+         security for the mortar position. He performs other duties as the squad leader
+         directs. He is also the driver for the ammunition vehicle.
+
+                                     Section II. COMPONENTS
+
+This section contains the technical data and description of each component of the 120-
+mm mortar (Figure 7-2). The mortar is a smooth-bore, muzzle-loaded, crew-served, high
+angle-of-fire weapon. It consists of a cannon assembly, bipod assembly, and baseplate.
+The 120-mm mortar is designed to be employed in all phases and types of land warfare,
+and in all weather conditions. (See TM 9-1015-250-10 for detailed information.)
+
+
+---
+
+                                 Figure 7-2. The 120-mm mortar.
+7-3. TABULATED DATA FOR THE 120-mm MORTAR, M120
+The tabulated data for the 120-mm mortar are as shown in Table 7-1.
+
+Weights (pounds)  110.0
+   Cannon
+
+
+---
+
+Cannon                               110.0
+Bipod
+                                     70.0
+   M190 (ground-mounted)             78.0
+   M191 (carrier-mounted)            136.0
+Baseplate                             2.5
+M67 sightunit                        399.0
+Trailer
+
+Elevation (approximate mils)         0710 to 1510
+   Elevation                                5
+   For each turn of elevation crank
+
+Traverse (approximate mils)
+
+Right or left from center using      136
+
+traversing wheel
+
+With extension                       316
+
+One turn of traversing wheel         5
+
+Range (meters)                       7,200
+   Maximum                            200
+   Minimum
+
+Rate of Fire (rounds per minute)     16 (first minute)
+   Maximum                           4 (indefinitely)
+   Sustained
+
+Bursting Radius (meters)             75
+
+                Table 7-1. Tabulated data for the 120-mm, M120 mortar.
+
+7-4. BARREL ASSEMBLY, M298
+
+The barrel assembly consists of two parts: the tube and the base cap (Figure 7-3). The
+rear end of the tube is threaded to form a seat, which functions as a gas seal and centers
+the base cap.
+
+
+---
+
+                               Figure 7-3. Barrel assembly, M298.
+
+         a. The base cap screws into the base end of the tube with the front end of the base
+         cap mating to the seat on the tube, forming a gas-tight metal seal. The external
+         rear portion of the base cap is tapered and has a ball-shaped end. This end is
+         cross-bored to help inserting or removing the base cap and locking it into firing
+         position. The safety lever has two positions: F for fire and S for safe.
+
+         b. When the safety lever shows the letter F, the firing pin protrudes and is in the
+         fire position. When the lever shows the letter S, the weapon is in the safe position
+         and the firing pin is withdrawn.
+
+Note: The barrel and cap are serial numbered identically. They should not be
+         interchanged.
+
+7-5. BIPOD ASSEMBLY, M191 (CARRIER/GROUND-MOUNTED)
+
+The bipod assembly, M191 (carrier/ground-mounted) (Figure 7-4) consists of the
+following main parts:
+
+
+---
+
+        Figure 7-4. Bipod assembly, M191 (carrier/ground-mounted).
+
+• Bipod leg extensions.
+• Cross leveling mechanism.
+• Traversing gear assembly.
+• Traversing extension assembly.
+• Elevating mechanism.
+• Buffer housing assembly.
+• Buffer mechanism.
+
+
+---
+
+    • Clamp handle assembly.
+    • Cross leveling locking knob.
+    • Chain assembly.
+7-6. BIPOD ASSEMBLY, M190 (GROUND-MOUNTED)
+The bipod assembly, M190 (ground-mounted) (Figure 7-5) consists of the following main
+parts:
+
+                  Figure 7-5. Bipod assembly, M190 (ground-mounted).
+
+
+---
+
+    • Clamp handle assembly.
+    • Buffer housing assembly.
+    • Dovetail slot.
+    • Elevating mechanism.
+    • Cross leveling locking knob.
+    • Cross leveling mechanism.
+    • Chain assembly.
+    • Traversing extension assembly.
+    • Traversing gear assembly.
+    • Bipod legs.
+7-7. BASEPLATE, M9
+The baseplate (Figure 7-6) is shaped like a rounded triangle. It has a socket that enables a
+full 360-degree traverse without moving the baseplate. It also has legs (spades) under the
+baseplate, two carrying handles, and one locking handle.
+
+                                     Figure 7-6. Baseplate, M9.
+                                     Section III. OPERATIONS
+This section explains how to place the mortar into action by ground-mounting and
+leveling the weapon system from the trailer position; how to conduct safety checks; and
+what actions the crew applies to remove the cartridge from the barrel if a misfire should
+occur during firing.
+7-8. PLACING A GROUND-MOUNTED 120-mm MORTAR INTO ACTION
+The assistant gunner and two ammunition bearers are present. The mortar must be
+ground-mounted within 1 minute and 15 seconds. The M67 sight is set with a deflection
+of 3200 mils and an elevation of 1100 mils. All bubbles are centered within the outer red
+
+
+---
+
+lines. The traversing extension is locked in the center position. The bearing is the center
+of traverse. The barrel is locked into the baseplate with the white line up (on top). The
+bipod barrel clamp is positioned and locked. The bipod locking knob is hand tight.
+
+Note: Left and right are in relation to the mortar’s direction of fire.
+
+         a. The driver/first ammunition bearer exits the mortar carrier and moves to the
+         driver’s side of the mortar trailer hitch. At the same time, the second ammunition
+         bearer exits the armament vehicle and moves to the passenger’s side of the mortar
+         trailer hitch.
+
+         b. Together, they unhook the trailer from the vehicle and position the trailer at the
+         firing position with the baseplate toward the direction of fire. The first
+         ammunition bearer then removes the muzzle plug.
+
+         c. The assistant gunner exits the vehicle with the aiming posts and places them to
+         the right side of the mortar.
+
+         d. Once in position, both ammunition bearers raise the trailer until the baseplate is
+         resting on the ground. The second ammunition bearer then releases the trailer
+         while the first ammunition bearer continues to hold the trailer in place. The
+         second ammunition bearer moves around to the right side of the mortar to assist in
+         mounting the mortar.
+
+         e. The gunner exits the vehicle with the sight and places it on the left side of the
+         mortar. He then moves up to the left side of the mortar and removes the lock
+         release lever pin. He releases the mortar baseplate and unhooks the bipod chain
+         from the eye on the bipod leg and drops it. He then loosens the cross-level locking
+         knob.
+
+                                                WARNING
+
+              Stay clear of the mortar baseplate to avoid injury from
+              sudden release.
+
+         f. The assistant gunner assumes his position on the right side of the mortar. He
+         releases the lock release lever and then the clamping catch, and swings the trailer
+         bridge assembly out of the way. He raises the bipod legs and rotates them 180
+         degrees. He spreads the bipod legs until they are fully extended, and the spread
+         chain is taut. Once the bipod is placed on the ground, the assistant gunner tightens
+         the cross-level locking knob.
+
+         g. With the gunner standing on the left and the second ammunition bearer on the
+         right, they grasp the traversing mechanism and bipod legs. With the assistant
+
+
+---
+
+         gunner holding the bipod legs just above the spread chain, they pull and guide the
+         barrel forward away from the trailer. The assistant gunner guides the bipod legs to
+         a point (about 2 feet) in front of the baseplate and lowers them to the ground. At
+         this point, the mortar is free from the trailer.
+
+         h. The first ammunition bearer moves the trailer to the point selected by the squad
+         leader away from the mortar position.
+
+         i. The gunner unlocks the clamp handle assembly. The gunner, who is now
+         standing to the rear and straddling the barrel, grasps under the recoil buffer
+         assembly and pulls down, sliding the barrel clamp down the barrel until it rests
+         against the lower collar stop.
+
+         j. The gunner makes sure the white lines on the barrel and the buffer housing
+         assembly are aligned. He retightens the clamp handle assembly until it "clicks."
+         Then, he places the selector switch on FIRE (F). The assistant gunner checks for
+         slack in the spreader chain and ensures the traversing mechanism is within four
+         turns from center of traverse. The assistant gunner also ensures the traversing
+         extension is locked in the center position and the cross-leveling locking knob is
+         hand tight.
+
+Note: Part of the white line on the buffer housing assembly must overlap the white line
+         on the barrel.
+
+         k. The gunner removes the sight from the sight box and indexes a deflection of
+         3200 mils and an elevation of 1100 mils on the sight. He places the sight in the
+         dovetail slot of the bipod. The gunner and assistant gunner then level the mortar
+         for elevation and deflection. When the gunner is satisfied with the lay of the
+         mortar, he announces, "Gun up." The mortar is now mounted and ready to be
+         reciprocally laid.
+
+7-9. PERFORMING SAFETY CHECKS ON A GROUND-MOUNTED 120-mm
+MORTAR
+
+Specific safety checks must be performed before firing mortars. Most can be made
+visually. The gunner is responsible for physically performing the checks under the squad
+leader’s supervision.
+
+         a. The gunner checks for mask and overhead clearance.
+
+                  (1) To determine mask clearance, the gunner lowers the barrel to 0800
+                  mils elevation. He places his head near the base of the barrel and sights
+                  along the top of the barrel for obstructions through the full range of
+                  traverse.
+
+
+---
+
+        (2) To determine overhead clearance, the gunner raises the barrel to 1500
+        mils elevation. He places his head near the base of the barrel and sights
+        along the top of the barrel for obstructions through the full range of
+        traverse.
+
+Note :  If at any point in the full range of traverse, both at minimum or maximum
+        elevation, an obstruction is found, the gunner raises or lowers the barrel until the
+        round will clear the obstruction when fired. He turns the sight elevation
+        micrometer knob until the elevation bubble is level. He reads the elevation at this
+        point and reports the deflection and elevation to the squad leader who, in turn,
+        reports this information to the FDC.
+
+         b. The gunner ensures the barrel is locked to the baseplate.
+
+                  (1) He locks the barrel onto the socket of the baseplate with the white line
+                  on the barrel facing up.
+
+                  (2) He aligns the white line on the barrel with the white line on the clamp
+                  handle assembly.
+
+         c. The gunner checks the buffer housing assembly to ensure that it is locked. He
+         checks this by loosening the clamp handle assembly about 1/4 of a turn and
+         retightening it until a metallic click is heard.
+
+         d. The gunner checks the cross-leveling locking knob to ensure it is hand tight.
+
+         e. The gunner checks the spreader chain to ensure that it is taut.
+
+         f. The gunner checks the firing selector to ensure it is in the FIRE position with
+         the "F" showing.
+
+7-10. PERFORMING SMALL DEFLECTION AND ELEVATION CHANGES ON
+A GROUND-MOUNTED 120-mm MORTAR
+
+The gunner receives deflection and elevation changes from the FDC in the form of a fire
+command. If a deflection change is required, it precedes the elevation change.
+
+Note: Small deflection and elevation changes are greater than 20 mils but less than 60
+         mils for deflection and greater than 35 mils but less than 90 mils for elevation.
+
+        a. The gunner sets the sight for deflection and elevation.
+
+                 (1) He places the deflection on the sight by turning the deflection
+                 micrometer knob until the correct 100-mil deflection mark is indexed on
+                 the coarse deflection scale. He continues to turn the deflection micrometer
+
+
+---
+
+                 knob until the remainder of the deflection is indexed on the deflection
+                 micrometer scale.
+
+                 (2) The gunner places the elevation on the sight by turning the elevation
+                 micrometer knob until the correct 100-mil elevation mark is indexed on
+                 the coarse elevation scale. He continues to turn the elevation micrometer
+                 knob until the remainder of the elevation is indexed on the micrometer
+                 scale.
+
+        b. The gunner lays the mortar for deflection.
+
+                 (1) After the deflection and elevation are indexed on the sight, the gunner
+                 floats the elevation bubble.
+
+                 (2) He turns the elevating hand crank to elevate or depress the mortar until
+                 the bubble in the elevation level vial starts to move. This initially rough
+                 lays the mortar for elevation.
+
+                 (3) After rough laying the mortar for elevation, the gunner looks through
+                 the sight and traverses to realign on the aiming post. He traverses half the
+                 distance to the aiming post, then cross-levels.
+
+                 (4) Once the vertical cross line is near the aiming posts (about 20 mils),
+                 the gunner checks the elevation vial. If required, he re-lays for elevation
+                 by elevating or depressing the elevating mechanism. He makes final
+                 adjustments using the traversing handwheel and cross-levels by traversing
+                 half the distance and cross-leveling.
+
+                 (5) When the vertical cross line is within 2 mils of the aiming posts, all
+                 bubbles are leveled, and the sight is set on a given deflection, the mortar is
+                 laid.
+
+Note :  If the given deflection exceeds left or right traverse, the gunner may choose to
+        use the traversing extension assembly. This gives him an added number of mils in
+        additional traverse to avoid moving the bipod. To use the traversing extension,
+        the gunner pulls down on the traversing extension locking knob and shifts the
+        cannon left or right. He re-locks the traversing extension locking knob by
+        ensuring it is securely seated.
+
+7-11. PERFORMING LARGE DEFLECTION AND ELEVATION CHANGES ON
+A GROUND-MOUNTED 120-mm MORTAR
+
+The gunner receives deflection and elevation changes from the FDC in the form of a fire
+command. If a deflection change is required, it will always precede the elevation change.
+The gunner lays the mortar for a large deflection and elevation change.
+
+
+---
+
+Note: Large deflection and elevation changes are greater than 200 mils but less than
+         300 mils for deflection and greater than 100 mils but less than 200 mils for
+         elevation.
+
+         a. The gunner receives a deflection and elevation change in the form of an initial
+         fire command.
+
+Note : All elements of the fire command are repeated by the gun squad.
+
+         b. As soon as the gunner receives the data, he places it on the sight and elevates or
+         depresses the mortar to float the elevation bubble.
+
+         c. The assistant gunner positions himself in front of the bipod. He squats slightly
+         with his legs spread shoulder-width apart and supports his elbows on his knees.
+         He grabs the bipod legs and lifts them until the bipod clears the ground.
+
+         d. The gunner moves the mortar by placing his right hand over the clamp handle
+         assembly and his left hand on the bipod leg. He pushes or pulls the bipod in the
+         direction desired until the vertical cross line is within 20 mils of the aiming posts.
+         Once completed, the gunner directs the assistant gunner to lower the bipod. He
+         then floats the deflection bubble and looks into the sight to see if he is within 20
+         mils of his aiming posts.
+
+         e. The gunner and assistant gunner level the mortar for elevation. If after leveling
+         the mortar for elevation, the vertical cross line of the M67 sight is within 20 mils
+         of the aiming post, he would then center the deflection bubble and take up the
+         proper sight picture by traversing half the distance to the aiming posts and cross-
+         leveling.
+
+         f. The assistant gunner observes the gunner traversing to ensure that he stays
+         within four turns of center-of-traverse. Should the gunner traverse away from
+         center-of-traverse, the assistant gunner advises and instructs the gunner to center
+         back up. The gunner center traverses, and with the help of the assistant gunner, he
+         shifts the bipod again and repeats steps c through e.
+
+Note: After leveling the mortar, if the vertical cross line of the M67 sight is not within
+         20 mils of the aiming post, then steps c through e are repeated.
+
+         g. The gunner makes minor adjustments as necessary and does a final check of the
+         bubbles and center-of-traverse, and announces, "Up."
+
+7-12. MALFUNCTIONS ON A GROUND-MOUNTED 120-mm MORTAR
+
+See Chapter 3, paragraph 3-14 for a detailed discussion of malfunctions.
+
+
+---
+
+7-13. PERFORMING MISFIRE PROCEDURES ON A GROUND-MOUNTED 120-
+mm MORTAR DURING COMBAT
+
+The barrel assembly of the towed 120-mm mortar must be at its lowest elevation to
+perform the misfire procedures. When a misfire occurs, all crew members, or the crew
+member that first notices, shout, "MISFIRE."
+
+                                                WARNING
+
+              To avoid possible injury to the crew, do not stand in front of
+              or behind the barrel.
+
+         a. At the announcement of a misfire, all crew members remain with the mortar.
+
+Note : During peacetime live-fire exercises, all crew members except the gunner will
+         leave the firing position and move at least 100 meters to the rear of the mortar
+         position.
+
+         b. The gunner stands to the left rear of the mortar and kicks the barrel several
+         times. If the round does not fire, the gunner waits for one minute. (This allows the
+         round to fire if there is a delayed action [hang fire] of the propelling charge.)
+         After the one-minute wait, the gunner performs the following:
+
+                  (1) He checks the barrel for heat using his bare hands. Starting at the
+                  muzzle, he lightly touches the barrel with his fingertips every few inches
+                  down to the breech cap. If the barrel is too hot, the crew uses some means
+                  (such as water or snow) to cool it down before attempting to removing the
+                  misfire.
+
+                  (2) If the barrel is cool enough to handle, the gunner places the weapon on
+                  SAFE with the "S" showing.
+
+         c. The gunner locks the data down on the sight unit, removes the sight and places
+         it in a safe place (sight box), and calls the crew forward.
+
+         d. The gunner then depresses the barrel to its lowest elevation using the elevation
+         handwheel, leaving about a quarter inch of sleeve showing (so there is no metal to
+         metal contact).
+
+                                                CAUTION
+
+              At no time will the clamp handle assembly be loosened (except
+              during jammed or stuck rounds.
+
+
+---
+
+        e. The assistant gunner secures the staff assembly with the extractor attached. He
+        rotates it forward, stabilizing the extractor, and inserts the extractor into the
+        cannon. He lowers it slowly into the cannon (hand over hand) until the extractor
+        makes contact with the round. He rotates the extractor in either direction until he
+        feels the detent pins connect into the round. He continues rotating until resistance
+        is felt.
+
+        f. The assistant gunner lifts up slightly on the extractor to ensure it has connected
+        with the round. He continues lifting the extractor until the body of the round
+        appears at the muzzle. At this time, the gunner grasps the round and assists in
+        removing the round. Together they move to the right of side of the weapon.
+
+Note: Due to the weight of the round, the gunner may assist during the entire extraction
+         process.
+
+                                          CAUTION
+
+        Once the assistant gunner ensures the extractor is firmly
+        connected with the round, he extracts the round in one steady
+        motion (using the hand-over-hand process) without stopping or
+        lowering the round.
+
+Note :  If the round is jammed or stuck and cannot be removed by the extractor, the
+        gunner holds the barrel and unlocks the clamp handle assembly while the
+        assistant gunner stabilizes the bipod. The first ammunition bearer grasps the base
+        of the cannon and rotates the it until the white line is in the down position while
+        the gunner lifts the cannon to release it from the baseplate. The assistant gunner
+        moves the bipod to the right and out of the way. The gunner and first ammunition
+        bearer lift the cannon to a horizontal position and carry it, with the extractor in
+        place, to the dud pit. Ensuring the cannon remains pointed down range, the
+        platoon leader or platoon sergeant notifies EOD personnel.
+
+        g. The gunner stands to the left side of the weapon in the gunner’s position. He
+        holds his hands ready near the muzzle to grasp the round as soon as the body of
+        the round clears the muzzle. The assistant gunner and gunner then complete
+        removing the round from the barrel. Once the round has cleared the barrel, both
+        crew members move to the right of the mortar position. The ammunition bearer
+        comes forward and stands beside the gunner.
+
+        h. With the assistant gunner holding the round extractor by the handle and the
+        gunner holding the round, the ammunition bearer presses on all four catches on
+        the extractor at the same time, releasing the round from the extractor.
+
+        i. The gunner inspects the round. If the primer has been struck by the firing pin,
+        the round is disposed of in accordance with range SOP. If no contact was made
+
+
+---
+
+         with the firing pin, action is taken to clean any possible obstructions inside the
+         barrel.
+
+Note: Nondevelopment item (NDI) ammunition will not be refired.
+
+         j. The assistant gunner swabs the bore and the gunner places the safety
+         mechanism on "F" (FIRE).
+
+         k. The gunner re-installs the sight, re-lays the mortar, and continues the mission.
+
+Note: If the extractor cannot grasp the round, use another extractor if possible. If the
+         extractor still cannot grasp the round, follow steps l through q.
+
+         l. The gunner holds the cannon near the muzzle and the assistant gunner holds the
+         bipod assembly. The gunner opens the buffer housing assembly.
+
+         m. The gunner ad ammunition bearer turn the cannon until the white line is in the
+         down position and carefully remove the cannon from the breech cap socket.
+
+         n. Keeping the cannon horizontal and pointing in the direction of fire, the gunner
+         and ammunition bearer move the cannon to the opposite side of the ammunition
+         point. The assistant gunner places the ends of his thumbs over the edges of the
+         muzzle, grasping the cannon with his fingers.
+
+         o. At the assistant gunner’s command of LIFT, the ammunition bearer lifts the
+         cannon’s breech cap assembly causing the round to slide down to the assistant
+         gunner’s hands. The assistant gunner removes the round, inspects it, tries to
+         replace the safety wire (if applicable), places the round in the dud pit, tags the
+         round, and notifies EOD.
+
+         p. The assistant gunner swabs the bore.
+
+         q. The gunner re-lays the mortar and continues the mission.
+
+Note : If the round is grasped but cannot be removed, follow steps r through t.
+
+         r. The gunner holds the cannon near the muzzle, and the assistant gunner holds the
+         bipod assembly. The gunner opens the buffer housing assembly.
+
+         s. The gunner and ammunition bearer turn the cannon until the white line is n the
+         down position and carefully remove the cannon from the breech cap socket.
+
+         t. Keeping the cannon horizontal and pointing in the direction of fire, the gunner
+         and ammunition bearer lift the cannon (with the extractor still attached to the
+
+
+---
+
+         round) and carry it to the dud pit, ensuring it remains pointing downrange. The
+         platoon leader or platoon sergeant notifies EOD.
+
+7-14. LOADING AND FIRING THE GROUND-MOUNTED 120-mm MORTAR
+
+The following paragraphs explain the procedures for loading and firing a ground-
+mounted 120-mm mortar.
+
+         a. The FDC issues a fire command to the squad leader.
+
+         b. The squad leader records and issues the fire command to the squad.
+
+         c. The squad repeats the fire commands.
+
+         d. The ammunition bearer(s) prepares the round(s) IAW the fire command.
+
+         e. The ammunition bearer prepares the round so that the squad leader can inspect
+         it before it is passed to the assistant gunner. The ammunition bearer holds the
+         round with both hands (palms up) near each end of the round body (not on the
+         fuze or the charges).
+
+         f. The assistant gunner checks the round for correct charges, fuze tightness, and
+         fuze setting.
+
+         g. When both the gun and the round(s) have been determined safe and ready to
+         fire, the squad leader gives the following command to the FDC: NUMBER
+         (NUMBER OF MORTAR) GUN, UP.
+
+         h. The ammunition bearer holds the round with the fuze pointed to his left. By
+         pivoting his body to the left, the assistant gunner accepts the round from the
+         ammunition bearer with his right hand under the round and his left hand on top of
+         the round.
+
+         i. Once the assistant gunner has the round, he keeps two hands on it until it is
+         fired.
+
+                                                CAUTION
+
+              The assistant gunner is the only member of the mortar squad who
+              loads and fires the round.
+
+         j. The squad leader commands, HANG IT, FIRE in accordance with the method
+         of fire given by the FDC.
+
+
+---
+
+         k. The assistant gunner holds the round out in front of the muzzle at about the
+         same angle as the cannon. At the command, HANG IT, the assistant gunner
+         guides the round into the barrel (tail end first) to a point beyond the narrow
+         portion of the body (about three-quarters of the round) being careful not to hit the
+         primer or charges or disturb the lay of the mortar.
+
+         l. Once the round is inserted into the barrel the proper distance, the assistant
+         gunner shouts, "Number (number of mortar) gun, hanging."
+
+         m. At the command, FIRE, the assistant gunner releases the round by pulling both
+         hands down and away from the outside of the barrel. The assistant gunner ensures
+         that he does not take his hands across the muzzle of the cannon as he drops the
+         round.
+
+         n. Once the round is released, the gunner and assistant gunner take a full step
+         toward the rear of the weapon while pivoting their bodies so that they are both
+         facing away from the blast.
+
+         o. The assistant gunner pivots to his left and down toward the ammunition bearer
+         and is now ready to accept the next round to be fired (only if there are no major
+         movements of the bipod in which he is required to lift and clear the bipod off the
+         ground).
+
+         p. Subsequent rounds are fired based on the FDC fire commands.
+
+         q. The assistant gunner ensures the round has fired safely before he attempts to
+         load the next round.
+
+         r. The assistant gunner does not shove or push the round down the barrel. The
+         round slides down the barrel under its own weight, strikes the firing pin, ignites,
+         and fires.
+
+         s. The assistant gunner and gunner, as well as the remainder of the mortar crew,
+         keep their upper body below the muzzle until the round fires to avoid muzzle
+         blast.
+
+         t. During an FFE, the gunner tries to level all bubbles between each round
+         ensuring his upper body is away from the mortar and below the muzzle when the
+         assistant gunner announces, "Hanging," for each round fired.
+
+         u. The assistant gunner informs the squad leader when all rounds for the fire
+         mission are expended, and the squad leader informs the FDC when all of the
+         rounds are completed. For example, "NUMBER TWO GUN, ALL ROUNDS
+         COMPLETE."
+
+7-15. TAKING THE 120-mm MORTAR OUT OF ACTION
+
+
+---
+
+To take the 120-mm mortar out of action, the squad leader commands, OUT OF
+ACTION. Then, each member of the squad does the following:
+
+         a. The gunner places the weapon on SAFE with the "S" showing.
+
+         b. The second ammunition bearer retrieves the aiming posts, places them in their
+         case, and puts the case on the right side of the mortar.
+
+         c. The gunner places a deflection of 3800 mils and an elevation of 0800 mils on
+         the sight.
+
+         d. The gunner removes the sight from the dovetail slot and places it in the sight
+         case. He places the sight mount cover back on and secures it with the snap button.
+
+Note: Left and right are in relation to the mortar’s direction of fire.
+
+         e. The gunner loosens the clamp handle assembly.
+
+         f. The gunner slides the buffer housing assembly up the barrel until it is aligned
+         with the white line on the cannon near the muzzle. The white line on the barrel
+         must match with the white line on the clamp handle assembly. The gunner
+         tightens the buffer housing assembly until he hears a metallic click. He continues
+         turning the handle until it is parallel to the barrel.
+
+         g. The gunner centers the traversing extension and the traversing mechanism.
+
+         h. The gunner lowers the elevation so that about four fingers (three to four inches)
+         of the elevating mechanism remains exposed.
+
+         i. The assistant gunner loosens the cross-level locking knob while the gunner
+         steadies the barrel.
+
+         j. The first ammunition bearer positions himself to the right side of the trailer. He
+         positions the trailer behind the baseplate with the towing eye almost straight up.
+         The second ammunition bearer assists when he has completed his task of
+         retrieving the aiming posts.
+
+         k. The first ammunition bearer holds the trailer in place with the barrel cradle
+         touching the top of the breech cap. He blocks the wheels so that the trailer cannot
+         roll.
+
+         l. The second ammunition bearer releases the clamping catch on the trailer bridge
+         assembly and swings the bridge assembly out of the way.
+
+
+---
+
+         m. The gunner and the second ammunition bearer grasp the traversing mechanism
+         and bipod legs, then swing the barrel and bipod over the baseplate and onto the
+         trailer. The assistant gunner loosens the cross-leveling locking knob and assists in
+         raising the bipod legs, then joins the legs and rotates them 180 degrees.
+
+         n. With the trailer still in the upright position, the first ammunition bearer makes
+         sure that the upper collar stop is placed just forward of the upper barrel bracket on
+         the trailer.
+
+         o. The assistant gunner holds and lifts the baseplate onto the trailer as the first
+         ammunition bearer returns the trailer to the towing position, lifting the entire
+         mortar onto the trailer.
+
+         p. The gunner attaches the hook on the spreader chain to the eye on the bipod leg.
+         He adjusts the elevation so that the bipod legs fit under the trailer bridge assembly
+         and retightens the locking knob.
+
+         q. The assistant gunner closes the trailer bridge assembly. He locks the baseplate
+         with the lock release lever and secures it with the pin. He then secures the trailer
+         bridge assembly with the clamping catch.
+
+         r. The first ammunition bearer emplaces the muzzle cap.
+
+         s. The first ammunition bearer moves to the driver’s side of the towing eye. The
+         second ammunition bearer moves to the passenger’s side of the towing eye.
+         Together, they move the trailer to the vehicle and hook the trailer to the towing
+         pintle of the vehicle. They hook up the trailer light cable and safety chains.
+
+         t. The gunner secures the sight case.
+
+         u. The assistant gunner secures the aiming post case.
+
+         v. The squad leader inspects to ensure all equipment is accounted for and properly
+         secured.
+
+         w. The squad leader announces, "Number two gun, up."
+
+                          Section IV. MORTAR CARRIER, M1064A3
+
+This section is a guide for training mortar units equipped with the M1064A3-series
+mortar carrier for mounting the M121 mortar. The procedures and techniques used for a
+mounted mortar are different from the ground-mounted mortar.
+
+7-16. DESCRIPTION
+
+
+---
+
+The M1064A3 carrier (Figures 7-7 and 7-8) is an M113A3 armored-personnel carrier
+modified to carry the 120-mm mortar, M121, on a specially designed mount. It is fully
+tracked, highly mobile, and armor protected. It can be transported by air and can be
+dropped, and it has fording capabilities in up to 40 inches of water.
+
+               Figure 7-7. Mortar carrier M1064A3, front and side view.
+
+
+---
+
+                      Figure 7-8. Mortar carrier M1064A3, rear view.
+
+7-17. TABULATED DATA FOR THE M1064A3 CARRIER
+
+Table 7-2 shows the tabulated data for the M1064A3 carrier and the mortar capabilities
+when mounted on a turntable.
+
+GENERAL                               28,240 pounds
+   Weight                             23,360 pounds
+      Combat loaded                   8.97 psi
+      Air transportable               4
+      Ground pressure, combat loaded  95 gallons
+   Personnel capacity
+   Fuel tank capacity                 40 mph
+                                      3.6 mph
+PERFORMANCE
+   Speed on land
+   Speed in water, with track
+
+
+---
+
+   Speed in water, with track        3.6 mph
+   Cruising range                    300 miles
+   Turning radius                    Pivot to infinite
+   Slope                             60 percent
+   Side slope                        40 percent
+   Trench crossing                   66 inches
+   Vertical wall climbing            24 inches
+   Gross horsepower-to-weight ratio  19.5 hp/ton
+
+ENGINE                               Detroit diesel 6V53T
+   Make and model                    318 cubic inches
+   Displacement                      Diesel
+   Fuel                              275
+   Gross horsepower
+                                     Allison X200-4A
+TRANSMISSION, AUTOMATIC              Hydrokinetic
+   Make and model                    Hydrostatic
+   Type                              Multiple wet plate
+   Steering
+   Brake type                        Torsion bar
+                                     5 pairs per side, 24-inch diameter
+RUNNING GEAR                         Steel single pin, detachable rubber
+   Suspension type                   pad
+   Road wheels                       63 left, 64 right
+   Track type                        6 inches
+   Number of shoes                   15 inches
+   Track pitch                       3 per side
+   Track width                       9.0 inches
+   Shock absorbers
+   Wheel travel                      200
+                                     28
+ELECTRICAL SYSTEM                    4 type 6TL, 120 amp/hr, 12 volts
+   Generator                         each
+      Amperes
+      Volts, dc                      2,000 ready rounds
+   Batteries                         69 ready rounds (45 horizontal, 24
+                                     vertical). Type of rounds carried
+ARMAMENT                             depends on the tactical mission.
+   .50 caliber machine gun
+   120-mm mortar
+
+
+---
+
+SQUAD WEAPONS
+
+Rifles, M16A2, 5.56-mm                      4
+
+ARMOR                                       5083 Aluminum
+   Hull
+
+FIRE EXTINGUISHERS                          5 pounds CO2 for engine
+   Fixed                                    compartment
+                                            5 pounds CO2
+   Portable
+
+MORTAR CAPABILITIES MOUNTED ON TURNTABLE
+
+TRAVERSING LIMITS                           858 mils
+   Right of center with traverse extension  808 mils
+   Left of center with traverse extension
+
+TOTAL TRAVERSE                              1486 mils
+   Capability from extreme left to extreme  1666 mils
+
+right
+      Without traversing extension
+      With traversing extension
+
+ELEVATION LIMITS (LEVEL)                    1510 mils
+   Track maximum                            0800 mils
+   Track minimum
+
+                   Table 7-2. Tabulated data for the M1064A3 carrier .
+
+     Section V. OPERATION OF A CARRIER-MOUNTED 120-mm MORTAR
+
+The mortar section is the fire unit for the mortar platoon. When a position is occupied,
+mortars are emplaced 75 meters apart making the section front (distance between flank
+mortars) about 150 meters. The mortars are numbered 1, 2, and 3 (from right to left)
+when facing the direction of fire. The squad of the mortar carrier consists of four
+members--squad leader, gunner, assistant gunner, ammunition bearer/driver. The
+differences in the procedures from a ground-mounted mortar squad are also discussed in
+this section.
+
+7-18. MORTAR AND VEHICULAR MOUNT
+
+The mortar is carried while attached to its vehicular mount. A clamping support is
+provided to hold the mortar during travel. A bipod support assembly provides attachment
+mounting for the M191 bipod and secures it in a locking position during travel. The
+
+
+---
+
+breech socket provides a base in which the weapon rests. The mortar is provided with a
+sight extension arm assembly, which is received by the socket of the coupling and sight
+mount assembly. The gunner uses the sight extension arm to sight on his aiming point
+above the hull of the vehicle. The extension must be removed before moving the mortar
+to prevent wear on the sight mount’s coupling gears.
+
+7-19. MAINTENANCE
+
+Care and cleaning of the mortar, instruments, and equipment are the duty and
+responsibility of the mortar squad. Care and cleaning of the carrier-mounted mortar are
+the same as for the ground-mounted mortar. All maintenance records and lubricating
+procedures for the 120-mm mortar and the mount, M191, are located in TM 9-1015-250-
+10. For maintenance procedures for the M1064A3 carrier, see TM 9-2350-261-10.
+
+7-20. PLACING A CARRIER-MOUNTED 120-mm MORTAR INTO ACTION
+
+To place the mortar into action, the crew performs the following actions upon the squad
+leader’s command, ACTION.
+
+Note :  If the weapon system cannot be leveled at any elevation given, the gunner is
+        authorized to go to high range (low range) and move the buffer housing assembly
+        along the cannon between the circular white line and the lower collar stop
+        without moving past the vertical position until the gun system can be leveled.
+
+        a. The gunner pulls the chain on the center cargo hatch releasing and folding it
+        over onto the right hatch ensuring that the hatch locks into place. He then pulls the
+        chain on the right cargo hatch releasing and folding it over and secures it.
+
+        b. Once the gunner has the center and right cargo hatch secured, the assistant
+        gunner pulls the chain on the left cargo hatch releasing and folding the hatch over
+        ensuring that it is locked into place.
+
+        c. The assistant gunner unlocks the clamping support assembly.
+
+        d. The gunner loosens the clamp handle assembly and grasps the buffer housing
+        assembly and pulls it down until it is flush with the lower collar stop.
+
+        e. The gunner ensures the white line on the barrel is lined up with the white line
+        on the buffer housing assembly. He then tightens the clamp handle assembly until
+        a metallic click is heard. He places the weapon on FIRE with the "F" showing.
+
+        f. The assistant gunner then passes the sight extension to the gunner and removes
+        the muzzle cover.
+
+
+---
+
+         g. The gunner places the sight extension into the dovetail slot on the bipod and
+         secures it.
+
+         h. The gunner mounts the sight onto the sight extension and places a deflection of
+         3200 mils and an elevation of 1100 mils onto the sight and levels the deflection
+         bubble with the cross-leveling handwheel on the bipod.
+
+         i. The assistant gunner places the BAD onto the cannon and secures it and levels
+         the elevation bubble.
+
+         j. The gunner then ensures that the traversing mechanism is within four turns of
+         center, and the traversing extension is centered on the bipod.
+
+         k. When the gunner is satisfied that the mortar is mounted correctly, he
+         announces, "Up" so that the squad leader can inspect the weapon system.
+
+         l. The carrier-mounted 120-mm mortar is now placed into action and ready to be
+         reciprocally laid.
+
+7-21. LAY FOR DEFLECTION AND ELEVATION ON A CARRIER-MOUNTED
+120-mm MORTAR
+
+Deflection and elevation are received from the fire direction center in the form of a fire
+command. If a deflection change is required, it will always precede the elevation change.
+
+Note :  Small deflection changes are greater than 20 mils but less than 60 mils. Small
+        elevation changes are greater than 35 mils but less than 90 mils. Large deflection
+        changes are greater than 200 mils but less than 300 mils. Large elevation changes
+        are greater than 100 mils but less than 200 mils.
+
+        a. Small Deflection and Elevation Changes.
+
+                 (1) The gunner is given a deflection and elevation change in the form of a
+                 fire command.
+
+                 (2) As soon as the gunner receives the fire command, he places the data on
+                 the sight and elevates or depresses the mortar to "float" the elevation
+                 bubble.
+
+                 (3) The gunner then looks into the sight to determine whether to traverse
+                 the mortar. He places his hand on the traversing handwheel and traverses
+                 one-half the distance to his aiming poles.
+
+                 (4) The gunner cross-levels his deflection bubble with the cross-level
+                 handwheel on the bipod.
+
+
+---
+
+                 (5) The gunner repeats steps (3) and (4) until the vertical cross line is
+                 within 2 mils of the left edge of the aiming posts and his deflection bubble
+                 is leveled.
+
+                 (6) The gunner levels his elevation bubble with the elevation handwheel
+                 on the bipod.
+
+                 (7) The gunner rechecks his data and bubbles to ensure the proper lay of
+                 the weapon system.
+
+        b. Large Deflection and Elevation Changes.
+
+                 (1) The deflection and elevation are received from the FDC in the form of
+                 a fire command. If a deflection change is required, it precedes the
+                 elevation change.
+
+Note :  Large deflection changes are greater than 200 mils but less than 3000 mils. Large
+        elevation changes are greater than 100 mils but less than 200 mils. This may
+        require the buffer housing assembly to be moved up on the cannon. Ensure the
+        bipod is not forward of the vertical position.
+
+        (2) Lay for large deflection and elevation change.
+
+                 (a) The mortar is mounted and the sight is laid on the aiming posts with a
+                 deflection and an elevation.
+
+                 (b) The gunner is given a deflection and an elevation change in the form of
+                 a fire command.
+
+                 (c) As soon as the gunner receives the fire command, he places the data on
+                 the sight, and elevates or depresses the mortar to "float" the elevation
+                 bubble. The assistant gunner is allowed to "dead level" the elevation
+                 bubble.
+
+                 (d) If in low range, the gunner unlocks the low-range support latch. With
+                 his left hand on the bipod leg and his right hand on the traversing
+                 mechanism, and with the assistant gunner’s right hand on the bipod leg
+                 and his left hand on the traversing mechanism, together they raise the
+                 bipod into high range.
+
+                 (e) The assistant gunner inserts the high-range locking pin to secure the
+                 bipod.
+
+                 (f) If in high range, the gunner pulls the high-range locking pin. With his
+                 left hand on the bipod leg and his right hand on the traversing mechanism,
+
+
+---
+
+                  and with the assistant gunner’s right hand on the bipod leg and his left
+                  hand on the traversing mechanism, together they lower the bipod into low
+                  range.
+
+                  (g) The gunner then looks into his sight to determine if he has to shift the
+                  mortar and announces to the assistant gunner, "Unlock the turntable."
+
+                  (h) With the assistant gunner’s help, the gunner looks through his sight
+                  and shifts the mortar until the vertical cross line is aligned with the aiming
+                  poles.
+
+                  (i) The gunner cross-levels his deflection bubble. Once leveled, he looks
+                  into the sight to determine if he is still within 20 mils of his aiming posts.
+                  If the vertical cross line is still within 20 mils of the aiming posts, the
+                  gunner announces to the assistant gunner, "Lock it" (referring to locking
+                  the turntable).
+
+                  (j) With the turntable in the locked position, the gunner continues to
+                  traverse and cross-level until the vertical cross line is lined up with the
+                  aiming posts, and the deflection bubble is level.
+
+                  (k) The gunner levels the elevation bubble. Before the gunner announces,
+                  "Gun up," he rechecks his data, bubbles, and four turns of center.
+
+         (3) When the mortar is traversed more than 60 mils left or right from center, a
+         compensated sight picture occurs. To correct this, the rule to follow is "hey-
+         diddle-diddle-far-pole-in-the-middle."
+
+7-22. PERFORMING MISFIRE PROCEDURES ON AN M121 CARRIER-
+MOUNTED 120-mm MORTAR DURING COMBAT
+
+The barrel assembly of the carrier-mounted 120-mm mortar must be at its lowest
+elevation to perform misfire procedures. However, crews must never change from high
+range to low range. When a misfire occurs, all crew members (or the crew member that
+first notices) shout, "Misfire."
+
+                                                WARNING
+
+              To avoid possible injury to the crew, do not change the range
+              of the mortar (from high to low or from low to high). Do not
+              stand in front of or behind the barrel.
+
+         a. At the announcement of "Misfire," all crew members remain with the mortar.
+
+
+---
+
+Note :  During peacetime live-fire exercises, all crew members except the gunner leave
+        the firing position and move at least 100 meters to the rear of the mortar position.
+        All crew members will exit the carrier through the cargo hatches, climbing over
+        the front of the carrier, and will return the same way.
+
+        b. The gunner stands to the right or left rear of the mortar and kicks the barrel
+        several times. If the round does not fire after kicking the barrel, the gunner moves
+        to where the rest of the crew is and waits for one minute. (This 1-minute wait
+        allows the round time to fire should there be a delayed action [hangfire] of the
+        propelling charge.) After the 1-minute wait, the gunner performs the following:
+
+                 (1) He checks the barrel for heat using his bare hands. Starting at the
+                 muzzle, he lightly touches the barrel with his fingertips every few inches
+                 down to the breech cap. If the barrel is too hot, the crew uses some means
+                 (such as water or snow) to cool it down before attempting to remove the
+                 misfire.
+
+                 (2) If the barrel is cool enough to handle, the gunner places the weapon on
+                 SAFE with the "S" showing.
+
+        c. The gunner locks the data down on the sight unit, removes the sight and places
+        it in a safe place, and calls the crew forward.
+
+        d. The driver/ammunition bearer mounts the carrier from the front and lowers the
+        ramp.
+
+        e. The gunner then depresses the barrel to its lowest elevation using the elevation
+        handwheel, leaving about 1/4 inch of sleeve showing (so there is no metal to
+        metal contact).
+
+                                               CAUTION
+
+             At no time will the clamp handle assembly be loosened (except
+             during jammed or stuck rounds).
+
+        f. The assistant gunner removes the blast attenuator device and places it aside. He
+        secures the staff assembly with the extractor attached. He rotates it forward,
+        stabilizing the extractor, and inserts the extractor into the cannon. He lowers it
+        slowly into the cannon (hand over hand) until the extractor makes contact with the
+        round. He rotates the extractor in either direction until he feels the detent pins
+        connect into the round. He continues rotating until resistance is felt.
+
+        g. The assistant gunner lifts up slightly on the extractor to ensure it has connected
+        with the round. He continues lifting the extractor until the body of the round
+
+
+---
+
+        appears at the muzzle. At this time, the gunner grasps the round and assists in
+        removing the round. Once the round has cleared the cannon, the extractor with
+        staff assembly and round is guided between the cannon and the cross-member.
+        The gunner and assistant gunner move under the cross-member and down the
+        ramp to the opposite side of the ammunition point at the rear of the carrier.
+
+Note: Due to the weight of the round, the gunner may assist during the entire extraction
+         process.
+
+                                          CAUTION
+
+        Once the assistant gunner ensures the extractor is firmly
+        connected with the round, he extracts the round in one steady
+        motion (using the hand-over-hand process) without stopping or
+        lowering the round.
+
+Note :  If the round cannot be removed with the extractor, the assistant gunner kneels on
+        the ramp to stabilize the bipod. The gunner places his left hand under the cannon
+        and loosens the clamp assembly until the buffer housing assembly falls free from
+        the cannon. The assistant gunner lowers the bipod to the ramp. The gunner and
+        ammunition bearer lift the cannon to approximately a 60-degree angle and rotate
+        the cannon until the white line is on the bottom. Together, they lift the cannon
+        from the breech socket assembly and carry it to the dud pit. Ensuring the cannon
+        remains pointed down range, the platoon leader or platoon sergeant notifies EOD
+        personnel. (At no time will the cannon be lifted over or rested on the carrier’s
+        cross-member. The cannon MUST be taken under the cross-member.)
+
+        h. Once the gunner and assistant gunner have cleared the ramp, the ammunition
+        bearer comes forward and stands beside the gunner.
+
+        i. With the assistant gunner holding the round extractor by the handle and the
+        gunner holding the round, the ammunition bearer presses on all four catches on
+        the extractor at the same time, releasing the round from the extractor.
+
+        j. The gunner inspects the round. If the primer has been struck by the firing pin,
+        the round is disposed of in accordance with range SOP. If no contact was made
+        with the firing pin, action is taken to clean any possible obstructions inside the
+        barrel.
+
+Note: Nondevelopment item (NDI) ammunition will not be refired.
+
+        k. The assistant gunner swabs the bore and the gunner places the safety
+        mechanism on "F" (FIRE).
+
+
+---
+
+         l. The gunner re-installs the sight, re-lays the mortar, and continues the mission.
+
+Note: If the extractor cannot grasp the round, use another extractor if possible. If the
+         extractor still cannot grasp the round, follow steps m through r.
+
+         m. The gunner holds the cannon near the muzzle and the assistant gunner holds
+         the bipod assembly. The gunner opens the buffer housing assembly.
+
+         n. The gunner and ammunition bearer turn the cannon until the white line is in the
+         down position and carefully remove the cannon from the breech cap socket.
+
+         o. Keeping the cannon horizontal and pointing in the direction of fire, the gunner
+         and ammunition bearer move the cannon to the opposite side of the ammunition
+         point. The assistant gunner places the ends of his thumbs over the edges of the
+         muzzle, grasping the cannon with his fingers.
+
+         p. At the assistant gunner’s command of LIFT, the ammunition bearer lifts the
+         cannon’s breech cap assembly causing the round to slide down to the assistant
+         gunner’s hands. The assistant gunner removes the round, inspects it, tries to
+         replace the safety wire (if applicable), places the round in the dud pit, tags the
+         round, and notifies EOD.
+
+         q. The assistant gunner swabs the bore.
+
+         r. The gunner re-lays the mortar and continues the mission.
+
+Note : If the round is grasped but cannot be removed, follow steps s through u.
+
+         s. The gunner holds the cannon near the muzzle, and the assistant gunner holds
+         the bipod assembly. The gunner opens the buffer housing assembly.
+
+         t. The gunner and ammunition bearer turn the cannon until the white line is n the
+         down position and carefully remove the cannon from the breech cap socket.
+
+         u. Keeping the cannon horizontal and pointing in the direction of fire, the gunner
+         and ammunition bearer lift the cannon (with the extractor still attached to the
+         round) and carry it to the dud pit, ensuring it remains pointing downrange. The
+         platoon leader or platoon sergeant notifies EOD.
+
+7-23. MOUNTING OF THE MORTAR FROM A CARRIER TO A GROUND-
+MOUNTED POSITION
+
+The procedures for placing the mortar into action by mounting it from a carrier to a
+ground-mounted position are described below.
+
+
+---
+
+Note: Left and right are in relation to the mortar’s direction of fire.
+
+         a. The driver lowers the ramp and dismounts the mortar from the carrier.
+
+         b. The gunner pulls down on the chain for the center hatch and folds it over, then
+         secures it to the right cargo hatch. He pulls down on the chain for the right cargo
+         hatch and folds both hatches over, then secures them in place. The assistant
+         gunner pulls down on the chain for the left cargo hatch and folds it over, then
+         secures it in place.
+
+         c. The squad leader dismounts the carrier and shows the crew where he wants the
+         mortar to be mounted and indicates the direction of fire.
+
+         d. The driver/ammunition bearer and assistant gunner release the baseplate by
+         removing the safety pin and pushing the handle up. Together they tilt the
+         baseplate out and lift it from the lower brackets.
+
+         e. They place the baseplate at the firing position while the gunner retrieves the
+         sight and aiming posts and places them on the left side of the baseplate.
+
+         f. The assistant gunner holds the bipod while the gunner unlocks the clamp handle
+         assembly. The assistant gunner lowers the bipod until it rests on the ramp. At the
+         same time, the driver/ammunition bearer assembles the aiming posts.
+
+         g. The assistant gunner releases the safety pins and rotates the handles until the
+         arrows are facing each other and then pulls the handles out, releasing the bipod.
+
+         h. The assistant gunner installs the bipod leg extensions onto the bipod and
+         secures them with the safety pins.
+
+         i. The assistant gunner and driver/ammunition bearer secure the bipod and carry it
+         to the firing position. They place it about 2 feet in front of the baseplate.
+
+                                                CAUTION
+
+              Damage may occur to the turntable socket if the following
+              procedures are not followed.
+
+         j. The driver/ammunition bearer removes the muzzle plug while the gunner
+         releases the clamping support assembly. Together they raise the barrel to a 60-
+         degree angle and rotate it until the white line is facing the turntable. They then lift
+         straight up removing the barrel from the socket.
+
+
+---
+
+         k. The gunner and driver/ammunition bearer carry the barrel to the baseplate.
+         With the white line on the barrel facing the ground, they tilt the barrel to a 60-
+         degree angle. They carefully insert the barrel into the baseplate socket. They
+         rotate the barrel until the white line is facing skyward and then lower it onto the
+         buffer housing assembly ensuring the white line on the barrel aligns with the
+         white line on the buffer housing assembly. The gunner then slides the buffer
+         housing assembly down the barrel until it is flush with the lower collar stop on the
+         barrel.
+
+         l. The gunner tightens the clamp handle assembly until a metallic click is heard.
+
+         m. The gunner places the safety mechanism on FIRE with the "F" showing.
+
+         n. The gunner places the sight on the weapon and indexes a deflection and
+         elevation.
+
+7-24. TAKING THE MORTAR OUT OF ACTION (GROUND-MOUNTED TO
+M1064A3 CARRIER-MOUNTED)
+
+The procedures for mounting the mortar on the carrier from a ground-mounted position
+are described below.
+
+         a. The squad leader commands, OUT OF ACTION, PREPARE TO MARCH.
+
+         b. The gunner places the weapon on SAFE with the "S" showing.
+
+         c. The gunner places a deflection of 3200 mils and an elevation of 0800 mils on
+         the M67 sight.
+
+         d. The gunner removes the sight from the dovetail slot. He places the sight in the
+         sight case and secures it on the carrier.
+
+         e. The gunner then replaces the sight mount cover and snaps it.
+
+         f. The ammunition bearer retrieves the Ml4 aiming posts and the M58 and M59
+         aiming post lights and stows them on the carrier.
+
+         g. The assistant gunner kneels down and secures the bipod and lowers it to its
+         lowest elevation leaving about one-quarter of a turn of the shaft showing.
+
+         h. The gunner opens the buffer housing assembly with his left hand while
+         securing the barrel assembly with his right hand.
+
+         i. The gunner and ammunition bearer rotate the barrel assembly until the white
+         line is on the bottom. They raise the barrel to about a 60-degree angle and lift it
+         from the baseplate socket. They carry the barrel assembly to the carrier.
+
+
+---
+
+j. The gunner and ammunition bearer make sure the clamping support assembly is
+open. They ensure the bipod support assembly is in the low-range position and the
+turntable is centered and locked.
+
+k. The gunner and ammunition bearer position the mortar barrel assembly just
+above the clamping support assembly with the white line facing down.
+
+l. The gunner and ammunition bearer carefully insert the breech cap ball into the
+socket. They raise the mortar barrel assembly and rotate it until the white line is in
+the up position. They install the muzzle plug and lower the mortar barrel assembly
+onto the clamping support assembly and lock it.
+
+m. The assistant gunner takes the bipod assembly to the carrier.
+
+n. The assistant gunner rests the bipod assembly on the carrier ramp with the
+cross-leveling mechanism pointing toward the gunner’s position.
+
+o. The assistant gunner removes pins and leg extensions from the bipod legs and
+stows them in the step.
+
+p. The assistant gunner removes the handles from the bipod support assembly. He
+ensures the arrows are facing each other.
+
+q. The assistant gunner slides the bipod legs onto the attaching slot on the bipod
+support assembly.
+
+r. With the arrows facing each other and the holes matching, the assistant gunner
+inserts the handles through the bipod support assembly slot and legs. He turns the
+handles so that the arrows point toward the bipod legs and attaches the safety
+pins.
+
+s. The assistant gunner slides the buffer housing assembly up along the barrel
+assembly until it stops. He tightens the clamp handle assembly until he hears a
+metallic click.
+
+t. The assistant gunner and ammunition bearer carry the baseplate to the carrier,
+
+u. The assistant gunner and ammunition bearer make sure the pin is removed and
+the handle is up.
+
+v. The assistant gunner and ammunition bearer lift the baseplate with the spades
+away from the carrier and place the two corners without handles inside the rims of
+the lower brackets.
+
+w. The assistant gunner and ammunition bearer tilt the baseplate toward the
+carrier and pull the handle down and lock it with the pin.
+
+
+---
+
+         x. The squad leader inspects to ensure all equipment is accounted for and properly
+         secured.
+
+         y. The squad leader announces, "Number two gun up and prepared for march."
+
+7-25. PERFORMING SAFETY CHECKS ON A CARRIER-MOUNTED 120-mm
+MORTAR
+
+Specific safety checks must be performed before firing mortars. Most can be made
+visually. The gunner is responsible for physically performing the checks under the squad
+leader’s supervision.
+
+Note : The buffer housing assembly may need to be adjusted to complete this task.
+
+        a. The gunner checks for mask and overhead clearance.
+
+                 (1) To determine mask clearance, the gunner places an elevation of 0800
+                 on the sight and lowers the barrel until the elevation bubble is level. He
+                 places his head against the breech cap and sights along the barrel to see if
+                 any obstructions are in front of the mortars. With the gunner’s head still
+                 against the breech cap, the assistant gunner traverses the mortar through its
+                 full range of traverse (traversing extension) to ensure that no obstructions
+                 are in front of the mortar.
+
+                 (2) To determine overhead clearance, the gunner places an elevation of
+                 1500 on the sight and raises the barrel until the elevation bubble is level.
+                 He places his head against the breech cap and sights along the barrel to see
+                 if any obstructions are in front of the mortar. With the gunner’s head still
+                 against the breech cap, the assistant gunner moves the mortar through its
+                 full range of traverse (traversing extension) to ensure that no obstructions
+                 are in front of the mortar.
+
+Note :  If obstructions are found at any point in the full range of traverse or elevation,
+        then the mortar is not safe to fire. (In a combat situation, it may be necessary to
+        fire the mortar from that position; if this is the situation, traverse and or elevate
+        the mortar until it clears the obstruction. Level the sight by using the elevation
+        micrometer knob. Record the deflection and elevation where the mortar clears
+        the obstruction and report this information to the FDC.)
+
+        b. The gunner checks to ensure the breech assembly is locked in the turntable
+        socket and the white line on the cannon bisects the white line on the buffer
+        housing assembly.
+
+        c. The gunner checks to ensure the M191 bipod assembly is locked to the
+        turntable mount and the arrows on the mount handles are pointed down (vertical).
+
+
+---
+
+         d. The gunner checks to ensure the safety pins are installed,
+
+         e. The gunner ensures that the buffer housing assembly is secured to the cannon
+         by loosening the clamp handle assembly about one-quarter of a turn and
+         tightening the clamp handle assembly until a metallic click is heard.
+
+         f. The gunner ensures the cross-leveling locking knob is hand tightened.
+
+         g. The gunner checks the bipod support assembly to ensure it is locked in the high
+         or low position and the safety pin is installed.
+
+         h. The gunner checks to ensure the turntable is in the locked position.
+
+         i. The gunner checks to ensure the cargo hatches are open and locked.
+
+         j. The gunner checks to ensure the blast attenuator device locking knob is hand
+         tightened.
+
+         k. The gunner checks to ensure the safety selector is in the FIRE position with the
+         "F" showing.
+
+         l. Ensure the bipod is not forward of the vertical position.
+
+7-26. RECIPROCALLY LAYING THE MORTAR CARRIER SECTION
+
+To reciprocally lay the mortar, follow the procedures discussed herein.
+
+         a. The aiming circle (AC) operator lays the vertical cross line on the mortar sight
+         and announces, "Aiming point this instrument."
+
+         b. The gunner refers the sight (using the deflection micrometer knob) to the
+         aiming circle with the vertical cross line, splitting the lens of the aiming circle,
+         and announces, "Number (number of gun) gun, aiming point identified."
+
+         c. The AC operator turns the azimuth micrometer knob of the aiming circle until
+         the vertical cross lines are laid on the center of the gun sight lens. He reads the
+         deflection micrometer scales and announces, "Number (number of gun) gun,
+         deflection, two three one five (2315)."
+
+         d. The gunner indexes the deflection announced by the AC operator on the sight
+         and re-lays on the center of the AC lens by telling the driver to start the carrier.
+         Looking through the sight, he tells the driver which direction to move the carrier
+         (if necessary) and cross-levels. He ensures he has a correct sight picture (cross
+         line splitting the AC lens), and the elevation and deflection bubbles are leveled.
+         Once he has accomplished this, he announces, "Number (number of gun) gun,
+         ready for recheck."
+
+
+---
+
+         e. The AC operator gives the new deflection, and the process is repeated until the
+         gunner announces, "Number (number of gun) gun, zero mils (or one mil); mortar
+         laid."
+
+         f. As the squad announces, "Mortar laid," the AC operator commands the squad to
+         give its referred deflection (normally 2800) and to place out aiming posts.
+
+         g. The gunner turns the deflection micrometer knob only and indexes a deflection
+         of 2800 mils on his sight without disturbing the lay of the mortar.
+
+         h. The ammunition bearer runs with the aiming posts along the referred deflection
+         about 100 meters from the mortar, dropping one post halfway (about 50 meters).
+
+         i. Once the far aiming post is placed out as described, the gunner uses arm-and-
+         hand signals to guide the ammunition bearer to place out the near aiming post.
+
+         j. Once the correct sight picture is obtained, the gunner announces, "Number
+         (number of gun) gun, up."
+
+                                     Section VI. AMMUNITION
+
+Ammunition that can be fired by the 120-mm or 121-mm mortar are identified and
+described herein.
+
+7-27. CLASSIFICATION
+
+Ammunition is classified according to use. High explosive is used against personnel (in
+the open or in bunkers), light vehicles, and light bunkers. White phosphorus is used for
+screening and spotting. Illumination is used for battlefield illumination and signaling.
+
+7-28. AUTHORIZED CARTRIDGES
+
+The M929 smoke, M934 HE, and M933 HE cartridges are authorized to be fired from the
+M120 towed 120-mm mortar and the M121 carrier-mounted 120-mm mortar. The M57
+HE, M91 illumination, and M68 smoke cartridges are authorized to be fired from a
+ground-mounted 120-mm mortar ONLY.
+
+                                                WARNING
+
+              Firing the M57, M68, or M91 120-mm cartridges from the
+              M121 carrier-mounted mortar may cause bodily injury and
+              hearing loss. These cartridges are not authorized to be fired
+              from the carrier.
+
+Note: 1. When using enhanced ammunition, the bursting area of the round is 75 meters;
+
+
+---
+
+when using NDI ammunition, the bursting area of the round is 60 meters.
+2. A minimum range of 200 meters at charge 0 (charge may vary in firing table
+and whiz wheel) applies to all rounds and fuzes.
+a. M57 HE Cartridge (NDI) (Figure 7-9).
+
+                         Figure 7-9. M57 HE cartridge.
+         (1) Type and use: High explosive fragmentation and blast.
+         (2) Identification: Olive drab with yellow markings.
+         (3) Components: M935 point detonating (PD) fuze.
+         (4) Maximum range: 6,300 meters at charge 8; 7,200 meters at charge 10.
+         (5) Remarks: Used against personnel (in open or in bunkers), light
+         vehicles, and light bunkers; weight to 20 pounds (13.18 kilograms).
+b. M68 Smoke Cartridge (NDI) (Figure 7-10).
+
+
+---
+
+                      Figure 7-10. M68 smoke cartridge.
+         (1) Identification: Light green with red markings.
+         (2) Components: M935 PD fuze.
+         (3) Maximum range: 6,300 meters at charge 8; 7,200 meters at charge 10.
+         (4) Remarks: Used for screening and spotting.
+
+                                      WARNING
+     At temperatures exceeding 111.4 degrees Fahrenheit (44.1
+     degrees centigrade) (melting point of WP), store and transport
+     WP rounds in a vertical position (nose up) to prevent voids in
+     the WP.
+c. M91 Illumination Cartridge (NDI) (Figure 7-11).
+
+                 Figure 7-11. M91 illumination cartridge.
+         (1) Identification: White with black markings.
+         (2) Components: M776 (DM93) mechanical time superquick (MTSQ)
+         fuze.
+         (3) Maximum range: 6,200 meters at charge 8; 7,100 meters at charge 10.
+         (4) Remarks: Contains candle and parachute used for illumination (weight
+         to 29 pounds [13.18 kilograms]); burn time--46 to 60 seconds; candle
+         power--1,000,000.
+d. M933 HE Cartridge (Figure 7-12).
+
+
+---
+
+                        Figure 7-12. M933 HE cartridge.
+         (1) Type and use: High explosive fragmentation and blast.
+         (2) Identification: Olive drab with yellow markings.
+         (3) Components: M745 PD fuze; M230 propelling charge.
+         (4) Maximum range: 7,200 meters at charge 4.
+         (5) Minimum range: 200 meters at charge 0.
+e. M934 HE Cartridge (Figure 7-13).
+
+                        Figure 7-13. M934 HE cartridge.
+         (1) Type and use: High explosive fragmentation and blast.
+         (2) Identification: Olive drab with yellow markings.
+         (3) Components: M745 PD fuze; M230 propelling charge.
+
+
+---
+
+                  (4) Maximum range: 7,200 meters at charge 4.
+                  (5) Minimum range: 200 meters at charge 0.
+         f. M929 Smoke Cartridge (Figure 7-14).
+
+                              Figure 7-14. M929 smoke cartridge.
+                  (1) Type and use: Smoke (white phosphorus); screening and spotting.
+                  (2) Identification: Light green with light red markings.
+                  (3) Components: M745 PD fuze, M230 propelling charge.
+                  (4) Maximum range: 7,200 meters at charge 4.
+                  (5) Minimum range: 200 meters at charge 0.
+
+                                                WARNING
+              At temperatures exceeding 111.4 degrees Fahrenheit (44.1
+              degrees centigrade) (melting point of WP), store and transport
+              WP rounds in a vertical position (nose up) to prevent voids in
+              the WP.
+7-29. PREPARATION FOR FIRING
+Follow the procedures described herein to prepare for firing.
+         a. Unpack cartridge.
+
+                  (1) Remove the protective bag and desiccant bags (if any) secured to or
+                  covering the fin assembly.
+
+
+---
+
+Note :  Examine the fin assembly for visible damage or looseness. Examine the fuzes and
+        propelling charges for visible damage. Tighten loose fin assemblies (by hand)
+        before firing. Cartridges with damaged (bent) fin assemblies, fuzes, or propelling
+        charges will be turned in to the ammunition supply point as unserviceable.
+
+                  (2) Remove the plastic shell or insert assembly (if any) covering the
+                  propelling charge.
+         b. Set the fuze for the required time or desired type of burst.
+         c. Adjust the propelling charge for desired range.
+         d. Remove or pull the safety wires (just before loading and firing the cartridge).
+7-30. LOADING AND FIRING
+Follow the procedures described herein to load and fire the 120-mm mortar.
+         a. Check to ensure that the cartridge has the proper amount of charge.
+         b. Remove the safety wire or clip (if any) before firing.
+
+                                        WARNINGS
+
+        1. Always check the mask and overhead clearance before
+        firing.
+
+        2. PD and proximity fuzes may prematurely function when
+        fired through extremely heavy rainfall.
+
+        3. Do not fire ammunition in temperatures above +146
+        degrees Fahrenheit (+63 degrees centigrade) or below -28
+        degrees Fahrenheit (-33 degrees centigrade).
+
+        4. Short rounds and misfires can occur if an excessive amount
+        of oil or water is in the barrel during firing.
+
+        5. Before loading the cartridge, ensure the barrel and
+        cartridge are free of sand, mud, moisture, snow, wax, or other
+        foreign matter.
+
+        6. Ensure that all packing materials (packing stops, supports,
+        and plastic bags) are removed from the cartridge.
+
+
+---
+
+              7. Any glue or other foreign substance adhering to the
+              cartridge, particularly at or near the obturator band, must be
+              removed. If the substance cannot be removed, the cartridge
+              will not be fired.
+
+7-31. UNFIRED CARTRIDGES
+
+This paragraph describes the procedures to follow for unfired cartridges.
+
+         a. Replace the safety wire or clip, if removed from the fuze.
+
+Note: If safety pins cannot be fully reinserted into the fuze, notify EOD.
+
+         b. Reset the fuze (see paragraph 7-35).
+
+         c. Reinstall the propellant increments so that the cartridge has a full charge in
+         proper order.
+
+Notes: 1. M57, M68, and M91 cartridges should have seven propellant increments. The
+          proper order is one brown, two blue, and four white.
+
+          2. Do not mix propelling charge models or lots. Use original increments.
+
+         d. Install packing stop. Repack cartridge.
+
+7-32. CARE AND HANDLING OF CARTRIDGES
+
+This paragraph describes the procedures to follow to care for and handle cartridges.
+
+         a. Do not throw or drop live ammunition.
+
+         b. Do not break the moisture resistant seal of the ammunition container until the
+         cartridges are to be fired.
+
+         c. Protect cartridges when removed from the ammunition container. Protect
+         ammunition from rain and snow. Do not remove the plastic shell or insert
+         assembly around the propelling charge until the propelling charge is to be
+         adjusted. If protective bags were packed with the cartridge, cover the fin assembly
+         and propelling charge to prevent moisture contamination. Stack cartridges on top
+         of empty ammunition boxes or on 4 to 6 inches (10 to 15 centimeters) of dunnage.
+         Cover cartridges with the plastic sheets provided.
+
+
+---
+
+         d. Do not expose cartridges to direct sunlight, extreme temperatures, flame, or
+         other sources of heat.
+         e. Cartridges must be shielded from small-arms fire.
+         f. Store WP-loaded cartridges at temperatures below 111.4 degrees Fahrenheit
+         (44.1 degrees centigrade) to prevent melting of the WP filler. If this is not
+         possible, WP-loaded cartridges must be stored fuze-end up so that WP will
+         resolidify with the void space in the nose end of the cartridge (after temperature
+         returns below 111.4 degrees Fahrenheit [44.1 degrees centigrade]). Failure to
+         observe this precaution could result in rounds with erratic flight.
+         g. Store WP-loaded ammunition separate from other types of ammunition.
+         h. Notify EOD of leaking WP cartridges. Avoid contact with any cartridges that
+         leak.
+         i. Protect the primer of cartridges during handling.
+         j. Do not handle duds other than when performing misfire procedures.
+7-33. FUZES
+The fuzes used with cartridges for the 120-mm mortar are described in the following
+paragraphs.
+         a. M776 MTSQ Fuze (Figure 7-15).
+
+                                  Figure 7-15. M776 MTSQ fuze.
+                  (1) Functions: Air burst or impact.
+                  (2) Settings: Six to 52 seconds.
+                  (3) Remarks: The fuze has a mechanical arming and timing device,
+                  expulsion charge, and safety wire or pin.
+
+
+---
+
+b. M935 PD Fuze (Figure 7-16).
+
+                           Figure 7-16. M935 PD fuze.
+         (1) Functions: Impact.
+         (2) Settings: Superquick or 0.05-second delay action.
+         (3) Remarks: The fuze has a safety wire.
+c. M734 Multioption Fuze (Figure 7-17).
+
+                    Figure 7-17. M734 multioption fuze.
+         (1) Functions: Proximity or impact.
+         (2) Settings: PRX, NSB, IMP, or DLY.
+         (3) Remarks: The fuze can be set by hand.
+d. M745 PD Fuze (Figure 7-18).
+
+
+---
+
+                                    Figure 7-18. M745 PD fuze.
+                  (1) Functions: Impact.
+                  (2) Settings: None.
+                  (3) Remarks: The fuze functions on impact with superquick action only.
+                  The markings (PRX, NSB, IIMP, and DLY) are dummy settings. Rotation
+                  of the fuze head does not alter the function mode.
+7-34. SETTING FUZES
+The following paragraphs describe how to set fuzes for different functions.
+         a. M935 PD Fuze (Figure 7-19).
+
+                            Figure 7-19. Setting the M935 PD fuze.
+                  (1) Superquick setting.
+
+                            (a) These fuzes are shipped preset to function superquick on
+                            impact.
+                            (b) Verify the setting before firing. The selector slot should be
+                            aligned with the SQ mark.
+                  (2) Delay setting.
+
+
+---
+
+                            (a) Turn the selector slot in a clockwise direction until the slot is
+                            aligned with the DLY mark.
+                            (b) Use a coin or a flat-tip screwdriver to change settings.
+         b. M776 (DM93) MTSQ Fuze (Figure 7-20).
+
+                    Figure 7-20. Setting the M776 (DM93) MTSQ fuze.
+                  (1) Rotate the head of the fuze to the left (counterclockwise) until the
+                  inverted triangle or index line is aligned with the correct line and number
+                  of seconds of the time scale.
+                  (2) Use the fuze setter to rotate the head of the fuze.
+Note: Once the desired setting has been passed, continue counterclockwise to reach the
+         desired setting. Try to index the desired setting in as few rotations as possible.
+                  (3) See the firing table for the correct time setting.
+                  (4) Remove the fuze safety pin or wire before firing.
+         c. M745 PD Fuze. No setting is required. The fuze functions on impact with
+         superquick action only. Disregard the markings (PRX, NSB, IMP, and DLY) on
+         the fuze head.
+         d. M734 Multioption Fuze (Figure 7-21). Fuze can be set by hand by rotating the
+         fuze head (clockwise) until the correct marking (PRX, NSB, IMP, or DLY) is
+         over the index line.
+
+
+---
+
+                     Figure 7-21. Setting the M734 multioption fuze.
+
+              • PRX--Proximity. The fuze comes set to PRX. Burst height is 3 to 13 feet
+                  (1 to 4 centimeters).
+
+              • NSB--Near surface burst (nonjamming). Burst height is 0 to 3 feet (0 to 1
+                  meter).
+
+              • IMP--Impact (superquick).
+              • DLY--Delay (0.050 seconds).
+
+7-35. RESETTING FUZES
+
+T his paragraph describes how to reset fuzes.
+
+         a. M935 PD Fuze. Align the selector slot with the SQ mark.
+
+         b. M776 MTSQ Fuze. Rotate the head of the fuze (counterclockwise) until the
+         safe line (S or inverted triangle of the time scale) is aligned with the index line of
+         the fuze body. Replace the safety wire.
+
+         c. M754 Multioption Fuze. Rotate the fuze head (counterclockwise) until the
+         PRX marking is over the index line.
+
+         d. M745 PD Fuze. No resetting is required.
+
+
+---
+
+                                       CHAPTER 8
+
+    FIRE WITHOUT A FIRE DIRECTION CENTER
+
+         The use of the target-grid method of fire control may not always be
+         possible or desirable for placing fire on a target. Communications failure,
+         casualties from enemy fire, lack of equipment, or the tactical situation may
+         require that one or more mortars be employed without an FDC.
+
+                                  Section I. FIRE PROCEDURES
+
+When the squads are under squad control, the FO or squad leader observes the target
+area, and adjusts and controls the fire by commands that are sent directly to the mortar
+crew. Employment of mortars without an FDC is only temporary--the FDC should be
+established as soon as possible.
+
+8-1. ADVANTAGES AND DISADVANTAGES
+
+Some of the advantages and disadvantages of operating without an FDC are discussed
+herein.
+
+         a. Advantages of operating without an FDC include:
+
+              • Speed in engaging a target.
+              • Better response to commanders.
+              • Fewer requirements for personnel and equipment.
+
+         b. Disadvantages of operating without an FDC include:
+
+              • The limited movement capability of the FO.
+              • The difficulty of massing or shifting fires on all targets within the range of
+
+                  the mortar.
+              • The necessity of locating the mortar position too far forward, where it is
+
+                  subject to enemy fire delivered on the friendly frontlines.
+              • Greater ammunition resupply problems.
+
+8-2. FIRING DATA
+
+The direct-alignment or direct-lay methods can be used to lay the mortar for direction.
+Initial range can be determined by--
+
+    • Eye estimation.
+    • Map, photographic map, or aerial photograph.
+    • Mil-relation formula.
+
+
+---
+
+8-3. OBSERVER CORRECTIONS
+
+In fire without an FDC, the FO makes corrections differently than when operating with
+an FDC. He makes all his deviation corrections with respect to the gun-target (GT) line
+rather than with respect to the observer-target (OT) line. All deviation corrections are sent
+in mils or turns of the traversing handwheel.
+
+         a. Forward Observer Within 100 Meters of Mortar Position. The best FO
+         location for rapid fire adjustment on the mortar is at the mortar position.
+
+                  (1) The tactical employment of the mortar usually requires the FO to be in
+                  a position other than at the mortar. However, if the FO is located within
+                  100 meters of the mortar position, the deviation error he reads in his
+                  binoculars can be applied directly to the sight without computation. This is
+                  true because the angle between the observer-burst line and OT line is
+                  equal to the angle between the mortar-burst line and GT line. Any slight
+                  difference between these two angles is compensated for by the inherent
+                  dispersion of the weapon and the bursting area of the round.
+
+                  (2) For example, if the FO from a position within 100 meters of the mortar
+                  location observes the burst to the left of the target and reads that it is 40
+                  mils left on the mil scale of his binoculars, he orders a correction of
+                  RIGHT FOUR ZERO. This correction is sent to the mortar in mils and is
+                  not converted to meters. The gunner applies this correction directly to the
+                  previous deflection setting using the LARS (left add, right subtract) rule.
+
+         b. Forward Observer More Than 100 Meters From Mortar Position.The FO
+         cannot always be located within 100 meters of the mortar position.
+
+                  (1) When the FO cannot locate within 100 meters of the mortar position,
+                  he must be within 100 meters of the gunXtarget line (Figure 8-1). This
+                  might prevent him from visualizing the gun-target line and getting within
+                  100 meters of it. If the FO is attacking targets over a wide frontage, he
+                  would be required to move often but with limited movement. Therefore,
+                  the angle that exists between the mortar-burst line and GT line is not equal
+                  to the angle that exists between the observer-burst line and OT line--
+                  computations must be made to correct these differences.
+
+                  (2) For example, if the FO is halfway between the mortar and target, the
+                  correction to be made on the sight is one-half his deviation spotting; if the
+                  mortar is half-way between the FO and the target, the correction is twice
+                  his deviation spotting. As other distances give other ratios, a correction
+                  factor must be applied to the number of mils spotted before ordering a
+                  deflection change. This factor is a fraction, the numerator of which is the
+                  OT distance and the denominator of which is the GT distance.
+
+
+---
+
+                            EXAMPLE:
+                                     If the distance from the FO to the target is 1,000 meters, the
+                                     GT distance is 1,200 meters, and the deviation of the burst
+                                     from the target, as read by the FO, is 60 mils (Figure 8-1),
+                                     the correction is--
+                                              1,000
+                                              1,200 (or 5/6) x 60 mils = 50 mils
+                                     In applying this factor, simplicity and speed are important.
+                                     The distances used should be to the nearest 100 meters.
+
+Figure 8-1. Observer more than 100 meters from mortar but within 100 meters of
+                                                  GT line.
+
+8-4. INITIAL FIRE COMMANDS
+Initial fire commands contain the necessary data to lay the mortars and fire the first
+round. The sequence for transmission of the initial fire command is as follows:
+
+    • Mortars to follow.
+    • Type of projectile and fuze.
+    • Mortars to fire.
+    • Method of fire.
+    • Deflection.
+    • Charge.
+    • Time setting.
+    • Elevation.
+8-5. FIRE COMMANDS
+Fire commands originate with the squad leader at the observation post when mortars are
+employed without an FDC.
+
+
+---
+
+a. Normal Fire Commands. The commands used in observed fire procedures
+without an FDC follow the procedure outlined above with the following
+exceptions:
+
+         (1) Direction. When operating without an FDC, the FO gives the direction
+         as a shift from a known point (normally the registration point) in the initial
+         fire command. In subsequent commands, he gives the deflection
+         correction from the last round fired. For example, during an adjustment
+         the FO requests moving the next burst right 50 mils. Regardless of the
+         sight setting, his command for deflection is RIGHT FIVE ZERO. The
+         gunner applies the LARS rule to obtain the deflection to be placed on the
+         sight. The sight has a deflection setting of 20 mils; therefore, the gunner
+         subtracts 50 mils from 20 mils and obtains the new sight setting of 3150
+         mils. Normally, when the registration has been completed, the aiming
+         posts are placed out on a referred deflection.
+
+         (2) Elevation (range). The FO may refer to a firing table, determine the
+         charge and elevation (in mils) corresponding to the GT range, and
+         announce this charge and elevation in his fire command. He may,
+         however, announce the range in meters and have the gunner refer to a
+         firing table to determine the charge and elevation.
+
+b. Modified Fire Commands. Modified fire commands differ from normal fire
+commands only in that the deflection and elevation changes in subsequent
+commands are given as turns of the traversing handwheel and elevating crank.
+
+         (1) The advantages of modified fire commands are speed and simplicity of
+         execution by the gunner. One turn of the traversing handwheel is equal to
+         about 10 mils of deflection, and unabridged firing tables have a column
+         for the number of turns of the elevation crank to change the range 100
+         meters. When using modified fire commands, deflection and elevation
+         changes are computed to the nearest quarter turn. When the FO anticipates
+         using modified fire commands involving turns of the elevating crank, he is
+         required to announce the range element of the initial fire command as a
+         charge and elevation. This ensures that the FO and gunner are working in
+         the same charge zone, since the number of turns required to move the
+         burst of a round a given distance on the ground can vary considerably
+         between two charge zones.
+
+         (2) The gunner lays the mortar for direction and elevation as given in the
+         initial fire command; he does not need to refer to a firing table. Following
+         the initial fire command, the gunner makes no attempt to align the sight on
+         the aiming point or to level the elevation bubble. He makes the corrections
+         by taking the turns given in the subsequent commands and keeping the
+         cross-level bubble centered. If the gunner can no longer traverse in the
+         desired direction, he should be able to align the sight on the aiming point,
+
+
+---
+
+to center the traversing bearing, to relay on the aiming point, and to
+resume traverse.
+
+(3) In computing the number of turns of the elevation crank between two
+elevations in mils (taken from the firing table), the FO subtracts the
+smaller elevation from the larger and divides by 10 (one turn of the
+elevating crank being equal to about 10 mils of elevation). In the ladder
+method and bracketing method of adjustment for range, once the FO has
+obtained a bracket on the target, he does not need the firing table. He
+continues the adjustment by halving the number of turns of the elevating
+crank that established the preceding bracket.
+
+         EXAMPLE:
+
+MODIFIED FIRE     NORMAL FIRE
+COMMANDS          COMMANDS
+
+RIGHT FOUR TURNS  RIGHT FOUR ZERO
+DOWN NINE TURNS   ONE SEVEN ZERO
+LEFT TWO TURNS    ZERO
+UP FOUR AND ONE-  LEFT TWO ZERO
+HALF              ONE SIX ZERO ZERO
+
+   TURNS          RIGHT ONE ZERO
+RIGHT ONE TURN    ONE SIX FIVE ZERO
+DOWN TWO TURNS    THREE ROUNDS
+THREE ROUNDS      ONE SIX TWO FIVE
+UP ONE TURN
+
+In this example, the first round burst between the FO and target. In
+a different example, assume that the first round was fired at a range
+of 900 meters and burst beyond the target. The FO wants to DROP
+ONE ZERO ZERO (100) for the next round and gives a modified
+
+fire command in turns of the elevating crank. Using charge 1, the
+elevation for the first round at 900 meters is 1275 mils. The
+elevation for a range of 800 meters is 1316 mils. Subtracting 1275
+mils from 1316 mils gives a difference in elevation for the two
+ranges of 41 mils, or 4 turns. Therefore, the subsequent command
+to fire the second round is UP FOUR TURNS. The second round
+now bursts short of the target, establishing a bracket. The FO
+desires to split the bracket and commands, DOWN TWO TURNS,
+or one-half the number of turns that he previously gave to bracket
+the target. With this command, the FO is splitting a 100-meter
+bracket and could specify an FFE if he was engaging a tactical area
+target.
+
+
+---
+
+8-6. FIRE CONTROL
+
+The FO controls the fire from an observation post, issuing fire commands directly to the
+mortar crew. He may select an OP close enough to the mortar so that he can give his fire
+commands orally to the mortar crew. When the OP is not close to the mortar position, the
+FO uses a telephone or radio to transmit fire commands.
+
+8-7. MOVEMENT TO ALTERNATE AND SUPPLEMENTARY POSITIONS
+
+When time or the situation dictates, the mortar may be moved to both alternate and
+supplementary positions, and registered on the registration point, final protective fire (in
+the defense), and as many targets as possible.
+
+8-8. SQUAD CONDUCT OF FIRE
+
+Conduct of fire includes all operations in placing effective fire on a target--for example,
+the FO’s ability to open fire when he desires, to adjust fire, to determine the distribution
+of fire upon the target, to shift fire from one target to another, and to regulate the kind and
+amount of ammunition expended. Quick actions and teamwork of squad members are
+required.
+
+         a. The normal sequence of instruction is on the 1,000-inch range, followed by the
+         training shell range, and, finally, in the field with practice or combat ammunition.
+
+         b. To ensure maximum efficiency, each squad member is acquainted with the
+         principles of technique of fire for each type of adjustment and FFE. Frequent
+         rotation of duty helps squad members to better understand this technique of fire.
+         The FO is trained in all methods and techniques used in bringing effective fire on
+         a target as quickly as possible.
+
+8-9. REFERENCE LINE
+
+The normal method of establishing initial direction when operating without an FDC is the
+direct-alignment method. After the initial direction has been established, the FO should
+conduct a registration on his registration point using only the direction stake as a
+reference point. After registration is completed, a reference line should be established by
+placing out aiming posts on a referred deflection, which then becomes the registration
+point or base deflection.
+
+8-10. FIRE ADJUSTMENT
+
+The FO normally adjusts fire by the bracketing or creeping method. He makes his
+spottings and gives his corrections with respect to the OT line. An off-line burst is
+brought to the OT line by applying a correction, which is determined by multiplying the
+observed deviation in mils by the estimated OT distance in thousands of meters (the
+deflection conversion table may also be used to determine this correction). The deviation
+
+
+---
+
+correction is sent to the FDC as RIGHT or LEFT. Bursts are kept graphically on the OT
+line by the FDC. The FO sends range corrections in meters to the FDC. When using the
+bracketing method of adjustment, the FO determines range corrections along the OT line
+by seeking an initial range bracket and thereafter successively splitting the bracket until
+the correct range is determined. When using the creeping method, the FO proceeds as
+discussed in Section IV.
+
+8-11. SQUAD USE OF ILLUMINATION AND SMOKE
+
+Illumination is designed to assist friendly forces with light for night operations. Smoke is
+used to obscure the enemy’s vision for short periods.
+
+         a. Use of Smoke. After careful evaluation of the terrain and weather, the FO
+         locates a point on the ground where he wishes to place a flank on his screen. For
+         example, if a flanking wind prevails, the FO normally locates the point of impact
+         in front of the target and upwind. If necessary, the FO adjusts fire to determine the
+         correct location of this point. For a screening mission, splitting a 100-meter
+         bracket is normally sufficient.
+
+         b. Use of Illumination. Control over the use of infantry mortar illuminating
+         rounds is exercised by the battalion commander after coordination with adjacent
+         units through the next higher headquarters. The correct relative position of the
+         flare to the target depends upon the wind and terrain. The point of burst is so
+         placed as to give the most effective illumination on the target and to make sure
+         that the final travel of the flare is not between the FO and target. It is not
+         necessary to adjust the round directly over the target due to the wide area of
+         illumination.
+
+                  (1) If there is a strong wind, the point of burst must be placed some
+                  distance upwind from the target so the flare drifts to the target location.
+                  The flare should be slightly to one flank of the target and at about the
+                  same range. When the target is on the forward slope, the flare is placed on
+                  the flank and at a slightly shorter range.
+
+                  (2) For adjustment on a prominent target, better visibility is obtained by
+                  placing the flare beyond the target to silhouette it and to prevent
+                  adjustment on the target’s shadow. When firing continuous illumination, a
+                  strong wind can decrease the time interval between rounds. For maximum
+                  illumination, the flare is adjusted to burn out shortly before reaching the
+                  ground.
+
+8-12. ATTACK OF WIDE TARGETS
+
+To attack wide targets, the FO must use distributed FFE. In distributed FFE, the gunner
+fires a specified number of rounds but manipulates the mortar for range or deflection
+between each round. Distributed fire on wide targets is called traversing fire. To place
+
+
+---
+
+traversing fire on a target, the FO must adjust fire on one end of the target, normally the
+end nearest to a known point.
+
+         a. After adjustment, the FO determines the width of the target in mils by using the
+         mil scale in the binoculars, or by reading an azimuth to each end and subtracting
+         the smaller from the larger. He then divides the mil width by 10, which is the
+         number of mils that one turn of the traversing handwheel moves the mortar. This
+         determines the number of turns needed to traverse across the target (computed to
+         the nearest one-half turn).
+
+         b. In computing the number of rounds, the FO divides the width of the target by
+         the bursting area of the round. He then divides the total number of turns by the
+         number of intervals between the rounds to be fired to determine the number of
+         turns between rounds (computed to the nearest one-half turn). There will always
+         be one less interval than the number of rounds fired in the FFE phase.
+
+         c. After adjustment and before issuing the subsequent fire command, the FO must
+         tell the gunner to prepare to traverse right or left. The gunner traverses the mortar
+         all the way in the direction commanded and then back two turns (four turns on
+         M120) on the traversing handwheel. With the aid of the assistant gunner, the
+         gunner moves the bipod legs until he is approximately re-laid on his aiming posts.
+         Using the traversing mechanism, the gunner then completes realigning the mortar
+         and announces, "Up."
+
+         d. When the mortar is laid, the FO issues his subsequent fire command,
+         announcing the number of rounds to be fired and the amount of manipulation
+         between each round.
+
+         e. In Figure 8-2, the FO measures the width of his target to be 75 mils. Using a
+         map, he estimates the range to be 2,200 meters. Using the mil relation formula, he
+         determines the width of the target to be 165 meters and decides to attack the target
+         with seven rounds. There will be six intervals between the seven rounds. Since the
+         target is 75 mils wide, he determines the number of turns to be 7 1/2 turns. To
+         determine the number of turns between rounds, he divides the number of turns by
+         the number of intervals (7 1/2 divided by 6 = 1.07). This is rounded off to the
+         nearest one-half turn (1 turn).
+
+
+---
+
+                                    Figure 8-2. Traversing fire.
+
+Note : When determining the rounds for FFE, the FO applies the following rule: one
+         round for each 30 meters and four rounds for each 100 meters.
+
+8-13. ATTACK OF DEEP TARGETS
+
+The FO uses searching fire to place effective fire on deep targets (Figure 8-3). To engage
+a deep target, the FO must adjust on one end of the target, normally the far end. When the
+FO anticipates using searching fire, he announces the range as a charge and elevation.
+(See FM 23-91 for information on zone fires.)
+
+
+---
+
+                           Figure 8-3. Searching fire.
+
+a. After adjustment is completed on one end of the target, the FO estimates the
+range to the other end of the target. Use of the firing table determines the number
+of turns of the elevating crank needed to change the range 100 meters. If the FO
+does not have this information, he can decide the number of turns by determining
+the difference in elevation in mils that exists between the two ranges. He divides
+this difference by 10 to determine the number of turns needed on the elevating
+crank to cover the target.
+
+b. The FO must then determine the number of rounds to be fired. Usually five
+rounds covers an area 100 meters deep, except at long ranges where dispersion is
+greater. Once he has determined the number of rounds to be fired, he determines
+the number of intervals between rounds. There will always be one less interval
+than the number of rounds fired.
+
+c. The FO then divides the total number of turns required by the total number of
+intervals to determine the number of turns the gunner must make between each
+round (compute to the nearest one-half turn).
+
+         EXAMPLE:
+
+                  If the FO has adjusted to the far end of the target and found it to be
+                  1,000 meters, he estimates the near edge of the target to be 950
+                  meters. By using the firing table, he determines that he must make
+
+
+---
+
+                            five turns of the elevating crank to change the range 100 meters.
+                            Since the FO only wants to make a 50-meter change, he makes
+                            only half of the turns, which is 2 1/2 turns. If he did not have this
+                            information, he would determine that there is a 23-mil difference
+                            in elevation for the two ranges (elevation 1231 mils for range
+                            1,000 meters, and elevation 1254 mils for range 950) and, by
+                            dividing by 10, that it would require two turns of the elevating
+                            crank.
+
+                            The FO has determined that he will use three rounds to attack the
+                            target. There will be one interval between the two rounds fired.
+                            Then the FO divides the total number of turns required by the
+                            number of intervals, and rounds off the answer to the nearest one-
+                            half turn.
+
+                                     2 1/2 ÷ 1 (interval) = 2 1/2 turns between rounds
+
+                            The FO is now ready to send the subsequent fire command to the
+                            gunner. The commands are:
+
+                                     TWO ROUNDS
+                                     SEARCH UP TWO AND ONE-HALF TURNS
+                                     ELEVATION ONE TWO THREE ONE (1231)
+
+                            The gunner is told to search in the direction that the barrel moves.
+                            For this example, the barrel moves from 1231 mils to 1254 mils of
+                            elevation; therefore, the command is SEARCH UP.
+
+                               Section II. DIRECT-LAY METHOD
+
+In the direct-lay method of emplacing a mortar, the gunner sees the target through the
+mortar sight. No directional or aiming posts, FO, or FDC is used. The firing table should
+be used to try to obtain a first-round hit. If the first-round hit is not achieved, the firing
+table should be used to obtain a bracket. Depending on the location of friendly troops to
+the target, the bracket method, modified ladder method, or creeping method of
+adjustment apply.
+
+8-14. STEP 1: INITIAL FIRING DATA
+
+The elevation setting and charge selected should be obtained from a firing table. In the
+absence of a firing table, they can be determined through unit SOP or by other expedient
+techniques such as memorizing charge and elevation for 1,000, 2,000, and 3,000 meters;
+and firing with the charge and elevation setting closest to the estimated target range.
+
+         a. Determine initial range by--
+
+
+---
+
+              • Estimating.
+              • Using maps, photographic maps, and so on.
+              • Intersecting.
+
+Note : When using the 4.2-inch mortar, the gunner must add drift to the sight after
+         laying on the center of the target.
+
+         b. Place a 3200-mil deflection on the sight, and lay on the center of the target.
+         With the appropriate elevation setting on the sight, center all bubbles by adjusting
+         the lay of the barrel. Take appropriate actions to preclude damage to the sight and,
+         with established charges, fire the first round. Replace the sight, if needed, and
+         observe the burst of the round.
+
+8-15. STEP 2: REFERRING THE SIGHT
+
+Referring the sight centers the vertical line of the sight reticle on the burst.
+
+         a. If the burst is over the target, turn the elevating crank up 4, 8, or 16 turns (8, the
+         median, gives a significant change without becoming extreme), depending on the
+         gunner’s sensing of the round, range to the target, and other possible factors. If
+         the burst is short, turn the elevating crank down 4, 8, or 16 turns.
+
+         b. Turn the sight elevation micrometer knob to center the elevation bubble. (If the
+         deflection change requires a bipod displacement, the desired range change is
+         maintained.)
+
+         c. Re-lay the barrel on center of target (centering both bubbles by adjusting the
+         barrel. Fire the second round and observe the burst.
+
+Note : Any alternate method of correction for range is to use the firing table.
+
+8-16. STEP 3: BRACKETING THE TARGET
+
+If the second round is a line shot and brackets the target, the bracket is split by changing
+the elevation of the barrel half the number of turns used in STEP 2. (If in STEP 2 the
+barrel was cranked up eight turns, now crank down four.) The third round is fired.
+
+         a. If the second round is not a line shot but does bracket the target, refer the sight
+         to center of burst and split the bracket by changing the elevation of the barrel half
+         the number of turns used in STEP 2. Change the sight to the center elevation
+         bubble, and then re-lay the barrel on center of target (centering both bubbles by
+         changing the lay of the barrel).
+
+         b. If the second round is not a line shot and does not bracket the target, repeat
+         STEP 2 until a bracket is obtained.
+
+
+---
+
+8-17. STEP 4: FIRE FOR EFFECT
+
+The appropriate actions of STEP 3 are repeated until an effect on the target is seen, then
+mortars fire for effect.
+
+         a. After obtaining hits, change the sight to center the elevation bubble and vertical
+         line of the sight reticle on the target, then record these data. Number the target and
+         retain the number along with appropriate firing data. The mortar can be taken out
+         of action, moved a short distance, and placed back into action with the mortar able
+         to quickly and accurately attack the recorded target or other close targets.
+
+         b. If fired upon during any of the above steps, the mortar can be displaced 75 to
+         100 meters with minimal effect on the fires as long as the elevation setting for the
+         last round fired has been recorded or memorized. Once in the new position, use
+         the recorded/memorized data as a starting point and then complete the interrupted
+         step.
+
+                         Section III. DIRECT-ALIGNMENT METHOD
+
+When the FO/squad leader prepares the initial firing data, he uses the quickest and
+simplest method available. Initial data consist of a direction of fire and mortar-target
+range.
+
+8-18. MORTAR DISMOUNTED
+
+If the mortar is dismounted, the squad leader moves to a vantage point where he can see
+the targets and places out an aiming post. He directs a member of the mortar squad to
+place out a second aiming post (to be used as a baseplate assembly stake), aligning it with
+the first aiming post and target. The mortar crew mounts the mortar at the baseplate
+assembly stake, places 3200 mils deflection on the sight, and traverses the mortar,
+aligning the sight on the aiming post placed out by the squad leader. The gunner uses this
+aiming post as an aiming point or he may place out other aiming posts to be used as
+aiming points.
+
+8-19. MORTAR MOUNTED
+
+If the mortar is mounted, the squad leader moves to a vantage point on a line between the
+mortar and target. He places out an aiming post (direction stake) on which the gunner
+lays the mortar with the deflection set at 3200. The gunner uses this aiming post as an
+aiming point or he may place out other aiming posts to be used as aiming points.
+
+Note: The squad leader can also move to a vantage point behind the gun.
+
+8-20. NATURAL OBJECT METHOD
+
+
+---
+
+When the tactical situation does not permit alignment of aiming posts and the mortar is
+rapidly placed into action, the squad leader can establish the mounting azimuth as
+follows: He selects an object with a clearly defined vertical edge that is situated in the
+general direction of fire. He directs the gunner to mount and lay the mortar on the edge of
+this object with the deflection scale set at 3200 mils. By using the aiming point as a
+reference point, he can place fire on a target to the right and left by determining the angle
+in mils between the aiming point and target. He directs the gunner to place the
+corresponding deflection on the mortar using the LARS rule.
+
+                             Section IV. ADJUSTMENT OF RANGE
+
+The normal procedure for the adjustment of range is the establishment of a bracket along
+the OT line. A bracket is established when one group of rounds falls over and one group
+of rounds falls short of the adjusting point. The FO must establish the bracket early in the
+adjustment and then successively decrease the size of the bracket until it is appropriate to
+enter FFE.
+
+8-21. RANGE SPOTTINGS
+
+Definite range spottings are required to make a proper range adjustment. Any range
+spotting other than DOUBTFUL or LOST (UNOBSERVED) is definite.
+
+         a. Definite range spottings include:
+
+              • A burst or group of bursts on the OT line.
+              • A burst(s) not on the OT line by using a knowledge of the terrain, drifting
+
+                  smoke, shadows, and wind; caution and good judgment are required.
+              • The location of the burst fragmentation pattern on the ground.
+
+         b. Possible range spottings include:
+
+                  (1) Over. A burst that appears beyond the adjusting point.
+
+                  (2) Short. A burst that appears between the FO and adjusting point.
+
+                  (3) Target. A round that bursts within the target area.
+
+                  (4) Range correct. A burst or center of a group of bursts that is at the
+                  proper range.
+
+                  (5) Doubtful. A burst that can be observed but cannot be determined as
+                  over, short, target, or range correct.
+
+                  (6) Lost over (short). A burst that is not observed but known to be
+                  definitely beyond or short of the adjusting point.
+
+
+---
+
+8-22. MISCELLANEOUS SPOTTINGS
+
+Miscellaneous spottings are described herein.
+
+         a. Lost. A burst is lost when its location cannot be determined. Lost rounds must
+         be reported to the FDC, and a bold shift in deviation or range should be made.
+
+         b. Erratic. A round that varies greatly from normal behavior is classified as an
+         erratic round.
+
+8-23. BRACKETING METHOD
+
+When the first definite range spotting is obtained, the FO should make a range correction
+that is expected to result in a range spotting in the opposite direction--for example, if the
+first definite range spotting is SHORT, the FO should add enough to get an OVER with
+the next round. The inexperienced FO should use the following guide to determine the
+initial range change to establish a bracket (Figure 8-4).
+
+
+---
+
+Figure 8-4. Bracketing method.
+
+OT DISTANCE            MINIMUM
+Up to 999 meters  RANGE CHANGE
+                  (ADD OR DROP)
+
+                       100 meters
+
+
+---
+
+Over 1,000 to 1,999 meters  200 meters
+2,000 meters and over       400 meters
+
+         a. Once a bracket has been established, it is successively decreased by splitting it
+         in half until it is appropriate to enter FFE. FFE is usually requested in area fire
+         when a 100-meter bracket is split.
+
+         b. The FO must use his knowledge of the terrain, knowledge gained from
+         previous firing, general experience, and good judgment in determining the size of
+         the initial and subsequent range changes. For example, if the FO adds 800 after an
+         initial range spotting of SHORT and the second range spotting is OVER but the
+         bursts are much closer to the adjusting point than the initial rounds, a range
+         change of DROP 200 would be appropriate.
+
+8-24. CREEPING METHOD OF ADJUSTMENT
+
+When danger-close mission is requested, the creeping method of adjustment is used.
+When the FO requests an adjustment on a target that is within 400 meters of friendly
+troops, he adds a 200-meter safety factor to ensure that the first round does not fall short.
+When the initial round is spotted, he estimates the overage in meters. He then makes the
+correction for range by dropping half of the estimated overage. Once he has given a
+correction of DROP FIVE ZERO (50), he continues a DROP FIVE ZERO (50) until he
+has either a RANGE CORRECT or TARGET or SHORT spotting. If, during the
+adjustment, a round falls short of the target, the FO continues the adjustment using the
+bracket method of adjustment.
+
+8-25. NORMAL FIRE COMMANDS
+
+The commands used in conduct of fire without an FDC follow the procedures discussed
+in paragraphs 8-4 and 8-5 with the following exceptions:
+
+         a. Deflection (Direction). When operating without an FDC, the FO normally
+         gives the deflection as a shift from a known point in the initial fire command. In
+         subsequent commands, he gives the deflection correction from the last round
+         fired. For example, during an adjustment an FO desires to move the next burst 50
+         mils right. Regardless of the sight setting, his command for deflection is RIGHT
+         FIVE ZERO. The gunner arrives at the deflection to be placed on the sight by
+         applying the LARS rule.
+
+         b. Elevation (Range). The FO may refer to a firing table to determine the charge
+         and elevation corresponding to the gun-target range. He announces this charge
+         and elevation in his fire command. He may, however, announce the range in
+         meters and have the gunner refer to the firing table to determine the charge and
+         elevation. The gunner applies the deflection correction to the previous deflection
+
+
+---
+
+         setting, determines the charge and elevation for the given range on the firing
+         table, announces the charge to the first ammunition bearer, sets the elevation on
+         the sight, and then lays for elevation and deflection. After selecting a constant
+         elevation, the FO announces the charge for only range changes.
+
+8-26. MODIFIED FIRE COMMANDS
+
+The deflection and range changes in subsequent commands differ from usual fire
+commands in that they are given as turns of the traversing crank and changes in charge.
+The advantages of modified fire commands are speed and simplicity of execution by the
+gunner.
+
+         a. One turn of the traversing crank is equal to about 10 mils of deflection, while
+         three-eighths of a charge is equal to about 50 meters change in range. When using
+         modified fire commands involving changes in range, the FO announces the range
+         element of the initial fire command as charge and elevation. This ensures that the
+         squad leader and gunner are working with the same constant elevation.
+
+         b. The gunner lays the mortar for direction and elevation as given in the initial fire
+         command. He does not need to refer to a firing table for the remainder of the
+         mission. Following the initial fire command, he makes no attempt to align the
+         sight on the aiming point. Corrections for deviation are made by applying the
+         turns given in the subsequent commands. Range changes for the 4.2-inch mortar
+         are made by varying the number of propellant increments (charges).
+
+         c. In the bracketing method and ladder method of adjustment, once the FO obtains
+         a bracket on the target, he does not need a firing table. He continues the
+         adjustment by splitting successively the charge difference that established the
+         preceding bracket.
+
+8-27. FIRE CONTROL
+
+The squad leader controls the fire from an OP, issuing fire commands directly to the
+mortar crew. He may select an OP close to the mortar so that he can give his fire
+commands orally or by arm-and-hand signals. When the OP is not close to the mortar
+position, he uses a telephone or radio.
+
+8-28. ESTABLISHMENT OF A REFERENCE LINE AND SHIFTING FROM
+THAT LINE
+
+The normal method of establishing initial direction when operating without an FDC is the
+direct--alignment method. After initial direction has been established, the FO should
+conduct a registration using only the direction stake. After he completes this registration,
+he establishes the GT line as a reference line. This is accomplished by referring the sight
+to the desired deflection (usually 3200 mils) and then realigning the direction stake on
+
+
+---
+
+this deflection. The following is an example of the FO located within 100 meters of the
+mortar position.
+
+         a. An FO has adjusted the fire of his squad on a target. A reference line has been
+         established at 3200 mils on the azimuth scale. The FO observes another target and
+         decides to adjust onto it. He estimates the GT range to be 1,800 meters,
+         determines with his binoculars that the target is 60 mils to the right of the first
+         target or registration point, and issues an initial fire command:
+
+                  NUMBER ONE
+                  HE QUICK
+                  ONE ROUND
+                  THREE ROUNDS IN EFFECT
+                  FROM REGISTRATION POINT, RIGHT SIX ZERO (60)
+                  RANGE ONE EIGHT ZERO ZERO (800)
+
+         The gunner sets his sight with a deflection of 3200 mils and applies the LARS
+         rule (60 mils subtracted from 3200 mils equals a deflection of 3140). Looking at
+         the FT, he finds the charge to be 9 5/8 at elevation 0900. He announces the charge
+         to the ammunition bearer, and at the same time places the elevation on the sight.
+         He lays the mortar and commands, FIRE.
+
+         b. This first round bursts beyond the target and 20 mils to the left as shown in
+         Figure 8-5. The squad leader issues a subsequent fire command correcting the
+         deflection and decreasing the range between himself and the target, thereby
+         establishing a bracket. He commands, RIGHT TWO ZERO (20), RANGE ONE
+         SIX ZERO ZERO (1600).
+
+
+---
+
+Figure 8-5. Observer more than 100 meters from the mortar but within 100 meters
+                                             of the GT line.
+
+         c. The second round bursts between the FO and target and on the GT line as
+         shown in Figure 8-5. The deflection is now correct, and a 200-meter bracket has
+         been established. The squad leader’s subsequent fire command is RANGE, ONE
+         SEVEN ZERO ZERO (1700). The gunner selects the charge from his firing table,
+         announces the charge to the first ammunition bearer, and when all is ready he
+         commands, FIRE.
+
+         d. This third round bursts beyond the target and on the GT line (Figure 8-4). A
+         100-meter range bracket has now been established. In his next fire command, the
+         squad leader combines the adjustment with FFE:
+
+                  THREE ROUNDS
+                  RANGE, ONE SIX FIVE ZERO (1650)
+
+         e. The bursting area of these rounds and their normal dispersion cover the target
+         area with casualty-producing fragments. If the FFE fails to cover the target
+         adequately, the squad leader makes any necessary changes in deflection or range
+         and again orders FFE. This adjustment can also be fired using modified fire
+         commands.
+
+         f. Modified fire commands for this mission are as follows:
+
+
+---
+
+                  NUMBER ONE
+                  HE QUICK
+                  ONE ROUND
+                  THREE ROUNDS IN EFFECT
+                  FROM RP
+                  RIGHT SIX ZERO (60)
+                  CHARGE 9 5/8
+                  ELEVATION ZERO NINE ZERO ZERO (0900)
+
+                  RIGHT TWO TURNS
+                  CHARGE 8 4/8
+
+                  CHARGE 9
+
+                  THREE ROUNDS
+                  CHARGE 8 6/8
+
+8-29. LADDER METHOD OF ADJUSTMENT
+
+Since surprise is an important factor in placing effective fire on a target, any form of
+adjustment that reduces the time interval between the burst of the first round for
+adjustment and FFE is useful. The ladder method of adjustment, a modification of the
+bracketing method, reduces the time interval and permits FFE to be delivered rapidly.
+The ladder method may also be used by the FO when firing with an FDC (Figure 8-6).
+
+
+---
+
+                       Figure 8-6. Ladder method of fire adjustment.
+
+Note: In the following example, the FO is located within 100 meters of the mortar
+         position.
+
+         a. The FO measures the deviation of a target from the registration point as right 30
+         mils. He estimates the GT range to be 1,600 meters. The size of the ladder is
+         based on the minimum range change guide. To obtain a 200-meter ladder, the FO
+         adds 100 meters to this estimated range to establish one range limit for the ladder
+         and subtracts 100 meters from the estimated range to establish the other limit.
+         This should result in a ladder that straddles the target. Three rounds are fired in
+         this sequence: far, middle, and near at 10-second intervals. This helps the FO
+         make a spotting, since no burst is obscured by the dust and smoke from a
+         preceding burst. The FO checks his firing table to obtain the charge for the far
+         range, 1,700 meters (charge 9); the middle range, 1,600 meters (charge 8 4/8); and
+         the near range, 1,500 meters (charge 8), and issues the following initial fire
+         command:
+
+
+---
+
+         NUMBER ONE
+         HE QUICK
+         FIVE ROUNDS IN EFFECT
+         100-METER LADDER
+         FROM REGISTRATION POINT, RIGHT THREE ZERO (30)
+         ONE ROUND, CHARGE 9
+         ONE ROUND, CHARGE 8 4/8
+         ONE ROUND, CHARGE 8
+         ELEVATION ZERO NINE ZERO ZERO (0900)
+
+b. This method of fire element in the normal initial fire command for the ladder
+contains the word "ladder." The elevation element gives the constant elevation to
+conduct the mission. The word "ladder" tells the gunner that three rounds will be
+fired as follows: the first at the charge announced (far range), the second at the
+announced middle charge, and the third at the last announced charge. The gunner
+indexes his sight for deflection at the base deflection minus 30, while the first
+ammunition bearer prepares the rounds with the designated charges.
+
+c. The average deviation of all three rounds is left 30 mils. The target is bracketed
+between second and third bursts. The squad leader now has a 100-meter bracket
+of the target between 1,500 and 1,600 meters, and is ready to FFE. He issues the
+following subsequent fire command:
+
+         FIVE ROUNDS
+         RIGHT THREE TURNS
+         CHARGE 8 2/8
+
+
+---
+
+                                       CHAPTER 9
+
+                 GUNNER'S EXAMINATION
+
+         The gunner’s examination tests the proficiency of the gunner. It is also a
+         test of the three qualified assistants whom the candidate is allowed to
+         choose. The candidate’s success in the examination depends mainly on his
+         ability to work harmoniously with these assistants. The examining board
+         must consider this factor and ensure uniformity during the test. Units
+         should administer the gunner’s examination at least semiannually to
+         certify crew proficiency.
+
+                          Section I. PREPARATORY INSTRUCTION
+
+Preparatory instruction for the gunner’s examination teaches the soldier how to properly
+and accurately perform the gunner’s duties. The squad leader is responsible for this
+preparation instruction. In TOE units, squad members should be rotated within the squad
+so that each member can become proficient in all squad positions. Individual test scores
+should be maintained; squad scores should be determined and compared with other
+squads to build esprit de corps.
+
+9-1. METHODS OF INSTRUCTION
+
+The applicability method of instruction is used for the gunner’s examination.
+
+         a. The conditions and requirements of each step of the qualification course are
+         explained and demonstrated. Then each candidate is given practical work and is
+         constantly supervised by his squad leader to ensure accuracy and speed--accuracy
+         is stressed from the start; speed is attained through repetition.
+
+         b. The platoon leader/platoon sergeant monitors the instruction given by the squad
+         leaders within the platoon. Demonstrations are usually given to the entire group.
+         Also, squads perform practical work under the supervision of the squad leader.
+
+9-2. PRIOR TRAINING
+
+A soldier must be proficient in mechanical training, crew drill, and fire commands and
+their execution before he qualifies to take the examination.
+
+9-3. PREPARATORY EXERCISES
+
+The preparatory exercises for the gunner’s examination consist of training in those steps
+found in the qualification course. After sufficient preparatory exercises, candidates are
+
+
+---
+
+given the gunner’s examination. Those failing the examination should be retrained for
+testing at a later date.
+9-4. EXAMINING BOARD
+The examining board consists of one officer and two senior NCOs who are proficient
+with the weapon. Not more than one member is selected from officers who are assigned
+to the candidate’s organization. (The commander having authority to issue special orders
+appoints the board.) Scores are recorded on DA Form 5964-R (Gunner’s Examination
+Scorecard) (Figure 9-1). A blank copy of this form is located in the back of this
+publication for local reproduction on 8 1/2-inch by 11-inch paper.
+
+                   Figure 9-1. Example of completed DA Form 5964-R.
+9-5. LOCATION AND DATE
+Each unit armed with a mortar weapon system gives examinations semiannually. Other
+units may conduct examinations or allow their eligible members to take the qualification
+
+
+---
+
+tests at nearby stations. (The commander authorized to issue special orders determines
+the date of the examination.) The area selected should be on flat terrain consisting of soil
+that allows for aiming posts to be easily positioned at 50 and 100 meters from the station
+position.
+
+9-6. ELIGIBLE PERSONNEL
+
+The following personnel are eligible to take the examination:
+
+    • Commissioned officers and enlisted men assigned to a mortar unit.
+    • Commissioned officers and enlisted men whose duties require them to maintain
+
+         proficiency in the use of mortars, as determined by battalion and higher
+         commanders.
+
+9-7. QUALIFICATION SCORES
+
+A candidate’s earlier qualification ends when he is administered a record course with the
+mortar. He is classified according to his latest examination score as follows:
+
+• Expert gunner        90 - 100
+• First-class gunner   80 - 89
+• Second-class gunner  70 - 79
+• Unqualified          69 or less
+
+9-8. GENERAL RULES
+
+Conditions should be the same for all candidates during the test. The examining board
+ensures that information obtained by a candidate during testing is not passed to another
+candidate, and that candidates do not receive sight settings or laying of mortars left by a
+previous candidate.
+
+         a. Unit equipment should be used in the examination; however, it should be the
+         best available. Sight settings are considered correct when any part of the index
+         coincides with any part of the line of graduation of the required setting.
+
+         b. The left side of the aiming post is used for alignment. The elevation and cross-
+         level bubbles are considered centered when the bubbles are resting entirely within
+         the outer etched lines on the vials.
+
+         c. The candidate is permitted to traverse the mortar to the middle point of traverse
+         before each trial at laying the mortar, except at Station No. 5.
+
+
+---
+
+         d. In any test that calls for mounting or emplacing the mortar, either by the
+         candidate or the board, the surface emplacement is used. Digging is not allowed,
+         and the rear of the baseplate assembly is not staked.
+
+         e. In time trials, the candidate does not receive credit for the trial if he performs
+         any part of it after announcing, "Up."
+
+         f. The candidate selects his assistants from within his squad to participate in the
+         test. When squad members are unavailable for testing, the candidate may select
+         his assistants from outside the squad but from within his organization. The board
+         makes sure that no unauthorized assistance is given the candidate during the
+         examination.
+
+         g. A candidate is given three trials--one for practice and two for record. If he takes
+         the first trial for record, then he must take the second trial for record even if he
+         fails it. His credit score is the total of the two trials. When he fails in any trial
+         through the fault of an examiner, defective sight, mortar, mount, or other
+         instrument used, that trial is void and the candidate is given another trial as soon
+         as possible. If his actions cause the mortar to function unsatisfactorily during
+         testing, he receives no credit for that portion of the test.
+
+         h. When there is a mechanical failure and a mortar fails to maintain the lay after
+         the candidate announces, "Up," a board member twists or pushes the mortar
+         (taking up the play without manipulation) until the cross-level bubble is within the
+         two outer etched lines. He then looks through the sight and if the vertical line is
+         within two mils of the correct sight picture, the candidate is given credit for that
+         trial, as long as other conditions are met.
+
+         i. The candidate must repeat all commands. Commands should be varied between
+         trials, using even and odd numbers, and right and left deflections.
+
+                        Section II. GUNNER’S EXAMINATION WITH
+                                 GROUND-MOUNTED MORTAR
+
+This examination tests the gunner’s ability to perform basic mortar gunnery tasks with
+the ground-mounted mortar system.
+
+9-9. SUBJECTS AND CREDITS
+
+The examination consists of the following tests with maximum credit scores as shown.
+
+Mounting the mortar                              20 points
+Small deflection change                          20 points
+Referring the sight and realigning aiming posts  20 points
+Large deflection and elevation changes           20 points
+
+
+---
+
+Reciprocal laying                        20 points
+
+9-10. EQUIPMENT
+
+The recommended equipment needed for the five stations includes 5 mortars, 5 sights, 1
+aiming circle, 8 aiming posts, 5 stopwatches, and 16 filled sandbags or ammunition boxes
+(4.2-inch only).
+
+9-11. ORGANIZATION
+
+The organization prescribed in Table 9-1 is recommended for the conduct of the gunner’s
+examination. Variations are authorized, depending on local conditions and the number of
+men being tested.
+
+                                         EQUIPMENT
+
+STATION            PHASE       FOR CANDIDATE              FOR
+                                                     EXAMINING
+
+                                                       OFFICER
+
+1        Mounting the mortar.  1 mortar              1 stopwatch
+                               1 sight
+                               2 sandbags (4.2-inch
+                               only)
+                               1 baseplate stake
+
+2        Small deflection      1 mortar              1 stopwatch
+                               1 sight
+         change.               2 sandbags (4.2-inch
+                               only)
+                               2 aiming posts
+
+3        Referring the sight.  1 mortar              1 stopwatch
+                               1 sight
+                               4 sandbags (4.2-inch
+                               only)
+                               2 aiming posts
+
+4        Large deflection and  1 mortar              1 stopwatch
+                               1 sight
+         elevation change.     4 sandbags (4.2-inch
+                               only)
+                               2 aiming posts
+
+5        Reciprocal laying.    1 mortar              1 stopwatch
+
+
+---
+
+1 sight               1 aiming circle
+4 sandbags (4.2-inch
+only)
+2 aiming posts
+
+Table 9-1. Organization for conducting gunner's examination (ground-mounted).
+
+9-12. PROCEDURE
+
+The candidate carries his scorecard (Figure 9-1) from station to station. The evaluator at
+each station fills in the time, trial scores, and credit score, and initials the appropriate
+spaces.
+
+9-13. MOUNTING OF THE MORTAR
+
+The candidate is tested at station No. 1 on his ability to perform the gunner’s duties in
+mounting the mortar.
+
+         a. Equipment. Prescribed in Table 9-1.
+
+         b. Conditions. The candidate is directed to mount the mortar with his authorized
+         assistants. The conditions of the test are as follows:
+
+                  (1) (All mortars) The candidate arranges his equipment as outlined in
+                  Figures 9-2 through 9-6. The emplacement is marked before the
+                  examination.
+
+
+---
+
+Figure 9-2. Diagram of equipment layout and position of personnel for the gunner's
+                                 examination (4.2-inch mortar).
+
+
+---
+
+Figure 9-3. Diagram of equipment layout and position of personnel for the gunner's
+                            examination (81-mm mortar, M29A1).
+
+
+---
+
+
+
+---
+
+Figure 9-4. Diagram of equipment layout and position of personnel for the gunner's
+                             examination (81-mm mortar, M252).
+
+Figure 9-5. Diagram of equipment layout and position of personnel for the gunner's
+                                  examination (60-mm mortar).
+
+
+---
+
+Figure 9-6. Diagram of equipment layout and position of personnel for the gunner's
+                                 examination (120-mm mortar).
+
+
+---
+
+                  (2) (All mortars) The mortar sight is seated in its case with 3800 mils
+                  (3200 mils for the M64 sights) set on the deflection scale and 0800 mils
+                  set on the elevation scale, and the sightbox is closed and latched.
+
+                  (3) (4.2-inch only) The two sandbags or ammunition boxes are placed
+                  under the spade to prevent the baseplate assembly from tilting. They are in
+                  position at the start of the examination.
+
+                  (4) (4.2-inch only) The standard assembly is in low range at its lowest
+                  elevation, with the traversing assembly side traversed all the way to the
+                  right with the crank closed.
+
+                  (5) (4.2-inch only) The mortar locking pin is fully inserted and locked.
+
+                  (6) (All mortars except 4.2-inch) The candidate should examine the
+                  equipment before mounting.
+
+                  (7) (120-mm only) Traverse extension is locked and centered.
+
+         c. Procedure. The candidate is given two trials; his credit score is the total of
+         these two trial scores.
+
+                  (1) The candidate and his assistants take their positions. The candidate is
+                  instructed to mount the mortar at 3200 mils deflection and 900 mils
+                  elevation for the 4.2-inch mortar, or 3200 mils deflection and 1100 mils
+                  elevation for all other mortars.
+
+Note: When using the M53 series sightunit, the red deflection scale is used for all
+         laying procedures.
+
+                  (2) The evaluator points to the exact spot where the mortar is to be
+                  mounted. He indicates the initial direction of fire by pointing in that
+                  direction and gives the command ACTION, at which time the candidate
+                  begins mounting the mortar. After mounting the mortar, he should have
+                  3200 mils deflection and 900 mils elevation on the sight for the 4.2-inch
+                  mortar or 1100 mils elevation and 3200 mils deflection for all other
+                  mortars.
+
+                  (3) The assistants may manipulate the sight mount knob and elevation
+                  crank. They may center the connection for the mortar locking pin
+                  assembly, but they MUST NOT manipulate the sight for deflection or
+                  elevation settings.
+
+
+---
+
+         (4) When the test is completed, the candidate announces, "Up." Time is
+         charged against him from the command ACTION to the announcement
+         "Up."
+
+d. Scoring. Scoring procedures are as follows:
+
+         (1) The candidate receives no credit when the--
+
+              • Time exceeds 1 minute, 40 seconds (4.2 inch only); time exceeds 1
+                  minute and 15 seconds (120-mm only); time exceeds 90 seconds
+                  (all other mortars).
+
+              • Sight is not set correctly for deflection and elevation.
+              • Cross-level and elevation bubbles are not centered.
+              • Mortar locking pin, or the clevis lock pin is not fully locked.
+              • Connection for the mortar locking pin assembly (buffer carrier, 60-
+
+                  mm mortar) or the traversing slide assembly is off center more
+                  than two turns.
+              • Assistant manipulates the sight for a deflection or elevation setting.
+              • The baseplate is not positioned correctly in relation to the baseplate
+                  stake.
+              • The selector switch on the barrel is not on D for drop-fire (60-mm
+                  mortar only).
+              • The collar assembly is not positioned on the lower saddle (60-mm
+                  mortar only).
+              • Firing pin recess is not facing upwards on the barrel (81-mm
+                  mortar, M252 only).
+              • Traverse is more than four turns (120-mm only).
+              • Barrel clamp is not locked (120-mm only).
+              • Cross-level lock is not tight (120-mm only).
+              • Leg-locking handwheel is not wrist-tight (81-mm mortar, M252
+                  only).
+              • The coarse cross-level nut is not wrist-tight (60-mm and 81-mm,
+                  M29A1, mortars only).
+              • The collar locking knob is not secured (hand-tight) to the barrel
+                  (60-mm and 81-mm, M252, mortars only).
+              • The bipod legs are not fully extended and the spread cable or chain
+                  is not taut (60-mm; 81-mm, M29A1; and 120-mm mortars only).
+
+         (2) When the mortar is correctly mounted within the prescribed limits,
+         credit is given as follows:
+
+TIME         POINT CREDIT
+(seconds)  FOR EACH TRIAL
+
+
+---
+
+120-mm 4.2-inch Mortar All Other Mortars
+
+51 or less 50 or less   65 or less        10
+
+52 to 57 51 to 60       66 to 70          9
+
+58 to 63 61 to 70       71 to 75          8
+
+64 to 69 71 to 80       76 to 80          7
+
+70 to 75 81 to 90       81 to 85          6
+
+91 to 100               86 to 90          5
+
+76 or over 101 or over  91 or over        0
+
+9-14. SMALL DEFLECTION CHANGE
+
+The candidate is tested at station No. 2 on his ability to perform the gunner’s duties when
+he is given commands that require a change in deflection.
+
+         a. Equipment. Prescribed in Table 9-1.
+
+         b. Conditions. A mortar is mounted with the sight installed. The sight is laid on
+         two aiming posts (placed out 50 to 100 meters from the mortar) on a referred
+         deflection of 2800 mils and 900 mils elevation for the 4.2-inch mortar, and 2800
+         mils deflection and 1100 mils elevation for all other mortars. The mortar is center
+         of traverse, and the vertical line of sight is on the left edge of both aiming posts.
+
+                  (1) The candidate is allowed to check the deflection set on the sight before
+                  each trial.
+
+                  (2) He is allowed to start each trial with his hand on the deflection knob.
+                  (The assistant may start with his hand on the sight mount knob [4.2-inch
+                  only]).
+
+                  (3) The change in deflection does not involve movement of the bridge
+                  assembly but causes the candidate to traverse the mortar at least 50 mils
+                  and not more than 75 mils (4.2-inch) and at least 20 mils and not more
+                  than 60 mils (all mortars except 4.2-inch).
+
+                  (4) Traversing extension is locked and centered (120-mm).
+
+         c. Procedure. The candidate is given two trials; his credit score is the total of
+         these two trials.
+
+
+---
+
+         (1) The candidate is given one assistant. A different command is given for
+         each trial. The evaluator records the time and checks the candidate’s work
+         after each command has been executed.
+
+         (2) The evaluator announces an initial command requiring a change in
+         deflection of 50 to 75 mils for the 4.2-inch mortar. All other mortars
+         require a change in deflection of 20 to 60 mils and an elevation change of
+         35 to 90 mils. The candidate may proceed with the exercise as soon as the
+         deflection element is announced. The evaluator announces the command
+         in normal sequence and cadence.
+
+         (3) No manipulation by the assistant is allowed except for cross-leveling
+         on the 4.2-inch mortar.
+
+         (4) Time is charged against the candidate from the announcement of the
+         last digit of the elevation element until the candidate announces, "Up."
+
+d. Scoring. Scoring procedures are as follows:
+
+         (1) The candidate receives no credit when the--
+
+              • Time exceeds 20 seconds (4.2-inch); time exceeds 76 seconds
+                  (120-mm); time exceeds 35 seconds (all other mortars).
+
+              • Sight is not set correctly for deflection or elevation.
+              • Elevation bubble is not centered.
+              • Cross-level bubble is not centered.
+              • Assistant manipulates the mortar or sight for elevation or
+
+                  deflection.
+              • Vertical cross line of the sight is more than 2 mils off the correct
+
+                  sight picture.
+
+         (2) When the mortar is laid correctly within the prescribed limits, credit is
+         given as follows:
+
+TIME                                        POINT CREDIT
+(seconds)                                 FOR EACH TRIAL
+
+120-mm 4.2-inch Mortar All Other Mortars
+
+20 or less 8 or less  20 or less          10
+
+21 to 23 9 to 11      21 to 23            9
+
+
+---
+
+24 to 26 12 to 14      24 to 26    8
+
+27 to 31 15 to 17      27 to 31    7
+
+32 to 35 18 to 20      32 to 35    6
+
+36 or over 21 or over  36 or over  0
+
+9-15. REFERRING OF THE SIGHT AND REALIGNMENT OF AIMING POSTS
+
+The candidate is tested at station No. 3 on his ability to perform the gunner’s duties in
+referring the sight and realigning the aiming posts.
+
+         a. Equipment. Prescribed in Table 9-1.
+
+         b. Conditions. The mortar is mounted with the appropriate or proper sight
+         installed. The sight is laid on two aiming posts (placed out 50 and 100 meters
+         from the mortar) on a referred deflection of 2800 mils and 900 mils elevation for
+         the 4.2-inch mortar, and 2800 mils deflection and 1100 mils elevation for all other
+         mortars.
+
+                  (1) The mortar is within two turns of center of traverse (four turns for the
+                  120-mm). The candidate receives an administrative command with a
+                  deflection of 2860 or 2740 mils. The mortar is then re-laid on the aiming
+                  posts using the traversing crank.
+
+                  (2) The candidate checks the conditions before each trial and is allowed to
+                  start the test with his hand on the deflection knob of the sight.
+
+                  (3) The change in deflection in the command must be less than 25 mils but
+                  greater than 5 mils. The elevation remains constant at 900 or 1100 mils.
+
+                  (4) The candidate is allowed two assistants--one to place out aiming posts
+                  and one to move the bridge or bipod (mount) and to cross-level. The
+                  assistants do not manipulate the sight or mortar for elevation or deflection.
+
+                  (5) Traverse extension will not be used. It will remain locked in the center
+                  position.
+
+         c. Procedure. The candidate is given two trials; his credit score is the total of
+         these two trials.
+
+                  (1) A different command is given for each trial. The evaluator records the
+                  time and checks the candidate’s work after each command has been
+                  executed.
+
+
+---
+
+(2) When the candidate is ready, he is given a command--for example,
+REFER, DEFLECTION TWO EIGHT EIGHT ZERO (2880), REALIGN
+AIMING POSTS.
+
+(3) The candidate repeats each element of the command, sets the sight
+with the data given in the command, and directs one assistant in realigning
+the aiming posts. Then he centers his traversing assembly and, with the
+help of the assistant gunner, moves the bridge or bipod (mount) assembly
+and re-lays on his aiming posts. After he lays the mortar on the realigned
+posts, he announces, "Up."
+
+Note : This procedure ensures that, after a registration mission (using a parallel sheaf),
+         the mortars have matching deflections.
+
+                  (4) Time is taken from the announcement of refer and align aiming post to
+                  the candidate’s announcement of "Up."
+
+                  (5) The candidate’s assistant may not leave the mortar position until he
+                  hears the word POSTS in the command REALIGN AIMING POSTS.
+
+         d. Scoring. Scoring procedures are as follows:
+
+                  (1) No credit is given when the--
+
+                       • Time exceeds 1 minute, 40 seconds (4.2-inch only); time exceeds
+                            (120-mm only); time exceeds 1 minute, 15 seconds (all other
+                            mortars).
+
+                       • Traversing crank is turned before the aiming posts are realigned.
+                       • Sight is not set correctly for deflection or elevation.
+                       • Mortar is not cross-leveled or correctly laid for elevation.
+                       • Vertical line of the sight is more than 2 mils off the correct sight
+
+                            picture.
+                       • Traversing assembly slide is more than two turns (four turns for
+
+                            the 120-mm) to the left or right of the center position.
+                       • Assistant manipulates the sight or mortar for elevation or
+
+                            deflection.
+
+                  (2) When the mortar is found to be correctly laid within the prescribed
+                  limits, credit is given as follows:
+
+TIME         POINT CREDIT
+(seconds)  FOR EACH TRIAL
+
+
+---
+
+120-mm 4.2-inch Mortar All Other Mortars
+
+60 or less 70 or less   60 or less        10
+
+61 to 65 71 to 80       61 to 65          9
+
+66 to 70 81 to 90       66 to 70          8
+
+71 to 75 91 to 100      71 to 75          7
+
+76 or over 101 or over  76 or over        0
+
+9-16. LARGE DEFLECTION AND ELEVATION CHANGES
+
+The candidate is tested at station No. 4 on his ability to perform the gunner’s duties when
+he is given commands requiring a large change in deflection and elevation.
+
+         a. Equipment. Prescribed in Table 9-1.
+
+         b. Conditions. A mortar is mounted with the sight installed. The sight is laid on
+         two aiming posts placed out 50 to 100 meters from the mortar on a referred
+         deflection of 2800 mils (1100 mils elevation for the 120-mm). For the first trial,
+         using the 4.2-inch mortar, 900 mils elevation (low range) is used; for the second
+         trial, 1065 mils elevation (high range) is used (for all mortars but the 4.2-inch, the
+         elevation change will be greater than 100 mils but less than 200 mils). The mortar
+         is within two turns of center of traverse (four turns for the 120-mm).
+
+                  (1) The candidate is allowed to check the deflection and elevation setting
+                  before each trial. He is allowed to start each trial with his hand on the
+                  deflection knob.
+
+                  (2) The change in deflection involves movement of the bridge or bipod
+                  assembly and causes the candidate to shift the barrel not less than 200 mils
+                  and not more than 300 mils. The change in elevation causes him to elevate
+                  or depress the barrel from low range to high range, or vice versa.
+
+                  (3) Traverse extension is locked and centered (for the 120-mm).
+
+         c. Procedure. The candidate is given two trials; his credit score is the total of
+         these two trials.
+
+                  (1) The candidate is given two assistants--one assistant may visually align
+                  the mortar while the other shifts the bridge and standard assemblies. The
+                  assistants neither manipulate the sight nor lay the mortar for deflection. A
+
+
+---
+
+         different command is given for each trial. The evaluator records the time
+         and checks the candidate’s mortar after each command has been executed.
+
+         (2) The evaluator announces a command that requires a change in
+         deflection and elevation, involving movement of the bridge assembly and
+         a change in the elevation range--for example: NUMBER ONE, HE
+         QUICK, ONE ROUND, DEFLECTION THREE ZERO FOUR FIVE
+         (3045), CHARGE TWO FOUR (24), ELEVATION ONE ZERO SIX
+         FIVE (1065).
+
+         (3) The candidate repeats each element of the command. As soon as the
+         deflection element is given, he places the data on the sight and re-lays on
+         the aiming point with a compensated sight picture. As soon as the mortar
+         is laid, he announces, "Up." The assistants must remain in their normal
+         positions until the deflection element is given.
+
+         (4) Time is taken from the announcement of the last digit of the elevation
+         element of the fire command until the candidate announces, "Up."
+
+d. Scoring. Scoring procedures are as follows:
+
+         (1) The candidate receives no credit when the--
+
+              • Time exceeds 1 minute and 15 seconds (60-mm mortar); time
+                  exceeds 55 seconds (120-mm); time exceeds 60 seconds (all other
+                  mortars).
+
+              • Sight is not set correctly for deflection or elevation.
+              • Mortar is not correctly laid for elevation.
+              • Mortar is not cross-leveled.
+              • Vertical line is more than 2 mils off the compensated or aligned
+
+                  sight picture.
+              • Traversing assembly slide is more than two turns (four turns for
+
+                  the 120-mm) to the left or right of the center position.
+              • Assistants make unauthorized movements or manipulations.
+              • Collar assembly is not positioned on the correct saddle for the
+
+                  announced elevation (60-mm).
+              • Traverse extension is not locked and centered (for the 120-mm).
+
+         (2) When the mortar is laid correctly within the prescribed limits, credit is
+         given as follows:
+
+TIME         POINT CREDIT
+(seconds)  FOR EACH TRIAL
+
+
+---
+
+120-mm 4.2-inch Mortar All Other Mortars
+
+35 or less 40 or less  35 or less         10
+
+36 to 40 41 to 47      36 to 40           9
+
+41 to 45 48 to 54      41 to 45           8
+
+46 to 50 55 to 61      46 to 50           7
+
+51 to 55 62 to 68      51 to 55           6
+
+70 to 75               56 to 60           5
+
+56 or over 76 or over  61 or over         0
+
+9-17. RECIPROCAL LAYING
+
+The candidate is tested at station No. 5 on his ability to perform the gunner’s duties in
+laying a mortar for direction.
+
+         a. Equipment. Prescribed in Table 9-1.
+
+         b. Station Setup. The evaluator sets up the aiming circle about 25 meters to the
+         left front of the station. He levels the instrument and orients the aiming circle so
+         that the 0-3200 line is in the general direction the mortar is mounted. A direction
+         stake is placed out about 25 meters in front of the mortar position.
+
+         c. Conditions. The candidate is given one assistant to shift the bridge or bipod
+         assembly. The assistant does not manipulate the sight or mortar in laying for
+         elevation or deflection. The conditions of the test are as follows:
+
+                  (1) The 4.2-inch mortar is mounted for the candidate at 900 mils elevation,
+                  3200 mils deflection. All other mortars are mounted at 3200 mils
+                  deflection and 1100 mils elevation. The mortar is laid on a direction stake
+                  on the initial mounting azimuth with the traversing mechanism centered.
+
+                  (2) The mounting azimuth on which the candidate is ordered to lay the
+                  mortar is not less than 150 mils or more than 200 mils away from the
+                  initial mounting azimuth.
+
+                  (3) The evaluator sets up the aiming circle about 25 meters to the left front
+                  of the mortar, with the instrument leveled and the 0-3200 line already on
+                  the mounting azimuth on which the mortar is to be laid.
+
+
+---
+
+         (4) The candidate is allowed to start the test with his hand on the
+         deflection knob. The assistants must remain in their normal positions until
+         the evaluator gives the first deflection element.
+
+         (5) Traverse extension is locked and centered (for the 120-mm).
+
+d. Procedure. The candidate is given two trials; his credit score is the total of
+these two trial scores.
+
+         (1) The evaluator operates the aiming circle during this test. He lays the
+         vertical line on the mortar sight and commands AIMING POINT THIS
+         INSTRUMENT.
+
+         (2) The candidate refers his sight to the aiming point and replies AIMING
+         POINT IDENTIFIED.
+
+         (3) The evaluator then announces the deflection--for example, "Number
+         one, deflection two three one five (2315)."
+
+         (4) The candidate repeats the announced deflection, sets it on his sight,
+         and lays the mortar on the center of the aiming circle lens. He then
+         announces, "Number one ready for recheck." The evaluator announces the
+         new deflection immediately so that there is no delay.
+
+         (5) The operation is completed when the candidate announces, "Number
+         one, zero (or one) mil(s), mortar laid."
+
+         (6) Time is taken from the last digit of elevation first announced by the
+         evaluator until the candidate announces, "Number one, zero (or one)
+         mil(s), mortar laid."
+
+e. Scoring. Scoring procedures are as follows:
+
+         (1) The candidate receives no credit when the--
+
+              • Time exceeds 1 minute, 55 seconds.
+              • Sight is not set correctly for deflection or elevation.
+              • Elevation bubble is not centered.
+              • Cross-level bubble is not centered.
+              • Vertical line of the sight is not centered on the aiming circle lens.
+              • The mortar sight and the aiming circle deflection difference
+
+                  exceeds 1 mil.
+              • Assistant performs unauthorized manipulations or movements.
+              • Traversing mechanism is more than two turns (four turns for the
+
+                  120-mm) from center of traverse. Traverse extension is not locked
+                  in the center position.
+
+
+---
+
+(2) When the mortar is laid correctly within the prescribed limits, credit is
+given as follows:
+
+TIME         POINT CREDIT FOR
+(seconds)         EACH TRIAL
+
+55 or less   10
+
+56 to 67     9
+
+68 to 79     8
+
+80 to 91     7
+
+92 to 103    6
+
+104 to 115   5
+
+116 or over  0
+
+      Section III. GUNNER’S EXAMINATION WITH THE TRACK-MOUNTED
+                                                 MORTAR
+
+This examination tests the gunner’s ability to perform basic mortar gunnery tasks with
+the track-mounted mortar system.
+
+9-18. SUBJECTS AND CREDITS
+
+The examination consists of the following tests with maximum credit scores as shown.
+
+Placing the mortar into a firing position from the traveling position  20 points
+Small deflection change                                                20 points
+Referring the sight and realigning the aiming posts                    20 points
+Large deflection and elevation changes                                 20 points
+Reciprocally laying                                                    20 points
+
+9-19. EQUIPMENT
+
+The minimum equipment needed for the five stations includes five mortars, five M106-
+series carriers, five sights, one aiming circle, eight aiming posts, and five stopwatches.
+
+
+---
+
+9-20. ORGANIZATION
+
+The organization prescribed in Table 9-2 is recommended for the conduct of the gunner’s
+examination. Variations are authorized, depending on local conditions and the number of
+men being tested.
+
+                                                 EQUIPMENT
+
+STATION          PHASE                                FOR EXAMINING
+
+                               FOR CANDIDATE          OFFICER
+
+1        Placement of the mortar 1 mortar carrier     1 stopwatch
+
+         into firing position from the 1 mortar
+
+         traveling position.   1 sight
+
+2        Small deflection change. 1 mortar carrier    1 stopwatch
+
+                               1 mortar
+
+                               1 sight
+
+                               2 aiming posts
+
+3        Referring of the sight and 1 mortar carrier  1 stopwatch
+
+         realignment of the aiming 1 mortar
+
+         posts.                1 sight
+
+                               2 aiming posts
+
+4        Large deflection and  1 mortar carrier       1 stopwatch
+                               1 mortar
+         elevation changes.    1 sight
+                               2 aiming posts
+
+5        Reciprocal laying.    1 mortar carrier       1 stopwatch
+                               1 mortar               1 aiming circle
+                               1 sight
+                               2 aiming posts
+
+Table 9-2. Organization for conducting gunner’s examination (carrier-mounted).
+
+9-21. PROCEDURE
+
+The candidate carries his scorecard from station to station. The evaluator at each station
+fills in the time, trial scores, and credit score, and initials the appropriate spaces.
+
+9-22. PLACEMENT OF MORTAR INTO A FIRING POSITION FROM
+TRAVELING POSITION
+
+
+---
+
+The candidate is tested at station No. 1 on his ability to perform quickly and accurately
+the gunner’s duties in placing the mortar into the firing position from the traveling
+position.
+
+         a. Equipment. Prescribed in Table 9-2.
+
+         b. Conditions. The mortar is secured in the traveling position by the mortar tie-
+         down strap.
+
+                  (1) The sight is in its case, and the case is in its stowage position.
+
+                  (2) The candidate selects an assistant gunner.
+
+                  (3) The blast attenuator device is removed and stored properly for the 120-
+                  mm mortar system.
+
+                  (4) The mortar hatch covers are closed and locked (the ramp may be in the
+                  up or down position).
+
+                  (5) The gunner and assistant gunner are seated in their traveling positions.
+
+                  (6) The evaluator ensures that the candidate understands the requirement
+                  of the test and instructs him to report I AM READY before each trial.
+
+         c. Procedure. The candidate is given two trials; his credit score for the test is the
+         total of these two trials.
+
+Note : The traverse extension (120-mm) is not used during the gunner’s examination. It
+         remains locked in the center position.
+
+                  (1) The evaluator positions himself inside or outside the carrier where he
+                  can best observe the action of the candidate. The evaluator’s position
+                  should not interfere with the action of the candidate.
+
+                  (2)The trial is complete when the candidate announces, "Up."
+
+         d. Scoring. Scoring procedures are as follows:
+
+                  (1) The candidate receives no credit when the--
+
+                       • Time exceeds 1 minute, 30 seconds (4.2-inch only); time exceeds 1
+                            minute, 15 seconds (120-mm only).
+
+                       • Sight is not set at 3200 mils deflection and 900 mils elevation for
+                            the 4.2-inch only; sight is not set at 3200 mils deflection and 1100
+                            mils elevation for the 120-mm only.
+
+
+---
+
+    • Elevation and cross-level bubbles are not centered (within outer
+         red marks).
+
+    • Turntable and traversing assembly slide are not centered. (For the
+         120-mm, the traverse extension must also be centered and locked.)
+
+    • Mortar standard assembly support is not in the firing position
+         (raised) (4.2-inch only).
+
+    • The traversing lock handle is not locked.
+    • The detent pins are not in the innermost detent (4.2-inch only).
+    • The standard base trunnions are not correctly seated and aligned in
+
+         the standard support trunnion bearing (4.2-inch only).
+    • The elevation locking cam is not locked (4.2-inch only).
+    • The recoil stop clamp is not in position and the wing nut is not taut
+
+         (4.2-inch only).
+    • The white line on the barrel is not aligned with the white line on
+
+         the buffer housing assembly (120-mm only).
+    • The mortar locking pin is not fully seated and locked (4.2-inch
+
+         only).
+    • The mortar carrier rear hatch covers are not securely latched.
+    • The safety mechanism is not set on FIRE (F showing) (120-mm
+
+         only).
+    • The cross-level locking knob is not hand tight (120-mm only).
+    • The buffer housing assembly is not positioned against the lower
+
+         collar stop (120-mm only).
+    • The blast attenuator device knob is not hand tight (120-mm only).
+    • The assistant manipulates the sight and or mortar for elevation and
+
+         or deflection (120-mm only).
+
+(2) When the mortar is found to be in the correct firing position within the
+prescribed limits, credit is given as follows:
+
+TIME                      POINT CREDIT
+(seconds)               FOR EACH TRIAL
+
+120-mm 4.2-inch Mortar
+
+50 or less 65 or less   10
+
+51 to 57 66 to 70       9
+
+58 to 63 71 to 75       8
+
+64 to 69 76 to 80       7
+
+
+---
+
+70 to 75 81 to 85       6
+
+86 to 90                5
+
+76 or over 91 and over  0
+
+9-23. SMALL DEFLECTION CHANGE
+
+The candidate is tested at station No. 2 on his ability to perform the gunner’s duties when
+he is given commands that require a change in deflection.
+
+         a. Equipment. Prescribed in Table 9-2.
+
+         b. Conditions. The mortar is prepared for action with sight installed.
+
+                  (1) The sight is laid on two aiming posts (placed out 50 to 100 meters
+                  from the mortar) on a referred deflection of 2800 and 900 mils elevation
+                  (for the 120-mm, referred deflection of 2800 and 1100 mils elevation).
+                  The turntable is centered, and the traversing mechanism is within two
+                  turns of center of traverse. For the 120-mm, the turntable is centered, the
+                  traversing mechanism is within four turns of center of traverse, and the
+                  traverse extension is centered and locked. The vertical line of the sight is
+                  on the left edge of both aiming posts.
+
+                  (2) The change in deflection causes the candidate to traverse the mortar at
+                  least 50 but not more than 75 mils. For the 120-mm, traverse the mortar 20
+                  to 60 for deflection and 30 to 90 for elevation.
+
+                  (3) The candidate selects an assistant gunner (4.2-inch only).
+
+                  (4) The candidate is allowed to begin the test with his hand on the
+                  deflection knob.
+
+         c. Procedure. The candidate is given two trials; his credit score for the test is the
+         total of these two trials.
+
+                  (1) The evaluator announces an initial command requiring a change in
+                  deflection.
+
+                  (2) The candidate repeats each element of the command, sets the sight
+                  with the data given, and traverses and cross-levels the mortar until he
+                  obtains the correct sight picture.
+
+
+---
+
+         (3) Time is charged against the candidate from the announcement of the
+         last digit of the elevation element until the candidate’s announcement of
+         "Up."
+
+         (4) For the 120-mm, deflection of 20 to 60 mils and elevation 30 to 90
+         mils.
+
+         (5) For the 120-mm, traverse extension will not be used.
+
+d. Scoring. Scoring procedures are as follows:
+
+         (1) The candidate receives no credit when--
+
+              • The time exceeds 20 seconds (35 seconds for the 120-mm).
+              • The deflection is not indexed correctly (deflection and elevation
+
+                  are not set correctly for the 120-mm).
+              • The elevation and cross-level bubbles are not centered within the
+
+                  outer lines.
+              • The vertical cross line of the sight is not within 2 mils of the left
+
+                  edge of the aiming post.
+              • The traverse extension is centered and locked in position (120-mm
+
+                  only).
+
+         (2) When the mortar is laid correctly within the prescribed limits, credit is
+         given as follows:
+
+TIME                      POINT CREDIT
+(seconds)               FOR EACH TRIAL
+
+120-mm 4.2-inch Mortar
+
+20 or less 10 or less   10
+
+21 to 23 11 and 12      9
+
+24 to 26 13 and 14      8
+
+27 to 31 15 and 16      7
+
+32 to 35 17 and 18      6
+
+           19 and 20    5
+
+
+---
+
+36 or over 21 or over  0
+
+9-24. REFERRING OF THE SIGHT AND REALIGNMENT OF AIMING POSTS
+
+The candidate is tested at Station No. 3 on his ability to perform the gunner’s duties in
+referring the sight and realigning the aiming posts.
+
+         a. Equipment. Prescribed in Table 9-2.
+
+         b. Conditions. The sight is laid on two aiming posts (placed out 50 and 100
+         meters from the mortar) on a referred deflection of 2800 mils and 900 mils
+         elevation for the 4.2-inch mortar (1100 mils elevation for the 120-mm). The ramp
+         is down with ammunition bearer in or outside the vehicle.
+
+                  (1) The mortar is within two turns of center of traverse (four turns for the
+                  120-mm). The candidate receives an administrative command with a
+                  deflection of 2860 or 2740 mils. The mortar is then re-laid on the aiming
+                  posts using the traversing crank.
+
+                  (2) The candidate checks the conditions before each trial. He is allowed to
+                  start the test with his hand on the deflection knob of the sight.
+
+                  (3) The change in deflection in the command must be less than 25 mils but
+                  greater than 5 mils. The elevation remains constant at 900 mils (1100 mils
+                  for the 120-mm).
+
+                  (4) The candidate selects two assistants--one assistant realigns the aiming
+                  posts and the other assists in moving the turntable and cross-leveling. The
+                  assistants do not manipulate the sight or mortar for elevation or deflection.
+
+                  (5) The traversing extension will not be used. It will remain locked in the
+                  center position.
+
+         c. Procedure. The candidate is given two trials; his credit score is the total of
+         these two trials.
+
+                  (1) A different command is given for each trial. The evaluator records the
+                  time and checks the candidate’s work after each command has been
+                  executed.
+
+                  (2) When the candidate is ready, he is given a command--for example,
+                  REFER, DEFLECTION TWO EIGHT EIGHT ZERO (2880), REALIGN
+                  AIMING POSTS.
+
+
+---
+
+         (3) The candidate repeats each element of the command, sets the sight
+         with the data given in the command, and directs one assistant in realigning
+         the aiming posts. Upon completion of these actions, the candidate centers
+         the traversing assembly and, with the help of the other assistant, moves the
+         turntable and re-lays on the aiming posts. After he lays the mortar on the
+         realigned aiming posts, he announces, "Up."
+
+         (4) Time is taken from the announcement of REFER, DEFLECTION
+         TWO EIGHT EIGHT ZERO (2880), REALIGN AIMING POSTS until
+         the candidate announces, "Up."
+
+         (5) The candidate’s assistants are not permitted to leave the carrier until
+         the command REALIGN AIMING POSTS is given.
+
+d. Scoring. Scoring procedures are as follows:
+
+         (1) The candidate receives no credit when the--
+
+              • Time exceeds 1 minute, 40 seconds for the 4.2-inch; time exceeds
+                  1 minute, 15 seconds for the 120-mm.
+
+              • Traversing assembly slide is turned before the aiming posts are
+                  realigned.
+
+              • Traverse extension and turntable are not locked in the center
+                  position (120-mm).
+
+              • Sight is set incorrectly for deflection or elevation.
+              • Elevation and deflection bubbles are not centered.
+              • Sight picture is not correct.
+              • Traversing assembly slide is more than two turns (four turns for
+
+                  the 120-mm) to the left or right of the center position.
+              • Assistant manipulates the sight or mortar for elevation or
+
+                  deflection.
+
+         (2) When the mortar is laid correctly within the prescribed limits, credit is
+         given as follows:
+
+TIME                      POINT CREDIT
+(seconds)               FOR EACH TRIAL
+
+120-mm 4.2-inch Mortar
+
+60 or less 75 or less   10
+
+61 to 65 76 to 80       9
+
+
+---
+
+66 to 70 81 to 85      8
+
+71 to 75 86 to 90      7
+
+76 to 80 91 to 95      6
+
+96 to 100              5
+
+81 or over 21 or over  0
+
+Note: If for any reason either of the aiming posts fall before the candidate announces,
+         "Up," the trial will be terminated and re-administered.
+
+9-25. LARGE DEFLECTION AND ELEVATION CHANGES
+
+The candidate is tested at station No. 4 on his ability to perform the gunner’s duties when
+he is given commands requiring a large change in deflection and elevation.
+
+         a. Equipment. Prescribed in Table 9-2.
+
+         b. Conditions. The evaluator selects a deflection change that is at least 200 but
+         not more than 300 mils off the referred deflection of 2800 mils and 1100 mils
+         elevation.
+
+                  (1) The change in deflection involves movement of the turntable. The
+                  change in elevation causes the candidate to elevate or depress the barrel
+                  from low range to high range, or vice versa. The change in elevation is not
+                  less than 100 mils and not more than 200 mils for the 120-mm mortar.
+
+                  (2) The candidate selects two assistants.
+
+                  (3) Traversing extension and turntable are locked the center position.
+
+                  (4) The candidate is allowed to check the deflection and elevation settings
+                  before each trial.
+
+                  (5) The candidate is allowed to begin the test with his hand on the
+                  deflection knob.
+
+         c. Procedure. The candidate is given three trials. If he chooses to use the first
+         (practice) as record, he must use the second as record. If he chooses to use the
+         first trial as practice, he must use the second and third trials as record. He selects
+         two assistants--one assistant may visually align the mortar, while the other
+         elevates or depresses the standard assembly and assists in moving the turntable.
+         The assistant does not manipulate the sight or lay the mortar for deflection.
+
+
+---
+
+         (1) The evaluator announces a command that requires a change in
+         deflection involving movement of the turntable and an elevation change
+         involving movement of the elevating mechanism cam.
+
+         (2) The candidate is allowed to start the test with his hand on the
+         deflection knob. He repeats each element of the fire command and sets the
+         sight with the data given in the command.
+
+         (3) As soon as the deflection element is announced, he can immediately
+         place the data on the sight. The assistants must remain in their normal
+         positions until the elevation element is given.
+
+         (4) The evaluator times the candidate from the announcement of the last
+         digit of the elevation command to the candidate’s announcement of "Up."
+
+         (5) A different deflection and elevation are given in the second trial.
+
+d. Scoring. Scoring procedures are as follows:
+
+         (1) The candidate receives no credit when the--
+
+              • Time exceeds 60 seconds (55 seconds for the 120-mm).
+              • Sight is not indexed correctly for deflection or elevation.
+              • Elevation and cross-level bubbles are not centered.
+              • Vertical line of the sight is more than 2 mils off the correct
+
+                  compensated sight picture.
+              • Traversing mechanism is more than two turns (four turns for the
+
+                  120-mm) off center of traverse.
+              • Turntable is not in the locked position.
+              • Assistants make any unauthorized manipulation of the mortar or
+
+                  sightunit for elevation or deflection.
+              • Traversing extension is not locked in the center position.
+
+         (2) When the mortar is laid correctly within the prescribed limits, credit is
+         given as follows:
+
+TIME                      POINT CREDIT
+(seconds)               FOR EACH TRIAL
+
+120-mm 4.2-inch Mortar
+
+45 or less 35 or less   10
+
+
+---
+
+46 to 50 36 to 40      9
+
+51 to 55 41 to 45      8
+
+56 to 60 46 to 50      7
+
+61 to 65 51 to 55      6
+
+56 to 60               5
+
+66 or over 61 or over  0
+
+9-26. RECIPROCAL LAYING
+
+The candidate is tested at station No. 5 on his ability to quickly and accurately perform
+the gunner’s duties in reciprocally laying the mortar.
+
+         a. Equipment. Prescribed in Table 9-2.
+
+         b. Conditions. The mortar is prepared for action and laid on an initial azimuth by
+         the evaluator and his assistants.
+
+                  (1) The sight is set at 3200 mils deflection and 900 mils elevation.
+
+                  (2) The evaluator sets up the aiming circle about 75 meters from the
+                  carrier where it is visible to the gunner.
+
+                  (3) The evaluator orients the aiming circle on an azimuth of not less than
+                  150 mils or not more than 200 mils away from the initial azimuth.
+
+                  (4) The candidate is allowed to begin the test with his hand on the
+                  deflection knob with the carrier engine running.
+
+                  (5) A relay man is positioned halfway between the aiming circle and
+                  carrier to relay commands.
+
+                  (6) The traversing mechanism is centered and the traversing extension is
+                  locked in the center position.
+
+         c. Procedure. The candidate is given three trials. If he chooses to use the first
+         (practice) as record, then he must use the second as record. If he chooses to use
+         the first trial as practice, then he must use the second and third trials as record.
+
+                  (1) The evaluator operates the aiming circle during the test.
+
+
+---
+
+         (2) Once the candidate identifies the aiming point, the evaluator
+         announces the deflection.
+
+         (3) Time is started from the last digit of the first deflection announced by
+         the evaluator.
+
+         (4) When the candidate announces, "Ready for recheck," the evaluator
+         immediately announces the new deflection.
+
+         (5) The trial is complete when the gunner announces, "Zero mils (or one
+         mil), mortar laid."
+
+d. Scoring. Scoring procedures are as follows:
+
+         (1) The candidate receives no credit when the--
+
+              • Time exceeds 2 minutes, 15 seconds for the 4.2-inch; time exceeds
+                  1 minute, 33 seconds for the 120-mm.
+
+              • Difference between the deflection setting on the sight and the last
+                  deflection reading from the aiming circle is more than 1 mil.
+
+              • Elevation and cross-level bubbles are not centered.
+              • Vertical reticle line of the sight is not centered on the lens of the
+
+                  aiming circle.
+              • Traversing extension is not locked in the center position.
+              • The mortar sight and the aiming circle are not sighted on each
+
+                  other with a difference of more than 1 mil between deflection
+                  readings.
+              • Turntable is not centered and locked.
+
+         (2) When the mortar is laid correctly, credit is given as follows:
+
+TIME                      POINT CREDIT
+(seconds)               FOR EACH TRIAL
+
+120-mm 4.2-inch Mortar
+
+55 or less 60 or less   10
+
+56 to 67 61 to 75       9
+
+68 to 79 76 to 90       8
+
+80 to 90 91 to 105      7
+
+
+---
+
+91 to 95 106 to 120     6
+
+121 to 135              5
+
+96 or over 136 or over  0
+
+9-27. SUPPORT SQUAD
+
+Support squads are located in cavalry units, task units, and light infantry units. The
+gunner’s examination for the support squad is the same as that used by the mortar section,
+except for the reciprocal laying, and refer and realign stations. The tests below are
+substituted respectively for the reciprocal laying and for the refer and realign stations.
+The entire refer and realign station is eliminated, and the procedures for direct lay are
+used.
+
+         a. Reciprocal Laying. In this test (4.2-inch mortar only) the compass is
+         substituted for the aiming circle.
+
+                  (1) Conditions. The mortar is prepared for action and laid on an initial
+                  azimuth by the evaluator and his assistants.
+
+                            (a) The turntable is centered with the sight set at 3200 mils
+                            deflection and 900 mils elevation.
+
+                            (b) The evaluator places the M2 compass on a stake about 75
+                            meters from the mortar carrier and measures the azimuth to the
+                            mortar sight. He then selects a mounting azimuth from the azimuth
+                            measured to the mortar sight.
+
+                            (c) The candidate selects an assistant gunner and driver.
+
+                            (d) The evaluator ensures that the candidate understands the
+                            requirements of the test and instructs him to report I AM READY
+                            before each trial.
+
+                  (2) Procedure. The candidate is given two trials; his credit score for the
+                  test is the total of these two trials.
+
+                            (a) The evaluator operates the compass during the test.
+
+                            (b) When the candidate identifies the aiming point, the evaluator
+                            announces the deflection.
+
+                            (c) When the gunner is laid back on the aiming point, he
+                            announces, "Up," and the evaluator commands REFER,
+
+
+---
+
+         DEFLECTION TWO EIGHT ZERO ZERO (2800), PLACE OUT
+         AIMING POSTS.
+
+         (d) The ammunition bearer moves out as soon as the initial
+         deflection has been announced by the evaluator and places out the
+         aiming posts as directed by the gunner.
+
+         (e) The trial is complete when the gunner announces, "Up," after
+         the aiming posts are in position.
+
+(3) Scoring. The scoring procedures are as follows:
+
+         (a) The candidate receives no credit when the--
+
+              • Time exceeds 2 minutes, 15 seconds.
+              • Deflection placed on the sight is incorrect.
+              • Elevation and cross-level bubbles of the sight are not
+
+                  centered.
+              • Turntable is not centered.
+              • Aiming posts are not properly aligned.
+
+         (b) When the mortar is laid correctly, credit is given as follows:
+
+TIME           POINT CREDIT
+(seconds)    FOR EACH TRIAL
+
+70 or less   10
+
+71 to 81     9
+
+82 to 92     8
+
+93 to 103    7
+
+104 to 114   6
+
+115 to 125   5
+
+126 or over  0
+
+b. Reciprocal Laying (Light Infantry Mortars). In this test, the sight-to-sight
+method is used to reciprocal lay the mortar.
+
+         (1) Conditions. The mortar is prepared for action on an azimuth by the
+         evaluator and his assistants.
+
+
+---
+
+         (a) The sight is set at 3200 mils deflection and 1100 mils elevation.
+
+         (b) The evaluator sets up the base mortar about 35 meters from the
+         test mortars where it is visible to the gunner.
+
+         (c) The evaluator orients the base mortar on an azimuth of not less
+         than 150 mils or more than 200 mils away from the initial azimuth.
+
+         (d) The candidate selects an assistant gunner (optional for the 60-
+         mm mortar).
+
+         (e) The candidate is allowed to begin the test with his hand on the
+         deflection micrometer knob.
+
+         (f) The evaluator ensures that the candidate understands the
+         requirements of the test, and he instructs him to report I AM
+         READY before each trial.
+
+(2) Procedure. The candidate is given two trials; his credit score is the
+total of these two trials.
+
+         (a) The evaluator positions himself at the base mortar and
+         commands AIMING POINT THIS INSTRUMENT.
+
+         (b) The gunner refers his sight to the aiming point and replies,
+         "Aiming point identified."
+
+         (c) The evaluator reads the deflection from the sight of the base
+         mortar. He determines the back azimuth of that deflection by
+         adding/subtracting 3200 mils and announces the deflection--for
+         example, the deflection on the base mortar is 1200 mils. The
+         evaluator adds 3200 mils to this deflection (1200 + 3200 = 4400
+         mils) and announces, "Number one, deflection four four zero zero
+         (4400)."
+
+         (d) The candidate repeats the announced deflection, sets it on the
+         sight, and, with the help of his assistant gunner, lays the mortar on
+         the center of the base mortar sight lens. He then announces,
+         "Number one ready for recheck." The evaluator announces the new
+         deflection as soon as possible so that there is no delay.
+
+         (e) The operation is completed when the candidate announces,
+         "Number one, zero (or one) mil(s), mortar laid."
+
+(3) Scoring. The scoring procedures are as follows:
+
+
+---
+
+(a) The candidate receives no credit when the--
+
+    • Time exceeds 1 minute, 55 seconds.
+    • Deflection placed on the sight is incorrect.
+    • Elevation and cross-level bubbles of the sight are not
+
+         centered.
+    • Mortar is not within two turns of center of traverse (four
+
+         turns for the 120-mm).
+    • The sight and the base mortar sight are not sighted on each
+
+         other with a difference of not more than 1 mil between
+         deflection readings.
+
+(b) When the mortar is laid correctly, credit is given as follows:
+
+TIME           POINT CREDIT
+(seconds)    FOR EACH TRIAL
+
+55 or less   10
+
+56 to 67     9
+
+68 to 79     8
+
+80 to 91     7
+
+92 to 103    6
+
+104 to 115   5
+
+116 or over  0
+
+
+---
+
+                                      APPENDIX A
+
+                      TRAINING DEVICES
+
+         The most efficient and direct method of teaching conduct of fire is by
+         firing combat ammunition under field conditions. However, ammunition
+         training allowances and range limitations often restrict such training to
+         subcaliber firing on reduced or miniature ranges.
+
+                     Section I. THE 60-mm SUBCALIBER ASSEMBLY
+The 60-mm subcaliber assembly is a training device for use with the 4.2-inch mortar
+system.
+A-1. DESCRIPTION
+The subcaliber assembly consists of a 60-mm barrel modified for inserting into a 4.2-inch
+barrel. The M2 60-mm barrel is the only barrel authorized for use. The components of the
+assembly are an insert, filler block, and filler block retriever.
+
+         a. The insert (Figure A-1) consists of a 60-mm mortar barrel, which is fitted with
+         two aluminum rings that allow it to fit snugly into the 4.2-inch barrel. The
+         aluminum rings also prevent the rifling in the barrel from being scored (Figure A-
+         2).
+
+                             Figure A-1. The 60-mm mortar insert.
+
+
+---
+
+                         Figure A-2. Aluminum rings.
+
+b. The filler block (Figure A-3) consists of a round steel pipe fitted with an
+aluminum shock cap on either end, which fit snugly into the barrel without
+scoring it. Either aluminum cap receives the spherical projection of the 60-mm
+barrel and distributes the recoil shock. The center of each cap is threaded to
+receive the filler block retriever. The shock caps fit over the striker pin of the 4.2-
+inch barrel, allowing all the shock to be exerted on the base end of the barrel
+rather than on the striker pin (Figure A-4).
+
+
+---
+
+                             Figure A-3. Filler block.
+
+          Figure A-4. Construction details of the filler block.
+c. The filler block retriever (Figure A-5) is used to remove the filler block from
+the 4.2-inch mortar. It is a steel rod fitted with a handle on one end. The other end
+
+
+---
+
+         is threaded so that it can be screwed into the shock cap of the filler block (Figure
+         A-6).
+
+                                Figure A-5. Filler block retriever.
+
+             Figure A-6. Construction detail of the filler block retriever.
+Note: The subcaliber mortar kit is obtained from the supporting ordnance unit. See TM
+
+         9-1015-215-23&P for more information.
+A-2. ASSEMBLY
+The subcaliber assembly does not affect the use of the sight, traversing assembly slide, or
+elevation mechanism of the 4.2-inch mortar. To install the subcaliber assembly, the
+mortar is mounted, and then the filler block is slid down the barrel. The insert (60-mm
+barrel with rings) is slid down the barrel, protruding about 1 1/2 inches.
+A-3. DISASSEMBLY
+To disassemble the subcaliber assembly, the protruding barrel of the 60-mm mortar is
+grasped and lifted out of the 4.2-inch barrel. The retriever is screwed into the filler block
+and lifted out of the block.
+A-4. AMMUNITION
+
+
+---
+
+All types of 60-mm mortar ammunition that are listed in FT 60-Q-1, including training,
+practice, and HE rounds, can be fired from the subcaliber assembly. The 60-mm mortar
+training round is usually fired on a training range; the practice round and HE round are
+used on a standard field firing range. When an ammunition shortage prevents field fire
+training with 4.2-inch rounds, 60-mm practice or HE ammunition can substituted.
+
+         a. High-Explosive Round, M49-Series. This round is the standard B ammunition
+         for the M224 60-mm mortar.
+
+                  (1) The M49A2 HE round is painted olive drab. It consists of a hollow
+                  body (Figure A-7), fin assembly that screws on the rear of the body, and
+                  M525 fuze that is attached to the front of the round. A TNT bursting
+                  charge is contained in the body and is ignited by the booster charge in the
+                  fuze upon impact. The fin assembly contains the ignition cartridge and
+                  provides a means for attaching the propelling increments. The fins keep
+                  the projectiles stable in flight. This round weighs 3 pounds, and it can be
+                  fired at a maximum range of about 1,800 meters. Each round comes in a
+                  separate fiber container complete for firing.
+
+                                  Figure A-7. HE round, M49A2.
+Note : For more information see TM 9-1300-203 and FT 60-L-5.
+
+
+---
+
+                  (2) Before firing, the fuze must be checked. The safety wire is removed,
+                  and the round is held vertically while pressing the bore riding safety pin
+                  inward to check tension. If the pin becomes unseated, the round is
+                  considered unsafe and should not be fired. ANY ROUND THAT IS
+                  ISSUED WITHOUT A BORE RIDING SAFETY PIN SHOULD NOT
+                  BE FIRED.
+
+         b. Practice Round, M50A2. This round is designed to give mortar crews practice
+         in firing and technique of fire without the expense incident to firing HE
+         ammunition. On impact, the practice round emits a puff of white smoke that is
+         clearly visible to the observer. This round differs from the HE round described
+         above in color and filler only. It is painted blue.
+
+Note : The firing table for this round is FT 60-L-5.
+
+A-5. CARE AND CLEANING
+
+The care and cleaning procedure described in TM 9-1015-215-10 applies to the
+subcaliber assembly.
+
+A-6. SAFETY
+
+The safety precautions for 4.2-inch ammunition must be observed along with the
+following safety rules:
+
+         a. During Firing. Personnel never move forward of the OP area nor do they
+         pound an ignition cartridge into the fin assembly since the primer could detonate.
+
+         b. Misfire Procedure . The procedure before actual removal of the round is the
+         same as that used with service ammunition.
+
+                  (1) To remove the round, the assistant gunner gently removes the 60-mm
+                  barrel from the 4.2-inch barrel by grasping the 60-mm barrel around the
+                  muzzle with both hands and lifting (Figure A-8), ensuring that no part of
+                  his hands protrudes over the muzzle. The gunner guides the 60-mm barrel
+                  with his thumbs. When the base aluminum ring of the 60-mm barrel
+                  reaches the end of the 4.2-inch barrel, the gunner firmly grasps the base
+                  aluminum ring to prevent it from dropping and jarring the barrel. The
+                  gunner grasps the base end of the 60-mm barrel and lifts it to the
+                  horizontal. HE DOES NOT STAND BEHIND IT.
+
+
+---
+
+               Figure A-8. Misfire procedure (60-mm subcaliber device).
+
+                  (2) The assistant gunner, hands still positioned around the 60-mm barrel,
+                  extends the thumbs of both hands over the edge of the muzzle. When the
+                  barrel reaches the horizontal, the gunner continues to lift the base end of
+                  the barrel until the round slides forward (Figure A-8). Once the barrel is
+                  horizontal, the base end is not lowered until the misfire has been removed.
+
+                  (3) The assistant gunner’s thumb stops the round when the round reaches
+                  the muzzle. He then removes it from the barrel and hands it to an
+                  ammunition bearer. The gunner shakes the 60-mm barrel to empty any
+                  foreign material from the bore and reinserts it into the 4.2-inch barrel. The
+                  assistant gunner swabs the bore.
+
+A-7. RANGE CONSTRUCTION
+
+The construction of a training round range is easily accomplished, requiring a minimum
+of space and effort. The range is measured in meters (Figure A-9) and consists of a target
+(impact) position area, OP position area, mortar position area, and FDC position area. A
+range 30.5 meters wide is adequate.
+
+
+---
+
+                           Figure A-9. Training range.
+
+a. The target position area consists of range markers in hundreds of up to 700
+meters with various targets staggered throughout. The range markers are placed at
+30-meter intervals (each interval represents 100 meters on the ground), the first
+marker being 120 meters from the OP positions (marked 400). The markers are
+rectangular, 30.5 by 45.5 centimeters. Targets should be constructed to represent
+various objects such as trees and houses; however, barrels or boxes placed
+throughout the area are adequate. These targets and markers can be constructed
+from scrap lumber and can be made portable, which allows the target area to be
+
+
+---
+
+         cleared for other purposes. When all practice targets look alike, they should be
+         painted different colors to assist the FO.
+
+         b. The OP position area is between the firing position and target area. It should
+         afford full observation of the target area; normally, a mound should suffice. When
+         the range is in use, telephone communication is established between the OP and
+         FDC.
+
+         c. The mortar position area is 15 meters to the rear and off-line from the OP
+         position; mortars are mounted laterally 6 meters apart. A mask should exist
+         between the target area and firing position. If it does not, a target cloth screen
+         might need to be placed between the target area and firing position.
+
+         d. The FDC is established close enough to the mortar position to permit voice
+         communication between the two. Wire or radio communication is established
+         between the FDC and OP.
+
+A-8. OPERATION
+
+Mortarmen are assembled at the OP for an orientation on range organization.
+
+         a. Mortarmen are assigned as FDC members, as crew members at the mortar
+         position, and as FOs, and periodically rotate assignments during training. Training
+         is conducted in the following sequence:
+
+                  (1) The OP sends a fire request to the FDC to begin a registration point
+                  adjustment.
+
+                  (2) The FDC computes a fire command and sends it to the mortars.
+
+                  (3) The mortar crew members lay the mortars and fire.
+
+                  (4) Adjustment is continued until the registration point has been
+                  established.
+
+                  (5) The FDC then directs the OP to adjust the sheaf when ready.
+
+                  (6) The section is then given a command of referred deflection.
+
+                  (7) From this point on, various targets can be engaged using different
+                  types of adjustment.
+
+         b. As the range is laid out in meters, all corrections and computations are in
+         meters; however, the mil-relation formula applies. To obtain the best results, the
+         FDC allows each square on the target grid or M16 plotting board to equal 25
+         meters.
+
+
+---
+
+                                       Section II. SABOT, M1
+This section provides the technical information required to employ the sabot. However,
+trainers should exercise imagination and ingenuity in developing training situations for
+employing the system.
+A-9. DESCRIPTION
+The 81-mm sabot (inert), M1, assist crews in reaching technical and tactical proficiency,
+thus, strengthening their ability to be effective on the modern battlefield. With the 22-mm
+subcaliber practice cartridge, the sabot (M1) provides an economical means of training
+personnel in all phases of mortar gunnery. These devices consist of two major
+components: the 81-mm sabot and 22-mm subcaliber cartridge (Figure A-10).
+
+                          Figure A-10. Sabot, M1, and cross section.
+         a. The sabot is designed to fire the subcaliber cartridge (Figure A-11) through the
+         barrel. The subcaliber cartridge, when loaded into the sabot, approximates a round
+         of service ammunition both in size and weight. The entire assembly is then fired
+
+
+---
+
+from the mortar just as in service firing. The subcaliber projectile travels from 70
+to 435 meters, depending on the charge and elevation selected. The projectile
+emits a puff of smoke and an audible report upon impact, but no fragmentation.
+At the time of firing, the sabot is also expelled from the mortar and impacts 2 to
+15 meters from the mortar (Figure A-12, D). It is then recovered, cleaned,
+reloaded, and refired.
+
+                Figure A-11. Subcaliber cartridge.Figure 1.
+
+    Figure A-12. Firing of mortar training device and cartridge.
+
+
+---
+
+         b. A scale ratio of 1:10 is used to relate the range and deviation between the
+         subcaliber projectile and standard 81-mm service projectile. Thus, the minimum
+         range requirement for firing through charge 4 is an area 500 meters deep, and
+         wide enough to accommodate the desired number of targets plus a 45-meter safety
+         zone on each side of the flank targets (Figure A-13).
+
+                               Figure A-13. Minimum range area.
+A-10. ADVANTAGES
+The advantages of using the 81-mm sabot are:
+
+
+---
+
+    • Provides the capability for firing in training areas where the firing of conventional
+         mortar ammunition is prohibited.
+
+    • Saves time and expenses of long-distance traveling to suitable mortar ranges.
+    • Saves the expense of firing service ammunition.
+    • Simplifies operation, maintenance, and training.
+    • Follows identical mortar crew procedures as service firing, excluding appropriate
+
+         charge and fuze settings.
+    • Uses the same equipment required for service firing.
+
+Mortar units using the 81-mm mortar sabot require little training in preparation to use the
+device. The sabot is used with all standard 81-mm mortar equipment regardless of model.
+It accommodates prescribed squad drill procedures and can be used by mechanized and
+ground-mounted mortar sections and squads.
+
+Note : Refer to TM 9-1315-249-12&P for detailed information.
+
+A-11. DISADVANTAGES
+
+The disadvantages of using the 81-mm sabot are:
+
+    • Causes excess carbon buildup in the barrel due to subcaliber ignition.
+    • Increases deterioration of the barrel.
+
+A-12. EQUIPMENT
+
+The following equipment is required to conduct training with the 81-mm sabot:
+
+    • All TOE mortar section/platoon equipment.
+    • Three 81-mm sabots for each mortar.
+    • Cleaning equipment.
+    • A piece of canvas or other heavy material, 3 meters by 15 meters, for placement
+
+         in front of each mortar to catch the sabot when fired. This prevents damage to the
+         sabot and reduces the cleaning time required during firing.
+    • If mortars cannot be mounted in defilade, a mask of target cloth, canvas, or other
+         suitable material can be built between the mortars and impact area.
+
+A-13. AMMUNITION
+
+The ammunition used in the M1 and M3 sabots is described herein.
+
+         a. The 81-mm Sabot. The aluminum alloy sabot has dimensions and a
+         configuration similar to 81-mm service ammunition.
+
+                  (1) The sabot body contains a 22-mm smooth-bore barrel to receive the
+                  22-mm subcaliber cartridge, which is loaded before firing. The boom of
+
+
+---
+
+         the sabot has fins similar to the fins of the service ammunition, and the
+         body has pads to guide the sabot as it travels out of the barrel. Upon firing,
+         the loaded sabot is ejected from the barrel; the sabot lands on the ground
+         within 15 meters of the mortar while the subcaliber projectile continues its
+         flight to the impact area.
+
+         (2) When not loaded with a subcaliber cartridge, the sabot can be used as a
+         dummy round for crew drill or the squad leader can "load" it with an
+         expended cartridge case to induce a "misfire." The sabot can be reloaded
+         and fired repeatedly for training. It is stored without the subcaliber
+         cartridge in a packing box containing three sabot devices.
+
+b. The 22-mm Subcaliber Cartridge . The 22-mm subcaliber cartridges (Figure
+A-14) are boxed and issued by charge: M744, charge one; M745, charge two;
+M746, charge three; M747, charge four. The charges can readily be identified day
+or night by the number of slots in the base of the subcaliber cartridge case (Figure
+A-15).
+
+
+---
+
+Figure A-14. The 22-mm subcaliber cartridge cross-section.
+
+
+---
+
+Figure A-15. Base of subcaliber cartridges--charge one through four.
+
+           (1) The 22-mm cartridge consists of the projectile with stabilizer fins and
+           cartridge case. The projectile body contains the impact fuze and a smoke
+           signal charge. The propelling and ejection charges are contained in two
+           separate chambers located in an assembly threaded onto the base of the
+           cartridge case. A flash hole between the chambers permits ignition of the
+           propelling charge by the ejection charge.
+
+           (2) When the 22-mm subcaliber cartridge is inserted into the sabot, the
+           sabot is ready for firing. The protective plastic cap covering the percussion
+           cap of the subcaliber cartridge is removed before dropping the sabot into
+           the mortar barrel. When fired, the cartridge’s percussion cap strikes the
+           firing pin and is ignited. The percussion cap ignites an ejection charge in
+           the jet housing assembly. The propelling gases emerge through the eight
+           holes in the jet screw assembly and initiate travel of the sabot and
+           subcaliber cartridge up the mortar barrel. At the same time, the ejection
+           charge ignites the subcaliber projectile propelling charge contained in the
+           jet housing assembly. This propels the subcaliber projectile out of the
+           cartridge case and through the 22-mm barrel of the sabot. When the sabot
+           clears the muzzle, the subcaliber projectile clears the barrel. The sabot
+           impacts on the ground within 15 meters of the mortar while the subcaliber
+           projectile continues its trajectory.
+
+
+---
+
+(3) After the subcaliber projectile has left the sabot barrel, the impact fuze
+is activated. The percussion assembly, which contains the primer for the
+fuzing mechanism, is held in position within the ignition case by two
+safety balls. When the projectile clears the sabot barrel, the safety balls
+move outward, freeing the percussion piece. The stabilizing fins open as
+the projectile clears the sabot barrel, providing in-flight stability. When the
+projectile ascends to its maximum ordinate, a locking ball keeps the
+percussion piece from moving forward, preventing the cap from
+contacting the pin. This feature precludes premature functioning should
+the projectile strike a tree branch or other object (Figure A-16).
+
+                  Figure A-16. Safety device.
+         (a) As the projectile descends from the high point of its trajectory,
+         the locking ball falls into an empty space in the projectile head and
+         the fuzing mechanism is fully armed.
+         (b) At the moment of impact, the percussion piece moves forward,
+         allowing the igniter cap to strike the firing pin. The igniter cap
+         initiates the smoke charge, and gas pressure produced by the
+         burning smoke charge ejects the wing assembly from the base of
+         the case. The smoke charge produces a yellow cloud of smoke.
+
+
+---
+
+                            The initial release of the smoke by the wing shaft assembly
+                            produces a sound (Figure A-17).
+
+         Figure A-17. Optical and acoustical observation of target strikes.
+                  (4) To prepare for firing, the bore and chamber of the sabot are inspected
+                  for cleanliness. The flange nut is removed from the sabot by unscrewing
+                  counterclockwise. The 22-mm cartridge is inserted into the chamber of
+                  sabot, and the flange nut is screwed onto the sabot hand tight. The plastic
+                  protector cap is removed from the percussion cap. The ground in front of
+                  the mortar should be covered with canvas or a heavy plastic or vinyl-type
+                  material to protect the sabot from dirt or mud. The flange nut is removed,
+                  the expended cartridge case is extracted, and the sabot is cleaned. The
+                  sabot is reloaded with a new subcaliber cartridge, and it is ready to be
+                  fired again.
+
+                                                WARNING
+              Personnel must not stand in front or to the rear of the sabot
+              when inserting the cartridge.
+
+A-14. SAFETY
+Sabot training devices are safe to handle and fire. The following safety precautions must
+be enforced.
+
+                                                WARNING
+              The 81-mm sabot is inert and can be stored and handled as a
+              weapon until it is loaded with the 22-mm subcaliber cartridge
+
+
+---
+
+              at which time it will be handled as a live mortar round. The
+              sabot can function as a cannon and should be secured in the
+              same manner as any other weapon. When loaded and ready to
+              fire, all safety precautions used during handling of service
+              ammunition are observed.
+
+         a. The 22-mm subcaliber cartridge contains propellant and smoke charge, and is
+         always stored and handled as live ammunition.
+
+Note : The general safety precautions for fixed ammunition are located in TM 9-1300-
+         206 and AR 385-63.
+
+         b. Practice ammunition is never fired over heads of troops.
+
+         c. Personnel never enter the danger area during the firing of the practice
+         ammunition.
+
+Note : Duds are disposed of as prescribed in TM 9-1315-249-12&P.
+
+A-15. MALFUNCTIONS
+
+See Chapter 3, paragraph 3-13 for a detailed discussion of malfunctions.
+
+A-16. REMOVAL OF A MISFIRE
+
+After failure to fire, misfire removal procedures are followed to remove the round from
+the weapon. If the primer cap of the 22-mm cartridge is dented, the cartridge is removed
+carefully from the sabot by unscrewing the flange nut, and then tagging the cartridge for
+disposal according to local SOP. If the primer is not dented, cause of failure to fire could
+be due to a malfunction of the mortar. Misfire procedures for live rounds also apply when
+firing the sabot. The only difference is in handling of the round after it has been removed
+from the mortar.
+
+         a. If the primer of the subcaliber cartridge is dented, the cartridge is carefully
+         removed from the sabot, ensuring that the sabot is pointed downrange and that no
+         one is to the front or rear. The subcaliber cartridge is removed to a designated area
+         for disposal IAW local SOP.
+
+         b. If the primer is not dented, the round can be refired upon determination of the
+         cause of the misfire.
+
+A-17. ITEM DESCRIPTION AND SUPPLY DATA
+
+
+---
+
+The equipment shown in Table A-1 is available at the ammunition supply facility, except
+for an 81-mm sabot.
+
+DESCRIPTION                   NATIONAL          PART NO. DODAC NO.
+                              STOCK NO.
+
+Sabot, 81-mm                  1015-00-328-5666 9287906
+Practice: M1 (Inert)
+
+Cartridge, Subcaliber, 22-mm  1305-00-334-5920  92787907  1305-A680
+Practice:
+Charge 1, M744
+
+Cartridge, Subcaliber, 22-mm  1305-00-334-5922  9287908   1305-A681
+Practice:
+Charge 2, M745
+
+Cartridge, Subcaliber, 22-mm  1305-00-334-5934  9287909   1305-A682
+Practice:
+Charge 3, M746
+
+Cartridge, Subcaliber, 22-mm  1305-00-334-5935  9287910   1305-A683
+Practice:
+Charge 4, M747
+
+                    Table A-1. Equipment description and supply data.
+
+A-18. TRAINING
+
+An advantage of sabot training is that the unit commander can observe the actions of all
+members of the indirect fire team while performing all the tasks that are employed during
+live firing. This enhances the ability of the commander to evaluate the proficiency of all
+elements of the team, to identify and isolate problem areas, and to begin corrective
+training. Also, all members of the team are able to view the entire operation and to
+understand how they fit into the overall plan.
+
+         a. Preparation. The amount of time spent preparing for training determines the
+         benefits received from using the 81-mm sabot. Three steps must be accomplished
+         before training with the 81-mm sabot:
+
+              • Construction of a scaled firing range (permanent, semi-permanent, and
+                  temporary).
+
+              • Construction of a map of the firing range.
+              • Instruction of personnel on the use of equipment.
+
+
+---
+
+(1) Sometimes it is desirable for gunners to observe the impact of the
+sabot. However, mortars are usually mounted in a defilade position so that
+a mask exists between the impact area and the firing position. If such a
+mask does not exist, one can be constructed of target cloth or other
+suitable material. The mask must be removed when firing direct lay
+missions.
+
+(2) A heavy canvas or other suitable material should be placed on the
+ground to a distance of 15 meters in front of each mortar to catch the
+sabot. On a permanent sabot range, it is desirable to construct a permanent
+impact area for the sabot--a sawdust or sandpit covered with heavy canvas
+would be ideal.
+
+(3) When positioning the mortars, the lateral distance between the center
+of the baseplates should not exceed 4 meters. Special corrections can be
+applied to fire for effect if the weapons are more than 4 meters apart, but it
+is unrealistic to habitually apply special corrections during training.
+
+(4) When using the sabot with each of the weapons separated by 3.5 to 4
+meters, some special techniques must be used. Aiming posts should be
+identified by squad to preclude a mix-up of aiming posts between two
+mortars. Numbers, colors, or any other easily discernible method can be
+used.
+
+(5) Problems can be encountered when traversing carrier-mounted mortars
+during large deflection changes of more than 300 mils left or right of
+direction of fire (Figure A-18). The carriers should be traversed to avoid
+the possibility of hitting adjacent carriers with the sabot. Due to the
+minimum range of the sabot, it must be fired only over the rear of the
+carrier with the ramp in the up position.
+
+
+---
+
+                   Figure A-18. Large deflection changes.
+
+b. Section Procedures. When firing the sabot, organic fire control equipment,
+and traversing and elevating mechanisms are used to lay the mortars for direction
+and elevation. The crew consists of the gunner, assistant gunner, ammunition
+bearer, and driver.
+
+    • The gunner and assistant gunner perform their duties as though firing
+         service ammunition.
+
+    • The ammunition bearer and driver perform their assigned duties.
+    • Personnel can be rotated for cross training.
+
+
+---
+
+         (1) During the conduct of firing, realistic commands are announced to the
+         sectionXfor example, SECTION, NUMBER TWO, ONE ROUND,
+         DEFLECTION TWO SEVEN EIGHT FIVE (2785), CHARGE THREE,
+         ELEVATION ONE ZERO SIX SIX (1066). Each command requires the
+         section to respond as though service ammunition were being fired. The
+         ammunition bearer then:
+
+                  (a) Secures a sabot and selects the appropriate 22-mm subcaliber
+                  cartridge; in this case, charge 3 (three slots in the base of the
+                  cartridge case).
+
+                  (b) Removes the flange nut.
+
+                  (c) Ensures that the sabot is pointed downrange and no one is to
+                  the rear.
+
+                  (d) Loads the subcaliber cartridge into the sabot.
+
+                  (e) Replaces the flange nut.
+
+                  (f) Removes the plastic cap from the primer and passes the round
+                  to the assistant gunner.
+
+         (2) The assistant gunner fires the round just as he would service
+         ammunition. After the sabot impacts, it is retrieved, cleaned, and is ready
+         to refire. (Retrieving the sabot after each round is recommended unless a
+         fire-for-effect mission is underway. Retrieval prevents damage to either
+         the sabot being fired or a sabot laying on the ground, which could occur
+         by the rounds impacting together.)
+
+                                      WARNING
+
+     Weapons must not be fired during sabot retrieval to avoid
+     injury to personnel downrange. Normally, it is best for only
+     one round to be fired before retrieval to avoid damage to
+     sabots. Do not fire over the head of maneuvering troops.
+
+         (3) The barrel should be cleaned after every 10 rounds to reduce the
+         possibility of a misfire, and the sabot should be cleaned after each firing.
+         There is considerable buildup of carbon in the barrel during firing; if not
+         removed, there is a decrease in range.
+
+c. Forward Observer Procedures. Regardless of which unit provides the FO fire
+support, the FO procedures are the same.
+
+
+---
+
+(1) The observer-target (OT) factor determined by the FO is based upon a
+scale of 1:10 rather than thousands of meters--for example, an OT distance
+of 380 meters is scaled to 3,800 meters, resulting in an OT factor of 4.
+
+(2) The FO measures deviation just as he would in service firing--by using
+the mil scale in his binoculars or aiming circle, compass, or finger method
+discussed in FM 23-91, Chapter 4. The FO corrects for deviation by
+multiplying the measured deviation by the OT factor and announcing his
+corrections to the nearest 10 scale meters--for example, "Right eight zero
+(80)."
+
+(3) The FO can use any of the methods of range adjustment that are used
+during service firing. However, when using the bracketing method,
+caution should be exercised in establishing the range bracket, since the FO
+usually assumes his rounds are much closer to the target than they actually
+are. For example, if the round is 60 meters (600 scale meters) short of the
+target, the FO should announce, "Add eight hundred (800)," to obtain a
+range bracket.
+
+(4) Only missions that use point-detonating fuzes can be fired with the
+sabot. This includes direct-lay and direct-alignment (fire without an FDC)
+missions. Also, coordinated illumination can be conducted with the
+illumination provided by handheld flares or flares fired from an M203.
+
+(5) Air observer training can be conducted using a helicopter. The aircraft
+should fly at an altitude of about 200 feet and to the rear of the firing
+position. The air observer should be told "SHOT" at least 10 seconds
+before the mortar fires to properly position the aircraft for observation.
+
+(6) Due to range dispersion, credit for a target hit should be given
+whenever the subcaliber projectile impacts within + 25 meters in range
+and left or right 4 meters of the adjusting point. This "target hit" area
+could be outlined in engineer tape for each target to help in accurate
+spotting by the FO, who is the responsible member of the indirect fire
+team for determining target hits. Table A-2, illustrates the range and
+deflection dispersion for each subcaliber projectile.
+
+CHARGE   RANGE           RANGE     DISPERSION
+        (in meters)  DISPERSION     (in meters)
+                      (in meters)
+
+1       70-195       +21           LEFT or RIGHT 2.5
+
+2       140-235      +26           LEFT or RIGHT 4.0
+
+
+---
+
+3  210-330  +30  LEFT or RIGHT 5.0
+
+4  280-435  +39  LEFT or RIGHT 6.0
+
+               Table A-2. Range and deflection dispersion.
+
+d. Fire Direction Center Procedures. FDC procedures prescribed in FM 23-91
+are used without modifications when controlling fires of the 22-mm subcaliber
+projectile. The most current firing tables for the subcaliber projectile are used
+when computing ranges, elevations, and maximum ordinate.
+
+e. Individual Skills. The sabot is well suited to train, cross train, and test soldiers
+in individual skills. One method is to establish a series of concurrent stations near
+a sabot range firing position. Both firing and nonfiring tasks can be performed by
+having all unit members actively training at the same time and performing several
+tasks in a short period, which keeps interest high. The suggested concurrent
+stations are as follows:
+
+         Station 1. Refer and realign aiming posts; boresight.
+         Station 2. Ammunition handling, fuze setting, cutting charges (both sabot
+         and service ammunition).
+         Station 3. Direct lay (M1 sabot required).
+         Station 4. Direct alignment (M1 sabot required).
+         Station 5. Indirect fire (M1 sabot required).
+         Station 6. Adjustment of fire.
+
+         (1) The sabot can be used to simulate the live-fire collective tasks. To
+         support the realistic firing afforded by the sabot, the platoon and section
+         leaders can also perform the following tactical training in conjunction with
+         sabot firing:
+
+              • Assembly area procedures.
+              • Camouflage and concealment.
+              • Road marches and convoy procedures.
+              • Reconnaissance of the firing position.
+              • Occupation of the firing position.
+              • Displacement by section.
+              • Maintenance of weapons, vehicles, and equipment.
+              • Fire support planning.
+              • Fire support coordination.
+
+         (2) The unit can plan an operation for firing the sabot as if live fire were
+         actually going to occur. A sample sequence that allows the unit to train
+         against the ARTEP standards follows:
+
+
+---
+
+(a) The platoon/section leader arranges for--
+
+    • A time to fire on the sabot range.
+    • Sabot ammunition.
+    • Vehicles.
+    • Weapons.
+    • Food.
+    • An assembly area close to the firing position but not in
+
+         view.
+
+(b) At the appointed time, the unit crosses their starting point en
+route to the assembly area while practicing--
+
+    • Road march and convoy procedures.
+    • Unit loading plan.
+
+(c) Upon arrival at the assembly area, the unitX
+
+    • Opens the fire control net.
+    • Boresights mortars.
+    • Constructs firing charts.
+    • Receives the platoon/section leaders orders for occupation
+
+         of the firing position.
+    • Maintains vehicles.
+
+(d) The reconnaissance party departs the assembly area and upon
+arrivalX
+
+    • Locates positions for the mortars, FOs, and FDC.
+    • Lays wire between the FDC and mortar positions.
+    • Orients the aiming circle and prepares to lay the section for
+
+         direction.
+    • Plans for the occupation of the position by the rest of the
+
+         section.
+    • Transmits orders for the rest of the unit to displace to the
+
+         firing position.
+
+(e) Upon arrival at the firing position, the unit--
+
+    • Occupies designated positions.
+    • Plans fires based on the tactical situation presented in the
+
+         assembly area.
+    • Assigns target numbers.
+    • Lays the mortars.
+    • Prepares ammunition.
+    • Conducts firing.
+
+
+---
+
+         (f) At the conclusion of firing, the unit displaces to its company
+         area to perform maintenance of vehicles, weapons, and equipment.
+         (g) While monitoring sabot firing, the unit leader can make
+         valuable use of the close proximity of each element to each other.
+         He can allow members of the element to visit another element to
+         observe their duties and procedures. He can also call all unit
+         members together at the conclusion of a task to critique and set the
+         stage for the mission or task.
+(3) Live-fire missions, such as Engage an Area Target and Fire Final
+Protective Fire, can be easily performed with only one firing position for
+the 81-mm sabot. Tasks that require the mortars to displace can be trained
+and tested by setting up more than one impact area or by plotting multiple
+firing points (Figure A-19).
+
+            Figure A-19. Multiple firing points.
+   Section III. SHORT-RANGE TRAINING ROUND
+
+
+---
+
+This section provides the technical information required to employ the SRTR. Trainers
+should exercise imagination and ingenuity in developing training situations for
+employing the SRTR. The SRTR enables units to train in locations where mortar training
+facilities are limited or do not exist. The SRTR cartridge provides an economical means
+of realistically training personnel in all phases of mortar gunnery.
+
+A-19. DESCRIPTION
+
+The SRTR is effective for training all elements of the indirect fire team. It provides the
+FO with a sound and visual signal by which he can spot rounds and make adjustments.
+The FDC computes data received from the FO, who observes the impact of the SRTR on
+a 1:10 scaled range. The gunner places data obtained from the FDC on the mortar and the
+assistant gunner drops an SRTR down the barrel. The entire indirect fire team functions
+the same as if they were firing service ammunition with one exception--the FO observes
+the SRTR impact on a 1:10 scaled range instead of the service ammunition at a normal
+distance in an impact area. The characteristics of the SRTR are as follows:
+
+    • Overall length: 14.5 inches.
+    • Firing weight: 6.84 pounds.
+    • Maximum range: 458 meters.
+    • Minimum range: 47 meters.
+
+Note : The 1:10 scale is based on 81-mm 300-series ammunition.
+
+A-20. COMPONENTS
+
+The SRTR practice cartridge consists of eight major components (Figure A-20).
+
+    • Fuze, point detonating M775.
+    • Projectile body.
+    • Obturating ring.
+    • Plastic charge plugs.
+    • Dud plugs.
+    • Fin assembly.
+    • Ignition cartridge, M987.
+    • Breach plug assembly.
+
+
+---
+
+                               Figure A-20. SRTR practice round.
+
+The SRTR is designed as a training round for the 81-mm mortar (M29 and M252) and the
+120-mm mortar (Figure A-20). The SRTR is designed to be fired, recovered, refurbished,
+and refired. The round is fired from the mortar the same as service ammunition. When
+fired, the SRTR travels from 47 to 458 meters, determined by charge and elevation. Upon
+impact, the SRTR emits a flash, bang, and smoke discharge but no fragmentation.
+
+A-21. RANGE RECOMMENDATIONS
+
+A scale of 1:10 is used to relate the range and deviation between the SRTR projectile and
+the standard 81-mm service projectile. The minimum range requirement for firing,
+through charge 3, is an area 700 to 900 meters in depth and 300 meters in width. This is
+necessary to accommodate the desired number of targets and provide a maneuver area to
+operate in. When using 81-mm mortars, the mortars can be no closer than 4 meters apart,
+but can be as far apart as the range permits (check with the local range control
+regulations). The range must be cleared of all unexploded ammunition, concrete, and
+steel objects (Figure A-21).
+
+
+---
+
+                                Figure A-21. SRTR scaled range.
+
+A-22. ADVANTAGES
+
+The SRTR is used with all 81-mm mortars and 120-mm mortars by way of the M303
+insert. It also accommodates prescribed crew drill procedures, and it can be used by
+mechanized and ground-mounted elements. The SRTR has the following advantages:
+
+    • Provides the ability for firing in training areas where the firing of service
+         ammunition is not allowed.
+
+    • Saves time by eliminating long-distance traveling to suitable mortar ranges.
+    • Saves in cost of firing service ammunition.
+    • Can be taught to operate and maintain in a short period of time.
+    • Has the same procedures used by the entire indirect fire team when firing service
+
+         ammunition, excluding appropriate charge and fuze settings.
+    • Uses all of the equipment required when firing service ammunition.
+
+A-23. AMMUNITION
+
+The projectile body is made from cast iron and is machined to accept the M775 fuze, the
+tail fin, three charge plugs, three dud plugs, and the obturator ring. It is painted blue with
+white lettering and one brown band to identify it as a practice round. The charge and dud
+plugs are fitted into holes drilled in the base of the projectile body. The obturator ring is
+plastic and shaped like a split ring so that it will expand to fit over the projectile body and
+
+
+---
+
+will seat into the band groove. The M775 fuze assembly includes a pyrotechnic spotting
+cartridge, which is retained in the fuze body by a threaded aluminum cup. This assembly
+is threaded into the nose of the projectile body. The M775 fuze replicates the M734
+multi-option fuze used with service ammunition. Even though the M775 has four fuze
+settings for ammunition bearer training, it will only function upon impact. The tail fin
+assembly is threaded onto the stud at the base of the projectile body. Inside the tail fin is
+the propellant cartridge. It is a primed 12-gauge shotgun shell casing loaded with a
+double base propellant. The breech plug/firing pin is threaded into the rear of the tail fin
+and retains the propellant cartridge in the fin cavity.
+
+         a. Prepare the M880 short-range training ammunition for firing.
+
+                  (1) The M880 is issued ready to fire. When the round is unpacked, inspect
+                  the following:
+
+                       • No red showing on top of fuze.
+                       • Packing clip is in place.
+                       • Obturating ring is present and flush with body.
+                       • Three plastic charge plugs seated in body.
+                       • Three dud plugs seated in body.
+                       • Ignition cartridge inside fin assembly.
+                       • Breech plug seated in fin assembly.
+
+                                                WARNING
+
+              1. If red can be seen above the windshield on the fuze, the fuze
+              has been armed. Place the entire round in the dud pit until
+              you are ready to defuze the round.
+
+              2. If the packing clip is loose, attempt to place the packing clip
+              back into the fuze. If it will not go back into the fuze, place the
+              entire round into the dud pit until you are ready to defuze the
+              round.
+
+                  (2) To prepare a newly issued round for firing, set the desired charge by
+                  pulling one of the plastic charge plugs from the body of the round. Set the
+                  desired fuze setting by rotating the multi-option fuze clockwise or
+                  counterclockwise until the desired fuze setting is lined up with the notch
+                  on the body of the round. Present the round to the squad leader for his
+                  inspection. When the assistant gunner is ready to fire the round, pull the
+                  packing clip from the round and hand it to him.
+
+                                                WARNING
+
+
+---
+
+              Do not pull the packing clip from the round until the assistant
+              gunner is ready to fire the round.
+
+Note: The fuze setting is for training only and will not affect the functioning of the fuze.
+
+                  (3) Charge settings for the round are as follows:
+
+                            (a) Charge 0--pull all the plastic charge plugs from the body.
+
+                            (b) Charge 1--pull two of the plastic charge plugs from the body.
+
+                            (c) Charge 2--pull one of the plastic charge plugs from the body.
+
+                            (d) Charge 3--do not pull any of the plastic charge plugs from the
+                            body.
+
+                  (4) To refurbish a previously fired round, ensure that the round is clean.
+                  All portholes must be free of dirt to allow the gas to escape, and all of the
+                  threads must be clean.
+
+                  (5) Inspect the refurbishing kit to ensure that all equipment is present.
+
+                       • Three plastic charge plugs.
+                       • One obturating ring.
+                       • One M987 ignition cartridge.
+                       • One breech plug.
+                       • One M775 point detonating fuze.
+                       • Three dud plugs.
+
+                                                WARNING
+
+              1. If any red can be seen above the fuze windshield, place the
+              fuze in the dud pit and dispose of the fuze IAW unit sop.
+
+              2. If the packing clip is loose, attempt to place the packing clip
+              back into the fuze. If it will not go back into the fuze, place the
+              fuze into the dud pit and dispose of the fuze IAW unit sop.
+
+              3. Inspect the breech plug firing pin for freedom of movement.
+              If it does not move freely, a misfire could occur or premature
+              ignition of the ignition cartridge could take place when
+              assembling the round.
+
+                  (6) To assemble the round do the following:
+
+
+---
+
+                            (a) Install the three plastic plugs with the tangs pointed to the rear
+                            of the projectile body.
+                            (b) Install the three dud plugs.
+
+                            (c) Secure the fin assembly onto the projectile body hand tight.
+                            (d) Install the obturating ring onto the projectile body.
+
+                                                CAUTION
+              If the obturating ring does not seat flush or below the surface of
+              the projectile body, send the body back to the maintenance table
+              for further cleaning. If the obturating ring still does not seat flush,
+              the body must be disposed of.
+
+                            (e) Install the fuze assembly hand tight and flush with the top of
+                            the round.
+                            (f) With the round laying horizontally on the table, install the
+                            M987 ignition cartridge into the tail fin assembly.
+
+                                                WARNING
+              Do not force the ignition cartridge into the tail fin assembly.
+
+                            (g) Install the breech plug by hand and use the breech plug wrench
+                            to secure the breech plug hand tight.
+                  (7) Place the round back into its canister until it is ready to be fired.
+
+Note: Do not refurbish the M880 round if it will not be fired that same day.
+
+                  (8) To fire the round, follow the same procedures as if the round was
+                  newly issued.
+         b. Clean and service the M880 SRTR.
+                  (1) Fill two trash cans with water and leave another trash can empty.
+
+                  (2) Dip the spent M880 into the first water bucket and scrub off the heavy
+                  dirt with a wire brush.
+
+
+---
+
+    (3) Place the M880 round on the work table and secure the projectile body
+    with the strap wrench.
+
+    (4) Remove the fuze (if necessary, use the long handle pliers) and discard.
+
+                                 WARNING
+
+When the fuze is removed from th e body, it must be inspected
+to ensure that it has detonated by inspecting the coin to see if
+it is missing.
+
+    (5) Using the breech plug wrench, unscrew the breech plug and discard.
+
+    (6) Using the fin wrench, unscrew the fin assembly from the projectile
+    body.
+
+    (7) Place the tail fin assembly upright on the cartridge block, place the
+    punch into the tail fin assembly, strike the punch with the ball peen
+    hammer, and drive out the spent ignition cartridge. Discard the spent
+    ignition cartridge.
+
+    (8) Place the tail fin assembly into the second wash bucket and clean it
+    with a wire brush for the final cleaning. Ensure that all dirt and residue are
+    removed from the round.
+
+    (9) Remove all remaining plastic plugs and the obturating ring from the
+    projectile body and discard them.
+
+    (10) Place the projectile body into the second wash bucket and remove all
+    dirt and residue. Take the M16 bore brush and thoroughly clean the vent
+    holes and the thread.
+
+    (11) With a clean, dry rag, dry both components of the M880. Ensure no
+    dirt or residue are present on the projectile body and tail fin assembly.
+
+    (12) Examine the M880 for cracks and any type of damage that may
+    prevent the projectile from being refired. If there is evidence of cracks or
+    some type of damage, discard the entire projectile body and tail fin
+    assembly.
+
+    (13) If the M880 is not going to be fired the same day, lightly oil the
+    projectile body and tail fin assembly. Screw the tail fin assembly back on
+    the body and store it in its canister.
+
+
+---
+
+Note : The M880 must be recovered, cleaned, and serviced within 24 hours after it is
+         fired.
+
+         c. Recover a previously fired M880 round from downrange.
+
+                                                WARNING
+
+              Failure to follow the proper recovery procedures may result
+              in personal injury.
+
+                  (1) Ensure the range is closed and all weapon systems have ceased firing.
+
+                  (2) Issue a shovel, a grappling hook, heavy duty leather work gloves, and
+                  an ammunition box to the assistants.
+
+                  (3) Walk downrange with the assistants and locate the M880 round.
+
+                  (4) Pick up the round and verify that the round has functioned by
+                  observing that all of the dud plugs on the body are missing. Have a second
+                  soldier verify that all of the dud plugs are missing.
+
+                                                WARNING
+
+              When picking up the M880, ensure that your hand and fingers
+              are not covering the vent holes.
+
+                  (5) If all of the dud plugs are missing, place the round in the ammunition
+                  box.
+
+                                                WARNING
+
+              If any of the dud plugs are present and the fuze has not
+              functioned, place the round in a marked pit and follow the
+              defuzing procedures outlined in paragraph A-23d.
+
+Note : It may be necessary to dig the round out with the shovel. The grappling hook may
+         be used to assist in recovering the round.
+
+                  (6) Ensure that each hole left by the M880 round is filled.
+
+                  (7) Once the M880 rounds have been recovered, transport them to the
+                  maintenance table.
+
+
+---
+
+         d. Defuze a dud M880 round.
+
+Note: The dud M880 round may be defuzed when first located or at the end of that
+         day’s firing as long as it is recovered within 24 hours after it has been fired.
+
+                  (1) Set the defusing device (boom box) on the platform with the holes
+                  facing downrange and away from the troops. Pull out the four retaining
+                  pins that secure the top portion of the boom box, then pull the top off the
+                  base of the boom box.
+
+                  (2) Turn the round until the packing clip portion of the round is facing
+                  upward.
+
+                  (3) With the chisel over the fuze, secure the top portion of the boom box to
+                  the base, then attach the four retaining pins.
+
+                  (4) Kneeling on the opposite side of the holes on the boom box, strike the
+                  chisel with the 4-pound hammer until the chisel moves freely from the
+                  base of the boom box to the top of the boom box.
+
+                                                WARNING
+
+              1. All personnel must be on the solid side of the boom box
+              before the chisel is struck with the hammer.
+
+              2. When defuzing an M880 round, ear plugs and goggles must
+              be worn.
+
+                  (5) Remove the cover of the boom box and inspect the fuze to verify that
+                  the spotting charge has functioned.
+
+                                                WARNING
+
+              If the spotting charge has not functioned or the fuze has
+              pulled away from the thread well, transport it to the dud pit
+              and dispose of it IAW the unit SOP.
+
+                  (6) Remove the M880 round from the boom box and return the cartridge
+                  to the firing line for cleaning.
+
+A-24. TRAINING USAGE
+
+
+---
+
+SRTR training enables the unit commander to observe the actions of the indirect fire team
+and the tasks being performed by the indirect fire team. This enhances the ability of the
+commander to evaluate the proficiency of all elements of the training, to identify and
+isolate problems, and to begin corrective training. All members of the team can view the
+overall operation to understand each member’s part.
+
+         a. The time used for preparation determines the benefits gained from training with
+         the SRTR. Three steps must be accomplished before training begins:
+
+                  (1) Build a scaled firing range (permanent, semi-permanent, or
+                  temporary).
+
+                  (2) Construct a map of the firing range.
+
+                  (3) Train the personnel with the SRTR. Personnel should be trained in the
+                  recovery, refurbishment, and maintenance of the M880 before range firing
+                  begins.
+
+         b. Gunners should not be allowed to observe the impact of the SRTR, unless
+         firing a direct-lay mission. Normally, mortars are mounted in a defilade position
+         so that mask exists between the impact area and the firing position. If mask does
+         not exist, using a referred deflection of 0700 when firing is recommended.
+
+         c. When positioning 81-mm mortars, the lateral distance between the center of
+         each baseplate should have a minimum distance of 4 meters (40 meters when
+         firing service ammunition, 1:10 scale for the SRTR = 4 meters).
+
+         d. The SRTR can also be fired from the 120-mm mortar using the M303 81-mm
+         insert. When positioning 120-mm mortars, the lateral distance between the center
+         of each baseplate should be a minimum of 6 meters (60 meters when firing
+         service ammunition, 1:10 scale for the SRTR = 6 meters).
+
+A-25. CONSTRUCTION OF A SCALED MAP
+
+The range limitations associated with the M880 SRTR make a standard 1:50,000-scale
+military map difficult to use. Therefore, a new map 1/10 the size (1:5,000) must be
+constructed.
+
+         a. Use a blank sheet of paper to draw grid squares the same size as the 1:50,000-
+         scale map and renumber them based on 100 meters per square.
+
+         b. Determine the 8-digit grid coordinates to the mortar position on a 1:50,000-
+         scale military map and convert it to a 1:5,000 scale (Figure A-22).
+
+
+---
+
+                  Figure A-22. Converting 1:50,000 grid to 1:5,000 grid.
+
+Note : The first number of a grid coordinate is the 10,000-meter designator; the second
+         number is the 1,000-meter designator; the third number is the 100-meter
+         designator; and the fourth number is the 10-meter designator.
+
+                  (1) To make a 1:5,000-scale map, drop the 10,000-meter designator and
+                  use the 1,000-meter designator as the first number for each grid. For
+                  example, a mortar location of 07368980 becomes 736980. The 7 and the 9
+                  will precede each grid location since they identify the 1,000-meter
+                  increments. To make an 8-digit grid from this 6-digit grid, add a 0 at the
+                  end of the easting and northing grid location. For example, the mortar grid
+                  becomes 73609800. The 0 is the 1-meter designator.
+
+                  (2) Before constructing the 1:5,000-scale map, determine the direction of
+                  fire from the mortar position to the RP. (Surveying a point on the range
+                  should be done at least one day before training. If a point on the range has
+                  already been surveyed, it can be used to make the map.) For example, if
+                  the direction of fire is southeast, the mortar position would be in the
+                  northwest corner of the grid sheet. Using the example grid coordinates, the
+                  most westerly grid line would be 73 and the second most northerly grid
+                  line would be 98. Number the rest of the grid lines accordingly.
+
+         c. To plot the mortar position on the 1:5,000-scale map, use the same protractor
+         that is used for the 1:50,000-scale map, but instead of the protractor measuring
+         1,000 meters, it will measure 100 meters.
+
+
+---
+
+d. To determine the direction of fire, place a target downrange, set up the M2
+aiming circle at the base gun position, and measure an azimuth to the target. To
+accurately plot targets on the map, measure the distance by pace count from the
+base piece to the target and then plot it on the map. This procedure allows the
+creation of a surveyed firing chart. The FO’s location can be plotted in the same
+manner. After all plotting is done, give a copy of the map to the FO (Figure A-
+23). He can call for fire using this map the same as if firing service ammunition.
+
+       Figure A-23. Plotting targets on the 1:5,000-scale map.
+e. Before putting the map on the M16 plotting board, determine the grid
+intersection to represent the pivot point in the same manner as if firing service
+ammunition.
+
+         (1) Place the grid system on the plotting board the same as if firing service
+         ammunition. Number every other black line. Every small green square
+         equals 5 meters and every black square equals 50 meters.
+         (2) Place the mortar position and target on the plotting board the same as if
+         firing service ammunition. The grids plotted are to the nearest 1 meter
+         instead of 10 meters.
+
+
+---
+
+f. To determine the mounting azimuth, line up the mortar position and the RP.
+Read the azimuth on the azimuth scale at the top of the plotting board. Round off
+the azimuth to the nearest 50 mils, and superimpose this azimuth over the referred
+deflection. Number the azimuth scale every hundred mils using the LARS rule
+(Figure A-24).
+
+          Figure A-24. Determining direction from MP to RP.
+g. When firing the M880 SRTR, range control must know exactly where the firing
+position is. The 1:50,000-scale grid must be annotated on the data sheet (DA
+Form 2188-R), labeled, and placed in the BP box (Figure A-25).
+
+
+---
+
+           Figure A-25. Example completed DA Form 2188-R.
+
+h. The computer’s record (DA Form 2399) is also altered. For safety, as well as
+range control’s information, "M880" should be placed in the "SHELL AND
+FUZE" spaces in both the FDC ORDER and INITIAL FIRE COMMAND (Figure
+A-26).
+
+
+---
+
+                      Figure A-26. Example completed DA Form 2399.
+
+A-26. SAFETY
+
+The SRTR is safe to handle and fire. The following safety precautions must be enforced.
+
+                                                WARNING
+
+              The SRTR is inert and can be stored and handled as a weapon
+              until it is loaded with the refurbishment kit at which time it
+              will be handled as a live mortar round. When loaded and
+              ready to fire, all safety precautions used during handling of
+              service ammunition are observed.
+
+         a. The SRTR refurbishment kit contains a propellant and smoke charge, and is
+         always stored and handled as live ammunition.
+
+         b. Practice ammunition is never fired over the heads of troops.
+
+         c. Personnel never go forward of the firing line until a cease fire has been called
+         by the range OIC or safety officer.
+
+Note : Duds are disposed of as prescribed in paragraph A-23.
+
+A-27. MALFUNCTIONS
+See Chapter 3, paragraph 3-13 for a detailed discussion of malfunctions.
+
+A-28. REMOVAL OF A MISFIRE
+
+After failure to fire, misfire removal procedures are followed to remove the round from
+the weapon. Misfire procedures for live rounds also apply when firing the SRTR.
+
+         a. If the primer cap of the SRTR is dented, the whole round is placed in the dud
+         pit for disposal IAW the local SOP.
+
+         b. If the primer is not dented, the round can be refired upon determination of the
+         cause of the misfire.
+
+A-29. SUPPLY DATA
+
+The equipment shown in Table A-3 is available at the ammunition supply facility:
+
+
+---
+
+DESCRIPTION       NATIONAL          PART NO. DODAC NO.
+                  STOCK NO.
+
+Cartridge, 81-mm  1315-01-216-7070             1315-C876
+Practice: M880
+
+Refurbishment kit, M80 1315-01-219-3936 19200  1315-C045
+
+                                Table A-3. Supply data for SRTR.
+
+                           Section IV. M303 SUBCALIBER INSERT
+
+The M303 subcaliber insert (Figure A-27) is a low-cost training aid that provides
+effective training for the entire platoon, including the FO, on a live-fire exercise. It uses
+300-series HE, WP, and illumination ammunition. Currently, the FDC will use the M16
+plotting board for plotting. The subcaliber insert will be issued to the unit for
+accountability. The unit is also responsible for maintaining the insert and the DA Form
+2408-4.
+
+                             Figure A-27. M303 subcaliber insert.
+
+A-30. CHARACTERISTICS
+
+This paragraph describes the characteristics of the M303 subcaliber insert.
+
+         a. The 300-series ammunition has a minimum range of 73 meters and a maximum
+         range of 4,789 meters. It can be fired at a sustained rate of three (charge 8) or five
+         (charge 6). It can be fired indefinitely at a period rate of fire. The 300-series
+
+
+---
+
+         ammunition has a maximum rate of fire of 12 (charge 8) for two minutes and 12
+         (charge 6) for five minutes.
+
+         b. The barrel is a M29A1 that has been refurbished. This is the only M29 barrel
+         approved to use the M303 subcaliber insert. The barrel is 51 inches long and
+         weighs 28 pounds. It has a smooth bore with one circular cooling ring and a
+         removable firing pin.
+
+         c. The insert sleeve is 42 inches long and weights 5.9 pounds. It is tubular shaped
+         with cooling holes. It has a threaded end on top and a smooth end on the bottom.
+         The sleeve slides over the barrel and is threaded onto the barrel until it is flush
+         with the breech cap. It is held in place by three hex screws on the muzzle end.
+         Approximately 2 inches of the M29 cannon will be showing at the muzzle end.
+
+Note: After every fire mission, the hex screws on the upper sleeve ring should be
+         checked for tightness to ensure the interior of the 120-mm cannon is not
+         damaged.
+
+         d. The filler block is 15.9 inches long and weighs 17 pounds. It is tubular shaped
+         with the top and bottom the same diameter as the interior of the 120-mm cannon.
+         The top and bottom have a concave slope with a threaded hole, which is used in
+         the removal of the filler block.
+
+         e. The M303 subcaliber insert comes with a filler block adapter, a 0.0625-inch
+         hex wrench, and a firing pin wrench.
+
+A-31. MAINTENANCE
+
+Maintenance must be performed on the M303 subcaliber insert before, during, and after
+firing. This paragraph describes the procedures to follow to perform this maintenance.
+
+         a. Before.
+
+                  (1) Cannon.
+
+                            (a) Update the DA Form 2408-4 to reflect days firing. Ensure that
+                            all standards for bore scope and pullover gauging have not been
+                            exceeded (within the past 180 days).
+
+                            (b) Check the M120/M121 mortar for cracks, broken welds, rust,
+                            and missing or damaged parts.
+
+                            (c) Check the M29A1 cannon for foreign matter in the barrel, then
+                            wipe dry. Clean and lubricate the exterior surface. Check for
+                            bulges, dents, and visible cracks. Check for evidence of gas
+
+
+---
+
+                            leakage (grayish color) around the firing pin located in the base of
+                            the spherical projectile.
+
+                            (d) Check the insert sleeve for cracks, broken welds, rust, and
+                            missing or damaged parts. Check that the insert sleeve assembles
+                            onto the cannon assembly, can be secured with set screws, and is
+                            free of any nicks and burrs.
+
+                  (2) Filler block.
+
+                            (a) Check the filler block for cracks, broken welds, rust, and nicks
+                            or burrs.
+
+                            (b) Check that the filler block fits with breech plug of the M29A1
+                            cannon, seats in the base of the 120-mm bore, and can be
+                            employed or retrieved using the adapter tool.
+
+         b. During.
+
+                  (1) Check the bore after approximately every 50 rounds for bulges, dents,
+                  and visible cracks. Check for evidence of gas leakage around the firing pin
+                  (grayish discoloration).
+
+                  (2) Dry swab the barrel bore after firing every 10 rounds or after every end
+                  of mission (EOD).
+
+         c. After.
+
+                  (1) Check DA Form 2408-4 to ensure it reflects the days firing.
+
+                  (2) Ensure rifle bore cleaning compound (RBC) is used to thoroughly
+                  clean the barrel bore after firing and for two consecutive days thereafter.
+                  Be sure to wipe dry and lubricate with GPL after each cleaning.
+
+Note: For nonfiring periods, clean and lubricate the barrel on a weekly basis.
+
+                  (3) Check the insert sleeve for cracks, broken welds, rust, nicks, burrs, and
+                  damaged parts.
+
+                  (4) Check the filler block for cracks, broken welds, rust, nicks, burrs, and
+                  damaged threads.
+
+                  (5) Intervals are based on usual conditions. For unusual operating
+                  conditions, lubricate more often. When the weapon is not being used, the
+                  intervals may be extended if proper lubrication procedures have been
+
+
+---
+
+                  followed. Clean the barrel bore weekly with RBC, and lubricate the barrel,
+                  firing pin, insert sleeve, and filler block weekly with GPL.
+
+                                                WARNING
+
+              Dry cleaning solvent is flammable. Do not clean parts near an
+              open flame or in a smoking area. Dry cleaning solvent
+              evaporates quickly and has a drying effect on the skin. When
+              used without protective gloves, this chemical may cause
+              irritation to, or cracking of, the skin.
+
+Note : Before firing, dry swab the barrel bore of the M29A1 and the 120-mm cannon.
+         Wipe dry the exterior of all components of the subcaliber insert.
+
+A-32. MISFIRE PROCEDURES
+
+This paragraph describes the misfire procedures for an M303 subcaliber insert.
+
+         a. When a misfire occurs, any member of the squad who notices a misfire
+         immediately announces, "MISFIRE!"
+
+         b. All personnel except the gunner move 100 meters to the rear of the mortar.
+         When carrier-mounted, they exit through the cargo hatches and climb over the
+         front of the carrier.
+
+         c. The gunner stands to the left rear and kicks the cannon several times with the
+         heel of his boot to attempt to dislodge the round. If the round fires, the mortar is
+         re-laid and the fire mission continues. If the round fails to fire, the gunner moves
+         to the rear of the mortar, joins the crew, and waits one minute.
+
+                                                WARNING
+
+              Keep the head and body away from the front of the cannon.
+              Do not stand behind the cannon. At no time will the buffer
+              housing assembly be loosened.
+
+         d. After one minute, the gunner returns to the mortar (if carrier-mounted, he
+         remounts the carrier over the front) and feels the cannon for heat using his
+         fingertips.
+
+                                                WARNING
+
+              If excessive heat is felt below or around the lower collar stop
+
+
+---
+
+              on the exterior of the cannon or the rate of fire exceeded the
+              sustained rate (four rounds per minute), the gunner rejoins
+              the crew and waits an additional three minutes. (When
+              excessive heat is felt below or around the lower collar stop on
+              the cannon, the subcaliber insert is too hot to handle.)
+
+         e. After three minutes, the gunner returns to the mortar (if carrier-mounted, he
+         remounts the carrier) and feels the 120-mm cannon for heat. If the 120-mm
+         cannon still radiates excessive heat, he attempts to cool it with water or snow.
+
+Note : Low and high range pertains to carrier-mounted only.
+
+         f. If the cannon is cool enough to handle, the gunner locks down the data on the
+         sight, removes the sight (and extension if carrier-mounted), and places them in a
+         safe place. He then calls the crew forward. The gunner grasps the insert just below
+         the muzzle with both hands ensuring no part of his body is in front of the muzzle
+         and his fingers are not in the holes of the insert. On an M374 HE series misfire, he
+         slides the insert approximately 12 inches out of the 120-mm cannon and releases
+         the insert taking one step with his left foot, bending at the waist, and bringing his
+         hands down alongside the cannon. (The same as if he were firing a round.) On an
+         M301 illumination series misfire, he slides the insert approximately 3 to 6 inches
+         out of the 120-mm cannon. This procedure is to attempt to dislodge the round
+         before removing the insert. If the round fails to fire, the gunner depresses the
+         cannon to its lowest elevation, leaving approximately 1/4 turns on the elevation
+         shaft. If the mortar is in low range (carrier-mounted), the gunner depresses the
+         cannon to its lowest elevation.
+
+Note: With an M301 illumination series misfire, if the round fails to fire after releasing
+         the insert 3 to 6 inches out of the cannon, the gunner rejoins the crew for 5
+         minutes. If the round does not initiate, he continues the procedures in paragraph f.
+
+         g. The assistant gunner grasps the insert just below the muzzle with both hands.
+         Ensuring that no part of his body is in front of the muzzle, he lifts the insert.
+         When the upper sleeve ring of the insert sleeve clears the mortar, the gunner
+         grasps the sleeve and helps in removing the insert.
+
+         h. When the insert clears the 120-mm cannon, the gunner holds the insert while
+         the assistant gunner positions himself to receive the round. (If carrier-mounted,
+         the gunner stabilizes the insert while the assistant gunner exits the carrier. For
+         added support, the gunner may rest his left elbow on the cross-member of the
+         carrier.) The assistant gunner places his hands just behind the muzzle of the insert.
+         At this time, the assistant gunner gives the command to lift the insert. NEVER
+         LOWER THE BASE OF THE INSERT BELOW HORIZONTAL BEFORE THE
+
+
+---
+
+         ROUND HAS BEEN REMOVED. The assistant gunner places the meaty
+         portions of his thumbs at the muzzle end and waits for the round to exit the tube.
+         The assistant gunner grasps the round, removes it from the tube, and gives it to
+         the ammunition bearer who disposes of the round according to SOP. The insert is
+         turned upside down to shake out any debris, inserted back into the 120-mm
+         mortar, swabbed, and re-laid to continue the fire mission.
+
+Note: If the round is not dislodged, take the entire insert downrange and place it in a
+         dud pit or a designated area ensuring that the cannon is pointing in the direction
+         of fire. Notify EOD personnel.
+
+
+---
+
+                                      APPENDIX B
+
+             MORTAR TRAINING STRATEGY
+
+         This appendix provides a comprehensive unit training strategy for training
+         mortarmen. Leaders have the means to develop a program for training
+         their mortar units to full mission proficiency. This training strategy
+         applies to all mortars in all organizations of the US Army. Although not
+         prescriptive in nature, it must adapt to a unit’s mission, local training
+         resources, commander’s guidance, and unit training status.
+
+B-1. TRAINING PHILOSOPHY
+
+This training strategy synchronizes institutional and unit components to produce units
+that are trained to win on the battlefield. It includes the training documents, institutional
+training, unit training, and training resources needed to achieve and sustain the required
+outcome. It covers the skills required for individual, crew, leader, and collective
+proficiency and ensures that the strategy is linked horizontally within CMF and vertically
+between officer and enlisted. This strategy integrates information from several
+publications, including this manual, into a single-source document (see References).
+
+B-2. UNIT MORTAR TRAINING
+
+Technical and tactical proficiency is based on sound training. The importance of skilled
+and proficient mortarmen must not be overlooked within the context of the battalion’s
+overall training strategy. Unless leaders have a mortar background, they may not
+understand the distinct training requirements and tactical role of mortars. This ensures
+they will allocate priorities and resources to mortars, which are required for effective
+training. Therefore, leaders may also require training. This can be achieved by OPD and
+NCOPD instruction on mortars, which include both technical and tactical mortar subjects.
+
+         a. Once mortarmen have mastered their own tasks, they must be fully integrated
+         into the training exercises of the company, battalion, or both. Only within the
+         context of a full maneuver exercise can the mortar unit’s indirect fire support
+         ability be fully trained and evaluated. However, mortars suffer from not having a
+         training device (such as MILES) to simulate the terminal effects of mortar rounds.
+         As a result, maneuver units tend to under-employ their supporting mortars.
+         Despite the current absence of such devices, there are other techniques to assess
+         the effects of indirect fire. (These are outlined in GTA 25-6-7 and Appendix F of
+         FM 25-4.) Fire missions not specifically using enemy targetsXsuch as registration
+         and adjusting final protective fireXshould also be routinely conducted in
+         maneuver exercises.
+
+
+---
+
+         b. A training plan that employs mortarmen only as OPFOR riflemen is not
+         effective for many reasons. Firstly, mortarmen are not being trained in the
+         technical and tactical tasks pertinent to their mission. Secondly, riflemen are
+         deprived of a valid training experience as OPFOR. Thirdly, maneuver units are
+         not trained to employ their mortar indirect fire support.
+
+B-3. MORTAR TRAINING AT TRAINING BASE
+
+The mortar unit training strategy begins with the training base. Leaders must know what
+skills mortarmen bring with them when they report to their unit. This forms the base to
+build mortar training in the unit. The career pattern for NCOs and officers (lieutenants) is
+depicted in individual training. It entails alternating between the training base and units
+with progressively advanced levels of training and responsibility. Mortar training in the
+institution focuses on preparing the soldier for these positions. Depending on the course,
+the training focus includes technical training in mortar skills, mortar familiarization, and
+mortar issues update (Table B-1).
+
+COURSE                               SKILL LEVEL      COURSE
+
+                                                      FOCUS
+
+                                1 2 3 4 OTHER
+
+One Station Unit Training       X X                   A
+
+Basic NCO Course                X X                   C,D
+
+Advanced NCO Course                  X                C,D
+
+Infantry Mortar Leader Course        X X           X  B,C,D
+
+Officer Candidate School                           X  C
+
+Infantry Officer Basic Course                      X  C
+
+Infantry Career Captain Course                     X  D
+
+Pre-Command Course                                 X  C,D
+
+A = MOS-PRODUCING
+B = ADDITIONAL SKILL IDENTIFIER FOR OFFICERS
+C = FAMILIARIZATION
+D = REVIEW/UPDATE
+
+                  Table B-1. Institution courses.
+
+
+---
+
+         a. One Station Unit Training (11C). OSUT trains new soldiers for their initial
+         assignment in infantry or mechanized units. Training is divided into two phases.
+         Phase I (seven weeks) teaches common entry-level infantry tasks. Phase II
+         continues to foster the self-discipline, motivation, physical readiness, and
+         proficiency in combat survivability started in Phase I. The 11C soldiers receive
+         instruction in mortar systems to prepare them for their specific unit assignments
+         (light units 60-mm and 81-mm mortars; heavy units 81-mm, 4.2-inch, and 120-
+         mm mortars). Soldiers receive familiarization on FDC and FO procedures and are
+         required to pass a mortar gunner’s examination to be awarded their MOS.
+
+         b. Basic Noncommissioned Officer Course (11C). BNCOC teaches junior
+         NCOs to lead, train, and direct subordinates in the maintenance, operation, and
+         employment of weapons and equipment. The instruction includes FDC
+         procedures, fire planning, tactical employment of mortars, and maintenance.
+
+         c. Advanced Noncommissioned Officer Course. ANCOC prepares NCOs to
+         lead a mortar platoon in combat as part of the battalion team. This includes
+         fostering an understanding of the battalion task force concept and how it fights.
+         Training that applies to mortars includes fire planning, FDC, and FO procedures.
+
+         d. Infantry Mortar Leader Course. IMLC provides lieutenants and NCOs
+         (sergeant through master sergeant) with the working knowledge to supervise and
+         direct the fire of a mortar platoon. Instructions include tactical employment of the
+         mortar platoon, graphics, fire planning, mechanical training, FO procedures, and
+         mortar ballistic computer procedures. Officers are awarded the additional skill
+         identifier of 3Z. Commanders must ensure that IMLC graduates fill mortar
+         leadership positions. The skills personnel have learned are complex and
+         perishable and must be sustained in the unit.
+
+         e. Infantry Officer Basic Course. IOBC trains lieutenants in weapons,
+         equipment, leadership, and tactics. It also teaches them how to instruct their
+         subordinates in the maintenance, operation, and employment of weapons and
+         equipment for combat. Students receive instruction in mechanical operation of the
+         mortar as well as detailed instruction on FO procedures.
+
+         f. Infantry Career Captain Course. ICCC trains first lieutenants and captains in
+         leadership, war fighting, and combat service support skills required to serve as
+         company commanders and staff officers at battalion and brigade levels. Mortar
+         training focuses on supervisory tasks.
+
+         g. Pre -Command Course. PCC is intended for field-grade officers (majors
+         through colonel) designated for battalion and brigade command. Training consists
+         of a review and update on mortar issues such as battle drills and safety.
+
+B-4. TRAINING IN UNITS
+
+
+---
+
+A unit training program consists of initial and sustainment training. Both may include
+individual and collective skills. Resources, such as devices, simulators, simulations,
+ranges, and ammunition, further develop skills learned in the institution. The critical
+aspect of unit training is to integrate soldiers into a collective, cohesive effort as a mortar
+squad or platoon member. Drills, STXs, and live fire drills develop these collective skills.
+
+         a. Training Plan Development. Training plans are developed at higher
+         headquarters and published in the form of command guidance so that subordinate
+         units can develop their plans. The process begins with identifying the unit’s
+         METL. The METL contains all the collective tasks that a unit must perform to be
+         successful in combat. FM 25-100 contains specific information on the METL
+         development process.
+
+                  (1) Commanders assess the unit’s proficiency level in each METL task.
+                  Information for this assessment is obtained by reviewing past gunner’s and
+                  FDC examinations, ARTEP results, and external evaluation AARs, and by
+                  observing the execution of current training.
+
+                  (2) Once the assessment is complete, the commander lists the tasks in
+                  priority. Tasks that are identified as untrained (U) and are critical to the
+                  mission have training priority, followed by tasks that need practice (P) and
+                  tasks that are trained (T) to standard. Resources (ranges, ammunition,
+                  equipment, and time) are requested to train those tasks that do not meet the
+                  standard (U and P), while sustaining the proficiency of the tasks that do
+                  meet the standard (T). The commander refines his plan in the form of a
+                  training guidance and training schedules. FM 25-2 contains specific
+                  information on the training plan development process.
+
+                            (a) Initial training trains soldiers and units to a high degree of
+                            proficiency. New soldiers have not yet trained on all tasks
+                            associated with the mortar. Initial training ensures that each
+                            soldier, squad, and platoon has the basic core skills proficiency for
+                            their skill levels or their collective team. Initial training must be
+                            trained correctly to a rigid standard so that proficiency will be
+                            retained longer. Decay in skill proficiency will occur due to
+                            available training time, skill difficulty, or personnel turnover.
+
+                            (b) Sustainment training reduces skill decay and maintains
+                            proficiency within the band of excellence described in FM 25-100.
+                            Retraining may be required if a long period elapses between initial
+                            and sustainment training. Once proficiency is demonstrated in a
+                            task or collective event, more difficult scenarios and exercises
+                            should be developed to train to a higher level of proficiency, while
+                            sustaining previously learned skills.
+
+
+---
+
+b. Integrated Training Strategy. Figure B-1 outlines a logical progression of
+events that a mortar platoon can adapt to their training strategy. Mortar squads
+and the FDC are dual-tracked to focus on their specific training needs. Both tracks
+must be integrated to develop a mortar platoon that fights as one unit. Individual
+and collective training must be evaluated against specific standards and discussed
+in AARs. Objective evaluations provide readiness indicators and determine future
+training requirements.
+
+                 Figure B-1. Integrated training strategy.
+
+
+---
+
+         (1) Common tasks. These tasks are found in STP 7-11-BCHM1-SM, Skill
+         Level 1 and in STP 7-11-BCHM24-SM-TG, Skill Levels 2-4. These
+         manuals contain the common tasks that all soldiers must know, regardless
+         of MOS or duty position, to help them fight, survive, and win in combat.
+         Mastery of these common tasks are a prerequisite for individual training
+         specific to mortars. The communications and land navigation common
+         tasks are vital.
+
+         (2) MOS 11C tasks. These tasks are found in STP 7-11C14-SM-T G for
+         MOS 11C. This manual contains the individual tasks specific to
+         mortarmen. The trainer’s guide provides leaders the information to
+         develop the individual portions of a unit training plan. Each 11C task is
+         listed in this guide along with the following:
+
+                  (a) Training extension courses (TECs). Service schools use TECs
+                  to support their expertise directly to units in the field. This is
+                  accomplished through lessons in the form of booklets, video slides,
+                  audio tapes, videotapes, and electronic information delivery system
+                  (EIDS) machines. These lessons focus on individual tasks and are
+                  stocked in unit learning centers and the local training support
+                  centers. TEC materials provide standardized instruction, which is
+                  helpful to soldiers as they move from unit to unit. Preparation time
+                  is also saved. However, trainers must ensure the lessons directly
+                  and fully support the training objectives.
+
+                  (b) Army Correspondence Course Program. The ACCP provides
+                  printed training courses through the mail to soldiers. It is a
+                  valuable program for training the trainer, skill progression, and
+                  functional training for a specific specialty, MOS, or duty position.
+                  However, planning is needed. Leaders must identify courses that
+                  support the goals of the long-range training plan; soldier’s
+                  enrollment must then be arranged. (ACCP includes the infantry
+                  mortar platoon leaders’ course.)
+
+c. Cross Training. A soldier’s individual training tends to focus on his duty
+position. The assistant computer concentrates on FDC tasks while the squad
+leader concentrates on mortar mechanical tasks and leading the squad. However,
+this focus should not exclude other mortar training. Continuous training in duty-
+specific tasks can become boring to soldiers and deprive them of gaining broad
+proficiency in their MOS. Casualties (whether in war or in training) can quickly
+render the mortars ineffective if key personnel are lost. These variables make
+cross training essential. For example, cross training ensures that a squad leader
+can assume the duties of a computer and that subordinates are ready to assume the
+roles of their supervisors.
+
+
+---
+
+d. Collective Training. Collective training includes squad, section, and platoon
+drills and exercises.
+
+         (1) Squad training.
+
+                  (a) The core of squad training is crew drills. Squad-level mortar
+                  tasks are in the infantry MTP. This training can be performed in
+                  garrison (using devices or live ammunition). Once these tasks are
+                  mastered, an increased challenge is introduced by performing them
+                  under different conditions such as urbanized terrain, limited
+                  visibility, or NBC. Cross training is accomplished at this level by
+                  rotating soldiers among duty positions, such as squad leader and
+                  FDC positions, while providing coaching.
+
+                  (b) The foundation of squad training is sound individual training. If
+                  individual proficiency is effectively sustained, new soldiers can be
+                  readily integrated into the unit during collective training. They
+                  arrive at the unit proficient in specific tasks learned in the training
+                  base. These new soldiers learn additional tasks while training with
+                  their experienced peers and their squad leaders.
+
+         (2) Section and platoon training.
+
+                  (a) The core section and platoon tasks are found in the ARTEP
+                  MTP. This training usually consists of an exercise in the field:
+                  LFX, STX (either alone or with a rifle company), or FTX as part of
+                  the battalion. LFXs may involve subcaliber, sabot, SRTR, or
+                  service ammunition. STXs and FTXs may entail dry fire, live fire,
+                  or devices, either alone or in combination.
+
+                  (b) The FIST must be a part of this training. An LFX must never
+                  take place without the FISTs normally associated with the
+                  battalion. Trainers may wish to integrate these artillerymen into the
+                  mortar unit. This teaches the capabilities, limitations, and unique
+                  requirements of operating mortars.
+
+                  (c) Another important area is the mortar’s role in overall task force
+                  operations. This collective training mainly involves leaders in an
+                  FTX. However, mortars must be considered along with other fire
+                  support assets when conducting a MAPEX, CFX, TEWT, or CPX.
+
+         (3) Collective training resources.
+
+                  (a) Drill books. Crew and battle drills are published in a pocket-
+                  sized ARTEP manual called a drill book for each unit organized
+                  under a different TOE. (See ARTEP 7-90-DRILL.)
+
+
+---
+
+    • Battle drills are a specific category of collective tasks
+         performed at squad, section, or platoon level. They are vital
+         to the mortar’s success in combat. Battle drills are mostly
+         independent of METT-T and require minimal leader
+         actions to execute. They are usually executed or initiated on
+         a cue such as an enemy action or a simple leader order.
+         Battle drills are standardized throughout the US Army and
+         may not be modified in training. The mortar unit is required
+         to be proficient in all battle drills contained in the drill
+         book. Less critical drills are published in other sources such
+         as training circulars or field manuals.
+
+    • Mortar drills are divided into two general areas. The first
+         are those battle drills that previously were termed "crew
+         drills." These focus on the mechanical manipulation of the
+         mortar such as Lay for Small Deflection Change or
+         Remove Misfire. Full proficiency in these tasks is a
+         prerequisite for performing fire support missions. The
+         second area encompasses those battle drills essential to
+         combat survival. These include such tasks as React to
+         Chemical Attack, React to Indirect Fire, or React to
+         Nuclear Attack.
+
+(b) Mission training plan. The MTP is a descriptive ARTEP
+document for training mortarmen to critical wartime mission
+proficiency. It gives the mortar platoon or section a clear
+description of "what" and "how" to train. This is achieved through
+comprehensive, detailed T&EOs, guidance on training exercises,
+and other related training management aids. While its focus is on
+collective training, the MTP also provides matrixes that identify
+individual tasks, common 11C SM tasks, and MQS tasks. Like the
+drill book, the mortar MTP applies to platoons or sections
+organized under a specific TOE. (See ARTEP 7-90-MTP.)
+
+(c) Standards in training commission. STRAC outlines DA
+requirements for weapons training programs. It provides weapons
+standards, strategies, and resourcing for the 60-mm, 81-mm, 4.2-
+inch, and 120-mm mortars for different levels of unit training
+readiness. It specifies the amount and type of ammunition allocated
+to each mortar training event, and the annual frequency of that
+training event. For TRC A and TRC B units, the STRAC specifies
+that 90 percent of all squad leaders, gunners, and assistant gunners
+will have passed the mortar gunner’s examination within the past
+six months and FDC personnel will have passed the FDC
+examination within the past six months (FM 23-91). Also, it states
+that all mortar sections and platoons will have received a
+
+
+---
+
+                  satisfactory rating IAW ARTEP MTP standards within the past six
+                  months.
+
+                  (d) Battalion-level training model. BLTM is a means to qualify the
+                  cost of maintaining training readiness. This cost is expressed in
+                  terms of types of training events, their annual frequency, and the
+                  equipment miles/hours expended. This model is used to forecast
+                  and resource requirements to support the units specified training
+                  readiness level. It does not, however, prescribe what training a unit
+                  must conduct to maintain this level. Rather, BLTM provides a
+                  basis for understanding the trade-off between a unit’s training
+                  resources and its training strategy developed. This helps leaders
+                  program training alternatives to achieve and maintain combat
+                  readiness. The frequency of training events under BLTM are
+                  reflected in the battalion’s long-range training plan. When fully
+                  developed, BLTM encompasses and replaces STRAC.
+
+e. Example Annual Mortar Training Programs. Figures B-2 and B-3 are
+examples of battalion-level programs for training mortar units. Figure B-2 depicts
+a light infantry battalion in CONUS, and Figure B-3 depicts a mechanized
+infantry battalion in USAREUR. These examples are consistent with current
+guidance under the STRAC and BLTM.
+
+JANUARY                     FEBRUARY                MARCH
+
+  IND WPN QUAL/SUST           SQD/SEC/FDC DRILL       POST SUPPORT/BN CPX
+  CREW WPN QUAL/SUST             (LITR)               SQD/SEC/FDC DRILL
+  MAINTENANCE
+  SQD/SEC/FDC DRILL           PLT FTX                    (SRTR)
+                              CO FTX                  ITEP/CMT
+     (SRTR)                   BN FTX                  CO TEWT
+  PLT/SEC LFX                 DEPEX
+  GUNNER’S EXAM               MAINTENANCE
+  FDC CERTIFICATION           PLT STX (81-mm ONLY)
+                              SUPPORT CO STX
+
+APRIL                       MAY                     JUNE
+
+  IND WPN QUAL/SUST           SQD DRILL               POST SUPPORT
+  CREW WPN SUST               PLT STXs                BN CPX
+  MAINTENANCE                 CO FTXs                 CO MAPEX
+  SQD/SEC/FDC DRILL (LITR)    DEPEX                   ITEP (EIB)
+  SEC/PLT LFX                 BN FTX                  SQD/SEC/FDC DRILL
+                              MAINTENANCE
+                              SUPPORT CO FTX             (LITR)
+
+JULY                        AUGUST                  SEPTEMBER
+
+  NG & ROTC SUPPORT           IND WPN QUAL/SUST       SQD DRILL
+  SQD/SEC/FDC DRILL           CREW WPN QUAL/SUST      MAINTENANCE
+                              BN FTX                  CO FTXs
+     (SRTR)                   CALFEX/LFX              BN CFX
+
+
+---
+
+OCTOBER                 MAINTENANCE          BN FTX (EXT EVAL)
+                        FDC EXAM             SQD/SEC/FDC DRILL
+  POST SUPPORT          GUNNER’S EXAM
+  ITEP (CTT) CMT        SQD/SEC/FDC DRILL       (SRTR/LITR)
+  BN TEWT                                    PLT STX (81-mm)
+  CO MAPEXs                (LITR)            DEPEX
+  CPX (81-mm)
+  SQD/SEC/FDC DRILL   NOVEMBER             DECEMBER
+
+     (LITR)             IND WPN QUAL/SUST    POST SUPPORT
+                        CREW WPN/SUST        ITEP
+                        DEPEX                CMT
+                        MAINTENANCE          SQD/SEC/FDC DRILL
+                        SQD/SEC/FDC DRILL
+                                                (LITR)
+                           (SRTR)
+                        GUNNER’S EXAM
+                        FDC CERTIFICATION
+
+Figure B-2. Example training program for light infantry battalion in CONUS.
+
+JANUARY               FEBRUARY             MARCH
+
+  CMT                   MAINTENANCE          MAINTENANCE
+  ITEP                  CO FTX               POST SUPPORT/CO
+  BN CPX                BN FTX
+  MAINTENANCE         DEPEX                     MAPEX
+  SQD DRILLS            SQD/SEC/FDC DRILL    BN TEWT
+  PLT STX                                    ITEP
+  SQD/SEC FDC DRILL        (SABOT)           CMT
+                        PLT FTX              IND WPN QUAL/SUST
+     (SRTR)                                  SQD/SEC/FDC DRILL
+  IND WPN QUAL/SUST
+  FDC CERTIFICATION                             (SRTR)
+
+APRIL                 MAY                  JUNE
+
+  GUNNERY QUAL (MTA)    ITEP                 CO FTX
+  CALFEX (MTA)          BN CPX               BN FCX
+  MAINTENANCE           PLT STX              BN DEPEX
+  GUNNER’S EXAM         MAINTENANCE          BN FTX (EXT EVAL
+  LFX (M60, .50-CAL,    SQD/SEC BATTLE
+                        DRILLS                  [HTA])
+     4.2 -INCH)                              MAINTENANCE
+  CALFEX/LFX DRILL         (SRTR/LITR)       SQD/SEC/FDC DRILL
+                        GUNNER’S EXAM        BN EXT EVAL/LFX
+     (SABOT, 60-mm
+     SUBCAL)                               SEPTEMPER
+
+JULY                  AUGUST                 CO FTX
+                                             MAINTENANCE
+  POST SUPPORT          IG INSPECTION        BN DEPEX
+  ITEP (EIB)            ITEP                 BN FTX-(REFORGER)
+  BN MAPEX              BN CPX               SQD/SEC/FDC DRILL
+  IND WPN QUAL/SUST     MAINTENANCE
+  CMT                   SQD/SEC/FDC DRILL       (SRTR)
+  SQD/SEC/FDC DRILL                          PLT STX
+                           (SABOT, 60-mm
+     (SRTR)                SUBCAL)
+  MAINTENANCE           PLT STX
+                        FDC EXAM
+
+
+---
+
+                     GUNNER’S EXAM
+
+OCTOBER              NOVEMBER              DECEMBER
+
+  MAINTENANCE          IND WP QUAL/SUST      MAINTENANCE
+  POST SUPPORT         GUNNERY QUAL (MTA)    DEPEX
+  CO TEWT              MAINTENANCE           POST SUPPORT
+  ITEP (CTT)           BN CFX                ITEP
+  CMT                  SQD/SEC/FDC DRILL     IND WPN Q UAL/SUST
+  SQD/SEC/FDC DRILL                          CMT
+                          (SRTR)             SQD/SEC/FDC DRILL
+                       FDC EXAM
+                       GUNNERY QUAL
+
+                          (.50-CAL, M60)
+                       LFX
+
+  Figure B-3. Example training program for mechanized infantry battalion in
+                                                USAREUR.
+
+B-5. TRAINING EVALUATION
+
+Evaluation cannot be separated from effective training. It occurs during the top-down
+analysis when planners develop the training plan. Planners use various sources of
+information to assess their unit’s individual and collective training status. Evaluation is
+continuous during training. Soldiers receive feedback through coaching and AARs.
+Leaders also assess their own training plan and the instructional skills of their subordinate
+leaders. After training, leaders evaluate by sampling training or reviewing AARs. Much
+of this evaluation is conducted informally. Formal evaluations occur under the Individual
+Training and Evaluation Program (ITEP) and the Army Training and Evaluation Program
+(ARTEP) to assess individual and collective training respectively.
+
+         a. Individual Training.
+
+                  (1) Commander’s evaluation. The commander’s evaluation is routinely
+                  conducted in units. Commanders select and evaluate individual tasks that
+                  support their unit mission and contribute to unit proficiency. This may be
+                  performed through local tests or assessments of soldier proficiency on
+                  crucial MOS tasks or common tasks. The commander’s evaluation is
+                  based on year-round, constant evaluation by the chain of command. It is
+                  supported by the MOS 11C soldier’s manuals, trainer’s guides, and job
+                  books.
+
+                  (2) Common tasks test. The CTT is a hands-on test that evaluates basic
+                  survival and combat tasks. It is taken directly from STP 7-IIBCHM1-SM,
+                  STP 7-11BCHM24-SM-TG, and STP 7-llCl4-SM-T G. The CTT gives the
+                  unit commander regular, objective feedback on common task proficiency.
+
+                  (3) Gunner’s examination. The gunner’s examination is a continuation of
+                  the mortar-based drills in which a mortarman’s proficiency as a gunner is
+
+
+---
+
+         established. The examination is contained in Chapter 9 of this manual. It
+         includes tasks, conditions, standards, and administrative procedures. It
+         focuses on the individual qualification of the soldier in the role of a
+         gunner. However, the gunner’s success also depends on the collective
+         performance of his assistants. Within these limitations, evaluators should
+         try to standardize the examination. STRAC specify that the squad leader,
+         gunner, and assistant gunner should pass the gunner’s exam semiannually.
+         All gunners should have a current qualification before an LFX (whether
+         using service or subcaliber ammunition).
+
+         (4) FDC certification. This provides commanders a means to verify that
+         their FDC mortarmen have the knowledge and skills for their positions:
+         squad leader, FDC computer, section sergeant, platoon sergeant, and
+         platoon leader. Certification helps ensure that ammunition is widely
+         expended and that training is conducted safely and effectively. Mortarmen
+         are certified when they receive a passing score on the two-part
+         examination (90 percent on the written and 70 percent on the hands-on).
+         (See FM 23-91 for FDC certification.)
+
+b. Collective Training.
+
+         (1) Army Training and Evaluation Program. The aim of collective training
+         is to provide units the skills required to perform unit-level tasks. The
+         ARTEP is the overall program for this collective training. It prescribes the
+         collective tasks that a unit must successfully perform to accomplish its
+         mission and to survive in combat. These tasks include conditions and
+         performance standards, and they are located in MTPs and drill books.
+
+         (2) External evaluation. The commander formally determines the status of
+         his collective training through external evaluation. The external evaluation
+         gives the commander an objective appraisal of this status by using mortar
+         expertise found outside the normal chain of command. The external
+         evaluation is not a test in which a unit passes or fails; it is a diagnostic tool
+         for identifying training strengths and weaknesses. It must be emphasized
+         that an external evaluation is not a specific training event but a means to
+         evaluate a training event. Mortar units undergo external evaluations during
+         an LFX, FTX, or a combination thereof. The unit may be evaluated alone,
+         as part of its parent unit, or with other mortar units. The MTP provides
+         guidance on planning, preparing, and conducting an external evaluation.
+
+         (3) Evaluation of forward observer. The mortars can be no more effective
+         than the FOs. It is critical that FIST FOs are present and evaluated during
+         an externally evaluated mortar LFX. If an FO fails to meet his
+         performance standards, the mortars should not be penalized. However,
+         only as a last resort should the fire mission be deleted from the evaluation.
+
+
+---
+
+The mortars should be given the opportunity to successfully complete the
+fire mission. This can be accomplished in the following ways:
+
+         (a) Start the fire mission over. Although ammunition constraints
+         during live-fire may not permit this, tasks can be repeated using
+         devices or, less preferably, dry fire.
+
+         (b) Correct the call for fire or correction. The mortars should not
+         have to use wrong firing data if the FO has made an incorrect call
+         for fire or correction. This also wastes valuable training
+         ammunition. The FO evaluator at the observation point can change
+         the call for fire or correction to reflect proper procedures.
+
+
+---
+
+AAR             GLOSSARY
+AC
+ACCP   after-action review
+amp    Active Component; aiming circle
+ANCOC  Army Correspondence Course Program
+APFT   ampere
+AR     Advanced Noncommissioned Officer's Course
+ARTEP  Army Physical Fitness Test
+ATTN   Army regulation
+       Army Training and Evaluation Program
+BAD    attention
+BDU
+BFV    blast attentuator device
+BLTM   battle dress uniform
+BNCOC  Bradley fighting vehicle
+       battalion-level training model
+cm     Basic Noncommissioned Officer's Course
+CMF
+CONUS  centimeter
+CS     career management field
+CSS    continental United States
+CTT    combat support
+       combat service support
+D      common task test
+DA
+dc     delay; drop-fire
+DLY    Department of the Army
+DODAC  direct current
+DS     delay (M734 multioption fuze)
+       Department of Defense ammunution code
+EIB    direct support
+
+       Expert Infantryman Badge
+
+
+---
+
+EIDS   electronic information delivery system
+EOD    explosive ordnance disposal
+
+F      Fahrenheit; fire
+FDC    fire direction center
+FFE    fire for effect
+FIST   fire support team
+FM     field manual
+FO     forward observer
+FSE    fire support element
+FT     firing table
+FTX    field training exercise
+
+GFS    graphical firing scale
+GM     grid-magnetic angle
+gpm    gallons per minute
+GT     gun-target
+GTA    graphics training aid
+
+HE     high explosive
+HHC    headquarters and headquarters company
+HQ     headquarters
+hr     hour
+
+IAW    in accordance with
+IET    initial entry training
+ILLUM  illumination
+IM     impact (M734 multioption fuze)
+IMLC   Infantry Mortar Leader Course
+IMP    impact
+IOAC   Infantry Officer's Advance Course
+IOBC   Infantry Officer's Basic Course
+ITEP   Individual Training and Evaluation Program
+
+kg     kilogram
+
+
+---
+
+LARS    left add, right substract
+lb      pound
+LFX     live-fire exercise
+
+MAPEX   map exercise
+MBC     mortar ballistic computer
+METL    mission-essential task list
+METT-T  mission, enemy, terrain, troops and time available
+MILES   multiple integrated laser engagement system
+mm      millimeter
+MOS     military occupational specialty
+mph     miles per hour
+mps     meters per second
+MQS     military qualification standards
+MT      mechanical time
+MTP     mission training plan
+MTSQ    mechanical time superquick
+
+N       North
+NA      not applicable
+NATO    North Atlantic Treaty Organization
+NBC     nuclear, biological, chemical
+NCO     noncommissioned officer
+NCOES   Noncommissioned Officer Education System
+NDI     nondevelopmental item
+NSB     near-surface burst
+
+OES     Officer Education System
+OIC     officer in charge
+OP      observation post
+OPFOR   opposing force
+OSUT    one station unit training
+OT      observer-target
+
+
+---
+
+Pam     Pamphlet
+PCC     Pre-Command Course
+PD      point-detonating
+PMCS    preventive maintenance checks and services
+PROX    proximity
+prx     proximity (M734 multioption fuze)
+psi     per square inch
+PWP     plasticized white phosphorus
+
+QSTAG   quadripartite standardization agreeement
+
+RC      Reserve Component
+RDX     cyclonite
+RP      red phosphorus; release point
+RPO     radiation protection officer
+
+S       South; safe
+S3      operations and training officer
+SM      soldier's manual
+SMCT    soldier's manual of common tasks
+SOP     standing operating procedure
+SQ      superquick
+SRTR    short-range training round
+STANAG  Standardization Agreement
+STRAC   Standards in Training Commission
+STX     situational training exercise
+
+T&EO    training and evaluation outline
+TB      technical bulletin
+TEC     training extension course
+TEWT    tactical exercise without troops
+TM      technical manual
+TOE     table of organization and equipment
+TNT     trinitrotoluene
+TP      training practice
+
+
+---
+
+TRADOC   US Army Training and Doctrine Command
+TRC      type requisition code
+
+USAIS    US Army Infantry School
+USAREUR  United States Army in Europe
+US       United States
+
+VT       variable time
+
+WP       white phosphorus
+w/o      without
+
+
+---
+
+                     REFERENCES
+
+                                  Documents Needed
+These documents must be available to the intended users of this publication.
+
+DA Form 2188-R  Data Sheet. March 1991
+DA Form 2399
+DA Form 2408-4  Computer’s Record. December 1991
+DA Form 5964-R
+FM 23-91        Weapon Record Data. 1 January 1979
+FT 4.2-H-2
+                Mortars, Ground-Mounted, Carrier-Mounted, Support. September
+FT 4.2-K-2      1990
+FT 60-L-5
+                Mortar Gunnery. 6 December 1991
+FT 60-P-1
+                Mortar, 4.2-Inch, M30 Carrier, 107-mm Mortar: M106A1 and
+FT 60-Q-1       M106; Firing Cartridge, HE, M329A1; Cartridge, Smoke, WP,
+                M328A1; Cartridge, Tactical CS, XM630 and Cartridge,
+                Illuminating: M335A1 and M335A2. 30 August 1968
+
+                Mortar, 4.2-Inch, M30, and Firing Cartridge, HE, M329A2. 30
+                June 1984
+
+                Mortar, 60-mm: M19 and M2 Firing Cartridge, HE, M49A4
+                Cartridge, TP, M50A3 Cartridge, Smoke, WP, M302A1 and
+                M302A2 Cartridge, Illuminating, M83A1. 15 March 1974
+
+                Mortar, 60-mm: M224, Firing Cartridge, HE, M720; Cartridge,
+                HE, M49A4; Cartridge, HE, XM888; Cartridge, TP, M50A3;
+                Cartridge, WP, M302A1 and Cartridge, Illuminating, M83A3. 22
+                March 1980
+
+                Firing Table for Mortar, 4.2-Inch, M30 with Mortar, 60-mm,
+                M31, Subcaliber Assembly Firing Cartridge, HE, M49A4,
+                Cartridge, TP, M50A3, Cartridge WP, M302A1, Cartridge, Illum,
+                M83A3. 30 April 1987
+
+
+---
+
+FT 81-AI-3        Mortar, 81-mm: M29A1 and M29; Mortar, 81-mm, Self-
+                  Propelled: M125A1 and M125; Carrier, 81-mm Mortar: Tracked,
+                  XM755; Firing Cartridge, HE: M374A2 and M374; Cartridge,
+                  WP, M375A2 and M375; Cartridge, Illuminating: M301A3;
+                  Cartridge, Training: M68 and Training Device, M1. 22 March
+                  1973
+
+FT 81-AQ-1        Firing Table for Mortar, 81-mm: M29A1 and M29; Mortar, 81-
+                  mm, Self-Propelled: M125A1 and M125; Carrier, 81-mm Mortar:
+                  Tracked, M755 and Firing Cartridge, HE, M374A3. 31 August
+                  1981
+
+FT 81-AR-1        Mortar, 81-mm, M252, Firing Cartridge, HE, M821, Cartridge,
+                  HE, M889, Cartridge, RP, M819. 31 October 1986
+
+TM 9-2350-261-10  Operator’s Manual for Carrier, Personnel, Full-Tracked:
+                  Armored, M113A2; Carrier, Command Post, Light: Tracked,
+                  M577A2; Carrier, Mortar: 107-mm, M30; Self-Propelled:
+                  M106A2 CArrier, Mortar, 81-mm, M29A1; Self-Propelled,
+                  M125A2 Carrier, Smoke Generator, Full Tracked M1059. 12 July
+                  1990
+
+                          Readings Recommended
+            These readings contain supplemental information.
+
+AR 385-63         Policies and Procedures for Firing Ammunition for Training,
+                  Target Practice, and Combat. 15 October 1983
+ARTEP 7-90-Drill
+                  Drills for the Infantry Mortar Platoon, Section, and Squad. 14
+ARTEP 7-90-MTP    February 1990.
+
+DA Pam 25-30      Mission Training Plan for the Infantry Mortar Platoon, Section,
+                  and Squad. 10 August 1989
+DA Pam 350-38
+DA Pam 351-20     Consolidated Index of Army Publications and Blank Forms.
+DA Pam 738-750    1 October 1999
+
+FM 5-103          Standards in Weapons Training. 3 July 1997
+FM 6-30
+                  Army Correspondence Course Program Catalog. 1 October 1998
+
+                  Functional Users Manual for the Army Maintenance Management
+                  System (TAMMS). 1 August 1994
+
+                  Survivability. 10 June 1985
+
+                  Tactics, Techniques, and Procedures for Observed Fire. 16 July
+                  1991.
+
+
+---
+
+FM 7-10           The Infantry Rifle Company. 14 December 1990
+FM 7-20           The Infantry Battalion. 6 April 1992
+FM 7-90
+FM 9-207          Tactical Employment of Mortars. 9 October 1992
+                  Operation and Maintenance of Ordnance Materiel in Cold
+FM 20-3           Weather. 20 March 1998
+FM 21-11          Camouflage. 14 November 1990
+FM 21-26          First Aid for Soldiers. 27 October 1988
+FM 24-1
+FM 24-18          Map Reading and Land Navigation. 7 May 1993
+                  Signal Support in the AirLand Battle. 15 October 1990
+FM 25-4           Tactical Single-Channel Radio Communications Techniques. 30
+FM 25-100         September 1987
+FM 25-101
+FM 71-2           How to Conduct Training Exercises. 10 September 1984
+                  Training the Force. 15 November 1988
+FM 101-5-1        Battle Focused Training. 30 September 1990
+STP 7-11C14-SM-   The Tank and Mechanized Infantry Battalion Task Force. 27
+TG                September 1988
+TB 9-1300-256
+                  Operational Terms and Graphics. 30 September 1997
+TB 34-9-93        Soldier’s Manual, Skill Levels 1/2/3/4 and Trainer’s Guide, MOS
+TM 9-1010-223-10  11C, Indirect Fire Infantryman. 16 August 1994
+                  Ammunition: National Stock Numbers and Department of Defense
+TM 9-1015-200-10  Codes. 30 June 1999
+TM 9-1015-200-
+20&P              NATO Design Mark. 28 August 1961
+TM 9-1015-200-    Operator’s Manual for Lightweight Company Mortar, 60-mm:
+30&P              M224. 15 September 1998
+TM 9-1015-215-10  Operator’s Manual for Mortar, 81-mm, M29A1. 23 October 1985
+TM 9-1015-215-
+23&P              Organizational Maintenance Manual Including Repair Parts and
+                  Special Tools List for Mortar, 81-mm, M29A1. 25 October 1985
+TM 9-1015-250-10  Direct Support Maintenance Manual Including Repair Parts and
+                  Special Tools List for 81-mm Mortar, M29A1. 22 October 1985
+TM 9-1290-262-    Operator’s Manual for 4.2-Inch Mortar, M30. 15 December 1993
+24&P              Unit Direct Support Maintenance Manual With Repair Parts and
+                  Special Tools List (Including Depot Maintenance Repair Parts and
+                  Special Tools) for Mortar 4.2-Inch: M30 (Barrel M30 on Mount
+                  M24A1) and Trainer, Subcaliber, 60-mm: M31. 8 December 1993
+                  Operator’s Manual for Mortar 120-mm: Towed M120 and Mortar,
+                  120mm: Carrier-Mounted M121. 19 August 1996
+                  Unit, Direct Support, and General Support Maintenance Manual
+                  (Including Repair Parts and Special Tools List) for Aiming Circle,
+
+
+---
+
+TM 9-1290-333-15  M2A2 W/E. 22 September 1994
+
+TM 9-1300-200     Operator’s, Organizational, Direct Support, General Support and
+TM 9-1315-249-    Depot Maintenance (Including Repair Parts and Special Tools
+12&P              List): Compass, Magnetic, Unmounted: M2. 7 November 1963
+
+TM 43-0001-28     Ammunition, General. 3 October 1969
+
+                  Operator’s and Unit Maintenance Manual (Including Repair Parts
+                  and Special Tools List) for 81-mm Mortar Training Device, 81-
+                  mm Sabot (Inert) M1 and 22-mm Subcaliber Practice Cartridges
+                  M744, M745, M746, and M747. 1 September 1990
+
+                  Army Ammunition Data Sheets for Artillery Ammunition: Guns,
+                  Howitzers, Mortars, Recoilless Rifles, Grenade Launchers, and
+                  Artillery Fuzes. 28 April 1994
+
+
+--- 

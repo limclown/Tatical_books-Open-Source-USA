@@ -1,0 +1,4848 @@
+# mctp_10-10a_undated  NLW
+
+      MULTI-SERVICE
+TACTICS, TECHNIQUES,
+AND PROCEDURES FOR
+ THE EMPLOYMENT OF
+NONLETHAL WEAPONS
+
+                 ATP 3-22.40
+                MCTP 10-10A
+                 NTTP 3-26.6
+                AFTTP 3-2.45
+               CGTTP 3-93.2
+
+         APRIL 2025
+
+DISTRIBUTION STATEMENT A: Approved for public release,
+distribution is unlimited.
+*Supersedes ATP 3-22.40/MCTP 10-10A/NTTP 3-07.3.2/AFTTP
+3-2.45/CGTTP 3-93.2, dated May 2020.
+
+
+---
+
+                                         FOREWORD
+
+This multi-Service tactics, techniques, and procedures (MTTP) publication is a product
+of the Air Land Sea Space Application (ALSSA) Center in accordance with the
+memorandum of agreement between the Headquarters of the United States (US) Army,
+Marine Corps, Navy, and Air Force doctrine commanders directing ALSSA to develop
+MTTP publications to meet the immediate needs of the warfighter.
+
+This MTTP publication has been prepared by ALSSA under our direction for
+implementation by our respective commands and for use by other commands as
+appropriate.
+
+BRYAN L. BABICH                       K. R. ARBOGAST
+
+Brigadier General, US Army            Colonel, US Marine Corps
+Director                              Director, Policy and Standards Division
+Mission Command Center of Excellence  Training and Education Command
+
+MICHAEL R. DURKIN                     PARKER H. WRIGHT
+
+Senior Executive Service, US Navy     Major General, US Air Force
+Director                              Commander
+Navy Warfare Development Center       Curtis E. Lemay Center for Doctrine
+                                      Development and Education
+
+JEFFREY K. RANDALL
+
+Rear Admiral, US Coast Guard
+Commander
+USCG Force Readiness Command
+
+            This publication is available through the following websites:
+                                ALSSA (https://www.alssa.mil/);
+
+                            US Army (https://armypubs.army.mil);
+                                           US Marine Corps
+
+       (https://usmc.sharepoint-mil.us/sites/MCEN_Support_MCDoctrine);
+            US Navy at Navy Warfare Library (https://doctrine.navy.mil);
+
+US Air Force at US Air Force Center for Doctrine Development and Education
+           (http://www.doctrine.af.mil/); and Joint Electronic Library Plus
+                      (https://jdeis.js.mil/jdeis/index.jsp?pindex=0).
+
+
+---
+
+                                           PREFACE
+
+1. Purpose
+This multi-Service tactics, techniques, and procedures (MTTP) publication for The
+Employment of Nonlethal Weapons is a single source, descriptive reference guide for
+commanders, staffs, and individual users to plan for and employ nonlethal weapons
+(NLW) across the range of military operations.
+
+2. Scope
+This publication describes MTTP for consideration and use during the tactical
+employment of NLW in support of warfighting personnel conducting operations. This
+publication:
+
+    a. Provides an overview of NLW.
+
+    b. Discusses fundamental concepts and training requirements involved with NLW.
+
+    c. Provides a description of NLW and employment considerations.
+
+    d. Discusses the use of NLW gleaned from lessons learned. These discussions are
+         captured in the vignettes and actual examples.
+
+3. Applicability
+This publication provides commanders and their staff unclassified guidance for NLW
+planning and employment. Commanders and staff can use this publication to aid in the
+tactical employment of NLW during contingencies.
+
+4. Implementation Plan
+Participating Service command offices of primary responsibility will review this
+publication; validate the information; and, where appropriate, use it as a reference and
+incorporate it in Service manuals, regulations, and curricula as follows.
+
+    Army. Upon approval and authentication, this publication incorporates the TTP
+contained herein into the United States (US) Army Doctrine and Training Publishing
+Program as directed by the Commander, US Army Training and Doctrine Command.
+Distribution is in accordance with applicable directives listed on the authentication page.
+
+    Marine Corps.* The Marine Corps will incorporate the procedures in this publication
+in US Marine Corps doctrine and training publications as directed by Commanding
+General, Training and Education Command (TECOM). Distribution is in accordance with
+the Marine Corps Order 5600.31, Marine Corps Printing, Publishing, and Reprographics
+Equipment Regulations.
+
+    Navy. The Navy will incorporate these procedures in US Navy training and doctrine
+publications as directed by the Commander, Navy Warfare Development Center
+(NWDC) [N5]. Distribution is in accordance with MILSTRIP/MILSTRAP Desk Guide,
+Naval Supply Systems Command Publication 409.
+
+* Marine Corps PCN: 147 000058 01
+
+07 April 2025  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                          i
+
+               AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    Air Force. The Air Force will incorporate the procedures in this publication in
+accordance with applicable governing directives. Distribution in accordance with
+Department of the Air Force Instruction 90-160, Publications and Forms Management
+and Department of the Air Force Manual 90-161, Publishing Processes and Procedures.
+
+    Coast Guard. The Coast Guard will incorporate the procedures in this publication as
+directed by the Commander, Force Readiness Command (FORCECOM). Distribution is
+in accordance with the Coast Guard Directives System.
+
+5. User Information
+
+       US Army Combined Arms Center; USMC, TECOM; NWDC; Curtis E. LeMay
+       Center for Doctrine Development and Education; USCG Force Readiness
+       Command; and Air Land Sea Space Application (ALSSA) Center developed this
+       publication with the joint participation of the approving Service commands. ALSSA
+       will review and update this publication as necessary.
+
+       This publication reflects current joint and Service doctrine, command and control
+       organizations, facilities, personnel, responsibilities, and procedures. Changes in
+       Service protocol, appropriately reflected in joint and Service publications, will be
+       incorporated in revisions to this document.
+
+       We encourage recommended changes to improve this publication. Key your
+       comments to the specific page and paragraph and provide a rationale for each
+       recommendation. Send comments and recommendations directly to:
+
+                                                       Army
+
+       Commander, US Army Combined Arms Center
+       ATTN: ATZL-MCD
+       Fort Leavenworth, KS 66027-6900
+       DSN 552-4885 COMM (913) 684-4885
+       E-mail: usarmy.leavenworth.mccoe.mbx.cadd-org-mailbox@army.mil
+
+                                                 Marine Corps
+
+       Commanding General, Training and Education Command
+       Policy and Standards Division, Doctrine Branch
+       ATTN: C466
+       Quantico, VA 22134
+       COMM (703) 638-8352
+       E-mail: usmc_doctrine@usmc.mil
+
+                                                       Navy
+
+       Director, Navy Warfare Development Center
+       ATTN: N5
+       1528 Piersey St, Building O-27
+       Norfolk, VA 23511-2723
+       DSN 341-4185 COMM (757) 341-4185
+       E-mail: nwdc_nrfk_fleetpubs@navy.mil
+
+ii  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                                    Air Force
+
+       Commander, Curtis E. LeMay Center for Doctrine Development and Education
+       ATTN: DDJ
+       401 Chennault Circle
+       Maxwell AFB, AL 36112-6428
+       DSN 493-7864/1681 COMM (334) 953-7864/1681
+       E-mail: afddec.ddj@us.af.mil
+
+                                                  Coast Guard
+
+      Commander, Force Readiness Command
+       US Coast Guard
+      300 East Main Street
+       Suite 1100
+       Norfolk, VA 23510
+       COMM (757) 628-4149
+       E-mail: HQS-SG-M-FORCECOM-TTP-Integration@uscg.mil
+
+                                                     ALSSA
+
+       Director, ALSSA Center
+       114 Andrews Street
+       Joint Base Langley-Eustis, VA 23665-2785
+       DSN 575-0902 COMM (757) 225-0902
+       E-mail: alssainfo@army.mil
+
+Note: The use of a trade or brand name in this publication does not constitute
+endorsement of any specific commercial product, commodity, service, or enterprise by
+the United States Department of Defense or any military Service.
+
+07 April 2025  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  iii
+
+               AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    This page intentionally left blank.
+
+iv  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                SUMMARY OF CHANGES
+
+ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/AFTTP 3-2.45/CGTTP 3-93.2, Multi-Service
+Tactics, Techniques, and Procedures for The Employment of Nonlethal Weapons.
+This revision:
+Updates:
+
+    • Munitions and devices range cards with additional fielded capabilities.
+    • Layered defense graphics reflect additional fielded capabilities.
+    • Changes Joint Nonlethal Weapons Directorate (JNLWD) to Joint Intermediate
+
+         Force Capabilities Office (JIFCO) throughout.
+    • Consolidates tables in Appendix B for ease of use.
+    • Nonlethal Weapons (NLW) train the trainer course material in Chapter IV.
+    • References and strategic guidance.
+Adds:
+    • Consideration of NLW impacts in the cognitive domain.
+    • Description of terms in Chapter I.
+    • Civilian Harm Mitigation and Reduction Policy to Chapter I.
+    • Human Effects Characterization to Chapters I and III.
+    • Employment scenarios to Chapter III.
+    • Changes Chapter IV title from “Training” to “Training and Education” along with
+
+         additional exercise/training information.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                     v
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    This page intentionally left blank.
+
+vi  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                                     *ATP 3-22.40
+                                                    MCTP 10-10A
+
+                                                      NTTP 3-26.6
+                                                    AFTTP 3-2.45
+                                                    CGTTP 3-93.2
+
+ATP 3-22.40   US Army Training and Doctrine Command
+                        Joint Base Langley-Eustis, Virginia
+MCTP 10-10A                US Army Combined Arms Center
+NTTP 3-26.6                         Fort Leavenworth, Kansas
+AFTTP 3-2.45
+CGTP 3-93.2   USMC, Training and Education Command
+                                                Quantico, Virginia
+
+                        Navy Warfare Development Center
+                                                   Norfolk, Virginia
+
+                       Curtis E. LeMay Center for Doctrine
+                                 Development and Education
+
+                          Maxwell Air Force Base, Alabama
+                         USCG Force Readiness Command
+
+                                                   Norfolk, Virginia
+
+                                                                                         04 SEP 2024
+
+                                     NLW
+
+MULTI-SERVICE TACTICS, TECHNIQUES, AND PROCEDURES FOR
+                   The Employment of Nonlethal Weapons
+
+EXECUTIVE SUMMARY ................................................................................................ x
+CHAPTER I NONLETHAL WEAPONS ........................................................................ 13
+
+        1. Key Terms and Scope ..................................................................................... 13
+        2. NLW Application in an Operational Environment ............................................. 13
+        3. Current Nonlethal Weapons Policy .................................................................. 15
+CHAPTER II NONLETHAL WEAPONS CORE CAPABILITIES .................................. 17
+        1. Support to Military Operations ......................................................................... 17
+        2. Core Capabilities ............................................................................................. 17
+        3. Fielded Capabilities.......................................................................................... 19
+CHAPTER III EMPLOYMENT CONSIDERATIONS ..................................................... 25
+        1. Advantages of Employing NLW ....................................................................... 25
+        2. Considerations for NLW Employment .............................................................. 25
+        3. NLW Employment Limitations .......................................................................... 31
+        4. Human Effects Considerations ........................................................................ 32
+CHAPTER IV TRAINING AND EDUCATION ............................................................... 37
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  vii
+
+              AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+       1. Fundamental Concepts.................................................................................... 37
+        2. Unit-level NLW Training ................................................................................... 37
+        3. Service-specific NLW Training Requirements.................................................. 39
+        4. Inter-Service NLW Training.............................................................................. 42
+        5. NLW Exercise Planning Checklist.................................................................... 45
+        6. Service Points of Contact for NLW Training..................................................... 45
+APPENDIX A HISTORY OF NONLETHAL WEAPONS (NLW) ................................... 47
+APPENDIX B NONLETHAL WEAPONS, MUNITIONS, AND DEVICE INFORMATION
+CARDS ......................................................................................................................... 49
+APPENDIX C DEPARTMENT OF DEFENSE (DOD) NONLETHAL EQUIPMENT
+DESCRIPTIONS ........................................................................................................... 65
+APPENDIX D PROCUREMENT INFORMATION ......................................................... 69
+        1. United States Army (USA) NLCSs ................................................................... 69
+        2. United States Marine Corps (USMC) NLCSs................................................... 71
+        3. United States Navy (USN) NLCSs ................................................................... 76
+        4. United States Air Force (USAF) NLCSs........................................................... 78
+        5. US Coast Guard (USCG) Nonlethal Capabilities ............................................. 86
+        6. National Guard Capability Sets ........................................................................ 87
+APPENDIX E EMPLOYMENT CONSIDERATIONS CHECKLIST ............................... 89
+        1. General Considerations: .................................................................................. 89
+        2. Counterpersonnel Considerations: .................................................................. 89
+        3. Countermaterial Considerations: ..................................................................... 90
+APPENDIX F SAMPLE REQUEST FOR NONLETHAL WEAPONS MOBILE
+TRAINING TEAM.......................................................................................................... 91
+REFERENCES.............................................................................................................. 93
+GLOSSARY .................................................................................................................. 96
+
+                                                List of Figures
+
+Figure 1.  Nonlethal Munitions Range Card ................................................................ 21
+Figure 2.  Nonlethal Devices Range Card .................................................................. 22
+Figure 3.  Navy Layered Defense Using NLW ............................................................ 29
+Figure 4.  NLW Threat, Warning, and Assessment Zones.......................................... 30
+
+           List of Tables
+
+Table 1. Counterpersonnel Tasks ................................................................................. 18
+Table 2. Countermateriel Tasks..................................................................................... 19
+Table 3. Service-Specific NLW Training Requirements and Guidance .......................... 39
+Table 4. Riot Control Agents (RCAs)............................................................................. 49
+Table 5. Hand Thrown Riot Control Agent Grenades .................................................... 50
+
+viii       ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+           AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+Table  6. Human Electro-muscular Incapacitation .......................................................... 51
+Table  7. Nonlethal Projectiles........................................................................................ 52
+Table  8. Hailing and Signaling Devices ......................................................................... 58
+Table  9. Vehicle Stopping Devices................................................................................ 62
+Table  10. DoD Nonlethal Equipment Descriptions......................................................... 65
+Table  11. USA NLCS, Checkpoint Module .................................................................... 69
+Table  12. USA NLCS, Convoy Module.......................................................................... 70
+Table  13. USA NLCS, Dismounted Module................................................................... 70
+Table  14. USA NLCS, TASER® Sub-Module,............................................................... 70
+Table  15. USA NLCS, Crowd Control Detainee Operations Module ............................. 71
+Table  16. USMC EOF Mission Module Checkpoint, Vehicle Control Point .................... 72
+Table  17. USMC EOF Mission Module Checkpoint, Secure Perimeter ......................... 72
+Table  18. USMC EOF Mission Module Checkpoint, Establish Perimeter ...................... 73
+Table  19. USMC EOF Mission Module Checkpoint, Urban Patrolling............................ 73
+Table  20. USMC EOF Mission Module Checkpoint, Convoy Security ........................... 73
+Table  21. USMC EOF Mission Module Checkpoint, Clear Facilities ............................. 74
+Table  22. USMC EOF Mission Module Crowd Control, Crowd Control.......................... 74
+Table  23. USMC EOF Mission Module Crowd Control, Detain Personnel ..................... 75
+Table  24. USMC EOF Mission Module Training, Training Set....................................... 75
+Table  25. USN Nonlethal Capability Set, Training ......................................................... 76
+Table  26. USN Nonlethal Capability Set, Antiterrorism/Force Protection, Checkpoint
+
+Table         and Crowd Control, Vehicle Control Point................................................... 76
+Table  27. USN Nonlethal Capability Set, Shipboard NLW, Hail and Warning................ 78
+       28. USAF Entry Control Point (ECP) Equipment – ..................................................
+Table
+              Unit Type Code (UTC) QFL1E.................................................................... 79
+Table  29. USAF Confrontation Management Equipment – ...............................................
+Table
+Table         Unit Type Code (UTC) QFL3C ................................................................... 84
+       30. USCG Nonlethal Capability Set ..................................................................... 86
+       31. National Guard (Contingency) Nonlethal Capability Set ................................ 87
+       32. National Guard (State) Nonlethal Capability Set ............................................ 88
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  ix
+
+       AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                 EXECUTIVE SUMMARY
+
+                                                       NLW
+
+Multi-Service Tactics, Techniques, and Procedures for The Employment of Nonlethal
+Weapons (NLW) provides a consolidated reference on the tactical employment of NLW
+so commanders and subordinates have information and awareness of NLW and
+nonlethal capabilities to enable effective planning and employment. It also provides
+points of contact and details for NLW training.
+
+                                      Chapter I Nonlethal Weapons
+
+Clarifies definitions, operational environment variables, and NLW policies.
+
+                        Chapter II Nonlethal Weapons Core Capabilities
+
+Discusses fielded NLW and explains their capabilities. This chapter discusses NLW core
+capabilities and associated key tasks.
+
+                              Chapter III Employment Considerations
+
+Highlights planning considerations, and tactics, techniques, and procedures for
+employing NLW. It considers advantages and disadvantages of employing NLW and
+provides examples.
+
+                                  Chapter IV Training and Education
+
+Describes fundamental concepts of NLW and unit-level training and describes Service-
+specific training courses and guidance.
+
+                            Appendix A History of Nonlethal Weapons
+
+Provides background and historical information on NLW.
+
+     Appendix B Nonlethal Weapons, Munitions, and Device Information Cards
+
+Provides pictures, identification information, and specific employment considerations for
+nonlethal weapons, munitions, and devices.
+
+        Appendix C Department of Defense Nonlethal Equipment Descriptions
+
+Provides a brief description and pictures of NLW equipment.
+
+                                Appendix D Procurement Information
+
+Provides procurement information on nonlethal capability sets.
+
+                      Appendix E Employment Considerations Checklist
+
+Provides sample checklists for personnel who are planning to integrate NLW into their
+operations or training.
+
+    Appendix F Sample Request for a Nonlethal Weapons Mobile Training Team
+
+Provides an example of how the United States Marine Corps requests a mobile training
+team for NLW. It may be customized for any Service-specific support.
+
+x  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+   AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                               PROGRAM PARTICIPANTS
+
+The following commanders and agencies participated in creating this publication:
+
+                                              Joint
+
+Joint Intermediate Force Capabilities Office, Quantico, Virginia
+National Guard Bureau, J5, Arlington, Virginia
+
+                                              Army
+
+US Army Mission Command Center of Excellence, Fort Leavenworth, Kansas
+US Army Nonlethal Scalable Effects Center, Fort Leonard Wood, Missouri
+
+                                        Marine Corps
+
+Headquarters US Marine Corps, Combat Development and Integration, Quantico,
+         Virginia
+
+US Marine Corps Detachment Fort Leonard Wood, Missouri
+Policy and Standards Division, Doctrine Branch, Quantico, Virginia
+Training and Education Command, Quantico, Virginia
+
+                                              Navy
+
+US Navy Center for Security Forces, Norfolk, Virginia
+US Navy Expeditionary Warfighting Command, Virginia Beach, Virginia
+US Navy Nonlethal Effect Program Support Office, Virginia Beach, Virginia
+US Navy Warfare Development Center, Norfolk, Virginia
+
+                                           Air Force
+
+Air Combat Command, Public Affairs Office, Joint Base Langley-Eustis, Virginia
+Curtis E. LeMay Center for Doctrine Development and Education, Maxwell Air Force
+
+         Base, Alabama
+Headquarters US Air Force, Judge Advocate, Pentagon, Arlington, Virginia
+US Air Force Security Forces Center, Joint Base San Antonio – Lackland, Texas
+
+                                         Space Force
+
+Delta 10, STARCOM, Peterson Space Force Base, Colorado
+
+                                         Coast Guard
+
+US Coast Guard Office of Specialized Capabilities (CG 721), Washington, District of
+          Columbia
+
+US Coast Guard Force Readiness Command, Norfolk, Virginia
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                   xi
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+     This page intentionally left blank.
+
+xii  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+     AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+             Chapter I
+
+NONLETHAL WEAPONS
+
+1. Key Terms and Scope
+
+       a. Nonlethal capabilities – Capabilities that temporarily incapacitate personnel
+       and materiel while minimizing the likelihood of casualties and damage to critical
+       infrastructure.
+
+b. Nonlethal weapons (NLW) – Weapons, devices, and munitions that are
+explicitly designed and primarily employed to temporarily incapacitate targeted
+personnel or materiel immediately, while minimizing fatalities, permanent injury to
+personnel, and undesired damage to property in the target area. NLW are
+intended to have relatively reversible effects on personnel and materiel, according
+to Department of Defense Directive (DoDD) 3000.03E, DoD Executive Agent for
+Non-Lethal Weapons (NLW), and NLW Policy.
+
+c. Nonlethal capability sets (NLCS) – A family of kits that incorporate nonlethal
+weapons and devices shown in appendix D. NLCS are designated kits for specific
+functions such as entry control point (ECP) operations, confrontation
+management, riot or crowd control, and checkpoint operations. Note - The USAF
+no longer maintains NLCS. NLW are integrated into Unit Type Code kits to
+support expeditionary operations including ECP Operations and Confrontation
+Management.
+
+Note: The scope of this publication is to cover the tactical employment of NLW and
+NLCS as defined above. This publication does not discuss every intermediate force
+capability (e.g., directed energy, electromagnetic warfare, information) that can produce
+nonlethal effects along the competition continuum. Joint Publications (JPs) such as JP
+3-0, Joint Campaigns and Operations; JP 3-04, Information in Joint Operations; JP 3-
+09, Joint Fire Support; JP 3-12, Joint Cyberspace Operations; JP 3-13.2, Military
+Information Support Operations; and other joint guides, concepts, and organizations
+such as the Joint Concept for Competing, and the individual Service NLW programs
+should be consulted when planning the use of intermediate force.
+
+2. NLW Application in an Operational Environment
+
+       a. NLW are desired across most operational environments to enhance global joint
+       and multinational operations as a complement to lethality across the force while
+       minimizing the risk of permanent injury, death, or unnecessary physical
+       destruction.
+
+b. NLW have many applications. Integrating NLW into urban operations, security,
+convoy protection, and civil disturbance operations should comply with host nation
+law in foreign countries and should be coordinated with the appropriate authorities
+when employed domestically. Carefully plan and coordinate NLW use to ensure
+compliance with all applicable laws, treaties, and agreements regarding
+employment of NLW, munitions, riot control agents (RCAs), and dazzling devices
+(e.g., laser-based systems). Integrating the staff judge advocate (SJA) into
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                        13
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    planning efforts for NLW employment is vital to facilitate legal compliance.
+    Employment considerations are discussed in depth in Chapter III.
+
+    c. The joint force commander, operating in complex environments, often lacks
+    sufficient capability to immediately neutralize targets without causing permanent
+    injury, death, or gross physical destruction. NLW are a set of tools commanders
+    and planners may use to fill this gap.
+
+         (1) NLW are developed and employed with the intent of de-escalation and
+         deterrence of hostile intent and actions. Military planners should include NLW
+         within operational plans and strategic communication to minimize cultural
+         misperceptions, deny misinformation, and gain the trust of the populace.
+
+         (2) Some benefits of NLW planning include:
+
+              (a) Enabling lower-risk tools.
+
+              (b) Imposing opportunity costs on adversaries with less risk of escalation.
+
+              (c) Maintaining credibility in the information space across the competition
+              continuum.
+
+              (d) Expanding decision time and space.
+
+              (e) Allowing the warfighter to determine intent at a greater standoff range.
+
+              (f) Facilitating logistics operations in a contested environment.
+
+              (g) Enabling decisive recon/counter-recon operations below the level of
+              armed conflict.
+
+         (3) NLW enhance the commander’s ability to:
+
+              (a) Determine, deter, discourage, delay, or prevent hostile and
+              threatening actions.
+
+              (b) Deny access to, move, disable, and suppress individuals.
+
+              (c) Stop, disable, divert, and deny access of vehicles and vessels.
+
+              (d) Adapt and tailor escalation of force (EOF) options to the operational
+              environment.
+
+              (e) Employ capabilities that temporarily incapacitate personnel and
+              materiel while minimizing the likelihood of casualties and damage to critical
+              infrastructure.
+
+              (f) De-escalate situations precluding the use of lethal force.
+
+              (g) Capture or incapacitate high-value targets.
+
+              (h) Protect the force.
+
+14  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                     CAUTION
+All operating environments have the potential for escalation or
+unintended consequences. For this reason, nonlethal force should
+never be applied without both the capacity and willingness to use
+lethal force if necessary to maintain a credible deterrence.
+
+The availability of NLW will not limit the commander’s inherent
+right or obligation to exercise unit self-defense in response to a
+hostile act or demonstrated hostile intent, or to individually use
+lethal force when authorized by competent authority pursuant to
+the rules of engagement (ROE) or rules for the use of force
+(RUF). NLW should be integrated into joint and Service concepts
+and operations plans, ROE, and RUF.
+
+Using NLW does not eliminate and may not even lower risk of
+escalation, collateral damage, or unintended consequences
+including lethal consequences. Planning for NLW requires
+considerations of intended and unintended effects both in the
+physical space and the cognitive domain for how the adversary
+perceives the use of NLW.
+
+3. Current Nonlethal Weapons Policy
+
+       a. Instruction. Standing Rules of Engagement/Standing Rules for the Use of
+       Force for US Forces, according to the Chairman of the Joint Chiefs of Staff
+       instruction (CJCSI) 3121.01B, 18 June 2008*, provides guidance on the standing
+       rules of engagement (SROE) and establishes standing rules for the use of force
+       (SRUF) for DoD operations worldwide. The SROE establishes fundamental
+       policies and procedures governing the actions taken by US commanders and their
+       forces during all military operations and contingencies occurring outside a US
+       territory. ROE are restrictions on the use of force issued by the chain of command
+       to delineate circumstances and limitations under which forces initiate or continue
+       combat engagement with other forces. Specific ROE will change based on the
+       area of responsibility, operational environment, and mission.
+
+* CJCSI 3121.0B, 18 June 2008 is currently under a doctrinal change review to address
+SROE/SRUF.
+
+b. Law. The US ratified the Convention on Prohibitions or Restrictions on the Use
+of Certain Conventional Weapons Which May Be Deemed to Be Excessively
+Injurious or to Have Indiscriminate Effects, specifically Protocol IV (commonly
+referred to as the prohibition on blinding laser weapons). This agreement prohibits
+using lasers designed with the specific combat function of causing permanent
+blindness to unenhanced vision.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                  15
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+         (1) Nonlethal lasers designed to warn and suppress individuals do not fit the
+         criteria of a blinding laser under the prohibition on using blinding lasers.
+
+         (2) Use of several nonlethal lasers should be covered within any ROE or
+         RUF, however, commanders should be aware that using some capabilities
+         not specifically designed as NLW could violate international law or US policy.
+         For example, laser designators for many weapon systems are not intended
+         for use as nonlethal lasers because they could cause permanent blindness.
+
+         (3) Authorized nonlethal lasers must be used within approved parameters to
+         avoid unintentional permanent eye damage. If those targeted by nonlethal
+         lasers are engaged in activities, such as operating aircraft, they could lose
+         control of the craft and suffer lethal consequences.
+
+    c. RCAs. Using RCAs may be restricted by treaty, HN law, and US law. Prior to
+    using RCAs, commanders are encouraged to become familiar with:
+
+         (1) The treaty titled, Convention on the Prohibition of the Development,
+         Production, Stockpiling and Use of Chemical Weapons and on their
+         Destruction.
+
+         (2) Local government and HN rules for using RCAs.
+
+         (3) Theater-specific ROE regarding RCAs.
+
+         (4) Executive Order 11850 dated 8 Apr 1975, Renunciation of certain uses in
+         war of chemical herbicides and RCAs.
+
+    d. Civilian harm mitigation and reduction action plan (CHMR-AP) policy:
+
+         (1) On January 27, 2022, the Secretary of Defense issued a memorandum
+         directing the creation of a CHMR-AP to improve how the DoD mitigates and
+         responds to civilian harm resulting from military operations.
+
+         (2) The CHMR-AP is a flexible plan that advances the ability of DoD to
+         mitigate civilian harm and achieve strategic success across the competition
+         continuum. It is relevant to both kinetic and non-kinetic activity and is located
+         at https://media.defense.gov/2022/Aug/25/2003064740/-1/-1/1/civilian-harm1-
+         mitigation-and-response-action-plan.pdf.
+
+16  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                                   Chapter II
+
+                 NONLETHAL WEAPONS CORE CAPABILITIES
+
+1. Support to Military Operations
+
+NLW support all phases of military operations across the competition continuum.
+Nonlethal capabilities have application in operations where there is the need to enhance
+a commander’s ability to apply force proportional to the threat and a desire to protect
+noncombatants, promote international political support, alleviate environmental
+concerns, and enhance post-conflict transitions and termination. Examples of missions
+where NLW complement lethal force include but are not limited to:
+
+         a. Convoy security in urban operations where population density and
+         characteristics of the area require carefully employing force to minimize loss of
+         life and destruction of property.
+
+         b. Crowd control and civil disturbance operations where nonlethal munitions,
+         protective equipment, and support equipment enable warfighters to execute
+         missions while minimizing collateral damage and injury to military personnel.
+         Some basic protective equipment is listed in Appendix C.
+
+         c. Cordon and search operations where friendly forces come in close contact
+         with the local population under stressful, and often hostile, circumstances.
+
+         d. Checkpoint operations where nonlethal capabilities protect friendly forces and
+         improve public opinion and acceptance.
+
+         e. In detainee operations where all displays of violence must be brought under
+         control quickly while avoiding unnecessary injury or death to detainees.
+
+2. Core Capabilities
+
+NLW can be divided into two core functions, counterpersonnel and countermaterial, as
+specified in the Initial Capabilities Document for Counterpersonnel Joint Non-Lethal
+Effects and Initial Capabilities Document for Countermaterial Joint Non-Lethal Effects,
+verified 7 April 2014.
+
+         a. Nonlethal counterpersonnel capabilities deliver effects that deny, move,
+         disable, or suppress individuals. Table 1 depicts nonlethal counterpersonnel
+         capability tasks.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  17
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                               Table 1. Counterpersonnel Tasks
+    Deny access into or out of an area. This task focuses on the ability of a joint
+    force to prevent individuals from entering or exiting an area.
+
+    Move individuals through an area. This task reflects several different situations,
+    such as the ability to move individuals on foot. It also includes the ability to move
+    individuals out of buildings and other facilities.
+    Disable individuals. This task reflects situations where the joint force must totally
+    affect the ability of an individual to take voluntary action.
+
+    Suppress individuals. This task reflects the requirement to affect individuals in
+    some manner short of disabling them.
+
+           AN EXAMPLE OF NONLETHAL COUNTERPERSONNEL EFFECTS:
+         COMPRESSED AIR LAUNCHER EMPLOYMENT DURING OVERSEAS
+
+                                     CONTINGENCY OPERATIONS
+    The compressed air launcher systems are an effective counterpersonnel
+    capability for perimeter security and security of assets. The systems were
+    employed in 2017 at several operating bases in Afghanistan, in support of
+    Operation FREEDOM’S SENTINEL, to keep civilians from breaching base
+    perimeters, prevent theft or damage of mission-sensitive equipment, and mark
+    individuals for later identification/apprehension.
+
+                                                              SOURCE: Task Force Spartan, 2017
+
+      b. Nonlethal countermateriel capabilities deliver effects to stop, deny, temporarily
+      disable, or divert materiel targets (i.e., vehicles, vessels, aircraft, buildings,
+      facilities, structures, and weapon systems). Nonlethal countermateriel effects
+      must be immediate and reversible according to DoDD 3000.03E, DoD Executive
+      Agent for Non-Lethal Weapons and NLW Policy. Table 2 depicts nonlethal
+      countermateriel capability tasks.
+
+18  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                            Table 2. Countermateriel Tasks
+
+Stop a vehicle, vessel, fixed-wing aircraft on the ground. Stopping a vehicle
+requires the target’s momentum, by any means, to be at zero within identified
+standards. The requirement to stop a vessel is achieved when the vessel is dead
+in the water. For aircraft on the ground, stop requires the aircraft to come to 0
+miles per hour at some point between when it starts to taxi and when it reaches
+abort speed.
+
+Divert aircraft in the air. This task requires NLW directed at the aircraft, not the
+pilot. Nonlethal effects must result in the aircraft changing directions but
+maintaining the ability to safely maneuver in flight and land.
+
+Deny access to a facility. This task focuses on preventing a vehicle, vessel,
+aircraft, or individuals from entering a facility through designed access or entry
+points, such as building doors and windows; and access control points, such as
+canal locks, pier slips or hangar entrances. Nonlethal effects must directly affect
+a component of the facility, such as a door, and excludes nonlethal effects that
+directly affect vehicles, vessels, aircraft, or individuals.
+
+Disable vehicles, vessels, and aircraft on the ground. Disable implies the vehicle,
+vessel, or aircraft is not in motion. The requirement to disable a countermateriel
+target includes actions to render it inoperable, deny its use, and deny access to
+it. Disabling a target has a direct effect on the functionality of the countermateriel
+target.
+
+3. Fielded Capabilities
+
+         a. Nonlethal counterpersonnel capabilities. Capabilities employed to perform
+         operational tasks and enable nonlethal counterpersonnel effects are detailed in
+         the following paragraphs. Figure 1 on page 9 details the effective engagement
+         areas of these NLW. Table 7 in Appendix B contains ordering and employment
+         information for each capability.
+
+             (1) RCA dispensers. These handheld dispensers deliver a variable range,
+             single stream, foam, or fog of RCA irritants against targets, used to control
+             crowds, or to control detainees.
+
+             (2) Human electro-muscular incapacitation (HEMI). The HEMI device
+             launches two electrified probes capable of delivering an electrical charge to a
+             target.
+
+             (3) Modular crowd control munition (MCCM). This is similar in appearance to
+             the lethal Claymore mine. The MCCM delivers blunt-trauma effects from 5 to
+             15 meters via 600 rubber balls.
+
+             (4) Rubber ball grenade. A hand thrown grenade, 12-gauge shotgun round,
+             or 40 mm grenade launcher round that delivers an airburst flash bang and
+             blunt force trauma via rubber pellets.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  19
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    (5) Flash bang grenade. A hand thrown grenade that delivers a bright flash
+    (optical effect) and loud bang (acoustic effect) to disorient potential targets or
+    control crowds.
+
+    (6) Hand-thrown RCA grenade. A hand thrown grenade that delivers an
+    irritant or blunt-pain compliance impact payload for disorienting potential
+    targets or controlling crowds.
+
+    (7) Compressed air launchers. A compressed air-powered launcher delivers
+    a variety of projectiles, including blunt impact, marking, and chemical irritants,
+    such as oleoresin capsicum (OC) liquid.
+
+    (8) Twelve-gauge nonlethal munitions. These shotgun munitions deliver
+    counterpersonnel, blunt-trauma effects against individuals and groups. The
+    12-gauge munitions variants include crowd dispersal, fin stabilized, and sock
+    rounds.
+
+    (9) Twelve-gauge, nonlethal, warning munitions (100- and 200-meter
+    variants). These shotgun rounds are designed to deliver a flash-bang effect
+    over water at ranges of 100 or 200 meters. They provide personnel a way to
+    hail, warn, or determine intent before the need to escalate to higher levels of
+    force.
+
+    (10) 40 mm munitions. These munitions deliver counterpersonnel, blunt-
+    trauma effects against individuals and crowds by using low velocity, 40 mm
+    individual grenade launchers. Munition variants include sponge rounds and
+    crowd dispersal cartridges.
+
+    (11) 40 mm warning munitions (100-, 200-, and 300-meter variants). These
+    rounds are designed to deliver a flash-bang effect at 100, 200, or 300 meters.
+
+    (12) 66 mm tubed-launched nonlethal grenades. This is a tube-launched
+    munition delivering multi-grenade salvos. Variants include munitions
+    containing smoke, flash-bang effects, RCAs, and blunt-trauma payloads.
+
+    (13) Acoustic Hailing Device (AHD). A device delivering scalable and
+    directional warning tones or intelligible voice commands at various ranges.
+
+    (14) Ocular interruption systems. This type of handheld or weapon mounted
+    laser interdicts potential targets by delivering visible and temporary ocular
+    impairment effects.
+
+    (15) 81 mm flash-bang munition. Munition delivers nonlethal suppressive
+    effects geared to large crowds in the open or personnel in covered concealed
+    positions.
+
+20  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+          Figure 1. Nonlethal Munitions Range Card
+
+                              WARNING
+
+Close engagements may result in injury or death. All nonlethal
+capabilities have minimum safe engagement distances that must
+be adhered to.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/              21
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    b. Figure 2 is a quick reference range card on nonlethal devices currently
+    fielded.
+
+    Figure 2. Nonlethal Devices Range Card
+
+    c. Nonlethal counter-material (vehicle stopping) capabilities. Specific capabilities,
+    employable by the joint force, to perform operational tasks and enable nonlethal
+    counter-material effects include:
+
+    (1) Caltrops are pronged, heavy gauge, steel puncturing spikes deployed to
+    stop and disable vehicles by causing immediate and catastrophic failure of
+    pneumatic tires.
+
+    (2) Vehicle lightweight arresting device (VLAD) is a man-portable,
+    expandable, single use, and rapidly deployable net equipped with a barbed
+    spike system capable of puncturing and entangling the leading tires and
+    stopping small wheeled vehicles (5,500 pounds or less) traveling up to 30
+    miles per hour within 200 feet.
+
+    (3) Portable vehicle arresting barrier (PVAB) is a transportable, pre-
+    emplaced, and reusable vehicle-stopping net capable of causing a controlled
+    lock-up of vehicles up to 7,500 pounds. Emplaced in standby mode, the
+
+22  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/    07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+     device can be deployed to capture mode in roughly two seconds, allowing
+     unimpeded vehicle traffic until a potential threat vehicle is detected.
+
+     (4) Spike strips are hand emplaced, prefabricated strips of materiel with
+     embedded steel spikes employed to impede vehicle progression by causing
+     rapid tire deflation and controlled deceleration.
+
+d. Core capability references.
+
+     (1) See https://jnlwp.defense.gov/Current-Intermediate-Force-Capabilities/ for
+     detailed target effects for each system and nonlethal munition and any
+     additional capabilities fielded after the date of this publication. National stock
+     numbers or DoD identification codes for each capability are included in
+     Appendix B, when available.
+
+     (2) See https://jnlwp.defense.gov/Developmental-Intermdiate-Force-
+     Capabilities/ for information on NLW capabilities under development.
+
+     (3) See https://jnlwp.defense.gov/Future-Intermediate-Force-Capabilities/ for
+     NLW concept development initiatives.
+
+     (4) See Security Forces SMARTNet
+     (https://usaf.dps.mil/teams/SMARTNet/SitePages/Non-lethal-Weapons.aspx)
+     for the current list of USAF approved nonlethal weapons/intermediate force
+     capabilities devices, munitions and equipment listing.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  23
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    This page intentionally left blank.
+
+24  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                     Chapter III
+
+EMPLOYMENT CONSIDERATIONS
+
+1. Advantages of Employing NLW
+
+a. Military units are organized, trained, and equipped to employ lethal force. Units
+equipped solely with traditional military weapons have two options to impose their
+will: threatening deadly force or applying deadly force. These limited options
+represent a potential vulnerability adversaries may exploit. Forces trained in
+escalation of force tactics have a greater range of response and may be more
+appropriate operate in complex environments than forces emphasizing lethality.
+
+b. The use of NLW is consistent with political and social considerations respecting
+human life, and addresses the military consideration to keep collateral damage,
+noncombatant, and civilian casualties to a minimum. NLW employment assists in
+shaping public perception of the application of force, especially in civil
+disturbance, urban, and humanitarian assistance operations. Forces trained in
+EOF tactics are better enabled to operate in complex environments than forces
+only trained in lethal weapons.
+
+c. NLW may be used with lethal weapon systems to enhance effectiveness and
+efficiency in military operations. NLW enable engagement in situations where
+lethal force may be counterproductive to established objectives and strategic
+goals.
+
+               NATIONAL GUARD RESPONSE TO 2015 BALTIMORE RIOTS
+
+    On April 27, 2015, the Maryland National Guard was mobilized to support law
+    enforcement to suppress civil unrest and restore order in the city of Baltimore,
+    Maryland. Army and Air National Guard personnel, trained in riot control
+    techniques and the employment of nonlethal weapons, were integrated into
+    police operations. Over the five days of operations, National Guard personnel
+    used their nonlethal capability sets to employ crowd control tactics; close range,
+    subject-control techniques; and riot control agents and smoke to disperse crowds
+    and facilitate the apprehension of persons who failed to comply with lawful
+    orders. Many of these close-range and riot-control tactics had been developed
+    from Service-specific baseline combatives and martial arts programs and
+    rehearsed with NLW training days, facilitated by the Quantico, Virginia based
+    Joint Nonlethal Weapons Directorate liaisons, and from lesson modules
+    discussed and practiced during the Interservice Nonlethal Individual Weapons
+    Instructor Course.
+
+                                              SOURCE: Maryland Army National Guard, 2015
+
+2. Considerations for NLW Employment
+
+a. Before NLW Employment.
+
+(1) Training. In almost all after action reviews involving the lack of
+employment or incorrect employment of NLW, commanders and warfighters
+reference the lack of training on NLW and understanding of the SROE/SRUF
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                        25
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    as one of the main reasons an event unnecessarily escalated. Service
+    training processes are covered in Chapter IV.
+
+    (2) Proportional force employment requires a careful and disciplined
+    balancing of protecting people and infrastructure, conducting military
+    operations, and achieving the overarching objectives of an operation. A single
+    act can cause significant military and political consequences; therefore, when
+    force is used, it must be lawful and measured. Proportionality is best
+    achieved when all personnel understand the political objectives and the
+    potential impact of inappropriate actions, and that ROE are sensitive to
+    political concerns but consistent with the right and obligation of self-defense.
+
+    (3) Mission analysis should consider adversary, public, and third-party
+    perception, EOF or force continuum* procedures, and the probability of
+    achieving the desired results when determining the suitability of using NLW
+    during operations. Each Service has EOF or force continuum procedures
+    located in their Service doctrine. For the US Army, EOF procedures in a law
+    enforcement capacity are detailed in AR 190-14. Army EOF procedures in
+    other capacities can be found in Graphic Training Aid 19-08-006 and Training
+    Circular 3-19.5 as well as CJCSI 3121.01B. For the US Marine Corps, force
+    continuum procedures are detailed in Marine Corps Order 5500.6H chapter 1,
+    Arming of Law Enforcement and Security Personnel and the Use of Force.
+    For the US Navy, EOF are explained in Navy Tactics, Techniques, and
+    Procedures 3.07.2.3, Law Enforcement and Physical Security; and for the US
+    Air Force, Department of the Air Force Instruction 31-117, Arming and Use of
+    Force by Air Force Personnel. The US Coast Guard, Use of Force Continuum
+    is defined in the Maritime Law Enforcement Manual, Commandant Instruction
+    (COMDTINST) M16247.1H.
+
+*Note: The USMC and USN, use the term force continuum which is defined as: The
+wide range of possible actions ranging from voice commands to application of deadly
+force that may be used to gain and maintain control of a potentially dangerous
+situation. (USMC Dictionary).
+
+The USCG defines the Use of Force Continuum as a model that organizes levels of
+force into a graduated scale of risks and outcomes and provides the officer with a
+system for determining appropriate levels of force to be applied when governed by the
+Coast Guard Use of Force Policy, except for those situations involving action to compel
+a vessel to stop. Force used within the context of the Use of Force Continuum is also
+governed by the guiding principles and rules governing use of force set forth in Section
+B of Chapter 4 of the Maritime Law Enforcement Manual, COMDINST M16247.1H.
+
+The other Services do not use this term, when used in this publication it will follow the
+USMC definition.
+
+    (4) Certain types of NLW capabilities and technologies have secondary or
+    tertiary effects which are governed by international agreements, treaties, or
+    the specific nations where operations are to be conducted. Before employing
+    NLW, HN and local government policies must be understood and considered.
+
+26  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+The appropriate staff element such as the SJA and country team must be
+included in the planning process. Informing the HN and local government
+about NLW capabilities and their employment provides context for
+understanding EOF incidents. The HN and local government leaders should
+understand that the joint force will apply an appropriate level of force as a
+response to perceived threats.
+
+(5) Some NLW require analysis of transportation and other logistics
+considerations to ensure availability for mission needs. A thorough load plan
+analysis may be required.
+
+(6) Maintenance and sustainment are paramount for future employment of
+assigned NLCS or other NLW. NLW should be treated like all other military
+equipment regarding inventories, scheduled maintenance, and ordering of
+shortages.
+
+(7) Leaders set the conditions for their subordinates when employing NLW.
+They ensure subordinates know how to issue clear warnings and instructions
+to persons who approach their positions. Service members must possess the
+critical thinking skills to quickly determine if a threat is present, estimate threat
+severity, and apply the appropriate force response in ambiguous situations.
+These skills are identified, trained, and reinforced by leaders so Service
+members apply measured force with confidence.
+
+(8) Leaders build public and adversary perception management into NLW
+plans and ROE in ways that minimize the potential for misperception, help
+counter mis/disinformation, and retain public trust. Consult with public affairs,
+information planners, and the SJA.
+
+b. During NLW Employment:
+
+(1) If possible, attempt to determine hostile intent and prevent further escalation.
+NLW can be used throughout the competition continuum as a force multiplier.
+
+EMPLOYMENT OF NONLETHAL 40 MILLIMETER (MM) MUNITIONS IN
+                                          KOSOVO
+
+In southeastern Kosovo, in April 2000, the United States (US) Army’s Task Force
+Falcon used nonlethal weapons (NLW) in a tactical situation to successfully push
+back a moving crowd. The military police, serving as peacekeepers, used 40 mm
+rounds fired from M203 grenade launchers and foam batons to move a crowd
+during the detention of an area arms smuggler. Though NLW were not dictated
+by any higher guidance, the alternative, being lethal means, would have surely
+caused an international situation as the US force were in the country as
+peacekeepers and only authorized use of force for self-defense. The NLW gave
+the battalion commander a means to take the initiative without making a tense
+situation more violent and dangerous, since the crowd was gathering to protest
+the US forces.
+
+SOURCE: LTC JAMES BROWN, 709th Military Police Battalion,
+
+                           Kosovo Incident Case Study, 4 April 2000
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                27
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+             (2) A layered employment of multiple NLW capabilities is more effective than
+             a single NLW system. For example, if personnel do not comply with initial
+             hails and warnings, more aggressive measures may be required. Munitions
+             fired from handheld devices or launched from vehicle-mounted systems are
+             potential next steps. The US Navy layered defense technique, detailed in the
+             following vignette, is an example of one method of layered defense using
+             zones. Figure 3 on page 17 depicts the Navy’s layered defense using zones
+             and the emplacement of NLW. Various NLW, munitions, and devices that can
+             be employed in each of these zones are depicted in Figure 4 on page 18.
+
+                 UNITED STATES NAVY LAYERED DEFENSE TECHNIQUE
+
+    The concept of operations for infrastructure protection describes employing
+    nonlethal weapons (NLW) to the maximum extent possible to determine hostile
+    intent and deter attack. This is achieved through a defense in depth consisting of
+    three zones. The three zones are (1) an assessment zone, (2) a warning zone,
+    and (3) a threat zone.
+
+    Assessment Zone. The outermost defense zone, which typically does not have
+    boundaries, is the assessment zone. Security forces detect and identify contacts
+    (e.g., small boats, pedestrians, and vehicles) as they approach or pass near the
+    protected asset or area. In some [places] (e.g., areas outside an installation),
+    security forces may not patrol the assessment zone, control access, or challenge
+    contacts. To simplify the identification process, those on watch are given current
+    access rosters for expected vessels or vehicles (e.g., vendors, fuel barges, and
+    pilot boats).
+
+    Warning Zone. Security forces must classify contacts in the warning zone as
+    threats or nonthreats. In this zone, security forces initially interact with contacts to
+    determine [if there is] hostile intent and provide a physical presence to control
+    access to a restricted area. Classification measures and warning zone
+    parameters are based on specific threats. For example, a heightened threat of
+    pedestrian-carried improvised explosive devices at an entry control point would
+    result in a more thorough screening of personnel, each of whom is separated
+    from friendly personnel until classified. Standard operating procedures must
+    clearly define methods and steps that can be used to determine hostile intent to
+    avoid ambiguity and hesitation.
+
+    Threat Zone. The threat zone is the innermost layer of defense in depth. All
+    personnel, vehicles, and vessels must be classified as either a threat or
+    nonthreat before entering this zone. To neutralize threats, the threat zone must
+    be organized to bring NLW, and if necessary, maximum destructive fire, via
+    crew-served weapons or other weapons, to bear on targets while minimizing the
+    risk of fratricide and damage to assets.
+
+                        SOURCE: Navy Tactics, Techniques, and Procedures 3-07.2.1,
+
+                                                                 Antiterrorism, 8 September, 2022
+
+28  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+         (3) This technique can used be to defend mobile assets (e.g. a vessel at sea
+         as depicted in Figures 3 and 4), or fixed assets (e.g. a vessel in port or critical
+         infrastructure, as depicted in the continued vignette below).
+
+                      LAYERED DEFENSE OF A VESSEL IN PORT
+
+At a pier entry control point, the gate sentries are positioned in the ship's warning
+zone. They assess personnel/vehicles driving by or approaching the pier as far
+as they can cover based on traffic and environmental conditions. If there is a
+threat of a potential vehicle-born improvised explosive device incident at the
+entry control point, the watch standers would close the entry control point gate,
+activate any barrier, and utilize available NLW as applicable. A long-range
+acoustic device or a ship’s LA/9P laser dazzler could be used to warn personnel
+away from the pier entry control point and inform all personnel to maintain a safe
+distance.
+
+Figure 3. Navy Layered Defense Using NLW
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  29
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+     Figure 4. NLW Threat, Warning, and Assessment Zones
+
+                                   WARNING
+
+    Using NLW alone could place the individual Service member in a
+    position of unacceptable risk. Do not use NLW in situations where
+    lethal force is imperative for offense, self-defense, or in the
+    defense of others. Using lethal force remains an inherent right of
+    Service members in instances when they, or personnel in their
+    charge, are threatened with death or serious bodily harm. NLW
+    augment, but do not supersede, lethal capabilities.
+
+    (4) EOF or force continuum procedures may incorporate NLW but may not be
+    necessary.
+
+    (5) At long ranges, acoustic or ocular devices are employed to warn
+    individuals. Compliant personnel that heed the warnings require no further
+    EOF measures. Some acoustic devices contain preprogrammed phrases in
+    multiple languages.
+
+    (6) The effects of NLW vary. See Chapter III paragraph 4(d) for expanded
+    explanation of various effects on personnel.
+
+30  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+(7) Personnel engaged with NLW may respond with an unpredictable
+reaction. It is important to consider multiple ways the target may react to the
+effects and plan accordingly.
+
+(8) See Army Techniques Publication 3-39.33, Crowd Control, for techniques
+on countering civil disturbances and conducting riot control.
+
+(9) See Appendix B of NTTP 3-07.2.3, Law Enforcement and Physical
+Security, for US Navy NLW considerations and employment guidance.
+
+   UNITED STATES (US) NAVY’S INTEGRATED USE OF NONLETHAL AND
+                    LETHAL WEAPONS TO COMPEL COMPLIANCE
+
+During an escalation of force incident, the US Navy fired warning shots over an
+Iranian patrol boat in 2017 in the northern Persian Gulf. The incident involved the
+USS Thunderbolt, a Cyclone class patrol ship that was conducting exercises in
+the Persian Gulf.
+
+The Iranian boat approached within 150 yards of the USS Thunderbolt, which
+attempted to hail the boat with radio, and then fired flares and issued warning
+blasts from the ship's siren, an international signal of danger. When the Iranian
+boat failed to respond, the USS Thunderbolt fired warning shots from its 50-
+caliber machine gun, which prompted the Iranian boat to change course and
+leave the vicinity.
+
+              SOURCE: Lieutenant Ian McConnaughey, US Naval Forces Central
+
+                                                                           Command, 25 July 2017
+
+   c. After NLW Employment
+
+(1) Conduct detainee control measures, if necessary.
+
+(2) Provide medical attention, as appropriate.
+
+(3) Perform immediate and follow on consequence management in addition
+to an after-action review. After actions reviews should be routed through
+appropriate Service channels. This includes contacting local officials and
+preparing media statements.
+
+(4) Conduct inventory of all equipment expended, including nonlethal
+munitions and devices.
+
+(5) Coordinate for sustainment support upon completion of mission.
+
+3. NLW Employment Limitations
+
+a. NLW effectiveness and employment options depend on human and
+environmental factors. Human factors include psychological state, age,
+motivation, and the presence of drugs or alcohol. Some environmental factors
+include the effects of weather, terrain, visibility, climate, and time of day. For
+example, lasers are more effective at night, while acoustic devices and blunt
+impact munitions are less effective and less accurate in windy conditions.
+
+b. Using NLW does not guarantee de-escalation of a situation. Leaders should be
+
+prepared for an adversary to attempt to counter NLW use.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                                31
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+       c. NLW and their associated equipment have limited ranges of effectiveness. In
+       addition, the availability of NLW may be limited based on the unit and mission.
+
+                        IMPROVING NONLETHAL WEAPONS THROUGH
+                                        AFTER ACTION REVIEWS
+
+    During Operations IRAQI FREEDOM and ENDURING FREEDOM, Marine forces
+    noted the effectiveness of green laser pointers and dazzlers as escalation of
+    force tools for use at entry and vehicle control points. These tools got the
+    attention of individuals approaching the checkpoint without having to fire;
+    however, through various lessons learned and after-action comments, it was
+    noted that an extended range would be helpful for these devices.
+
+    (Note: Since 2006, these devices’ effective ranges have improved.
+    Improvements include extending the effective range and developing employment
+    options such as varied color schemes and strobe patterns.)
+
+                  SOURCE: Marine Corps Center for Lessons Learned, Lessons and
+      Observations from Company Commanders in Operations IRAQI FREEDOM
+
+                                                   and ENDURING FREEDOM, November 2006
+
+4. Human Effects Considerations
+
+       a. Human Effects. U.S. Department of Defense Instruction (DoDI) 3200.19, Non-
+       Lethal Weapons (NLW) Human Effects Characterization, defines the policies,
+       responsibilities, and procedures for a human effects characterization process in
+       support of the development of NLW and other nonlethal technologies. Human
+       effects characterization is the formal process for describing the physiological and
+       behavioral effects knowledge associated with a given NLW.
+
+       b. Human Behavior
+
+             (1) The nature of counter-personnel NLW is to influence human behavior.
+             They aim to incapacitate, deter, distract, suppress, or move a targeted
+             individual.
+
+             (2) Understanding and predicting (to the greatest extent possible) human
+             behavior is important for tactical success and mission effectiveness. Applying
+             knowledge of both system technology and knowledge of human behavior will
+             yield optimum effects.
+
+             (3) Understanding what effect employment of specific NLW capabilities has
+             on intended targets is a planning factor that must be identified by mission
+             commanders prior to execution. Successful employment of nonlethal
+             capabilities may be overshadowed by target reaction which is unexpected
+             and unplanned for. Like any military operation, the end state of environment
+             and targeted personnel after mission execution should be captured to ensure
+             that contingencies or counter actions are properly accounted for.
+
+5. Potential Situational Tactics, Techniques, and Procedures
+
+       a. Unauthorized Entry–Installation ECP
+
+32  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+     (1) Threat–Potential noncompliant vehicle driver intent: terrorist, criminal,
+     inattentive (lost), or impatient.
+
+     (2) Appropriate NLW
+
+          (a) Capabilities must disable and/or stop a small, medium or large vehicle
+          threat(s); deny base access; and allow time for security forces to assess
+          level of threat.
+
+          (b) Capabilities must be integrated into security forces EOF procedures.
+
+          (c) Potential nonlethal capabilities include but are not limited to:
+
+              • Portable Vehicle Arresting Barrier
+
+              • Final Denial Barriers
+
+              • Caltrops
+
+b. Integrated Base Defense
+
+     (1) Unauthorized violations of restricted ground or airspace such as:
+
+          (a) Mounted or dismounted potential hostiles approach base perimeter or
+          installation ECP.
+
+          (b) Small Unmanned Aircraft System (sUAS) observed hovering within
+          close proximity or over base boundary.
+
+          (c) Enemy force fire indirect mortar rounds and strike inside base
+          perimeter.
+
+          (d) Group of hostile protestors congregate outside installation entry
+          control point shouting and throwing rocks.
+
+     (2) Appropriate NLW
+
+          (a) Security forces hails and warns employing laser dazzler and AHD. If
+          the threat does not heed commands, Security forces escalate their
+          response and engage the vehicle threat with nonlethal munitions and/or
+          warning shots or lethal munitions IAW ROE and EOF procedures.
+
+          (b) Security forces proactively deploy “blue” sUAS to
+          reconnaissance/observe/thwart potential threats outside base perimeter;
+          sUAS is observed near/within perimeter airspace; sUAS is identified as
+          potential threat, Security forces deploy automatic net gun 40MM rounds
+          fired from Mk-19, mounted on CROWS to neutralize threat.
+
+          (c) Security forces proactively deploy “blue” sUAS to
+          recon/observe/thwart potential threats outside base perimeter.
+
+          (d) Security forces form riot control team using confrontation management
+          kit; challenging protestors with AHD; employing blunt impact rounds to
+          target group leaders: 40 mm sponge grenade and crowd dispersal rounds,
+          stingball grenades, 12-gauge fin stabilize and crowd dispersal rounds.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  33
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    c. Route clearance or convoy operations
+
+         (1) Tactical convoy operations are covered in depth in MTTP for Tactical
+         Convoy Operations (ATP 4-01.45, MCRP 3-40F.7, NTTP 4-01.6, AFTTP 3-
+         2.58).
+
+         (2) NLW can be used to warn, identify hostile intent or create standoff at a
+         level of escalation below lethal force.
+
+         (3) Planned NLW for route clearance or convoy operations include:
+
+              (a) AHDs
+
+              (b) Magnetic Audio Device
+
+              (c) Dazzling Lasers and Laser Interdiction Systems
+
+              (d) Compressed air launcher
+
+              (e) Caltrops
+
+    d. Visit, Board, Search, and Seizure (VBSS)
+
+         (1) When conducting VBSS the preference is for the target vessel remain a
+         seaworthy platform to preclude VBSS transitioning into a recovery at sea.
+         This demand is acute if the desired outcome is to seize vessels, contraband
+         or persons related to transnational threats; embargoes; or conduct
+         counterproliferation operations.
+
+         (2) NLW can be used to signal the intercepting vessel’s intent to exercise a
+         right of visit boarding, particularly if radio calls, signal lights, or flag hoist is not
+         acknowledged. NLW may also be used to disorientate or incapacitate persons
+         on the target vessel, reducing or eliminating the threat of opposition to the
+         boarding party.
+
+         (3) NLW to consider during VBSS operations may include:
+
+              (a) AHDs
+
+              (b) Dazzling Lasers
+
+              (c) Compressed air launcher
+
+              (d) Nonlethal warning munitions
+
+              (e) Nonlethal crowd control munitions
+
+    e. Humanitarian Assistance (HA) and Disaster Relief (DR) mission sets comprise
+    a wide range of scenarios in many geographical locations. Common military
+    problem sets associated with HA and DR can include crowd control, perimeter
+    defense, and area protection often from noncombatants.
+
+         (1) HA and DR planners should plan for appropriate NLW capabilities sets in
+         Appendix D before HA and DR are required, when possible.
+
+34  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+(a) Military units may have a supporting role during HA and DR.
+Coordinate crowd control and area defense with local authorities, as
+appropriate.
+(b) Capabilities to consider:
+
+    • Vehicle stopping devices.
+    • Dazzling Lasers and Acoustic Hailers.
+    • Pyrotechnics and other signaling devices.
+    • RCAs and nonlethal projectiles – be cognizant of ROE and mission.
+(c) Additional considerations:
+    • Optics in the information space.
+    • Authorities.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  35
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    This page intentionally left blank.
+
+36  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                                   Chapter IV
+
+                              TRAINING AND EDUCATION
+
+1. Fundamental Concepts
+
+       a. Successful NLW employment requires effective individual and unit training.
+       Commanders can integrate NLW capabilities into their unit’s training plans based
+       on the unit’s mission or required essential task list, even if NLW, munitions, and
+       devices are not on a unit’s table of equipment.
+
+       b. The art of employing NLW involves estimating the potential for escalation of
+       violence and employing appropriate levels of force without overreacting to
+       provocation.
+
+       c. Physiological reactions to threats often cloud judgment and decrease motor
+       function. Service members are trained to recognize and regulate their stress
+       levels. Training should be as realistic as possible. This will help immunize
+       personnel against stress, ensuring they are confident and proficient with NLW
+       employment.
+
+       d. Instructors should be qualified to facilitate NLW capabilities training at the
+       individual and unit levels. Each Service determines the appropriate training and
+       frequency of training to sustain necessary NLW skills.
+
+2. Unit-level NLW Training
+
+       a. Unit-level NLW training begins in the classroom, with hands-on instruction. The
+       training should cover the availability, characteristics, employment considerations,
+       limitations, and restrictions of NLW. After students understand these basics, NLW
+       capabilities are integrated into training exercises and operations, specifically,
+       integrating NLW into training plans when collective tasks are rehearsed.
+
+       b. Units should deliberately plan for unique scenarios where NLW are expected
+       to be employed. An example of an employment consideration checklist for using
+       NLW is detailed in Appendix E.
+
+       c. The Services can receive unit training through mobile training teams taught by
+       the DoD Inter-Service Nonlethal Individual Weapons Instructor Course (INIWIC)
+       based at Fort Leonard Wood, Missouri. NLW training is taught by INIWIC
+       instructors, and every individual attending training receives a certificate of
+       completion. The course is limited to 30 personnel on a mobile training team at the
+       unit’s home station or at INIWIC, Fort Leonard Wood. Units that desire to host an
+       INIWIC mobile training team (MTT) at their home station must submit a formal
+       request to the Training and Education Command, Quantico, Virginia. A sample
+       memorandum of the formal request is in Appendix F.
+
+       d. INIWIC is not an MP-specific school. All military occupations may attend the
+       INIWIC. Units hosting an INIWIC MTT will review their Service-specific, NLCS for
+       INIWIC-required equipment before the MTT’s arrival. Also, hosting units should
+       contact their installation’s local MP unit for assistance with acquiring any missing
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  37
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    INIWIC-required equipment. (The course instruction for INIWIC will be discussed
+    later in the chapter).
+
+    e. After action reviews from deployed units indicate classroom-only instruction is
+    inadequate. Classroom training, which can be characterized as the “crawl” phase,
+    should be accompanied by practical exercises requiring Service members to
+    employ NLW. Hands-on experience during training, such as range days to use
+    NLW, munitions, and devices, is a key component of the “walk” phase. The “run”
+    phase includes conducting a dry fire exercise and completing a scenario-based
+    training event, which includes multiple NLW. These events solidify comprehension
+    and user proficiency. Some recommendations for each of the various “crawl, walk,
+    run phases” are:
+
+    (1) Hold a 30-minute wargaming session at all levels and across occupational
+    skills.
+
+    (2) Perform routine gun drills, which may include one-day individual range
+    time to test and gain comfort with multiple NLW. If there are no certified NLW
+    instructors within the unit to teach this and no INIWIC MTT available, this
+    training can be coordinated through the base law enforcement units who may
+    be willing to instruct others and may have the equipment.
+
+    (3) Hold follow-on scenario training incorporating medical procedures, such
+    as NLW-related injury treatment (e.g., blunt force trauma, shock, internal
+    bleeding) into NLW training.
+
+    f. NLW training should be accompanied by ROE, RUF, EOF, and continuum of
+    force training. Incorporating those considerations helps Service members
+    determine whether hostile intent exists and the appropriate response to a given
+    threat. By learning these skills prior to execution, Service members deploy armed
+    with the necessary tools to act quickly and appropriately. Repeat this training to
+    maximize proficiency and retention. Unit training, which combines multiple NLW in
+    a scenario is the culmination exercise.
+
+    g. NLW employment may result in unintended consequences. NLW training
+    should address these possibilities and provide mitigation and consequence
+    management solutions.
+
+    h. Leverage staff components to enhance the realism and accuracy of NLW
+    training. Examples of how the different staff components facilitate and enhance
+    NLW training follow:
+
+    (1) Medical personnel provide an understanding of OC decontamination
+    requirements, HEMI exposures, and potential injuries resulting from other
+    NLW employment. Often, medical personnel can treat NLW injuries with their
+    authorized unit equipment, but they must be informed which NLW will be
+    included in the training to prepare for any necessary medical treatment.
+
+    (2) Public affairs support training by helping NLW users engage and respond
+    to the media consistent with unit and strategic messaging that supports the
+    commander’s objectives. During scenario training for the unit, public affairs
+
+38  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+             officers should be asked to provide a unit message that fosters goodwill with
+             civilian populations and encourages cooperation. This can be achieved by
+             explaining which NLW are authorized to be used and how the unit will make
+             their determination of hostile intent.
+
+             (3) The intelligence staff works with the operations staff to project a realistic
+             threat environment based on the commander’s guidance for the outcome of
+             the training. This ensures the toughest and most realistic environment for the
+             unit going through the training. Also, they may provide insight into the cultural,
+             ethnic, and political views of a local population that describes how NLW assist
+             the overall unit goals and what may occur if lethal weapons are used instead.
+
+             (4) Judge Advocates clarify complex ROE and RUF issues. Commanders
+             ensure federal, state, and local laws are followed, in consultation with their
+             servicing Judge Advocate, and that ROE- and RUF-related issues are
+             properly integrated into NLW training. As with the intelligence staff, the Judge
+             Advocate personnel steer leaders in a scenario that highlights how using
+             NLW can offer the same value as lethal weapons while meeting the ROE and
+             RUF.
+
+             (5) The logistics staff provides advice and guidance in maintenance,
+             resupply, and storage procedures ensuring units have the NLW stocks
+             required for operations and provides NLW process distribution during
+             operations.
+
+3. Service-specific NLW Training Requirements
+
+Each Service has unique NLW training requirements and NLW education material.
+Table 3 on pages 27-30 details Service-specific NLW training requirements and
+guidance.
+
+     Table 3.  Service-Specific NLW Training Requirements and Guidance
+
+Reference                     Joint
+DoD
+Instruction            Title     Date                               Source
+5000.69
+               DoD Joint        9 Nov 11   http://www.esd.whs.mil/Directives/issuances/
+               Service        (10 Aug 23)  dodi/
+               Weapons and
+               Laser System
+               Safety Review
+               Processes
+
+                              United States Army
+
+Reference              Title    Date                                Source
+                              6 May 14     https://armypubs.army.mil/
+Training       Nonlethal
+Circular 3-    Weapons
+19.5           Training
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                          39
+
+               AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    Table 3. Service Specific NLW Training Requirements and Guidance (Cont’d)
+
+                                    United States Army (Cont’d)
+
+    Reference       Title             Date                       Source
+
+    Army            Crowd Control     23 Jun 22  https://armypubs.army.mil/
+    Techniques
+    Publication
+    3-39.33
+
+    Department      Standards in      15 Nov 24 https://armypubs.army.mil/
+    of the Army     Weapons
+    Pamphlet        Training
+    350-38
+
+                                   United States Marine Corps
+
+      Reference            Title           Date                           Source
+                                      31 May 18  http://www.marines.mil/News/Publications/
+    Navy and        Nonlethal
+    Marine Corps    Weapons
+    Departmental    (NLW)
+    Publication     Training and
+    3500.72B        Readiness
+                    (TandR) Manual
+
+    Marine          Arming of Law     21 Aug 13  http://www.marines.mil/News/Publications/
+    Corps Order     Enforcement and
+    5500.6H         Security
+    CH 1            Personnel and
+                    the Use of Force
+
+    Marine          Updated           1 Aug 08   http://www.marines.mil/News/Publications/
+    Administrative  Guidance on
+    Message         Marine Corps
+    (MARADMIN)      Training and
+    458/08          Employment of
+                    Oleoresin
+                    Capsicum (OC)
+                    Spray
+
+40               ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/            07 April 2025
+
+                    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+Table 3. Service Specific NLW Training Requirements and Guidance (Cont’d)
+
+                       United States Marine Corps (Cont’d)
+
+Reference              Title              Date             Source
+
+MARADMIN               Marine Corps       1 Oct 08  http://www.marines.mil/News/Messa
+560/08                 Training and Use             ges/
+                       of Human Electro-
+                       Muscular
+                       Incapacitation
+                       (HEMI)
+
+                       Devices
+
+                                United States Navy
+
+Reference              Title              Date             Source
+
+OPNAVINST              Navy Physical       23 Sep 14 https://www.secnav.navy.mil/doni/op
+5530.14E w/ CH-3       Security and Law   (20 Nov 17) nav.aspx
+                       Enforcement
+Formal                 Program                 N/A https://app.prod.cetars.training.navy
+Course                                                     .mil/cantrac/vol2.html
+                       Anti-Terrorism
+                       Training
+                       Supervisor
+
+                                United States Air Force
+
+           Reference         Title        Date             Source
+
+Department of the Air  Arming and Use     6 May 24 http://www.e-publishing.af.mil/
+Force Instruction      of Force by Air
+(DAFI) 31-             Force Personnel
+117_DAFMG2024-01
+
+DAFI 31-               Security Forces    15 Nov 23 http://www.e-publishing.af.mil/
+118_DAFGM2023-01       Standards and
+                       Procedures
+
+AFI 36-2654, Combat Combat Arms           15 Apr 20 http://www.e-publishing.af.mil/
+
+Arms Program           Program
+
+AFMAN 36-2655          USAF Small Arms    16 Apr 20 http://www.e-publishing.af.mil/
+                       and Light
+                       Weapons
+                       Qualification
+                       Programs
+
+                                United States Coast Guard
+
+           Reference         Title         Date     Source
+                                                     https://cgportal.uscg.mil/library
+COMDTINST              US Coast Guard     20 Nov
+M16247.1H              Maritime Law        2020      Available only to common access
+                       Enforcement                   card enabled USCG personnel with
+                       Manual                        access to the Coast Guard Portal
+                                                     (.mil) Website.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                   41
+
+                       AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    Table 3. Service Specific NLW Training Requirements and Guidance (Cont’d)
+
+                                 National Guard
+
+        Reference        Title        Date                          Source
+                                 18 Aug 2010  https://www.hsdl.org/?abstractanddid=68
+    National       National                   9477
+    Guard          Guard
+    Regulation     Domestic Law
+    500-5          Enforcement
+                   Support and
+                   Mission
+                   Assurance
+                   Operations
+
+    Legend:
+    COMDTINST–Commandant Instruction (USCG)
+    DoDI–Department of Defense Instruction
+    OPNAVINST–Office of the Chief of Naval Operations instruction
+    USCG–United States Coast Guard
+
+4. Inter-Service NLW Training
+
+    a. Introduction to NLW. The Joint Nonlethal Weapons Program (JNLWP)
+    sponsors an online course titled, “Introduction to Nonlethal Weapons.” This course
+    is accessed via the Joint Knowledge Online website at https://jkodirect.jten.mil. To
+    access the site, logon using a common access card. The NLW training course
+    catalog number is P- US1236. To launch the course, go to the “My Training tab”
+    and select the launch button. This training course is also hosted on the Marine
+    Net and My Navy Portal. Introduction to NLW consists of nine modules:
+
+    (1) Introduction and Background.
+
+    (2) Impacts of NLW.
+
+    (3) Tactical Employment.
+
+    (4) Counterpersonnel.
+
+    (5) Countermaterial.
+
+    (6) NLW in development.
+
+    (7) Training vignettes, including:
+
+    (a) Vehicle checkpoint.
+
+    (b) Cordon and search.
+
+    (c) VBSS.
+
+    (d) Perimeter Defense.
+
+42  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                           07 April 2025
+
+                   AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+b. INIWIC. INIWIC training produces NLW instructors at the Marine Corps
+Detachment, Fort Leonard Wood. INIWIC provides NLW training to prepare and
+certify Soldiers, Marines, Sailors, Airmen, and other DoD personnel to serve as
+trainers and unit advisors on the tactical employment of NLW.
+
+(1) INIWIC is an interservice, training review organization course. Quotas are
+available for each Service through its Service training reservation channels.
+
+(2) INIWIC is the only DoD NLW “train-the-trainer” course. Instructors
+become certified in INIWIC to train personnel to tactically employ NLW
+capabilities. US Army graduates of the course receive the additional skill
+identifier (ASI) “2A,” and US Air Force graduates receive the special
+experience identifier “310”. Service regulations dictate the distribution and
+responsibilities of these identifiers. For example, the Army “2A” ASI identifies
+“Soldiers trained in the background, planning, policy, training, and application
+of non-lethal capabilities as an advisor to the commander” and authorizes or
+requires a density of Soldiers with this ASI for certain unit types. See AR
+611-12 for more information.
+
+Note: USN teaches the nonlethal weapons senior instructor course, an authorized USN
+train-the-trainer course.
+
+(3) INIWIC provides an in-depth understanding of ROE and RUF. The course
+teaches students when and how to escalate or de-escalate force relative to
+perceived threats and informs them of appropriate NLW employment.
+
+(4) INIWIC addresses 13 NLW topics in modules. They are:
+
+(a) Policies relevant to the application of force. This module prepares
+individuals to make sound use-of-force decisions. Discussions include
+SROE, SRUF, force continuum, nonlethal policy considerations, and
+Service policies for the use of force.
+
+(b) Ocular hail and warning devices. This module gives individuals the
+knowledge to employ light and laser technologies to halt or deter a threat.
+
+(c) Close-range subject control. This module teaches proper close-range
+subject control techniques. Techniques include body positioning drills,
+control holds, takedowns, handcuffing and baton, and hand drills including
+disengagement techniques.
+
+(d) Employment of OC (also called pepper spray). This module imparts
+knowledge and effectively trains end users to properly employ OC.
+Discussion includes OC training and certification, decontamination, inert
+and live OC, and how OC training relates to the concept of nonlethal
+training.
+
+(e) HEMI or electro-muscular device (EMD). This module provides HEMI
+or EMD technical aspects, employment considerations, and safety
+considerations. Individuals qualify with the HEMI and EMD and receive a
+DoD certification.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                               43
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+              (f) Compressed air launcher instruction includes general information,
+              maintenance procedures, operating procedures, and considerations for
+              conducting training and qualification.
+
+              (g) Acoustic hail and warning devices. This module instructs individuals
+              on AHDs associated with communicating effectively over long distances.
+
+              (h) VLADs. This module trains proper employment of various VLADs.
+
+              (i) Nonlethal munitions. This module allows individuals to become familiar
+              with, and qualify on the range with, various nonlethal munitions.
+              Discussions include the intent of nonlethal munitions, force continuum,
+              types and characteristics of nonlethal munitions, ranges, physical and
+              psychological effects, employment considerations, and key factors
+              necessary for conducting a live-fire exercise (LFX).
+
+              (j) NLCS. This module provides individuals with an understanding of
+              NLCS and the ability to educate others on the topic.
+
+              (k) Civil disturbance. This module teaches how to enhance the
+              effectiveness of nonlethal responses to civil disturbances. The discussion
+              includes crowd behavior, indicators of crowd mood and threat, and various
+              formations effective in combating different types of disturbances.
+
+              (l) Integrating NLW capabilities into unit operations. This module
+              discusses the basic principles of integrating NLW into unit training and
+              operations. The discussion includes information on safety concerns,
+              phases of NLW, observer and controller responsibilities, procedures for
+              planning and executing NLW training and operations, and conducting an
+              after-action review with units.
+
+              (m) Conducting NLW capabilities unit training. This module discusses how
+              to conduct NLW training, including remedial training techniques.
+
+         (5) The INIWIC website has more information at:
+         http://www.tecom.marines.mil/Units/Training-Command/Detachments/Marine-
+         Corps-Detachment-Fort-Leonard-Wood/INIWIC/.
+
+    c. Integrating NLW Training into joint-multinational combatant command
+    exercises/unit command post exercises (CPXs).
+
+         (1) Combatant commands and large units conducting CPXs or table-top
+         exercises should incorporate scenarios or vignettes into exercises and
+         wargames that present opportunities to employ NLW. Integration of NLW
+         planning during the US joint and Service planning processes, or other Service
+         equivalent process ensures that NLW capabilities and effects are planned
+         and captured.
+
+              (a) Integrate NLW into CPX situational training exercises (STXs), and
+              LFXs as appropriate to the exercise's objectives and the availability of
+              NLW resources.
+
+44  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                  (b) Integrate NLW into CPXs to increase the proficiency of staff planners
+                  to identity NLW capability requirements, gaps, and develop solutions to fill
+                  these gaps.
+
+                  (c) Integrate NLW into STXs to increase proficiency in applying NLW
+                  capabilities to situations forces may likely encounter while operating within
+                  their area of operations. Update local unit standard operating procedures
+                  from these STXs and forward identified capability gaps and recommended
+                  solutions up through the chain of command.
+
+                  (d) Integrate NLW into LFXs for familiarization and to increase proficiency
+                  in employing NLW against targets.
+
+             (2) Integration of NLW and effects can be accomplished through multiple
+             media. Prior to CPX initial planning conference, requesting NLW simulation
+             support or intel support during the “Road to Crisis” period for an exercise is
+             ideal. Units can contact their joint intermediate force capabilities advisor
+             (JIFCA) for assistance.
+
+             (3) Identification of the NLW exercise objectives, units participating, and
+             resources required are imperative for successful execution of the NLW
+             objectives throughout the CPX/LFX/STX. It is recommended that these are
+             identified during the initial planning event to provide adequate time to
+             resource.
+
+             (4) For assistance with joint exercise integration of NLW, contact the Joint
+             Intermediate Force Capability Office at JifcoInfo@usmc.mil. The Intermediate
+             Force Capabilities Range Book, Version 2.0 Edition 2021 is an additional
+             resource for NLW range planning.
+
+5. NLW Exercise Planning Checklist
+
+       a. When planning for NLW integration into an exercise or training event it is
+       helpful to develop a checklist to ensure critical inputs, milestones, and outputs are
+       accounted for. Items to consider for a unit checklist include:
+
+             (1) Task.
+
+             (2) Purpose.
+
+             (3) Methodology.
+
+             (4) End state.
+
+             (5) Critical planning horizons.
+
+       b. Consult the trained unit/Service NLW advisor discussed in paragraph 4 above
+       or the combatant command JIFCA to develop a detailed and mission oriented
+       NLW planning checklist.
+
+6. Service Points of Contact for NLW Training
+
+       a. United States Army. Army Nonlethal Scalable Effects Center, 14030 MSCoE
+       Loop, Suite 1088, Fort Leonard Wood, Missouri 65473. Phone: Defense Switched
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  45
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    Network (DSN) 676-5490, -3516, or -5494; commercial: (573) 563-5490, -3516, or
+    -5494.
+
+    b. United States Marine Corps. Headquarters, United States Marine Corps.
+    Deputy Commandant, Combat Development and Integration, Capabilities
+    Development Directorate, Ground Combat Element Division – Force Protection,
+    Active Security Branch 3300 Russell Road Quantico, Virginia 22134. Phone: DSN
+    378-8461, commercial (703) 432-8461.
+
+    c. United States Navy. Mechanical Advantage Control Hold, OC, and Baton
+    Training. Center for Security Forces,1575 Gator Boulevard, Suite 338 Joint
+    Expeditionary Base Little Creek-Fort Story, Virginia Beach, Virginia 23459-2751.
+    Phone: DSN 253-5225, commercial (757) 462-5221. Website:
+    https://www.public.navy.mil/netc/centers/csf/Default.aspx/.
+
+    d. United States Navy. LA-9/P and Administrative Laser Safety Officer. Naval
+    Surface Warfare Command, Dahlgren, Virginia; 6078 Noric Avenue Suite 309
+    Dahlgren, Virginia 22448-5131, Phone: DSN 249-10939327, commercial (540)
+    653-1093.
+
+    e. United States Air Force. Air Force Security Forces Center. Address: Air Force
+    Security Forces Center, 1517 Billy Mitchell Blvd, Joint Base San Antonio-
+    Lackland, Texas 78236-0119. Phone: DSN 945-5015, commercial (210) 925-
+    5015. Website: http://www.afsfc.af.mil/.
+
+    f. United States Coast Guard. US Coast Guard Headquarters, Office of
+    Specialized Capabilities (CG-721), 1790 Ash Street SE, Washington, DC 20032,
+    Phone: (202) 372-2474.
+
+46  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                                  Appendix A
+
+                  HISTORY OF NONLETHAL WEAPONS (NLW)
+
+1. Background
+
+       a. Operation UNITED SHIELD took place in Somalia from 9 January to 3 March
+       1995 and included a multinational coalition, combined task force organized to
+       evacuate all United Nations peacekeeping forces from Somalia. That operation
+       marked the first-time NLW were integrated into planning and operations for an
+       overseas contingency operation. As preparations began for the operation, it
+       became clear that unarmed, hostile elements posed a substantial threat to
+       evacuation forces. This prompted the procurement of nonlethal technologies to fill
+       the gap between verbal warnings and the application of deadly force when dealing
+       with unarmed, hostile elements. United States (US) Marines were equipped with
+       40 millimeter and 12-gauge nonlethal munitions, pepper spray, rubber ball
+       grenades, flash-bang grenades, and laser illuminators.
+
+       b. The commanding general conducted an aggressive, strategic communication
+       campaign ensuring the host nation’s population was aware of the capabilities the
+       US Marines were bringing to the operation.
+
+       c. Rules of engagement (ROE) for Operation UNITED SHIELD incorporated the
+       principles of graduated response, necessity, and proportionality. During one
+       incident, an armed agitator was identified within a large group of Somali nationals.
+       A Marine, armed with an M16 fitted with a laser designator, aimed his laser at the
+       agitator illuminating his chest with the pulsing light. As others in the mob saw the
+       bright light on the man’s chest, the mob began drifting away from him, and
+       ultimately dispersed. The agitator found himself standing alone facing the Marines
+       and quickly departed.
+
+       d. Though widespread employment of NLW systems, was largely unnecessary
+       during the evacuation, the US Congress directed the Department of Defense
+       (DoD) to establish a NLW program due to the widespread media coverage of
+       NLW use during the operation.
+
+2. Policy
+
+       a. In 1996, the Secretary of Defense signed a Department of Defense Directive
+       (DoDD) that established policy for NLW. This policy was superseded by DoDD
+       3000.03E, DoD Executive Agent for NLW, and NLW Policy. These documents
+       established policies and responsibilities for the development and employment of
+       NLW and designated the Commandant of the Marine Corps as the executive
+       agent for the Joint Non-Lethal Weapons Program and the Joint NLW Directorate
+       (JNLWD) (redesignated as the Joint Intermediate Force Capabilities Office
+       [JIFCO]) as the lead agent charged with identifying, evaluating, and developing
+       NLW capabilities and enabling NLW employment across the continuum of military
+       operations. See http://jnlwp.defense.gov/ for more information on the DoD NLW
+       program.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  47
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    b. The Ike Skelton National Defense Authorization Act for Fiscal Year 2011
+    (Public Law 111–383) directed the DoD to demonstrate and assess the utility and
+    effectiveness of NLW and provide escalation of force (EOF) options for
+    counterinsurgency operations. The study provided commanders a wide range of
+    force application and protection options when supplementing a commander’s
+    employment of deadly force.
+
+    c. DoDD 3000.03E, DoD Executive Agent for NLW, and NLW Policy, updates the
+    authorities, establishes policies, and assigns responsibilities for managing the
+    DoD NLW program. The current version of DoDD 3000.03E, incorporating change
+    2, 31 August 2018 maintains the designation of the Commandant of the Marine
+    Corps as the DoD executive agent for NLW.
+
+    d. In 2020 the JNLWD was officially redesignated the JIFCO. See: Intermediate
+    Force Capabilities: Bridging the Gap Between Presence and Lethality, U.S.
+    Department of Defense Non-Lethal Weapons Program Executive Agent’s
+    Planning Guidance 2020 for more information on the redesignation and for the
+    executive agent’s planning guidance.
+
+    e. DoDI 3200.19, Non-Lethal Weapons Human Effect Characterization
+    establishes policy, responsibilities, and procedures for DoD NLW human effects
+    characterization and the risk of significant injury (also referred to as RSI) as a
+    standard metric for reversibility. This policy provides guidance for the Services to
+    establish acceptable risk of significant injury and desired human effects in
+    appropriate capability documents and to create the Human Effects Review Board
+    for NLW programs.
+
+48  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                               Appendix B
+
+NONLETHAL WEAPONS, MUNITIONS, AND DEVICE INFORMATION
+                                          CARDS
+
+1. General
+
+Though not every Service is authorized munitions or ammunition for all nonlethal
+weapons (NLW), there are processes to assist with obtaining these items. Contact the
+unit logistics officer to complete a request.
+
+2. Service Specific NLW, Munitions, and Devices
+
+         a. Tables 4 through 9 depict NLW, munitions, and devices used across the DoD.
+
+         b. Table 4 depicts sprayed riot control agents (RCAs) and table 5 depicts hand
+         thrown RCAs. RCAs are effective in dispersing crowds but have restricted use
+         within the Department of Defense (DoD). Refer to the rules of engagement or
+         rules for the use of force when planning for using or equipping with RCAs.
+
+         c. The current list of USAF authorized NLW/IFC devices, munitions, and
+         equipment can be found on the USAF SF SMARTNet located at:
+         https://usaf.dps.mil/teams/SMARTNet/SitePages/Non-lethal-Weapons.aspx.
+
+                      Table 4. Riot Control Agents (RCAs)
+
+Type                  Nomenclature Effective        Notes                  Images
+                                             Range
+
+                      Mk 3   10-12 feet             • Individual live RCA
+                                                    • Target-specific
+
+                                                      stream
+
+                      Mk 4   12 feet                • Individual live RCA
+                                                    • 30-35 ½ -second
+Oleoresin capsicum    Mk 39  10-30 feet                                      Mk 4
+(OC) - pepper spray   Mk 9   15 feet                  bursts               Mk 46
+
+                      Mk 46  25-30 feet             • Individual live RCA           Mk 9
+                             16.5 feet              • 15 1-second bursts           Mk 20
+Chlorobenzylidene     Mk 20  10-30 feet
+malononitrile (CS) –  M 38                          • Squad live RCA
+tear gas                                            • Target-specific
+
+                                                      stream
+                                                    • 8-10 ½ -second
+
+                                                      high-volume bursts
+                                                    • Platoon live RCA
+                                                    • 12 1-second high-
+
+                                                      volume bursts in a
+                                                      dispersed pattern
+                                                    • USAF only
+                                                    • Squad sized fog
+                                                      pattern
+                                                    • 15 1-second bursts
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                        49
+
+                      AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                  Table 5.  Hand Thrown Riot Control Agent Grenades
+
+          Variant           NSN                (DODIC)  Characteristics
+                                                        (common to all)
+M7A3 Grenade hand
+riot CS (USA, USAF)         1330-00-096S-0802  G963     • Minimum safe distance: 3
+M25 Grenade hand            8140-00-345-9022   G927      meters
+riot CN (USA)               1300-00-143-7146   G922
+M47 Grenade hand            1330-00-645-6211   G924     • Maximum effective range:
+riot CS (USA)                                            3-meter radius from detonation
+M25A2 Grenade hand                                       point (wind must be factored
+riot control CS-1                                        in)
+(USAF, USMC)
+                                                        • Planning factor 20-meter throw
+
+                                                        • Fuse delay 3-5 seconds
+
+Legend:
+CN–chloroacetophenone
+CS– chlorobenzylidene malononitrile
+DODIC–Department of Defense identification code
+NSN–national stock number
+USA–United States Army
+USAF–United States Air Force
+USMC–United States Marine Corps
+
+50  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+d. Table 6 depicts human electro-muscular incapacitation (HEMI) devices
+commonly known as TASER® and associated components.
+
+                 Table 6. Human Electro-muscular Incapacitation
+
+                                     X26E®, X26P® TASER®
+
+                 (United States Army, Marine Corps, Navy, Air Force)
+
+  Range          Weight   Pulse          Voltage   Propulsion    Notes
+25 feet
+                          cycle
+
+             7.2 ounces   5 seconds  50,000 volts  1,600–2,200  X26E® is the law enforcement
+                                     initially     pounds per   model with 195 5-second shots per
+                                                   square inch  battery
+                                     1,200 volts
+                                     sustained                  X26P® is the professional series
+                                                                with 500 5-second shots per
+                                                                battery
+
+                          TASER® Cartridges (all Services)
+
+Description      Range    Probe          Cartridge image        Cartridge components
+                 15 feet
+Black cartridge           Regular
+yellow door               probe
+
+Black            21 feet  Regular
+cartridge,                probe
+silver door
+
+Black            25 feet  XP probe                              Anti-felon identification (AFID)
+cartridge,                (US Army,                                               tags
+green door                US Air Force)
+
+Blue cartridge,  21 feet  Short Probe,
+blue door                 training use
+                          only
+
+Note: AFIDs deter misuse through enhanced accountability. AFID includes bar-coded serialization of
+each cartridge and disperses confetti-like ID tags upon activation.
+
+Note: All cartridges are compatible with X26E® and X26P®.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                                  51
+
+                          AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                     52
+
+                                                                               e. Table 7 depicts projectiles and launchers with characteristics and employment considerations sorted by type.
+
+                                                                                                                             Table 7. Nonlethal Projectiles
+
+                                                                               Type          Name/          National Stock   DODIC Service  Minimum  Maximum             Notes and employment considerations
+                                                                                             Nomenclature   Number (NSN)                    Range    Range
+                                                                               Blunt impact                                                                      • Rounds contain durable molded hard rubber.
+                                                                               rounds        12-gauge fin  1305-01-470-2405  AA51  USA      10 meters 20 meters  • Most effective against point targets.
+                                                                                             stabilized/                           USMC                          • Aim at center mass.
+                                                                               Crowd         M1012                                 USAF                          • Round is potentially lethal if employed within 10
+                                                                               dispersal
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP 07 April 2025                40mm sponge   1310-01-452-1190  BA06  USA      10 meters 50 meters    meters or directed at head or neck at any range.
+                                                                                             grenade/                              USMC                          • Do not skip as round trajectory is unpredictable
+3-2.45/CGTTP 3-93.2                                                                          M1006                                 USAF
+                                                                                                                                                                   after striking ground.
+                                                                                             12-gauge      1305-01-470-2139  AA52  USA      10 meters 20 meters  • Wind will affect trajectory at longer distances.
+                                                                                             crowd                                 USMC
+                                                                                             dispersal/                            USAF                          • Rounds contain durable molded hard rubber.
+                                                                                             M1013                                                               • Most effective against point targets.
+                                                                                                                                                                 • Aim at center mass.
+                                                                                             40mm crowd    1310-01-475-0628  BA13  USA      10 meters 30 meters  • Round is potentially lethal if employed within 10
+                                                                                             dispersal/                            USAF
+                                                                                             M1029                                                                 meters or directed at head or neck at any range.
+                                                                                                                                                                 • Do not skip as round trajectory is unpredictable
+
+                                                                                                                                                                   after striking ground.
+                                                                                                                                                                 • Wind will affect trajectory at longer distances.
+                                                                                                                                                                 • Cannot be fired from MK19.
+                                                                                                                                                                 • Round contains 18 x .32 caliber rubber balls.
+                                                                                                                                                                 • Most effective against multiple targets.
+                                                                                                                                                                 • Aim at center mass.
+                                                                                                                                                                 • Round is potentially lethal if employed within 10
+
+                                                                                                                                                                   meters or directed at head or neck at any range.
+                                                                                                                                                                 • Do not skip as round trajectory is unpredictable
+
+                                                                                                                                                                   after striking ground.
+                                                                                                                                                                 • Wind will affect trajectory at longer distances.
+
+                                                                                                                                                                 • Round contains 48x .48 caliber rubber balls.
+                                                                                                                                                                 • Most effective against multiple targets.
+                                                                                                                                                                 • Aim at center mass.
+                                                                                                                                                                 • Round is potentially lethal if employed within 10
+
+                                                                                                                                                                   meters or directed at head or neck at any range.
+                                                                                                                                                                 • Do not skip as round trajectory is unpredictable
+
+                                                                                                                                                                   after striking ground.
+                                                                                                                                                                 • Wind will affect trajectory at longer distances.
+                                                                                                                                                                 • Cannot be fired from MK19.
+
+
+---
+
+                     07 April 2025                                                                             Table 7. Nonlethal Projectiles (Cont’d)
+
+                                                                       Type        Name/       National Stock  DODIC Service    Minimum     Maximum             Notes and employment considerations
+                                                                              Nomenclature     Number (NSN)                       Range       Range
+                                                                 Crowd                                                                                  • 600 x .32 caliber rubber balls.
+                                                                 Dispersal    Modular crowd  1346-01-464-2606  WA97 USA         5 meters    15 meters   • Shot arc is 60-80 degrees, laterally.
+                                                                 (cont.)      control                                                                   • Most effective against multiple targets.
+                                                                              munition/M5
+
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP               Sting ball     1330-01-454-0132 GG04        USA   3 meters    20 meters   • 100 x .25 caliber rubber balls + rubber body
+                                                                              grenade/                                    USMC  (effective  (thrown)      fragments on detonation.
+                                                                              M104                                        USAF  blast
+                                                                                                                                radius)                 • Most effective against multiple targets.
+
+3-2.45/CGTTP 3-93.2                                                                                                                                     • Throw at high arc so grenade air bursts to improve
+                                                                                                                                                          effectiveness.
+
+                                                                                                                                                        • Fuse delay 3-5 seconds, blast radius 2-3 meters.
+
+                                                                              Nonlethal      1005-01-521-6792  AA30 (12   USMC                200       • Most effective against multiple personnel.
+                                                                              bursting hand  (cup)             gauge                        meters
+                                                                 Crowd        grenade and    1305-01-504-3529  launching                                • Use only with a Mossberg 500 A2; note that the
+                                                                 dispersal    launching cup  (cartridge)       cartridge                                  launch cup does not fit all barrel and magazine
+                                                                 grenade/                    1305-01-464-8389  DODIC)                                     configurations.
+                                                                 M104 family                 (cartridge)
+                                                                                                                                                        • Do not fire it using standard 12-gauge blanks.
+
+                                                                                                                                                        • Shooters must use a 12-gauge launching cartridge
+                                                                                                                                                          (AA30) to propel the GG04 grenade.
+
+                                                                              Grenade        1330-01-504-2866  GG13/G USMC                              • Grenade practice body, nonlethal training aide
+                                                                              practice       (body)            G14                                        accurately resembles the GG04 and can be used
+                                                                              body/fuse      1330-01-504-2991                                             up to 20 times. (M 240 standard fuse [GG14] must
+                                                                                             (fuse)                                                       be replaced each use).
+
+                     53
+
+
+---
+
+                     54
+
+                                                                                                                              Table 7. Nonlethal Projectiles (Cont’d)
+
+                                                                               Type             Name/         National Stock  DODIC    Service  Minimum  Maximum                Notes and employment considerations
+                                                                                           Nomenclature       Number (NSN)    GG20                Range    Range
+                                                                                                                                     USMC                              • Causes 3-5 seconds of flash blindness (>6 million
+                                                                                           Mk-13 BTV        1330-01-537-9812         USAF                15 meters       candlepower) and auditory distraction (180
+                                                                                           stun grenade                                                                  decibels).
+
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP 07 April 2025              Improved flash-  1330-01-625-0052  GG36   USAF                15 meters     • Provides 10 seconds of flash blindness (>6 million
+                                                                                           bang             1330-01-678-7486  GG44   USCG                                candlepower.
+                                                                                           grenade/mk 20                             USSOCOM
+                                                                                           MOD 0                                                                       • Provides auditory distraction and disorientation
+                                                                                           diversionary                              USAF                                (143 decibels).
+                                                                                           hand grenade                              USCG
+3-2.45/CGTTP 3-93.2                                                                                                                  USMC
+                                                                               Flash-Bang                                            USSOCOM                           • Training Device intended to simulate functionality of
+                                                                               and Stun                                                                                  DODIC GG20 during Close Quarter Combat and
+                                                                               Grenades                                                                                  Breaching Operations.
+
+                                                                                           Diversionary,                                                               • Reusable Body up to approximately one hundred
+                                                                                           practice fuse                                                                 times.
+                                                                                           and base MK 1
+                                                                                           MOD 0                                                                       • No Fragmentation.
+                                                                                           grenade, hand
+                                                                                                            1330-01-678-7490  GG45
+
+                                                                                           Stun             1330-01-459-8141 GG09    USA                 15 meters     • Causes flash blindness (>1 million candlepower)
+                                                                                           grenade/M84                               USAF                                and auditory distraction (170-180 decibels).
+
+                                                                                                                                                                       • Grenade’s body is reuseable.
+
+
+---
+
+                     07 April 2025
+
+                                                                                                              Table 7. Nonlethal Projectiles (Cont’d)
+
+                                                                       Type       Name/       National Stock  DODIC  Service  Minimum  Maximum                            • Notes and employment considerations
+                                                                             Nomenclature      Number (NSN)                     Range    Range
+                                                                 Flash-Bang  81mm Flash-                                                                            • Compatible with M252 mortar weapon system.
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP  and Stun                   1315-01-689-0020  CA72   USMC 300 meters 4000                           • Payload 8x Flash-Bangs.
+                                                                 Grenades    bang munition                                                                          • Each individual flash-bang produces peak light,
+                                                                 (cont.)                                             ---------------------------------------meters
+                                                                                                                                                                      sound, and pressure outputs similar to an M84
+3-2.45/CGTTP 3-93.2                                                                                                  • Approximately 225m above the target            Flash-bang Grenade.
+                                                                                                                       (detonation based on firing tables), the     • Provides counter-personnel capability to suppress
+                                                                                                                       round detonates, separating the                combatants/non-compliant personnel via auditory
+                                                                                                                       mortar’s nose and tail section,                and visual degradation at extended ranges, while
+                                                                                                                       releasing the 11 flash-bangs.                  minimizing risk of injury and potential collateral
+                                                                                                                                                                      damage to critical infrastructure.
+                                                                                                                     • A time fuse ensures flash-bang               • Two parachute design mitigates impact energy of
+                                                                                                                       detonation 12-14 seconds after                 large metal parts.
+                                                                                                                       separation from the round.
+
+                     55
+
+
+---
+
+                     56
+
+                                                                                                                             Table 7. Nonlethal Projectiles (Cont’d)
+
+                                                                             Type              Name/         National Stock  DODIC  Service  Minimum       Maximum    Notes and employment considerations
+                                                                                          Nomenclature       Number (NSN)                      Range         Range
+
+                                                                                          Compressed       Multiple types/          USA      5 meters      50 meters  • Semi-automatic – the magazine can be loaded
+                                                                                          air launcher     manufacturers            USAF                                with different types of rounds.
+                                                                                                                                    ANG
+                   ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP 07 April 2025                                                         NG                                • Fires projectiles filled with washable or permanent
+                                                                                                                                                                        paint or oleoresin capsicum pepper spray.
+
+                                                                                                                                                                      • Target area is center of mass; head shots are
+                                                                                                                                                                        never acceptable.
+
+                                                                                          12-gauge, joint  1370-01-523-6486  LA51   USN      N/A – not to  100        • 3 million (plus or minus 1 million) candlepower
+                                                                                          nonlethal        (100 meters)       LA52  USCG     be fired      meters     • 170 decibels.
+                                                                                          warning          1370-01-530-6571                  directly at              • Fire at a 37–45-degree angle to cause an effect in
+3-2.45/CGTTP 3-93.2                                                                       munitions                                          targets       200
+                                                                                                              (200 meters)                                 meters       front of or above approaching personnel or
+                                                                                                                                                                        vehicles.
+                                                                                                                                                                      • Do not fire directly at personnel.
+                                                                                                                                                                      • Wind will affect the trajectory of the round.
+
+                                                                             Marking and  40-mm joint      1310-01-534-8945 BA26    USN      N/A – not to  300        • 7 million (plus or minus 1 million) candlepower
+                                                                             Warning      nonlethal                                          be fired      meters     • 170 decibels.
+                                                                                          warning                                            directly at              • Fire at a 37–45-degree angle to cause an effect in
+                                                                                          munition                                           targets
+                                                                                                                                                                        front of or above approaching personnel or
+                                                                                          12-gauge,        1305-01-553-6192  AB08   USA      20 meters 50 meters        vehicles.
+                                                                                          extended                                                                    • Do not fire directly at personnel.
+                                                                                          range marking                                                               • Wind will affect the trajectory of the round.
+                                                                                          munition/M116
+                                                                                                                                                                      • 40 grains of nine shot, coated in florescent green
+                                                                                                                                                                        marking dye, encased a Kevlar cotton bag.
+
+                                                                                                                                                                      • Most effective against point targets.
+                                                                                                                                                                      • Target area should be center of mas, head shots
+
+                                                                                                                                                                        can result in serious injury or death.
+                                                                                                                                                                      • Do not fire at ground, the round can become
+
+                                                                                                                                                                        unpredictable.
+                                                                                                                                                                      • Wind will affect the trajectory at far distances.
+
+
+---
+
+                     07 April 2025                                                                                Table 7. Nonlethal Projectiles (Cont’d)
+
+                                                                      Type            Name/       National Stock  DODIC  Service  Minimum    Maximum       Notes and employment considerations
+                                                                                 Nomenclature     Number (NSN)                      Range      Range
+                                                                 66-mm tube-     L96A1 riot
+                                                                 launched        control                                                                   • Projects a cloud of riot control agent at extended
+                                                                 munitions       grenade                                                                     ranges to subdue and disperse large groups.
+
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP  *Fired from     M98 distraction                         USA      80 meters  200
+                                                                 standard        grenade                                                     meters
+                                                                 North Atlantic
+3-2.45/CGTTP 3-93.2                                              Treaty                                                                                    • Releases three stun submunitions that produce a
+                                                                 Organization                                                                                bright flash and loud sound to disorient individuals
+                                                                 66-mm                                                                                       or large groups.
+                                                                 launchers
+
+                                                                                                                         USA      80 meters  200
+                                                                                                                                             meters
+
+                                                                                 M99 blunt                                                                 • Fires three submunitions that each release a
+                                                                                 trauma                                                                      shower of high-velocity rubber pellets into a crowd.
+                                                                                 grenade
+
+                                                                 Legend                                                  USCG–United States Coast Guard
+                                                                 DODIC–Department of Defense identification code         USMC–United States Marine Corps
+                                                                 mm–millimeter                                           USN–United States Navy
+                                                                 NG–National Guard                                       USSOCOM–United States Special Operations Command
+                                                                 USA–United States Army
+                                                                 USAF–United States Air Force
+
+                     57
+
+
+---
+
+                     58
+
+                                                                               f. Table 8 depicts audible and visual hailing and signaling devices.
+
+                                                                                                                              Table 8. Hailing and Signaling Devices
+
+                                                                               Type:          Name:   National Stock Number   Service(s):  Size/            Range:                               Characteristics and employment considerations:
+                                                                                         LRAD 100X                (NSN):
+                                                                                                                                           Weight:                                               The LRAD 100X is a self-contained, handheld,
+                                                                                                     5830-01-578-4373                                                                            portable loud hailer.
+                                                                                                                              USN          14x14x6.5 inches 9-200          •                     The LRAD 100X is an easily transportable
+                                                                                                                                                                                                 communication tool that overcomes the background
+                                                                                                                                                            meters                               noise of vehicles, vessels, sirens, and boisterous
+                                                                                                                                                                                                 crowds to ensure messages are clearly heard and
+                                                                                                                                                                           •                     understood.
+                                                                                                                                                                                                 Use it to broadcast public affairs messages.
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP 07 April 2025                                                              15 pounds                                             The audible distance will vary depending on the
+                                                                                                                                                                                                 environmental and atmospheric conditions.
+                                                                                                                                                                                              •
+                                                                                                                                                                                              •
+
+3-2.45/CGTTP 3-93.2                                                                      LRAD 300x   5830-01-578-4368         USA          25x14x11.5       10-400 meters  • LRAD 300X is a self-contained, handheld, portable,
+                                                                                                                                           inches           10-650 meters    loud hailer.
+                                                                               Long-
+                                                                               range                                                       25 pounds                       • LRAD 300X is an easily transportable communication
+                                                                               acoustic                                                                                      tool that overcomes the background noise of
+                                                                               devices                                                     LRAD 450X                         vehicles, vessels, sirens, and boisterous crowds to
+                                                                               (LRADs)                                                     14.5x27x12                        ensure messages are clearly heard and understood.
+                                                                                                                                           inches
+                                                                                         LRAD 450X   5965-01-674-1815 (450X)  USA          37 pounds                       • LRAD 300X requires a 12 volt power source.
+                                                                                         and         5996-01-574-0072 (500X)  (LRAD        LRAD 500X                       • Use it to broadcast public affairs messages.
+                                                                                         LRAD 500X                            450X)        25x25x12 inches                 • The audible distance will vary depending on the
+                                                                                                                                           44 pounds
+                                                                                                                              USAF         (without                          environmental and atmospheric conditions.
+                                                                                                                              USN          accessories)
+                                                                                                                              (LRAD                                        • The LRAD 450X/500X are lightweight and can
+                                                                                                                              500X)                                          be easily transported to provide military and
+                                                                                                                                                                             security personnel long-range communications
+                                                                                                                                                                             and an effective hailing and warning capability.
+
+                                                                                                                                                                           • Use it to broadcast public affairs messages.
+                                                                                                                                                                           • The audible distance will vary depending on
+
+                                                                                                                                                                             environmental and atmospheric conditions.
+
+
+---
+
+                     07 April 2025                               Type:            Name:                           Table  8. Hailing   and Signaling    Devices      (Cont’d)
+                                                                             LRAD 1000X
+                                                                                              National Stock Number      Service(s):          Size/         Range:                    Characteristics and employment
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP  Long-                                    (NSN):         USA                Weight:                                               considerations:
+                                                                 range                                                   USN          30x32x13 inches  400 meters
+                                                                 acoustic                    5830-01-625-9732                                                              • LRAD 1000X can be transported to provide
+                                                                 devices                                                 USA          66 pounds                               military and security personnel long-range
+                                                                 (LRADs)                     5965-01-568-2627            USMC                                                 communications and an effective hailing and
+                                                                                                                         USN          10.4x12.9                               warning capability.
+                                                                             Magnetic                                                 x11.8
+                                                                             audio device                                             inches                               • Requires a 12-volt power source.
+                                                                                                                                      30 pounds
+                                                                                                                                                                           • Use it to broadcast public affairs messages.
+3-2.45/CGTTP 3-93.2
+                                                                                                                                                                           • The audible distance will vary depending on the
+                                                                                                                                                                              environmental and atmospheric conditions.
+
+                                                                                                                                                                           • It has input components for microphone or
+                                                                                                                                                                              prerecorded message devices on the back.
+
+                                                                                                                                                                           • Use it to broadcast public affairs messages.
+
+                                                                                                                                                                           • The audible distance will vary depending on the
+                                                                                                                                                                              environmental and atmospheric conditions.
+
+                                                                 Magnetic
+                                                                 audio
+                                                                 device
+
+                                                                                                                                                   60
+
+                                                                             LA-9/P          5860-01-544-7175            USN          10.6 inches      300m (day)   • Signaling device used to determine hostile intent
+                                                                             dazzling laser                              USCG         20.5 ounces                     during use of force procedures.
+                                                                                                                                                       1500 meters
+                                                                                                                                                       (night)      • Class 3B laser.
+
+                                                                                                                                                                    • All personnel using this system must be trained
+                                                                                                                                                                      in accordance with Operational Navy
+                                                                                                                                                                      Instructions 5100.27 and Marine Corps Order
+                                                                                                                                                                      5104.1, Navy Laser Hazards Control Program.
+
+                                                                                                                                                                    • Nominal ocular hazard distance 62.9 meters (10
+                                                                                                                                                                      seconds) 38.9 meters (.25 seconds).
+
+                                                                 Laser
+                                                                 signaling
+                                                                 and
+                                                                 disruption
+                                                                 devices
+
+                     59
+
+
+---
+
+                     60
+
+                                                                                                                            Table  8. Hailing and Signaling        Devices (Cont’d)
+
+                                                                               Type:            Name:      National Stock Number   Service(s):  Size/              Range:            Characteristics and employment
+                                                                                                                       (NSN):
+                                                                                           Long-range                                           Weight:                                          considerations:
+                                                                                           ocular         Navy only:
+                                                                                           interrupter –  7H H5860-LLH0H6763       USN          9.7x7.4x9.4        >1000 yards • Class 4 laser.
+                                                                                           compact
+                                                                                           ocular                                               inches                             • All personnel using this system must be trained
+                                                                                           interrupter
+                                                                                           laser (LROI-                                         8.6 pounds                         in accordance with Operational Navy
+                                                                                           COIL)
+                                                                                                                                                                                   Instructions 5100.27, Navy Laser Hazards
+
+                                                                                                                                                                                   Control Program.
+
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP 07 April 2025                                                                                                      • Signaling device used to determine hostile intent
+
+                                                                                                                                                                                   during use of force procedures.
+
+                                                                                                                                                                                   • Nominal ocular hazard distance 208 yards.
+
+3-2.45/CGTTP 3-93.2                                                                        Glare Recoil®  1240-01-702-4269         USAF         5.5 x3x2 inches    5 kilometers    • Class 2M laser.
+                                                                                           Model 532-R1                            USAF         15 ounces          (day)           • Signaling device to provide effective hail and
+                                                                                                                                                                   25+ kilometers
+                                                                               Laser       Glare Mout®    1265-01-558-5814                      Handheld           (night)           warning for any escalation of force scenario.
+                                                                               signaling   mini-green     5860-02-598-7398                      9 ounces                           • Nominal ocular hazard distance 0 meters.
+                                                                               and         laser model                                                             150 meters      •
+                                                                               disruption  532P-M                                                                  (day)
+                                                                               devices                                                                                             • Class 3B laser.
+                                                                               (cont.)     Green laser                                                             500 meters      • Signaling device used to determine hostile intent
+                                                                                           interdiction                                                            (night)
+                                                                                           system LA-                                                                                during use of force procedures.
+                                                                                           12/P                                                                                    • Nominal ocular hazard distance 15.6.
+
+                                                                                                                                   USA          Handheld or rifle  300 meters      • Class 3B laser (high and low power mode), class 3R
+                                                                                                                                                mounted            (day)             laser (training mode).
+
+                                                                                                                                                14 ounces          1000 meters     • Signaling device used to determine hostile intent
+                                                                                                                                                                   (night)           during use of force procedures.
+
+                                                                                                                                                                                   • Nominal ocular hazard distance: 25 meters (high), 5
+                                                                                                                                                                                     meters (low).
+
+
+---
+
+                     07 April 2025                                                                              Table  8. Hailing   and Signaling      Devices (Cont’d)
+
+                                                                 Type:            Name:     National Stock Number      Service(s):          Size/      Range:         Characteristics and employment considerations:
+                                                                                                        (NSN):                            Weight:
+                                                                             Green laser                               USA          Handheld or rifle  300 meters     • Class 3B laser (high and low power mode), class 3R
+                                                                             interdiction  5860-01-598-6556                         mounted            (day)            laser (training mode).
+                                                                             system LA-
+                                                                             13/P                                                   9.9 ounces         1000 meters    • Signaling device used to determine hostile intent
+                                                                                                                                                       (night)          during use of force procedures.
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP
+                                                                                                                                                                      • Nominal ocular hazard distance: 25 meters (high), 5
+                                                                                                                                                                        meters (low).
+
+                                                                 Laser       LA-22 ocular  5860-01-657-3893            USMC         5.5x3x2 inches     Effective      • Class 3B laser.
+                                                                 signaling   interrupter                                            15 ounces          between 10     • All personnel using this system must be trained in
+3-2.45/CGTTP 3-93.2                                              and                                                                                   and 500
+                                                                 disruption                                                                            meters.          accordance with Operational Navy Instructions
+                                                                 devices                                                                                                5100.27 and Marine Corps Order 5104.1, Navy Laser
+                                                                 (cont.)                                                                               Effectiveness    Hazards Control Program.
+                                                                                                                                                       degrades over
+                                                                                                                                                       distance.      • This is a signaling device used to determine hostile
+                                                                                                                                                                        intent during use of force procedures.
+
+                                                                                                                                                                      • Nominal ocular hazard distance 30 meters.
+
+                                                                 Legend:
+                                                                 USA–United States Army
+                                                                 USAF–United States Air Force
+                                                                 USCG–United States Coast Guard
+                                                                 USMC–United States Marine Corps
+                                                                 USN–United States Navy
+
+                     61
+
+
+---
+
+                     62
+
+                                                                               g. Table 9 depicts nonlethal vehicle stopping devices.
+
+                                                                               Device:      National Stock Number (NSN):      Table 9. Vehicle Stopping Devices  Employment considerations:
+
+                                                                                                                          Service(s) Characteristics:
+
+                                                                               Caltrops 4240-01-539-1517                  USA   Approximately     • Caltrops are best employed by securing about 50 caltrops to type 3 paracord (550
+                                                                                                                          USMC  two-inch            cord).
+                                                                                                                          USAF  diameter.
+                                                                                                                                                  • They can be pre-emplaced or rapidly expended. The user can quickly toss and
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP 07 April 2025                                                                       recover the caltrops to impair vehicle movement in a designated area.
+
+3-2.45/CGTTP 3-93.2                                                            Vehicle      4240-01-518-4626              USA   Weight: 45        • Pre-emplace this man-portable net, equipped with barbed spikes along the
+                                                                               lightweight                                USMC  pounds              leading edge of the net to catch the front edge of a tire in the direction of travel.
+                                                                               arresting                                        Net size: 3x6
+                                                                               device                                     USA   meters            • It stops up to a 5,500-pound, wheeled vehicle, traveling at 30 miles per hour,
+                                                                               (VLAD)                                     USMC  Contains carbon     within 200 feet.
+                                                                                                                          USAF  steel spikes
+                                                                                                                                integrated into   • Use a cutting tool to remove netting from the stopped vehicle’s tire and
+                                                                                                                                the netting.        suspension.
+
+                                                                               Magnum®      5340-01-515-8518                    Strip length: 16  • These can be pre-emplaced or rapidly deployed.
+                                                                               spike        5340-01-575-2279                    feet              • The spike has three sharp edges with flutes to channel the escaping air into a
+                                                                               strips                                           Weight: 10-25
+                                                                                                                                pounds              circular cavity at its base. The sharp tip and its three cutting edges slice through
+                                                                                                                                Contains 128        the tire.
+                                                                                                                                spikes            • The spike is designed to cut through up to five steel belts.
+
+
+---
+
+                     07 April 2025                                                                        Table 9. Vehicle Stopping Devices (Cont’d)
+
+                                                                 Device:    National Stock Number (NSN):  Service(s) Characteristics:  Employment considerations:
+
+                                                                 Portable   4240-01-469-6122              USA  Weight: 1,050           • The portable vehicle arresting barrier (PVAB) is a transportable, pre-emplaced,
+                                                                 vehicle                                       pounds                    reusable vehicle-stopping net capable of arresting vehicles weighing up to 7,500
+                                                                 arresting                                                               pounds going speeds less than 45 miles per hour, in a controlled manner.
+                     ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/ AFTTP  barrier
+                                                                 (PVAB)                                                                • For the PVAB to work most effectively, place it between natural obstacles or
+                                                                                                                                         jersey barriers. This will inhibit someone from driving around it.
+
+                                                                                                                                       • The PVAB can anchor to alternative objects like guardrails, bridge abutments,
+                                                                                                                                         trees, or a parked vehicle.
+
+3-2.45/CGTTP 3-93.2                                                                                            Net is used as a        • Example PVAB emplacement:
+                                                                                                               bidirectional
+                                                                                                               system capable
+                                                                                                               of one-lane (15
+                                                                                                               feet) or two-lane
+                                                                                                               (24 feet)
+                                                                                                               coverage.
+                                                                                                               Net can be
+                                                                                                               remotely
+                                                                                                               activated from
+                                                                                                               up to 300 feet
+                                                                                                               away.
+
+                                                                 Legend:
+                                                                 USA–United States Army
+                                                                 USAF–United States Air Force
+                                                                 USMC–United States Marine Corps
+
+                     63
+
+
+---
+
+    This page intentionally left blank.
+
+64  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                           Appendix C
+
+DEPARTMENT OF DEFENSE (DoD) NONLETHAL EQUIPMENT
+                                DESCRIPTIONS
+
+The items in table 10 are nonlethal common Service equipment. This is not all-inclusive.
+Each Service has various components of the following list and additional components in
+its inventory. A list of each Service’s nonlethal capability kits is in appendix D. Use
+Service-specific supply chains for procurement and sustainment.
+
+Table 10. DoD Nonlethal Equipment Descriptions
+
+Picture                               Description
+
+         Riot face shield. The riot face shield is a non-ballistic
+         shield designed to protect the face from objects thrown
+         or attacks from nonballistic weapons.
+
+         Riot body shield. The riot body shield is nonballistic and
+         designed to protect the body from objects thrown or
+         attacks from nonballistic weapons.
+
+         Riot shin guard. The riot shin guard is designed to
+         protect shins from objects thrown or attacks from
+         nonballistic weapons.
+
+         Riot baton with holster. The expandable riot baton
+         provides a nonlethal means of crowd control and self-
+         defense. The baton comes with a mounting device that
+         attaches the baton to a belt. The baton is 24–36 inches
+         in length.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/     65
+
+         AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    Table 10. DoD Nonlethal Equipment Descriptions (Cont’d)
+
+    Picture                                Description
+
+             Practice riot baton. The practice riot baton is used in a
+             safe, dynamic training environment designed for properly
+             using a riot baton. The batons are available in a variety
+             of lengths. Used only by the National Guard and the
+             United States Navy.
+
+             MK 46 Platoon live oleoresin capsicum (OC) Pepper
+             Spray: The MK 46 platoon pepper spray has a range of
+             up to 25 to 30 feet in a target-specific dispersed spray
+             pattern. It contains up to 12 one-second high-volume
+             bursts.
+
+             MK 46 hardware kit. The MK 46 hardware kit consists of
+             a transfer tube, funnel, and transfer bottle. A
+             compressed nitrogen source is required to use the kit.
+
+             MK 46 Refill live OC pepper spray. The MK 46 refill
+             solution comes in a one-gallon container.
+
+             MK 4 Individual inert OC pepper spray. The MK 4 inert
+             individual pepper spray has a range of up to 12 feet in a
+             target-specific stream. It contains 30–35 half-second
+             bursts. It is used for familiarization and training
+             purposes. The inert device is loaded with a nonirritant,
+             nontoxic formulation. The device may contain a nontoxic,
+             water-soluble marker to allow immediate feedback on
+             content delivery to the target. The MK 4 device is
+             marked “Inert”.
+
+66  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+             AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+Table 10. DoD Nonlethal Equipment Descriptions (Cont’d)
+
+Picture                                Description
+
+         MK 9 Squad inert OC pepper spray. The MK 9 squad
+         inert pepper spray has a range of up to 15 feet in a
+         target-specific stream. It contains 8–10 half-second,
+         high-volume bursts. It is used for familiarization and
+         training purposes. The inert device is loaded with a
+         nonirritant, nontoxic formulation. The device may contain
+         a nontoxic, water-soluble marker to allow immediate
+         feedback on content delivery to a target. The inert MK 9
+         device is prominently marked “Inert” with a yellow sticker
+         attached.
+
+         MK 46 Platoon inert OC pepper spray. The MK 46
+         platoon inert pepper spray has a range of up to 25 to 30
+         feet in a target specific dispersed spray pattern. It is
+         used for familiarization and training purposes. The inert
+         device is loaded with a nonirritant, nontoxic formulation
+         payload. The device may also contain a nontoxic, water-
+         soluble marker to allow immediate feedback on content
+         delivery to target. The inert MK 46 device is prominently
+         marked “Inert” with a yellow sticker attached.
+
+         FIST® training suit. The FIST® training suit is made of
+         closed cell, shock-absorbent foam. It is worn during
+         realistic hand-to-hand engagement training to hone riot
+         baton skills. The FIST® suit can absorb blows inflicted
+         by the current expandable and wood riot baton. It
+         provides protection for the head, face, hands, and legs,
+         without significant degradation of the wearer’s mobility.
+         The FIST® suit consists of a helmet, chest and back
+         protectors, bicep and forearm protectors, groin and
+         buttock protectors, thigh and shin protectors, gloves, and
+         carrying bag.
+
+         Riot training strike bag. The riot training strike bag is
+         used for training and proficiency in open hand control
+         techniques.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/       67
+
+         AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    This page intentionally left blank.
+
+68  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                                  Appendix D
+
+                           PROCUREMENT INFORMATION
+
+To support nonlethal effects, the Services have nonlethal capability sets (NLCSs),
+categorized by specific mission modules, for procurement. This enables a unit to
+purchase either the individual nonlethal weapons (NLW), equipment, munition, or device
+or the entire module, if the unit has the specific mission.
+
+1. United States Army (USA) NLCSs
+
+Tables 11–15 list the USA capability sets with their national stock numbers (NSNs).
+Units or commands can procure individual components or complete modules through
+the General Services Administration Schedule 84: Security, Fire and Law Enforcement,
+Special Order Program. Coordination with the Service’s logistics section can assist with
+this process.
+
+                  Table 11. USA NLCS, Checkpoint Module
+
+ Part/National Stock                       Description              Quantity
+     Number (NSN)     Expeditionary vehicle search pack
+                                                                         4
+6350-01-552-4525                                                        20
+                                                                        15
+8415-01-550-1333      Orange safety vest                                12
+                                                                        10
+6350-01-572-0686      Handheld metal detector                            5
+                                                                         4
+Not applicable        Vehicle inspection checklist                       5
+                                                                      1,000
+5340-01-515-8518      Ultimate Magnum Spike® System                     50
+                                                                         5
+5805-01-582-0970      SQU.ID SQ.410
+                                                                        10
+4240-01-518-4626      (M2) Vehicle lightweight arresting device          1
+                                                                        30
+5965-01-568-2627      Magnetic Audio Device® (2BT)                       1
+
+4240-01-539-1517      Caltrops                                           1
+                                                                         6
+5210-01-551-4694      ESD® (replaced flares)
+                                                                         1
+6230-01-538-9928      Peak Beam Systems, Inc., nonlethal [light]         1
+9905-01-569-5767      (replaced the high-intensity light)
+                      Traffic paddles
+
+2490-01-582-1074      Entry-point vehicle kit
+
+9905-00-527-4997      28-inch, #7 orange safety cone
+
+6115-01-435-1565      Alternating current (AC) generator sets
+5975-00-878-3791      120 volts AC, 60 hertz
+                      Grounding rod
+
+6230-01-537-9019      60-light emitting diode (LED) portable light
+4240-01-469-6122      set (replaced the portable light sets)
+                      (M1) portable vehicle arresting barrier
+
+(No NSN Planned)      armorer’s kit (spare parts)
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                  69
+
+                  AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                               Table 12.  USA NLCS, Convoy Module          Quantity
+                                                        Description            10
+    Part/National Stock                                                        10
+            Number
+
+5965-01-568-2649         Magnetic audio device 2B with magnetic mount
+
+6230-01-532-9660         GoLight with infrared filter and 12-volt direct
+                         current
+
+                  Table 13. USA NLCS, Dismounted Module
+
+    Part/National Stock                   Description                      Quantity
+            Number                                                              1
+
+6230-01-538-9928         Peak Beam Systems, Inc., nonlethal [light]             1
+                         package (replaced the high-intensity light)
+                                                                             1,000
+5805-01-531-5590         SQU.ID® 410 (replaced the PHRASELATOR®                10
+                         P2 and SQUI.ID® SQ.200)                               10
+
+8565-01-514-8590         Restraint, disposable, trifold
+
+5120-01-550-1979         Restraint, disposable, cutter
+
+8465-01-569-0896         Nonlethal munitions pouch Army combat uniform
+                         (ACU)
+
+                  Table 14. USA NLCS, TASER® Sub-Module,
+
+Part/National Stock                       Description                      Quantity
+        Number                                                                  6
+
+1095-01-543-2189         TASER® X26P®, no batteries included with the           6
+                         unit (replaced the X26E®); black color, black          6
+                         grips, with an extended digital power magazine)
+
+6135-01-528-6895         TASER® XPPM (replaced the extended digital
+1095-01-564-0900         power magazine)
+
+                         Holster, pistol: Safariland® Holster, right-hand
+
+70  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                                  07 April 2025
+
+                         AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+Table 15. USA NLCS, Crowd Control Detainee Operations Module
+
+    Part/National Stock                           Description          Quantity
+            Number       DK-6 face shields
+                                                                           30
+8415-01-552-7134                                                           30
+                                                                           30
+8470-01-538-4334         Nonballistic riot body shield with hardware       30
+                                                                           30
+4240-01-538-8190         Nonballistic riot shin guards                      1
+                                                                            1
+8465-01-499-9924         Expandable riot baton with holster                 1
+
+8465-01-499-9927         Riot baton holder                                 30
+
+5965-01-539-2029         Riot megaphone with siren                         30
+
+5965-01-568-2627         Magnetic Audio Device® 2B                          1
+                                                                            1
+5805-01-531-5590         SQU.ID® 410, (replaced the PHRASELATOR®         2,000
+8465-01-538-4640         P2 and the SQU.ID®                                10
+1365-01-501-4380         SQ.200)                                           10
+8465-01-515-3155         M39 Individual Riot Control Agent Disperser        6
+                         (IRCAD) Pouch Army Combat Uniform (ACU)
+                         pattern                                            1
+
+                         M39, IRCAD oleoresin capsicum [OC] disperser
+                         government furnished equipment
+                         Restraint, strap cinch (Hobble)
+
+8465-01-514-8739         Restraint, full body (Body Cuff)
+
+8565-01-514-8590         Restraint, disposable, trifold
+
+5120-01-550-1979         Restraint, disposable, cutter
+
+8465-01-569-0896         Nonlethal munitions pouch ACU
+
+8465-01-569-0778         Nonlethal grenade launching cup carrying bag
+(No NSN planned)         ACU
+
+                         Armorer’s kit (Spare Parts)
+
+2. United States Marine Corps (USMC) NLCSs
+
+The USMC separates NLW capabilities by mission module. The first USMC mission
+module is escalation of force (EOF), NSN 1367-01-579-4067, which includes multiple
+kits that can be used to address an EOF situation. These are detailed in tables 16–24.
+Individual components or complete modules can be procured by units or commands
+through General Services Administration Schedule 84. Some items maybe limited due
+to the products service life or no longer supported by the vendor. Many items require
+the use of batteries to provide power, the replacement of those batteries is the
+responsibility of the unit. Coordination with the Service’s logistics section can assist with
+this process.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                     71
+
+                  AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    Table 16. USMC EOF Mission Module Checkpoint, Vehicle Control Point
+
+   Part/National Stock                         Description                  Quantity
+           Number
+                        Entry-point vehicle kit, including Snake Eye®            2
+2590-01-582-1074        pepper spray
+                        100-inch video cable for snake-eye pack                  2
+5995-01-609-6041        Expeditionary search pack: snap                          3
+6350-01-552-4525        checkpoint/vehicle control point
+                        Ultimate Magnum Spike® System                            8
+5340-01-588-2511        X-NET® (vehicle lightweight arresting device)            4
+4240-01-518-4626        VESTLYTE®, red flashing (in pelican case)               80
+6230-01-529-1265        Peak Beam Systems, Inc. Maxa® Beam                       4
+6230-01-392-8383        Searchlight
+                        Handheld metal detector                                  4
+6350-01-572-0686        Generator                                                2
+6115-01-435-1565        Grounding rod                                            1
+5975-00-878-3791        Portable light sets (Includes, bulb, pins, tripod)       6
+6230-01-537-9019        HPV Technologies, Inc., Magnetic Audio                   1
+5805-01-609-7358        Device® 2B vehicle mount with tripod mount
+                        option                                                   3
+5985-01-654-5964        SQU.ID® SQ.410 with Magnetic Audio Device®
+                        connection, Y cable, custom connection,                 50
+4240-01-539-1517        variable power amplifier (Marine Corps version)          1
+5110-17-118-0342        Caltrops                                                 1
+6665-01-609-4770        Dynamic entry tactical backpack kit                      1
+6665-01-554-8014        DropEx Plus kit (50 tests)
+                        Explosive ordnance detector
+
+    Table 17. USMC EOF Mission Module Checkpoint, Secure Perimeter
+
+   Part/National Stock                 Description                          Quantity
+           Number                                                                2
+                        Generator
+6115-01-435-1565
+
+5975-00-878-3791        Grounding rod                                       1
+
+6230-01-608-3932        Portable light sets (five 100-inch cords per set    12
+6150-01-609-9834
+5985-01-654-5964        of six)
+7030-01-610-0083
+                        150-inch, 10/3 gauge power block cord (one per      5
+
+                        Light Set plus two extra in escalation of force
+
+                        (EOF) mission module set)
+
+                        SQU.ID® SQ.410 with Magnetic Audio Device®          3
+
+                        connection, Y cable, custom connection,
+
+                        variable power amplifier (Marine Corps version)
+
+                        Concrete and masonry unit database software         1
+
+72  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                         07 April 2025
+
+                        AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+Table 18. USMC EOF Mission Module Checkpoint, Establish Perimeter
+
+   Part/National Stock                          Description              Quantity
+           Number                                                             2
+                        HPV Technologies, Inc., Magnetic Audio
+5805-01-609-7358        Device® 2B vehicle mount with tripod mount            5
+                        option                                                1
+6230-01-392-8383        Peak Beam Systems, Inc. Maxa® Beam
+                        Searchlight
+7030-01-610-0083        Concrete and masonry unit database software
+
+Table 19. USMC EOF Mission Module Checkpoint, Urban Patrolling
+
+  Part/National Stock                          Description               Quantity
+          Number
+                        Handheld metal detector                               1
+6350-01-572-0686        SQU.ID® SQ.410 with Magnetic Audio Device®            2
+5985-01-654-5964        connection, Y cable, custom connection,
+                        variable power amplifier (Marine Corps Version)       1
+6230-01-392-8383        Peak Beam Systems, Inc. Maxa Beam
+                        Searchlight                                           1
+6665-01-609-4770        DropEx Plus kit (50 tests)                            1
+6665-01-554-8014        Explosive ordnance detector spray                     1
+5110-17-118-0342        Dynamic entry tactical backpack kit                   1
+5965-01-539-2029        Riot megaphone with siren
+
+Table 20. USMC EOF Mission Module Checkpoint, Convoy Security
+
+  Part/National Stock                          Description               Quantity
+          Number                                                              2
+                        HPV Technologies, Inc., Magnetic Audio                1
+5805-01-609-7358        Device® 2B vehicle mount with tripod mount            1
+                        option
+5985-01-654-5964        SQU.ID® SQ.410 with Magnetic Audio Device®
+                        connection, Y cable, custom connection,
+6230-01-392-8383        variable power amplifier (Marine Corps Version)
+                        Peak Beam Systems, Inc. Maxa® Beam
+                        Searchlight
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                       73
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    Table 21. USMC EOF Mission Module Checkpoint, Clear Facilities
+
+  Part/National Stock                         Description              Quantity
+          Number       Expeditionary search pack
+                                                                            2
+2590-01-582-1074                                                            3
+
+6230-01-392-8383       Peak Beam Systems, Inc. Maxa® Beam                   2
+5110-17-118-0342       Searchlight                                          1
+                       Dynamic entry tactical backpack kit
+
+7030-01-610-0083       Concrete and masonry unit database software
+
+    Table 22. USMC EOF Mission Module Crowd Control, Crowd Control
+
+  Part/National Stock                         Description              Quantity
+          Number       DK6 face shields                                   100
+
+8415-01-552-7134
+
+8470-01-515-0358       Nonballistic riot body shield                   30
+
+4240-01-609-1597 (M) Nonballistic shin guards                          100
+
+4240-01-649-0884 (L)
+4240-01-649-0887 (XL)
+
+8465-01-499-9924       Expandable riot baton with holster              100
+
+8465-01-499-9927
+
+5965-01-539-2029       Riot megaphone with siren                       1
+
+5805-01-609-7358       HPV Technologies, Inc., Magnetic Audio          1
+5985-01-654-5964
+                       Device® 2B Vehicle Mount with tripod mount
+
+                       option
+
+                       SQU.ID® SQ.410 with Magnetic Audio Device®      4
+
+                       connection
+
+GSAATIEAMK4            MK 4 pouch coyote                               100
+
+6850-01-571-6727       MK 4 live oleoresin capsicum (OC)               200
+
+6850-01-571-6922       MK 9 live OC                                    80
+
+EADMH-9COY             MK 9 pouch coyote                               40
+
+8465-01-649-0968       Nonlethal 12-gauge nonlethal munitions pouch    36
+
+                       coyote
+
+8465-01-649-0976       Nonlethal 40-millimeter munitions pouch coyote  30
+
+EADD6OD                Nonlethal stingball munitions pouch coyote      30
+
+8465-01-649-0989       Nonlethal pouch 12-gauge buttstock cuff         36
+
+                       coyote
+
+1055-01-609-4316       Nonlethal grenade launching cup                 36
+
+BHB990177CT            Nonlethal grenade launching cup pouch coyote    36
+
+1055-01-609-436        Nonlethal grenade launch cup                    36
+
+6230-01-392-8383       Peak Beam Systems, Inc. Maxa® Beam              3
+
+                       Searchlight
+
+74       ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                   07 April 2025
+
+                       AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+Table 23. USMC EOF Mission Module Crowd Control, Detain Personnel
+
+ Part/National Stock                          Description              Quantity
+         Number       PHRASELATOR® P2MX-2 with Magnetic                     3
+                      Audio Device® connection
+5895-01-612-9051
+
+5120-01-550-1979      Safety cutters                                   15
+
+8565-01-514-8590      Trifold restraints pack of six                   90
+
+8465-01-620-2330      Body cuff                                        30
+
+8465-01-515-3155      Hobble restraint                                 30
+
+6230-01-392-8383      Peak Beam Systems, Inc. Maxa® Beam               3
+
+                      Searchlight
+
+NS57373               Nitrile exam gloves (100 per box)                6
+
+4240-01-463-5449      Particulate surgical masks (box of 20)           30
+
+6350-01-572-0686      Handheld metal detector                          15
+
+6665-01-554-8014      Explosive ordnance detector spray                3
+
+6665-01-609-4770      DropEx Plus kit (50 tests)                       3
+
+8465-01-648-8414      Evidence bags/seals (100 each) 12 inches x15     1
+
+                      inches
+
+Note: Quantities listed are for thirty detained personnel.
+
+         Table 24. USMC EOF Mission Module Training, Training Set
+
+ Part/National Stock                          Description              Quantity
+         Number
+                      SQU.ID® SQ.410 with Magnetic Audio Device®            2
+5985-01-654-5964      connection, y cable, custom connection,
+                      variable power amplifier (Marine Corps Version)       3
+                                                                            3
+8465-01-620-2330      Body cuff                                             1
+                                                                          100
+8465-01-515-3155      Hobble restraint                                     50
+                                                                           10
+6665-01-554-8014      Explosive ordnance detector spray                     2
+                                                                            6
+8465-01-470-6251      Trifold disposable handcuff red training device      40
+
+DT5147                Inert MK 4 with red dye
+
+DT5197                Inert MK 9 with red dye
+
+8415-01-538-4720      Riot training suit with gloves
+
+8465-01-529-0862      Riot training strike bag
+
+8465-01-529-2001      Ultimate straight training baton
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                         75
+
+                      AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+3. United States Navy (USN) NLCSs
+
+         a. The USN categorizes NLW by capability set, however, not every capability set can
+         be purchased as a unit. Those without a quantity column are procured individually.
+         Tables 25 and 26 are the NLW sets used by the USN’s law enforcement units and
+         table 27 details shipboard NLW and equipment.
+
+         b. The quantity of NLW equipment varies by ship and unit. Check the allowance
+         equipage list on each ship for a total.
+
+         c. The USN has several different acoustic hailing devices, from the long-range
+         acoustic device 1000, to the HYPERSPIKE®. Consult the ship’s allowance equipage
+         list for type. Contact Naval Surface Warfare Center, Crane, Indiana for actual ranges.
+
+             Table 25. USN Nonlethal Capability Set, Training
+
+   Part/National                           Description              Quantity
+  Stock Number                                                           2
+VIASSY-63-        SQU.ID® SQ.200 with Magnetic Audio Device®
+BCTSQ             connection, Y cable, custom connection, variable       3
+                  power amplifier (Marine Corps version)                 1
+                                                                       100
+MCBC100           Body cuff                                              2
+                                                                         6
+MS1553            Explosive trace detector spray                        40
+
+ASP56191          Trifold disposable handcuff red training device
+
+GSAATIFS333       Riot training suit with gloves
+
+MONUTB            Riot training strike bag
+
+MON5106           Ultimate straight training baton
+
+Table 26. USN Nonlethal Capability Set, Antiterrorism/Force Protection, Checkpoint
+                              and Crowd Control, Vehicle Control Point
+
+  Part/National Stock                      Description              Quantity
+           Number                                                        2
+                          Entry point vehicle kit (including             2
+ATI-EPVK-1002SS           Snake Eye® pepper spray)                       3
+                          100-inch video cable for snake-eye             4
+HTOA-03-100               pack                                          80
+                          Expeditionary search pack: snap                4
+LIEXPVR1001SS             checkpoint/ vehicle control point
+                          X-NET® vehicle light weight arresting
+QQX-NET                   device
+                          LyteFlare®, red flashing (in pelican
+LILF1000-R                case)
+                          Xenonics® high intensity light
+Xen Nonlethal Capability
+Sets USMC (USAR)
+
+76        ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                     07 April 2025
+
+                  AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+Table 26. USN Nonlethal Capability Set, Antiterrorism/Force Protection, Checkpoint
+                       and Crowd Control, Vehicle Control Point (Cont’d)
+
+GMD1165180       Handheld metal detector                 4
+
+HPVMADLTPMS2BVT HPV Technologies, Inc. Magnetic          1
+
+                 Audio Device® 2B vehicle mount
+
+                 with tripod mount option
+
+GSAATIRSC3       Caltrops                                50
+
+DE-TBK           Dynamic entry tactical backpack kit     1
+
+MS1585           DropEx Plus kit (50 tests)              1
+
+MS1553           Explosive trace detector spray          1
+
+PMDK6X250AF      DK6 face shields                        100
+
+GSAATIPMBS9      Nonballistic riot body shield           30
+
+GSAATIUSMCSG     Nonballistic shin guards                100
+
+GSAATI23/36      Expandable riot baton with holster      100
+
+GSAATIA2M        Riot megaphone with siren               1
+
+VIASSY-63-BCTSQ  SQU.ID® SQ.200 with Magnetic            4
+
+                 Audio Device® connection, Y cable,
+
+                 custom connection, variable power
+
+                 amplifier (Marine Corps version)
+
+ATIUSMCAK        Crowd control consumables/spares        1
+
+                 and repairs
+
+VIASSY-63030301  PHRASELATOR® P2MX-2 with                3
+                 Magnetic Audio Device® connection
+
+NS502-3253874    Safety cutters                          15
+
+ASP56192         Trifold restraints pack of 6            900
+
+MCBC100          Body cuff                               30
+
+RRH100           Hobble restraint                        30
+
+Xen Nonlethal Capability Xenonics® high intensity light  3
+
+Set
+
+ON417-57373      Nitrile exam gloves (100 per box)       6
+
+ON142-8210       Particulate surgical masks (box of 20)  30
+
+GMD1165180       Handheld metal detector                 15
+
+MS1553           Explosive trace detector spray          3
+
+MS1585           DropEx Plus kit (50 tests)              3
+
+FS3-2052         Evidence bags/seals (100 each) 12       1
+
+                 inches x 15 inches
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/            77
+
+                 AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    Table 27. USN Nonlethal Capability Set, Shipboard NLW, Hail and Warning
+
+ Part/National Stock                                    Description
+         Number
+                      Long-range acoustic device (LRAD) 100X
+5830-01-578-4373      LRAD 300X
+                      LRAD 500X
+5830-01-578-4368      LRAD 1000X
+
+5996-01-574-0072
+
+5830-01-625-9732
+
+MBS-410 (PEAK         White light
+BEAM)/6230-01-588-
+8523                  Infrared filter
+MBA-1850 (PEAK
+BEAM)/6230-01-393-    Padded filter pouch
+1816
+MBA-6100 (PEAK        Laser, directional (LA-9/P) kit
+BEAM)/6230-01-392-    12-gauge 100 meter, joint nonlethal warning munition (LA 51)
+8479                  12-gauge 200 meter, joint nonlethal warning munition (LA 52)
+7H5860-01-544-7175
+1370-01-530-6486
+1370-01-530-6571
+
+1370-01-534-8945      Cartridge, 40 millimeter, MK 297 MOD 0, warning (300
+                      meter) (BA 26)
+
+4. United States Air Force (USAF) NLCSs
+
+The USAF no longer fields dedicated nonlethal capability sets. Nonlethal capabilities are
+integrated into equipment unit type codes (UTCs). Current equipment UTCs incorporating
+nonlethal capabilities are the QFL1E, Entry Control Point (ECP) and QFL3C, Confrontation
+Management (CM). These UTCs can be either unit or functionally funded. Unit funded UTCs
+are used for home station training and to support home station operations. Functionally
+funded UTCs are deployment driven, Defense Readiness Reporting System reportable,
+functionally maintained, and centrally stored. The USAF ECP and CM unit type codes are
+detailed in Tables 28 and 29.
+
+78  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                             07 April 2025
+
+                      AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+           Table 28. USAF Entry Control Point (ECP) Equipment –
+
+                      Unit Type Code (UTC) QFL1E
+
+Manufacturer   Nomenclature                         Manufacturing   Quantity
+AAR                                                 part number     1 per ISU
+               Large Internal Slingable Unit (ISU)  AGL LRG ISU
+               w/ Air Force Security Forces         SYSTEM          1 per ISU
+               Configuration                                        1 per ISU
+                                                                    1 per ISU
+AAR            KC ISU Stacking Rack, 3 Pack         ISU KC          1 per ISU
+                                                    STACKER SET     1 per ISU
+                                                                    1 per ISU
+DELTA          16' Basic Structure Set              MP5000 AF SF   1 per case
+                                                    CUSTOM         1 per case
+                                                                   1 per case
+DELTA          Hydraulic Pump System                H8050           1 per ISU
+                                                                   1 per case
+DELTA          Trailer Assembly/Turntable           MP5000TR-TT-   1 per case
+               Set/Nitro                            N              2 per case
+                                                                   1 per case
+DELTA          Remote Station 20' Cable             MPl-8050-300   2 per UTC
+                                                                   1 per ISU
+ADVANCED       Computer Equipment Case              VI110LPR Sub   1 per ISU
+DETECTION                                           Part           1 per case
+                                                                   1 per case
+ADVANCED       Monitor                              VI110LPR Sub
+DETECTION                                           Part
+
+ADVANCED       Computer                             VI110LPR Sub
+DETECTION                                           Part
+
+ADVANCED       Keyboard                             VI110LPR Sub
+DETECTION                                           Part
+
+ADVANCED       Inspection Ramp & Accessory          VI110LPR Sub
+DETECTION      Case                                 Part
+
+ADVANCED       Ramp                                 VI110LPR Sub
+DETECTION                                           Part
+
+ADVANCED       Cable                                VI110LPR Sub
+DETECTION                                           Part
+
+ADVANCED       Cable Protectors                     VI110LPR Sub
+DETECTION                                           Part
+
+AGL            Table                                VI110LPR Sub
+                                                    Part
+
+AGL            Security Checkpoint Kit              AGL SEC CP
+Roadshark      Electric Spike Barrier               KIT
+
+                                                    AGL-RS5
+
+AGL            Electric Spike Barrier Accessory     SCPX1025
+               Case
+
+Roadshark      Battery w/ Cord                      AGL-RS5 Sub-
+                                                    Part
+
+Roadshark      Wired Controller                     AGL-RS5 Sub-
+                                                    Part
+
+07 April 2025  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                79
+
+               AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    Table 28. USAF Entry Control Point (ECP) Equipment (Cont’d)
+
+Manufacturer     Nomenclature                    Manufacturing    Quantity
+                                                 Part Number
+Roadshark        Wireless Controller             AGL-RS5 Sub-    1 per case
+                                                 Part
+AGL              Electric Spike Barrier Box      SCPX1027        1 per ISU
+Roadshark        Stakes                          AGL-RS5 Sub-    20 per box
+                                                 Part
+Roadshark        Anchors                         AGL-RS5 Sub-    40 Per box
+                                                 Part
+Roadshark        Tool Kit                        AGL-RS5 Sub-    1 Per box
+                                                 Part
+AGL              Detection Control Case          SCPX1001        1 per ISU
+AGL              Metal Detection Wand            SCP1005         1 per case
+VOXTEC           Translator                      SQU.ID SQ.410   1 per case
+INTERNATIONAL
+SUREFIRE         Dominator                       UDR-A-BK        2 per case
+MILITARY SEWING  Dominator Charger w/ Pouch      C1007           2 per case
+MILITARY SEWING  Dominator CR123 Battery Cradle                  2 per case
+BE MEYERS        RECOIL Dazzler System           532-R1          1 per case
+SUREFIRE         Handheld Flashlight             P1R-B-BK        8 per case
+MILITARY SEWING  Handheld Flashlight Charger w/  C1009           8 per case
+                 Pouch
+AGL              Batteries, CR123, 2-pack        BAT1003         50 per box
+AGL              Batteries, 9 Volt               BAT1001         4 per box
+AGL              Area Control Sign Pouch #1      SCPX1003        1 per ISU
+AGL              Paddle Stop Sign                SCP1008
+                                                                    1 per
+AGL              Warning Signs                   SCP1026            pouch
+                                                                    4 per
+AGL              Area Control Sign Pouch #2      SCPX1004           pouch
+AGL              ECP/Installation Warning Signs  SCP1013         1 per ISU
+                                                                    2 per
+AGL              Controlled Area Warning Signs   SCP1014            pouch
+                                                                    2 per
+AGL              Restricted Area Signs           SCP1015            pouch
+                                                                    1 per
+AGL              Road Marking Case               SCPX1002           pouch
+                                                                 1 per ISU
+
+POWERFLARE       Red light emitting diode (LED)  CKT-PF6P-       4 per case
+                 Road Markers (6-pk)             210R-R-BK
+
+80  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/         07 April 2025
+
+                 AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+Table 28. USAF Entry Control Point (ECP) Equipment (Cont’d)
+
+Manufacturer     Nomenclature                       Manufacturing   Quantity
+                                                    Part Number
+POWERFLARE       IR LED Road Markers (6-pk)         CKT-PF6P-      4 per case
+                                                    210R-I-OD
+MILITARY SEWING  Road Marker Charger Pouch          SCP1022        4 per case
+POWERFLARE       Road Marker Cone Tops (6-pk)       CTA-001-6      4 per case
+AGL              Barrier Tape                       SCP1010        2 per case
+AGL              Red Rope Spool                     SCP1011
+AGL              Traffic Cones                      SCP1012         2 per kit
+AGL              Expeditionary Vehicle Search       AGL EXPED      10 per kit
+                 Kit                                VEH SEARCH     4 per UTC
+AGL                                                 KIT
+SAGE             Vehicle Inspection Case            EVSKX1001      2 per ISU
+SAGE             Small Inspection Mirror            IMFL/12-PR     1 per case
+SAGE             Standard Inspection Mirror         PIM1600C       1 per case
+AGL              LED Inspection Mirror - Wheeled    PIM1700C       1 per case
+STREAMLIGHT      Batteries, 9 Volt                  BAT1001        4 per case
+AGL              Inspection Flashlight              85011          2 per case
+SAGE             Batteries, CR123                   BAT1003        4 per case
+SAGE             Replacement 5" Inspection Mirror   SDR-5CG        2 per case
+SAGE             Replacement 8" Inspection Mirror   SDR-8CG        2 per case
+POWERFLARE       Replacement 12" Inspection Mirror  SDR-12A        2 per case
+                 Red Road Markers (6-pk)            CKT-PF6P-      1 per case
+POWERFLARE                                          210R-R-BK
+                 IR Road Markers (6-pk)             CKT-PF6P-      1 per case
+MILITARY SEWING                                     210R-I-OD
+POWERFLARE       Road Marker Charger w/ Pouch       C1008          1 per case
+LRAD             Road Marker Cone Tops (6-pk)       SCP1012        1 per case
+                 LRAD System Case                   LRAD 100X      1 per ISU
+LRAD                                                MAG-HS
+LRAD             Expeditionary LRAD                 116461-00      1 per case
+LRAD             Vehicle Power Cord                 106945-00      1 per case
+                 LRAD Spare Battery Pack            LRAD-100X-     1 per case
+LRAD                                                BATT
+LRAD             LRAD Tripod Case                   HCKX1002       1 per ISU
+AGL              Tripod                             117567-00      1 per case
+LRAD             LRAD Accessory Case                HCKX1003       1 per ISU
+                 Tactical Pack                      TACTICAL-      1 per case
+LRAD                                                PACK-100X
+                 Mounting Yoke                      109203-00      1 per case
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                 81
+
+                 AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+    Table 28. USAF Entry Control Point (ECP) Equipment (Cont’d)
+
+Manufacturer  Nomenclature                       Manufacturing   Quantity
+                                                 Part Number
+AGL           AF SF PIONEER KIT                  AGL PIONEER     2 per UTC
+                                                 KIT
+AGL           Pioneer Kit Case                   PNKX1001         1 per ISU
+AGL           Sledge Hammer                      PNK1002         1 per case
+AGL           Hammer                             PNK1004         1 per case
+AGL           Machete                            PNK1005         1 per case
+AGL           Pick Axe                           PNK1006         1 per case
+AGL           Hand Shovel                        PNK1003         1 per case
+AGL           Sand Bags (Burlap)                 GMK1002         6 per case
+AGL           Sand Bags (Poly)                   GMK1003         6 per case
+AGL           AF SF CARPENTER KIT                AGL PIONEER     2 per UTC
+                                                 KIT
+AGL           Carpenter Kit Case                 CPKX1001         1 per ISU
+AGL           Cordless Combo Kit                 CPK1002         1 per case
+AGL           Cordless Kit Charger               CPK1007         1 per case
+AGL           Screwdriver Bit Set                CPK1003         1 per case
+AGL           Saw Blades                         CPK1004         1 per case
+GERBER        Gerber Dawg                        24516           1 per case
+AGL           Zip Ties, 100 Pack                 CPK1005         1 per case
+AGL           Security Badge Kit                 AGL             2 per UTC
+                                                 SECURITY
+AGL           Badge System Case            Case  BADGE KIT        1 per ISU
+AGL           Badge Printer                      SBKX1001        1 per case
+AGL           Badge Database Software            SBK1004         1 per case
+AGL           Badge Scanner w/ Pouch             SBK1003         6 per case
+AGL           Badge Scanner Software             SBK1005         6 per case
+AGL           Badge System                       SBK1016         1 per case
+              Computer/Camera/Config             SBK1006
+AGL           Wireless Access Point                              1 per case
+AGL           Training Session 1 & 2             SBK1007         1 per case
+AGL           Security Badge Kit Supplies        SBK1015          1 per ISU
+AGL           Printer Ribbon/Supply Set          SBKX1002        1 per case
+AGL           Badge Kit (1,000 pack)             SBK1009         1 per case
+AGL           Table                              SBK1010         1 per case
+AGL           Chair                              SBK1013         1 per case
+                                                 SBK1014
+
+82  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/         07 April 2025
+
+              AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+Table 28. USAF Entry Control Point (ECP) Equipment (Cont’d)
+
+Manufacturer   Nomenclature                            Manufacturing   Quantity
+                                                       Part Number
+AGL            POWER DISTRIBUTION KIT                  AGL PWR DIST   2 per UTC
+                                                       KIT
+AGL            Distribution Panel Case                 PDKX1001        1 per ISU
+AGL            Distribution Panel                      PDK1018        1 per case
+AGL            Power Cable Case #1                     PDKX1002v2      1 per ISU
+AGL            100 ft Extension Cord, 110 V            PDK1007        2 per case
+AGL            50 ft Extension Cord, 110 V             PDK1008        2 per case
+AGL            50 ft Dual Receptacle Cord, 110 V       PDK1009        1 per case
+AGL            100 ft Dual Receptacle Cord, 110 V      PDK1010        1 per case
+AGL            6 ft Six Receptacle Power Strip, 110 V  PDK1011        2 per case
+AGL            6 ft Adapter Cord, 110 V                PDK1013        1 per case
+AGL            25 ft Round Connect Extension Cord,     PDK1014        1 per case
+               110 V
+AGL            Power Cable Case #2                     PDKX1003v2      1 per ISU
+AGL            4 ft 30-amp Adapter Cord, 220 V         PDK1004        2 per case
+AGL            4 ft 50-amp Adapter Cord, 220 V         PDK1005        2 per case
+AGL            100 ft 30-amp Distribution Panel Cord   PDK1006        1 per case
+AGL            6 ft Adapter Cord, 220 V                PDK1015        1 per case
+AGL            10 ft Extension Cord, 220 V             PDK1016        2 per case
+AGL            8 ft Six Receptacle Power Strip, 220 V  PDK1017        2 per case
+AGL            Expeditionary Generator Kit             AGL SFC        2 per UTC
+                                                       GENERATOR
+AGL            Expeditionary Generator                 SGK1001          1 per kit
+AGL            AMG Battery (Mounted to Generator)      SGK1003          1 per kit
+AGL            Lift Eye (Mounted to Generator)         SGK1005          1 per kit
+AGL            5 Gallon Fuel Can                       FC1001           2 per kit
+AGL            Military Fuel Can Spout                 FC1002           1 per kit
+AGL            3' Ground Rod                           PDK1012          1 per kit
+AGL            Dolly Kit Box                           SGK1004          1 per kit
+AGL            GENERATOR SERVICE KIT                   AGL GEN        2 per UTC
+                                                       SERV KIT
+AGL            Oil Filter                              GSK1001          5 per kit
+AGL            Fuel Filter                             GSK1002          2 per kit
+AGL            Air Filter                              GSK1003          2 per kit
+AGL            Motor Oil                               GSK1004         10 per kit
+
+07 April 2025  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                   83
+
+               AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+     Table 28. USAF Entry Control Point (ECP) Equipment (Cont’d)
+
+Manufacturer     Nomenclature                          Manufacturing   Quantity
+                 AF SF CHECKPOINT LIGHT KIT            Part Number    4 per UTC
+AGL              AF CP Light Case                      AGL ECP
+                 CP Light                              CPLK            2 per kit
+AGL              CP Light Spare Battery                CPLKX1001       2 per kit
+PELICAN          CP Light Charger w/ Pouch                             2 per kit
+                                                       094900-0000-    2 per kit
+PELICAN                                                110
+
+MILITARY                                               094800-3047-
+SEWING                                                 000
+
+                                                       C1012
+
+     Table 29. USAF Confrontation Management Equipment –
+                            Unit Type Code (UTC) QFL3C
+
+  Manufacturer   Nomenclature                          Manufacturing  Quantity
+                                                       Part Number
+AAR              Air Force Security Forces Medium ISU  56203050       1 per ISU
+                 Container
+AGL              Taser Case                            AGL TZKX1001    1 per kit
+GE               X26P Taser                            GE             7 per case
+GE               X26P Ambidextrious Holster            GE             7 per case
+GE               X26P Taser Cartridge 25 ft, 28 count  GE             2 per case
+                                                                      7 per case
+GE               X26P Extended Digital Power           GE
+                 Magazine                                              1 per kit
+AGL              Shield Rack w/Contents                AGL
+                                                       PPKX1001-WC     1 per kit
+AGL              Shield Rack                           PPKX1001       13 per kit
+AGL              Riot Shield                           PPK1018        13 per kit
+Military Sewing  Riot Shield Bag                       PPK1017        13 per kit
+AGL              Face Shield                           PPK1007        13 per kit
+Military Sewing  Face Shield Cover                     PPK1008        13 per kit
+
+AGL              PPE Storage Bag w/Contents            AGL             1 per kit
+                                                       PPKX1003-WC     1 per kit
+AGL              PPE Storage Bag                       PPKX1003        1 per kit
+Military Sewing  Riot Suit                             PPK1019         1 per kit
+Military Sewing  Riot Gloves                           PPK1021         1 per kit
+AGL              Baton                                 PPK1020        38 per kit
+AGL              Baton Holster                         PPK1016
+
+AGL              Cuffs                                 PPK1010
+
+84   ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/              07 April 2025
+
+                 AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+Table 29. USAF Confrontation Management Equipment (Cont’d)
+
+Manufacturer     Nomenclature                      Manufacturing  Quantity
+                                                   Part Number
+AGL              Crowd Control Case #1 w/Contents  AGL             1 per kit
+                                                   PPKX1004v2-
+AGL              Crowd Control Case #1             WC             1 per case
+AGL              Megaphone                         PPKX1004v2     2 per case
+AGL              Batteries, C, 12-pack             PPK1009        4 per case
+BE Meyers        RECOIL Dazzler System             BAT1005        6 per case
+AGL              Batteries, CR123, 2-pack          532-R1
+                                                   SCP1017          18 per
+AGL              Crowd Control Case #2 w/Contents                    case
+                                                   AGL             1 per kit
+AGL              Crowd Control Case #2             PPKX1005-WC
+AGL              OC Spray, 4 oz                    PPKX1005       1 per case
+                                                   PPK1012          13 per
+Military Sewing  OC Carrier, 4 oz                                    case
+                                                   PPK1013          13 per
+AGL              OC Spray, 20 oz                                     case
+Military Sewing  OC Carrier, 20 oz                 PPK1014
+AGL              Shotgun Case w/Contents           PPK1015        6 per case
+                                                   AGL            6 per case
+AGL              Shotgun Case                      SAKX1001-WC     1 per kit
+GE               870 Shotgun                       SAKX1001
+Military Sewing  Shell Holder                      GE             1 per case
+Military Sewing  Sling                             SAK1002        2 per case
+AGL              Sling Swivels                     SAK1003        2 per case
+LRAD             LRAD System Case Kit              SAK1004        2 per case
+                                                   LRAD-500X-     4 per case
+LRAD             LRAD System Case                  RE-T-SS KIT     1 per kit
+LRAD             LRAD                              ASFLX1001
+LRAD             Mounting Yoke                     ASFL1006       1 per case
+LRAD             Vehicle Power Cord                ASFL1007       1 per case
+LRAD             LRAD Portable Power Pack Kit      ASFL1008       1 per case
+LRAD             Battery Charger & Power Supply    109845-00      1 per case
+                                                   ASFL1009        1 per kit
+                                                                  1 per case
+
+07 April 2025    ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/             85
+
+                 AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+     Table 29. USAF Confrontation Management Equipment (Cont’d)
+
+Manufacturer      Nomenclature                    Manufacturing                   Quantity
+                                                  Part Number
+AGL               LRAD Gunner Protection Case     AGL                              1 per kit
+                  w/Contents                      ASFLX1003-WC
+AGL               LRAD Gunner Protection Case     ASFLX1003                       1 per case
+LRAD              Gunner Protection Kit           LRAD 500X-                      1 per case
+                                                  MNT
+LRAD              Swing Arm Assembly              ASFL1010                        1 per case
+LRAD              Pintle Adapter Pin              ASFL1011                        1 per case
+LRAD              HMMWV Adapter Pin               ASFL1012                        1 per case
+LRAD              LRAD Tripod Kit                 117567-00                        1 per kit
+LRAD              LRAD Tripod Case                ASFLX1004                       1 per case
+LRAD              Tripod                          ASFL1013                        1 per case
+AGL               LRAD Accessory Case w/Contents  AGL                              1 per kit
+                                                  ASFLX1005-WC
+AGL               LRAD Accessory Case             ASFLX1005                       1 per case
+LRAD              Wireless System                 116860-00                       1 per case
+LRAD              Batteries, AA 4-pack            ASFL1015                        1 per case
+LRAD              Vehicle Hitch Mount                                             1 per case
+                                                  LRAD MNT-
+                                                  REC-02
+
+5. US Coast Guard (USCG) Nonlethal Capabilities
+
+The USCG does not procure, construct, or maintain NLCSs. It procures all NLW equipment
+for designated units as standalone items. Table 30 lists the items.
+
+                           Table 30.  USCG Nonlethal Capability Set
+                                                                    Description
+National Stock
+Number/Department of                    MK 20 Mod O improved flash-bang grenade
+Defense Identification Code
+
+GG36
+
+N/A                                   PepperBall® launcher full tactical carbine
+
+N/A                                   PepperBall® PAVA projectile round
+N/A                                   PepperBall® inert training projectile
+1370-01-380-3255                      12-gauge Signal, 100-meters, MK 290 MOD O
+5830-01-625-9726                      Long-range acoustic device (LRAD) 500X
+Not Assigned                          LRAD 450XL
+
+86   ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/         07 April 2025
+
+                  AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+6. National Guard Capability Sets
+
+The National Guard categorizes its NLCSs by contingency or state. This is because the
+contingency set provides more NLW capabilities than the state set. It could be used if a
+National Guard unit deploys and has to do much more than its state mission, such as crowd
+control. Table 31 shows contingency sets and table 32 shows state sets.
+
+     Table 31. National Guard (Contingency) Nonlethal Capability Set
+
+  Part/National Stock                    Description                  Quantity
+          Number
+                       Riot shields                      launcher         24
+PMBS9                  FN 303 practice rounds                            600
+N/A                    FN 303 OC rounds                                  600
+N/A                    FN 303 pink marking rounds                        600
+1090-01-541-3654       FN 303 yellow marking rounds                      600
+1090-01-541-3653       FN 303 air bank
+1090-01-533-1622       Firing device, nonlethal: FN 303                    1
+1095-01-526-7860       FN 303 armorer’s kit                                4
+5180-00-541-3003       FN 303, bag and accessories                         1
+N/A                    EOTech sights                                       4
+N/A                    Face shields                                        4
+8465-01-467-0721       TASER® X26E®                                       30
+N/A                                                                       10
+
+999-01-499-9924        Riot batons                                    30
+
+N/A                    Flexcuffs                                      300
+
+N/A                    Flexcuff cutters                               4
+
+GSADEF5049             MK 4 (live)                                    24
+
+GSAATIEAMK4            MK 4 pouch                                     24
+
+GSADEF5099             MK 9 (live)                                    6
+
+GSATIEAMK9             MK 9 pouch                                     6
+
+N/A                    Elbow pads                                     30
+
+N/A                    Black gloves (pair)                            30
+
+N/A                    TASER® X26E® 21-feet cartridges                280
+
+GSAATIUSMCCSG          Riot shin guards                               30
+
+Note: X26®, X26P®, and TASER® are registered trademarks of Axon®, registered in the
+United States. All rights reserved.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                    87
+
+                 AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+         Table 32. National Guard (State) Nonlethal Capability Set
+
+  Part/National Stock                         Description               Quantity
+                       Nonballistic riot face shield
+          Number                                                            30
+PMDK6x250AF                                                                 15
+                                                                            30
+GSAATIPMBS9            Nonballistic riot body shield                         1
+                                                                             1
+GSAATIUSMCSG           Nonballistic riot shin guards                         3
+                                                                            30
+8470-01-476-0754       Ballistic riot face shield
+                                                                           300
+8470-01-476-0757       Ballistic riot body shield                            6
+                                                                            10
+PRMPSG315              Ballistic riot shin guards                            1
+
+GSAATI23/36            Expandable riot baton (Marine Corps riot baton)     450
+GSAATIDC/W             with holster
+                       Disposable double cuffs                               2
+
+SDG8500-1-2            Flex cuff cutter                                    100
+
+TI26016                TASER® X26E®                                          6
+                                                                             6
+TI26500                Data download unit                                   15
+                                                                            24
+TI44203                TASER® X26E® XP25 cartridge 25 feet range            24
+                       field use green blast doors                          15
+                                                                             1
+TI85000                TASER® X26E® demo (training) cartridge               10
+                       alligator clips                                      10
+                                                                            30
+TI44205                TASER® X26E® simulation (training blue)               1
+DT5099                 cartridge 21 feet                                     1
+                       MK 9 oleoresin capsicum (OC) dispenser               11
+                                                                             1
+GSAATIEADMH-9OD MK 9 OC pouch
+                                                                             1
+DT5197                 MK 9 inert training dispenser                         1
+
+DT5049                 MK 4 OC dispenser
+
+GSAATIEAMK4            MK 4 OC pouch
+
+GSADT5147              MK 4 inert training dispenser
+
+GSAATIFS333            Training suit (FIST® suit)
+
+GSAMONUTB              Monadnock UTB-2 training bag
+
+GSAMON5103             White training baton, 24 inches
+
+GSAATIDC/T             Flex cuffs training device
+
+SBQUAD                 Quadcon
+
+ATIRACK                Internal rack for inserts
+
+ATINSERT               Quadcon inserts
+
+ATISSS                 Shield storage system/rack custom national
+ATIUSAAK               guard bureau (side1)
+                       Armorer’s kit (spares and repairs)
+
+ATIPMID                Packing, marking, integration, delivery
+
+88        ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                  07 April 2025
+
+                  AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                                      Appendix E
+
+                   EMPLOYMENT CONSIDERATIONS CHECKLIST
+
+Although not all encompassing, the following list of employment considerations is designed to
+assist commanders and staffs in formulating plans for using nonlethal weapons (NLW):
+
+1. General Considerations:
+
+         a. Conduct proper training before employing NLW.
+
+         b. Understand and define rules of engagement (ROE) and rules for the use of force
+         (RUF).
+
+         c. NLW options require lethal overwatch.
+
+         d. Use appropriate media to inform civilians to stay away from denied areas.
+
+         e. Be aware of the information environment and how nonlethal actions will influence the
+         cognitive space of domestic audiences, allies, partners, and adversaries.
+
+         f. Understand the human effects as discussed in Chapter III.
+
+2. Counterpersonnel Considerations:
+
+         a. Employing nonlethal munitions at less than the minimum safe distance may result
+         in death.
+
+         b. Use a target area at 15–40 feet as center mass for blunt munitions (munition
+         dependent).
+
+         c. Head or neck shots may result in serious injury or death.
+
+         d. Do not bounce fired nonlethal projectiles off the ground.
+
+         e. Use nonlethal munitions against selected, individual targets and to disperse
+         individuals.
+
+         f. Differing rates of fires (e.g., 40-millimeter launchers and shotguns) are
+         complementary in a nonlethal role, depending upon the munitions used and their
+         effective ranges.
+
+         g. Closely control riot control agent (RCA) employment.
+
+         h. Use RCA to disrupt/disperse crowds, when approved by the appropriate
+         commander.
+
+         i. Use searchlights to dazzle or disorient individuals during limited visibility. Avoid
+         using laser designators or other intense light or energy emission systems in manners
+         other than prescribed within the ROE or RUF for counterpersonnel operations and
+         activities.
+
+         j. Use acoustic hailing devices to communicate with a crowd and to control formations.
+
+         k. Employ recovery, apprehension, and snatch teams to apprehend agitators.
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  89
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+3. Countermaterial Considerations:
+         a. Use marking agents to mark a vehicle or vessel for later interception.
+         b. Consider road and weather conditions when employing vehicle arresting devices.
+         c. Use vehicle arresting devices to deny access to an area.
+
+90  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                                 Appendix F
+
+SAMPLE REQUEST FOR NONLETHAL WEAPONS MOBILE TRAINING
+                                             TEAM
+
+                                             UNITED STATES MARINE CORPS
+                                                      UNIT LETTERHEAD
+                                                            ADDRESS
+                                                        CITY, STATE ZIP
+
+From: Commander/Officer in Charge                                     IN REPLY REFER TO:
+To: Commanding General, Training Command (ATTN: TRNGCMD G-3)          TRNGCMDO 5401 C47
+
+Subj: CLASS SCHEDULE MODIFICATION REQUEST/NOTIFICATION
+
+Ref: (a) TRNGCMDO 5401.1
+
+1. Course/Class#: (CID/Course Title/Class Number/MOS trained.) Repeat this paragraph when there are
+changes to more than one class.
+
+   a. Requested Action: MTT for 1st LE BN, Camp Pendleton, California
+
+b. Justification. Requested, MTT for 1st LE BN, Camp Pendleton,
+    California
+
+c. Course Type. Interservice Nonlethal Individual Weapons Instructor
+    Course, (INIWIC)
+
+d. Current class dates. N/A
+   (1) Report:
+   (2) Convene:
+
+   (3) Graduation:
+
+e. Requested class dates. (INIWIC MTT 02-15) 50 students.
+   (1) Report: 12 Jan 2024
+   (2) Convene: 12 Jan 2024
+   (3) Graduation: 22 Jan 2024
+
+f. Current students on deck.
+   (1) Lateral Move:
+   (2) Active accession
+   (3) Reserve:
+
+   g. Report date of next scheduled class:
+
+   h. Minimum class size in CDD: (Note: CDD min class size is only a planning tool for funding. FLCs should
+make decisions on class cancellations based on a mission-oriented cost-benefit analysis of executing training
+with students on deck.)
+
+07 April 2025  ATP3-22.40/MCTP 10-10A/NTTP 3-26.6/                    91
+
+               AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+2. Point of contact is Mr. John Doe, (123) 456-7890.
+
+                                                                              COMMANDER
+                                                                              OR DESIGNEE
+
+ Legend
+ 1st LE BN: 1st Law Enforcement Battalion
+ CDD: course descriptive data
+ CID: course identification
+ FLC: formal learning course
+ MTT: mobile training team
+ MOS: military occupational specialty
+ TRNGCMD: Training Command
+ TRNGCMDO: Training Command order
+
+ Note: The memorandum is an example of one generated by a unit within the United
+ States Marine Corps and used to request a mobile training team. This memorandum
+ can be adapted for each Service and submitted to the Interservice Nonlethal Individual
+ Weapons Instructors Course to request mobile training.
+
+92  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                        REFERENCES
+
+JOINT PUBLICATIONS
+DoD Dictionary of Military and Associated Terms, January 2024
+
+ARMY
+ATP 3-39.33, Crowd Control, 23 June 2022
+
+DA PAM 350-38, Standards in Weapons Training, 8 September 2023
+
+FM 3-39, Military Police Operations, 09 April 2019
+
+GTA 19-08-006, Civilian Casualty (CIVCAS) Mitigation: Nonlethal tools, equipment, and
+    capabilities 17 August 2016
+
+TC 3-19.5, Nonlethal Weapons Training, 6 May 2014
+
+MARINE CORPS
+MCO 5500.6H W- CH 1, Arming of Law Enforcement and Security Personnel and
+
+    Use of Force, 14 November 2013
+
+MARADMIN 458/08, Updated Guidance on Marine Corps Training and Employment of
+    Oleoresin Capsicum (OC) Spray, 19 August 2008
+
+MARADMIN 560/08, Marine Corps Training and Use of Human Electro-Muscular
+    Incapacitation (HEMI) Devices, 2 October 2008
+
+Marine Corps Supplement to the Department of Defense Dictionary of Military and
+    Associated Terms, as amended 10 September 2020
+
+NAVMC 3500.72B, Nonlethal Weapons (NLW) Training and Readiness (TandR) Manual,
+    14 February 2018
+
+NAVY
+
+NAVSUP P 409, MILSTRIP MILSTRAP Desk Guide, April 2003 NTTP 3-07.2.1,
+    Antiterrorism, 8 September 2022
+
+NTTP 3-07.2.3, Law Enforcement and Physical Security, August 2011
+
+OPNAVINST 5530.14E, Navy Physical Security and Law Enforcement Program, 28
+    January 2009, incorporating change 3, 20 November 2017
+
+OPNAVINST 9760.1, Human Electro-Muscular Incapacitation Devices, 8 May 2018
+
+AIR FORCE
+
+DAFI 31-117_DAFGM 2024-01, Arming and Use of Force by Air Force Personnel, 6
+    May 2024
+
+DAFI 31-118_DAFGM2023-01, Security Forces Standards and Procedures, 15
+    November 2023
+
+AFI 36-2654, Combat Arms Program, 15 April 2020
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  93
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+DAFMAN 36-2655, USAF Small Arms and Light Weapons Qualification Program, 16
+    April 2020
+
+COAST GUARD
+
+CGTTP 3-93.3, Visit, Board, Search, and Seizure Operations, September 2022.
+
+CGTTP 3-93.7B, Non-Lethal Impact Munitions: PepperBall® Launcher System Tactics,
+    Techniques, and Procedures (TTP), 16 November 2021
+
+COMDTINST M16427.1H, US Coast Guard Maritime Law Enforcement Manual, 20
+    November 2020
+
+MULTI-SERVICE PUBLICATIONS
+
+ATP 4-01.45, MCRP 3-40F.7, NTTP 4-01.6, AFTTP 3-2.58, MTTP for Tactical Convoy
+    Operations, March 2021
+
+OTHER PUBLICATIONS
+
+Chairman of the Joint Chiefs of Staff Instruction 3121.01B, Standing Rules of
+    Engagement/Standing Rules for the Use of Force for US Forces, 15 August
+    2022 (Secret – title is unclassified standalone)
+
+DoDD 3000.03E, DoD Executive Agent for Non-Lethal Weapons (NLW), and NLW
+    Policy, 25 April 2013, incorporating change 2, 31 August 2018
+
+DoDI 3200.19, Non-Lethal Weapons (NLW) Human Effects Characterization, 17
+    May 2012 Incorporating Change 2, 31 August 2018
+
+DoDI 5000.69, DoD Joint Services Weapon and Laser System Safety Review
+    Processes 10 August, 2023
+
+Executive Order 11850, Renunciation of Certain uses in War of Chemical
+    Herbicides and Riot Control Agents, 8 Apr 1975;
+    https://www.archives.gov/federal- register/codification/executive-
+    order/11850.html. Accessed on 13 February 2024
+
+Joint Doctrine Note 1-22 Joint Force in Strategic Competition 02 February 2023
+
+National Guard Regulation 500-5, National Guard Domestic Law Enforcement
+    Support and Mission Assurance Operations, 18 August 2010.
+
+Public Law 111-383, 124 Stat. 4380, The Ike Skelton National Defense
+    Authorization Act for Fiscal Year 2011, 7 January 2011
+    (https://www.govinfo.gov/app/details/PLAW-111publ383/). Accessed on 13
+    February 2024
+
+United Nations Treaty, Convention on Prohibitions or Restrictions on the Use of
+    Certain Conventional Weapons Which May Be Deemed to Be Excessively
+    Injurious or to Have Indiscriminate Effects (Protocol IV), Vienna, 13 October
+    1995
+
+94  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+    AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+United Nations Treaty, Convention on the Prohibition of the Development,
+    Production, Stockpiling and Use of Chemical Weapons and on their
+    Destruction, Geneva, 3 September 1992
+
+WEBSITES
+
+https://jifco.defense.gov/
+
+https://usaf.dps.mil/teams/SMARTNet/SitePages/Non-lethal-Weapons.aspx
+
+07 April 2025 ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/                        95
+
+AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                      GLOSSARY
+
+PART I – ABBREVIATIONS AND ACRONYMS
+
+                            A
+
+AFI        Air Force instruction
+
+AFTTP      Air Force tactics, techniques, and procedures
+
+AHD        acoustic hailing device
+
+ALSSA      Air Land Sea Space Applications Center
+
+ASI        additional skill identifier
+
+ATP        Army techniques publication
+
+                            B
+
+BN         battalion
+
+CAL                               C
+           compressed air launcher
+
+CDD        course descriptive data
+
+CGTTP      Coast Guard tactics, techniques, and procedures
+
+CHMR-AP    civilian harm mitigation and reduction action plan
+
+CID        course identification
+
+CJCSI      Chairman of the Joint Chiefs of Staff instruction
+
+CN         chloroacetophenone
+
+COMDTINST  Commandant instruction (USCG)
+
+CPX        command post exercise
+
+CROWS      common remotely operated weapon station
+
+CS         chlorobenzylidene malononitrile
+
+DAFI                              D
+           Department of the Air Force Instruction
+
+DoD        Department of Defense
+
+DoDD       Department of Defense directive
+
+DoDI       Department of Defense instruction
+
+DODIC      Department of Defense identification code
+
+DR         disaster relief
+
+ECP                                E
+           entry control point
+
+EMD        electro-muscular device
+
+96       ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/         07 April 2025
+
+           AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+ EOF           escalation of force
+                                       F
+ FLC
+               formal learning center
+ GA                                   G
+
+ HA            gauge
+ HE                                   H
+ HEMI
+               humanitarian assistance
+ INIWIC        human effects
+               human electro-muscular incapacitation
+ JIFCA
+ JIFCO                                 I
+ JNLWD         Inter-Service Nonlethal Individual Weapons Instructor Course
+ JP
+                                     J, K
+ LE            joint intermediate force capabilities advisor
+ LFX           Joint Intermediate Force Capabilities Office
+ LRAD          Joint Nonlethal Weapons Directorate
+               joint publication
+ MCCM
+ MCRP                                  L
+ mm            law enforcement
+ MOS           live-fire exercise
+ MP            long-range acoustic device
+ MSCoE
+ MTT                                  M
+ MTTP          modular crowd control munition
+               Marine Corps reference publication
+ NAVSUP P      millimeter
+ NLM           military occupational specialty
+ NL-TLMS       military police
+               Maneuver Support Center of Excellence
+07 April 2025  mobile training team
+               multi-Service tactics, techniques, and procedures
+
+                                      N
+               Navy Supply Systems Command publication
+               nonlethal munitions
+               nonlethal tube launched munitions system
+
+               ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  97
+
+               AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+NLW        nonlethal weapons
+NLCS       nonlethal capability sets
+NG         National Guard
+NSN        national stock number
+NTTP       Navy tactics, techniques, and procedures
+NWDC       Navy Warfare Development Center
+
+OC                                O
+OPNAVINST  oleoresin capsicum
+           Chief of Naval Operations instruction
+PVAB
+                                 P, Q
+RCA        portable vehicle arresting barrier
+ROE
+RUF                               R
+           riot control agent
+SJA        rules of engagement
+SROE       rules for the use of force
+SRUF
+STX                                S
+sUAS       staff judge advocate
+           standing rules of engagement
+TECOM      standing rules for the use of force
+TRNGCMD    situational training exercise
+TRNGCMDO   small unmanned aircraft system
+
+US                                 T
+USA        Training and Education Command
+USAF       Training Command
+USCG       Training Command order
+USMC
+USN                               U
+USSOCOM    United States
+           United States Army
+           United States Air Force
+           United States Coast Guard
+           United States Marine Corps
+           United States Navy
+           United States Special Operations Command
+
+98  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/             07 April 2025
+
+           AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+VAD                                    V
+VBSS           vehicle arresting device
+VLAD           Visit, board, search, and seizure
+               vehicle lightweight arresting device
+
+                                 W, X, Y, Z
+
+PART II – TERMS AND DEFINITIONS
+
+force continuum–The wide range of possible actions ranging from voice commands to
+         application of deadly force that may be used to gain and maintain control of a
+         potentially dangerous situation. (USMC Dictionary)
+
+host nation–A nation which receives forces and/or supplies from allied nations and/or
+         North Atlantic Treaty Organization to be located on, to operate in, or to transit
+         through its territory. Also called HN. (DoD Dictionary, Source: JP 3-57)
+
+nonlethal capabilities–Capabilities that temporarily incapacitate personnel and
+         materiel while minimizing the likelihood of casualties and damage to critical
+         infrastructure. (DoD Executive Agent for NLW)
+
+nonlethal weapon–A weapon, device, or munition that is explicitly designed and
+         primarily employed to incapacitate personnel or materiel immediately, while
+         minimizing fatalities, permanent injury to personnel, and undesired damage to
+         property in the target area or environment. Also called NLW. (DoD Dictionary,
+         Source: JP 3-09)
+
+nonlethal capability set–A family of kits that incorporate nonlethal weapons and
+         devices designated for specific functions such as entry control point operations,
+         confrontation management, riot or crowd control, or checkpoint operations. Also
+         called NLCS. (DoD Nonlethal Weapons Program. Source:
+         https://jifco.defense.gov).
+
+riot control agent–Any chemical, not listed in a schedule of the Convention on the
+         Prohibition of the Development, Production, Stockpiling and Use of Chemical
+         Weapons and on their Destruction that can produce rapidly in humans, sensory
+         irritation or disabling physical effects that disappear within a short time
+         following termination of exposure. Also called RCA. (Source: ATP 3-22.40/
+         MCTP 10-10A/NTTP 3-26.6/AFTTP 3-2.45/CGTTP 3-93.2)
+
+rules of engagement–Directives issued by competent military authority that delineate
+         the circumstances and limitations under which United States forces will initiate
+         and/or continue combat engagement with other forces encountered. Also called
+         ROE. (DoD Dictionary, Source: JP 3-84).
+
+standing rules for the use of force–Preapproved directives to guide United States
+         forces on the use of force during various operations. Also called SRUF. (DoD
+         Dictionary, Source: JP 3-28).
+
+07 April 2025  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  99
+
+               AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+     This page intentionally left blank.
+
+100  ATP 3-22.40/MCTP 10-10A/NTTP 3-26.6/  07 April 2025
+
+     AFTTP 3-2.45/CGTTP 3-93.2
+
+
+---
+
+                                                                                   *ATP 3-22.40
+                                                                                  MCTP 10-10A
+
+                                                                                    NTTP 3-26.6
+                                                                                  AFTTP 3-2.45
+                                                                                  CGTTP 3-93.2
+
+                                                                                  07 APR 2025
+
+By Order of the Secretary of the Army:
+
+                                            RANDY A. GEORGE
+
+                                            General, United States Army
+
+                                            Chief of Staff
+
+Official:
+
+MARK F. AVERILL
+
+Administrative Assistant
+   to the Secretary of the Army
+           2509111
+
+DISTRIBUTION:
+
+Active Army, Army National Guard, and United States Army Reserve. Distributed in
+electronic media only (EMO).
+
+By Order of the Secretary of the Air Force
+
+PARKER H. WRIGHT
+Major General, USAF
+Commander
+Curtis E. LeMay Center for Doctrine Development
+and Education
+
+ACCESSIBILITY:  Publications and forms are available on the e-Publishing website
+                at www.e-publishing.af.mil for downloading or ordering.
+
+
+---
+
+This page intentionally left blank.
+
+
+---
+
+This page intentionally left blank.
+
+
+---
+
+This page intentionally left blank.
+
+
+---
+
+
+
+---
+
+MARINE CORPS PCN: 147 0000 58 01  PIN: 105653-000
+
+
+--- 

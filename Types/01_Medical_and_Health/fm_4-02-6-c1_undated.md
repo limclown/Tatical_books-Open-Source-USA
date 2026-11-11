@@ -1,0 +1,11110 @@
+# fm_4-02-6-c1_undated  FM 4-02.6 (FM 8-10-1)
+
+   THE MEDICAL
+      COMPANY
+
+  TACTICS, TECHNIQUES, AND PROCEDURES
+
+                   AUGUST 2002
+
+            HEADQUARTERS, DEPARTMENT OF THE ARMY
+
+DISTRIBUTION RESTRICTION: Approved for public release; distribution is unlimited.
+
+
+---
+
+This publication is available at
+    Army Knowledge Online
+          www.us.army.mil
+
+
+---
+
+Change 1                                                                           C1, FM 4-02.6
+
+                                                                             HEADQUARTERS
+                                                             DEPARTMENT OF THE ARMY
+
+                                                              Washington, DC, 9 April 2004
+
+                         THE MEDICAL COMPANY
+          TACTICS, TECHNIQUES, AND PROCEDURES
+
+1. Change FM 4-02.6, 1 August 2002, as follows:              Insert new pages
+                         Remove old pages
+
+               iii through viii                              iii through viii
+               A-1 through A-7                               A-1
+               F-1 through F-32                              F-1 through F-26
+               Glossary-1 through Glossary-21                Glossary-1 through Glossary-21
+               References-1 through References-4             References-1 through References-4
+               Index-1 through Index-8                       Index-1 through Index-7
+
+2. New or changed material is indicated by a star («).
+
+3. File this transmittal sheet in front of the publication.
+
+DISTRIBUTION RESTRICTION. Approved for public release; distribution is unlimited.
+
+By Order of the Secretary of the Army:                        PETER J. SCHOOMAKER
+Official:
+                                                             General, United States Army
+                                                                       Chief of Staff
+
+       JOEL B. HUDSON
+Administrative Assistant to the
+
+     Secretary of the Army
+                       0407103
+
+DISTRIBUTION:
+
+Active Army, Army National Guard, and US Army Reserve: To be distributed in accordance with
+the initial distribution 110816, requirements for FM 4-02.6.
+
+
+---
+
+FIELD MANUAL                        *FM 4-02.6 (FM 8-10-1)
+NO. 4-02.6 (8-10-1)
+                                           HEADQUARTERS
+                          DEPARTMENT OF THE ARMY
+                       Washington, DC, 1 August 2002
+
+                              THE MEDICAL COMPANY
+               TACTICS, TECHNIQUES, AND PROCEDURES
+
+                                   TABLE OF CONTENTS
+
+PREFACE ..........................................................................................................  Page
+
+CHAPTER            1.  COMBAT HEALTH SUPPORT SYSTEM ..................................                                vii
+      Section      I.  Overview of Combat Health Support .........................................
+                1-1.   General ...............................................................................        1-1
+      Section   1-2.   Theater of Operations ..............................................................           1-1
+                1-3.   Mission ...............................................................................        1-1
+                1-4.   Echelons of Medical Care .........................................................             1-1
+                1-5.   The Medical Threat and Medical Intelligence .................................                  1-2
+                1-6.   Planning for Combat Health Support ............................................                1-2
+                1-7.   Principles of Combat Health Support ............................................               1-4
+                1-8.   Modular Medical Support System................................................                 1-5
+                  II.  Combat Health Support Functional Areas ...................................                     1-7
+                1-9.   General ...............................................................................        1-8
+               1-10.   Medical Treatment ..................................................................           1-9
+               1-11.   Medical Evacuation and Medical Regulating...................................                   1-9
+               1-12.   Hospitalization .......................................................................        1-9
+               1-13.   Combat Health Logistics ...........................................................          1-10
+               1-14.   Dental Services ......................................................................       1-11
+               1-15.   Veterinary Services .................................................................        1-12
+               1-16.   Preventive Medicine Services.....................................................            1-12
+               1-17.   Combat Operational Stress Control Services ...................................               1-13
+               1-18.   Medical Laboratory Services .....................................................            1-13
+                                                                                                                    1-13
+CHAPTER        2. THE MEDICAL COMPANY ...................................................                           1-14
+
+Section        I. The Medical Company and Division Overview .............................                             2-1
+                                                                                                                      2-1
+               2-1. General ...............................................................................           2-1
+                                                                                                                      2-1
+               2-2. Division Overview ..................................................................              2-1
+                                                                                                                      2-3
+               2-3. Types of Divisions ..................................................................             2-4
+
+               2-4. Forward Support Medical Company.............................................
+
+               2-5. Organizational Structure of Forward Support Medical Companies ........
+
+DISTRIBUTION RESTRICTION: Approved for public release; distribution is unlimited.
+*This publication supersedes FM 8-10-1, 29 December 1994.
+
+                                                                                                                                   i
+
+
+---
+
+FM 4-02.6
+
+    Section     2-6.   Main Support Medical Company/Division Support Medical Company ...                        Page
+                2-7.   Organizational Structure of Main Support Medical Company/Division
+                                                                                                                  2-9
+                  II.      Support Medical Company ....................................................
+                       Medical Companies in Separate Brigades, Armored Cavalry                                  2-10
+                2-8.
+                2-9.       Regiments, and Interim Brigade Combat Teams ......................                   2-15
+               2-10.   Separate Brigade Overview .......................................................        2-15
+                       Medical Company-Heavy Separate Brigade ....................................              2-16
+               2-11.   Organizational Structure and Tactical Capabilities of the Medical
+               2-12.                                                                                            2-16
+               2-13.       Company-Heavy Separate Brigade ..........................................            2-17
+                       Armored Cavalry Regiment Overview ..........................................             2-18
+               2-14.   Medical Troop-Armored Cavalry Regiment ...................................
+               2-15.   Organizational Structure and Tactical Capabilities of the Medical Troop-                 2-18
+                                                                                                                2-19
+               2-16.       Armored Cavalry Regiment ...................................................
+                       Brigade Combat Team Overview ................................................            2-19
+CHAPTER           3.   Brigade Support Medical Company, Support Battalion, Interim Brigade
+      Section      I.                                                                                           2-20
+      Section   3-1.       Combat Team....................................................................
+                3-2.   Area Support Medical Company, Area Support Medical Battalion                               3-1
+CHAPTER         3-3.                                                                                              3-1
+                3-4.       (Corps and Echelons above Corps) ..........................................            3-1
+                3-5.                                                                                              3-1
+                3-6.   MEDICAL COMPANY OPERATIONS .....................................                           3-3
+                3-7.   Organization and Functions of the Medical Company ....................                     3-6
+                  II.  General ...............................................................................    3-7
+                3-8.   Headquarters Section ...............................................................       3-8
+                3-9.   Treatment Platoon ..................................................................     3-11
+               3-10.   Ambulance Platoon .................................................................      3-11
+               3-11.   Preventive Medicine Section and Functions ....................................           3-11
+               3-12.   Mental Health Section Operations and Functions .............................             3-12
+               3-13.   Optometry Section Operations and Functions ..................................            3-15
+               3-14.   Tactical Employment of the Medical Company ............................                  3-17
+               3-15.   Employment of the Medical Company ..........................................             3-19
+               3-16.   Site Selection ........................................................................  3-19
+               3-17.   Establishing the Company Headquarters ........................................           3-22
+               3-18.   Command Post Operations ........................................................         3-25
+                       Employment of the Treatment Platoon ..........................................           3-25
+                  4.   Establishing the Clearing Station/Medical Treatment Facility ..............              3-27
+                4-1.   Employment of the Ambulance Platoon .........................................            3-27
+                       Divisional and Nondivisional Medical Supply Offices .......................
+                       Employment of the Preventive Medicine Section .............................                4-1
+                       Employment of the Mental Health Section .....................................              4-1
+                       Employment of the Optometry Section ..........................................
+
+                       COMBAT HEALTH SUPPORT IN SPECIFIC ENVIRONMENTS ..
+                       Introduction ..........................................................................
+
+ii
+
+
+---
+
+          C1, FM 4-02.6
+
+                                                              Page
+
+          4-2. Jungle Environment ................................................................ 4-1
+          4-3. Mountain Environment............................................................. 4-3
+          4-4. Desert Environment ................................................................ 4-5
+          4-5. Extreme Cold Weather Environment ............................................ 4-8
+          4-6. Nuclear, Biological, Chemical, and Directed-Energy Environments ...... 4-11
+          4-7. Urban Operations ................................................................... 4-12
+          4-8. Combat Health Support During Night Operations ............................ 4-14
+          4-9. Army Special Operations Forces ................................................. 4-17
+
+APPENDIX  A. LAW OF LAND WARFARE AND GENEVA CONVENTIONS
+                      OBLIGATIONS FOR MEDICAL PERSONNEL ...................... A-1
+
+APPENDIX  B. COMBAT HEALTH SUPPORT PLANNING .............................. B-1
+
+Section   I. Combat Health Support Estimate.............................................. B-1
+
+          B-1. General ............................................................................... B-1
+
+          B-2. Responsibilities ...................................................................... B-1
+
+          B-3. Format for the Estimate ............................................................ B-2
+
+          B-4. Sample Format for the Combat Health Support Estimate .................... B-2
+
+Section II. Combat Health Support Plan ................................................... B-9
+
+          B-5. General ............................................................................... B-9
+
+          B-6. Format for the Combat Health Support Plan ................................... B-10
+
+APPENDIX  C. MASS CASUALTY SITUATIONS ............................................ C-1
+
+          C-1. General ............................................................................... C-1
+
+          C-2. Mass Casualty Management....................................................... C-1
+
+          C-3. Triage Categories ................................................................... C-3
+
+          C-4. Control Element ..................................................................... C-4
+
+          C-5. Establishing Triage, Treatment, and Holding Areas .......................... C-5
+
+          C-6. Patient Accountability .............................................................. C-6
+
+          C-7. Medical Evacuation ................................................................. C-7
+
+          C-8. Contaminated Patients .............................................................. C-7
+
+          C-9. Disposition of Remains ............................................................ C-7
+
+APPENDIX  D. MANAGEMENT OF CLASS VIII ITEMS IN THE FORCE XXI
+
+          DIVISION ....................................................................... D-1
+
+          D-1. Class VIII Management ............................................................ D-1
+
+          D-2. Throughput Delivery of Class VIII Items ....................................... D-2
+
+          D-3. Additional Combat Health Logistics Support Information ................... D-2
+
+APPENDIX  E. RECORDS AND REPORTS .................................................... E-1
+
+Section   I. Patient Accountability ............................................................ E-1
+
+          E-1. General ............................................................................... E-1
+
+          E-2. United States Field Medical Card ................................................ E-1
+
+                                                              iii
+
+
+---
+
+C1, FM 4-02.6
+
+                  E-3.  Daily Disposition Log ..............................................................     Page
+                  E-4.  Patient Summary Report ...........................................................
+                  E-5.  Patient Evacuation and Morality Report ........................................           E-2
+    Section II.         Blood Management Report ......................................................            E-4
+                  E-6.  General ...............................................................................   E-4
+                  E-7.  Blood Management Report ........................................................          E-5
+                                                                                                                  E-5
+APPENDIX          F.    THE BRIGADE SUPPORT MEDICAL COMPANY .....................                                 E-6
+      Section      I.   Mission and Organization .......................................................
+      Section   F-1.    Organization, Capability, and Functions ........................................          F-1
+      Section   F-2.    Augmentation ........................................................................     F-1
+      Section     II.   Company Headquarters Section Organization and Function ...........                        F-1
+                F-3.    Company Headquarters Section ..................................................           F-3
+      Section   F-4.    Command Element .................................................................         F-4
+                F-5.    Supply Elements ....................................................................      F-4
+      Section    III.   Employment of the Brigade Support Medical Company .................                       F-6
+      Section   F-6.    Establishment of the Company Headquarters ..................................              F-6
+                F-7.    Preventive Medicine Section ......................................................        F-7
+                F-8.    Mental Health Section ..............................................................      F-7
+                 IV.    The Treatment Platoon ...........................................................         F-8
+                F-9.    General ...............................................................................  F-10
+               F-10.    Treatment Platoon Headquarters .................................................         F-11
+               F-11.    Treatment Squad ....................................................................     F-11
+               F-12.    Area Treatment Squad .............................................................       F-12
+               F-13.    Area Support Squad ................................................................      F-13
+               F-14.    Patient-Holding Squad .............................................................      F-14
+               F-15.    Employment of the Treatment Platoon ..........................................           F-15
+                  V.    The Evacuation Platoon ..........................................................        F-16
+               F-16.    General ...............................................................................  F-18
+               F-17.    Evacuation Platoon Headquarters ................................................         F-18
+               F-18.    Evacuation Squads ..................................................................     F-18
+               F-19.    Employment of the Evacuation Platoon .........................................           F-19
+                 VI.    Medical Logistics Support for the Stryker Brigade Combat Team ....                       F-20
+               F-20.    Medical Logistics Support for Early Entry Operations .......................             F-23
+               F-21.    Functional Medical Logistics Business System ................................            F-23
+                VII.    Medical Logistics Operations ...................................................         F-23
+               F-22.    Routine Class VIII Requisitions ..................................................       F-23
+               F-23.    Emergency Class VIII Requisitions ..............................................         F-24
+               F-24.    Shipment of Class VIII to Stryker Brigade Combat Team                                    F-24
+                                                                                                                 F-24
+               F-25.        Medical Units/Elements .......................................................
+               F-26.    Medical Maintenance ...............................................................      F-25
+               F-27.    Using Other Systems for Reporting and Requisitioning Class VIII ........                 F-25
+                        Blood Management .................................................................       F-25
+                                                                                                                 F-26
+
+iv
+
+
+---
+
+                          C1, FM 4-02.6
+
+          F-28.           Property Exchange..................................................................      Page
+
+APPENDIX G.               TACTICAL STANDING OPERATING PROCEDURE ..................                                 F-26
+                    G-1.  General ...............................................................................
+                    G-2.  Purpose of the Tactical Standing Operating Procedure .......................              G-1
+                    G-3.  Format for the Tactical Standing Operating Procedure ......................               G-1
+                    G-4.  Sample Tactical Standing Operating Procedure (Sections)...................                G-1
+                    G-5.  Sample Tactical Standing Operating Procedure (Annexes) ..................                 G-1
+                                                                                                                    G-2
+APPENDIX H.               CLINICAL STANDING OPERATING PROCEDURE ..................                                  G-3
+                    H-1.  General ...............................................................................
+                    H-2.  Purpose of the Clinical Standing Operating Procedure .......................              H-1
+                    H-3.  Sample Clinical Standing Operating Procedure ................................             H-1
+                                                                                                                    H-1
+APPENDIX  I.              COMMUNICATIONS, AUTOMATION, AND POSITION                                                  H-1
+                              NAVIGATION SYSTEMS ..................................................
+Section   I.                                                                                                         I-1
+                          Communications and Equipment ..............................................                I-1
+          I-1.            General ...............................................................................    I-1
+                          Frequency-Modulated Radios .....................................................           I-1
+          I-2.            Amplitude-Modulated Radios .....................................................           I-2
+                          Ancillary Radio Equipment .......................................................          I-2
+          I-3.            Mobile Subscriber Equipment ....................................................           I-4
+                          Position/Navigation Equipment ...................................................          I-4
+          I-4.            Combat Net Radios ................................................................         I-5
+                          Combat Net Radio Systems .......................................................           I-5
+          I-5.            Radio and Wire Nets ...............................................................        I-6
+                          Automation and Digitization ....................................................          I-11
+          I-6.            Warfighter Information Network .................................................          I-11
+                          Tactical High-Speed Data Network ..............................................           I-12
+Section II.               Medical Company Automation/Digitization Enablers ........................                 I-12
+                          Medical Communications for Combat Casualty Care System
+          I-7.                                                                                                      I-13
+                              Concept ..........................................................................    I-13
+          I-8.            General ...............................................................................   I-14
+                          Medical Digitization of the Combat Brigades ..................................
+Section III.              The Application of Medical Communications for Combat Casualty                             I-15
+                                                                                                                    I-16
+          I-9.                Care in Combat Health Support Echelons of Care ........................
+                          Medical Command and Control Application ...................................                J-1
+          I-10.                                                                                                      J-1
+                          CLEARING STATION OPERATIONS ON URBANIZED                                                   J-1
+          I-11.               TERRAIN .......................................................................        J-2
+
+Section IV.               Employment .........................................................................
+                          Site Selection and Unit Layout ...................................................
+          I-12.           Forward Surgical Team ............................................................
+          I-13.
+          I-14.
+
+          I-15.
+
+APPENDIX  J.
+
+          J-1.
+          J-2.
+          J-3.
+
+                                                                                                                   v
+
+
+---
+
+C1, FM 4-02.6
+
+               J-4.    Mass Casualty Operations .........................................................        Page
+               J-5.    Forward Deployed Medical Treatment, Preventive Medicine, and
+                                                                                                                   J-2
+APPENDIX K.                Medical Evacuation Assets ....................................................
+                                                                                                                   J-2
+               K-1.    MANAGEMENT OF INDIVIDUAL HEALTH RECORDS IN
+               K-2.        THE FIELD.....................................................................         K-1
+               K-3.                                                                                               K-1
+               K-4.    General ...............................................................................    K-1
+               K-5.    Health Records of Deployed Soldiers ...........................................            K-3
+                       Use of Field Files/DD Form 2766 ...............................................            K-3
+               K-6.    Storage of Health Records and Civilian Employee Medical Records ......
+               K-7.    Establishment and Management of the Field File in the Operational                          K-3
+                                                                                                                  K-4
+APPENDIX       L.          Area ...............................................................................   K-5
+                       Health Assessment after Deployment ............................................
+    Section    I.      Field Record Administration after Hostilities Cease ..........................             L-1
+
+    Section     L-1.   CLINICAL GUIDELINES FOR COMBAT CASUALTY CARE ......                                        L-1
+    Section     L-2.   Clinical Guidelines for Physician-Lead, Physician Assistant-Lead,                          L-1
+                L-3.                                                                                              L-1
+                L-4.        and Nursing-Lead Treatment Modules ..................................                 L-1
+                L-5.   General ...............................................................................    L-1
+                       Field Surgeon (62B00 MC)... ....................................................           L-2
+                  II.  Physician Assistant (65D00 SP) ..................................................          L-2
+                L-6.   Medical-Surgical Nurse (66H00 AN) ...........................................              L-2
+                L-7.   Forward Surgical Team ............................................................         L-2
+                L-8.   Health Care Specialists Treatment and Evacuation Modules ...........                       L-4
+                L-9.   The 91W Health Care Specialist .................................................           L-9
+                 III.  Core Competencies of the 91W ..................................................           L-10
+               L-10.   Medical Training ....................................................................     L-10
+               L-11.   Semiannual Combat Medic Skills Validation Test ............................               L-10
+               L-12.   Dental-Lead Treatment and Clinical Diagnostic Support Modules ....                        L-10
+               L-13.   Comprehensive Dental Officer (63B00 DC) ...................................               L-12
+               L-14.   Dental Specialist (91E) .............................................................
+                       Core Competencies/Critical Tasks and Training for the 91E ...............                 L-13
+    Section    L-15.   Radiology Specialist (91P) ........................................................       L-15
+               L-16.   Radiology Specialist/Sergeant Core Competencies, Critical Tasks                           L-16
+               L-17.                                                                                             L-16
+                           and Training .....................................................................    L-17
+                 IV.   Medical Laboratory Specialist (91K) ............................................          L-17
+               L-18.   Core Competencies of the 91K ...................................................          L-17
+               L-19.   Clinical Laboratory Training .....................................................        L-18
+               L-20.   Mental Health Clinical Support Modules ....................................               L-18
+               L-21.   Psychiatrist (60W00 MC) .........................................................
+                       Social Worker (73A67 MS) .......................................................
+                       Clinical Psychologist (73B67 MS) ...............................................
+                       Mental Health Specialist (91X) ...................................................
+
+vi
+
+
+---
+
+                                                  C1, FM 4-02.6
+
+                                                                                                                Page
+
+            L-22. Core Competencies of the 91X ................................................... L-19
+            L-23. Mental Health Specialty Training ................................................ L-19
+Section V. Preventive Medicine Support Modules ....................................... L-20
+            L-24. Preventive Medicine Officer (60C00 MC) ..................................... L-20
+            L-25. Environmental Science Officer (72D67 MS) ................................... L-20
+            L-26. Preventive Medicine Specialist (91S) ............................................ L-21
+Section VI. Optometry Clinical Support Modules ......................................... L-21
+            L-27. Optometry Officer (67F00 MS) .................................................. L-21
+            L-28. Eye Specialist (91WP3) ............................................................ L-22
+            L-29. Core Competencies of the 91WP3 ............................................... L-22
+            L-30. Training for the 91WP3 ........................................................... L-22
+            L-31. Optical Laboratory Specialist (91H10) .......................................... L-24
+
+GLOSSARY ................................................................................................. Glossary-1
+
+REFERENCES ............................................................................................. References-1
+
+INDEX ........................................................................................................  Index-1
+
+                                    PREFACE
+
+      This field manual (FM) provides information on the employment, functions, and operations of
+divisional and nondivisional medical companies of Army of Excellence (AOE) and Army XXI divisions to
+include separate brigades, the Stryker brigade combat team (SBCT), and the armored cavalry regiment. It is
+intended to serve as doctrine and a primary reference publication for medical planners and the medical
+commander and his staff.
+
+      There are three terms used in this manual that have changed and/or been replaced with new terms.
+While Change 1 uses the new terms, the old terms may be seen throughout the manual. Therefore, the
+following terms are synonymous.
+
+OLD                                          NEW
+
+interim brigade combat team (IBCT)  Stryker brigade combat team (SBCT)
+battle fatigue (BF)                 combat operational stress reaction (COSR)
+combat stress control (CSC)         combat and operational stress control (COSC)
+
+      Users of this publication are encouraged to submit comments and recommendations to improve the
+publication. Comments should include the page, paragraph, and line(s) of the text where the change is
+recommended. The proponent for this publication is the United States (US) Army Medical Department
+
+                                                                                                                vii
+
+
+---
+
+C1, FM 4-02.6
+
+Center and School (AMEDDC&S). Comments and recommendations should be forwarded directly to
+Commander, AMEDDC&S, ATTN: MCCS-FCD-L, 1400 East Grayson Street, Fort Sam Houston, Texas
+78234-5052.
+
+      The staffing and organizational structure presented in this publication reflects those established in
+AOE and Force XXI tables of organization and equipment (TOEs). However, such staffing is subject to
+change to comply with manpower requirements criteria and can be subsequently changed by your modified
+table of organization and equipment (MTOE).
+
+      As the Army Medical Department (AMEDD) transitions to the 91W military occupational specialty
+(MOS), positions for 91B and 91C will be replaced by 91W when new unit MTOE take effect.
+
+      This publication implements and/or is in consonance with the following North Atlantic Treaty
+Organization (NATO) Standardization Agreements (STANAGs), American, British, Canadian, and
+Australian (ABCA) Quadripartite Standardization Agreements (QSTAGs), and Air Standardization
+Agreements (AIR STDs).
+
+                                TITLE                       STANAG   QSTAG  AIR STD
+                                                               2087    529
+Medical Employment of Air Transport in the Forward Area
+                                                            2132     470
+Documentation Relative to Medical Evacuation, Treatment
+      and Cause of Death of Patients                        2931
+                                                            3204
+Orders for the Camouflage of the Red Cross and Red
+      Crescent on Land in Tactical Operations                               44/36A
+
+Aeromedical Evacuation                                                      61/71
+
+Aeromedical Evacuation by Helicopter
+
+Selection, Priorities, and Classes of Conditions for Aero-
+      medical Evacuation
+
+      Unless this publication states otherwise, masculine nouns and pronouns do not refer exclusively to
+men.
+
+      Use of trade or brand names in this publication is for illustrative purposes only and does not imply
+endorsement by the Department of Defense (DOD).
+
+viii
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                    CHAPTER 1
+
+                     COMBAT HEALTH SUPPORT SYSTEM
+
+            Section I. OVERVIEW OF COMBAT HEALTH SUPPORT
+
+1-1. General
+
+The combat health support (CHS) system is a continuum from the forward edge of the battle area (FEBA)
+through the continental United States (CONUS) sustainment base. It is a system that provides medical
+management throughout all echelons of care. The challenge is to simultaneously provide medical support to
+mobilizing and deploying forces, establish a CHS system within the theater, and continue to provide health
+care services to the CONUS base. Additionally, there will be a requirement to provide medical support to
+redeployment and demobilization operations at the conclusion of operations. The basic tenets of CHS for a
+Force Projection Army involve strict adherence to AMEDD battlefield rules. These battlefield rules provide
+the basis for the development of medical organizations and force structure. Table 1-1 lists these rules in
+order of precedence.
+
+                                       Table 1-1. Army Medical Battlefield Rules
+
+                                          BE THERE (MAINTAIN A MEDICAL PRESENCE WITH THE SOLDIER)
+                                                           MAINTAIN THE HEALTH OF THE COMMAND
+                                                                                  SAVE LIVES
+                                                           CLEAR THE BATTLEFIELD OF CASUALTIES
+
+                                                         PROVIDE STATE-OF-THE-ART-MEDICAL CARE
+
+                                                    ENSURE EARLY RETURN TO DUTY OF THE SOLDIER
+
+1-2. Theater of Operations
+
+A theater of operations (TO) is that portion of an area of war necessary for military operations and for the
+administration of such operations. The scenario depicts the size of the TO and the US forces to be
+deployed. The theater is normally divided into a combat zone (CZ) and a communications zone (COMMZ).
+The CZ begins at the Army/corps rear boundary and extends forward to the extent of the commander’s area
+of influence. The COMMZ begins at the corps rear boundary and extends rearward to include the areas
+needed to provide support to the forces in the CZ. In some instances, the COMMZ may be outside the TO.
+
+                                                             NOTE
+
+                       The area encompassed by the COMMZ is often referred to as echelons
+                       above corps (EAC), as the COMMZ is no longer routinely established
+                       for all operations.
+
+                                                                                                                               1-1
+
+
+---
+
+FM 4-02.6
+
+1-3. Mission
+
+The mission of the AMEDD is to conserve the fighting strength. This mission is accomplished by providing
+a seamless health care delivery system from the initial point of wounding, injury, or illness, through
+successive echelons of medical care, to a facility that can provide definitive and rehabilitative care for the
+specific illness/injury. Essential care includes resuscitative care and en route care, as well as care to either
+return a patient to duty (within the stated theater evacuation policy) or to begin initial treatment required for
+optimization of outcome and to ensure the patient can tolerate evacuation to the next echelon of care and/or
+out of the TO.
+
+1-4. Echelons of Medical Care
+
+Combat health support is arranged into five echelons of medical care. Each echelon reflects an increase in
+medical capabilities while retaining the capabilities found in the preceding echelon. The TO is normally
+organized into four echelons of support that extend rearward from the FEBA. The fifth echelon is located
+in CONUS. In the TO, CHS is tailored and phased to enhance patient acquisition, treatment, evacuation,
+and return to duty (RTD) as far forward as the tactical situation permits.
+
+         a. Echelon I. Care is provided by designated individuals or elements organic to combat and
+combat support (CS) units and elements of the area support medical battalion (ASMB). Major emphasis is
+placed on those measures necessary to stabilize the patient (maintain airway, stop bleeding, and prevent
+shock) and allow for evacuation to the next echelon of care.
+
+                (1) Echelon I medical care is provided by—
+
+                       • Medical platoons/sections of combat and CS battalions.
+
+                       • Divisional and nondivisional medical companies/troops.
+
+                       • Corps and EAC area support medical companies (ASMCs) and area support medical
+detachments (ASMDs).
+
+                (2) The first medical care a soldier receives is provided at Echelon I. This echelon of care
+includes the following:
+
+                       • Immediate lifesaving measures.
+
+                       • Prevention and treatment of disease and nonbattle injuries (DNBIs).
+
+                       • Combat operational stress control (COSC) preventive measures.
+
+                       • Patient collection.
+
+                       • Medical evacuation from supported units to supporting medical treatment elements.
+
+1-2
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                       • Treatment provided by designated trauma specialists or treatment squads (battalion
+aid stations [BASs]). Major emphasis is placed on those measures necessary for the patient to RTD, or to
+stabilize him and allow for his evacuation to the next echelon of care. These measures include maintaining
+the airway, stopping bleeding, preventing shock, protecting wounds, immobilizing fractures, and other
+emergency measures, as indicated.
+
+                (3) The trauma specialist is assisted in his duties by nonmedical personnel performing first-
+aid procedures. First aid is administered by an individual (self-aid or buddy aid) and by the combat
+lifesaver.
+
+                       (a) Self-aid and buddy aid. Each individual soldier is trained to be proficient in a
+variety of specific first-aid procedures. These procedures include aid for nuclear, biological, and chemical
+(NBC) casualties with particular emphasis on lifesaving tasks. This training enables the soldier or a buddy
+to apply immediate first aid to alleviate a life-threatening situation.
+
+                       (b) Combat lifesaver. The combat lifesaver is a member of a nonmedical unit selected
+by the unit commander for additional training beyond basic first-aid procedures. A minimum of one
+individual per squad, crew, team, or equivalent-sized unit should be trained. The primary duty of this
+individual does not change. The additional duty of the combat lifesaver is to provide enhanced first aid for
+injuries, based on his training before the trauma specialist arrives. The combat lifesaver’s training is
+normally provided by medical personnel assigned, attached, or in direct support (DS) of the unit. The
+training program is managed by the senior medical person designated by the commander.
+
+                (4) Echelon I medical treatment is provided by the trauma specialist or by personnel in the
+BAS/squadron aid station (SAS).
+
+                       (a) Emergency medical treatment (EMT) (immediate far-forward care) consists of those
+lifesaving steps that do not require the knowledge and skill of a physician. The trauma specialist is the first
+individual in the CHS chain who makes medically substantiated decisions based on medical MOS-specific
+training.
+
+                       (b) The physician and the physician assistant (PA) in a treatment squad are trained and
+equipped to provide advanced trauma management (ATM) to the battlefield casualty. Advanced trauma
+management is emergency care designed to resuscitate and stabilize the patient for evacuation to the next
+echelon of care. Each squad can split into two trauma treatment teams. When not engaged in ATM, these
+elements provide routine sick call services on an area basis. Echelon I care for units not having an organic
+capability is provided on an area support basis by the supporting medical element/unit in the AO. Like
+elements provide this echelon of care in divisions, corps, and EAC units.
+
+         b. Echelon II. Care at this echelon is rendered at the clearing station (division or corps). The
+clearing station can be augmented with a forward surgical team (FST), as required, for far forward surgical
+intervention to stabilize a nontransportable patient for further evacuation.
+
+                (1) At the clearing station, the patient is examined and his wounds and general status are
+evaluated to determine his treatment and evacuation precedence, as a single casualty among other casualties.
+
+                                                                                                                               1-3
+
+
+---
+
+FM 4-02.6
+
+Those patients who can RTD within 1 to 3 days are held for treatment. Emergency medical treatment
+(including beginning resuscitation) is continued and, if necessary, additional emergency measures are
+instituted; but they do not go beyond the measures dictated by the immediate necessities. The division
+clearing station has blood replacement capability, limited x-ray and laboratory services, patient-holding
+capability, and operational dental care. The clearing station also provides Echelon I care to those units
+without organic medical elements within its area of responsibility (AOR).
+
+                (2) The FST is a corps augmentation for divisional and nondivisional medical companies
+without an organic surgical capability (paragraph 1-8). The FST provides emergency/urgent initial surgery
+and nursing care after surgery for the critically wounded/injured patient until he is sufficiently stable for
+evacuation to a corps hospital. The FSTs not organic to divisions and regiments will be assigned to a
+medical brigade and normally attached to a corps hospital when not operationally employed. The FST will
+be further attached for support to a divisional/nondivisional medical company. For a detailed discussion on
+the FST, refer to FM 8-10-25.
+
+                (3) Echelon II CHS also includes preventive medicine (PVNTMED) activities and COSC.
+These functions are performed typically by company-sized medical units organic to brigades, divisions, and
+ASMBs.
+
+         c. Echelon III. The first hospital facility, the corps combat support hospital (CSH), is located at
+this echelon. The CSH is staffed and equipped to provide resuscitation, initial wound surgery, and
+postoperative treatment. Patients are stabilized for continued evacuation or RTD. Those patients who are
+expected to RTD within the theater evacuation policy are regulated to an EAC hospital, if present in the TO.
+For detailed information on theater hospitalization, refer to FM 4-02.10 and FM 8-10-14.
+
+         d. Echelon IV. At this echelon, the patient will be treated at the field or general hospital (Medical
+Force 2000) or the EAC CSH (Medical Reengineering Initiative [MRI]). Those patients not expected to
+RTD within the theater evacuation policy are stabilized and evacuated out of theater (refer to FM 4-02.10
+and FM 8-10-15).
+
+         e. Echelon V. This echelon of care is provided in the CONUS. Hospitals in the CONUS
+sustaining base provide the definitive and rehabilitative treatment capability for patients generated within the
+theater. Department of Defense hospitals (military hospitals of the triservices) and Department of Veterans
+Affairs (VA) hospitals are specifically designated to provide the soldier with maximum return of function
+through a combination of medical, surgical, rehabilitative, and convalescent care. Under the National
+Disaster Medical System, patients overflowing DOD and VA hospitals are cared for in designated civilian
+hospitals.
+
+1-5. The Medical Threat and Medical Intelligence
+
+         a. The medical threat is a composite of all ongoing or potential enemy actions and environmental
+conditions that may render a soldier combat ineffective. The soldier’s reduced effectiveness results from
+sustained wounds, injuries, stress, or diseases. The elements of the medical threat include, but are not
+limited to—
+
+1-4
+
+
+---
+
+                                                       FM 4-02.6
+
+• Diseases endemic to the AO.
+
+                •  Environmental and occupational health hazards such as toxic industrial material (TIM),
+heat, and cold.
+
+                • Battle injuries from conventional weapons and weapons of mass destruction (WMD) to
+include NBC warfare agents.
+
+• Physiological and psychological stressors (such as in continuous operations).
+
+• Diseases caused by zoonotic/animal bites.
+
+• Presence of poisonous animals, plants, and insects.
+
+                • Level of compliance with the law of war and the Geneva Conventions requirements
+regarding respect and protection of medical personnel, medical facilities, and transportation means (see
+Appendix A).
+
+         b. In order to develop the CHS estimate and plan (see Appendix B of this publication, FM 8-42,
+and FM 8-55), the CHS planner obtains updated medical intelligence through intelligence and other channels.
+Medical intelligence is the product resulting from the collection, evaluation, analysis, integration, and
+interpretation of all available general health and bioscientific information. Medical intelligence is concerned
+with one or more of the medical aspects of foreign nations or AO. Until medical information is appropriately
+processed (ordinarily on the national level by the Armed Forces Medical Intelligence Center [AFMIC]), it is
+not considered to be intelligence.
+
+         c. For additional information on the medical threat and medical intelligence, refer to FM 8-10-8,
+FM 4-02.17, FM 8-42, and FM 8-55.
+
+1-6. Planning for Combat Health Support
+
+         a. The extended and nonlinear battlefield stretches CHS capabilities to the maximum. It presents
+unprecedented challenges to the CHS planner as well as to the tactical commander. While the responsibility
+for what is or is not done is the tactical commander’s alone, he must rely on his staff and his subordinate
+commanders to execute his decisions. It is imperative that the CHS planner be involved in the initial stages
+of the planning process. A thorough understanding of the tactical commander’s plan is necessary for the
+CHS commander to support the tactical commander during the absence of orders or communications.
+Combat health support planning is an intense and demanding process. The CHS planner must know what
+the organic capabilities of the supported units are and—
+
+                • WHAT each supported element will do.
+
+                • WHEN it will be done.
+
+                                                                                                                               1-5
+
+
+---
+
+FM 4-02.6
+
+                • HOW it will be accomplished.
+                • WHAT threat it faces.
+         b. The CHS planner must foresee actions beforehand to be able to plan for positive and responsive
+support to each element supported. He must be prepared to meet the requirements for—
+                • Medical treatment to include area support (FM 4-02.4 and FM 4-02.24).
+                • Medical evacuation (to include training of nonmedical personnel to serve as litter bearers)
+and medical regulating (FM 8-10-6, FM 8-10-26, and FM 8-55).
+                • Hospitalization (FM 4-02.10, FM 8-10-14, and FM 8-10-15).
+                • Combat health logistics, to include blood management (FM 4-02.1 and FM 8-10-9).
+                • Preventive medicine services (FM 4-02.17, FM 21-10, and FM 21-10-1).
+                • Veterinary services (FM 8-10-18).
+                • Dental services (FM 4-02.19).
+                • Combat operational stress control (FM 6-22.5, FM 8-51, and FM 22-51).
+                • Command, control, communications, computers and intelligence (C4I) (FM 8-10, FM 8-
+10-8, and FM 8-10-16).
+                • Medical laboratory services (FM 8-10).
+         c. To ensure effective support, the CHS planner must stay abreast of the tactical commander’s
+plans and objectives. This ensures that the CHS plan provides the flexibility to meet changes in the CHS
+requirements. To this end, commanders and their staffs must coordinate horizontally and vertically with
+both medical and nonmedical staffs. Commanders must be able to reallocate medical resources as the
+tactical situation changes.
+         d. On the integrated battlefield, medical units can anticipate situations in which large numbers of
+patients are produced in a relatively short period of time. These mass casualty (MASCAL) situations may
+exceed local CHS capabilities. Key factors for effective MASCAL management are on-site triage, EMT,
+effective communications, and skillful evacuation by ground and air resources (refer to Appendix C).
+                • The objective of providing the greatest good for the greatest number is achieved by
+medical units maximizing the use of available resources and prioritizing missions.
+                • To free medical personnel from nonclinical duties, nonmedical personnel may have to
+serve as litter bearers, perform rescue operations, or perform other nonmedical tasks, as required.
+
+1-6
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+         e. Combat health support planning is an intricate process which enables the CHS commander or
+command surgeon to develop the most effective and flexible plan for providing CHS to the tactical
+commander. Appendix B provides a sample of the CHS estimate and the CHS plan. For additional
+information on the planning for CHS, refer to FM 8-42 and FM 8-55.
+
+1-7. Principles of Combat Health Support
+
+         a. Conformity. Conformity with the tactical plan is the most fundamental element for effectively
+providing CHS. Only by participating in the development of the operation plan (OPLAN) can the CHS
+planner ensure adequate support at the right time and the right place.
+
+         b. Continuity. Combat health support must be continuous since an interruption of treatment may
+cause an increase in morbidity and mortality. No patient is evacuated any farther to the rear than his
+physical condition or the military situation requires.
+
+         c. Control. Technical control and supervision of medical assets must remain with the appropriate
+force-level surgeon. Combat health support staff officers must be proactive and keep their commanders
+apprised of the impact of future operations on CHS resources. The CHS system must be responsive to a
+rapidly changing battlefield and must support the tactical OPLAN in an effective manner. The medical
+commander must be able to tailor CHS organizations and direct them to focal points of demand throughout
+his AO. Treatment performed at each echelon of the CHS system must be commensurate with available
+CHS resources. Since these resources are limited, it is essential that their control be retained at the highest
+CHS level consistent with the tactical situation.
+
+         d. Proximity. The location of CHS assets in support of combat operations is dictated by the
+tactical situation (mission, enemy, terrain, troops, time available, and civilian considerations [METT-TC]
+factors), time and distance factors, and availability of evacuation resources. The speed with which medical
+treatment is initiated is extremely important in reducing morbidity and mortality. Medical evacuation time
+must be minimized by the efficient allocation of resources and the judicious location of medical treatment
+facilities (MTFs). The MTFs cannot be located so far forward that they interfere with the conduct of
+combat operations or are subjected to enemy interference. Conversely, they must not be located so far to
+the rear that medical treatment is delayed due to the lengthened evacuation time. Further, the location of
+the MTFs may be affected by the level of conformance to the Geneva Convention protections by the
+combatants.
+
+         e. Flexibility. Since a change in tactical plans or operations may require redistribution or
+relocation of medical resources to meet the changing requirements, no more medical resources should be
+committed nor MTFs established than are required to support expected patient densities. When the patient
+load exceeds the means available for treatment (MASCAL situation), it may be necessary to give priority to
+those patients who can be returned to duty the soonest, rather than those who are more seriously injured.
+This ensures manning of the tactical commander’s weapons systems.
+
+         f. Mobility. Since contact with supported units must be maintained, CHS elements must have
+mobility comparable to that of the units they support. Mobility is measured by the extent to which a unit can
+
+                                                                                                                               1-7
+
+
+---
+
+FM 4-02.6
+
+move its personnel and equipment with organic transportation. When totally committed to patient care, a
+CHS unit can regain its mobility only by immediate patient evacuation.
+
+1-8. Modular Medical Support System
+
+         a. General. The modular medical support system was designed to standardize all medical sub-
+elements in Echelons I and II. The divisional medical companies and Echelon II units in the corps and EAC
+are based on this design. This system enables the medical resources manager to rapidly tailor, augment, re-
+inforce, or regenerate CHS units as needed. This system is designed to acquire, receive, and triage patients
+and to provide EMT and ATM. Combat health support originates in the forward areas (divisions) with the
+trauma specialist (Echelon I). From this point, the patient is evacuated to the BAS (Echelon I) and then to
+the division clearing station (Echelon II). The area support medical company provides Echelons I and II
+CHS on an area support basis to units without organic medical support operating in the corps and EAC.
+
+         b. Modular Medical Support System. The modular medical support system is built around six
+modules. These modules are oriented to casualty collection, treatment, and RTD or evacuation.
+
+                (1) Trauma specialist. The trauma specialist (combat medic) module consists of one trauma
+specialist and his prescribed load of medical supplies and equipment. Trauma specialists are organic to the
+medical platoons or sections of combat and CS battalions and are attached to the companies of the battalions.
+
+                (2) Ambulance squad. An ambulance squad is comprised of two ambulance teams and two
+ambulances. This squad provides patient evacuation and en route medical care throughout the theater
+(division, corps, and EAC). Ambulance squads are organic to the medical platoons and sections in
+maneuver battalions, divisional/nondivisional medical companies, and medical detachments. Ambulances
+of forward supporting medical companies/troops are normally field-sited to BASs/SASs.
+
+                (3) Treatment squad. This squad consists of a primary care physician, a PA, two health care
+noncommissioned officers (NCOs), and four health care specialists. The squad is trained and equipped to
+provide ATM to the battlefield casualty or to treat and return him to duty. To maintain contact with the
+combat maneuver elements, each squad has two vehicles equipped with four field medical equipment set
+(MES): two trauma sets and two sick call sets. Each squad can split into two treatment teams (one team is
+headed by the physician and the other by the PA). These squads are organic to medical platoons or sections
+in maneuver and designated CS units, as well as being the basic building block of medical companies,
+medical troops, and medical detachments.
+
+                (4) Area support squad. This squad is comprised of one dentist trained in ATM, a dental
+specialist, a radiology specialist, and a medical laboratory specialist. This squad is organic to all divisional
+and nondivisional medical companies/troops and detachments.
+
+                (5) Patient-holding squad. This squad consists of one medical-surgical nurse, two health
+care NCOs, and two health care specialists. It is capable of holding and providing minimal care for up to 40
+(20 in the light infantry division) RTD patients. This squad is also organic to all divisional and nondivisional
+medical companies/troops and detachments.
+
+1-8
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                             NOTE
+
+                       When an area support squad, and a patient-holding squad are col-
+                       located, they form the clearing station (Echelon II MTF). This MTF
+                       provides CHS on an area basis to all forces within a geographical
+                       AOR (clearing station). The area support and patient-holding squads
+                       are not capable of independent operations.
+
+                (6) Forward surgical team. The FST is a corps asset and is an augmentation to Echelon II
+CHS. It is also organic to the airborne and air assault divisions and the armored cavalry regiment (ACR).
+The FST provides a rapidly deployable immediate surgery capability. It provides surgical support forward
+in division, separate brigade, and ACR operational areas. This small lightweight surgical module is
+designed to complement and augment emergency treatment capabilities for the brigade-sized task forces
+(TFs). The corps FST is normally attached to the supporting medical company’s higher headquarters and
+collocates with the clearing station. The FST coordinates, through the supported medical company, for
+general support (GS) such as Class I, II, III, and VIII resupply. The team also coordinates through the
+medical company for its security and redeployment. For additional information on the operations and
+functions of the FST, refer to FM 8-10-25.
+
+       Section II. COMBAT HEALTH SUPPORT FUNCTIONAL AREAS
+
+1-9. General
+
+         The CHS continuum encompasses all of the functional areas within the AMEDD. However,
+C4I will not be discussed in this chapter; it is included throughout the manual as appropriate. Within
+the division, the full spectrum of services is provided by a combination of assigned and attached CHS
+resources.
+
+1-10. Medical Treatment
+
+         a. Medical treatment consists of those measures necessary to recover, resuscitate, stabilize, and
+prepare the patient for evacuation to the next echelon of care. The medical treatment functional area
+encompasses Echelons I and II medical treatment. These echelons of care are provided on an area support
+basis from the supporting medical units/elements.
+
+         b. Medical treatment is provided through the use of modular medical elements (paragraph 1-8)
+and units designed to perform specific battlefield medical functions. The composition of each module will
+be identical regardless of where they are employed. This eases the reconstitution burden on the CHS
+system. Echelon I CHS elements provide ATM, routine medical sick call, and limited medical ground
+evacuation. Echelon II medical units duplicate these services in addition to providing limited dental, x-ray,
+and medical laboratory services, and extensive medical ground evacuation services. Other area medical
+
+                                                                                                                               1-9
+
+
+---
+
+FM 4-02.6
+
+support functions include limited optometry, dental support, mental health (MH) and COSC, PVNTMED,
+and limited patient-holding capabilities.
+
+1-11. Medical Evacuation and Medical Regulating
+
+         a. Medical Evacuation. The systematic evacuation of sick, injured, or wounded soldiers within
+US forces has been an evolutionary process. The current organizational design and doctrine are based on
+years of experience and the assimilation of lessons learned. Medical evacuation encompasses—
+
+           • Collecting the wounded for evacuation.
+
+           • Sorting (triage).
+
+           • Providing an evacuation mode.
+
+           • Providing medical care en route.
+
+                •  Anticipating complications and being ready and capable to perform emergency medical
+interventions.
+
+                (1) For medical evacuation, the gaining echelon is responsible for arranging for the
+evacuation of patients from lower echelons of care. For example, Echelon II medical units are responsible
+for evacuating patients from BASs (Echelon I MTFs). Medical evacuation begins when medical personnel
+receive the sick, injured, or wounded soldier and continues as far rearward as the patient’s medical
+condition warrants, or the military situation requires.
+
+                (2) The theater evacuation policy is established by the Secretary of Defense, with the advice
+of the Joint Chiefs of Staff, and upon the recommendation of the theater commander. The policy establishes,
+in days, the maximum period of noneffectiveness (hospitalization and convalescence) that patients may be
+held within the theater for treatment. This policy does not mean that a patient is held in the TO for the
+entire period of noneffectiveness. A patient who is not expected to be ready for RTD within the number of
+days established in the theater evacuation policy is evacuated to CONUS or some other safe haven. This is
+done providing that the treating physician determines that such evacuation will not aggravate the patient’s
+medical condition. For example, a theater evacuation policy of 15 days does not mean that a patient will be
+held in the TO for 14 days and then evacuated. Rather, it means that a patient is evacuated as soon as it is
+determined that he cannot be RTD within 15 days following admission.
+
+                (3) When the medical evacuation system becomes overwhelmed with patients, as in a
+MASCAL situation, nonmedical transportation assets may be required to move the wounded. Prior planning
+to incorporate this requirement into the OPLAN ensures that the use of these assets is integrated with the
+dedicated medical evacuation platforms. When the use of nonmedical transportation assets is planned,
+augmentation medical personnel should be requested to provide medical care en route on these vehicles.
+
+1-10
+
+
+---
+
+                                                                  FM 4-02.6
+
+         b. Medical Regulating. Medical regulating is the coordination and control of evacuating patients
+to MTFs that are best able to provide the required specialty care. This system is designed to ensure the
+efficient and safe movement of patients. Within the division, informal medical regulating is known as
+patient tracking. Medical regulating from the division and patient tracking within the division is the
+responsibility of the division medical operations center (DMOC) for the AOE division; it is the responsibility
+of the division surgeon’s section (DSS) for the Force XXI division. Patient tracking within the division is
+usually operated procedurally so as not to depend solely on communications to effect rapid evacuation. The
+medical regulating function of the DMOC/DSS is concerned primarily with—
+
+           • Tracking the movement of patients throughout the division MTFs and into corps facilities.
+
+           • Monitoring the location of corps air and ground ambulance assets in support of the
+
+division.
+
+                • Coordinating with the corps medical evacuation battalion when additional resources are
+required.
+
+                (1) Corps air and ground ambulances placed in DS of the division are field-sited based on
+METT-TC. Once an evacuation mission is completed, the originating division MTF contacts the patient
+disposition element of the DMOC/DSS and provides patient numbers by category and precedence; departure
+times; modes of transportation; destination MTFs; and any other information required by the tactical
+standing operating procedure (TSOP). The DMOC/DSS, in turn, notifies the medical brigade medical
+regulating office (MRO) via the administration/logistics net.
+
+                (2) Medical evacuation can be effected immediately, procedurally, and under conditions of
+communications silence without interrupting the continuum of care by—
+
+           • Preparing patient estimates.
+
+           • Prioritizing and task organizing ambulance support.
+
+           • Assigning blocks of hospital bed designations prior to the start of a mission.
+
+         c. Additional Information. For additional information on medical evacuation and medical
+regulating, refer to FM 8-10-6 and FM 8-10-26.
+
+1-12. Hospitalization
+
+         a. Corps hospitalization is provided by hospitals subordinate to the corps medical command
+(MEDCOM)/medical brigade. Hospitalization is provided as close as practical to the troops requiring it
+(see FMs 4-02.10 and 8-10-14).
+
+         b. The theater MEDCOM provides hospitalization for Army patients originating in EAC and for
+those received from the CZ. The hospital system at EAC is also comprised of the MRI 248-bed CSH
+
+                                                                                                                              1-11
+
+
+---
+
+FM 4-02.6
+
+(FM 4-02.10). Hospitalization of patients from other Services is provided as directed by higher headquarters.
+Hospitalization requirements must be forecasted so that MTFs can be established in advance of the time they
+are to be occupied.
+
+         c. The CONUS-sustaining base hospitals provide the definitive and rehabilitative treatment
+capability for patients generated within the TO.
+
+         d. Refer to paragraph 1-4e of this publication, FM 4-02.10, FM 8-10-14, and FM 8-10-15 for
+additional information on hospitalization.
+
+1-13. Combat Health Logistics
+
+Combat health logistics (CHL) (to include blood management) is an integral part of the CHS system. Com-
+bat health logistics encompasses the planning and execution of medical supply operations, medical equipment
+maintenance, optical fabrication and repair, contracting services, medical hazardous waste management and
+disposal, production and distribution of medical gases, and blood banking services for Army operations;
+when designated, the Army may provide Class VIII support to the other Services, and during interagency
+and multinational operations. For a detailed discussion of CHL, see FM 4-02.1 and FM 8-10-9.
+
+1-14. Dental Services
+
+Within the theater, dental service support provides operational care, which is composed of emergency
+dental care and essential dental care. Another category, normally found only in fixed facilities in the
+CONUS, is comprehensive care. These categories are not absolute in their limits; they are the general basis
+for the definition of the dental service capabilities available at the different CHS echelons of care.
+
+         a. Operational Care. Care given for the relief of oral pain, elimination of acute infection,
+control of life-threatening oral conditions (hemorrhage, cellulitis, or respiratory difficulty), and treatment of
+trauma to teeth, jaws, and associated facial structures is considered emergency care. It is the most austere
+type of care and is available to soldiers engaged in tactical operations. Common examples of emergency
+treatments are simple extractions, antibiotics, pain medication, and temporary fillings. Essential care
+includes dental treatment necessary to intercept potential emergencies. This type of operational care is
+necessary for prevention of lost duty time and preservation of fighting strength. Soldiers in Dental Class 3
+(potential dental emergencies) should be provided essential care as the tactical situation permits. Soldiers in
+Dental Class 2 (untreated oral disease) should be provided essential care as the tactical situation and
+availability of dental resources permit. The scope of operational care includes restoration, minor oral
+surgery, exodontic, periodontic, and prosthodontic procedures as well as prophylaxis.
+
+         b. Comprehensive Care. Treatment to restore an individual to optimal oral health, function, and
+esthetics is considered comprehensive care. Comprehensive dental care may be achieved incidental to
+providing operational care in individuals whose oral condition is healthy enough to be addressed by the
+category of care provided. This category of care is usually reserved for CHS plans that anticipate an
+extensive period of reception and training in theater. The scope of facilities needed to provide this level of
+dental support could equal that of Echelon III MTFs (see FM 4-02.19).
+
+1-12
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+1-15. Veterinary Services
+
+         a. Veterinary support is an integral part of CHS within a TO. The US Army Veterinary Service
+is designated as the DOD Executive Agent for veterinary services and as such, provides support as required
+for the US Army, US Navy, US Marine Corps, and United States Air Force (USAF). Veterinary support is
+also provided upon request and subject to availability of resources for government-owned animals of other
+federal agencies. In some instances, US veterinary support may also be provided to allies, coalition
+partners, and/or host-nation (HN) agencies. There are no organic veterinary assets within the divisions,
+separate brigades, and ACRs. However, veterinary support is an integral part of the CHS system within the
+TO. Veterinary service within the corps and EAC includes—
+
+                • Food hygiene and quality assurance.
+
+                • Veterinary medical care.
+
+                • Veterinary PVNTMED.
+
+         b. For additional information on veterinary support activities, refer to FM 8-10-18.
+
+1-16. Preventive Medicine Services
+
+Historically, DNBIs have rendered more soldiers combat ineffective than actual battle casualties. Therefore,
+the medical threat (paragraph 1-5) must be recognized, analyzed, and measures taken to combat its effects.
+The medical threat accounts for the vast majority of combat noneffectiveness.
+
+         a. Division, brigade, and regimental surgeons should monitor PVNTMED programs to include
+medical surveillance activities to ensure they are accomplished and/or to initiate programs that are required.
+Assistance with PVNTMED programs can be obtained from the PVNTMED section of medical companies/
+troops or corps-level PVNTMED detachments. Command emphasis is needed to ensure that PVNTMED
+measures are practiced.
+
+         b. The company field sanitation team consists of two soldiers. This team is specially trained by
+PVNTMED personnel in potable water supply, food service sanitation, waste disposal, pest management,
+environmental and occupational health hazards, and TIM hazards. The field sanitation team serves as an aid
+to the unit commander in protecting the health of his command. Through regular inspections, the field
+sanitation team ensures sanitary standards are maintained and PVNTMED measures practiced.
+
+         c. For additional information on PVNTMED doctrine and activities, refer to FM 4-02.17,
+FM 4-02.33, FM 8-50, FM 8-500, FM 21-10, and FM 21-10-1.
+
+1-17. Combat Operational Stress Control Services
+
+         a. Combat operational stress control is a system-oriented program to control stressors and stress
+behaviors. It is coordinated and conducted by MH personnel. Of primary importance in this effort are the
+
+                                                                                                                              1-13
+
+
+---
+
+FM 4-02.6
+
+organic MH sections of divisional medical companies, the medical companies of separate brigades, the
+medical troops of ACRs, the ASMBs, and the MH staffs of the MEDCOM and medical brigade headquarters.
+The organic MH sections are augmented when and where needed by COSC teams from corps-level COSC
+medical companies or detachments.
+
+         b. The mission of COSC team is to assist the command in controlling combat operational stress
+by providing training and consultation in the control of stressors, the promotions of positive combat
+operational stress behavior, and the identification, handling, and the management of battle fatigue (BF)
+soldiers.
+
+         c. Combat operational stress prevention programs reduce the incidence of new combat opera-
+tional stress-related casualties. These programs promote the early recovery and RTD of stress casualties.
+They reduce the cases that could otherwise overload the CHS system.
+
+         d. For additional information on COSC, refer to FM 6-22.5, FM 8-51, and FM 22-51.
+
+1-18. Medical Laboratory Services
+
+Medical laboratory services in a TO are designed to enhance diagnostic capabilities and to identify suspect
+biological warfare (BW) and chemical warfare (CW) agents.
+
+         a. Diagnostic medical laboratory assets analyze body fluids and tissues to determine disease
+processes or to identify microorganisms. The equipment and personnel available are limiting factors in the
+scope of services provided. The sophistication of laboratory services increases at each successive echelon
+of care. Additionally, the management of blood and blood components are critical tasks requiring medical
+laboratory and CHL assets.
+
+                (1) Echelon II is the first level where a laboratory specialist is assigned. Laboratory tests are
+limited to manual procedures such as hematocrit, white blood cell count, urinalysis, and gram staining.
+
+                (2) At Echelons III and IV, laboratory officers and laboratory NCOs are available. A full
+range of laboratory procedures is provided at these echelons. Each has a clinical laboratory to support
+patient care.
+
+         b. The primary mission of the area medical laboratory (AML) focuses on the identification and
+evaluation of health hazards in the AO through accurate field confirmatory laboratory testing of NBC,
+endemic disease, and occupational and environmental agents.
+
+         c. For additional information on medical laboratory capabilities refer to FM 8-10, FM 8-10-7,
+FM 8-10-14, FM 8-10-15, FM 4-02.24, FM 8-43, and FM 8-55.
+
+1-14
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                    CHAPTER 2
+
+                               THE MEDICAL COMPANY
+
+      Section I. THE MEDICAL COMPANY AND DIVISION OVERVIEW
+
+2-1. General
+
+The medical company provides Echelons I and II CHS for soldiers assigned to combat arms, CS, or to
+combat service support (CSS) units. Medical companies are organic to CSS battalions in divisions and
+separate brigades. The division and separate brigade medical companies are assigned to either a main
+support battalion (MSB), a division support battalion (DSB), a forward support battalion (FSB), or a brigade
+support battalion (BSB). The medical troop assigned to the support squadron of an armored cavalry
+regiment performs the same functions as a medical company assigned to an FSB, MSB, DSB, or a BSB.
+
+2-2. Division Overview
+
+         a. The division, either AOE or Force XXI division-digitized, is the largest Army fixed
+organization that trains and fights as a tactical team. Both are organized with varying numbers and types of
+combat, CS, and CSS units. A division may be armored, mechanized infantry, light infantry, airborne, or
+air assault, or it could be comprised of combination of task-organized heavy and light units. Each type of
+division conducts tactical operations across the operational continuum. Divisions are the basic units of
+maneuver at the tactical level. For detailed information on the divisions, refer to FM 71-100, FM 71-100-2,
+and FM 71-100-3.
+
+         b. In all divisions, Echelon II medical care is provided by medical companies. These medical
+companies are assigned to one of the CSS battalions identified above. Depending on their assignment, the
+medical company may be referred to as a forward support medical company (FSMC), a main support
+medical company (MSMC), a division support medical company (DSMC) or brigade support medical
+company (BSMC). In addition to Echelon II, all medical companies provide Echelon I medical care to units
+without organic CHS resources and may also augment Echelon I MTFs that are organic to supported unit.
+In the division, the FSB, MSB, DSB, and the division aviation brigade support (DABS) are assigned to the
+division support command (DISCOM).
+
+2-3. Types of Division
+
+         a. Armored and Mechanized Infantry Divisions
+
+                (1) Army of Excellence. The US Army’s armored and mechanized divisions (referred to
+collectively as heavy divisions) provide mobile, armor-protected firepower. Armored and mechanized
+divisions are normally employed for their mobility, survivability, lethality, and psychological effects on the
+enemy. These divisions destroy enemy armored forces. They can seize and secure land areas and key
+terrain. During offensive operations, armored and mechanized divisions can rapidly concentrate over-
+whelming lethal combat power to break or envelop enemy defenses or offensive formations. These
+divisions then continue the attack to destroy fire support, command and control (C2), and logistics elements.
+
+                                                                                                                               2-1
+
+
+---
+
+FM 4-02.6
+
+Their mobility allows them to rapidly concentrate, attack, reinforce, or block enemy forces. Their collective
+protection systems enable them to operate in an NBC environment. Armored and mechanized divisions
+operate best in open terrain where they gain the advantage with their mobility and long-range, direct-fire
+weapons. Because of strategic lift requirements, armored and mechanized forces are slow to deploy from
+home or staging bases into an area of operations (AO). They have high consumption rates of supplies, can
+deploy relatively few dismounted infantry, and have limited use in restrictive terrain. See FM 71-100 for
+organizational structure of the division.
+
+                (2) Force XXI, Digitized Division. The Army’s Force XXI Division is a redesign of our
+current divisions that represent a leap forward into the realm of 21st Century technology. The smaller
+Force XXI Division possesses greater lethality and quicker mobility, as well as the CSS imperative of
+situational understanding. The digital technological enablers will enhance situational understanding and
+provide the means for information dominance by enabling friendly forces to share a complete common
+relevant picture (CRP). This provides the commanders a CRP while communicating and targeting in real or
+near real-time. Digitization permits the division to conduct operations over an extended battle space by
+increasing the operational areas of responsibility for all maneuver elements. Digitization will decrease
+decision-making time by optimizing the flow of information. This information enables Force XXI
+commanders to quickly mass forces allowing the division to defeat a larger, but less technologically
+advanced enemy. It will contribute increased lethality, survivability, and operational tempo while reducing
+the potential for fratricide.
+
+         b. Light Infantry Division. The light infantry division fights as part of a larger force in conven-
+tional conflicts and conducts missions as part of a joint force in stability operations and support operations.
+Its C2 structure readily accepts any augmentation forces, permitting task organizing for any situation. The
+factors of METT-TC largely determine the augmentations required for the division. The optimum use of
+light forces is as a division under corps control, its mission capitalizing on its capabilities. The division ex-
+ploits the advantages of restricted terrain and limited visibility. It achieves mass through the combined
+effects of synchronized small-unit operations and fires, rather than through the physical concentration of
+forces on the battlefield. Light division forces physically mass only when risk to the force is low and the
+payoff is high. The division deploys as an entity; widely dispersed to conduct synchronized, but decen-
+tralized, operations primarily at night or during periods of limited visibility. Light force limitations include
+their austere CS and CSS systems, and their requirement for support from the corps or joint force head-
+quarters, based on METT-TC. For organizational structure of the light infantry division, see FM 71-100.
+
+         c. Airborne Division. The airborne division can rapidly deploy anywhere in the world to seize
+and secure vital objectives. It conducts parachute assaults to capture initial lodgments, execute large-scale
+tactical raids, secure intermediate staging bases or forward operating bases for ground and air operations, or
+rescue US nationals besieged overseas. It also can serve as a strategic or theater reserve as well as
+reinforcement for forward-presence forces. The airborne division can assault deep into the enemy’s rear
+areas to secure terrain or interdict enemy supply and withdrawal routes. It can seize and repair airfields to
+provide a forward operating base and airheads for follow-on air-landed forces. It is capable of all other
+missions assigned to light infantry divisions. The airborne division uses its strategic and operational
+mobility to achieve surprise on the battlefield. Its aircraft range and its instrumentation capability enable
+the Air Force to accurately deliver the airborne division into virtually any objective area under almost any
+weather condition. All equipment is air transportable; most are airdroppable. All personnel are trained for
+
+2-2
+
+
+---
+
+                                      FM 4-02.6
+
+parachute assaults and airborne operations. Engagements with enemy armored or motorized formations
+require special consideration. The division does not have sufficient armored protection to defeat heavier
+armored formations at close range. Antitank weapons in the division compensate for, but do not completely
+offset, this deficit. For division organizational structure, see FM 71-100.
+
+         d. Air Assault Division. The air assault division combines strategic deployability with tactical
+mobility within its AO. It attacks the enemy deep, fast, and often over extended distances and terrain
+obstacles. The airmobile division of the Vietnam era provided the US Army the operational foundation,
+experience, and tactics for today’s air assault operations. Air assault operations have evolved into combat,
+CS, and CSS elements (aircraft and troops) deliberately task-organized for tactical operations. Helicopters
+are completely integrated into ground force operations. Air assault operations generally involve insertions
+and extractions under hostile conditions, as opposed to mere air movement of troops to and from secure
+locations about the battlefield. Once deployed on the ground, air assault infantry battalions fight like
+battalions in other infantry divisions; however, normal task organization of organic aviation results in
+greater combat power and permits rapid aerial redeployment. The rapid tempo of operations over extended
+ranges enables the division commander to rapidly seize and maintain the tactical initiative. For division
+organizational structure, see FM 71-100.
+
+         e. Medium Division. The medium division consists of one armored brigade, one mechanized
+brigade, and one air assault brigade, and traditional heavy division aviation, CS, and CSS units. The Army
+designed this division to provide commanders operational flexibility with armor lethality and light infantry
+strength in restrictive terrain.
+
+2-4. Forward Support Medical Company
+
+         a. Mission. The FSMCs provide Echelon II medical care to supported maneuver battalions with
+organic medical platoons. They also provide Echelons I and II medical treatment on an area basis to those
+units without organic medical assets operating in the brigade support area (BSA). The FSMC normally
+establishes its treatment facility in the BSA. Also, the FSMCs may deploy its treatment teams that can
+operate independently from the company for limited periods of time.
+
+         b. Capabilities. Each FSMC is organized to provide triage and management of mass casualties,
+ATM, initial resuscitation and stabilization, care for patients with DNBI, and battle wounded and injured
+soldiers. The FSMC also provide intervention for combat and operational stress disorders to include BF
+and preparation of patients for further medical evacuation. The FSMC establishes its MTF/division
+clearing station in the BSA and its capabilities also include—
+
+       (1) Providing routine sick call and consultation services for patients referred from Echelon I
+
+MTFs.
+
+                (2) Providing urgent initial surgery (when it is augmented or has an organic FST for critically
+injured patients).
+
+                (3) Providing ground ambulance evacuation (and/or arrangement for air ambulance evacua-
+tion) for patients from supported aid stations and ambulance exchange points (AXPs).
+
+                                      2-3
+
+
+---
+
+FM 4-02.6
+
+                (4) Operational dental care, which consists of emergency dental care and essential dental
+care intended to intercept potential dental emergencies.
+
+           (5) Class VIII resupply and medical equipment maintenance for supported medical units.
+
+                (6) Medical laboratory and radiology services commensurate with Echelon II/division-level
+treatment.
+
+           (7) Limited blood storage.
+
+                (8) Patient holding for up to 40 patients in an armored or mechanized division and 20
+patients in a light, airborne and air assault division that are able to RTD within 72 hours.
+
+           (9) Limited reinforcement and augmentation to supported maneuver battalion medical
+
+platoons.
+
+                (10) Preventive medicine services/consultation and support (provided by the FSMC under
+Force XXI and the BSMC of the brigade combat team (BCT). Medical surveillance for detection of any
+health hazards that pose a medical threat.
+
+                (11) Mental health/combat operational stress control (COSC) services, to include management
+of BF and stress-related casualties under Force XXI and the BSMC of the BCT TOEs.
+
+         c. Basic Organization. The FSMCs are organized into three basic components: a company
+headquarters, a treatment platoon, and an ambulance platoon (under Force XXI and the BSMC of the BCT
+TOEs, a PVNTMED section and a MH section are assigned). The composition of each of these components
+differs depending on the type of division. Refer to Figures 2-1 (FSMC-heavy), 2-2 (FSMC-light), 2-3
+(FSMC-air assault), and 2-4 (FSMC-airborne) to see the structural differences. Changes to the FSMC in
+Force XXI divisions are noted in Figure 2-5.
+
+         d. Dependency. Forward support medical companies are dependent on appropriate elements of
+the corps, division, and brigade for patient evacuation (including air ambulances), CHS operational planning
+and guidance, and for legal, finance, and personnel and administrative services. It is also dependent on the
+FSB for food service and religious support. All of the divisional FSMCs are dependent on the FSB for
+vehicle maintenance support, except for the FSMC-heavy, which has organic maintenance assets within its
+company headquarters. The FSMCs supporting the Force XXI (digitized) division will require maintenance
+support from their FSBs.
+
+2-5. Organizational Structure of Forward Support Medical Companies
+         a. Forward Support Medical Company-Heavy.
+                (1) The FSMC-Heavy (TOE 08058L1) (Figure 2-1) of the heavy division is organized into a
+
+company headquarters section; a treatment platoon, (organized into a platoon headquarters with two
+
+2-4
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+independent treatment squads; an area support section with an area support squad, an area support treatment
+squad), and a patient-holding squad; and an ambulance platoon. The ambulance platoon employs a platoon
+headquarters with three tracked ambulance squads (six ambulances) and two-wheeled ambulance squads
+(four ambulances).
+
+                (2) For vehicle retrieval and track maintenance, the company headquarters employs a 5-ton
+truck wrecker.
+
+                (3) For rapid mobility of the clearing station, the treatment platoon employs three 5-ton
+expansible vans (one for the area support squad and two for the area treatment squad).
+
+                (4) For communications (see Appendix I), the company employs amplitude-modulated (AM)
+and frequency-modulated (FM) tactical radios, unit-level computers, a manual switchboard with wire
+telephones, and digital nonsecure voice telephones (DNVTs). The company headquarters establishes an
+FM radio net and an internal wire net for C2. It also establishes an AM net capability for reach-back
+support.
+
+           Figure 2-1. Forward support medical company-heavy (TOE 08058L1), forward support
+                                                  battalion, heavy division.
+
+         b. Forward Support Medical Company-Light.
+                (1) The FSMC-Light (TOE 08298L0) (Figure 2-2) of the light division is organized into a
+
+company headquarters section; a treatment platoon organized into a platoon headquarters with two
+                                                                                                                               2-5
+
+
+---
+
+FM 4-02.6
+
+independent treatment squads; an area support section with an area support squad, an area support treatment
+team, and a patient-holding squad; and an ambulance platoon. The ambulance platoon employs a platoon
+headquarters with four-wheeled ambulance squads (eight ambulances).
+
+                (2) For communications (see Appendix I), the company employs AM and FM tactical radios,
+unit-level computers, a manual switchboard with wire telephones, and DNVTs. The company headquarters
+establishes an FM radio net and an internal wire net for C2. It also establishes an AM net capability for
+reach-back support.
+
+            Figure 2-2. Forward support medical company-light (TOE 08298L0), forward support
+                                                   battalion, light division.
+
+         c. Forward Support Medical Company-Air Assault.
+                (1) The FSMC-Air Assault (TOE 08278L0) (Figure 2-3) is organized into a company
+
+headquarters section; a treatment platoon (organized into a platoon headquarters with two treatment squads;
+an area support section with an area support squad, an area support treatment squad and a patient-holding
+squad); and an ambulance platoon. The ambulance platoon employs a platoon headquarters with three-
+wheeled ambulance squads (six ambulances).
+
+                (2) For communications (see Appendix I), the company employs AM and FM tactical radios,
+unit-level computers, a manual switchboard with wire telephones, and DNVTs. The company headquarters
+establishes an FM radio net and an internal wire net for C2. It also establishes an AM net capability for
+reach-back support.
+2-6
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+        Figure 2-3. Forward support medical company-air assault (TOE 08278L0), forward support
+                                               battalion, air assault division.
+
+         d. Forward Support Medical Company-Airborne.
+                (1) The FSMC-Airborne (TOE 08268L0) (Figure 2-4) is organized into a company head-
+
+quarters section; a treatment platoon (organized into a platoon headquarters with two treatment squads; an
+area support section with an area support squad, an area support treatment squad, and a patient-holding
+squad); and an ambulance platoon. The ambulance platoon employs a platoon headquarters with four-
+wheeled ambulance squads (eight ambulances).
+
+                (2) For communications (see Appendix I), the company employs AM and FM tactical radios,
+unit-level computers, a manual switchboard with wire telephones, and DNVTs. The company headquarters
+establishes an FM radio net and an internal wire net for C2. It also establishes an AM net capability for
+reach-back support.
+
+         e. Forward Support Medical Company-Digitized/Force XXI.
+                (1) The FSMC-Digitized (TOE 08158F0) (Figure 2-5) is organized into a company head-
+
+quarters element with a medical logistics (MEDLOG)/medical maintenance capability; a PVNTMED section;
+a MH section; a treatment platoon (organized into a platoon headquarters with one independent treatment
+squad; an area support section composed of an area support squad, an area support treatment squad, and a
+patient-holding squad); and an ambulance platoon, organized into platoon headquarters with three track
+ambulance squads (six ambulances), and two wheeled ambulance squads (four ambulances).
+
+                                                                                                                               2-7
+
+
+---
+
+FM 4-02.6
+
+                (2) For rapid mobility of the clearing station, the treatment platoon employs three 5-ton
+expansible vans (one for the area support squad and two for the area treatment squad).
+
+                (3) For communications, the company employs AM and FM tactical radios, unit-level
+computers, the Force XXI Battle Command Brigade and Below (FBCB2) System (when the system becomes
+available), the Medical Communications for Combat Casualty Care (MC4) System enablers, and a manual
+switchboard. The company headquarters establishes an FM radio net and an internal wire net for C2. It
+also establishes an AM net capability for reach-back support, and its platoons are deployed in the tactical
+internet for situational understanding of its forward deployed assets. The company and its forward
+supporting elements are employed in the tactical internet. For additional information on radios and
+battlefield automation, see Appendix I. See also Appendix F for information on the digitization of the
+medical company.
+
+          Figure 2-4. Forward support medical company-airborne (TOE 08268L0), forward support
+                                                battalion, airborne divisions.
+
+2-8
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+          Figure 2-5. Forward support medical company-digitized (TOE 08158F0), forward support
+                                               battalion, Force XXI division.
+
+2-6. Main Support Medical Company/Division Support Medical Company
+         a. Mission. The mission of the MSMC and DSMC is to provide Echelons I and II medical care
+
+on an area support basis to those units without organic medical assets operating in the division support area
+(DSA). These companies provide C2 for organic and attached medical elements. The MSMC/DSMC
+normally locates in the vicinity of the MSB/DSB headquarters and establishes a division clearing station.
+The MSMC/DSMC may provide treatment teams that can operate independently from the company for
+limited periods of time.
+
+         b. Capabilities. Each MSMC/DSMC is organized to provide care for patients suffering DNBI,
+BF, and trauma injuries. This medical company establishes a division clearing station/company MTF and
+provides the following services:
+
+                (1) Routine sick call services, treatment of patients with DNBIs and BF, triage of MASCALs,
+ATM, initial resuscitation and stabilization, and preparation of patients needing further evacuation.
+
+                (2) Ground ambulance evacuation and arrangement for air ambulance evacuation of patients
+from units supported in the DSA. Also, ground ambulance evacuation for patients from an FSMC if that
+company is unable to hold/treat patients due to its current mission requirements, loss of equipment and
+personnel, or relocating to a new position.
+
+                (3) Operational dental care, which consists of emergency dental care and essential dental
+care intended to intercept potential dental emergencies.
+
+                (4) Limited blood storage.
+                                                                                                                               2-9
+
+
+---
+
+FM 4-02.6
+
+                (5) Class VIII resupply and unit-level medical equipment maintenance for all divisional units
+and corps medical elements supporting the division.
+
+                (6) Medical laboratory and radiology services commensurate with Echelon II/division-level
+treatment.
+
+                (7) Outpatient consultation services for patients referred from unit-level MTFs.
+
+                (8) Patient-holding for up to 40 patients able to RTD within 72 hours.
+
+                (9) Limited reinforcement and augmentation to FSMCs.
+
+                (10) Preventive medicine and environmental health surveillance, inspections, and consultation
+services for the division.
+
+                (11) Neuropsychiatric and MH support and consultation services, to include COSC teams
+and services throughout the division.
+
+                (12) Optometry services to divisional and nondivisional units on area basis.
+
+         c. Basic Organization. The MSMC/DSMC is organized into seven basic components: a company
+headquarters, a treatment platoon, an ambulance platoon, a division medical supply office (DMSO), a
+PVNTMED section, a MH section, and an optometry section. The composition of each of these components
+differs, depending on the type of division.
+
+         d. Dependency. Main support medical companies/DSMCs are dependent on appropriate elements
+of the corps, division and DISCOM for patient evacuation (including air ambulances), CHS operational
+planning and guidance, and for legal, finance, and personnel and administrative services. It is also
+dependent on the FSB/DSB for food service and religious support. All of the divisional MSMCs are
+dependent on the FSB for vehicle maintenance support, except for the FSMC-heavy and the DSMC-Force
+XXI, which have organic maintenance assets within their company headquarters.
+
+2-7. Organizational Structure of Main Support Medical Company/Division Support Medical
+         Company
+
+         a. Main Support Medical Company-Heavy.
+
+                (1) The MSMC-Heavy (TOE 08057L0) (Figure 2-6) of the heavy division is organized into a
+company headquarters section; a DMSO: a PVNTMED section, an optometry section; a MH section; a
+treatment platoon organized into a platoon headquarters with four treatment squads (eight treatment teams),
+an area support section with an area support squad, an area support treatment squad, and a patient-holding
+squad; and an ambulance platoon. The ambulance platoon employs a platoon headquarters and five
+wheeled-ambulance squads (10 ambulances).
+
+2-10
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                (2) For vehicle retrieval and heavy wheeled maintenance, the company headquarters employs
+a 5-ton truck wrecker (heavy division AOE units only).
+
+                (3) For rapid mobility of the clearing station, the treatment platoon employs three 5-ton
+expansible vans (one for the area support squad and two for the area treatment squad).
+
+                (4) For communications (see Appendix I), the company employs AM and FM tactical radios,
+unit-level computers, a manual switchboard with wire telephones, and DNVTs. The company headquarters
+establishes an FM radio net and an internal wire net for C2. It also establishes an AM net capability for
+reach-back support.
+
+                        Figure 2-6. Main support medical company-heavy (TOE 08057L0),
+                                         main support battalion, heavy division.
+
+         b. Division Support Medical Company-Force XXI.
+                (1) The DSMC-Force XXI (TOE 08257F0) (Figure 2-7) is organized into a company
+
+headquarters element with a MEDLOG and medical maintenance capability; a PVNTMED section; a MH
+section; a treatment platoon (organized into a platoon headquarters with a treatment section composed of
+five independent treatment teams, an area support element composed of an area support squad, an area
+treatment squad, and a patient-holding squad); and an ambulance platoon that is organized into a platoon
+headquarters with five wheeled ambulance squads (10 ambulances).
+
+                (2) For rapid mobility of the clearing station, the treatment platoon employs three 5-ton
+expansible vans (one for the area support squad and two for the area treatment squad).
+
+                (3) For communications, the company employs AM and FM tactical radios, unit-level
+computers, the FBCB2 system (when the system becomes available), the MC4 system enablers, and a
+
+                                                                                                                              2-11
+
+
+---
+
+FM 4-02.6
+
+manual switchboard. The company headquarters establishes an FM radio net and an internal wire net for
+C2. It also establishes an AM net capability for reach-back support, and its platoons are deployed in the
+tactical internet for situational understanding of its forward deployed assets. The company and its forward
+support elements (FSEs) are employed in the tactical Internet. For additional information on radios and
+battlefield automation, see Appendix I. See also Appendix F for information on digitization of medical
+company.
+
+                   Figure 2-7. Division support medical company-Force XXI (TOE 08257F0),
+                                     division support battalion, Force XXI division.
+
+         c. Main Support Medical Company-Light.
+                (1) The MSMC-Light (TOE 08297L0) (Figure 2-8) is assigned to the light division. It is
+
+organized into a company headquarters section; a DMSO; a PVNTMED section; an optometry section; a
+MH section; a treatment platoon (organized into a platoon headquarters with two independent treatment
+squads [four treatment teams]; an area support section with an area support squad, an area treatment squad,
+and a patient-holding squad); and an ambulance platoon. The ambulance platoon employs a platoon
+headquarters and four wheeled-ambulance squads (eight ambulances).
+
+                (2) For communications (see Appendix I), the company employs AM and FM tactical radios,
+unit-level computers, a manual switchboard with wire telephones, and DNVTs. The company headquarters
+establishes an FM radio net and an internal wire net for C2. It also establishes an AM net capability for
+reach-back support.
+2-12
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                        Figure 2-8. Main support medical company-light (TOE 08297L0),
+                                          main support battalion, light division.
+
+         d. Main Support Medical Company-Air Assault.
+                (1) The MSMC-Air Assault (TOE 08277L0) (Figure 2-9) is organized into a company
+
+headquarters section; a DMSO; a PVNTMED section; a MH section; and an optometry section. It employs
+a treatment platoon that is organized into a platoon headquarters, an area support section composed of an
+area support squad, an area support treatment squad, an FST (see note below), and a treatment squad (two
+treatment teams). The company’s ambulance platoon employs a platoon headquarters and three-wheeled
+ambulance squads (six ambulances).
+
+                                                             NOTE
+                       Operationally, the air assault FST is deployed forward in DS of a
+                       brigade receiving heavy casualties. It is normally under the technical
+                       control of the division surgeon with tasking through the MSB support
+                       operations section (refer to FM 8-10-25).
+                (2) For communications (see Appendix I), the company employs AM and FM tactical radios,
+unit-level computers, a manual switchboard with wire telephones, and DNVTs. The company headquarters
+establishes an FM radio net and an internal wire net for C2. It also establishes an AM net capability for
+reach-back support.
+
+                                                                                                                             2-13
+
+
+---
+
+FM 4-02.6
+
+                    Figure 2-9. Main support medical company-air assault (TOE 08277L0),
+                                       main support battalion, air assault division.
+
+         e. Main Support Medical Company-Airborne.
+                (1) The MSMC-Airborne (TOE 08267L0) (Figure 2-10) is organized into a company
+
+headquarters section; a DMSO: a PVNTMED section, a MH section; and an optometry section. It employs
+a treatment platoon that is organized into a platoon headquarters, an area support section composed of area
+support squad, an area support treatment squad, an FST (see note below), and two independent treatment
+squads (four treatment teams). The company’s ambulance platoon employs a platoon headquarters and
+four-wheeled ambulance squads (eight ambulances).
+
+                                                             NOTE
+                       Operationally, the airborne FST is deployed forward in DS of a
+                       brigade receiving heavy casualties. It is normally under the technical
+                       control of the division surgeon with tasking through the MSB support
+                       operations section.
+                (2) For communications (see Appendix I), the company employs AM and FM tactical radios,
+unit-level computers, a manual switchboard with wire telephones, and DNVTs. The company headquarters
+establishes an FM radio net and an internal wire net for C2. It also establishes an AM net capability for
+reach-back support.
+2-14
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                     Figure 2-10. Main support medical company-airborne (TOE 08267L0),
+                                        main support battalion, airborne division.
+
+        Section II. MEDICAL COMPANIES IN SEPARATE BRIGADES,
+                ARMORED CAVALRY REGIMENTS, AND INTERIM
+                                BRIGADE COMBAT TEAMS
+
+2-8. Separate Brigade Overview
+         a. Both the staffing and the equipping of separate brigades are geared toward semi-independent
+
+operations. They can serve as planning headquarters for larger reserve forces or major contingency
+operations. Separate brigades normally conduct operations under the corps command. They can also serve
+as division reinforcement for short periods. The headquarters and headquarter companies of separate
+brigades include support elements that would normally be found at division.
+
+         b. Separate brigades conduct operations like the divisional brigade; they can fight directly under
+corps control or perform rear operations, flank security mission operations, or covering force operations.
+They can also serve as the corps reserve, or reinforce a division. Separate brigades also have their own
+cavalry troop, engineer company, military intelligence company, military police platoon, artillery battalion,
+and support battalion for DS CSS with an imbedded medical company. See FM 7-30 and FM 63-1 for
+detailed information on the organization and functions of the different brigades.
+
+                                                                                                                              2-15
+
+
+---
+
+FM 4-02.6
+
+2-9. Medical Company-Heavy Separate Brigade
+
+         a. Mission. Same as paragraph 2-4a above.
+
+         b. Capabilities. Same as 2-4b above.
+
+         c. Basic Organization. This unit is organized into seven basic components: a company head-
+quarters; a treatment platoon; an ambulance platoon; a DMSO; a PVNTMED section; a MH section; and an
+optometry section.
+
+         d. Dependency. The medical company-heavy separate brigade is dependent on appropriate
+elements of the corps for patient evacuation (including air and ground ambulance support from the BSA). It
+is dependent on its brigade and battalion headquarters for CHS operational planning and guidance and for
+legal, finance, and personnel and administrative services. It is also dependent on its parent support battalion
+for food service and religious support.
+
+                                                             NOTE
+
+                       The company has organic maintenance assets within its company
+                       headquarters and should not require unit-level maintenance support.
+
+2-10. Organizational Structure and Tactical Capabilities of the Medical Company-Heavy Separate
+         Brigade
+
+         a. The Medical Company, Heavy Separate Brigade (HSB) (TOE 08437L0) (Figure 2-11) is
+organized into a company headquarters section; a brigade medical supply office (BMSO), a PVNTMED
+section, an optometry section; a MH section; a treatment platoon, and an ambulance platoon. The treatment
+platoon is organized into a platoon headquarters with three treatment squads (six treatment teams), an area
+support section with an area support squad, an area treatment squad, and a patient-holding squad. The
+ambulance platoon employs a platoon headquarters, three M113A1 tracked ambulance squads (six M113A1
+tracked ambulances) and three-wheeled ambulance squads (6-wheeled ambulances) with a combined total of
+12 ambulances.
+
+         b. For vehicle retrieval and heavy-wheeled maintenance, the company headquarters employs a
+5-ton truck wrecker.
+
+         c. For tailgate operations and rapid mobility of the clearing station, the treatment platoon employs
+three 5-ton expansible vans (one for the area support squad and two for the area support treatment squad).
+
+                                                             NOTE
+
+                       The 5-ton truck wrecker and the 5-ton expansible van are also employ-
+                       ed by medical companies (TOE 08438L000 and TOE 08438L100) of
+                       the separate infantry brigade.
+
+2-16
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+         d. For communications (see Appendix I), the company employs AM and FM tactical radios, unit-
+level computers, a manual switchboard with wire telephones, and DNVTs. The company headquarters
+establishes an FM radio net and an internal wire net for C2. It also establishes an AM net capability for
+reach-back support.
+
+         Figure 2-11. Medical company-heavy separate brigade (TOE 08437L0), support battalion,
+                                                   heavy separate brigade.
+
+2-11. Armored Cavalry Regiment Overview
+         a. The ACR is a self-contained combined arms organization composed of armored cavalry
+
+squadrons (ACS), an aviation squadron, a support squadron, and separate CS companies and batteries. The
+ACR is a separate unit that supports the corps or a joint task force (JTF). Corps CS units and divisional
+maneuver battalions often reinforce it. The ACR operates independently over a wide area and at extended
+distances from other units. The ACR is a highly mobile, armored force capable of fighting the fully
+mechanized threat in the environmental states of war or conflict.
+
+         b. Armored cavalry regiments are provided DS CSS by an organic support squadron with an
+imbedded medical troop providing CHS.
+
+         c. See FM 17-95 for additional information on the organization and functions of the ACR. Also,
+see FM 63-1 on the ACR support squadron’s organization and operations.
+
+                                                                                                                              2-17
+
+
+---
+
+FM 4-02.6
+
+2-12. Medical Troop-Armored Cavalry Regiment
+         a. Mission. Same as 2-4a above except it supports the ACR.
+         b. Capabilities. Same as 2-4b above except it has organic mental health and preventive medicine
+
+sections.
+         c. Basic Organization. The medical troop-ACR is organized into seven basic components: a
+
+company headquarters, a treatment platoon, an ambulance platoon, a regimental medical supply office
+(RMSO), a PVNTMED section, and an optometry section.
+
+         d. Dependency. The medical troop-ACR is dependent on appropriate elements of the corps and
+the support squad for patient evacuation (including air ambulance), CHS operational planning, guidance,
+legal, finance, and personnel and administrative services. It is also dependent on the headquarters and
+headquarters troop of the support squad for food service, religious, and vehicle maintenance support.
+2-13. Organizational Structure and Tactical Capabilities of the Medical Troop-Armored Cavalry
+
+         Regiment
+         a. The Medical Troop-ACR (TOE 08489L0) (Figure 2-12) is organized into a troop headquarters
+section; a treatment platoon that is further organized into a platoon headquarters, an area support element
+with an area support squad, two area support treatment squads; an FST, and a patient-holding squad. The
+platoon also employs two independent treatment squads that may be deployed in DS of maneuver squadrons’
+medical platoons. The troop is also organized with a RMSO and an ambulance platoon. The ambulance
+platoon employs a platoon headquarters and six-wheeled ambulance squads (12 ambulances).
+
+       Figure 2-12. Medical troop-ACR (TOE 08489L0), support squadron armored cavalry regiment.
+2-18
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+         b. For communications (see Appendix I), the company employs AM and FM tactical radios, unit-
+level computers, a manual switchboard with wire telephones, and DNVTs. The company headquarters
+establishes an FM radio net and an internal wire net for C2. It also establishes an AM net capability for
+reach-back support.
+
+2-14. Brigade Combat Team Overview
+
+         a. The BCT is a full spectrum, combat force. It has use in all operational environments against
+all projected future threats, but it is designed and optimized primarily for employment in small scale
+contingency operations in complex and urban terrain, confronting low-end and mid-range threats that may
+employ both conventional and asymmetric capabilities. The BCT deploys very rapidly, executes early
+entry, and conducts effective combat operations immediately on arrival to prevent, contain, stabilize, or
+resolve a conflict through shaping and decisive operations. The BCT participates in a major theater war,
+with augmentation, as a subordinate maneuver component within a division or corps and in a variety of
+possible roles. The BCT also participates with appropriate augmentation in stability operations and support
+operations as an interim entry force and/or as a guarantor to provide security for stability forces by means
+of its extensive combat capabilities.
+
+         b. The BCT is a divisional brigade that is strategically responsive, rapidly deployable, agile,
+versatile, lethal, survivable, and sustainable. It is designed to optimize its organizational effectiveness and
+seeks to balance the traditional domains of lethality, mobility and survivability with the domains required
+for responsiveness, deployability, sustainability and a reduced in-theater footprint. It is nontraditional with
+respect to design, the deployment process, and manner of employment. Its two core qualities are high
+mobility (strategical, operational, and tactical) and its ability to achieve decisive action through dismounted
+infantry assault.
+
+         c. Interim brigade combat teams are provided DS CSS by an organic support battalion with an
+imbedded medical company providing CHS.
+
+2-15. Brigade Support Medical Company, Support Battalion, Interim Brigade Combat Team
+
+         a. The BSMC (TOE 084108F0), BSB, BCT provides Echelon II CHS in support of those
+battalions with organic medical platoons. The company also provides both Echelons I and II medical
+treatment to those units deployed without organic medical assets that operating in the BCT’s AO. The
+BSMC provides C2 for its organic elements and may provide operational control (OPCON) of medical
+augmentation elements. The BSMC locates in the vicinity of the BSB headquarters and establishes a brigade
+clearing station/MTF in the BSA.
+
+         b. A complete discussion on the organization and functions of the BSMC is provided in
+Appendix F.
+
+                                                                                                                              2-19
+
+
+---
+
+FM 4-02.6
+
+2-16. Area Support Medical Company, Area Support Medical Battalion (Corps and Echelons
+         above Corps)
+         a. The ASMCs (TOE 08456A0) of the headquarters and headquarters detachment, ASMB (TOE
+
+08457A0) are organized as depicted in Figure 2-13 and perform functions similar to those of divisional and
+other nondivisional medical companies.
+
+         b. The ASMCs are employed primarily in the corps rear and support areas of the EAC/COMMZ.
+They are deployed to a geographical area to provide area CHS, or may be deployed to provide CHS for
+designated units. The ASMCs also establish clearing stations and provide Echelons I and II CHS in a wide
+area (normally, an area or sector of the size established and supported by a corps support group or corps
+support battalion). Medical treatment squads/teams of the ASMCs may be deployed to establish treatment
+stations and provide Echelon I support to concentrations of nondivisional units that do not have organic
+medical capabilities.
+
+         c. A complete discussion on the organization, mission and functions of the ASMC and the ASMB
+is provided in FM 4-02.24.
+
+        Figure 2-13. Area support medical company (TOE 08456A0), area support medical battalion
+                          (TOE 08457A0), medical brigade (corps/echelons above corps).
+
+2-20
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                    CHAPTER 3
+
+                       MEDICAL COMPANY OPERATIONS
+
+             Section I. ORGANIZATION AND FUNCTIONS OF THE
+                                    MEDICAL COMPANY
+
+3-1. General
+
+The mission, assignment, capability, basic organization and dependency of all medical companies were
+discussed in Chapter 2. This chapter provides information on the organizational design of the medical
+company and the functions performed by its subordinate elements in support of the mission.
+
+3-2. Headquarters Section
+
+The company headquarters section is organized into a command element; a support element; a unit supply
+element; a medical supply and medical maintenance element; and an operations and communications
+element. It provides general (unit) supply, medical supply/resupply, arms maintenance, NBC defensive
+operations, and communications-electronics (CE) support to organic and attached elements. For communi-
+cations, the company headquarters employs AM and FM tactical radios, tactical computers, and a manual
+switchboard. Personnel of this section supervise unit operations, general supply, medical supply,
+communications, and power-generation operations.
+
+         a. Command Element. The command element is responsible for providing billeting, security,
+training, administration, and discipline for assigned personnel. This element provides C2 of its assigned
+and attached personnel. It is typically staffed with a company commander, a field medical assistant, and a
+first sergeant (1SG).
+
+                (1) Company commander. Currently, the medical company commander positions are
+documented 05A, AMEDD immaterial, meaning any qualified AMEDD officer can assume command.
+When the medical company/troop commander is not a physician, medical decisions and technical supervision
+of any physician assigned to the medical company/troop is performed by the treatment platoon leader since
+that position is always designated as a physician’s position. The medical company commander keeps the
+support battalion/squadron commander informed on the CHS aspects of battalion/squadron operations and
+the health of the command. He regularly attends headquarters staff meetings to obtain information to
+facilitate the execution of medical operations. He provides staff estimates and assists the headquarters staff
+and the command surgeon’s section/medical planner, as required, with the development of the support
+battalion/squadron and brigade/regiment CHS plan.
+
+                (2) Field medical assistant/executive officer. The field medical assistant/executive officer
+(XO) is the company’s second in command and its primary internal CSS/medical planner and coordinator.
+He and the company headquarters personnel operate the company command post (CP) and net control
+station (NCS) for both radio and digital traffic.
+
+                (3) First sergeant. The 1SG is the company’s senior NCO and normally is its most
+experienced soldier. He is the commander’s primary medical and tactical advisor and he is an expert in
+
+                                                                                                                               3-1
+
+
+---
+
+FM 4-02.6
+
+individual and NCO skills. He is the company’s primary internal CSS operator and helps the commander
+plan, coordinate, and supervise all logistical activities that support the company’s mission. He operates
+where the commander directs or where his duties require him.
+
+         b. Headquarters Support Element. The headquarters support element (in the AOE medical
+company) is normally comprised of the signal support, maintenance specialist, decontamination specialist,
+NBC specialist, and the armorer. These personnel perform those functions for the company in their areas of
+expertise. This element also operates the company switchboard and serves as the company NCS for the
+company’s operations nets’ FM and AM radios.
+
+         c. Unit Supply Elements. The unit supply element, under the supervision of the unit supply
+sergeant, is responsible for managing, requesting, receiving, issuing, storing, and maintaining all classes of
+supplies and turn-in supplies and equipment for the company. It also employs the Unit Level Logistics
+System (ULLS)/Supply Officer (US Army)(S4) (see note below) for automated supply activities. The unit
+supply sergeant coordinates all general supply, equipment requirements, and actions with the 1SG and the
+logistics support operations officer of the parent battalion/squadron.
+
+                                                             NOTE
+
+                       The ULLS/S4 is scheduled to be replaced by the objective Global
+                       Combat Support System-Army (GCSS-A) Supply Property Book
+                       Module.
+
+         d. Medical Supply and Medical Maintenance Element.
+
+                (1) The medical supply element, under the supervision of the MEDLOG sergeant, establishes
+the Class VIII distribution point and manages Class VIII. The MEDLOG sergeant also supervises the
+activities of the MEDLOG specialist and the medical maintenance repairer. He coordinates Class VIII
+requirements through the company XO with the FSB support operations section’s health service support
+officer (HSSO), (in AOE divisions) with the DMSO and (in the Force XXI division) medical materiel
+management center (MMMC) also with the brigade surgeon’s section.
+
+                (2) This medical supply element issues Class VIII supplies to all treatment elements of the
+company, monitors the expiration of perishable medication, and requisitions accordingly. All blood products
+for the company are distributed to the treatment platoon (area support squad medical laboratory [MEDLAB]
+element) for storage, managing, monitoring, and further distribution in the company or to a supporting
+FST. The treatment platoon/MEDLAB element is responsible for the preparation of the blood situation
+report (refer to Appendix E).
+
+                                                             NOTE
+
+                       Blood products are not issued to Echelon I/BAS MTFs.
+
+3-2
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                (3) Medical Maintenance Element. The medical maintenance element consist of one medical
+equipment repairer. He provides operational-level and unit-level medical equipment maintenance/repair for
+the company and supported units.
+
+3-3. Treatment Platoon
+
+The treatment platoon is composed of a platoon headquarters, treatment squads, an area support squad,
+and an area treatment squad. For communications, the platoon employs up to seven tactical radios. The
+digitized medical companies also use FBCB2 and in the future MC4 enablers when fielded for sit-
+uational awareness and understanding and for functional area operations (refer to Chapter 2 and Appen-
+dix F).
+
+         a. Headquarters Element. The platoon headquarters is the C2 element of the platoon. It
+determines and directs the disposition of patients and submits requests through the company CP for their
+evacuation of patients to supporting hospitals. During hasty displacements the treatment platoon headquarters
+is used as an alternate company CP. The headquarters element directs, coordinates, and supervises platoon
+operations. It directs the activities of the clearing station and monitors Class VIII supplies, blood usage and
+inventory levels, and keeps the commander informed. The headquarters element is responsible for the
+management of platoon operations, operations security (OPSEC), communications, medical administration
+(see Appendices E and K), organizational training, supply transportation, patient accountability, statistical
+reporting functions, blood situation reporting. The platoon headquarters element is composed of a platoon
+leader (04, 62B, Medical Corps [MC]), a senior PA (04, 65D, Army Medical Specialist Corps [SP]), a field
+medical assistant (02, 70B67, Medical Service Corps [MS]), a platoon sergeant (E7, 91W40), and a patient
+administration specialist (E4, 91G).
+
+         b. Treatment Squad Elements. The treatment squad element can contain up to four treatment
+squads, depending on the type company assigned. Each squad is composed of a field surgeon (62B, 03,
+MC), a PA (65D, 03, SP), three health care sergeants (one 91W30, E6, and two 91W20, E5), and three
+health care specialists (one 91W, E4, and two 91W, E3). These squads provide emergency and routine sick
+call treatment to soldiers assigned to supported units. The squads can perform their functions while located
+in the company area, or they can operate independently of the medical company/troop for limited periods of
+time. Each squad has the capability to split and operate as separate treatment teams (Teams A and B) for
+limited periods of time. While operating in these separate modes, they may operate up to four treatment
+stations. They can be assigned to reinforce or reconstitute similar treatment squads. These squads can
+operate for up to 48 hours while separated from their parent unit. They are also used to augment the
+clearing station operation during MASCAL situations (see Appendix C). For medical companies/troops
+deployed in the BSA or the regimental support area (RSA), these squads can further be used to—
+
+                • Provide augmentation to maneuver battalion/squadron medical platoons. They can
+routinely be placed under attachment less OPCON to a maneuver battalion.
+
+                • Reinforce/reconstitute maneuver unit medical platoons in TF operations, during periods
+of high patient densities, in areas with a temporary troop concentration (such as marshalling areas), or
+during MASCAL situations.
+
+                                                                                                                               3-3
+
+
+---
+
+FM 4-02.6
+
+                • Facilitate the movement of the clearing station/treatment platoon MTF from one location
+to another. A treatment squad can be echeloned forward to establish an MTF at a new location. The
+echeloning of elements allows the old treatment site to remain operational until the new site is established.
+
+                • Regenerate severely attrited battalion aid stations.
+
+                • Used in conjunction with AXP or positioned at designated points in the ambulance shuttle
+system, when required.
+
+         c. Area Support Squad Elements. The area support squad elements of the treatment platoon are
+composed of an area treatment squad, an area support squad, and a patient-holding squad. These squads
+form the clearing station/medical company. The area support treatment squad provides trauma care and
+routine sick call services to personnel assigned to units located in the supported area of the medical
+company/troop. The area support squad provides operational dental care that include emergency and
+essential dental services, limited laboratory and radiological services, and blood support commensurate with
+Echelon II treatment facilities. The patient-holding squad provides up to 40 cots (40 cots for heavy division
+and 20 cots for light divisions) for patients requiring minimal treatment. Patients held in the patient-holding
+area are those patients who are expected to be RTD within 72 hours from the time they are held for
+treatment.
+
+                                                             NOTE
+
+                       Area support squad elements are not used to reinforce or reconstitute
+                       supported units’ medical elements. Also, they are normally not used
+                       on the area damage control team.
+
+                (1) Area treatment squad. The area treatment squad is identical in personnel and equipment
+as the treatment squads of the treatment section. It is the base medical treatment element of a clearing
+station. It provides sick call services and initial resuscitative treatment (ATM and EMT) for supported
+units. For communications, the squad employs FM radios and is deployed in the medical/troop radio and
+wires communications nets. Also, for communications, the digitized medical companies have an FBCB2
+and when fielded a MC4 capability and can be employed in the tactical Internet for tactical/medical
+situational understanding.
+
+                (2) Area support squad. The area support squad includes the dental and diagnostic support
+elements of the clearing station. The diagnostic element is composed of a MEDLAB and has field radiology
+capability. It provides for basic services commensurate with Echelon II medical treatment. The area
+support squad is typically staffed with a comprehensive dental officer (03, 63B, Dental Corps [DC]), one
+dental specialist (E4, 91E10), one MEDLAB sergeant (E5, 91K20), one MEDLAB specialist (E4, 91K10),
+one radiology sergeant (E5, 91P20), and one radiology specialist (E4, 91P10). The dental officer supervises
+the activities of the area support squad.
+
+3-4
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                             NOTE
+
+                       Only under the Force XXI design is there an additional MEDLAB
+                       specialist and a radiology specialist. The AOE units only have one
+                       MEDLAB specialist and one radiology specialist.
+
+                       (a) Dental element. The dental element provides operational dental care, which consists
+of emergency and essential dental care. Essential dental care is intended to intercept potential dental
+emergencies.
+
+                       (b) Medical laboratory element. The MEDLAB element performs clinical laboratory
+and blood banking procedures to aid physicians and PAs in the diagnosis, treatment, and prevention of
+diseases. Laboratory functions include performing elementary laboratory procedures consistent with the
+Echelon II laboratory capabilities.
+
+                       (c) Radiology element. The radiology element operates radiological equipment
+consistent with the Echelon II x-ray MES. This element performs routine clinical radiology procedures to
+aid physicians and PAs in the diagnosis and treatment of patients.
+
+         d. Patient-Holding Squad. The patient-holding squad operates the holding area of the clearing
+station. The patient holding area is staffed with a medical-surgical nurse (03, 66H, Army Nurse Corps
+[AN]), two health care sergeants (E5, 91W20), and two health care specialists (E4/E3, 91W10). The
+patient holding area is equipped to provide care for up to 40 patients. Normally, only those patients
+awaiting evacuation or those requiring treatment of minor illness or injuries are placed in the patient-holding
+area. Neuropsychiatric patients and BF/stress-related casualties, who are expected to be RTD within 72
+hours, may also be placed in the patient-holding area. The patient-holding squad works under the direct
+super-vision of a physician. The medical-surgical nurse assigned to the patient-holding squad provides
+nursing care supervision. Since Echelon II facilities, such as a medical company or troop, do not have an
+admis-sion capability, patients may only be held at this facility, but are not counted as hospital admissions.
+If recovery or RTD is not expected within 72 hours, the patients are evacuated to a supporting hospital for
+admission.
+
+         e. Organic Forward Surgical Team.
+
+                (1) The FST (TOE 08518LB) is organic to the MSMCs of the airborne/air assault division
+and the medical troop of the ACR. A detailed discussion on the staffing, function, and operation of the FST
+is provided in FM 8-10-25.
+
+                (2) While the FST is located with MSMC (airborne/air assault), it is routinely deployed
+forward to augment the FSMCs based on the division CHS plans and the division surgeon’s recom-
+mendations. Tasking for the FST is accomplished through appropriate command channels.
+
+         f. Corps Forward Surgical Team (TOE 08518LA) Augmentation. When the FST augments a
+FSMC, they will make provisions for the following support of the unit:
+
+                                                                                                                               3-5
+
+
+---
+
+FM 4-02.6
+
+                (1) Triage of trauma patient to be treated at the FST facility.
+
+                (2) Coordination and arrangement for logistical support to include Class I, water, and
+electrical power generation support.
+
+                (3) Medical laboratory support.
+
+                (4) Backup holding support for patients that overflow the FST recovery facility.
+
+                (5) Medical evacuation and tracking of surgical patients seen by the FST.
+
+3-4. Ambulance Platoon
+
+         a. Headquarters. The ambulance platoon headquarters element is staffed with a platoon leader
+(02, 70B, MS) and a platoon sergeant (E7, 91W40). It provides C2 for ambulance platoon operations. The
+ambulance platoon headquarters element maintains communications to direct ground ambulance evacuation
+of patients. It provides ground ambulance evacuation support for supported maneuver battalions/squadrons
+and for supported units operating in the rear areas. The ambulance headquarters element performs route
+reconnaissance and develops and issues graphic overlays to all its ambulance teams. It also coordinates and
+establishes AXPs for both air and ground ambulances, as required. Refer to Appendix F for ambulance
+platoon operations in digitized medical companies.
+
+         b. Ambulance Squads. Ambulance squads provide ground ambulance evacuation of patients
+from supported BASs/unit aid stations back to the clearing station/FSMC MTF that is located in the BSA.
+An ambulance squad consists of two ambulance teams (two ambulances, wheel or tracked vehicles). Each
+wheeled-ambulance team is composed of an emergency care sergeant (E5, 91W20) and an ambulance/aide
+driver (E4, 91W10). A tracked-ambulance team consists of three personnel, one emergency care sergeant
+(91W20)/track commander and two ambulance/aide drivers (91W10). Ambulance squad personnel perform
+EMT, evacuate patients, and provide for their continued care en route. They also operate and maintain
+assigned communication and navigational equipment. Ambulance squad personnel provide the EMT that is
+necessary to prepare patients for movement and also provide en route care. They perform preventive
+maintenance checks and services (PMCS) on ambulances and associated equipment. Ambulance squad
+personnel maintain supply levels for the ambulance MESs. They ensure that appropriate property exchange
+of medical items (such as litters and blankets) is made at sending and receiving MTF.
+
+                                                             NOTE
+
+                       Tracked ambulances are found the armored and mechanized infantry
+                       divisions.The airborne air assault and light infantry have only wheeled
+                       ambulances organic to their medical companies.
+
+3-6
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+3-5. Preventive Medicine Section and Functions
+
+         a. Preventive medicine sections are organic to the MSMC, DSMC, FSMC in the divisions and
+the BSMC of the interim brigade combat team (IBCT) and in the medical company of the heavy separate
+brigade, and the medical troop of the ACR. The PVNTMED section is also found in the ASMB headquarters
+(see FM 4-02.24). The PVNTMED section found in the MSMC and in the ASMB normally have enough
+personnel to staff three PVNTMED teams. Personnel assigned to the MSMC PVNTMED section include a
+PVNTMED officer (04, 60C00, MC), an environmental science officer (03, 72D67, MS), PVNTMED
+NCOs (an E7, 91S40 and an E5, 91S20), and five PVNTMED Specialists (three 91S10 E4s and two
+E3s). The PVNTMED section located in the Force XXI FSMCs and BSMC of the IBCT are staffed with an
+Environmental Science Officer, (02, 72D67, MS) and a PVNTMED Specialist (E4, 91S10).
+
+         b. The PVNTMED section assigned of all medical companies/troops has a primary responsibility
+for supervising the unit’s PVNTMED program as described in AR 40-5. The section ensures PVNTMED
+measures are implemented to protect personnel against food-, water-, and arthropodborne diseases, as well
+as environmental injuries.
+
+         c. The section provides advice and consultation in the area of health threat assessment, force
+health protection, environmental sanitation, epidemiology, sanitary engineering, and pest management.
+Through routine surveillance, they identify actual and potential health hazards, recommend corrective
+measures, and assist in training IBCT personnel in disease prevention programs
+
+         d. Functions of the PVNTMED section include—
+
+                • Assisting the commander in preparing staff estimates by identifying the health threat and
+risk assessments.
+
+                • Assisting the higher headquarters in determining requirements for medical intelligence
+assessments, particularly with respect to toxic industrial chemical and disease prevalence.
+
+                • Assisting units in the training of PVNTMED measures (PMM) against heat and cold
+injuries, as well as food-, water-, and arthropodborne diseases.
+
+                • Coordinate with supporting veterinary teams for conducting and implementing food
+safety and quality assurance surveillance and assisting in foodborne and zoonotic disease surveillance and
+control.
+
+                • Monitoring the division/brigade immunization program.
+
+                • Monitoring and approving the health-related aspects of water and ice sources, to include
+production, distribution, and consumption.
+
+                • Conducting health surveillance of organic and attached units, to include monitoring
+disease and injury incidence to optimize early recognition of disease trends and to initiate preemptive
+disease suppression measures.
+
+                                                                                                                               3-7
+
+
+---
+
+FM 4-02.6
+
+                • Conducting epidemiological investigations of disease outbreaks and recommending PMM
+to minimize effects.
+
+                • Collecting and shipping specimens to the supporting medical laboratory to rule out or
+confirm presence of a medical threat.
+
+                • Coordinating for NBC reconnaissance vehicle to assist with environmental monitoring to
+verify presence of industrial chemical and low-level radiation in the environment.
+
+                • Conducting limited entomological investigation and control measures.
+
+                • Monitoring environmental and meteorological conditions, assessing their health-related
+impact on operations, and recommending PMM to minimize heat or cold injuries, as well as selected
+arthropodborne diseases.
+
+                • Training unit field sanitation teams for assigned or attached units in accordance with
+(IAW) FM 21-10-1.
+
+                • Assessing the effectiveness of field sanitation teams.
+
+                • Conducting routine monitoring and surveillance of all assigned and attached brigade units to
+ensure field sanitation procedures are implemented and to identify any existing or potential medical threats.
+
+                • Monitoring disposal practices/facilities for all classes of waste in the AO.
+
+                • Maintaining technical and tactical proficiency by participating in continuing medical
+education (CME) activities, and Army Training and Evaluation Program (ARTEP)/Common Task Test
+related training.
+
+Additional information pertaining to PVNTMED staff and specific functions is discussed in FM 4-02.17.
+
+3-6. Mental Health Section Operations and Functions
+
+         a. The MH section of the MSMC/DSMC/medical company heavy separate brigade/medical
+troop ACR is the medical element with primary responsibility for assisting units in the supported
+organizations to control combat stress. In the division/heavy separate brigade/ACR, combat stress is
+controlled through vigorous prevention, consultation, and restoration programs. These programs are
+designed to maximize the RTD rate of BF soldiers by identifying combat stress reactions and providing
+rest/restoration within or near their unit areas. Also, the prevention of posttraumatic stress disorders is an
+important objective in both division and corps CSOC programs. For detailed information on CSC operations,
+see FM 8-51.
+
+         b. The mental health section assigned to AOE MSMCs are staffed with a division psychiatrist
+(60W00), a social work officer (03, 73A67, MS), a clinical psychologist (03, 73B67, MS), three mental
+
+3-8
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+health NCOs (91X40/30/20) and two mental health specialists (E4/E3, 91X10). The MH section of the
+Force XXI DSMC is staffed with a division psychiatrist (04, 60W00, MC) and a behavioral science NCO
+(E7, 91X40).
+
+         c. Under the direction of the senior MH officer, the MH sections of the MSMC/DSMC, medical
+company heavy separate brigade/medical troop ACR, and FSMCs provide MH/CSC services throughout
+the operational area. In the Force XXI division, each FSMC also has a MH section.
+
+         d. In maneuver brigades of AOE division, a brigade coordinator (behavioral science NCO) is
+routinely detailed to each FSMC commander to assist with COSC. This NCO works for the brigade
+surgeon under the general supervision of the division psychiatrist. The brigade CSC coordinator routinely
+circulates throughout the brigade to trained and advise supported personnel (see FM 8-51).
+
+         e. The ME section assigned to the Force XXI FSMC and the IBCT BSMC are staffed with a
+behavioral science officer (CPT, 67D00) and a mental health specialist (E4, 91X10).
+
+                (1) The mental health section has a primary responsibility for assisting commanders in
+controlling combat stress by implementing the brigade MH (combat mental fitness program). Also the MH
+section serves as a consultant to the commander, staff and others involved with providing prevention and
+intervention services to unit soldiers and their families.
+
+                (2) The MH section has the staff responsibilities for establishing brigade policy and guidance
+for the prevention, diagnosis, treatment, management, and return to duty of BF and other stress related
+casualties. This is accomplished under the guidance and in close coordination with the brigade surgeon,
+battalion surgeons, and BSMC physicians.
+
+         f. Functions of the Force XXI FSMC MH section and the IBCT BSMC MH section include—
+
+                • Conducting surveys and evaluating data to assess unit cohesion and other factors related
+to prediction and prevention of both BF casualties and misconduct stress behaviors.
+
+                • Identifying and resolve organizational behavioral and social environmental factors that
+interfere with combat readiness.
+
+                • Monitoring indicators of dysfunctional stress in units.
+
+                • Providing consultation and triage as requested for soldiers exhibiting signs of combat
+stress or neuropsychiatric disorders.
+
+                • Coordinating MH and stabilization support for soldiers and for their families from Army
+and civilian community support agencies.
+
+                • Providing counseling to soldiers experiencing emotional or social problems.
+
+                                                                                                                               3-9
+
+
+---
+
+FM 4-02.6
+
+                • Assisting in the evaluation of command referred emotionally and mentally impaired
+soldiers according to Department of Defense Directives 6490.1, Mental Health Evaluation of Members of
+the Armed Forces and 6490.5, Combat Stress Control Program.
+
+           • Conducting critical-event debriefing/diffusing following traumatic events within the
+
+IBCT.
+
+                • Coordinating and/or recommend/assist with getting commanders and staffs involved with
+unit and small group leader-led after action briefings.
+
+                • Providing stress management training to commander, leaders, and individuals for
+recognizing and coping with excessive stress to include leader’s actions for resolving stress related problems
+and individual actions for coping with excessive stress.
+
+                • Providing CSC consultation services for unit commanders and feedback on the status of
+morale, unit cohesion, and adverse trends in their units. Provide recommendations for prevention or
+actions required to ensure positive mission-oriented motivation of unit members and unit cohesion.
+
+                • Conducting and overseeing a three-day unit restoration program for IBCT soldiers
+experiencing BF or other stress related disorders as required according to FM 8-51.
+
+                • Developing TSOPs and TTPs to facilitate the timely acquisition, treatment, disposition
+and or RTD of IBCT soldiers with BF or other stress related disorders.
+
+                • Ensuring patient encounters are recorded in the soldier’s individual health record (HREC)
+and civilian employee medical records (CEMRs) in the field. The governing regulation is AR 40-66. Also
+see Appendix K.
+
+                • Providing predeployment briefings, postdeployment debriefings, and reunion briefings,
+for IBCT personnel and family support groups.
+
+           • Providing combat stress control training and consultation to IBCT medical personnel.
+
+                • Providing MH support in garrison for unit soldiers and families by working with unit
+commanders, chaplains, and other medical personnel or if the mission permits, to augment home station
+Community Mental Health Activity.
+
+                • Providing consultation, training, and support to the brigade’s Alcohol and Drug Pre-
+vention and Control Program.
+
+                • Maintaining technical and tactical proficiency by participating in CME activities, and
+ARTEP/Common Task Test related training.
+
+3-10
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+3-7. Optometry Section Operations and Functions
+         a. The optometry section is assigned to the MSMC, DSMC, and the medical company of
+
+separate brigades. It is normally staffed with two optometry officers (03, 67F), one of which serves as the
+section chief; an eye sergeant, 91W20; one optical laboratory specialist, 91H10; and one eye specialist,
+91W10. The optometry section provides—
+
+                • Optometry services, including routine vision evaluation and refractions.
+                • Evaluation and management of ocular injuries and diseases.
+                • Spectacle frame assembly using presurfaced single-vision lenses.
+                • Spectacle repair services for units within the division.
+         b. The two optometrists assigned to this section independently conduct examinations of the eyes
+using optometric procedures, instruments, and pharmaceuticals, as required. They are responsible for—
+                • Performing eye examinations and prescribing corrective lenses.
+                • Managing ocular diseases and injuries according to medical protocols (established by the
+division surgeon/credentialing committee of the home station medical department activity (MEDDAC).
+                • Examining, evaluating, and referring laser-induced injuries for further ophthalmologic
+care as appropriate.
+                • Providing clinical statistical input through appropriate channel to the command surgeon
+as established by TSOP.
+                • Advising commanders on all matters relating to vision, to include protective eyewear
+(ballistic and laser protection).
+
+  SECTION II. TACTICAL EMPLOYMENT OF THE MEDICAL COMPANY
+
+3-8. Employment of the Medical Company
+The medical company locates with its parent headquarters in the DSA, BSA, or RSA. The medical
+company/troop participates in the initial reconnaissance of a new operational area. It assists with site
+selection for establishment of the units. The company/troop treatment teams may deploy, as required, to
+the geographical locations of supported units. The company/troop headquarters’ element coordinates for
+convoy clearances and security for the movement of treatment teams through its parent support battalion/
+squadron support operations section.
+
+                                                                                                                              3-11
+
+
+---
+
+FM 4-02.6
+
+3-9. Site Selection
+
+         a. Site selection is an important factor impacting on the accomplishment of the unit’s treatment
+mission. Improper site selection can result in inefficiency and possibly danger to unit personnel and
+patients. For example, if there is insufficient space available for ambulances to turnaround, congestion and
+traffic jams in the MTF AO can result; or, if the area selected does not have proper drainage, heavy rains
+may cause flooding in the unit and treatment areas. The optimal land space required for establishment of a
+medical company is approximately 2,500 square meters. This area also includes the helipad and parking
+area requirements. The actual space allotted to the unit will be based on METT-TC and the amount of
+operational space available to the support battalion/squadron.
+
+         b. Medical companies are normally established within a base cluster with other corps, division,
+brigade, or regimental units for security. Although the base cluster provides security, there are certain
+considerations which influence where within the base cluster the medical company/troop is established. The
+senior commander within a base cluster is also the base cluster commander and operates the base cluster
+operations center (BCOC). The medical company coordinates site selection and obtains approval from the
+BCOC prior to the establishment of the company area. The medical company will be competing with other
+CSS units for space and location within the base cluster. Many of the factors, which influence CHS
+operations, will also apply to the other CSS units. It is important, therefore, to stress the unique requirements
+of the medical mission. The BCOC provides guidance on security and briefs the medical company on base
+cluster operating procedures and locations of supported units and elements. Within the base cluster, the
+MTF should not be placed near hazardous materials (such as petroleum, oils, and lubricants (POL) and
+ammunition or storage areas), motor pools, and waste disposal sites. If possible, the MTF should be
+established toward the center, rather than on the perimeter of the base cluster.
+
+         c. Additional site selection criteria include—
+
+                (1) Commander’s plan and mission. The specifics of the OPLAN, the manner in which it
+will be executed, and the unit’s assigned mission can affect the selection of a specific site. The requirements
+for an area that is only to be used for a short period of time can differ significantly from an area that is
+expected to be used on an extended basis. For example, if the medical unit’s mission requires that it re-
+locate several times a day, complete treatment and holding areas will not be established; only essential ser-
+vices, shelters, and equipment will be used. On the other hand, if it is anticipated that the unit will be locat-
+ed at one site for an extended period of time, buildings or preestablished shelters, if available, may be used.
+
+                                                             NOTE
+
+                       Buildings of opportunity should be inspected by the engineers prior to
+                       use as an MTF.
+
+                (2) Routes of evacuation and accessibility. Ground evacuation is the principal means of
+evacuation for patients injured in the forward areas. The MTF must be situated so that it is accessible from
+a number of different directions and/or areas. It should be situated near and be accessible to main road
+
+3-12
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+networks and air corridors, but not placed near lucrative targets of opportunity (such as bridgeheads). The
+site should not be so secluded that incoming ambulances have difficulty locating the MTF.
+
+                (3) Expected areas of patient density. To ensure the timely delivery of CHS, the clearing
+station must be located in the general vicinity of the supported forces (or Echelon I facilities supported).
+Without proximity to the areas of patient density, the evacuation routes will be unnecessarily long, resulting
+in delays in both treatment and evacuation. The longer the distance is that must be traveled, the longer it
+takes for the patient to reach the next echelon of care. Further, this time delay reduces the number of
+ambulances available for clearing the battlefield as a number of ambulances will be in transit to the clearing
+station at any given time.
+
+                (4) Hardstand, drainage, obstacles, and space.
+
+                       • The site should provide good drainage during inclement weather. Care must be
+taken to ensure that the site selected is not in or near a dry river or stream bed, has drainage that slopes
+away from the MTF location and not through the operational area, and that there are not any areas where
+water can pool.
+
+                       • The ground, in the selected area, should be of a hard composition that is not likely
+to become marshy or excessively muddy during inclement weather or temperature changes. This is
+particularly true in extreme cold weather operations where the ground is frozen at night and begins to thaw
+and become marshy during daylight hours. Further, the area must be able to withstand a heavy traffic flow
+of incoming and departing ambulances in various types of weather.
+
+                       • The area selected should be free of major obstacles that will adversely impact on
+the unit layout (such as disrupting the traffic pattern), cause difficulties in erecting shelters (overly rocky
+soil), or require extensive preparation of the area before the MTF can be established.
+
+                       • The space to establish the treatment and administrative areas of the unit is dependent
+upon the mission, expected duration of the operation, and whether NBC operations are anticipated. The site
+must be large enough to permit dispersal of the unit elements and expansion should augmentation be
+required. When fully establishing the site, at least 4 acres of land are required for the treatment and
+administrative areas exclusive of the helipad and motor pool requirements.
+
+                (5) Communications. When establishing communications, the selected site must enable
+communications while minimizing the enemy’s ability to intercept and locate transmissions. See Appendix I
+for communications considerations and procedures.
+
+                (6) Likely enemy targets. The site must not be too closely located to likely enemy targets.
+These include—
+
+                       • Ammunition storage facilities or ammunition transfer points.
+
+                       • Petroleum, oils, and lubricants points.
+
+                                                                                                                              3-13
+
+
+---
+
+FM 4-02.6
+
+                       • Motor pools.
+
+                       • Main supply routes (MSRs) (must be accessible from but not directly next to).
+
+                       • Bridges.
+
+                       • River crossing points.
+
+                       • Strategic towns and cities.
+
+                       • Industrial complexes or factories.
+
+                (7) Cover and concealment. The area should provide maximum cover and concealment
+without hampering mission accomplishment or communications capability. Overhead cover is desirable for
+protection from biological and chemical contamination in the event of an attack.
+
+                (8) Landing sites (zones). The site selected must have sufficient space available to serve as a
+landing site for incoming and outgoing air ambulances. Sufficient space must be allocated for establishing a
+landing site for contaminated aircraft downwind of the unit and treatment areas. Additional site selection
+considerations for a landing site are contained in FM 8-10-6.
+
+                (9) Perimeter security. The site selected should be easily defendable and maximize the use
+of available terrain features and defilade for cover and concealment. The extent of perimeter security
+requirements is dependent upon whether the unit is included in a base cluster (or its placement within the
+base cluster), or if it is solely responsible for its own security. A complete discussion on perimeter security
+and the Geneva Conventions is contained in Appendix A.
+
+                (10) Flow of traffic (patients and vehicles). In establishing the traffic patterns within the unit
+area, three significant areas must be addressed.
+
+                       • The selected site must permit the establishment of the treatment and administrative
+areas in such a manner as to maximize the smooth flow of patients through the triage, diagnostic, and
+holding areas. Using overlapping internal traffic patterns should be minimized.
+
+                       • The external traffic pattern must afford a smooth flow of vehicle traffic through the
+unit area. There must be sufficient space allocated for ambulance turnaround once the patient has been
+delivered to the triage area. Intersections accommodating cross-traffic should be avoided as they present
+the potential for traffic jams and accidents. The flow of traffic should be in one direction only.
+
+                                                 NOTE
+
+           Two-way traffic can cause confusion, particularly when loading and
+           unloading patients.
+
+3-14
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                       • A route from the landing site to the triage area must be established which minimizes
+the distance the patient must be carried and which affords easy access to the treatment area.
+
+                (11) Equipment. Certain pieces of equipment require strategic placement within the company
+area. In selecting the site, the placement of this type of equipment must be considered. For example,
+trailer-mounted, 10 kilowatt generators must be placed in such a manner as to enhance their safe operation
+and to reduce their heat signature and noise level, yet be close enough to unit and treatment areas that the
+limited amount of cable can reach. It is preferable to maximize the use of natural terrain features within the
+site to provide a portion of this shielding rather than having to rely solely on the use of sandbags.
+
+                (12) Decontamination area. The site should be large enough to provide an area for patient
+decontamination. The specific site selected to establish the decontamination station must be downwind of
+the unit and treatment areas.
+
+                (13) Geneva Conventions adherence. The Geneva Conventions (Appendix A) afford the
+medical unit a certain degree of protection from attack. The extent to which the combatants and irregular
+forces on the battlefield are adhering to the provisions of the Geneva Conventions has a bearing on site
+selection in that it may dictate the degree of required security for the unit (refer to Appendix A).
+
+                                   This paragraph implements STANAG 2931.
+
+3-10. Establishing the Company Headquarters
+
+         a. Operational Guidelines.
+
+                (1) The company headquarters must ensure that communications are established with the
+units within the support area. All security precautions and requirements must be met according to higher
+headquarters operating procedures. Only essential equipment is set up to support the medical company
+operations. If the failure to camouflage endangers or compromises tactical operations, the camouflage of
+the MTF may be ordered by a NATO commander of at least brigade level or equivalent. Dispersion of
+tents and equipment is accomplished to the maximum extent possible. A controlled entry into the medical
+company area is established.
+
+                (2) North Atlantic Treaty Organization STANAG 2931 provides for camouflage of the
+Geneva emblem and/or the red crescent on medical facilities where the lack of camouflage might compromise
+tactical operations. The STANAG defines “medical facilities” as medical units, medical vehicles, and
+medical aircraft on the ground. Medical aircraft in the air must display the distinctive Geneva emblem.
+Camouflage of the red cross means covering it up or taking it down. The black cross on an olive
+background is not a recognized emblem of the Geneva Conventions. The command element supervises the
+establishment of the company. The commander monitors all elements as the company sets up. He ensures
+that it is established according to the unit layout plan and the TSOP. The field medical assistant/XO and the
+1SG assist the company commander. The field medical assistant/XO supervises and monitors the
+establishment of the company area for compliance with its parent battalion/squadron TSOP and its higher
+
+                                                                                                                              3-15
+
+
+---
+
+FM 4-02.6
+
+headquarters’ guidance. The field medical assistant/XO coordinates with supporting units/elements for
+short- and long-term support requirements. Both the commander and field medical assistant/XO should
+interface with supported units as soon as possible. This interface includes—
+
+                       • Combat health support requirements (displacement of ambulance and treatment
+teams to remote sites in support of units within the company’s AO).
+
+                       • Sick call services.
+
+                       • Medical evacuation support and procedures.
+
+                       • Dental sick call.
+
+                       • Mass casualty plan.
+
+                       • Nuclear, biological, and chemical patient decontamination support.
+
+                       • Preventive medicine.
+
+                       • Combat stress control.
+
+                       • Medical threat.
+
+                       • Return-to-duty policies/procedures.
+
+                       • Class VIII resupply.
+
+         b. Area Damage Control.
+
+                (1) When NBC patient decontamination support is required, the supported units are
+responsible for providing eight nonmedical personnel to perform patient decontamination (under medical
+supervision). This is accomplished according to FMs 3-5, 8-10-7, and 8-285. The nonmedical personnel
+are identified and trained on patient decontamination procedures with medical company personnel.
+Additional personnel from the base cluster may be trained to transport patients by litter. All Echelon II
+medical companies are authorized three chemical patient treatments and two patient decontamination MESs.
+Each patient chemical treatment MES is stocked with enough supplies to treat 30 patients. Each patient
+decontamination MES is stocked with enough supplies to decontaminate 60 patients.
+
+                (2) The 1SG focuses his attention toward ensuring all unit security requirements are
+accomplished. The 1SG supervises the establishment of the company headquarters and the troop billeting
+areas and monitors field sanitation team activities. The operations element assists in establishing the
+company headquarters. The NBC NCO supervises the company NBC team (detailed company members)
+by monitoring its activities and use of unit NBC-monitoring equipment. He coordinates with the BCOC and
+monitors the placement of early warning devices for the detection of chemical agents. He supervises and
+monitors unit personnel for compliance with correct wear of mission-oriented protective posture (MOPP)
+
+3-16
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+clothing and equipment according to the current MOPP level and TSOP. The NBC NCO coordinates with
+veterinary services in cases of possible NBC contamination of food.
+
+                (3) Unit communications personnel set up communications equipment and establish the NCS
+for the company. They establish contact with the battalion/squadron headquarters and with supporting and
+supported units. They establish the medical company net control for unit assets. Communications personnel
+establish the internal wire communications net. They connect to the mobile subscriber equipment (MSE)
+area system at the wire subscriber access point operated by the area support signal element.
+
+                (4) The supply element establishes both the unit and medical supply area. It ensures that all
+supplies are secured, properly stored, and protected from the environment. It establishes the unit POL and
+water points. The supply element supports the company during establishment and provides additional items
+such as sandbags, tent pegs, and other standard equipment normally associated with establishing the
+company/troop.
+
+         c. Rear Operations.
+
+                (1) Rear operations are actions, including area damage control, taken by units, singly or in a
+concerted effort, to secure and sustain the force, neutralize or defeat enemy operations in the rear area, and
+ensure freedom of action in deep and close operations.
+
+                (2) Medical units are established within base clusters to afford them the protection offered by
+the other combat, CS, and CSS forces. Medical units are limited by the provisions of the Geneva
+Conventions in responding defensively to enemy action. (Refer to Appendix A for additional information
+on self-defense and the defense of patients.)
+
+         d. Mass Casualty Situations. Medical units must be prepared to respond to MASCAL situations
+(see Appendix C) that may arise in the rear area. Thorough planning, effective communications, and
+training and rehearsal of these types of operations are required if they are to be successfully executed.
+
+3-11. Command Post Operations
+
+The company CP is the principal facility employed by the medical company/troop commander to C2 unit
+CHS operations. It is typically staffed with the commander, XO (health services administration assistant/
+medical operations officer), 1SG, and other individuals the commander designates (depending on the
+operation), such as the NBC specialist, and the forward signal specialist.
+
+         a. The commander establishes priorities and defines the level of authority within the CP. The
+extent of operational authority given to members of the CP staff is based on the commander’s desires and
+the staffs’ experience. The exact operational authority is defined in the TSOP. The commander also
+establishes procedures (see TSOP, Appendix G), which clearly identify those CP activities and functions
+that must be accomplished on a routine basis to support the operation and those that require command
+approval. In all situations, the commander will be kept informed.
+
+                                                                                                                              3-17
+
+
+---
+
+FM 4-02.6
+
+         b. During the course of support operations, the CP receives, analyzes, coordinates, and
+disseminates information, which is critical to successfully accomplish the mission. The tools used in the CP
+to facilitate C2 are a journal, a situation map, and an informational display.
+
+                (1) Journal. A journal is an official chronological record of events about a unit or a staff
+section during a given period of time. A journal is prepared and maintained during combat, training
+exercises, other military operations (such as disaster relief or humanitarian assistance operations) and as
+directed by the commander. The journal is maintained on Department of the Army (DA) Form 1594 (refer
+to FM 101-5 for additional information and sample journal entries).
+
+                (2) Situation map. A situation map is a graphic presentation of the current organizational
+situation. A general situation map may be supplemented with one or more overlays showing specific items
+(such as barricades or obstacles). At the company level, one situation map may be used; however, specific
+functional areas may maintain their own specific situation map (such as medical evacuation with preplanned
+CCPs, AXPs, and forward-sited ambulance assets). Situation maps should be updated per the TSOP with
+information obtained from higher headquarters and changes in the tactical situation. Situation maps, as a
+minimum, show—
+
+                       • Symbols as required to portray the friendly and enemy situation (refer to FM 101-
+5-1 for information on guidance on the use of symbols).
+
+                       • Boundaries and frontline trace applicable to the current operations.
+
+                       • Other control measures applicable to the operation (such as phase lines).
+
+                       • Location of CPs for adjacent units, supported units, and higher headquarters.
+
+                       • Location of supported units.
+
+                       • Civilian installations, allied military installations, airfields, seaports, and rail net-
+works, as appropriate.
+
+                (3) Information display. An information display, automated or manual, may be required to
+supplement details contained on the situation map or to make information available that is not suitable for
+posting on the situation map. Information associated with the situation map is located adjacent to it for easy
+viewing and posting. A typical display is in the form of a chart which reflects information such as task
+organization, personnel status, supplies and equipment status, organization and strengths (personnel,
+equipment, and health status) of the unit, and communications status. An information display should follow
+these guidelines:
+
+                       • The commander determines which information will be displayed.
+
+                       • The display readily must show the essential information.
+
+                       • The display must permit prompt changes.
+
+3-18
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                             NOTE
+
+                       A display that is not up to date is misleading and serves no useful
+                       purpose.
+
+         c. The CP must be staffed and equipped for 24-hour operations.
+
+3-12. Employment of the Treatment Platoon
+
+         a. The treatment platoon establishes its elements in accordance with the unit’s TSOP. Platoon
+personnel set up patient treatment and holding areas. Some platoon personnel are detailed, as necessary, to
+assist with unit security and other unit activities associated with establishing and conducting company
+operations. Treatment section personnel assist the platoon with establishing the clearing section and
+preparing for further deployment of treatment teams according to the OPORDs/OPLANs. The platoon
+headquarters element supervises the establishing of platoon operations. The platoon leader directs setup
+operations and supervises the displacement of treatment squads/teams, when necessary. The treatment
+platoon field medical assistant assists the platoon leader in supervising establishment operations and
+coordinates the displacement of treatment squads/teams with company headquarters and supported units.
+He ensures all platoon elements perform PMCS on their assigned equipment and report any deficiencies that
+are not correctable to the platoon leader, who reports them to the company commander. The treatment
+platoon sergeant is responsible for assisting the platoon leader and field medical assistant with establishing
+platoon operations. He ensures that the platoon treatment elements are established according to the TSOP.
+He supports the 1SG by providing platoon personnel to assist with security establishment and other
+operational activities of the company/troop headquarters.
+
+         b. The area support section establishes all treatment areas as directed by the treatment platoon
+leader. A treatment team from the treatment section is tasked with providing medical support for the
+company until the clearing station is established. The area support section is also tasked with clearing and
+marking helicopter landing areas and the ambulance turnaround point.
+
+3-13. Establishing the Clearing Station/Medical Treatment Facility
+
+         a. The term clearing station is the generic term used in designating an Echelon II MTF in the
+BSA/RSA, DSA, corps, and EAC and in support of the separate brigades and ACRs. The medical
+company/troop treatment platoon’s area support section or an area treatment squad operates the MTF. In
+the DSA, ACR RSA, IBCT BSA, and in the separate (corps) BSA, it is collocated with the MH, optometry,
+and PVNTMED sections, the FST, and the Medical Detachment, Telemedicine (MDT) when attached. The
+division/brigade clearing station provide Echelons II medical care. All medical companies have the capability
+to providing both Echelon I and Echelon II care. The DSA clearing station/MTF also serves as the backup
+for the BSA clearing station/MTF. The clearing station/MTF, established by the medical company/troop of
+the separate brigade/ACR provides Echelons I and II medical care to all units operating in its support AO.
+The clearing station established by the ASMC in corps and EAC provides Echelons I and II medical care on
+an area basis for units within its AO (refer to FM 4-02.24).
+
+                                                                                                                              3-19
+
+
+---
+
+FM 4-02.6
+
+         b. When establishing the MTF, sufficient space must be allocated to accommodate the normal
+clinical elements of a medical company/troop, as depicted in Figure 3-1, with a possible augmentation of
+other supporting elements. This augmentation may include a FST (augmented or organic), a MH section, a
+PVNTMED section, and other medical specialty teams or elements that may be METT-TC driven. Some of
+the elements depicted in this layout such as the MH, PVNTMED, and optometry sections are not applicable
+to all medical companies (refer to Chapter 2 for discussions on the organizational structure of medical
+companies).
+
+      Figure 3-1. Suggested layout of a clearing station augmentation.
+
+3-20
+
+
+---
+
+                                                                                       FM 4-02.6
+
+         c. The clearing station is established according to the unit layout and the company TSOP.
+Attached corps medical units normally establish in the vicinity of the clearing station. The clearing station
+maintains its integrity at all times. The area support squad establishes its patient treatment areas according
+to the layout and the TSOP and provides treatment (see Appendix H). The dental treatment facility is
+established adjacent to the clearing station. The dental officer supervises the placement of dental supplies
+and equipment within the dental treatment area. The laboratory element is normally established within the
+clearing station area. Precautions for operating radiological equipment must be observed. Radiation hazard
+areas adjacent to the radiology facility must be clearly marked and blocked so company personnel are
+prevented from crossing. The patient-holding squad sets up the patient-holding area. The patient-holding
+area is normally adjacent to the clearing station. The treatment platoon leader, based on the commander’s
+guidance, troop concentration, and casualty estimates, determines the number of cots set up. If the com-
+mander directs that only 20 cots are to be set up, this may dictate that only one general-purpose large tent be
+erected. In the vicinity near a patient-holding area, a water point, a latrine, and a handwashing area should
+be established for the convenience of those patients being held at this facility. Field surgeons direct the
+activities of the treatment squads. They identify the treatment team tasked with providing medical support
+for the company/troop during movement and establishment of operational procedures. Personnel assigned
+to the area support section are involved in assisting with establishment of the medical platoon area and/or
+preparing for redeployment when required.
+
+         d. Seriously ill or wounded patients arriving at the BSA/RSA clearing station are provided
+medical treatment, initial surgery, if or preparing for redeployment, when required, and stabilized for
+further evacuation. Patients reporting with minor injuries, BF, and illnesses are treated within the capability
+of attending medical personnel. These types of patients are either held for continued treatment for up to 72
+hours; or evacuated to the supporting MTF for further treatment, evaluation, and disposition. Other
+functions of this MTF include—
+
+        • Providing consultation and limited clinical laboratory and radiology diagnostic proce-
+
+dures.
+
+        • Recording all patients seen or treated at the MTF.
+
+                • Verifying the information contained on the US Field Medical Card (FMC) of all patients
+evacuated to the facility.
+
+                •  Monitoring casualties, when necessary, for NBC contamination prior to medical
+treatment.
+
+        • Ensuring decontamination of NBC-contaminated patients is accomplished.
+
+                                                         NOTE
+
+                   Patient decontamination is performed by eight nonmedical personnel
+                   designated by the echelon commander and supervised by medical per-
+                   sonnel. (For additional information, refer to FM 8-10-7.)
+
+                                                                                       3-21
+
+
+---
+
+FM 4-02.6
+
+         e. Evacuation from the clearing station is performed by ground and air ambulances from the
+corps medical evacuation (MEDEVAC) battalion. If a brigade/regiment is operating out of sector, patients
+may require evacuation by USAF assets from its BSA/RSA.
+
+         f. Ammunition and individual weapons, to include sensitive military equipment (electronic
+devices and so forth) belonging to patients to be evacuated further to the rear, are collected and safeguarded
+by the clearing station personnel and returned to the S4 of the supported unit or as directed by the TSOP.
+Patients who are being held at the holding facility but expected to RTD within 72 hours may retain their
+weapons and other equipment, or such equipment can be given to the unit armorer for safekeeping pending
+the patient’s final disposition. Patients traveling to the rear for routine medical consultation will retain their
+individual weapons and equipment, as they will RTD from the rear supporting facility.
+
+         g. For a detailed discussion on the operation of a clearing station on an urbanized terrain, see
+Appendix J.
+
+3-14. Employment of the Ambulance Platoon
+
+Ambulance platoon operations are an essential link in clearing the battlefield of the wounded, thus enabling
+the tactical commander to exercise control over the tactical situation.
+
+         a. The ambulance platoon locates with the treatment platoon for mutual support. The platoon is
+fully mobile in that all of its assets may be totally dispatched at any given time. Each ambulance team
+carries an on-board MES designed for medical emergencies and en route patient care. Ambulances are
+normally pre-positioned with supported units. Ambulances may be dispatched from the BSA to units
+positioned in or near the BSA that are receiving area medical support from the FSMC. The ambulance
+platoon leader and platoon sergeant conduct reconnaissance of the area supported to establish primary and
+alternate evacuations routes, to verify locations of supported units, and to field site ambulance teams as
+necessary.
+
+         b. The platoon leader and platoon sergeant coordinate support requirements with supported units
+for ambulance platoons placed in DS. Ambulance platoon personnel obtain appropriate dispatch and road
+clearances prior to departing company/troop or supported unit areas. He ensures that maps and overlays
+are provided to platoon personnel. If time and fuel permit, the platoon leader or platoon sergeant may take
+ambulance drivers on a rehearsal of the evacuation routes. The platoon leader/sergeant coordinates/
+establishes AXPs as required by the medical evacuation mission.
+
+         c. The DS tracked ambulances are usually positioned forward with the BASs of the maneuver
+battalions. Tracked ambulances normally evacuate patients from aid station back to AXPs where patients
+are placed in a wheeled or air ambulance for further evacuation to the clearing. Wheeled ambulances are
+used as GS for area support missions and for medical evacuation missions where patients do not require the
+added protection that an armored ambulance provides. Ambulance platoon personnel assist with
+establishment of the medical company/troop and provide available personnel as tasked by the 1SG. For
+definitive information on medical evacuation operations, see FM 8-10-6 and FM 8-10-26.
+
+3-22
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+         d. Administratively, it is important that ambulance drivers are well briefed on the tactical situation
+in the area in which they will be providing medical evacuation support. A thorough route reconnaissance
+must be accomplished and strip maps developed before ambulance crews begin medical evacuation
+operations. During the planning process and continuously once the operation has begun, the ambulance
+platoon leader and the medical company/troop commander must prepare casualty estimates for the tactical
+operation to ensure there is sufficient CHS coverage for the operation. The medical evacuation plan should
+include an overlay depicting (at a minimum) the location of supported units, CCPs, Echelon I facilities, and
+AXPs. The platoon leader should also obtain both the CSS and operations overlays for the tactical
+operation. These overlays provide valuable information, such as the location of mine fields, obstacles and
+barriers, artillery target reference points, and air corridors. This information is essential to enhance the
+survivability of the ambulance crews by decreasing incidents of fratricide and enhancing mobility of the
+evacuation assets. The ambulance platoon leader and platoon sergeant must be proficient at map reading,
+terrain analysis, communications, and reading operational graphics (FM 101-5-1) in order to successfully
+accomplish the medical evacuation mission. The ambulance platoon leader establishes his location so that
+he can best control the medical evacuation operation. His location will vary with each tactical operation and
+can include—
+
+                • Combat trains.
+
+                • Casualty collection points.
+
+                • Ambulance exchange points.
+
+                • Relay points or other locations along the ambulance shuttle system.
+
+                • Medical company/troop area.
+
+                • Central location behind supported units.
+
+         e. One of the keys to successfully accomplishing the medical evacuation mission is communi-
+cations and control. It is essential that communications be effective and maintained between the supported
+units, the ambulance assets, the ambulance platoon leadership, and the supporting corps evacuation elements.
+This can be accomplished in a number of ways. Division ambulances are equipped with radios (also, IBCT
+and Force XXI ambulances are equipped with FBCB2 enablers—see Appendix F) that can be used to pass
+MEDEVAC request information and instructions. Supporting corps ambulances, however, may not be
+radio-equipped. Medical evacuation information must, therefore, be passed through medical channels by
+returning ambulances crews, and information is then relayed back through ambulance crews returning to the
+forward areas. The ambulance platoon TSOP must also include procedures concerning how to conduct
+evacuation operations during periods of radio silence. In order for the ambulance platoon leader to ensure
+his assets are being efficiently employed, he must stay abreast of the tactical situation, the tempo of the
+battle, and the areas of patient density.
+
+         f. There are a number of employment options available to the medical commander to ensure
+there is timely and efficient medical evacuation coverage for the units supported and that contact is
+maintained with these units.
+
+                                                                                                                              3-23
+
+
+---
+
+FM 4-02.6
+
+                (1) Forward siting of ambulance assets. The medical company/troop ambulances can be
+forward sited with Echelon I facilities. This provides immediate and responsive support to that facility.
+
+                (2) Use of the ambulance shuttle system. The ambulance shuttle system is an effective and
+flexible method of employing ambulances during combat. It consists of one or more ambulance loading
+points, relay points, and when necessary, ambulance control points, all echeloned forward from the principal
+group of ambulances, the company location, or basic relay points as tactically required. The various points
+within the ambulance shuttle may or may not be manned. If they are staffed, the echelon of care designating
+the point is responsible for providing that support. A detailed discussion of the employment of the
+ambulance shuttle system and its various components is contained in FM 8-10-6.
+
+                (3) Casualty collection points. In intense combat operations, CCPs are established along
+routes where it is anticipated that wounded soldiers traveling to the rear would naturally follow (lines of
+patient drift). These points can be established in areas where terrain canalizes traffic or locations near or
+adjacent to improved roads. In addition to ambulance assets, treatment assets may also be collocated.
+These points may or may not be staffed with EMT and medical evacuation personnel. As with the
+ambulance shuttle system, the echelon of care designating the point is responsible for its staffing.
+
+                (4) Ambulance exchange points. Ambulance exchange points should be located where they
+can best provide the required support to reduce ambulance turnaround time to supported units. Ambulance
+exchange points are a place on the ground where a patient is transferred from one evacuation platform to
+another (such as litter to vehicle; tracked vehicle to wheeled vehicle; ground vehicle to air ambulance) en
+route to an MTF. Their use is extremely important when a tracked vehicle is evacuating patients. As
+tracked vehicles are slower than wheeled vehicles, AXPs should be established as close as possible to the
+supported units to reduce the time and distance requirements for the tracked vehicles. The AXP may be an
+established point in an ambulance shuttle or it may be designated independently.
+
+                       (a) These points may be staffed or unstaffed. Points, which are not staffed, may serve
+as rendezvous points for the rapid transfer of a patient from one transportation mode to another. In most
+cases, these points will not be staffed. An AXP is a predetermined point, which may be activated by such
+events as the passing of phase lines and/or for specific time periods. Ambulance exchange points are moved
+frequently to reduce their signature and enhance the survivability of the ambulance assets.
+
+                       (b) An AXP may serve three battalions/squadrons (FSMC/medical troop); three
+brigades (reinforcing mission) (MSMC/DSMC); or a specific number of nondivisional Echelon I facilities
+(ASMC); therefore, if possible, the AXP should be centrally located to reduce ambulance turnaround and
+enhance the timely execution of the medical evacuation mission. This may not, however, always be
+possible due to terrain or other factors. The distance from the supported Echelon I facilities is also
+dependent upon the terrain, the tactical situation, the type of vehicles being operated (wheeled versus
+tracked), and the type of operation being conducted (offense, defense, or retrograde). Additionally, the
+medical company/troop has an area support mission within the BSA/RSA, DSA, or corps area. All
+ambulance assets cannot be forward sited to units in contact, as sufficient assets must remain in the support
+area to accomplish the area support mission.
+
+3-24
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+3-15. Divisional and Nondivisional Medical Supply Offices
+This section is applicable to the DMSO of AOE MSMCs and Force XXI DSMCs. It is also applicable to the
+medical company of separate brigades and the medical troop of ACRs.
+
+         a. The DMSO, the BMSO, and the RMSO are staffed with the following personnel:
+                • One health service materiel officer (02, 70K67, MS), chief of section.
+                • One MEDLOG sergeant (E7, 91J40, NC); noncommissioned officer in charge (NCOIC)
+
+(E6, 91J30 in BMSO and RMSO).
+                • One pharmacy NCO (E6, 91Q30, NCO).
+                • One MEDLOG sergeant (E5, 91J30, NC) (assigned MSMCs only).
+                • One medical equipment repairer (E4, 91A10).
+                • Two MEDLOG specialists (E4, 91J10) (one assigned BMSC and RMSO).
+                • One MEDLOG specialist (E3, 91J10).
+
+         b. The medical supply office is organized to provide Class VIII supply and unit-level medical
+equipment maintenance for the division/separate brigades/ACR and attached medical units. It executes the
+division/brigade/regimental CHL plan.
+
+         c. The mission of this element is to provide routine and emergency Class VIII resupply, to
+include blood (packed red blood cells) support for Echelon II. Personnel of this section plan, coordinate,
+and manage a variety of functional areas pertaining to technical materiel, equipment, and services used in
+support of the CHL support mission. For definitive information on DMSO employment and operations, see
+FMs 8-10-9 and 4-02.1.
+
+3-16. Employment of the Preventive Medicine Section
+         a. Preventive medicine activities begin prior to deployment to minimize DNBIs. Actions taken
+
+include—
+                • Ensuring command awareness of potential medical threats and implementation of
+
+appropriate protective measures.
+                • Ensuring the deployment of a healthy and fit force.
+                • Monitoring the command’s immunization status (see AR 40-562).
+
+                                                                                                                              3-25
+
+
+---
+
+FM 4-02.6
+
+                •  Monitoring the status of individual and small unit PVNTMED measures (see FMs 21-10
+and 21-10-1).
+
+                • Monitoring PVNTMED measures against heat and cold injuries and food-, water-, and
+arthropodborne diseases (see FMs 4-02.33 and 8-250, Technical Manual [TM] 5-632, Technical Bulletins
+[Medical] [TB MED] 81, 507, 530, and 577).
+
+                • Performing environmental sampling and/or analysis on air, water, and soil to assess for
+any health-related impact.
+
+           • Ensuring training in PVNTMED measures that will assist in countering the medical
+
+threat.
+
+           • Monitoring the use of prophylaxis such as antimalarial tablets.
+
+           • Ensuring adequate unit field sanitation team personnel and supplies.
+
+           • Monitoring, collecting, analyzing and recording medical surveillance data.
+
+         b. The division PVNTMED officer, medical company/troop commander, and PVNTMED
+personnel must be proactive and initiate action on presumptive information to reduce the medical threat
+early. They cannot wait until the incapacitation of troops occurs before taking action; for example—
+
+                • If mosquitoborne diseases are endemic to troop assembly areas and known or suspected
+vectors are present, mosquito control efforts should be initiated.
+
+           • Inadequate sanitation practices must be corrected before the first case of enteric disease
+
+appears.
+
+                • Avoid establishment of bivouac locations on sites that are contaminated with toxic
+industrial chemicals.
+
+         c. It should be anticipated—
+
+           • That sanitation breakdowns will occur while troops are still in debarkation assembly
+
+areas.
+
+           • That soldiers are at risk for arthropod-transmitted diseases upon entry to the AO.
+
+                • That a lack of or delay in implementing preemptive actions can significantly impact on
+the forces ability to accomplish their assigned mission. Refer to FMs 8-250, 21-10, and 21-10-1 for
+additional information.
+
+3-26
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+3-17. Employment of the Mental Health Section
+         a. The MSMC/DSMC commander prioritizes the MH mission based on input from the division
+
+psychiatrist and on the provisions of the division CHS plan. The division psychiatrist is assigned to the
+MSMC/DSMC. The psychiatrist is also a working physician who applies the knowledge and principles of
+psychiatry and medicine in the treatment of all patients. He examines, diagnoses, and treats, or recommends
+courses of treatment, for personnel suffering from emotional or mental illness, situational maladjustment,
+combat stress reaction, BF, and misconduct stress behaviors.
+
+         b. Personnel assigned to the MH section assist the division psychiatrist with the accomplishment
+of his duties. They may perform as CSC coordinators for selected units in the division rear. Mental health
+personnel will also assist with and provide COSC training to—
+
+                • Small-unit leaders.
+                • Unit ministry teams and staff chaplains.
+                • Battalion medical platoons.
+                • Patient-holding squad and treatment squad personnel of medical companies.
+
+3-18. Employment of the Optometry Section
+The optometry section normally establishes its operations in the clearing station. Patients seen by this
+section are normally referred from units and MTFs within the supported area. The optometry sections can
+form two teams with the capability of projecting services into areas of large troop concentrations. All
+eyewear fabrications or repairs beyond the scope of the section’s capability are sent to the supporting
+MEDLOG battalion.
+
+                                                                                                                              3-27
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+                                                    CHAPTER 4
+
+   COMBAT HEALTH SUPPORT IN SPECIFIC ENVIRONMENTS
+
+4-1. Introduction
+
+         a. Combat health support is limited when operating in areas of adverse environmental conditions
+or terrain hazards. In these environments, medical units may require special purpose equipment, which is
+not normally included in their TOE, or additional quantities of authorized equipment. This equipment can
+include, but is not limited to, such items as—
+
+                • Mountain climbing gear.
+
+                • Cold weather bags for the protection of patients.
+
+                • Extra tentage.
+
+                • Modified transportation platforms.
+
+                • Bed nets.
+
+         b. Of equal importance, special handling techniques, increased maintenance, and protection from
+the environmental hazards may be required for personnel, supplies, and equipment.
+
+         c. This chapter discusses CHS operations, including ground ambulance operations; in specific
+operations; only slight reference is made to air ambulance operations. For an in-depth discussion of air and
+ground ambulance operations in these environments, refer to FMs 8-10-6 and 8-10-26.
+
+4-2. Jungle Environment
+
+         a. Difficult terrain, widely dispersed combat units, inadequate road networks, and unsecured
+lines of communications (LOCs) all have a direct effect on CHS in jungle operations. The jungle
+environment degrades the ability to maneuver. The manner in which CHS is provided in this environment
+depends on how the tactical units are employed. Wide variations may be expected, but the general
+principles of providing CHS apply.
+
+         b. Jungle combat operations are characterized by ambushes and other guerrilla-type operations.
+The security threat caused by infiltrators requires that LOCs be patrolled often and that convoys be
+escorted. It is, therefore, essential that CHS be performed as far forward as the tactical situation permits.
+Deploying assets forward—
+
+                • Improves response time.
+
+                • Reduces road movement.
+
+                • Allows the CHS elements to take advantage of the security offered by combat units.
+
+                                                                                                                               4-1
+
+
+---
+
+FM 4-02.6
+
+         c. Special planning considerations for operations in the jungle environment include the following:
+
+                • Evacuation. Thick and remote jungles often require that evacuation be accomplished by
+litter. In the jungle, even slightly wounded soldiers may find it impossible to walk through the dense
+undergrowth. This requires that they be evacuated on a litter until easier terrain is reached. This, in effect,
+raises the number of patients who require evacuation by litter. Litter evacuation is a labor-intensive activity
+that quickly exhausts the litter bearers. At best, litter teams can carry patients only a few hundred yards
+over rough terrain before becoming exhausted and requiring rest or relief. Litter carries should be kept as
+short as possible and maximum use of air ambulances equipped with rescue hoists and jungle penetrators
+should be made.
+
+                • Water. Water is vital in the jungle; it is also plentiful. Water from natural sources,
+however, should be considered contaminated. Water purification procedures must be taught to all soldiers.
+The high humidity and heat present in the jungle environment requires all leaders to ensure that a water
+discipline program is established and enforced. The consumption of inadequate amounts of water will
+lead to dehydration and heat injuries. The human body cannot adjust to less water; hydration must be
+continuous.
+
+                • Clothing and personal protective equipment and supplies. Because of the tropical climate,
+units should pack hot weather clothing when deploying to jungle areas. Jungle fatigues and boots are
+recommended. The bed net, insect (arthropod) repellent, and sunscreen must be issued to all soldiers
+operating in this environment.
+
+                • Disease and nonbattle injuries. The jungle environment is ideal for the transmission of
+large numbers of diseases. The rate of DNBI casualties is potentially the highest in this climate. The heat,
+humidity, and terrain places the troops at a high risk for dehydration, heat injury, skin diseases, endemic
+diseases, and immersion syndrome. Cold injury and especially hypothermia are a risk in cool (night) times
+because wet, hot weather clothing loses its insulating value. Small wounds can rapidly become infected and
+lead to the loss of effectiveness and possibly require medical evacuation. High standards of personal
+hygiene must be taught, encouraged, and maintained by the command. Mosquitoes and other arthropods
+that carry disease flourish under jungle conditions. Use of all PVNTMED measures must be ensured.
+Poisonous plants, animals, arthropods, large predators, and reptiles can cause casualties. Foodborne and
+waterborne diseases leading to diarrhea or other symptoms abound. Food service sanitation measures must
+be strictly followed. For additional information on PVNTMED measures, refer to FMs 4-02.17, 4-02.21,
+21-10, and 21-10-1.
+
+                • Combat Operation Control. The jungle restricts vision and hearing, causes discomfort
+and poor hygiene, and evokes a sense of threat from poisonous plants, animals, reptiles, enemy ambush,
+and fear of becoming lost. Battle fatigue rates are high until troops gain jungle fighting and survival skills.
+For an in-depth discussion on COSC, refer to FMs 8-51 and 22-51.
+
+                • Training. Medical Personnel deployed to a jungle environment should be trained in
+survival and support techniques. Training (both initial and sustainment) should be conducted on—
+
+                       • Hot weather acclimatization and survival.
+
+4-2
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+                       • Prevention, early detection, and treatment of arthropodborne, foodborne, and
+waterborne diseases.
+
+                       • Land navigation.
+
+                       • Field sanitation and other PVNTMED measures.
+
+                       • Care and maintenance of equipment and supplies.
+
+                       • Local plants, animals, reptiles, and arthropods that pose a medical threat.
+
+                • Equipment and supplies. Due to the increased heat and humidity, vehicles and equipment
+require additional maintenance. Equipment tends to rust quickly and must be cleaned and oiled more
+frequently. Canvas items rot, and rubber deteriorates much faster than in more temperate climates. Class
+VIII supplies (to include blood) are both environmental and time sensitive. These supplies must be correctly
+stored at the appropriate temperature and used before their expiration date. Improper storage and handling
+result in these supplies becoming unusable.
+
+         d. For additional information on medical evacuation jungle operations, refer to FMs 8-10-6, and
+90-5.
+
+4-3. Mountain Environment
+
+         a. In the past, armies have experienced great difficulty in evacuating patients from mountainous
+areas. Mountain environments are extremely diverse in nature. Some mountains are dry and barren with
+temperatures ranging from extreme heat in the summer to extreme cold in the winter. In tropical regions,
+mountains are frequently covered by lush jungles and heavy seasonal rains may occur. Many areas display
+high rocky crags with glaciated peaks and year-round snow cover. Elevations can also vary from as little as
+1,000 feet above sea level to over 16,000 feet above sea level with drastic and rapidly occurring weather
+changes.
+
+         b. In order to effectively support the tactical plan, the CHS plan must provide maximum
+flexibility. The CHS planner should consider using all methods of evacuation. Because of the rough
+terrain, the medical companies may not be able to reach the BASs by ground ambulance. An ambulance
+shuttle system established with an AXP for aeromedical evacuation assets to meet litter bearers may be
+required. Litter bearers and beasts of burden, however, may be the only means of evacuation. The tactical
+commander determines which soldiers will serve as litter bearers. Close coordination between the medical
+companies and BASs in establishing CCPs and AXPs is necessary to—
+
+                • Reduce distance traveled by litter bearers.
+
+                • Reduce evacuation time.
+
+                • Conserve personnel.
+
+                                                                                                                               4-3
+
+
+---
+
+FM 4-02.6
+
+         c. Mountain operations require CHS personnel to carry additional equipment. Items such as
+ropes, pitons, piton hammers, and snap links are all necessary for evacuation of patients and the establishment
+of MTFs. Unnecessary equipment (especially that which is heavy or bulky [for example, extra tentage], or
+that for which substitutes are available) should be left behind. If stored, this equipment and supplies should
+be readily available for airdrop or other means of transport.
+
+         d. Survival training is essential in this environment. Combat health support personnel should be
+trained in survival skills encompassing the following areas:
+
+                • Traversing mountainous terrain, to include mountain (rock) climbing and the use of
+ropes and vertical rescue techniques.
+
+           • Exposure to extreme cold and snow, to include cold injury prevention.
+
+           • Land navigation.
+
+           • Preparation of field expedient shelters.
+
+           • Individual and unit movement at high altitudes.
+
+           • Care and treatment of patients suffering from high altitude illness and cold weather
+
+injuries.
+
+     e. Combat health support personnel will see an increase in patients suffering from—
+
+           • Fractures, sprains, and dislocation injuries.
+
+                • Acute mountain sickness, high-altitude pulmonary edema, and cerebral edema caused by
+the rapid ascent to heights over 7,500 feet above sea level.
+
+           • Cold weather injuries and hypothermia.
+
+           • Dehydration and heat exhaustion.
+
+           • Sunburns and snow blindness.
+
+                • Aggravated sickle cell anemia. (Although not considered a mountain illness, personnel
+with sickle cell traits can be seriously affected by the decrease in the barometric pressure and lower oxygen
+levels found at higher altitudes.)
+
+                • Operational stress. Mountains confer a psychological advantage to those who hold the
+high ground, with good fields of vision and fire. Those who are confined to the valleys or roads or who
+must struggle up hill against snipers or indirect fire tend to have higher COSC rates. (Refer to FM 8-51 for
+additional information.)
+
+4-4
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+         f. For additional information on mountain operations, refer to FM 3-97.6. For additional
+information and techniques for the extraction and evacuation of personnel deployed in mountain terrain,
+refer to FM 8-10-6.
+
+4-4. Desert Environment
+
+         a. Deserts are arid, barren regions of the earth incapable of supporting normal life because of the
+lack of fresh water. Although deserts are often thought of as hot climates, it is important to note that tem-
+peratures range from over 136 degrees Fahrenheit (F) in some deserts to bitter cold in others. Day-to-night
+fluctuations in temperature can exceed 70°F. Desert terrain can have mountains, rocky plateaus, or sandy
+dunes; some desert areas may contain all of these characteristics. Rain, when it falls, often causes flooding
+in low-lying areas. Winds can have a devastating effect upon CHS operations by destroying equipment and
+supplies and causing dust storms. Dust storms make navigation, patient acquisition and evacuation, and
+treatment difficult. Since deserts vary considerably in their type of terrain and temperature, characteristics,
+current and specific medical intelligence should be obtained prior to deploying to a desert environment.
+
+         b. The CHS planner must consider the numerous environmental effects to personnel, equipment,
+and supplies when developing the CHS plan for this environment. These factors include, but are not limited
+to the following:
+
+                (1) Acclimatization. To be effective, soldiers must be properly acclimatized to the desert.
+Two weeks are usually required to satisfactorily acclimatize troops to a hot environment, using progressive
+degrees of heat exposure and physical exertion. Other potential acclimatization problems that may be
+encountered are the effects of dry air and altitude on the respiratory system. Since many desert areas are
+located in mountainous terrain, soldiers may have to be acclimatized to both altitude and cold.
+
+                (2) Discipline. Units deployed in desert areas typically have long LOCs and are widely
+dispersed. This necessitates a greater reliance on the junior leaders since commanders are required to
+decentralize operations. For a unit to be effective, a high level of discipline must exist at all levels of the
+organization.
+
+                (3) Water. Water is the most basic need in a desert. Without it, soldiers cannot function
+effectively for more than a few hours. See FM 21-10 for water requirements. Extra water must be carried
+by medical vehicles and be available in MTFs. The additional quantities of water are required for patient
+consumption, treatment of heat casualties, and routine operation of the MTF.
+
+                (4) Endemic disease and environmental injuries. Soldiers deployed in the desert are
+susceptible to endemic and epidemic diseases and environmental injuries. Water discipline, immunizations,
+pretreatments, barrier creams, and chemo-prophylaxis, field sanitation, personal hygiene, and other
+PVNTMED measures can reduce the risk of DNBIs. Proper clothing, equipment, and a water discipline
+program to protect against environmental injuries must have command emphasis.
+
+                (5) Combat Operational Stress Control. The desolate, often wide-open spaces of many
+deserts can cause uneasiness, disorientation, and fear of being observed or of becoming lost. These
+
+                                                                                                                               4-5
+
+
+---
+
+FM 4-02.6
+
+circumstances may result in high COSC rates until troops learn to navigate, move, camouflage, and use
+other survival skills in this environment.
+
+                (6) Winds, dust, and sand. Winds may very easily damage equipment and supplies.
+Equipment is protected by using covers, tie-downs, and shelters. Terrain helps shield equipment from the
+wind if the site selection is done carefully. In some cases, special tools (such as extra long metal tent stakes)
+are necessary. Supplies must be carefully stored and protected from the effects of the wind and sand. The
+effects of wind and sand are interrelated. Desert sand starts to become airborne when the wind reaches
+about 20 knots. Sandstorms—
+
+                       • Restrict visibility.
+
+                       • Pose a hazard to eyes (especially for soldiers wearing contact lenses).
+
+                       • Contaminate water supplies (if they are not protected).
+
+                       • Make navigation and patient evacuation difficult.
+
+Dust and sand presents one of the greatest dangers to the proper functioning of equipment. Sand mixed with
+lubricants forms an abrasive paste. Lubricated fittings, bearings, and filters should be inspected frequently
+and changed when required. Communications and automation equipment may be adversely affected by dust
+and sand. Over a period of time, electrical insulation is damaged by windblown sand. Special care should
+be taken to brush dust and sand off radio equipment, computers, and printers, and to keep ventilating ports
+and channels clear. Dust trails created by hovering aircraft or ground vehicles can be seen in excess of 10
+miles on a relatively flat desert. This exposes these assets to direct and indirect enemy fires. If the tactical
+situation permits, ground vehicles should reduce their speed to the point that they do not create a dust
+signature.
+
+                (7) Terrain. Trafficability varies with the type of terrain covered. Open, flat, and rocky
+terrain affords higher trafficability than does mountainous areas, lava beds, or salt marshes. Drivers must
+be well trained in judging the terrain over which they are driving to select the best route. Track vehicles are
+best suited for desert operations. They can, however, throw tracks when traversing a rocky area. Their use
+is also limited in rough terrain with steep slopes. Wheeled vehicles may be used in desert operations;
+however, they normally have a lower average speed than track vehicles and a higher incidence of damage
+and malfunction. Wheeled vehicles often bog down in sandy areas and cannot traverse many of the rougher
+areas. Vehicles should carry extra repair parts (fan belts, tires, and other items apt to malfunction).
+
+                (8) Radiant light. The sun burns unprotected skin, and it may damage unprotected eyes.
+Soldiers should dress in loosely fitting clothing, use sunscreen to protect exposed skin, and wear sunglasses
+or goggles to protect their eyes. Soldiers should remain fully clothed. Removing clothing increases direct
+exposure of the skin to the sun and eliminates the beneficial cooling effects of the moisture trapped in
+clothing. Radiant light or its heat effects may be detrimental to plastics, lubricants, pressurized gases,
+rubber, and other fluids. All vehicles and aircraft should be kept well ventilated. When parked, windshields
+should be covered to reduce heat buildup inside. Supplies of all types should be stored in well-ventilated,
+shady areas. Placing supplies in covered holes in the ground may reduce the heat effects.
+
+4-6
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+                (9) Humidity. Humidity is a factor in some desert areas of the world, especially in the
+Middle East. Humidity can become a problem for short periods of time in other desert areas. Light coats of
+lubrication can help prevent rust; however, these benefits should be weighed against the dust gathering
+qualities of oil. Demisting equipment is used on optics and night vision equipment to reduce the effects of
+humidity.
+
+                (10) Temperature variations. Variations of temperature will require personnel to be issued
+suitable clothing for encountering extreme weather conditions. Temperature changes in a desert environment
+can range from 140°F midday to near freezing at night. Temperature variations can cause condensation in
+humid desert areas affecting optics, fuel lines, air tanks, and weapons. Expansion and contraction of air and
+fluids may cause vehicle and equipment problems. Vehicle and equipment operators must ensure that the
+effects of temperature variations do not become a significant problem. Temperature variations may cause—
+
+                       • Tires to overinflate during the day and underinflate at night.
+
+                       • Fuel tanks to overflow during the day resulting in a fire hazard.
+
+                       • Oil fluid levels during the day to become overfull and cause a leak, or during the
+night as the oil cools, to provide insufficient lubrication.
+
+                (11) Static electricity. Static electricity is a factor in the desert. During refueling operations
+and when oxygen or other flammable substances are being used on board vehicles, it is important to
+remember that it presents a real hazard. Proper refueling procedures must be followed. Static electricity
+also causes severe shock to ground personnel in sling-loading and hoist operations. (Refer to FM 8-10-6
+and 8-10-26 for additional information.)
+
+         c. To ensure success in desert operations, detailed planning is required. Factors to consider
+include the following:
+
+                • Water is as mission essential as any piece of unit equipment. Additional quantities of
+water are required for CHS operations for the survival of both medical personnel and patients. Load plans
+for all vehicles and aircraft must include water.
+
+                • Prescribed load lists are expanded to carry sufficient quantities of repair parts that are
+easily degraded by the environment.
+
+                • Covers should be fabricated (prior to deployment, if possible) for equipment (especially
+communications and electronic), supplies, and vehicles.
+
+                • Fuel usage and consumption are critical due to the extended ranges between supported
+units and the increased vulnerability for refueling sites in the open desert terrain.
+
+                • Appropriate clothing for both hot and cold weather is required.
+
+                • Petroleum, oils, and lubricants must be of the proper viscosity for desert operations.
+Maintenance services are also performed more frequently.
+
+                                                                                                                               4-7
+
+
+---
+
+FM 4-02.6
+
+                • Small packages/amounts of Class III packaged products should be used to avoid
+contamination by blowing sand.
+
+                • Filters of all types are consumed at a higher rate.
+
+         d. Training for desert operations is not significantly different than training for operations in other
+areas except for the following:
+
+                (1) Mountain training. Because many desert areas are in mountainous terrain, procedures
+and techniques for evacuation in mountainous terrain must be practiced by all CHS personnel. Special
+equipment requirements must also be planned for (paragraph 4-3).
+
+                (2) Navigation. Navigation on desert terrain varies from relatively simple to extremely
+difficult. Factors affecting navigation are—
+
+                       • Type of desert.
+
+                       • Scale and quality of available maps.
+
+                       • Other navigational guides which are available.
+
+                       • Ground vehicles must have compasses available as they may have to rely on compass
+headings and odometer readings to navigate.
+
+                       • Use of convoys is a viable technique to ensure that ground vehicles do not get lost
+and to improve security.
+
+         e. For additional information on desert operations, refer to FMs 8-10-6 and 90-3.
+
+4-5. Extreme Cold Weather Environment
+
+         a. Operations in extreme cold environment are adversely impacted by severe environmental
+conditions and rugged terrain. The tundra and glacial areas are harsh, arid, and barren. Temperatures may
+reach lows of -80°F to -100°F that, combined with gale force winds, make exposure unsurvivable. The
+greatest environmental detriment to operations is blowing snow, which reduces visibility to zero. This
+results in the loss of depth perception from total white conditions.
+
+         b. Other environmental considerations are as extreme but easier to circumvent. Solid footing is
+suspect in both the dead of winter and in the summer. Snow and ice cover crevasses, holes, and otherwise
+unstable ground. In traversing suspect ground situations, consider linking soldiers by ropes. During the
+summer, ground transportation maybe restricted than in any other environment due to the marsh and
+muskeg composition of the arctic tundra. In CHS operations, patients must be sustained for a longer
+duration due to terrain delays and the lack of direct evacuation routes.
+
+4-8
+
+
+---
+
+                                            FM 4-02.6
+
+        c. Combat health support personnel may see an increase in the following types of DNBIs:
+
+                • Cold injuries (ranging from minor to severe frostbite, especially of exposed areas of the
+body and feet, to hypothermia).
+
+        • Dehydration and heat exhaustion.
+
+                • COSC. (The similarity of arctic and desert terrain may also cause disorientation and a
+sense of exposure.) Extreme cold can psychologically paralyze the inexperienced soldier and reduce him to
+a budding “survival first and only” mentality.
+
+         d. Factors to consider when conducting CHS activities in extreme cold operations include the
+following:
+
+        • Patients must be kept warm as the effects of the extreme cold can hasten and/or deepen
+
+shock.
+
+                • Improvised shelters may be required for patient holding (due to unexpected snow storms
+or vehicle breakdowns); the shelters should be capable of being heated (such as in a cave). The longer the
+period the patient must be held in the improvised shelter, the more important it is to fortify it against the
+effects of the cold.
+
+                • Blood and intraveneous (IV) fluids must be protected from freezing, both when in use
+and when stored.
+
+                • Establishing an ambulance shuttle system (FM 8-10-6) or AXPs are useful when operating
+in extended battle zones, or when evacuation distance and time required are increased.
+
+                • Augmentation of air and ground ambulances from higher echelon CHS elements and/or
+use of nonmedical transportation assets may also be required to meet the extended evacuation needs.
+
+        • Additional supplies of water should be carried by ambulances, and be available at MTFs.
+
+                • Due to the decreased temperature and frozen environment, vehicle maintenance require-
+ments are increased. Lubricants must be of the correct viscosity for the temperature. In extreme cold,
+batteries perform less efficiently. Batteries may have to be removed from the vehicles and kept in a warm
+place to ensure prompt starting. Engines may also have to be kept running to avoid freeze-ups or long warm-
+up periods. All ambulances are considered deadlined without a functional heater in the patient compartment.
+
+        • The proper storage of medical supplies is essential to prevent loss from freezing.
+
+                • There are few terrain features or road networks; therefore, evacuation routes must be
+surveyed and marked over open terrain. At extreme altitudes, operations during the winter months are
+conducted in extended hours of darkness. The use of night vision goggles (NVG) may be required.
+Compass accuracy is inconsistent due to geomagnetic phenomenon.
+
+                                                                                                 4-9
+
+
+---
+
+FM 4-02.6
+
+                • Landing zones must be chosen with extreme care in both winter and summer. Blowing
+snow mandates instrument-assisted takeoffs and running landings. Landing zones must be correspondingly
+larger.
+
+         e. The CHS planner must ensure that comprehensive plans are developed for extreme cold
+weather operations. Further, thorough preparation is required to ensure survival and mission accomplish-
+ment in this environment. Factors to consider include, but are not limited to, the following:
+
+                • Mud obstacles at noon may become an avenue of approach at night.
+                • Snow complicates all work. Snow-covered terrain—
+
+                       • Hampers reinforcements.
+                       • Muffles noise.
+                       • Makes cross-country driving hazardous.
+                       • Creates different camouflage requirements.
+                • A complete reappraisal of concealment is required because thermal signs may be used.
+                • Tracks in the snow destroy concealment.
+                • No soldier is assigned to any job alone. The buddy system is used at all times.
+                • Maintenance tasks will take twice as long as they do in more temperate climates.
+                • Bare metal can stick to skin or wet garments in subfreezing temperatures.
+                • Fuel spilled on skin or garments increases the freezing factor; it is one of the greatest
+causes of injury in winter operations.
+                • Petroleum, oils, and lubricant requirements will be increased in this environment.
+                • Every effort must be made to warm gear boxes and engines before starting the vehicle.
+                • The first consideration in the AO is heat; followed by shelter for sustained work.
+                • Soldiers need to stand clear of taut cables; steel tends to be brittle and breaks in extremely
+cold temperatures.
+                • Fire extinguishers are winterized by adding 15 percent nitrogen to the carbon dioxide.
+                • Radio sets must be warmed up prior to transmission. The sets may be turned on but
+should not transmit for 1/2 hour.
+
+4-10
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+                • Frost shields (such as using the plastic bag in which the batteries are packed) should be
+placed over microphones.
+
+                • Grounding rods have to be buried horizontally instead of pounded vertically. Recovery
+of stakes and rods placed in the ground is significantly more difficult.
+
+                • Flooring is needed in heated areas because the heat will thaw the ground.
+                • Soldiers must take breaks for water and warmth.
+                • Static electricity presents a serious hazard especially around flammable products.
+
+4-6. Nuclear, Biological, Chemical, and Directed-Energy Environments
+         a. On future battlefields, the enemy may employ NBC weapons/agents and directed-energy (DE)
+
+weapons/devices. Nuclear, biological, chemical, and DE protective measures and procedures to mitigate
+their effects must be included in the medical company training programs and daily operations. Nuclear,
+biological, and chemical actions create high casualty rates, materiel losses, obstacles to maneuver, and
+contamination.
+
+                (1) Mission-oriented protective posture levels 3 and 4 result in body heat buildup, reduction
+of mobility, and degradation of vision, touch, and hearing senses.
+
+                (2) Laser protective eyewear may degrade vision, especially at night.
+                (3) Toxic industrial material maybe released as a weapon application, accidental or by
+terrorist. The TIM may prevent use of terrain and create casualties.
+         b. Contamination is a major problem in providing CHS in an NBC environment. To increase
+survivability, as well as supportability, the medical company must take necessary action to avoid NBC
+contamination. Maximum use must be made of—
+                • Alarm and detection equipment.
+                • Unit dispersion.
+                • Overhead cover, shielding materiel, and collective protection shelter, when available.
+                • Chemical agent resistant coatings.
+         c. Generally, a biological aerosol attack will not significantly impact materiel, terrain, or
+personnel in the short term, although toxins can be an exception.
+         d. Field Manuals 3-3, 3-4, 3-5, 3-9, 3-100, 4-02.283, 8-50, 8-284, and 8-285 contain detailed
+information on—
+
+                                                                                                                              4-11
+
+
+---
+
+FM 4-02.6
+
+                • Characteristics and soldier dimensions of the nuclear battlefield.
+
+                • Nuclear, biological, and chemical operations.
+
+                • Extended operations in contaminated areas.
+
+                • Contamination avoidance.
+
+                • Nuclear, biological, and chemical protection.
+
+                • Decontamination.
+
+                • Prevention and medical management of laser injuries.
+
+                • Toxic industrial material hazard
+
+         e. Combat health support planning for the integrated battlefield must be comprehensive and
+thoroughly coordinated. In addition to the traditional CHS provided combat units, planning for EMT for
+civilian casualties, consistent with the military situation, should be included. The medical company
+commander should forecast the expected number of casualties, institute triage, and provide medical
+treatment. For additional information on CHS planning in this environment, refer to FMs 4-02.283,
+8-10-6, 8-10-7, 8-50, 8-55, 8-284, 8-285, and 8-500.
+
+                (1) A new dimension on future battlefields will be the employment of DE weapons/devices.
+These may be laser, microwave, or radio frequency generated sources. Information on the prevention and
+medical management of laser injures is contained in FM 8-50.
+
+                (2) For information on the medical evacuation of patients in a contaminated environment,
+refer to FMs 8-10-7, 8-10-6 and 8-10-26.
+
+4-7. Urban Operations
+
+Throughout history, battles have been fought on urbanized terrain. Some recent historical examples include
+Hue, Beirut, Panama City, and Somalia. Urban operations are those military actions planned and conducted
+on a terrain where man-made structures impact on the tactical options available to the commander. This
+terrain is characterized by a three-dimensional battlefield, having considerable rubble, ready-made fortified
+fighting positions, and an isolating effect on all combat, CS, and CSS units. Of concern to the CHS planner
+is the need to plan, train, prepare, and equip for CHS from under, above, and at ground level.
+
+         a. The CHS plan must be flexible and capable of supporting unanticipated situations. Special
+equipment requirements for the provision of CHS include, but are not limited to—
+
+                • Axes, crowbars, and other tools used to break through barriers.
+
+4-12
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+                • Special harnesses; portable block and tackle equipment; grappling hooks; collapsible
+ladders; heavy gloves; and casualty blankets for shielding. This equipment is used to lower casualties from
+buildings or move them from one building to another at some distance above the ground.
+
+                • Equipment for the safe and quick retrieval from craters, basements, sewers, and subways.
+Casualties may have to be extracted from under rubble and debris.
+
+         b. Effective communications will be degraded in MOUT. The task-organized search and medical
+evacuation teams will have difficulty locating injured and wounded soldiers because of their isolation within
+buildings, or by their being hidden by rubble and debris. Once the area is secured, the wounded can display
+markers or panels, or other field expedients (fatigue jacket or T-shirts) to indicate where they may be
+found.
+
+         c. The anticipated increase in wounds and injuries requires increased supplies of IV fluids.
+Individual soldiers may carry these fluids to hasten their availability and shorten the time between wounding
+and initiation of vascular volume replacement.
+
+         d. Route markings to the division clearing station and the display of the Geneva Conventions
+emblem (red cross on a white background) at the MTF must be approved by the tactical commander. (Not
+displaying the Geneva Conventions emblem can forfeit the protections afforded to both medical personnel
+and their patients under the Geneva Conventions. Refer to Appendix A and FM 8-10 for additional
+information.) The location of the MTF must be as accessible as possible, but well separated from fuel and
+ammunition depots, motor pools, reserve forces, or other lucrative enemy targets, as well as civilian
+hazards such as gas stations or chemical factories.
+
+         e. Casualty collection points, AXPs, BASs, and division clearing station locations should be
+preplanned and in relatively secure areas accessible to both air and ground ambulances. The location of
+these points should be indicated on the medical overlay to the OPLAN.
+
+         f. The medical company/troop, in establishing its clearing station, uses only the minimum number
+of resources required to successfully accomplish the mission. Suitable permanent facilities within the urban
+area may be used to house the MTF, if available. Refer to Appendix J for clearing station in urbanized
+operations (UO).
+
+                                                             NOTE
+
+                       Construction standards vary from area to area. Engineer personnel
+                       should inspect local facilities prior to use as an MTF.
+
+         g. For additional information on medical evacuation in urban operation, refer to FM 8-10-6.
+
+                                                                                                                              4-13
+
+
+---
+
+FM 4-02.6
+
+4-8. Combat Health Support During Night Operations
+
+To own the night requires tactics, techniques, and procedures that maximize our night-fighting technological
+advantages. Command and control is one of the most important factors in conducting night operations. The
+mission of maneuver forces is to destroy the enemy without committing fratricide. To achieve this end
+state, all soldiers must operate as efficiently at night as during the day; moreover, leaders must master night
+C2.
+
+      a. General Considerations.
+
+                (1) The DSS and the brigade surgeon’s section (BSS)/regimental surgeon’s sections (RSS),
+along with medical company/troop commanders, must anticipate that supported maneuver brigades and
+division units do a substantial amount of their work at night or in limited visibility. They must ensure that
+TSOPs are available and used throughout the division and brigade for providing medical evacuation and
+treatment at night. Real-life trauma care at night will be enhanced by the ability to use white light (visible
+light) at the earliest opportunity. Therefore, medical units/elements must establish standard procedures to
+use white light without compromising the tactical environment. This means training to erect shelters as
+soon as possible and routinely during hours of darkness. Personnel must understand that some shelter
+systems block visible light, but that those same shelters glow when viewed through NVG. In some
+extremely mobile situations, ambulance/vehicles could be used to enclose patients and care providers thus
+allowing treatment to proceed under white light conditions. The DSS and BSS, along with medical
+company commanders, must understand this technology and their capabilities for conducting night
+operations. The brigade surgeons and medical company commanders should know how to use both far
+infrared (IR) devices (and how their capabilities can enhance CHS operations at night) such as the combat
+identification panel (CIP) and near IR devices such as the Budd Light and Phoenix Light towers. See the
+discussion below on IR and night-vision devices. They need to know the status and amount of equipment
+on-hand and to identify the equipment needed. The BSS/RSS must plan the standard operating procedures
+and METT-TC-specific techniques necessary to perform the CHS mission. For these types of operations,
+the commander should be advised to consider—
+
+            • Using civilian buildings to reduce light and thermal signatures.
+
+            • Light-proofing shelters.
+
+            • Using nonvisible spectrum light in conjunction with night vision devices.
+
+            • Reducing noise signature to a minimum.
+
+                (2) The DSA and BSA are susceptible to a night attack. This further slows logistics and CHS
+activities. Use of chemical lights may be applicable. However, overuse of chemical lights degrades light
+discipline and security. Chemical lights are visible from a distance of a kilometer or more. Possible
+techniques for medical units/elements include an array (mixture) of—
+
+            • Chemical lights to light CP areas thus eliminating generator noise and thermal
+
+signature.
+
+4-14
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+                       • Magnetic holders to allow placement of color chemical lights on vehicles.
+
+                       • Chemical light to illuminate the vehicle engine compartment for night repairs.
+
+                       • Chemical light holders to regulate the amount and direction of light.
+
+         b. Combat Health Support Considerations.
+
+                (1) Light discipline requirements affect CHS operations much as they do supply and
+maintenance operations. Medical units/elements will use additional fuel to run vehicle-mounted night
+sights. Treatment operations require lightproof shelters. Patient acquisition is more difficult. Units should
+employ some sort of casualty-marking system such as luminous tape.
+
+                (2) Limited visibility slows medical evacuation. This requires additional ground ambulances
+to compensate. In the offense, ambulances move forward with BAS. However, personnel have to accomplish
+this movement carefully to avoid signaling the threat. Personnel use predesignated AXPs. Medical
+evacuation by air ambulance is difficult and requires precise grid coordinates as well as prearranged signals
+and frequencies. As in daylight, CHS operations conducted at night require active participation of all
+involved units. Maximum use of the global positioning system (GPS) and IR and night-vision devices, will
+enhance the ability of medical units/personnel to carry out CHS in support of night missions. Night
+operating procedures must be routine and practiced as a part of routine operating procedures. This is
+especially true for medical units/personnel since they have a 24-hour responsibility under all conditions, not
+just combat operations.
+
+         c. Infrared and Night Vision Devices.
+
+                (1) A far IR device, such as the CIP, is a quick-fix device for friendly identification. The
+thermal taped-covered CIP provides an aid in distinguishing friendly from threat vehicles when thermal
+sights are used. Combat identification panels do not replace current acquisition, identification, or
+engagement procedures. They provide a device visible through thermal sights to increase situational
+understanding and provide a safety net at normal engagement ranges. These devices can be used to further
+identify medical vehicles and units.
+
+                (2) Near IR devices that aid in C2 may be used for signaling and marking devices. The IR
+beam is an effective means to increase situational understanding, improve identification, and increase CHS
+effectiveness. These devices reduce fratricide risk when used for marking AXPs, MTF, and landing zones
+(LZs). Additionally, these lights are super signaling devices, such as the configuration of certain patterns to
+indicate unit identification, turn on/off to signal accomplishment of a task, crossing a phase line, signal from
+one ground position to another specific position, or from ground to air. These are excellent devices for near
+recognition signaling to guide incoming evacuation vehicles.
+
+                       (a) The Budd Light operates using active near IR light viewed through image intensi-
+fying devices. These image-intensifying devices are only effective during nighttime conditions. Near IR
+devices can be directional or omni-directional and emit a steady pulse or codable pulse. The Budd Light is
+a compact near IR source using a standard 9-volt (BA-3090) battery as its power source. Both the Budd
+
+                                                                                                                              4-15
+
+
+---
+
+FM 4-02.6
+
+Light and its power source will fit in the palm of your hand. The average life span of the battery power for
+a Budd Light is 8 hours of continuous use. The near IR pulse emitted by the Budd Light is similar to a
+strobe light and pulses every 2 seconds. It is invisible to the naked eye and to the thermal imager. The pulse
+is clearly visible out to 4 kilometers (km) under optimal conditions when pointing the beam directly at the
+viewer. The directional characteristic of the beam makes it possible to limit observation by an enemy. If
+used to mark vehicles, care should be taken to minimize the light illuminating the vehicle’s surface. The
+enemy has to have image intensifying devices to see the lights directly; however, they may see the light
+being reflected off of vehicles when the lights are employed in a directional mode. This device is most
+effective for C2 purposes. The Budd Light is also very useful for dismounted operations at night.
+
+                       (b) The Phoenix Light tower operates using active near IR light viewed through image
+intensifying devices. The Phoenix Light tower can be used as a codeable IR beacon. The light is powered
+by a standard 9-volt (BA-3090) battery. The Phoenix Light tower is ideal for use when positive identification
+at night must be made out to 4 km under optimal conditions. The IR beacon has a range equal to the Budd
+Light. One advantage is the ability to code many beacons with different codes (sequence of flashes
+[including Morse code] up to 4 seconds), enabling anyone to be distinguished in a group. A programmed
+sequence will repeat until canceled or when the battery expires (same as Budd Light). Operating instructions
+include connecting the battery to the Phoenix Light tower. Using a metal object (a coin is best), make
+connection across the two pins on top of the light. A microminiature red indicator flashes the sequence as
+the code is entered. At the end of the 4-second memory, a green microminiature indicator will flash,
+indicating the end of the input sequence. The Phoenix Light tower is now emitting the desired code. To
+check the code, make a connection across the pins. The green microminiature indicator will flash the code.
+To change the code, disconnect the battery and repeat the instructions. The Phoenix Light tower also can be
+used during dismounted operations. The programming of a code can assist in distinguishing one unit from
+another. An active Phoenix Light tower or Budd Light can be covered or uncovered as necessary to ensure
+the light is visible only when necessary.
+
+                       (c) There are numerous types of night vision devices in the Army inventory but this
+subparagraph will focus on what the medical company/troop has on its TOE. Each vehicle in a medical unit
+will have two night vision devices. Wheeled vehicle drivers will use either the AN/PVS-7B (discussed
+below) or the driver’s vision enhancer (DVE). The DVE is a thermal imaging system capable of operating
+in degraded visibility conditions such as fog, dust, smoke, and darkness. In conditions of reduced visibility,
+the DVE allows a vehicle to maintain speeds up to 55 to 60 percent of those attained during normal daylight
+operations. Unlike traditional night vision devices that magnify ambient light, the DVE generates a picture
+based on very minute variances in temperature in the surrounding environment. It gives the operator
+visibility to the horizon in total darkness and the ability to recognize a 22-inch object at a distance of 360
+feet. It can elevate 35 degrees, depress 5 degrees, and rotate 170 degrees in either direction. The DVE
+consists of a sensor module, a display control module, a positioning module, wiring harness, and mounting
+equipment. A combat DVE and a tactical wheeled vehicle DVE will be available. The track ambulances
+(M113), interim armored vehicle ambulances, and M577 track treatment vehicle drivers will use DVE if
+available or continue to wear NVG. The NVG (AN/PVS-7B) is a hand-held, head-mounted, or helmet-
+mounted night vision system that enables walking, driving, weapons firing, short-range surveillance, map
+reading, treatment of patients, and vehicle maintenance in both moonlight and starlight. It has an IR
+projector that provides illumination at close range and that can be used for signaling. If the device is
+exposed to damaging levels of bright light, there is a high light-level shutoff. There is a compass that
+
+4-16
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+attaches to the device that allows for reading an azimuth through the goggles. This device has a weight of
+1.5 pounds and operates on two AA batteries. Armored medical vehicles (M577, treatment vehicle and
+M113, armored ambulance) have IR headlights. These IR headlights can be used for assisting drivers who
+wear NVG and can be used for signaling. As with all lights, extreme caution must be taken in tactical
+situations. The IR headlights are typically very bright to personnel wearing NVG.
+
+         d. Example Techniques for Using Chemical Lights for Marking and Signaling.
+
+                                                             NOTE
+
+                       Techniques are only limited to available equipment and imagination.
+                       The METT-TC factors should always take precedence.
+
+                (1) For marking, chemical lights can be placed along side standard military short or long tent
+stakes/pickets to mark routes and positions. The concave side of the tent stake contains the chemical light
+and the convex side faces the most likely direction of enemy observation. This technique controls the
+direction of the light while assisting with such things as medical evacuation route and supported unit
+collection point, AXP, or link-up point identification.
+
+                (2) For signaling, tying a chemical light to a length of cord or string and slinging it in a
+circle overhead is an unmistakable signal. This only needs be used until recognition is established; it is
+ended once the signal is seen. This technique makes use of widely available common supplies. It is
+especially useful for guiding an incoming ground or air ambulance.
+
+4-9. Army Special Operations Forces
+
+Combat health support for Army Special Operations Forces (ARSOF) is usually accomplished by unit-level
+organic CHS resources, Special Operations Support Battalion assets, and the theater or corps MEDCOM.
+A combination of organic, DS, and GS resources are required to effectively accomplish the CHS mission.
+Army Special Operations Forces are characterized by an austere structure and a limited number of medical
+personnel with enhanced medical skills including EMT, ATM, PVNTMED, and limited veterinary and
+dental care. In addition, ARSOF support units have flight surgeons and medics who are qualified to provide
+Echelon I care. Special Forces Operational Detachment A (SFODA) and Ranger companies are also
+capable of providing organic Echelon I care. Medical personnel of this detachment receive enhanced
+medical training above that provided for a regular combat medic. Each Special Forces medical sergeant
+(SFMS) trained as an independent care practitioner and is qualified to provide ATM to combat casualties.
+When the SFODA is deployed on independent missions, the two SFMSs are the sole source of medical care
+for the operational detachment and the indigenous forces that the detachment supports. When not deployed,
+the ARSOF depend upon the conventional CHS system for support.
+
+         a. The conventional force medical company would normally provide CHS on an area basis for
+those ARSOF operating within its AO. Due to the security classification of particular ARSOF missions, the
+
+                                                                                                                              4-17
+
+
+---
+
+FM 4-02.6
+
+medical company may be required to ensure that medical personnel selected to treat ARSOF patients sign a
+nondisclosure statement.
+
+         b. The nature of ARSOF missions often requires that a unit be small, highly skilled, and have
+self-contained teams that can be easily inserted and extracted by air, sea, and land delivery methods. These
+missions are often conducted in remote and denied areas. This generally results in the inability of
+conventional CHS resources to be able to support deployed ARSOF. For example, conventional forces’
+ground and air ambulances cannot be used to evacuate sick, injured, or wounded ARSOF from covert
+operations due to lack of range, self-protection measures, crew qualification, or specialized navigation
+equipment.
+
+         c. Although augmentation of ARSOF medical resources may be required for a number of types
+of missions, the most likely mission where medical company resources would be employed in DS or GS is
+the foreign internal defense mission.
+
+         d. For additional information on medical support of ARSOF, refer to FM 8-43 and FM 8-10-6.
+         e. For additional information on ARSOF operations, refer to FMs 3-05.20 and 100-25.
+
+4-18
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+                                                      APPENDIX A
+
+     LAW OF LAND WARFARE AND GENEVA CONVENTIONS
+                OBLIGATIONS FOR MEDICAL PERSONNEL
+
+For information regarding the Law of Land Warfare and Geneva Conventions, see Chapter 4,
+FM 4-02, Force Health Protection in a Global Environment, 13 February 2003.
+
+                                                                                                                               A-1
+
+
+---
+
+                                                                                  FM 4-02.6
+
+                                            APPENDIX B
+
+              COMBAT HEALTH SUPPORT PLANNING
+           Section I. COMBAT HEALTH SUPPORT ESTIMATE
+
+B-1. General
+
+         a. The staff prepares estimates on their areas of expertise to assist the commander in the decision-
+making process. The staff estimate consists of significant facts, events, and conclusions based on current or
+anticipated situations and recommendations on how available resources can best be used. These recommend-
+ations are used by the commander to—
+
+           • Identify and eliminate from consideration the courses of action (COA) that are not
+
+feasible.
+
+           • Select the best COA for further analysis.
+
+         b. Adequate plans hinge on early and continuing estimates by staff officers. Failure to make
+these estimates may lead to errors and omissions in the development of a COA.
+
+         c. Regardless of the level of command, the military planning process remains unchanged;
+however, the level of detail and the means of communicating (verbal or written) will differ. At the medical
+company level, many procedures are already set forth in TSOPs, thereby effectively limiting the level of
+detailed input required for preparation of the estimate. Although the level of detailed information contained
+in this appendix is considerable, it is provided for illustrative and educational purposes. In the medical
+company situation, for example, the CHS estimate for medical company operations may be verbal since
+TSOPs cover routine activities; however, the FSMC commander may be required to provide a formal
+written estimate to the FSB support operations for inclusion in the FSB estimate. Additionally, the brigade
+surgeon may be required to provide formal written input for inclusion in the brigade estimate.
+
+d. For additional information on the CHS estimate, refer to FM 8-42 and FM 8-55.
+
+B-2. Responsibilities
+
+After the commander provides his planning guidance, the surgeon should prepare estimates of require-
+ments and descriptions of projects to be undertaken for establishing adequate CHS systems to support the
+mission. The surgeon makes a CHS estimate that may stand alone or that may be incorporated into the
+personnel estimate. The estimate forms the basis for the subsequent CHS plan. The estimate is a logical
+and orderly examination of all the factors affecting the accomplishment of the mission to determine the most
+suitable COA. All of the significant CHS possibilities that can affect the accomplishment of the tactical
+commander’s mission must be considered. The CHS estimate, along with estimates of the other individual
+staff members, is used by the commander in preparing his own estimate. It provides him with information
+on which to base his selection of the best COA. This decision is then included in the operational and
+logistics support plans.
+
+                                                                                                                               B-1
+
+
+---
+
+FM 4-02.6
+
+B-3. Format for the Estimate
+
+         a. A sample format for a CHS estimate is presented in paragraph B-4. This format is applicable
+to any level of command and can be used under any operational condition. It is lengthy and includes many
+more details than may be needed in some situations. Depending on the situation and the unit for which the
+estimate is being completed, organic capability of certain functional areas may not exist. The estimate,
+however, must include these areas as support or augmentation from corps assets may be required, such as
+CSC and veterinary services. Each CHS planner must tailor the estimate to meet his needs. The estimate is
+a continuous process; as the battle continues, new factors and COA are developed and impact on the
+estimate.
+
+         b. Staff estimates may be presented orally or in writing. Often only the staff officer’s conclusions
+or recommendations are presented to the commander.
+
+         c. Depending on the level of command, separate estimates may also be made for the dental,
+PVNTMED, veterinary, and CSC functional areas. For information on these estimates, refer to FM 8-55.
+For additional information on the unique aspects of planning for medical operations in peacetime and
+conflict, refer to FM 8-42.
+
+         d. The format for the estimate should be considered more as a tool to assist the planner than as a
+rigid format that might complicate the task. Examples of information that may be required or considered
+are provided for the different subheadings. They are not to be considered as an all-inclusive listing, but
+rather as a starting point for consideration.
+
+B-4. Sample Format for the Combat Health Support Estimate
+
+                                                       ______________
+                                                        (Classification)
+
+                                                                                                        Headquarters
+                                                                                                        Location
+                                                                                                        Date, Time, and Zone
+
+COMBAT HEALTH SUPPORT ESTIMATE OF THE SITUATION
+
+References: Maps, overlays, charts, or other documents required to understand the estimate. Reference to
+                a map includes the map series number and country or geographic area, if required; sheet
+                number and name; and edition and scale.
+
+1. MISSION (Statement of the overall CHS mission.)
+
+                                                       ______________
+                                                        (Classification)
+
+B-2
+
+
+---
+
+                          FM 4-02.6
+
+       ______________
+        (Classification)
+
+2. SITUATION AND CONSIDERATIONS (Consists of facts, assumptions, and deductions that can
+affect the successful support of an operation.)
+
+         a. Enemy Situation. (Includes such issues as the enemy’s ability to interfere with the delivery of
+CHS, his attitude toward the Geneva Conventions, his ability to inflict casualties [both combat and disease],
+types of weapons available, and the health status of potential EPW.)
+
+                (1) Strength and disposition. (Includes information on the numbers and types of enemy
+forces, which will be encountered, and on their distribution throughout the battle area. This entry may
+indicate where weak areas exist in the enemy’s defenses.)
+
+                (2) Combat efficiency. (Includes information on training received by enemy forces, previous
+battles, degree of fatigue and nutrition, and other factors that may indicate how effective the enemy force
+may be.)
+
+       (3) Capabilities. (Includes the conventional warfare capabilities and the potential for use of
+
+WMD.)
+
+                (4) Logistics situation. (The logistics situation provides insight on the enemy’s ability to fight
+a sustained battle and indicates weak areas that may be exploited by friendly forces.)
+
+                (5) State of health. (This is an important issue as it may affect the enemy’s will, desire, and
+ability to continue fighting. It may also provide some insight into the numbers of anticipated EPW and the
+CHS requirements for this subpopulation. NOTE: Historically, the number of EPW has been under-
+estimated.)
+
+                (6) Weapons and weapons systems. (Includes the weapons systems, which are available,
+and those that could be used to deliver NBC and DE weapons/devices. The types of weapons used may
+dictate the type and distribution of wounds throughout the battlefield.)
+
+         b. Friendly Situation. (Includes the tactical plan of the commander, anticipated areas of patient
+densities, best placement of supporting CHS elements, health of the command, rear operations, and base
+clusters.)
+
+                (1) Strength and disposition. (Includes not only US Army troops, but also sister Services,
+allies, coalition, and HN forces, which must be supported. The disposition throughout the battlefield may
+indicate the areas of the heaviest patient densities, lines of patient drift, and potential evacuation routes
+[both ground and air].)
+
+       (2) Combat efficiency. (Includes training, experience, morale, and recent campaigns.)
+
+       ______________
+        (Classification)
+
+                          B-3
+
+
+---
+
+FM 4-02.6
+
+                                                       ______________
+                                                        (Classification)
+
+                (3) Present and projected operations. (Includes the current mission and all follow-on
+missions. This subparagraph can provide information on the potential for augmentation, reinforcement,
+and/or regeneration. It may also indicate requirements for CSC support after particularly heavy fighting.)
+
+                (4) Logistics situation. (Includes information on supply/resupply operations [both general
+and medical], location and hours of establishment/disestablishment of the facility, stockage levels, distribu-
+tion points, and US and HN medical/nonmedical transportation support availability for patient evacuation.)
+
+                (5) Rear battle plan. (Includes information on responsibilities and procedures for MASCAL
+situations and rear area protection operations.)
+
+                (6) Weapons. (Medical units only have defensive weapons; however, the types of weapon
+systems being used may dictate types of wounds, potential injuries, and security.)
+
+         c. Characteristics of the Area of Operations. (The CHS planner should obtain medical intelligence
+regarding the AO. This information should be included in the planning process, as the medical threat will
+influence the numbers and types of casualties.)
+
+                (1) Terrain. (Includes any special equipment requirements needed to conduct the CHS
+mission, such as mountain climbing equipment or bed nets; effect on medical evacuation [to include
+potential landing sites and ambulance turnaround]; and effect on layout of unit resources.)
+
+                (2) Weather. (Includes its effect on aeromedical and ground evacuation of casualties; care
+of the wounded in adverse weather conditions, such as extreme cold weather operations; and effect on
+supplies and equipment, such as storage requirements [hot or extreme cold], maintenance requirements, and
+repair parts usage.)
+
+                (3) Civilian population. (Includes potential requirements for providing CHS assistance [to
+include Geneva Conventions requirements or civic action programs]; endemic and epidemic diseases in the
+population; any rules, regulations, or laws affecting interaction between military and civilian populations;
+and pertinent information on cultural aspects of the country [to include social, political, religious, and
+economic considerations].)
+
+                (4) Flora and fauna. (Includes poisonous reptiles, dangerous animals, disease vectors [such
+as arthropods], poisonous plants, or other medically significant information [such as medicinal herbs and
+plants] in the AO.)
+
+                (5) Local resources. (Includes information on any significant assets, which are available to
+the military force such as buildings, food sources, water sources, potential repair and maintenance facilities
+and capabilities, POL, hospitals, and clinics.)
+
+                                                       ______________
+                                                        (Classification)
+
+B-4
+
+
+---
+
+         FM 4-02.6
+
+                                               ______________
+                                                 (Classification)
+
+         (6) Other. (Any significant information not covered previously, such as language require-
+
+ments.)
+
+         d. Strengths to be Supported. (Includes the different categories of personnel described below.
+Emphasis should be placed on accurately forecasting the numbers of refugees, displaced persons, and EPW
+that will require support. Large numbers of these personnel can severely strain the CHS capabilities [in
+particular the PVNTMED and treatment arenas].)
+
+                (1) Army.
+
+                (2) Navy.
+
+                (3) Air Force.
+
+                (4) Marines.
+
+                (5) Allied forces.
+
+                (6) Coalition forces.
+
+                (7) Enemy prisoners of war. (Every effort must be made to arrive at a realistic forecast of
+the EPW population. Traditionally, the US forces have underestimated the number of enemy soldiers who
+will be captured or who will surrender. By underestimating the EPW population, adequate medical supplies
+and equipment have not been available when needed and have, therefore, adversely affected the delivery of
+health care.)
+
+                (8) Indigenous civilians.
+
+                (9) Detainees (Enemy medical personnel are not considered EPW and should be identified
+as soon as possible to assist in providing medical care for the EPW patients.)
+
+                (10) Internees.
+
+                (11) Others. (May include contractors on the battlefield, humanitarian nongovernmental
+organizations [NGOs], international organizations [such as the United Nations], refugees, or others as
+determined by the Law of Land Warfare and/or the command.)
+
+         e. Health of the Command. (Consists of the following factors, which indicate command and
+medical measures that should be taken into consideration prior to each operation.)
+
+                                                       ______________
+                                                        (Classification)
+
+         B-5
+
+
+---
+
+FM 4-02.6
+
+                                     ______________
+                                      (Classification)
+
+                (1) Acclimatization of troops. (Includes requirements for acclimatization of newly arriving
+troops or for forecasted operations, such as mountain operations.)
+
+                (2) Presence of disease. (Includes the endemic diseases that are not at a clinically significant
+level in the native population. Deploying forces may not be immune and the incidence of endemic disease
+cases may increase with a disruption of services [such as sanitation and garbage disposal].)
+
+                (3) Status of immunizations. (United States forces should receive all appropriate immuni-
+zations prior to deployment.)
+
+           (4) Status of nutrition.
+
+                (5) Clothing and equipment. (Includes consideration for specialized clothing and equipment
+[such as jungle fatigues, bed netting, parkas, and mountain climbing equipment]. When deploying to desert
+environments, both hot and cold weather clothing should be brought.)
+
+                (6) Fatigue. (The fatigue factor must be monitored since fatigue can contribute to lowering
+an individual’s resistance to disease and may lead to combat stress reactions.)
+
+                (7) Morale. (It is important to the morale of a soldier that he knows that, if he is wounded,
+medical attention is readily available.)
+
+                (8) Status of training. (Includes soldier training, first-aid training, and MOS- and mission-
+specific training.)
+
+                (9) Other, as appropriate. (This can include water discipline programs or other PVNTMED
+measures and programs.)
+
+         f. Assumptions. (Assumptions may be required as a basis for initiating planning or preparing
+the estimate. Assumptions are modified as factual data and specific planning guidance becomes available.)
+
+         g. Special Factors. (Mention items of special importance in the particular operation to be
+supported such as the unique conditions to be encountered in NBC warfare, or the impact that patients
+suffering from combat stress will have on the CHS system.)
+
+3. COMBAT HEALTH SUPPORT ANALYSIS
+
+     a. Patient Estimates. (Indicate rates and numbers by types of units or divisions.)
+
+                (1)  Number of patients anticipated. (Includes all categories of patients from the supported
+population.)
+                                                     ______________
+                                                      (Classification)
+
+B-6
+
+
+---
+
+                                                             FM 4-02.6
+
+                                          ______________
+                                           (Classification)
+
+                (2) Distribution within the AO (space). (The dispersion of troops throughout the battlefield will
+affect patient densities, areas requiring augmentation or reinforcement, and the projected patient workloads.)
+
+                (3) Distribution in time during the operation (evacuation time). (Includes the establishment
+of CCPs, AXPs, BASs, and division clearing stations based on the crossing of phase lines or other
+predetermined events.)
+
+         (4) Areas of patient density. (Heaviest areas of patient density will normally be in the MBA.)
+
+                (5) Possible MASCAL situation. (Includes the establishment of a triage point, coordination
+for the use and augmentation of nonmedical vehicles to assist in transporting casualties, and establishing a
+decontamination station [augmented with nonmedical personnel to perform patient decontamination], if
+required.)
+
+                (6) Lines of patient drift and evacuation. (Includes those areas where terrain features
+canalize ambulatory wounded and injured soldiers.)
+
+         b. Support Requirements.
+
+                (1) Medical evacuation and regulating. (Includes assets available, limitations, and require-
+ments for using nonmedical transportation assets; procedures for requesting a mission; procedures for con-
+ducting medical evacuation missions in radio silence conditions; and preparation of overlays or strip maps.)
+
+         (2) Hospitalization. (Includes requirements for a CSH in the division rear and for specialized
+
+teams.)
+
+                (3) Combat health logistics. (Includes blood management; supply, equipment, maintenance,
+and medical repair parts requirements; location of supply facility; and emergency resupply requirements,
+procedures, and delivery.)
+
+                (4) Medical laboratory services. (Includes information on organic capabilities of Echelons
+III and IV hospital laboratory support and supporting area medical laboratory, and how to obtain these
+services, if required.)
+
+                (5) Dental services. (Includes procedures for obtaining dental support above the organic
+capability.)
+
+                (6) Veterinary services.  (Includes information on obtaining veterinary support for food
+inspection and animal care.)
+                                              ______________
+                                               (Classification)
+
+                                                             B-7
+
+
+---
+
+FM 4-02.6
+
+                                                       ______________
+                                                        (Classification)
+
+                (7) Preventive medicine and sanitation. (Includes PVNTMED measures and programs, sup-
+port requirements for EPW, civilian, and other nonmilitary populations, unit field sanitation teams, and
+dining facility inspections.)
+
+                (8) Combat stress control. (Includes support requirements and augmentation, if required.)
+
+                (9) Command, control, communications, computers, and intelligence. (Includes information
+on attachments, OPCON, or other control means for augmentation or reinforcement; signal operating
+instructions; and all other C4I activities.)
+
+                (10) Others, as appropriate. (Includes topics such as medical regulating procedures or
+requirements, general supply procedures and support requirements; and nonmedical personnel required to
+establish a patient decontamination station.)
+
+         c. Resources Available. (Consider all sources available within the AO.)
+
+                (1) Organic medical units and personnel. (Includes US, allies, coalition, and HN forces.)
+
+                (2) Attached medical units and personnel.
+
+                (3) Supporting medical units.
+
+                (4) Civilian public health capabilities and resources. (Civil affairs personnel are responsible
+for obtaining HN support.)
+
+                (5) Enemy prisoners of war medical personnel.
+
+                (6) Medical supplies and equipment. (Includes other Services, allies, coalition forces, or HN
+capabilities.)
+
+                (7) Medical troop ceiling.
+
+         d. Courses of Action. (As a result of the above considerations and analysis, determine and list
+all logical COA that will support the tactical commander’s OPLAN and accomplish the CHS mission.
+Consider all TSOPs, policies, and procedures in effect. Courses of action are expressed in terms of what,
+when, where, how, and why.)
+
+4. EVALUATION AND COMPARISON OF COURSES OF ACTION
+
+         a. Compare the probable outcome of each COA to determine which one offers the best chances
+of success. This may be done in two steps:
+
+                                                       ______________
+                                                        (Classification)
+
+B-8
+
+
+---
+
+                                                            FM 4-02.6
+
+                                                       ______________
+                                                        (Classification)
+
+                (1) Determine and state those anticipated difficulties or difficulty patterns which will have a
+different effect on the COA listed.
+
+                (2) Evaluate each COA against each significant difficulty or difficulty pattern to determine
+the strengths and weaknesses inherent in each.
+
+         b. Compare all COA listed in terms of significant advantages and disadvantages, or in terms of
+the major considerations that emerged during the above evaluation.
+
+5. CONCLUSIONS
+
+         a. Indicate whether the mission set forth in paragraph 1 can (cannot) be supported.
+
+         b. Indicate which COA can best be supported from the CHS standpoint.
+
+         c. List the limitations and deficiencies in the preferred COA that must be brought to the
+commander’s attention.
+
+         d. List factors adversely affecting the health of the command.
+
+                                                            /s/_______________________
+                                                                     Command Surgeon
+
+Annexes (as required)
+Distribution: (Is determined locally.)
+
+                                        ________________
+                                          (Classification)
+
+                  Section II. COMBAT HEALTH SUPPORT PLAN
+
+B-5. General
+
+Before the CHS estimate is completed, the commander (or surgeon) starts to prepare the CHS plan. As
+each problem is recognized and solved, a part of the plan is automatically defined. Once the estimate is
+completed, it defines requirements, identifies sources, and determines policies and procedures.
+
+                                                                                                                               B-9
+
+
+---
+
+FM 4-02.6
+
+B-6. Format for the Combat Health Support Plan
+
+                                                     ________________
+                                                        (Classification)
+
+                                                                                             Copy ______ of ______ Copies
+                                                                                             Headquarters
+                                                                                             Location Date, Time, and Zone
+
+References: Maps, overlays, charts, or other documents required to understand the plan. Reference to a
+                map includes the map series number and country or geographic area, if required; sheet
+                number and name, if required; and edition and scale.
+
+Time Zone Used Throughout the Plan:_____ (Included only if used as the initial plan, or if a major organi-
+         zation is to be affected.) Task Organization: Annex A (Task Organization) (Task organization may
+         appear here, in paragraph 3, or in an annex.)
+
+1. SITUATION (Provide information essential to understanding the plan.)
+
+         a. Enemy Forces. (Emphasis on capabilities bearing on the plan.)
+
+         b. Friendly Forces. (Emphasis on CHS functions and responsibilities for higher headquarters
+and adjacent units.)
+
+         c. Attachments and Detachments. (May be published as an annex.)
+
+         d. Assumptions. (Minimum required for planning purposes.)
+
+2. MISSION (Statement of overall CHS mission.)
+
+3. EXECUTION
+
+         a. Surgeon’s Concept of Support. (First lettered subparagraph provides a concise overview of
+planned CHS operations.)
+
+         b. (The second lettered paragraph identifies the major medical control headquarters and lists the
+tasks/missions assigned to do.)
+
+         c. (The third and subsequent lettered paragraphs identify the remaining medical units in turn and
+list their respective tasks/missions.)
+
+         d. (The next to the last lettered subparagraph discusses the evacuation/holding policy by phases
+of the operation.)
+
+                                                       ______________
+                                                        (Classification)
+
+B-10
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                       ______________
+                                                        (Classification)
+
+         e. Coordinating Instructions. (The final lettered subparagraph contains any coordinating
+instructions that may be appropriate to ensure continuity in CHS.)
+
+4. SERVICE SUPPORT
+
+         a. Supply. (Reference may be made to the TSOP or another annex if they provide sufficient
+information.)
+
+                (1) General supply. (Provide special instructions applicable to medical units, such as
+additional requirements for potable water for patient care.)
+
+                (2) Medical supply. (Provide special procedures applicable to this operation.)
+
+                       (a) Requirements. (For sustaining supported forces, this includes blood management.)
+
+                       (b) Procurement. (Provide detailed information on resupply and stockage levels.)
+
+                       (c) Storage. (Any specific equipment requirements, such as refrigerators.)
+
+                       (d) Distribution. (Includes method of distribution and any limitations and restrictions,
+as well as transportation requirements.)
+
+                (3) Medical supply installations. (Give the locations, mission, hours of opening and closing,
+and troops supported for each medical supply installation. [In the division AO, this includes the DMSO.]
+An overlay may also be used for clarity.)
+
+                (4) Salvage of medical equipment and supplies. (Medical equipment and supplies are
+afforded protection under the provisions of the Geneva Conventions and cannot be intentionally destroyed.
+If they cannot be taken with the force, they must be abandoned [refer to FM 8-10].)
+
+                (5) Captured enemy medical supplies and equipment. (The disposition of these supplies and
+equipment is also governed by the provisions of the Geneva Conventions. They can be used to treat EPW
+patients.)
+
+                (6) Civilian medical supplies and equipment. (Include availability, compatibility, and
+maintenance support requirements.)
+
+                (7) Other combat health logistics matters.
+
+         b. Transportation and Movements. (Include medical use of various transportation means.)
+                                                       ______________
+                                                        (Classification)
+
+                                                                                                                             B-11
+
+
+---
+
+FM 4-02.6
+
+                                   ______________
+                                    (Classification)
+
+           (1) Ground.
+
+           (2) Air (Army air).
+
+           (3) Air (USAF).
+
+           (4) Rail.
+
+           (5) Water (inland and/or sea).
+
+                (6) Movement control and traffic regulation. (Include designation of MEDEVAC routes and
+air corridors.)
+
+      c. Services.
+
+                (1) Services to medical units and facilities. (Include information on the following services:
+laundry, bath, mortuary affairs (MA), utilities, fire fighting, construction, and real estate.)
+
+                (2) Medical equipment maintenance. (Include in separate subparagraphs the location,
+mission, and hours of operation for medical maintenance and/or optical repair teams, unless included as
+attachments to health service logistics units.)
+
+                (3) Labor. (Include policies on the use of civilian or other personnel for labor. Comply with
+existing agreements, arrangements, or policies.)
+
+                (4) General maintenance. (Include priority of maintenance, location of facilities, and
+collecting points.)
+
+5. MEDICAL EVACUATION, TREATMENT, AND OTHER HEALTH SERVICES
+
+      a. Medical Evacuation.
+
+                (1) Evacuation requirements for Army, Navy, USAF, allied and coalition forces, allied
+civilian, and refugees, detainees, and EPW. (Guards for EPW are nonmedical personnel selected by the
+echelon commander.)
+
+                (2) Requirements.  (List requirements, including percentage evacuated by air or sea
+transportation means.)
+                                             ______________
+                                               (Classification)
+
+B-12
+
+
+---
+
+                                                          FM 4-02.6
+
+                                                       ______________
+                                                        (Classification)
+
+                (3) Units. (Give location, mission, and attachment of evacuation elements, such as forward-
+sited corps ground ambulances or forward-sited air ambulances.)
+
+         b. Treatment.
+
+                (1) Policies. (State treatment policies to include civilians, refugees, and EPW.)
+
+                (2) Units. (Give the location and the establishing and disestablishing date and time [opening
+and closing] at new or old location for all. Each MTF, a division, separate brigade, or an ACR regimental
+clearing station should be listed in a separate paragraph.)
+
+         c. Other Health Services. (Include the provision of the remaining CHS functions: laboratory
+services, dental services, PVNTMED and sanitation, CSC, veterinary services, and required C4I.)
+
+6. MISCELLANEOUS. (Address areas of support not previously mentioned which may be required
+or needed for the execution of the CHS mission, such as CP locations, signal operation instructions [SOI],
+medical intelligence, and international or HN support agreements affecting the delivery of CHS.)
+
+                                                          /s/___________________________
+                                                            (Commander/Command Surgeon)
+
+Appendixes (as required)
+Distribution: (Is determined locally.)
+
+                                        _____________
+                                        (Classification)
+
+                                                          B-13
+
+
+---
+
+                                FM 4-02.6
+
+                    APPENDIX C
+
+MASS CASUALTY SITUATIONS
+
+C-1. General
+
+         a. Mass casualty situations occur when the number of casualties exceeds the available medical
+capability to rapidly treat and evacuate them. Therefore, the actual number of casualties required before a
+MASCAL situation is declared varies from situation to situation depending upon the availability of CHS
+resources. Technically, a MASCAL situation occurs if a combat medic has more than one seriously injured
+soldier to be cared for at one time. A MASCAL situation could occur from incidences such as an ambush
+of a platoon where 18 soldiers are wounded, an accident involving a troop carrier where 30 soldiers are
+hurt, or the use of WMD where hundreds of soldiers are injured. To take this one step further, if the troop
+carrier accident occurs in the CZ in the vicinity of the medical company, a MASCAL situation has occurred
+(as this number of casualties would overwhelm the resources of the medical company). However, if the
+same accident occurred in the COMMZ or corps area in the vicinity of a CSH and an ASMC, the patients
+could be sent to several MTFs for treatment (MINIMAL to the ASMC; DELAYED, IMMEDIATE, and
+EXPECTANT to several supporting CSHs). By having the medical resources of multiple MTFs available,
+the impact of the MASCAL situation is effectively reduced.
+
+         b. This appendix provides a detailed description of how to establish a MASCAL station. Due to
+the complexity of the MASCAL station and the number of personnel involved, the entire station may not be
+able to be set up at the medical company level. The CHS planner should, therefore, modify the station
+based on the specific unit’s needs.
+
+         c. This station is not practical at the BAS level. When faced with a MASCAL situation at the
+BAS level, the important aspects for the management of the situation are establishing control, organizing
+activities, and effectively sorting patients. Effective sorting will enhance the physician’s ability to maximize
+the use of his time and resources on those patients who would receive the most benefit from the intervention.
+
+C-2. Mass Casualty Management
+Mass casualty situations are normally chaotic and may include—
+
+         • Casualties in various stages of pain and distress.
+         • Casualties who may have single wounds, multiple wounds, or wounds from combined sources,
+such as thermal and blast injuries in a nuclear detonation.
+         • Medical conditions that vary from relatively minor injuries to severe, life-threatening trauma.
+         • New casualties arriving before the patients already on hand are treated.
+         • Personnel who are just dazed and wandering throughout the area disrupting operations.
+         • Uninjured personnel looking for a buddy, or when civilian casualties are being treated,
+relatives looking for a loved one, which also adversely impacts on the control of the situation.
+
+                                                                                                                               C-1
+
+
+---
+
+FM 4-02.6
+
+         a. Planning. To ensure efficient management of MASCAL situations, the CHS planner must
+develop an effective plan and then rehearse it on a periodic schedule.
+
+                (1) In MASCAL situations, medical resources are scarce. The plan, therefore, must be
+comprehensive and efficiently use what medical resources are available.
+
+               (2) Planning considerations include—
+
+               • Establishing a control element to coordinate ongoing activities and release informa-
+
+tion updates.
+
+               • Securing the area and limiting access to nonessential personnel.
+
+               • Establishing communications between areas and to higher headquarters, if possible.
+
+               • Establishing the triage, treatment, and holding areas.
+
+               • Establishing a traffic pattern which provides for the smooth flow of patients and
+
+vehicles.
+
+               • Marking routes to the different areas.
+
+                       • Orienting all personnel (medical and nonmedical) operating the MASCAL station to
+the types of markings used, layout, and routes to be followed during the MASCAL operation.
+
+               • Organizing medical personnel for staffing of the different areas.
+
+                       • Organizing nonmedical personnel for litter bearer duties, messengers, restocking
+supplies, and other nonmedical functions.
+
+               • Ensuring an adequate blood supply and/or other Class VIII items are available or on
+
+order.
+
+               • Providing timely evacuation.
+
+        b. Rehearsal and Training.
+
+                (1) The response to a MASCAL situation must be rehearsed. By conducting rehearsals, unit
+personnel become familiar with where they should report and with what their duties should entail.
+
+                (2) Nonmedical personnel assigned to the unit should be trained in the proper techniques for
+loading, carrying, and unloading litters. This training will enhance their ability to perform the task by
+reducing fatigue and risk of injury for transporting patients incorrectly. (Refer to FM 8-10-6 for additional
+information.)
+
+C-2
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+C-3. Triage Categories
+
+Triage is the medical sorting of patients according to the type and seriousness of the injury, likelihood of
+survival, and the establishment of priorities for treatment and evacuation. Triage ensures that medical
+resources are used to provide care for the greatest benefit to the largest number of casualties.
+
+         a. Triage of Conventional Wounds and Injuries.
+
+                (1) Triage (or sorting) is the process of prioritizing or rank ordering wounded soldiers on the
+basis of their individual needs for surgical intervention. The likely outcome of the individual casualty must
+be factored into the decision process prior to the commitment of limited medical resources. Casualties are
+generally sorted into four categories (or priorities). These priority groupings are discussed in decreasing
+order of surgical urgency.
+
+                (2) The four triage categories of conventional injuries are—
+
+                       (a) IMMEDIATE. This category is for the patient whose condition demands immediate,
+resuscitative treatment. An example of this treatment is the control of hemorrhage from an extremity.
+Generally, the procedures used are short in duration and economical in terms of medical resources.
+(Approximately 20 percent of the casualties are normally in this category.)
+
+                       (b) DELAYED. Casualties in the delayed category can tolerate delay prior to operative
+intervention without unduly compromising the likelihood of a successful outcome. When medical resources
+are overwhelmed, soldiers in this category are held until the IMMEDIATE cases are cared for.
+(Approximately 20 percent of the casualties are normally in this category.) An example of this category is
+stable abdominal wounds with probable visceral injury, but no significant hemorrhage. These cases may go
+unoperated for 8 to 10 hours, after which there is a direct relationship between time lapsed and the advent of
+complications. Other examples include—
+
+                             • Soft tissue wounds requiring debridement.
+
+                             • Maxillofacial wounds without airway compromise.
+
+                             • Vascular injuries with adequate collateral circulation.
+
+                             • Genitourinary tract disruption.
+
+                             • Fractures requiring operative manipulation, debridement and external fixation.
+
+                             • Eye and central nervous system injuries.
+
+                       (c) MINIMAL (OR AMBULATORY). This category is comprised of casualties with
+wounds that are so superficial that they require no more than cleansing, minimal debridement under local
+anesthesia, administration of tetanus toxoid, and first-aid type dressings. They must be rapidly directed
+away from the triage area to uncongested areas where first aid and nonspecialty medical personnel are
+
+                                                                                                                               C-3
+
+
+---
+
+FM 4-02.6
+
+available. (Approximately 40 percent of the casualties are in this category and most of them are ambulatory.)
+An example is burns of less than 15 percent total body surface area (TBSA), with the exception of those
+involving the face, hands, and genitalia. Other examples include—
+
+                             • Upper extremity fractures.
+                             • Sprains.
+                             • Abrasions.
+                             • Behavioral disorders or other obvious psychiatric disturbances.
+                       (d) EXPECTANT. Casualties in the expectant category have wounds that are so
+extensive that even if they were the sole casualty and had the benefit of optimal medical resources application,
+their survival would be very unlikely. During a MASCAL situation, this type of casualty would require an
+unjustifiable expenditure of limited resources that are more wisely applied to several other more salvageable
+soldiers. The EXPECTANT casualties should be separated from the view of other casualties; however,
+they should not be abandoned. Above all, one attempts to make them comfortable by whatever means
+necessary and to provide attendance by a minimal, but competent staff. (Approximately 20 percent of the
+casualties are normally in this category.) Examples of this category include—
+                             • Unresponsive patients with penetrating head wounds.
+                             • High spinal cord injuries.
+                             • Mutilating explosive wounds involving multiple anatomical sites and organs.
+                             • Second- and third-degree burns in excess of 60 percent TBSA.
+                             • Profound shock with multiple injuries.
+                             • Agonal respiration.
+         b. Triage of Nuclear Generated Patients. There are four triage categories for patients generated
+in a nuclear detonation. These categories are—Immediate Treatment Group (T1); Delayed Treatment Group
+(T2); Minimal Treatment Group (T3); and Expectant Treatment Group (T4).
+         c. Triage of Neuropsychiatric Casualties. These casualties are usually triaged as MINIMAL and
+should be quickly separated from the wounded patients. Within the MH discipline, the triage categories for
+psychiatric disorders are contained in FM 8-51.
+
+C-4. Control Element
+         a. The MTF commander designates the individuals who will staff the control element. This
+
+element is responsible for—
+                • Implementing the plan.
+
+C-4
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+                • Establishing security.
+
+                • Limiting access to the area.
+
+                • Monitoring ongoing activities.
+
+                • Coordinating medical resource augmentation.
+
+                • Providing informational updates as required.
+
+         b. Communications with the triage, treatment, and holding areas are essential to accomplish the
+coordination and control of ongoing activities. If telephone/radio communications are not available, a
+messenger system is employed using some of the nonmedical personnel for this function.
+
+C-5. Establishing Triage, Treatment, and Holding Areas
+
+Depending on the tactical situation or the location of the MASCAL, the triage, treatment, and holding areas
+may be established in the existing MTF, an available shelter, or outdoors.
+
+         a. Using the Existing Medical Treatment Facility.
+
+                (1) When the existing MTF is used, the triage area should afford easy access for incoming
+litter bearer teams, ground and air ambulances, and nonmedical transportation assets. Sufficient space must
+be allocated for ambulance turnaround to ensure a smooth traffic flow. These requirements are normally
+met with the established layout of the MTF; however, depending upon the number of casualties being
+received, additional space may be required to accommodate the patient flow. Litter stands should be
+established (such as sawhorses supporting litters) for placing patients to be triaged. At a minimum two
+should be established with the triage officer between the stations. Resuscitation and vascular volume
+replacement are initiated in the triage area, if required. The flow of wounded into the triage area must be
+controlled. An increase in the noise level and confusion can result if too many casualties are brought into
+the triage area at one time. These factors can adversely impact on the ability of the medical personnel to
+thoroughly evaluate and prioritize each casualty.
+
+                (2) Specific areas within the MTF are designated for each of the triage categories, personnel
+pools, and control elements. Additionally, internal traffic routes to the x-ray area, the laboratory area, and
+the preoperative, recovery, and holding areas (if augmented by a surgical detachment or if the MTF has an
+organic surgical squad) must be identified. Surgical procedures are limited to those required to save life and
+stabilize nontransportable patients for evacuation.
+
+                       • Ideally, holding areas for each of the four triage categories should be established.
+Each area should be clearly identified and the route to that area marked. Marking can be accomplished with
+the use of different color panels or a numbering system. Each area can be designated as a specific color or
+number and the route to that area marked accordingly. The marking system used should function during
+times of good visibility as well as times of limited visibility (such as at night or during blackout conditions).
+
+                                                                                                                               C-5
+
+
+---
+
+FM 4-02.6
+
+(Materials used for marking purposes should be prepared when the MASCAL plan is developed and stored
+until required for use.)
+
+                       • Two personnel pool areas should be designated—one for medical personnel and one
+for nonmedical personnel. The MTF commander should designate those individuals who will supervise the
+management of these pools. As unit personnel complete tasks, shifts, or other duties, they report back to
+the appropriate personnel pool area. Using this system ensures the efficient use of available resources and
+permits the reallocation of resources as requirements change. The MINIMAL category of patients can be
+used as an additional manpower pool while awaiting transportation back to their units. They, with minimal
+training or briefing, can act as runners, litter bearers, or guides to free up medical personnel so they can
+attend to medical tasks.
+
+                       • The control element should have access to all areas as required.
+
+                       • The internal communications system should be modified as required to provide
+communications capability to the major areas within the facility; if a communications systems does not
+exist, a messenger system is established.
+
+         b. Using an Available Structure. A MASCAL situation may occur in an area away from the
+MTF. It may not be practical or possible to evacuate or transport the casualties to the MTF location. If a
+structure not previously used for an MTF is available, it may be used. The requirements for the establish-
+ment of the area are the same as when an existing MTF is used; however, the actual layout will differ
+depending on the structure used. Caution must be used to develop a traffic pattern that will avoid
+congestion and the crisscrossing of internal paths and will expedite patient flow.
+
+         c. Establishing the Mass Casualty Station Outdoors. In some instances, a MASCAL station may
+be required to be established outdoors. When this occurs, efficient use of overhead cover and available
+shade is essential. Unless inclement weather occurs, the triage area and the MINIMAL treatment area
+remain outdoors. The triage area must be accessible to incoming vehicles and provide sufficient space for
+the turnaround of the vehicles. It should also not be established too far away from the treatment areas, as
+the distance will place an additional burden on the litter bearers. Once triaged, patients should be brought
+inside an improvised shelter as soon as possible. The use of improvised shelters or the use of cover (such as
+caves) may be required until more appropriate shelters can be obtained or established.
+
+C-6. Patient Accountability
+
+During MASCAL situations, medical personnel do not have time to fully complete the FMC with the
+required patient identification information. A numbering system can be used to expedite the process. The
+patient can be identified by a number and this same number is then entered on his FMC. The FMC is
+attached to the individual’s clothing. The FMC is used to record the treatment and medications that the
+patient receives. When the MASCAL situation begins to resolve, and as time permits, medical personnel
+obtain the necessary information to complete the FMC.
+
+C-6
+
+
+---
+
+                                                                                                                      FM 4-02.6
+
+C-7. Medical Evacuation
+When MASCAL situations occur, the number of casualties will normally overwhelm the available medical
+evacuation assets. Therefore, the MASCAL plan should include provisions for the use of nonmedical
+vehicles and aircraft. When at all possible, casualties who have sustained more severe wounds should be
+evacuated in medical ground and air ambulances. These soldiers will benefit most from the provision of en
+route medical care. The lightly wounded and stable casualties and those suffering from BF can be
+transported by nonmedical transportation assets without serious risk of worsening their medical prognosis.
+
+C-8. Contaminated Patients
+Initial triage, EMT, and decontamination are accomplished on the dirty side of the hot line. Life-sustaining
+care is rendered, as required, without regard to NBC contamination. Secondary triage, ATM, and patient
+disposition are accomplished on the clean side of the hot line. When treatment must be provided in a
+contaminated environment, outside of the chemical-biological protective shelter, the level of care may be
+reduced to first-aid procedures because the care providers and patients are at MOPP Level 4.
+
+C-9. Disposition of Remains
+In a MASCAL situation, there will be casualties who have died before reaching the triage area (dead on
+arrival [DOA]) or who die of wounds before they can be stabilized and further evacuated. A temporary
+morgue area should be established away from and out of sight of the triage and treatment areas. (This
+morgue area is for use only by the MTF for those patients who have died. It is not a temporary collecting
+point for deceased personnel from other units.) This area could be established behind a natural barrier,
+such as a stand of trees, or it can be set off by using tentage or tarpaulins. This area is not an actual
+morgue, as it has neither the required equipment nor is it staffed; it is only a holding area. The FMC must
+be completed on each of the deceased personnel, and it must be signed by a physician. The remains are held
+until MA support can be obtained.
+
+                                                                                                                               C-7
+
+
+---
+
+                                                                       FM 4-02.6
+
+                          APPENDIX D
+
+MANAGEMENT OF CLASS VIII ITEMS
+      IN THE FORCE XXI DIVISION
+
+D-1. Class VIII Supply Management
+
+         a. Class VIII supply management in the Army’s Force XXI division is accomplished by medical
+units/elements through the use of a functional business system called MC4 system/Theater Medical
+Information Program (TMIP). Currently, the functional business system for Class VIII wholesale/retail
+item management at echelons above division is the Theater Army Medical Management Information System
+(TAMMIS). This system’s logistics modules will be replaced in the future by TMIP. The MC4/TMIP is
+currently being evaluated and tested and is scheduled for fielding to division and corps medical units/
+elements. The system provides division and corps medical units/elements with a direct link with the
+supporting MEDLOG battalion’s units. The health service material officer (HSMO) of the DSS and the
+medical materiel management branch (MMMB) of the DISCOM distribution management center coordinates
+Class VIII resupply for division medical units/elements. Each medical unit maintains its own basic load of 5
+days of medical supplies. The MEDLOG battalion normally assigns one MEDLOG company in DS of each
+division. Once established, it provides Class VIII resupply for the division and corps medical elements
+operating in the division AO.
+
+                                      NOTE
+
+The provisions of this appendix are also applicable to AOE divisional
+medical units when MC4/TMIP and other appropriate electronic sys-
+tems become available.
+
+         b. During deployment, lodgment, and early buildup phases, medical units operate from planned,
+prescribed loads and from existing pre-positioned war reserve stockpiles identified in applicable contingency
+plans.
+
+         c. During the initial employment phase, each FSMC will receive a preconfigured medical
+resupply push-package every 48 hours from pre-positioned stock or the CONUS sustainment base.
+Preconfigured medical resupply push-packages will continue until appropriate units of the corps MEDLOG
+battalion are established.
+
+         d. Initial resupply efforts may consist of preconfigured medical supply packages tailored to meet
+specific mission requirements. Preconfigured push-packages will normally be shipped directly to the
+DSMC and FSMCs until replenishment line item requisitioning is established with the supporting MEDLOG
+company. During this time, medical company treatment and ambulance teams deployed with maneuver or
+other division elements are resupplied from their supporting medical company. Maneuver battalion medical
+platoons/BASs will receive standard push-packages every 12 to 24 hours. Contents of push-packages can
+be adjusted as the battle changes. Line item requisitioning will be by exception only during this time. While
+resupply by preconfigured packages is intended to provide support during the initial phase, continuation on
+an exception basis may be dictated by operational needs. Planning for such a contingency must be directly
+
+                                                                       D-1
+
+
+---
+
+FM 4-02.6
+
+coordinated with the DSS. Other than line item requisitioning from the FSMCs and DSMC, the HSMO of
+the DSS will coordinate all Class VIII requirements for the division with the supporting MEDLOG battalion
+and/or MEDLOG company, as appropriate.
+
+     e.    Divisional medical elements use MC4/TMIP to requisition Class VIII items. Users of this
+
+system in the division include maneuver battalion medical platoons, FSMCs, the DSMC, and the DSS
+
+HSMO. The MC4/TMIP system is the primary source for Class VIII line item requisitions from the
+
+FSMCs and DSMC. Forward support medical companies and the DSMC request Class VIII resupply from
+
+the corps MEDLOG company in DS of a division.
+
+D-2. Throughput Delivery of Class VIII Items
+
+Delivery of throughput Class VIII items to the requesting medical units in the division is accomplished by
+logistical packages (LOGPACs) and nonmedical transports. Shipment of these Class VIII LOGPACs from
+the MEDLOG company is coordinated with the corps support battalion and the corps movement control
+officer (MCO). The management and in-transit visibility of Class VIII item delivery is accomplished
+through document number and transportation number tracking. The systems that work together to provide
+this management and coordination are TAMMIS, Transportation Coordinators’ Automated Information for
+Movement System (TC-AIMS), Movement Tracking System (MTS), and global traffic network (GTN).
+These systems are located in the MEDLOG company and the DISCOM MMMB. In some cases, delivery
+of medical materiel into the division AO may also be achieved through use of the directed Class VIII
+resupply using medical evacuation resources that are returning to the division medical units. From the
+FSMCs, delivery of Class VIII items to maneuver battalion medical platoons via LOGPACs or nonmedical
+transports is coordinated by the FSMC with the FSB support operations section. For directed Class VIII
+resupply, air and ground ambulance backhaul may be used. Immediate Class VIII resupply will be
+processed for shipment by the most expedient means available. Based on casualty estimates, medical push-
+packages may be pre-positioned with maneuver battalion medical platoons or with the FSMC. Figure D-1
+provides an overview of Class VIII requisitions and resupply flow at Echelon I. Figure D-2 provides an
+overview of Class VIII requisitions and resupply flow at Echelon II.
+
+D-3. Additional Combat Health Logistics Support Information
+
+For detailed information on the transmission of Class VIII supply requisitions and blood support for Force
+XXI divisions refer to FM 4-02.1.
+
+D-2
+
+
+---
+
+                                                                                                    FM 4-02.6
+
+Figure D-1. Overview of Class VIII requisition and resupply flow at Echelon I.
+                                                                                                              D-3
+
+
+---
+
+FM 4-02.6
+
+                Figure D-2. Overview of Class VIII requisition and resupply flow at Echelon II.
+D-4
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                   APPENDIX E
+
+                               RECORDS AND REPORTS
+
+                        Section I. PATIENT ACCOUNTABILITY
+
+E-1. General
+
+         a. Individuals entering the medical treatment chain must be accounted for at all times. Prompt
+reporting of patients and their health status to the next higher headquarters is necessary for the maintenance
+of a responsive personnel replacement system and the Army Casualty System. Patient accountability and
+status reporting is required to—
+
+                • Provide the commander with an accurate account of personnel losses due to medical
+causes (enemy action and related battlefield losses and DNBI).
+
+                • Verify personnel replacement requirements.
+
+                • Assist the command surgeon in the preparation of the CHS estimate and plan.
+
+                • Alert PVNTMED personnel to the medical threat in a given AO.
+
+         b. Patient accountability and status reporting in the AOE division is depicted graphically in
+Figure E-1.
+
+                          This paragraph implements STANAG 2132 and QSTAG 470.
+
+E-2. United States Field Medical Card
+
+         a. The FMC (DD Form 1380) is used to record data similar to that recorded on the inpatient
+treatment record cover sheet and Standard Form (SF) 600, Chronological Record of Medical Care. The
+FMC is used by BASs, clearing stations, and nonfixed troop or health clinics working overseas, on
+maneuvers, or attached to commands moving between stations. It may also be used to record an outpatient
+visit when the health record is not readily available at an MTF. The FMC is used in the TO during times of
+hostilities. It also may be used to record carded for record only cases.
+
+         b. The FMC is made so that it can be attached to a casualty. The cards are issued as a book, with
+each card set consisting of an original card and a pressure sensitive paper duplicate.
+
+         c. Medical treatment facilities initiating the SF 600, having received a patient with an initiated
+DD Form 1380, will attach this form to the SF 600 to remain as a permanent record of the patient
+(Appendix K).
+
+         d. For additional information on the preparation and use of this card, refer to AR 40-66 and
+FM 8-10-6.
+
+                                                                                                                               E-1
+
+
+---
+
+FM 4-02.6
+
+                  Figure E-1. Patient accountability and status reporting in the AOE division.
+E-3. Daily Disposition Log
+
+         a. The Daily Disposition Log (DDL) (Figure E-2) is maintained by Echelons II MTFs. The
+information from this log is extracted, when required, and provided to the S1, (Adjutant [US Army]) or
+supported unit requesting the information. The DDL is also the primary source document for information
+needed in the preparation of the Casualty Feeder Report (DA Forms 1155/1156), Patient Summary Report
+(PSR), and the Patient Evacuation and Mortality Report (PE&MR).
+E-2
+
+
+---
+
+                                                                                                                     FM 4-02.6
+         b. The DDL does not lend itself to transmission. However, the information may be extracted and
+provided via courier or electronic means to agencies responsible for preparing consolidated reports and/or
+casualty feeder reports.
+
+                                      Figure E-2. Example Daily Disposition Log.
+                                                                                                                               E-3
+
+
+---
+
+FM 4-02.6
+
+E-4. Patient Summary Report
+The PSR is a weekly report (Figure E-3), compiled as of 2400 hours, Sunday. It is prepared by Echelons I
+and II MTFs and is submitted to respective surgeons as shown in Figure E-1, usually on each following
+Monday. The command surgeon can, however, dictate the frequency of submission to meet command
+requirements.
+
+                                    Figure E-3. Example Patient Summary Report.
+E-5. Patient Evacuation and Mortality Report
+The PE&MR (Figure E-4) is prepared by Echelons I and II MTFs. It is disseminated as shown in Figure E-1.
+The PE&MR primarily serves as a medical spot report. The frequency of this report is established by the
+command surgeon.
+E-4
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                          Figure E-4. Example Patient Evacuation and Mortality Report.
+
+                    Section II. BLOOD MANAGEMENT REPORT
+
+E-6. General
+This section provides a format for the required report for requesting blood support. Echelon II MTFs may
+only request Group O red blood cells. The report in this appendix, therefore, only discusses this limited
+support. For additional information on the complete blood report submitted by Echelons III and IV MTFs,
+refer to Joint Publication 4-02.1.
+
+                                                                                                                               E-5
+
+
+---
+
+FM 4-02.6
+E-7. Blood Management Report
+Depending on the tactical situation and the command policy, the blood management report may be
+transmitted by voice or written means (transmitted electronic message, telephonically, or by courier). A
+sample written message format is contained in Figure E-5. A sample voice message format is contained in
+Figure E-6.
+
+                                 Figure E-5. Sample written format for blood report.
+
+                                       Figure E-6. Sample voice message format.
+E-6
+
+
+---
+
+            C1, FM 4-02.6
+
+APPENDIX F
+
+THE BRIGADE SUPPORT MEDICAL COMPANY
+
+                      Section I. MISSION AND ORGANIZATION
+
+F-1. Organization, Capability, and Functions
+
+         a. The BSMC, TOE 08108F300, is assigned to the BSB of the SBCT. The basis of allocation is
+one per brigade supported. The overall mission of the BSMC is to provide Level II CHS to all SBCT units
+operating within the brigade AO. The company also provides Level I CHS on an area basis to all SBCT
+units that do not have organic medical assets. The company provides C2 for its organic and attached/
+OPCON medical augmentation elements. The BSMC locates and establishes its company headquarters and
+a brigade Level II MTF in the BSA. The BSMC will normally be augmented with a Level II+ surgical
+capability provided by a corps FST, see FM 4-02.25. For additional information on the operations and
+functions of similar medical company organizations, see FMs 4-02.24, 4-93.5, 4-93.7, and 4-93.51. For
+detailed information on the capabilities of the FST see FM 4-02.25.
+
+         b. The BSMC is organized (Figure F-1) into a company headquarters, a PVNTMED section, a
+MH section, a treatment platoon, and an evacuation platoon. The company performs the following functions:
+
+                • Emergency medical treatment and ATM for wounded and DNBI patients.
+
+                • Sick call services.
+
+                • Ground ambulance evacuation from supported Level I MTF and provides area support
+medical evacuation for the BSA and SBCT AO.
+
+                • Operational dental treatment that includes emergency and essential dental care.
+
+                • Class VIII resupply and medical equipment maintenance and repair support.
+
+                • Limited medical laboratory and radiology diagnostic services.
+
+                • Outpatient consultation services for patients referred from Level I MTFs.
+
+                • Patient holding for up to 20 patients.
+
+                • Reinforcement/regeneration of maneuver battalion medical platoons.
+
+                • Preventive medicine consultation and support.
+
+                • Combat and operational stress control support.
+
+                • Mass casualty triage and management.
+
+                                                                                                                               F-1
+
+
+---
+
+C1, FM 4-02.6
+
+                • Patient decontamination (see FM 4-02.7, and for treatment of NBC patients refer to FMs
+4-02.283, 8-284, and 8-285).
+
+           • Coordination with the unit ministry team for required religious support.
+
+     c. The BSMC is dependent on—
+
+           • Appropriate elements of the SBCT for legal, finance, and personnel and administrative
+
+services.
+
+                • The headquarters and distribution company (HDC) (TOE 43106F300), BSB for food
+service support, and religious support. Further, communication-electronics support and communications
+and security equipment maintenance are also provided by the HDC, BSB.
+
+           • The forward maintenance company (FMC) (TOE 43107F300), BSB for unit maintenance
+
+support.
+
+           • The FST (TOE 08518LA00) for surgical support as an early entry element into the AO.
+
+                • A MEDLOG activity that could be either Joint CONUS-based, United States Army
+Medical Supply Agency, or a corps MEDLOG company (TOE 08488A000), MEDLOG battalion (corps)
+for optometry, Class VIII resupply, and medical equipment maintenance and repair.
+
+                • Either a Joint or Army blood support detachment (TOE 08489A000), MEDLOG battalion
+for blood support.
+
+                • A telemedicine team for reach telemedicine/teleconsultation capabilities to national assets
+in CONUS or sustaining base.
+
+                • The forward support medical evacuation team (FSMT) from the medical company, air
+ambulance (UH 60) (TOE 08447L000). The FSMT collocates with the BSMC for timely aeromedical
+evacuation within the SBCT AO. Normally these air ambulances are placed in direct support of SBCT
+operations. Under some scenarios patients are evacuated by air ambulances to a supporting Level III MTF,
+either a corps combat support hospital or to a supporting offshore hospital afloat. Air ambulance support
+may not be available within the first 96 hours after initial entry into an AO.
+
+                •  The medical company, ground ambulances (TOE 080449A000) for ground MEDEVAC
+from the BSA.
+
+                • An Air Force air evacuation liaison team (AELT) and a mobile aeromedical staging
+facility (MASF) for providing aeromedical evacuation from the AO, when required.
+
+F-2
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+                    Figure F-1. Brigade support medical company, brigade support battalion.
+F-2. Augmentation
+It is essential that the BSMC be augmented with an FST as part of the initial entry medical support for the
+SBCT. Medical evacuation by air ambulance will be the preferred method for evacuating patients.
+Therefore, it is essential that an FSMT augment the BSMC medical evacuation capabilities during early
+entry or as part of follow-on support elements. For example, in Kosovo, medical evacuation by air was the
+preferred method of evacuation because of difficulties with short-range communication between ground
+elements, conditions of roads, and time and distance factors. A reach-capability telemedicine team will link
+the BSMC with the sustaining base. This capability is invaluable for medical consultation and coordination
+for CHS requirements. Additional augmentation is provided as required based upon METT-TC and may
+include:
+
+         • Level III MTF (a module from the CSH for hospitalization support).
+         • Dental services.
+         • Veterinary services (food safety/security [inspection and surveillance], animal care, and veter-
+inary PVNTMED support).
+
+                                                                                                                               F-3
+
+
+---
+
+C1, FM 4-02.6
+
+         • Area medical laboratory for the rapid health-hazard identification (ID) and assessment within
+an AO. These operational health hazards include NBC threat agents, endemic diseases, and other medical
+threats associated with occupational and environmental hazards.
+
+         • Preventive medicine (medical threat/medical surveillance support and occupational and
+environmental health surveillance).
+
+         • Mental health/neuropsychiatric treatment (combat operational stress control).
+         • Health service logistics and blood support.
+         • Area medical support.
+         • Air and ground ambulances for medical evacuation.
+
+               Section II. COMPANY HEADQUARTERS SECTION
+                           ORGANIZATION AND FUNCTIONS
+
+F-3. Company Headquarters Section
+         a. The company headquarters section provides C2 for the company and attached units. It
+
+provides unit-level administration, general and medical supply, unit-level medical maintenance, and NBC
+defense support. It also provides supply point distribution of Class VIII for supported assigned or attached
+medical elements. This includes Class VIII for resupply of the SBCT’s combat lifesavers, if required.
+
+         b. The company headquarters section is organized into a command element, a supply element,
+and a support operations element consisting of unit decontamination, NBC defense, and a small arms repair
+capability. For communications, the company establishes an FM, AM, and MSE network. For personnel,
+major equipment, and communication/automation enablers see Table F-1.
+
+F-4
+
+
+---
+
+                                                                                                  C1, FM 4-02.6
+Table F-1. Company Headquarters Section Depicting Personnel, Major Equipment,
+
+                         and Communications/Automation Enablers
+
+                                                                                                                 F-5
+
+
+---
+
+C1, FM 4-02.6
+
+F-4. Command Element
+
+The command element is responsible for providing billeting, security, training, administration, and discipline
+for assigned personnel. This element provides C2 of its assigned and attached personnel. It is typically
+staffed with a company commander, an XO, and a 1SG.
+
+                                                             NOTE
+
+                       Currently, medical company commanders’ positions are documented
+                       05A, AMEDD immaterial, meaning any qualified AMEDD officer
+                       can assume command. When the medical company commander is not
+                       a physician, clinical decisions and technical supervision is performed
+                       by the treatment platoon leader. The treatment platoon leader’s
+                       position should always be filled by a physician.
+
+F-5. Supply Elements
+
+The supply elements include general supply, medical supply, and medical equipment maintenance and
+repair elements. These elements provide Class VIII resupply, unit-level medical equipment maintenance,
+general supply, and armorer support for the BSMC’s organic platoons/sections and attached medical units.
+
+         a. General Supply Element. The general (unit) supply element is responsible for managing,
+requesting, receiving, issuing, storing, and maintaining all classes of supplies and turn-in of supplies and
+equipment, as well as performing organizational maintenance on the company’s small arms. It also employs
+the ULLS/S-4 for automated supply activities. The unit supply sergeant coordinates all general supply,
+equipment requirements, and actions with the BSMC 1SG and the logistics support operations officer of the
+BSB support operations section. The armorer performs organizational maintenance on the company’s small
+arms and is responsible for evacuating weapons as necessary to the area support company for DS
+maintenance. In addition, he normally assists the supply sergeant in his duties.
+
+         b. Medical Supply Element. The medical supply element establishes the Class VIII distribution
+point and manages the requisitioning of Class VIII supplies and blood products. The MEDLOG sergeant of
+this element coordinates Class VIII requirements through the BSMC XO with the medical logistics officer
+(MLO) of the BSB support operations section and the brigade surgeon section (BSS).
+
+                (1) The medical supply element issues Class VIII supplies to all treatment elements of the
+company, maintains quality control by monitoring the expirations of dated Class VIII supplies, and
+requisitions accordingly. All blood products for the company are distributed to the treatment platoon (area
+support squad medical laboratory element) for storage, managing, monitoring, reporting, and further
+distribution within the company and supporting FST, when attached.
+
+                (2) Blood products for the supporting FST will be issued directly to that unit for use,
+management, and reporting.
+
+F-6
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+                (3) The BSMC medical supply element and the BSB support operations section’s MLO will
+use MC4/Defense Medical Logistics Standard Support—Amplitude Modulated (DMLSS-AM), TAMMIS
+Customer Assistance Module (TCAM), Combat Service Support Control System (CSSCS), FBCB2, radios,
+telephones, facsimile (FAX), and GCSS-A for requisitioning and monitoring Class VIII requirements for
+the SBCT and its supporting medical augmentation elements.
+
+         c. Medical Equipment Maintenance Element. The medical equipment maintenance element
+provides operational and unit-level medical equipment maintenance for the BSMC and all other medical
+elements of the SBCT.
+
+                          Section III. EMPLOYMENT OF THE
+                     BRIGADE SUPPORT MEDICAL COMPANY
+
+F-6. Establishment of the Company Headquarters
+
+         a. In establishing the company headquarters, the command element must ensure that
+communication is established with BSB units and other supported units, as required. All security precautions
+and requirements must be met according to BSB and SBCT TSOP. Only essential equipment is set up to
+support the BSMC operations. If the failure to camouflage endangers or compromises tactical operations,
+the camouflage of the Level II MTF may be ordered by a commander of at least brigade level or equivalent
+(refer to STANAG 2931). Dispersion of shelter systems and equipment is accomplished to the maximum
+extent possible.
+
+         b. The command element supervises the establishment of the company. The commander monitors
+all elements as the company sets up. He ensures the BSMC is established according to the unit layout and
+the TSOP. The XO and the 1SG assist the company commander. The XO supervises and monitors the
+establishment of the company area for compliance with BSB TSOP and SBCT guidance. The XO coordinates
+with supporting units/elements for support requirements. The commander and XO coordinate the medical
+support mission with the BSB support operations and the brigade surgeon’s sections. This coordination
+ensures the timely forward deployment of BSMC evacuation and treatment elements in support of the
+SBCT. For synchronization of CHS operations, medical company leaders must conduct direct interface
+with maneuver battalion medical platoon leaders and other brigade medical elements.
+
+         c. The 1SG focuses his attention toward ensuring all unit security requirements are accomplished.
+The 1SG supervises the establishment of the company headquarters and the troop billeting areas and
+monitors field sanitation team activities. The support operations element assists in establishing the company
+headquarters. The NBC NCO supervises the company NBC team by monitoring its activities and use of
+unit NBC-monitoring and decontamination equipment. He coordinates with other BSB units and monitors
+the placement of early warning devices for the detection of chemical agents. He supervises and monitors
+unit personnel for compliance with correct wear of MOPP ensemble according to the current MOPP level
+and TSOP.
+
+                                                                                                                               F-7
+
+
+---
+
+C1, FM 4-02.6
+
+         d. Unit personnel set up communications equipment and establish the NCS for the company.
+They establish contact with the battalion headquarters and with supporting and supported units. Unit
+personnel also establish the internal wire communications net. They connect to the MSE area system at the
+wire subscriber access point operated by the area support signal element.
+
+         e. The logistics element establishes the general supply for the company and establishes a Class
+VIII supply distribution point for all medical elements operating in SBCT AO. This element ensures that
+supplies are secured, properly stored, and protected from the environment. Further, it establishes the unit
+POL and water points.
+
+F-7. Preventive Medicine Section
+
+         a. The PVNTMED section (Table F-2) is responsible for supervising the unit’s PVNTMED
+program as described in FM 4-02.17. The section is primarily responsible for medical threats/medical
+surveillance support and conducting occupational and environmental surveillance. This section is responsible
+for assessing the health risk associated with medical and health hazards and recommending protective
+measures.
+
+         b. The PVNTMED section provides advice and consultation in the area of health threat assessment,
+force health protection, environmental sanitation, epidemiology, sanitary engineering, and pest management.
+Through routine surveillance, they identify actual and potential health hazards, recommend corrective
+measures, and assist in training SBCT soldiers in disease and nonbattle injury prevention programs. For
+additional information on the operations and function of the PVNTMED section refer to FM 4-02.17.
+
+         c. Preventive medicine activities begin prior to deployment and continue during deployment and
+redeployment to minimize DNBIs. Actions taken include, but are not limited to—
+
+                • Supporting command awareness of potential medical threats and implementation of
+appropriate protective measures.
+
+                • Ensuring the deployment of a healthy and fit force.
+
+                • Monitoring the command’s immunization status (see AR 40-562).
+
+                • Monitoring the status of individual and small unit PVNTMED measures (see FMs 4-
+25.12 and 21-10).
+
+                • Monitoring against heat and cold injuries, occupational and environmental health hazards,
+arthropodborne diseases, and NBC contamination of water and food, (see FMs 4-02.17, 4-02.33, 8-250,
+TM 5-632, TBs (Med) 81, 507, 530, and 577).
+
+                • Ensuring unit’s training in PVNTMED to counter the medical threat.
+
+                • Monitoring the use of prophylaxes such as antimalarial tablets.
+
+F-8
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+                • Monitoring, analyzing, and reporting medical surveillance information.
+         d. Preventive medicine support operations are prioritized based on the METT-TC, medical
+threat, and assessment of data collected (through medical surveillance, occupational and environmental
+health surveillance, monitoring unit and individual protective measures, inspecting, and reporting
+observations). Under the oversight of the brigade surgeon, the PVNTMED section ensures implementation
+of the brigade PVNTMED program.
+                Table F-2. Preventive Medicine Section Depicting Personnel, Major Equipment,
+
+                                       and Communications/Automation Enablers
+
+                                                                                                                               F-9
+
+
+---
+
+C1, FM 4-02.6
+
+F-8. Mental Health Section
+         a. The MH section (Table F-3) is responsible for assisting commanders in preventing/controlling
+
+COSC through brigade mental health. The COSC team operates under the direction of the BSMC
+commander and provides brigade-wide MH services. See FM 8-51 for details on COSC/CSC duties. The
+behavioral science officer and MH specialist are especially concerned with assisting and training maneuver
+unit soldiers and small unit leaders, to include members of unit ministry teams, members of forward
+deployed medical platoons/sections, and medical treatment personnel of BSMC.
+
+                   Table F-3. Mental Health Section Depicting Personnel, Major Equipment,
+                                       and Communications/Automation Enablers
+
+         b. The BSMC MH section provides training and advice in the control of stressors, the promotion
+of positive combat operational stress behaviors, and the identification, handling, and management of
+misconduct stress behavior and BF soldiers. It coordinates COSC training for supported units. The section
+collects and records social and psychological data and counsels personnel with personal, behavioral, or
+psychological problems.
+F-10
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+         c. The MH section uses the brigade Level II MTF as the center for its operations, but is mobile
+throughout the AO. The section’s priority functions are to promote positive stress behaviors, prevent
+unnecessary evacuations, and coordinate RTD for recovered stress-related soldiers. Through the treatment
+and ambulance platoon leaders and the company commander, the section keeps abreast of the tactical
+situation and plans and projects requirements for COSC support when units are pulled back for rest and
+recuperation. For definitive information on COSC/CSC operations, see FMs 8-51, 22-51, and 6-22.5.
+
+                      Section IV. THE TREATMENT PLATOON
+
+F-9. General
+
+The treatment platoon (Figure F-2) receives, triages, treats, and determines the disposition of patients. The
+platoon provides for ATM, general medicine, and general dentistry. The platoon consists of a platoon
+headquarters, a treatment squad, an area support treatment squad, an area support squad, and a patient-
+holding squad. The treatment squad includes two treatment teams to provide Level I area support and
+augmentation support to SBCT maneuver battalions, as required. Each of the treatment teams has a
+HMMWV ambulance (with trailer) to transport the team and its equipment. The area support treatment
+squad is comprised of two treatment teams that operate and provide continuous coverage for the BSMC
+Level II MTF. The area support squad provides operational dental care, as well as laboratory and x-ray
+support commensurate with Level II medical treatment. The patient-holding squad provides a patient-
+holding facility capability of 20 cots. Its primary mission is to hold patients awaiting evacuation out of the
+brigade AO; a secondary mission is to hold soldiers who are expected to return to duty within 72 hours.
+The area support treatment squad, the area support squad, and the patient-holding squad are the elements
+required to establish the BSMC Level II MTF. Once established, the treatment platoon is responsible for
+operating this MTF. In addition, it provides basic diagnostic laboratory (blood cell counts, urinalysis, and
+microbiology for diagnosis) and digital imaging radiological services and patient-holding support. When
+patients are able to return to duty after having received treatment, the company CP coordinates with the
+brigade S1, who in turn contacts the respective unit to pick up the soldier or follow brigade TSOP. The
+treatment platoon also functions as an alternate company CP during hasty displacements.
+
+Figure F-2. Treatment platoon.
+
+                                F-11
+
+
+---
+
+C1, FM 4-02.6
+
+F-10. Treatment Platoon Headquarters
+The treatment platoon headquarters (Table F-4) element directs, coordinates, and supervises platoon
+operations based on the SBCT CHS plan. The headquarters element directs the activities of the BSMC’s
+Level II MTF and monitors Class VIII supplies and inventory levels blood usage, and keeps the commander
+informed of critical Class VIII and blood requirements. The treatment platoon headquarters element is
+responsible for overseeing platoon operations, OPSEC, communications, administration, organizational
+training, supply, transportation, patient accountability, statistical reporting, and maintenance of medical
+records functions. For communications, the headquarters employs an FM radio for C2, and is employed in
+the BSMC command and wire net. It also employs an MC4 (laptop and handheld computers) capability for
+patient accounting and reporting.
+
+             Table F-4. Treatment Platoon Headquarters Depicting Personnel, Major Equipment,
+                                       and Communications/Automation Enablers
+
+F-12
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+F-11. Treatment Squad
+The treatment squad (Table F-5) provides emergency and routine sick call treatment to soldiers assigned or
+attached to supported units. This squad is deployed in DS of CS/CSS units. When positioned with the BSMC,
+the treatment squad personnel work in the Level II MTF. The treatment squad/teams must be prepared for
+short-notice, forward deployment; therefore, personnel, MESs, and vehicles must be in a state of readiness.
+The squad has the capability to split and operate as separate treatment teams (Teams A and B) for limited
+periods of time. While operating in these separate modes, they may operate up to two aid stations.
+
+                       Table F-5. Treatment Squad Depicting Personnel, Major Equipment,
+                                       and Communications/Automation Enablers
+
+                                                                                                                              F-13
+
+
+---
+
+C1, FM 4-02.6
+
+F-12. Area Treatment Squad
+The area treatment squad (Table F-6), along with the area support squad and patient-holding squad, form
+the brigade Level II MTF. The area treatment squad is the base medical treatment element of the Level II
+MTF and does not deploy from the BSMC. The squad provides routine sick call services and initial
+resuscitative treatment (EMT and ATM) for supported units. For communications, the squad employs FM
+radios and is deployed in the BSMC’s radio and internal wire communications nets. Teams of this squad
+operate their radios on the treatment platoon FM net (See Appendix I).
+
+                                                             NOTE
+                       This squad, because it operates the brigade Level II MTF, is not used
+                       to reinforce or reconstitute other medical units. It is also not used on
+                       the area damage control team.
+                   Table F-6. Area Treatment Squad Depicting Personnel, Major Equipment,
+
+                                       and Communications/Automation Enablers
+
+F-14
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+F-13. Area Support Squad
+The area support squad (Table F-7) includes the dental, medical laboratory, and field x-ray capability. It
+provides for basic services commensurate with Level II medical treatment. The area support squad is
+typically staffed with a general dental officer (63A), a dental specialist (E4 91E10), a medical laboratory
+sergeant (E5 91K20), a medical laboratory specialist (E4 91K10), a radiology sergeant (E5 91P20), and a
+radiology specialist (E4 91P10). The dental officer supervises the activities of the area support squad. The
+area support squad is employed in the treatment platoon FM net (See Appendix I).
+
+                     Table F-7. Area Support Squad Depicting Personnel, Major Equipment,
+                                       and Communications/Automation Enablers
+
+                                                                                                                              F-15
+
+
+---
+
+C1, FM 4-02.6
+
+         a. Dental Element.
+
+                (1) The dental element provides operational dental care, which consists of emergency dental
+care, and essential dental care intended to intercept dental emergencies. This also includes dental
+consultation and x-ray services.
+
+                (2) Operational dental care is the care given for the relief of pain, elimination of acute
+infection, control of life-threatening oral conditions (hemorrhage, cellulitis, or respiratory difficulty);
+treatment of trauma to teeth, jaws, and associated facial structures is considered emergency care. It is the
+most austere type of care and is available to soldiers engaged in tactical operations. Common examples of
+emergency treatment are simple extractions, antibiotics, pain medication, and temporary fillings. Essential
+care includes dental treatment necessary for prevention of lost duty time and preservation of fighting
+strength. Soldiers in dental Class 3 (potential dental emergencies should be provided essential care as the
+tactical situation permits [refer to FM 4-02.19 for a detailed discussion on dental operations]).
+
+         b. Medical Laboratory Element. The medical laboratory element performs clinical laboratory
+and blood banking procedures to aid physicians and PAs in the diagnosis, treatment, and prevention of
+diseases. Blood banking procedures are accomplished according to FM 8-70, TM 8-227-3, TM 8-227-
+11, and TM 8-227-12. Laboratory functions include performing laboratory procedures consistent with
+the Level II treatment capabilities. This element is responsible for storing and issuing blood (liquid red
+blood cells).
+
+         c. Radiology Element. The radiology element operates x-ray equipment consistent with the
+Level II treatment capabilities. It is capable of both plane film and regional digital radiography. The
+section performs routine clinical radiological procedures to aid physicians and PAs in the diagnosis and
+treatment of patients. Specific functions performed by this element include—
+
+                • Interpreting physicians’ orders, applying radiation and electrical protective measures,
+operating and maintaining x-ray equipment, and taking x-rays of the extremities, chest, trunk, and skull.
+
+                • Performing manual and automatic radiographic film processing to include using the
+medical filmless imaging systems.
+
+                • Assembling x-ray film files for the patients remaining within the brigade, or arranging
+for such film to accompany those patients who are evacuated out of the AO.
+
+                • Operating and maintaining the assigned generator.
+
+F-14. Patient-Holding Squad
+
+         a. The patient-holding squad (Table F-8) operates the patient-holding facility of the BSMC Level
+II MTF. The holding facility’s mission is to hold patients awaiting evacuation out of the brigade AO; a
+secondary mission is to hold patients who are expected to return to duty within 72 hours. It is staffed and
+equipped to provide care for up to 20 patients.
+
+F-16
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+         b. The medical-surgical nurse assigned to the patient-holding squad provides nursing care
+supervision and is responsible for the operation of the holding facility. Since Level II facilities, such as the
+BSMC, do not have an admission capability, patients may only be held at this facility and are not counted as
+hospital admissions. In addition, the patient-holding facility serves as a patient-overflow recovery area for
+those patients awaiting medical evacuation from the FST.
+       Table F-8. Patient-Holding Squad, Treatment Platoon Depicting Personnel, Major Equipment,
+
+                                       and Communications/Automation Enablers
+
+                                                                                                                              F-17
+
+
+---
+
+C1, FM 4-02.6
+
+F-15. Employment of the Treatment Platoon
+         a. The treatment platoon establishes its elements using the BSMC layout plan. The platoon
+
+headquarters element supervises the establishment of platoon operations. The platoon leader directs set-up
+operations and supervises the displacement of treatment squads/teams, when necessary. The field medical
+assistant assists the platoon leader in supervising establishment operations and coordinates the displacement
+of treatment squads/teams with company headquarters and supported units. He ensures all platoon elements
+perform PMCS on their assigned equipment and reports any deficiencies to the chain of command.
+
+         b. The area treatment squad establishes all treatment areas as directed by the treatment platoon
+leader. This DS treatment team from the area support treatment squad is tasked with providing medical
+support for the company until the Level II MTF is established.
+
+         c. The dental treatment facility is established within the MTF. The dental officer supervises the
+placement of dental supplies and equipment within the dental treatment area.
+
+         d. The laboratory element and the radiology element are established within the MTF area.
+Precautions for operating radiological equipment must be observed. Radiation hazard areas adjacent to the
+x-ray facility must be clearly marked and blocked so that personnel are prevented from crossing too closely
+to the facility.
+
+         e. The patient-holding squad sets up the patient-holding facility, which is an integral part of the
+Level II MTF. The treatment platoon leader, based on troop concentration and patient estimates, determines
+the number of cots to set up. If the commander directs that less than 20 cots are to be set up, this may
+dictate that only one general-purpose large tent be erected. A water point, latrine, and a handwashing area
+should be established for the convenience of those patients being held at this facility.
+
+                      Section V. THE EVACUATION PLATOON
+
+F-16. General
+The evacuation platoon (Figure F-3) performs ground evacuation and en route patient care for the supported
+units. The evacuation platoon consists of a platoon headquarters, an area support (AS) evacuation section,
+and a DS evacuation section. The platoon employs five HMMWV evacuation squads (or ten evacuation
+teams).
+
+F-18
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+                       Figure F-3. Evacuation platoon, brigade support medical company.
+F-17. Evacuation Platoon Headquarters
+
+         a. The evacuation platoon headquarters (Table F-9) element provides C2 for the evacuation
+platoon operations. It maintains communications to direct ground evacuation of patients. It provides
+ground ambulance evacuation support for the maneuver battalions of the SBCT. It also provides ground
+evacuation support to other units receiving area medical support from the BSMC. Further medical
+evacuation to Level III hospitals is the responsibility of the next higher echelon, to include ground and air
+evacuation. In the SBCT, this may be different early on until echelons above brigade (EAB) ambulances
+arrive. Personnel assigned to the evacuation platoon headquarters include the platoon leader and platoon
+sergeant.
+
+         b. The evacuation platoon headquarters element directs and coordinates ground evacuation of
+patients. This element supervises the platoon and plans for its employment. It establishes and maintains
+contact with supported units and forward deployed treatment squad/teams of the BSMC. The platoon
+headquarters element performs route reconnaissance and develops and issues all necessary route and
+navigational information, to include strip maps, maps, graphic control measures, and any other pertinent
+information. If possible, the information is provided via the FBCB2 system to all ambulance teams. The
+platoon headquarters element also coordinates and establishes AXPs for both air and ground ambulances, as
+required. The evacuation platoon is employed in the company command net (see Appendix I) and establishes
+an NCS for its evacuation teams.
+
+                                                                                                                              F-19
+
+
+---
+
+C1, FM 4-02.6
+
+            Table F-9. Evacuation Platoon Headquarters Depicting Personnel, Major Equipment,
+                                       and Communications/Automation Enablers
+
+F-18. Evacuation Squads
+         a. The evacuation squads (Table F-10 and Table F-11 [page F-22]) provide ground evacuation of
+
+patients from supported units to the BSMC MTF. The evacuation squads consist of five emergency care
+sergeants and fifteen ambulance aides/drivers. Evacuation squad emergency care personnel perform EMT,
+prepare patients for evacuation, and provide en route care for patients they evacuate. They also operate and
+maintain assigned radios and other CE equipment, as well assigned ambulances and associated equipment
+including MESs. They ensure that appropriate property exchange of medical items (such as litters and
+blankets) is made at originating and receiving MTFs (Army only). Evacuation teams maintain situational
+understanding and use all available navigational tools to ensure quick and secure evacuation of patients.
+
+         b. For communications, each evacuation team/evacuation squad is employed in the company
+FM net.
+F-20
+
+
+---
+
+                                                                                                    C1, FM 4-02.6
+Table F-10. Area Support Evacuation Squads Depicting Personnel, Major Equipment,
+
+                           and Communications/Automation Enablers
+
+                                                                                                                 F-21
+
+
+---
+
+C1, FM 4-02.6
+           Table F-11. Direct Support Evacuation Squads Depicting Personnel, Major Equipment,
+                                       and Communications/Automation Enablers
+
+F-22
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+F-19. Employment of the Evacuation Platoon
+
+Each evacuation team ambulance has an MES designed for medical emergencies and en route patient care.
+Ambulances deploy forward to support maneuver and other Level I MTFs and BSMC treatment squads/
+teams and/or AXP operations. The evacuation platoon leader and platoon sergeant establish primary and
+alternate evacuations routes, verify locations of supported units, and assist evacuation teams as necessary.
+The platoon leader and platoon sergeant coordinate support requirements with supported units for evacuation
+teams/squads placed in DS. Evacuation platoon personnel obtain appropriate dispatch and road clearances
+prior to departing company or supported unit areas. The platoon leader ensures that maps, graphic control
+measures, and all available information is provided to platoon personnel. If time and fuel permit, the
+platoon leader or platoon sergeant may take ambulance drivers on a rehearsal of the evacuation routes. The
+platoon leader/sergeant coordinates/establishes AXPs as required by the medical evacuation mission. The
+ambulances are usually positioned forward with the aid stations of maneuver battalions/squadrons. The AS
+ambulances (Table F-10) are used for area support missions. The DS ambulances (Table F-11) normally
+evacuate patients from the aid stations back to the AXPs where patients are placed in either a ground or air
+ambulance for further medical evacuation back to the BSMC. Evacuation platoon personnel assist with
+establishment of the BSMC area and provide available personnel as tasked by the 1SG. For definitive
+information on medical evacuation operations, see FMs 8-10-6 and 8-10-26.
+
+                Section VI. MEDICAL LOGISTICS SUPPORT FOR
+                      THE STRYKER BRIGADE COMBAT TEAM
+
+F-20. Medical Logistics Support for Early Entry Operations
+
+Initial Class VIII resupply efforts may consist of medical supply modules tailored to meet specific mission
+requirements. Configured loads (CL) will be the primary means of supply for the BSB during early entry
+operations. For the first 12 days of early entry operations, CL is shipped every second day with the last
+shipment occurring on the 10th day. Class VIII modules, as a part of these CL, are shipped to the BSMC
+until replenishment line item requisitioning with the supply support activity (SSA) is established. The SSA
+could be a corps MEDLOG company or if attached to a division, a DMSO. All maneuver battalions or
+squadron medical platoons will receive Class VIII modules as part of their battalions’ CL. Contents of CL
+Class VIII modules may be adjusted as the battle changes. Adjustments to the Class VIII modules are
+coordinated through the BSB support operations MLO. While resupply by CL is intended to provide
+support during the initial phase, continuation on an exception basis may be dictated by operational needs.
+All line item requisitioning from SBCT medical units/elements are sent through the support operations
+MLO. The support operations MLO coordinates all Class VIII requirements for the SBCT with the
+supporting MEDLOG company or SSA.
+
+F-21. Functional Medical Logistics Business System
+
+Stryker brigade medical elements will use a medical logistics automation system to requisition Class VIII.
+Users of this system in the brigade include maneuver battalion/squadron medical platoons, and the BSMC.
+
+                                                                                                                              F-23
+
+
+---
+
+C1, FM 4-02.6
+
+The medical logistics automation system is the primary source for Class VIII line item requisitions from the
+BSMC when connectivity is available. When connectivity for medical logistics automation systems are not
+available and/or not operational, other methods will be employed. These methods may include paper
+requisitions, coded requests by radio/telephone, or by a disk copy. All Class VIII requisitions are sent to
+the support operations MLO. The support operations MLO submits all Class VIII resupply requisitions
+from SBCT medical units/elements to the supporting MEDLOG company or SSA using MC4/DMLSS-AM
+or TCAM or by other means as coordinated or required by the supporting MEDLOG element.
+
+                 Section VII. MEDICAL LOGISTICS OPERATIONS
+
+F-22. Routine Class VIII Requisitions
+
+Routine requisitions from maneuver battalion medical platoons for Class VIII resupply are via digital,
+voice, or paper request and sent to the support operations MLO. Also if the Class VIII digital systems are
+down, FBCB2 could be used to a request for Class VIII supply. The voice procedures for requisitioning of
+Class VIII need to be spelled out in the TSOP.
+
+                                                             NOTE
+
+                       The best method is to establish a 20- to 30-line sheet with numbered
+                       resupply items listed. For example, line 1 would be cravats, line 2
+                       would be ringers 1000 ml, and so forth. The radio report would be
+                       given a standard report name in the communications SOP. When the
+                       individual calls in the request, he would state “Report XXX, line 1-
+                       15, line 2-12,” and so forth.
+
+The BSS receives daily updates on the status of Class VIII resupply from the BSB support operations MLO.
+Routine requisitions submitted by the BSMC are sent to the support operations MLO and forwarded directly
+to the supporting MEDLOG activity. The BSB support operations MLO coordinates shortfalls in throughput
+distribution with the supporting MEDLOG company or SSA. The BSB support operations MLO may
+update priorities with the supporting MEDLOG activity to correct deficiencies in the delivery system. The
+supporting MEDLOG company or SSA will forward information to the BSB support operations MLO on
+items filled and shipped and on those requisitions that were not filled.
+
+F-23. Emergency Class VIII Requisitions
+
+Emergency requisitions from maneuver battalion medical platoons are submitted to the BSB support
+operations MLO. If the BSMC is unable to fill the request, the requisition is forwarded to the supporting
+MEDLOG company or SSA. Emergency requisitions from BSMC are sent through the support operations
+MLO for management and to ensure visibility of the requisitions. The support operations MLO maintains a
+
+F-24
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+record of the requisition until it is filled. All emergency requests received by the MEDLOG company or the
+SSA are processed for shipment by the most expedient transportation available. The support operations
+MLO report all emergency Class VIII requests to the SBCT BSS.
+
+F-24. Shipment of Class VIII to Stryker Brigade Combat Team Medical Units/Elements
+
+Delivery of Class VIII to the requesting medical units in the SBCT is accomplished by CL using medical
+and nonmedical transports. Shipment of Class VIII modules on CL from the MEDLOG company or the
+SSA is coordinated with the corps movement control officer. The management and in-transit visibility of
+Class VIII delivery is accomplished through document number and transportation control number tracking.
+The systems used to provide management and coordination are: Medical Logistics Automation Systems,
+TC-AIMS, MTS, and GTN. These systems are located in the MEDLOG company. In some cases, delivery
+of Class VIII into the SBCT AO may also be achieved through use of the directed Class VIII resupply using
+backhaul medical evacuation resources that are returning to the SBCT AO. The primary means for resupply
+of maneuver medical platoons and sections will be by LOGPAC. The BSMC coordinates delivery of Class
+VIII to the maneuver battalion medical platoons via LOGPAC or nonmedical transports with the FSB
+support operations MLO. For Class VIII backhaul resupply, medical transports may be used, if possible.
+Emergency Class VIII resupply will be processed for shipment by the most expedient means available.
+Based on casualty estimates for military operations, Class VIII may be pre-positioned with maneuver
+battalion/squadron medical platoons or with the BSMC.
+
+F-25. Medical Maintenance
+
+The medical equipment repair performs unit-level medical maintenance on organic equipment assigned to
+the BSMC and for supported and attached units. The SBCT is dependent on the SSA for medical maintenance
+support to include medical standby equipment for temporary issue to SBCT medical elements. The SBCT is
+dependent on the supporting SSA for intermediate-level (DS/GS) maintenance service for the SBCT and its
+corps medical augmentation elements. The SBCT may also require assists with unit-level maintenance of
+medical equipment. See FM 4-02.1 for definitive information on medical maintenance for the SBCT.
+
+F-26. Using Other Systems for Reporting and Requisitioning Class VIII
+
+If the digital MEDLOG system is not functioning, transmission of Class VIII requisitions and status reports
+data may be accomplished by one of a number of ways. The baseline method will always be by disk and
+hard copy. Another method will be by radio or telephone transmission if signal capabilities allow. At the
+battalion level, units will attempt to transmit requisition and report data using Single-Channel Ground and
+Airborne Radio System (SINCGARS) systems improvement program (SIP) or EPLRS linked to the hyperlink
+or modem capability of MC4. Given the line of site limitations of FM radio, this attempt is best accomplished
+in synchronization with previously coordinated retransmission. Within the BSA and higher, transmission of
+data will be either by telephone or AM radio, if allowed. Note that if telephone is used, the unit must
+accomplish prior coordination with the brigade S6/EAB Assistant Chief of Staff (Information Management)
+(G6) to obtain a net encryption system or other encryption hardware system in order to send data.
+
+                                                                                                                              F-25
+
+
+---
+
+C1, FM 4-02.6
+
+F-27. Blood Management
+
+Blood requirements for the SBCT are determined by the SBCT surgeon based on the casualty estimates.
+Only packed liquid red blood cells are expected to be available to the brigade. Blood products are shipped
+to BSMC Level II MTFs by the blood support element of the MEDLOG battalion. The BSB MLO based on
+the brigade surgeon’s blood requirement estimates, submits a blood request to the EAB blood support
+element or the Area Joint Blood Program Office. The BSMC treatment platoon submits the blood status
+report through the support operations MLO to the blood support element. The BSMC treatment platoon
+submits requests for blood through the support operations MLO to maintain blood supply stock. The
+support operations MLO keeps the BSS informed on the status of blood at the BSMC. Shipment of blood
+from the EAB blood support element to the BSMC is coordinated by the blood support element with the
+EAB movement control center (MCC). It is then transported to the requesting BSMC MTF by dedicated
+medical vehicles (air and ground). The blood support detachment notifies the BSB support operations MLO
+when blood is shipped. Emergency resupply can be accomplished by air ambulance or by medical personnel
+on nonstandard medical transports. See FMs 4-02, 4-02.1, 8-10-9, 8-55, and TM 8-227-12 for definitive
+information on blood management.
+
+F-28. Property Exchange
+
+When patients are evacuated to and from the BSMC, property exchange will occur between the BSMC’s
+ambulances and the supporting or supported elements to prevent unnecessary depletion of items. Whenever
+a patient is evacuated from one MTF to another or is transferred from one ambulance to another, medical
+items of equipment (casualty evacuation bags [cold weather-type bags], blankets, litters, and splints) remain
+with the patient. To prevent rapid and unnecessary depletion of supplies and equipment, the receiving
+Army element exchanges like property with the transferring element. This reciprocal procedure will be
+practiced to the fullest extent possible through all phases of evacuation from the most forward element
+through the most rearward hospital. Patient movement items (PMI) are available from Level II through
+Level V MTFs. Patient movement items are identified as items of medical equipment required or may be
+required during the patient’s evacuation. These items are more expensive/low density and require
+accountability. The less expensive items such as litters, blankets, and litter straps will not be considered as
+PMI. The handling and return of PMIs to the originating medical unit requires a reliable supporting
+logistical infrastructure to ensure that PMI are available and serviceable. The intent of the PMI system is to
+provide a seamless system, which includes a standardized, certified PMI equipment list. Patient movement
+items used to monitor and sustain a patient would normally stay with the patient throughout the patient
+evacuation system. The goal is to prevent depletion of forward units’ PMI through a one-for-one exchange
+of equipment at the time of patient transfer. When a patient requires evacuation, it is the originating MTF’s
+responsibility to provide the PMIs required for supporting the patient during evacuation. The Services will
+include and maintain initial quantities of Joint Readiness Clinical Advisory Board (JRCAB)-standardized
+PMIs in the appropriate medical assemblages. They should not assume or plan for shortfalls of PMI being
+satisfied by other Services. The Services, through the JRCAB will identify and approve PMI equipment.
+Patient movement items must be certified for use on the appropriate patient evacuation platform (for
+example, fixed/rotary wing). For definitive information on PMI, see Appendix F of FM 4-02.1.
+
+F-26
+
+
+---
+
+                                                                                                            FM 4-02.6
+                                           APPENDIX G
+
+       TACTICAL STANDING OPERATING PROCEDURE
+
+G-1. General
+
+This appendix provides a sample TSOP format for a medical company. The information on the clinical
+aspects of the treatment and evacuation elements can be included in the TSOP or prepared separately as a
+clinical standing operating procedure (CSOP) (Appendix H). This sample TSOP should not be considered
+as all-inclusive. However, this information and the unit mission training plan are good starting points for
+developing the TSOP. It may be supplemented with information and procedures required for operating
+within a particular command.
+
+G-2. Purpose of the Tactical Standing Operating Procedure
+
+The TSOP prescribes policy, guidance, and procedures for the routine tactical operations of a specific unit.
+It should cover broad areas of unit operations but be sufficiently detailed to provide newly assigned
+personnel the guidance required for them to assume their new positions. A TSOP may be modified by
+TSOPs and OPLANs/OPORDs of higher headquarters. It applies to a specific unit and all subordinate units
+assigned and attached. Should a TSOP not conform to the TSOP of the higher headquarters, the higher
+headquarters’ TSOP governs. The TSOP should be periodically reviewed and updated as required.
+
+G-3. Format for the Tactical Standing Operating Procedure
+
+         a. There is not a standard format for all TSOPs; however, it is recommended that the unit’s
+TSOP follow the format used by its higher headquarters. The TSOP can be divided into sections (specific
+functional areas or major operational areas). The TSOP can contain one or more annexes, each of which
+may have one or more appendixes. The appendixes may each have one or more tabs. Appendixes can be
+used to provide detailed information on major subdivisions of the annex and tabs can be used to provide
+additional information (such as report formats or area layouts) addressed in the appendix.
+
+         b. Regardless of the format used, the TSOP should follow a logical sequence in the presentation
+of material. As a minimum, it should discuss the—
+
+       • Chain of command.
+
+       • Major functions and staff sections of the unit.
+
+       • Operational requirements.
+
+       • Required reports.
+
+       • Necessary coordination with higher and subordinate elements for mission accomplish-
+
+ment.
+
+       • Programs (such as command information, PVNTMED measures, and CSC).
+
+       • Other relevant topics.
+
+                                                                             G-1
+
+
+---
+
+FM 4-02.6
+
+         c. Pagination of the TSOP can be accomplished by starting with page 1 and numbering the
+remaining pages sequentially. If the TSOP is subdivided into sections, annexes, appendixes, and tabs, a
+numbering system that clearly identifies the location of the page within the document can be used. Annexes
+are identified by letters and are listed alphabetically. Appendixes are identified by numbers and arranged
+sequentially within a particular annex. Tabs are identified by a letter and are listed alphabetically within a
+specific appendix. After numbering the initial sections using the standard numbering system (sequentially
+starting with page 1 through to the end of the sections), then beginning with the annexes and their
+subdivisions, they are numbered as the letter of the annex, the number of the appendix, the letter of the tab,
+and the page number. For example, page 4 of Annex D is written as “D-4”; page 2 of Appendix 3 to
+Annex D is written as “D-3-2”; page 5 of Tab A to Appendix 3 of Annex D is written as “D-3-A-5”. This
+system of numbering makes the pages readily identifiable as to their place within the document.
+
+         d. In addition to using a numbering system to identify specific pages within the TSOP, descriptive
+headings should be used on all pages to identify subordinate elements of the TSOP.
+
+                (1) The first page of the TSOP should be prepared on the unit’s letterhead. The remaining
+pages of the major sections should include the unit identification in the upper right hand corner of the page
+(for example: “____Medical Company”).
+
+                (2) A sample heading for an annex is: “ANNEX C (Administration and Personnel) to
+____Medical Company.”
+
+                (3) A sample heading for an appendix is: “APPENDIX 2 (Personnel Management) to
+ANNEX C (Administration and Personnel) to ____Medical Company.”
+
+                (4) A sample heading for a tab is: “TAB A (Award Recommendations) to APPENDIX 2
+(Personnel Management) to ANNEX C (Administration and Personnel) to ____Medical Company.”
+
+         e. As the TSOP is developed there may be an overlap of material from one annex to another.
+This is due in part to similar functions that are common to two or more unit elements. Where overlaps
+occur, the material presented should not be contradictory. All discrepancies will be resolved prior to the
+authentication and publication of the TSOP.
+
+G-4. Sample Tactical Standing Operating Procedure (Sections)
+
+The information contained in this paragraph can be supplemented. It is not intended to be an all-inclusive
+listing. Different commands will have unique requirements that need to be included.
+
+         a. The first section of the TSOP identifies the unit that developed it.
+
+                (1) Scope. This document establishes and prescribes procedures to be followed by the
+designated unit and its assigned, attached, or OPCON units/elements.
+
+                (2) Purpose. This document provides policy and guidance for routine tactical operations of
+this unit and its assigned, attached, or OPCON units.
+
+G-2
+
+
+---
+
+                                                                             FM 4-02.6
+
+                (3) Applicability. Except when modified by TSOPs and OPLANs/OPORDs of higher
+headquarters, this document applies to this unit and to all assigned, attached, or OPCON elements/units for
+combat operations. In cases of nonconformity, the document of the higher headquarters governs.
+
+                (4) References. This paragraph can include any pertinent regulations, policy letters, higher
+headquarters TSOP, or other appropriate documents.
+
+                (5) General information. This paragraph discusses the required state of readiness of the
+unit; primary, secondary, and contingency missions; procedures for operating within another command’s
+AO; and procedures for resolution of conflicts with governing regulations, policies, and procedures.
+
+       b. The second section of the TSOP discusses the unit’s organization.
+
+       (1) Organization. This unit is organized and equipped in accordance with the applicable
+
+MTOE.
+
+                (2) Task organization. Task organization is contingent on the mission and is approved by
+the headquarters ordering deployment.
+
+       (3) Organizational charts. Contained in Annex A.
+
+       c. The third section of the TSOP discusses the unit functions.
+
+                (1) Company headquarters. The unit provides Echelons I and II medical care to supported
+units and area support medical care to those units operating in the AO without organic CHS resources. The
+company headquarters supervises movements, internal arrangements, area layout, physical security, and
+operation of the unit.
+
+                (2) Ground and air ambulances (to include attached, assigned, or OPCON of corps
+evacuation elements). These provide medical evacuation of patients; emergency movement of whole blood,
+biologicals, and medical supplies; transportation of medical personnel and equipment; and serve as
+messengers in medical channels.
+
+                (3) Staff responsibilities. This paragraph lists the unit’s key personnel and their duties as
+prescribed in FMs 8-10 and 101-5 and any command-directed duties.
+
+       d. The fourth section of the TSOP pertains to staff operations and is subdivided into annexes.
+
+G-5. Sample Tactical Standing Operating Procedure (Annexes)
+
+Annexes are used to provide detailed information on a particular function or area of responsibility. The
+commander determines the level of detail required for the TSOP. Depending upon the complexity of the
+material to be presented, the annex may be further subdivided into appendixes and tabs. If the annex
+contains broad guidance or does not provide formats for required reports, paragraphs may be used and the
+
+                                                                                                                               G-3
+
+
+---
+
+FM 4-02.6
+
+annex need not be further subdivided. However, as the material presented becomes more complex,
+prescribes formats, or contains graphic material, the annex will require additional subdivision. This
+paragraph discusses the subdivision of the annex by appendixes. It does not contain examples of subdividing
+into tabs the information presented in the appendixes. Applicable references, such as ARs, FMs, and TMs,
+should be provided in each annex. The number of annexes and their subdivisions presented below are not
+to be considered as an all-inclusive listing. Different commands will have unique requirements; therefore,
+supplementation of the information presented is permitted.
+
+     a. Annex A. (Organizational Charts).
+
+     b. Annex B. (Command Post).
+
+                (1) General. The company may operate a CP depending on the mission and tactical situation.
+Personnel staffing of the CP is tailored to plan, coordinate, and provide C2 of assigned, attached, and
+OPCON elements. The area location for the CP is selected by the commander; he also designates who will
+staff it. Staffing usually consists of the commander and/or XO, 1SG, communications personnel, and NBC
+NCO, if assigned.
+
+           (2) Camouflage. This appendix discusses what camouflage procedures are required to
+
+include—
+
+           • Type and amount of required camouflage materials (such as nets and shrubs).
+
+                       • Display of the Geneva Conventions distinctive emblem on facilities, vehicles, and
+aircraft on the ground (STANAG 2931).
+
+           • Other pertinent policies, guidance, or procedures.
+
+                (3) Message distribution. This establishes procedures for the handling of messages (both
+classified and unclassified); provides procedures for picking up and delivering messages; and establishes
+procedures for preparing outgoing messages.
+
+         c. Annex C. (Human Resources Support). This annex outlines procedures relating to human
+resources support and associated activities. The battalion S1 has primary responsibility for providing and
+coordinating all human resources support functions, usually via the intermediate staging base or through
+reach operations. These functions include manning, personnel services, personnel support, and personnel
+information management. (Field Manual 12-6 is the capstone manual on personnel doctrine and should be
+used for developing specific operational plans and standard operating procedures.)
+
+                (1) Personnel accounting and strength reporting. Personnel accounting and strength
+reporting is a critical function and is primarily conducted via Personnel Situation Report (PERSITREP)
+from the unit to the battalion S1. For nondigitized units, other reports available for use are battle rosters,
+personnel summary, and personnel requirements reports.
+
+                (2) Replacement management. Individual replacements will not be readily available during
+the initial phases of operations. The battalion S1 automatically initiates replacement requests for personnel
+
+G-4
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+who are reported on the PERSITREP as wounded in action (WIA), missing in action (MIA), or killed in
+action (KIA).
+
+                (3) Casualty operations management. Casualty operations management includes the record-
+ing, reporting, verification, and processing of information from the unit level. Casualty operations require
+100 percent personnel accounting reconciliation. All commanders, soldiers, and deployed civilians must be
+sensitive to the accuracy and sensitive nature of casualty information. Casualty reports will be submitted to
+the battalion S1 on DA Form 1155/1156 within 24 hours of incident.
+
+                (4) Personnel accountability.
+
+                       • Personnel Daily Summary. This appendix provides the procedures for preparing
+and submitting a Personnel Daily Summary (PDS) report. The instructions may include requirements for
+encrypting the report prior to transmission, specific guidance on time of submission, corrections, or other
+administrative details.
+
+                       • Casualty Feeder Report. This report is submitted on DA Form 1155/1156. Instruc-
+tions on the completion of the form and submission requirements are included.
+
+                       • Witness statements on individuals. This statement needs to be completed only when
+the recovery of a body is not possible or cannot be identified. It should be submitted to the battalion S1
+within 24 hours of the incident. The procedure should contain information on obtaining the form,
+instructions for completing it, and other relevant information.
+
+                (5) Personnel management.
+
+                       • Replacements. Individual replacements will not be readily available during the
+initial phases of operations. The battalion S1 automatically initiates replacement requests for personnel who
+are reported on the PDS report as WIA, MIA, or KIA.
+
+                       • Personnel actions. All personnel actions are channeled through the battalion S1.
+The company XO and 1SG are the company points of contact. Actions are handled expeditiously and meet
+suspense dates (tactical situation permitting).
+
+                       • Efficiency reports. This paragraph provides pertinent information on the completion
+and submission of these reports.
+
+                       • Award recommendations. This paragraph delineates the responsibilities for and
+guidance concerning the submission of recommendations for awards and for scheduling and conducting
+award ceremonies.
+
+                       • Promotions. This paragraph discusses the procedures for submitting recom-
+mendations for promotion and conducting promotion ceremonies.
+
+                       • Correspondence. All correspondence addressed to higher headquarters is submitted
+through the battalion S1. Requirements for submission, preparation, and approval are also provided.
+
+                                                                                                                               G-5
+
+
+---
+
+FM 4-02.6
+
+                       • Personnel records. This paragraph discusses requirements for coordination for this
+support and the procedures for having correspondence included in the official military personnel files of
+personnel assigned and attached.
+
+                (6) Personnel services. Personnel services are those activities pertaining to soldiers as
+individuals. Unless prohibited by the tactical situation, the services listed below are normally available to
+all assigned and attached elements.
+
+                       • Sporting activities and morale and welfare activities.
+
+                       • American Red Cross.
+
+                       • Finance. Finance units provide individual and organizational support on an area
+basis. Individual support includes casual payments, check cashing, currency conversion, and pay inquiries.
+Organizational support covers contracting support and commercial vendor operations and reimbursement of
+impress fund cashiers and Class A Agent. Before deployment, units will have officer appointments
+prepared and be trained for Class A Agent duties.
+
+                       • Legal services. Information and guidance on administrative boards, court-martial
+authority and jurisdiction, legal assistance, and general services should be provided.
+
+                       • Religious activities. Religious activities include unit ministry teams, services
+available from different faiths, schedule of services, and hospital visitations.
+
+                       • Postal services. This includes hours of operation and services available.
+
+                       • Post exchange services. This includes hours of operation and availability.
+
+                       • Distribution. Pick up and delivery schedules and any command-specific issues and
+procedures are provided.
+
+                (7) Mortuary affairs. Commanders at all levels are responsible for the recovery, identifi-
+cation, and evacuation of US dead. This section discusses the responsibilities and procedures for unit-level
+MA activities for assigned and attached personnel.
+
+                       • Responsibilities. This paragraph discusses unit requirements.
+
+                       • Disposition. Guidance on graves registration procedures, collection points, trans-
+portation requirements, and the handling of remains are provided.
+
+                       • Hasty burials. Requirements for conducting hasty burials, marking the grave, and
+reporting the location of the grave site are included.
+
+                       • Personal effects. Guidance on the accounting for personal effects and requirements
+should a hasty burial be required.
+
+G-6
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                       • Disposition of civilian and EPW remains. The local civilian government is
+responsible for burial of remains of their citizens. The burial of the remains of EPW should be accomplished
+in separate cemeteries from US, allied, and coalition personnel. If this is not possible, separate sections of
+the same cemetery should be used.
+
+                       • Contaminated remains. This paragraph discusses the handling and disposition
+requirements (including protective clothing), procedures, and marking and reporting of the contaminated
+burial site.
+
+                (8) Public information. This paragraph contains procedures for obtaining approval on the
+public release of information.
+
+                (9) Maintenance of law, order, and discipline. This appendix should provide applicable
+regulations, policy, and command guidance on topics such as serious incident reports, notifications, and
+submission format, straggler control, confinement of military prisoners, and EPW.
+
+                (10) Enemy prisoners of war. This appendix discusses the responsibilities of EPW surrendered
+to the medical unit. (These procedures DO NOT pertain to EPW patients captured by other units. Medical
+personnel DO NOT guard, search, or interrogate EPW while they are in the CHS channels; guards are
+provided by nonmedical personnel designated by the tactical commander for these duties.) Until EPW
+personnel can be evacuated to an EPW collection point, medical personnel should remember and enforce
+the soldier basic skills: segregate, safeguard, silence, secure, and speed. (The speed portion of evacuating
+EPW to designated collection points is of paramount importance to medical units.)
+
+                                                             NOTE
+
+                       The treatment of EPW is governed by international and US law and
+                       the provisions of the Geneva Conventions. Personnel should be aware
+                       of these requirements and have ready access to the applicable regula-
+                       tions and policy guidance.
+
+         d. Annex D. (Intelligence and Security). This annex pertains to intelligence requirements and
+procedures and OPSEC considerations.
+
+                (1) Intelligence. Intelligence requirements are submitted to the battalion Intelligence Officer
+(US Army, S2). These requirements include the essential elements of information, commander’s critical
+intelligence requirements, medical threat, and other intelligence information/products.
+
+                (2) Counterintelligence. This appendix discusses camouflage, COMSEC, signals and
+countersigns, SOI, and document security.
+
+                                                                                                                               G-7
+
+
+---
+
+FM 4-02.6
+
+           (3) Weather.
+
+                (4) Captured personnel, equipment, supplies, and documents. This appendix provides
+guidance on the procedures required for disposition of these personnel, equipment, supplies, and documents.
+The Geneva Conventions have a specific bearing on this area.
+
+                (5) Security. Security issues, such as weapons security, checkpoints, SOI, required reports,
+and escape and evasion training requirements, are included.
+
+         e. Annex E. (Operations). This annex establishes procedures for company operations on issues
+such as readiness levels, threat levels, warning levels, camouflage, security, and area damage control.
+
+                (1) Operational situation report. Report requirements for format, preparation, and sub-
+mission are discussed.
+
+                (2) Operations security. This appendix provides guidance and procedures for secure planning
+and conduct of combat operations.
+
+                (3) Operations security countermeasures. This appendix discusses camouflage, light
+discipline, physical information, and signal security.
+
+                (4) Communications-electronics. This appendix establishes communications policies, proce-
+dures, and responsibilities for the installation, operation, and maintenance of CE equipment.
+
+           • Concept of operations.
+
+           • Radio communications.
+
+           • Command and control.
+
+           • Radio teletypewriter communications.
+
+           • Message/communications center service.
+
+           • Message handling.
+
+           • Wire communications.
+
+           • Switchboard operations.
+
+           • Communications security and operations.
+
+           • Intelligence security.
+
+           • Meaconing, intrusion, jamming, and interference reporting and CE counter-
+
+measures.
+
+G-8
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                       • Security violations.
+                       • Daily shift inventory.
+                       • Physical security.
+                       • Security areas.
+                       • Inventory of classified materials.
+                       • Safety.
+                       • Power units.
+                (5) Rear battle responsibilities. This appendix discusses rear battle responsibilities, task
+organization, and CHS for reaction/response forces.
+                (6) Unit location update. This appendix provides timely information on the location of main
+and forward CPs, MSRs, and POL points.
+         f. Annex F. (Unit Layout). This appendix discusses the establishment and breakdown of the unit
+area. As this is a medical company, a smooth and even flow of patients through the treatment areas is
+necessary.
+                (1) Site selection. This appendix provides information on considerations for site selection,
+such as amount of terrain required, drainage, and coordination requirements.
+                (2) Establishment of treatment areas. This can be graphically displayed.
+                (3) Establishment of area for the handling of contaminated patients. This can be graphically
+displayed.
+                (4) Establishment of administrative areas and motor pool. This can be graphically displayed.
+         g. Annex G. (Nuclear, Biological, and Chemical Defense). This annex prescribes the policy,
+guidance, and procedures for NBC defensive measures.
+                (1) Responsibilities.
+                (2) Nuclear, biological, and chemical reporting requirements and procedures.
+                       • Contamination avoidance.
+                       • Protection. Protection pertains to those measures each soldier must take before,
+during, and after an NBC attack to survive and continue the mission.
+
+                                                                                                                               G-9
+
+
+---
+
+FM 4-02.6
+
+                       • Decontamination. This discusses equipment requirements, procedures, types of
+decontamination (such as hasty), and patient decontamination.
+
+                       • Mission-oriented protection posture. This appendix provides guidance on garments
+required for the different MOPP levels and identification procedures for personnel in MOPP.
+
+                       • Operational exposure guidance. This appendix contains guidance that establishes
+the permissible radiation exposure level for the operation. It discusses determining what constitutes a
+radiologic hazard; prescribes acceptable limits of potential casualty-producing doses of radiation, minimizing
+exposure, and protecting against electromagnetic pulses.
+
+                       • Masking and unmasking procedures.
+
+                       • Radiological monitoring and survey operations.
+
+         h. Annex H. (Logistics). This annex establishes logistics procedures for the company.
+
+                (1) General supply and services. A discussion of the applicability, responsibilities, policy,
+classes of supply, requisition and delivery procedures, hours of operation, and other supply relevant topics
+and available services (such as laundry and bath) can be addressed in this section.
+
+                (2) Combat health logistics support. The CHL concept of operations, requisition and
+distribution procedures, accountability, and reports are provided in this appendix.
+
+                (3) Food service. This appendix discusses responsibilities, hours of operation, Class I
+supplies, sanitation requirements, layout of field kitchen, fuel storage, maintenance, safety precautions, and
+administration (such as head counts, meals, ready to eat, and inspections). (If the field feeding function is
+consolidated at battalion level, this annex would detail support and coordination requirements for the field
+feeding operation.)
+
+                (4) Transportation and movement requirements. The appendix may cover the following
+areas: applicability; responsibilities; policies on speed, vehicle markings, transporting flammable materials,
+transporting ammunition and weapons, and so on; convoy procedures; safety; and accident reporting.
+
+                (5) Fire prevention and protection. This annex provides guidance on—
+
+                       • Use of the tent stove and flammable materials.
+
+                       • Use of cigarettes, matches, and lighters.
+
+                       • Operation or use of electrical wiring and appliances.
+
+                       • Safety of tents and occupants.
+
+                       • Spacing of tents, stoves, and ranges.
+
+G-10
+
+
+---
+
+                                                               FM 4-02.6
+
+             • Installation of British thermal units heaters.
+
+             • Availability of fire-fighting equipment.
+
+                (6) Field hygiene and sanitation. This appendix provides uniform guidance and procedures
+for the performance of functions related to field hygiene and sanitation. It includes the following topics:
+
+             • Communicable disease control.
+
+             • Field sanitation team.
+
+             • Field water supply, water containers and cans, and water purification bags and
+
+procedures.
+
+             • Food sanitation.
+
+             • Latrines.
+
+             • Liquid waste, garbage, and rubbish disposal.
+
+                (7) Conventional ammunition download and upload procedures. This appendix delineates
+responsibilities and provides guidance and procedures for the requisition, storage, and distribution of
+ammunition and weapons, reporting requirements, and safety. It also includes procedures for securing
+patient weapons and organization equipment while the patient is being held or evacuated.
+
+             (8) Petroleum, oils, and lubricants accounting.
+
+                (9) Maintenance. This appendix includes information on the maintenance requirements of
+the company and the location and hours of operation of maintenance units and collection points. Maintenance
+for medical equipment, vehicles, and communications and other categories of equipment are discussed.
+
+         i. Annex I. (Safety). This annex establishes minimum essential safety guidance for the unit. It
+includes—
+
+             • Accident reporting.
+
+             • Safety measures.
+
+             • Emergency procedures.
+
+             • Vehicle safety.
+
+             • Ground guide procedures.
+
+             • Fire prevention and protection.
+
+                                                               G-11
+
+
+---
+
+FM 4-02.6
+
+                • Climate and survival training.
+                • Animal and arthropod hazards.
+                • Personal protective measures.
+                • Hearing conservation program.
+                • Threat of carbon monoxide poisoning.
+         j. Annex J. (Civil-Military Operations [CMO]). This annex discusses participation in CMO.
+Medical elements are often involved in CMO, humanitarian assistance, and disaster relief operations. The
+activities that may be covered include—
+                • Providing DS for medical evacuation.
+                • Providing guidance on developing a medical infrastructure in a HN.
+                • Providing training to HN personnel.
+         k. Annex K. Clearing Station Clinical Activities. Refer to the CSOP (Appendix H.)
+
+G-12
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                   APPENDIX H
+
+            CLINICAL STANDING OPERATING PROCEDURE
+
+H-1. General
+         a. This appendix provides a sample CSOP for use within a clearing station. It is different than
+
+the TSOP as it focuses on the clinical aspects of the unit’s operation.
+         b. Appendix G contains information on the format of the TSOP. This format may also be used
+
+when developing the CSOP, if desired.
+         c. The sample CSOP provided in this appendix is merely an outline and should not be considered
+
+as all-inclusive. The information contained in this sample is not sufficiently detailed to enable a unit to
+implement the CSOP as it is written. The addition of treatment protocols, command guidance, clearing
+station policies, and other pertinent regulations, directives, and procedures is required.
+
+H-2. Purpose of the Clinical Standing Operating Procedure
+         a. This CSOP prescribes policy and provides guidance on the routine operation of patient
+
+treatment and support elements within the clearing station. Each clinical element is required to develop,
+maintain, and update their CSOP.
+
+         b. Once completed, it is reviewed and approved by the senior clinician.
+         c. The content of the CSOP should not contradict or impede the implementation of the TSOP.
+Should differences in the two documents occur, they are to be resolved by the commander.
+
+H-3. Sample Clinical Standing Operating Procedure
+         a. Treatment Platoon. The following topics should be considered:
+                (1) Treatment section.
+                       • Triage procedures.
+                       • Treatment protocols.
+                       • Routine and emergency patient care management.
+                       • Staffing, length of shift, and relief procedures and requirements.
+                       • Controlled substance procedures and records.
+                       • Coordination requirements with the patient administration specialist, to include
+
+medical evacuations, release of RTD, and maintenance of the field individual medical records (including
+disposition of the FMC).
+
+                                                                                                                               H-1
+
+
+---
+
+FM 4-02.6
+
+                       •  Coordination for radiology and medical laboratory services, to include blood and
+blood products.
+
+                       • Procedures for the collection and safeguarding of weapons, munitions, and sensitive
+military equipment which may arrive with patients.
+
+                       •  Policy on disposition of patient’s personal protective gear (such as mask and MOPP
+overgarments).
+
+                       • Logistic requirements and procedures for obtaining supply/resupply (both general
+and medical), to include property exchange (litters and blankets).
+
+           • Notification requirements as directed by the commander.
+
+           • Death procedures.
+
+           • Scope of practice of MOS 91W personnel.
+
+           • Mass casualty operations (see paragraph e below.)
+
+           • Procedures for the disposal of medical waste.
+
+           • Reporting of unusual occurrences.
+
+           • Policy and procedures for the care and treatment of nonmilitary personnel.
+
+           • Policy and procedures for the care and treatment of non-US personnel.
+
+           • Policy and procedures for the care and treatment of EPW.
+
+           • Medical evacuation, to include receiving patients arriving by helicopter and ground
+
+assets.
+
+                       • Establishment of a triage area, to include a patient decontamination station, should
+contaminated casualties be evacuated to the facility.
+
+           • Supervision of nonmedical patient decontamination teams.
+
+           • Training and use of litter teams.
+
+           • Procedures for the release of medical information on patients.
+
+           • Coordination requirements for power generation and refrigeration capabilities, if
+
+required.
+
+H-2
+
+
+---
+
+                                                                                   FM 4-02.6
+
+                       • Procedures for medical activities affected by the Uniformed Code of Military Justice
+(UCMJ) such as treating soldiers with self-inflicted wounds, rape, or other similar situations.
+
+               • Procedures for medical equipment maintenance.
+
+               • Safety.
+
+               • Fire evacuation plan.
+
+               (2) Area support section.
+
+               (a) Area support treatment squad. Same as (1) above.
+
+               (b) Area support squad. The following topics should be considered:
+
+                             • Procedures for controlled substance inventory, dispensing requirements,
+registry, destruction procedures, discrepancy reports, and requisitions.
+
+               • Key control.
+
+               • Requirements for refrigeration support.
+
+               • Rotation of medication stocks.
+
+               • Preparation of required reports.
+
+               • Infection and chemical hazard control procedures.
+
+               • Procedures for obtaining specimens.
+
+               • Procedures and requirements for shipping specimens to more sophisticated
+
+laboratories.
+
+               • Procedures for medical waste disposal.
+
+               • Procedures for storing blood and blood products.
+
+               • Blood planning factors.
+
+               • Establishment of x-ray exposure area.
+
+               • Procedures for the operation of the darkroom.
+
+               • Film control procedures.
+
+                                                                                   H-3
+
+
+---
+
+FM 4-02.6
+
+procedures.        • Security.
+H-4                • Radiation safety rules.
+                   • Shielding of patients and medical personnel.
+                   • Electrical and mechanical safety rules.
+                   • Procedures for the performance of routine radiographic views.
+                   • Accomplishment of weekly processor tests.
+                   • Establishing quality control procedures.
+                   • Maintenance of equipment records.
+                   • Procedures for disposition of radiographs.
+                   • Dental protocols and procedures.
+                   • Procedures for personal protection (gloves, masks) measures during dental
+
+             (c) Patient-holding squad. The following topics should be considered:
+                   • Scope of nursing practice (MOS 91W [M-6]).
+                   • Patient accountability.
+                   • Shift change policies and procedures.
+                   • Holding area staffing.
+                   • Establishment of methods and procedures for documentation.
+                   • Establishment of infection control procedures.
+                   • Care for injection sites and IV treatments.
+                   • Maintenance of equipment.
+                   • Establishment of bedpan and urinal washing procedures.
+                   • Procedures for disinfecting facilities.
+
+
+---
+
+                                                                                                           FM 4-02.6
+
+                   • Infectious waste disposal.
+                   • Procedures for hand washing.
+                   • Location and access to field sinks and latrines for both patients and staff.
+                   • Controlled substance procedures and reports.
+                   • Death procedures to include notifications, as required.
+                   • Preparing required reports.
+                   • Procedures for taking hold patients to field feeding site(s).
+
+                                                   NOTE
+             Patients requiring modified diets are evacuated to corps/COMMZ
+             hospitals where both patient rations (Medical B Rations) and personnel
+             trained in providing modified diets (MOS 91M) are available. Patients
+             held in the holding squad are normally ambulatory and on a regular
+             diet and may require minimal assistance in obtaining rations.
+
+b. Ambulance Platoon. The following topics should be considered:
+      • Procedures for inspecting and maintaining medical equipment sets.
+      • Procedures for the supply/resupply of medical supplies and equipment.
+      • Treatment protocols for the provision of en route medical care.
+      • Protocols for the use of pneumatic anti-shock trousers.
+      • Procedures for the rotation of medication stocks.
+      • Procedures for the property exchange (litters and blankets).
+      • Procedures for mass casualty situations, to include the use of ambulance shuttles.
+      • Procedures for staffing AXPs, if required.
+                                                                                                                     H-5
+
+
+---
+
+FM 4-02.6
+
+                • Procedures for the evacuation of outpatient treatment to the next echelon care and RTD.
+         c. Augmentation.
+
+                (1) Surgical.
+                       • Surgical procedures, to include emergency surgeries.
+                       • Operating room staffing, to include duty rosters and on-call rosters.
+                       • Aseptic technique practices.
+                       • Procedures for preparation of the maintenance register.
+                       • Preparation of the patient for surgery.
+                       • Emergency blood requests.
+                       • Sterile instruments and supplies.
+                       • Treatment protocols for medical emergencies, such as for anaphylaxis reaction.
+                       • Provision of immediate postoperative care (inpatient holding area). (Registered
+
+nurses are part of the augmentation).
+                       • Scrub attire and surgical hand-scrub procedures.
+                       • Environmental safety.
+                       • Medical waste disposal procedures.
+                       • Operating room sanitation.
+                       • Patient deaths, to include notifications requirements.
+                       • Procedures for performing cardiac arrest procedures.
+                       • Procedures for handling contaminated sharps.
+                       • Preparation of required reports.
+                       • Equipment checklists.
+                       • Inventory and maintenance of controlled substances.
+
+H-6
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                       • Infection control procedures.
+                       • Combustibles and cleaning products storage.
+                       • Quality control procedures for equipment.
+                (2) Combat operational stress control. The following topics should be considered:
+                       • Procedures for segregating battle fatigue casualties from other patients being held.
+                       • Patient accountability procedures.
+                       • Procedures for ensuring sufficient holding capability is available.
+                       • Delineation of responsibilities and actions required of the combat stress control per-
+sonnel in the management of their patients.
+                       • Procedures for arranging transportation for battle fatigue casualties (BFC).
+         d. Temporary Morgue Area.
+                • Site selection for this area to ensure adequate shielding from other patients.
+                • Establish procedures for the management of this area and the immediate arrangement for
+collection of remains by mortuary affairs personnel. (See FM 8-10-6, Chapter 4 for initiating the FMC on
+decease personnel.)
+         e. Mass Casualty Situations. When mass casualty situations occur, all nonessential patient care
+activities and support services (such as logistic and personnel) are temporarily suspended. The traffic pat-
+terns within the MTF are also temporarily changed and marked in order to move patients to holding and treat-
+ment areas based on their medical condition and assigned treatment precedence. Other activities include—
+                • Establishment of a control cell to coordinate hospital activities.
+                • Establishment of the triage area. (Normally a senior NCO or medical officer performs
+the triage function.)
+                • Establishment of a patient decontamination station, if required. (This includes supervising
+the patient decontamination process performed by nonmedical personnel.)
+                • Patient triage and assignment of a treatment precedence.
+                • Establishment of a litter bearer pool of nonmedical personnel. (These teams will move
+patients from evacuation vehicles to the triage point and within the MTF to the various diagnostic and
+treatment areas.)
+
+                                                                                                                               H-7
+
+
+---
+
+FM 4-02.6
+
+                • Internal patient movements to appropriate holding and treatment areas based on their
+assigned precedence for treatment, monitoring, or observation.
+
+                • Internal traffic pattern to ensure a smooth patient flow without having to overlap and/or
+retrace traffic patterns.
+
+           • Procedures for limiting access to MTF area by visitors or other nonessential personnel.
+
+           • Provision of updates on the medical situation periodically and through a central point.
+
+     f. Patient Support Services.
+
+                (1) Logistics. The logistics SOP can be addressed in either the CSOP or the TSOP, or it may
+be addressed in both with emphasis on the health service logistics portion in the CSOP. Logistics functions
+include—
+
+           • Inventory control procedures and preparation of requisitions.
+
+           • Procedures for maintenance and repairs on medical equipment.
+
+           • Coordination for repairs that cannot be accomplished by organic capability.
+
+           • Pickup and delivery of medical supplies to include controlled substances.
+
+           • Property exchange procedures.
+
+           • Coordination for waste disposal, to include medical waste.
+
+           • Coordination for pest management support.
+
+           • Coordination for laundry and bath services.
+
+           (2) Patient administration.
+
+           • Procedures for the maintenance of individual field medical records.
+
+           • Compilation of medical statistics and preparation of reports.
+
+           • Coordination for medical evacuation support.
+
+           • Policies regarding the inventorying and safeguarding of patient property and
+
+weapons.
+
+H-8
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                    APPENDIX I
+
+         COMMUNICATIONS, AUTOMATION, AND POSITION
+                                NAVIGATION SYSTEMS
+
+                 Section I. COMMUNICATIONS AND EQUIPMENT
+
+I-1. General
+
+Communications systems are essential for gathering and disseminating data. Commanders use them to
+perform C2 functions and to supervise performance. Effective management of CHS functions depends on
+adequate communications to keep abreast of changing situations and requirements. The medical company
+relies on both its organic communications assets and the support assets of its parent unit and signal elements
+of the division and/or corps.
+
+I-2. Frequency-Modulated Radios
+
+Frequency-modulated, AM and single-channel tactical satellite (SCTACSAT) radios comprise the family of
+radios discussed in this appendix as combat net radios (CNRs). When discussing the operational facility
+rules for the medical company, the SINCGARS radios constitute the FM slice; the improved high-frequency
+radio (IHFR) and the Harris Corporation commercial radios constitute the AM component; the AN/PSC-5
+fills the SCTACSAT requirement; and the near-term digital radio is a TOC to TOC data hauler.
+
+         a. Single Channel Ground and Airborne Radio System. The SINCGARS radios (AN/PRC-119
+and AN/VRC-87F, -88F, -89F, and -90F) operate in the 30- to 88-megahertz (MHz) frequency range (the
+very high-frequency [VHF] band) in 25-kilohertz (kHz) segments for a total of 2,320 channels. They can
+operate in either a single-channel or frequency-hopping mode and have embedded communications security
+(COMSEC) for secure operations.
+
+         b. AN/PRC-119. The AN/PRC-119 is a short-range, manpacked radio designed for dismounted
+operations. It consists of a receiver-transmitter (RT), an antenna, a handset, and a battery box. The system
+uses rechargeable or nonrechargeable batteries with each lasting approximately 8 hours, depending on
+usage.
+
+         c. AN/VRC-88F/87F. The AN/VRC-88F is a short-range, vehicular-mounted radio, which has
+an antenna and a battery case as additional components. The radio can be removed from the vehicle and can
+be reconfigured as the AN/PRC-119 manpack radio by installing the antenna and the battery case. It
+consists of one RT, a radio mount, a mounting adapter, a vehicular antenna, and associated handset and
+cabling. The AN/VRC-87F radio is identical, except without the dismounted capability/components. The
+radio has an 8-km range. Treatment Team B normally uses this radio.
+
+         d. AN/VRC-89F. The AN/VRC-89F radio is a vehicular-mounted, dual configuration radio
+consisting of one short-range and one long-range RT mounted in a single vehicular mount. It is basically
+two vehicular-mounted, short-range radio sets with an added power amplifier that provides one of the radio
+sets with a long-range communications capability up to 35 km. This radio is normally used by the medical
+company/troop CP, company/troop commander, and treatment squads.
+
+                                                                                                                                I-1
+
+
+---
+
+FM 4-02.6
+
+         e. AN/VRC-90F. The AN/VRC-90F radio is a vehicular-mounted, single configuration radio,
+consisting of a long-range RT (RT plus power amperes) capable of operation up to 35 km. This radio is
+especially suitable for ambulance teams, PVNTMED sections, and company/troop commanders who require
+unimpeded, long-range communications.
+
+I-3. Amplitude-Modulated Radios
+
+The AM radios operate in the high-frequency band of 1.5 to 30 MHz. They can be operated in manpacked,
+vehicular, base station modes and have ranges from 0 to 2,000 miles. The systems in the AMEDD’s in-
+ventory include the AN/GRC-106 (legacy system, not described), the AN/GRC-213, and the AN/GRC-246.
+
+         a. AN/GRC-213 (Improved High-Frequency Radio). The AN/GRC-213 is a low-power manpack
+or vehicular-mounted configuration of the IHFR system. It provides a reliable high frequency coverage
+with voice only capability of 2 to 30 MHz for medical troops/companies. It has the capability to pass secure
+medical C2 and CHS information over medium- to long-range distances. It also can be used over varying
+terrain features that would normally preclude the use of FM CNRs (SINCGARS).
+
+         b. AN/GRC-246. The AN/GRC-246 is a state-of-the-art digital signal processing RT providing
+upper sideband, lower sideband, continuous wave for Morse code, and AM equivalent operation over the
+1.6- to 30-MHz frequency range. The configurations available are a 20-watt, manpacked version, a 125-
+watt vehicular version, and a 400-watt base station. The transceiver provides an impressive list of standard
+features, including active squelch, retransmission capability, and NVG compatibility. Built-in options
+include a high-speed 2400-baud data modem, a frequency shift keying data modem, automatic link
+establishment controller, digitized voice, and full remote control.
+
+         c. AN/PSC-5. The AN/PSC-5 SPITFIRE is a multiservice, nondevelopmental item/commercial
+off-the-shelf (COTS), small, lightweight, manpackable, single-channel, ultrahigh-frequency satellite
+communications (SATCOM) radio that includes embedded COMSEC, a 5/25 kHz demand assigned multiple
+access capability, line of sight communications, and SATCOM (voice and data). It has an extended
+frequency range of 30 to 400 MHz.
+
+I-4. Ancillary Radio Equipment
+
+The medical company/troop requires two main categories of ancillary equipment associated with its
+SINCGARS equipment. These are remote control devices and data fill/variable transfer and storage devices.
+
+         a. Control Receiver-Transmitter (C11561). The control receiver/transmitter (CRT) C11561
+provides SINCGARS vehicular radios with a remote capability of up to 4 km. It is able to remotely control
+all front panel controls on the radio. This CRT C11561 may also be adapted with detachable control panels
+for frequency hopping and COMSEC. The COMSEC and data adapter devices may be attached directly to
+the CRT for secure communications over the transmission line and optimal interface with digital data
+terminals. The CRT C11561 is an incremental change package for the medical company/troop. It will
+replace the AN/GRA-39, discussed below.
+
+I-2
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+         b. Radio Set Control Group (AN/GRA-39). The AN/GRA-39, a legacy system is used to remote
+single channel radios. It is compatible with integrated and nonintegrated communications radios (integrated
+communications with embedded COMSEC and nonintegrated communications with external COMSEC).
+The AN/GRA-39 controls only remote keying of radios from a terminal set. The operator must set the
+other functions at the location of the radio.
+
+         c. Data Fill Devices. Data fill devices provide the capability to transfer the required frequency
+hopping and COMSEC variables from unit to unit. The medical company/troop is authorized the following
+two devices for this requirement:
+
+                (1) Automated net control device (AN/CYZ-10). The automated net control device (ANCD)
+is a handheld device capable of receiving, storing and transferring data between compatible equipment. The
+primary application will be the transfer of variable length electronic keying material such as frequency
+hopping data, partial or complete SOI information, and other COMSEC variables. The ANCD is sufficiently
+programmable to replace and prevent the development of equipment tailored to a unique system. Interaction
+between the ANCD and the operator is via the 35-key keyboard and the 2- by 24-character window in the
+liquid crystal display. The emergence of ANCD replaces the need for the following fill devices:
+
+                       • Electronic counter-countermeasure fill device (MX-10579 or MX-18290). The MX-
+10579 is used with the nonintegrated communications radio only and the MX-18290 is used with both the
+integrated communications radios or the nonintegrated communications radios. The MX-10579 and the
+MX-18290 do not provide the capability to store or transfer COMSEC variables and SOI information.
+
+                       • Electronic notebook (AN/CYZ-7A). The electronic notebook (EN) is a small
+handheld data memory device similar to a small calculator. It can be loaded with partial or complete SOI
+information and frequency hopping variable. The EN replaces the need for paper SOI, but does not provide
+the capability to store and transfer COMSEC variables.
+
+                       • Cryptographic fill devices (KYX-13 and KYX-15/TSEC). The KYX-13 is a battery
+operated fill device that provides storage and transfer of up to 6 COMSEC variables. The KYX-15 is a
+battery-operated fill device that provides storage and transfer of up to 16 COMSEC variables, and provides
+the capability to create cryptographic variables. The KYX-13 and KYX-15 do not provide the capability to
+store or transfer frequency hopping data and SOI information.
+
+                (2) Secure voice and FM communications devices. The following are descriptions and
+applications of this equipment used by the company in its CNR operations:
+
+                       (a) Speech security equipment (KY-57). The KY-57 is a half-duplex, tactical wide band
+COMSEC device for FM radio equipment. This device permits secure radio transmissions and is required
+with legacy VRC-12 systems and nonintegrated communications SINCGARS radios (no internal COMSEC).
+Most SINCGARS used today have built in COMSEC (except avionics models) and do not require this
+device.
+
+                       (b) Net control device (KYX-15/TSEC). The net control device (NCD) KYX-15 is a
+battery-operated control device that provides for storage and transfer of 1 to 16 COMSEC variables. When
+
+                                                                                                                                I-3
+
+
+---
+
+FM 4-02.6
+
+it is connected to COMSEC equipment, the KYX-15 performs the automatic remote keying function and
+other cryptovariable operations. The NCD KYX-15 is required by the NCSs operated by the medical com-
+pany’s CP, treatment platoon, and ambulance platoon for secure CNR operation.
+
+I-5. Mobile Subscriber Equipment
+
+Mobile subscriber equipment is the Area Common-User System (ACUS) for corps and below units. All
+medical companies are allocated several MSE telephones such as the DNVT (TA-1042/U); some are
+authorized the AN/UXC-7, tactical lightweight digital FAX. The DNVT is a prime subscriber terminal that
+provides full-duplex digital voice communications and a voltage reference signal for limited data use.
+
+         a. Area Coverage. The MSE system provides ACUS support to a geographic area, as opposed to
+dedicated support to a specific unit or customer. The hubs of the system are called nodes and are under the
+control of the corps signal officer.
+
+         b. Subscriber Terminal (Fixed). The MSE telephone, mobile radiotelephone, FAXs, and data
+terminals (as part of the ACUS) are user-owned and operated. The using unit is responsible for running
+wire to the designated distribution boxes. Those boxes tie the medical company’s MSE telephones into the
+extension switches, which access the system. The subscriber terminals used by the unit are digital, four-
+wire voice as well as data ports (DNVTs [TA-1042]) for interfacing with the AN/UXC-7 FAX and the
+medical transportable computer unit (MEDTCU).
+
+          c. Wire Subscriber Access.
+
+                (1) Wire subscriber access points provide the entry points (interface) between fixed subscriber
+terminal equipment and the MSE area system operated by the supporting signal unit. The two types of
+interface equipment are—
+
+           • The signal distribution panel J-1077 (each panel provides up to 13 subscriber access
+
+points).
+
+           • Remote multiplexer combiners (RMCs) that provide access for 8 subscriber access
+
+points.
+
+                (2) The medical company/troop is responsible for installing and operating fixed subscriber
+terminal instruments (DNVT TA-1042). It must also install and maintain the WF-16 field wire from the
+instruments to the interface point (J-1077 distribution panel).
+
+I-6. Position/Navigation Equipment
+
+         a. The medical company, along with other CS, CSS, and combat units has been allocated
+sufficient quantities of GPS devices commensurate with their missions. Normally, they are provided for
+each vehicle, particularly those deployed in the forward areas.
+
+I-4
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+         b. This is a handheld (may be vehicular mounted), battery-powered position and navigation set
+that receives its signal from GPS satellites, performs calculations, and displays position, velocity, time, and
+navigational data. These devices provide a very accurate position location capability for determining and/or
+reporting self-location; however, it is not a communications device.
+
+         c. The company/troop ambulance teams, treatment teams, and wrecker operators will employ the
+GPS device.
+
+                           Section II. COMBAT NET RADIOS
+
+I-7. Combat Net Radio Systems
+
+The SINCGARS radio, the IHFR, the Harris Corporation radios, and the PSC-5 SCTACSAT radios
+comprise the CNR in the AMEDD inventory. These systems serve as the primary means for voice
+transmission of C2 information and as a secondary means to MSE for data transmission.
+
+         a. The AM (high frequency) radios provide mid- to far-range communications capabilities. They
+interface with other AM high-frequency radios that provide secure voice and data capability, and have push-
+button frequency selection. The AN/GRC-246 digital high-frequency radio system from the Harris Corp-
+oration provides reliable tactical communications through enhanced digital voice, data performance, and net-
+working protocol capabilities. This radio is user friendly, menu-driven, owner-operated, and with a com-
+puter interface that makes operation relatively easy. It uses new technology features unavailable in previous
+high- frequency radio equipment. The digital radio has automatic link establishment and a serial tone modem
+that employs data transport protocols with error detection and correction. The radio uses micro-processor
+technology features to overcome nearly all of the limitations (propagation and frequency management)
+commonly associated with high frequency beyond line of sight communications. It replaces the need for the
+operator to search for the best operating frequency, attempt to establish or maintain communications, and
+overcome the problems caused by ever-changing propagation conditions and noise interference.
+
+                                                             NOTE
+
+                       While the radio is easier to use than previous systems, the operator
+                       must still acquire USEABLE frequencies from a frequency manage-
+                       ment office. Not all frequencies between 1.5 and 30 MHz will work
+                       depending on the location of the sender and the receiver, time of day,
+                       and time of year. Commercial software programs are available to
+                       check the propagation of high-frequency radios and are a wise invest-
+                       ment for units planning to use such radios. If high-frequency radios
+                       are critical to your mission, it is recommended the unit acquiring as
+                       many frequencies as possible (10 should be enough) and confirming
+                       the propagation characteristics of each prior to deployment. Frequen-
+                       cy management offices have been known to provide high-frequency
+                       radios that will not propagate for the specific mission requested.
+
+                                                                                                                                I-5
+
+
+---
+
+FM 4-02.6
+
+         b. The SINCGARS has a 16-element keypad for push-button tuning for simple and quick
+operation. The system is capable of short-range operation for voice or digital data communications. It is
+also capable of interfacing with the AN/VRC-12 series or other FM radios. The SINCGARS radios can
+operate in a jam-resistant, frequency-hopping mode that can be changed as needed. (Refer to FMs 11-1,
+11-32, and 11-50 for communications operations in the corps, division, and below.). The SINCGARS can
+monitor or scan up to five frequencies simultaneously and transmit on the one selected.
+
+         c. The SCTACSAT provides a strategic reach-back and range extension capability. It is primarily
+used to transmit voice, but has a limited data capability (limited due to narrow bandwidth). The “reach-
+back” capability is critical for deployed forces prior to the ACUS network becoming operational. However,
+due to satellite availability, the network is often oversubscribed and presented on a priority basis. The
+“range extension” technique provides a retransmission capability for FM radios greatly extending broadcast
+ranges.
+
+I-8. Radio and Wire Nets
+
+The medical company/troop establishes radio nets to maintain an information link for command and
+technical control of its elements. It is also essential that this Echelon II unit establishes radio communication
+links with supporting corps medical elements and supported medical platoons to ensure that timely CHS is
+provided throughout its support area. The medical company/troop, under its parent support battalion/
+squadron, employs its SINCGARS radios in three separate FM nets: command net, treatment platoon
+medical operations net, and an ambulance platoon medical evacuation net. It also employs an AM (high
+frequency) net.
+
+         a. Command Frequency-Modulated Net. For C2, the commander establishes a command net
+(Figure I-1). The NCS, operated by the unit CP, is normally comprised of the commander’s station,
+treatment platoon leader’s station, ambulance platoon leader’s station, MH station, PVNTMED station, and
+a wrecker operator/maintenance station. The commander’s station is also deployed in the battalion/squadron
+command net. The CP/NCS may be employed in the brigade or regimental administrative/logistics net.
+The CP is authorized the NCD KYX-15/TSEC for its NCS operation. The treatment platoon’s NCS may
+also serve as the alternate NCS for the command net.
+
+         b. High-Frequency Radio Net (Amplitude Modulated). If the unit is a divisional medical company,
+it is required to net with the DMOC medical operations net to ensure the external flow of CHL and air/
+ground evacuation support. If the unit belongs to a nondivisional brigade or regiment, it will have access to
+the supporting medical group medical operations net. Nondivisional medical companies/troops may also
+access high-frequency nets of the MEDLOG and medical evacuation battalions. The signal officer of the
+parent support battalion/squadron assists the medical company/troop in obtaining adequate SOI to allow it to
+access these dedicated medical networks. The unit’s CP operates its high-frequency station (Figure I-2).
+
+         c. Treatment Platoon Medical Operations Frequency Modulated Net. For OPCON of its treatment
+elements, the treatment platoon establishes a medical operation net (Figure I-3). The platoon headquarters
+operates the NCS. The platoon headquarters may also serve as an alternate NCS for the command net, and
+the clearing station may serve as the alternate NCS for the treatment platoon. Approaching air ambulances
+
+I-6
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+for patient pickup also use this net. When treatment squads/teams of the medical company/troop are
+deployed in DS, or are attached to supported maneuver battalions/squadrons, they will normally operate in
+the medical operations net of the supported BAS/SAS. They must be provided appropriate SOI for support
+operations.
+
+                     Figure I-1. Medical company/troop command frequency-modulated net.
+         d. Ambulance Platoon (Dedicated) Medical Evacuation Frequency-Modulated Net. The ambu-
+lance platoon, under the control of its parent unit, establishes an FM net (Figure I-4) primarily dedicated to
+air and ground medical evacuation radio traffic for the supported area. This net, operated by the platoon
+headquarters, provides for the control of organic ambulances and for coordination of air and ground patient
+evacuation in the supported area. The supported BAS/SAS and supporting corps air and ground ambulances
+all operate on this net for the evacuation of patients out of the supported area. Supported aid stations also
+use this net for the coordination of CHL support.
+
+                                                                                                                                I-7
+
+
+---
+
+FM 4-02.6
+              Figure I-2. Medical company/troop medical operations high-frequency net access.
+
+                   Figure I-3. Treatment platoon medical operations frequency-modulated net.
+I-8
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                       Figure I-4. Dedicated medical evacuation frequency-modulated net.
+         e. Supported Medical Platoon. This supported Echelon I element employs a medical operations
+net (Figure I-5) under the headquarters and headquarters company/troop of the parent maneuver battalion/
+squadron. The platoon headquarters serves as the NCS. Its station is also deployed in the administrative/
+logistics net. Other stations of this medical operation net include Treatment Team A (battalion/squadron
+surgeon’s station), Treatment Team B (PA station), ambulance team stations, and the attached treatment
+squad/team from the supporting medical company/troop. The medical platoon is provided appropriate SOI
+sufficient to net with both supported and supporting units.
+
+                                                             NOTE
+                       Each ambulance team is a separate station and will require separate
+                       call signs.
+
+                                                                                                                                I-9
+
+
+---
+
+FM 4-02.6
+
+                Figure I-5. Sample battalion aid station/squadron aid station medical operations
+                                                  frequency-modulated net.
+
+         f. Internal Wire Communications Net. The medical company/troop employs DNVT MSE for
+internal communications. These phones will be replaced by regular garrison desk telephones when the
+MSE is replaced by the Warfighter Information Network (WIN) system. The small extension node (SEN)
+assigned to the unit will not change much in appearance, but the communications capability upgrade will be
+substantial. Figure I-6 depicts a typical wire net for an MSMC and a medical company of a heavy separate
+brigade.
+I-10
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                            Figure I-6. Sample medical company/troop internal wire net.
+
+                   Section III. AUTOMATION AND DIGITIZATION
+
+I-9. Warfighter Information Network
+         a. The WIN is Force XXI’s communications network that will replace tri-service tactical
+
+communications and MSE (from theater to battalion CP/TOC) and provide a C2 on-the-move capability to
+the warfighter. The system uses commercial products and technology; provides wired and wireless
+communications to support voice, data, and video information exchange requirements; provides seamless
+connectivity among Army Battle Command Systems (ABCS) and weapons platforms within the battle space;
+supports multiple security levels (unclassified, secret, and top secret/sensitive compartmented information);
+and integrates terrestrial, airborne, and satellite-based transport systems.
+
+         b. The WIN is the designated ACUS to replace the MSE system. The terminal equipment will
+include COTS desk telephones, COTS FAXs, secure terminal equipment telephones, networked automation
+devices and video teleconferencing equipment. The secure terminal equipment telephones are compatible
+with secure telephone unit-III telephones in garrison.
+
+                                                                                                                              I-11
+
+
+---
+
+FM 4-02.6
+
+I-10. Tactical High-Speed Data Networks
+
+The tactical high-speed data network is an MSE upgrade providing increased bandwidth to support the video
+and high-speed data requirements as an interim step towards the WIN. Components include a high-speed
+multiplexer II, an enhanced-trunk group modem order-wire, Cisco routers, forward error correction,
+network management, and security to support the data network. The link from a SEN to a node center will
+increase in capacity from 16 kilobits per second (kbps) to 512 kbps. An internodal link will increase from
+64 kbps to 3,000 kbps.
+
+I-11. Medical Company Automation/Digitization Enablers
+
+The automation and digitization enablers to be made available for the medical company consists of the
+MC4; the FBCB2; the GCSS-A; the TC-AIMS), the MTS, and various COTS office computers purchased
+by individual units.
+
+         a. Medical Communications for Combat Casualty Care. The best way to visualize the MC4
+system capability is as a piece of the Army digital computer network where all 10 CHS functional areas
+have been digitized and this CHS information is freely shared with everyone on the Army network with a
+need to know. The MC4 system will be a theater-automated CHS system that links commanders, health
+care providers, and medical support providers, at all echelons, with integrated medical information. Two of
+the most significant capabilities that the MC4 system will bring the warfighter are enhanced ability to clear
+the battlefield and in-transit visibility of soldiers.
+
+         b. Force XII Battle Command Brigade and Below System. The FBCB2 system is a digitized
+BCIS that provides on-the-move, real-time and near-real-time battle command information to tactical combat,
+CS, and CSS leaders and soldiers. The FBCB2 system, as a key component of the ABCS, seamlessly
+integrates with the other components of ABCS at the brigade and battalion level. FBCB2 supports situational
+understanding down to the soldier/platform level across all battlefield functional areas and echelons. The
+FBCB2 system also provides the means for brigade- and battalion-level commanders to command when
+away from their TOCs, interoperating with subordinate commanders and leaders also equipped with FBCB2.
+
+         c. Global Combat Support System-Army. This system ties in all CSS data to C2 and provide CSS
+situational understanding. This is the Army’s new automated system that will, over time, replace or
+interface with all of the existing CSS automated systems. The title specifies CSS rather than logistics
+system, because the new system will encompass personnel, financial, medical, and other nonlogistics CSS
+functions. The GCCS-A will be made up of a series of functional modules such as supply, property,
+maintenance, and management. Each module will run at any level or organization where the Army
+performs that function.
+
+         d. Transportation Coordinators’-Automated Information Management System. The TC-AIMS is
+a system that provides an integrated information transportation system capability for routine deployment,
+sustainment, and redeployment/retrograde operations.
+
+         e. Movement Tracking System. The MTS is a satellite-based tracking/communications computer
+found on ambulances and in the company CP. The system’s primary purpose is to maintain visibility of
+
+I-12
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+vehicles, like ambulances, that move individually and continuously across the battlefield. The system has
+the ability to send and receive free text messages for coordination and C2.
+
+                                                             NOTE
+
+                       Army of Excellence division ambulances have the MTS. Force XXI
+                       division ambulances will have FBCB2.
+
+         f. Commercial-Off-the-Shelf Office Automation. The computer devices present in tactical units
+essentially mirror the office place automation. Full-sized COTS personal computers and laptops, all with
+bubble jet or laser printers, are standard operating equipment. The systems host contemporary office
+software with PowerPoint, Word and Excel, to name a few.
+
+  Section IV. MEDICAL COMMUNICATIONS FOR COMBAT CASUALTY
+                                 CARE SYSTEM CONCEPT
+
+I-12. General
+
+         a. The digitized medical companies of the Force XXI division will employ the MC4 system, once
+the system becomes operational. They will operate under the CSS Standard Army Management Information
+System. The MC4 system is a theater, automated CHS system, which links commanders, health care
+providers, and medical support providers, at all echelons, with integrated medical information. The system
+provides digital enablers to connect both vertically and horizontally, all 10 CHS functional areas.
+
+         b. The MC4 system receives, stores, processes, transmits, and reports medical C2, medical
+surveillance, casualty movement/tracking, medical treatment, medical situational understanding, and
+MEDLOG data across all echelons of care. This is achieved through the integration of a suite of medical
+information systems linked through the Army data telecommunications architecture.
+
+         c. The MC4 system begins with the individual soldier and continues throughout the health care
+continuum. The best way to visualize the MC4 system capability is as a piece of the Army digital computer
+network where all ten CHS functional areas have been digitized and this CHS information is freely shared
+with everyone in the Army with a need to know. Not only will the MC4 system provide Army commanders
+with CHS information, but it will also provide them with a seamless transition to the joint CHS environment.
+The MC4 system will consist of three basic components: software, hardware, and telecommunications
+systems.
+
+                (1) Software. The joint TMIP will provide government off-the-shelf (GOTS)/COTS software
+and interoperability standards to support joint theater operations. The software provides an integrated med-
+ical information capability that will support all echelons of care in a TO with links to the sustaining base.
+
+                                                                                                                              I-13
+
+
+---
+
+FM 4-02.6
+
+Medical capabilities provided by the software to support commanders in the theater will address medical C2
+(including medical capability assessment, sustainability analysis, and medical intelligence); MEDLOG
+(including blood product management and medical maintenance management); casualty evacuation; and
+health care delivery. The MC4 system supports Army-unique requirements and any software needed to
+interface with Army information systems such as CSSCS, GCSS-A, FBCB2, warrior programs, and the
+MTS.
+
+                (2) Hardware systems. The hardware will consist of COTS automation equipment supporting
+the above software capabilities. Examples include, but are not limited to, computers, printers, networking
+devices, and the EIC.
+
+                (3) Telecommunications systems. The MC4 system will rely on current and proposed Army
+solutions for tactical, operational, and strategic telecommunications systems to transmit and receive digitized
+medical information throughout the theater and back to the sustaining base. There will be no separate
+AMEDD communications system. Telecommunications at brigade and below will be accomplished through
+the tactical Internet; above brigade level, telecommunications will be accomplished through the WIN
+architecture. The MC4 system includes hardware or software required to interface with current and
+emerging technologies, supporting manual, wired, and wireless data transmission. At end-state, the MC4
+system users will exchange data electronically via the WIN architecture. In the interim, commercial
+satellites will be fielded to selected medical units (for example, MDT) receiving the MC4 system to support
+high bandwidth requirements until the WIN architecture is fully fielded. Personnel operating satellite assets
+are resourced in the MDT TOE and will be located with the MDT. The MC4 system employs a three-block
+incremental development approach that incorporates the spiral systems engineering life-cycle methodology
+designed to reduce development risk, improve manageability, increase maintainability, and accelerate
+benefits to the warfighter. The MC4 system will be the Army’s medical information system to modernize,
+digitize, and integrate medical information and make it available for the warfighting commander’s use.
+
+1-13. Medical Digitization of the Combat Brigades
+
+All soldiers have long required the ability to carry medical information with them for purposes of individual
+readiness, continuity of care, medical surveillance, and post-deployment health care follow-up.
+
+         a. Under the MC4 system, medical information about every IBCT soldier will be entered into a
+local database and maintained at the supporting BAS or troop medical clinic. This information will include
+the soldier’s immunization status, medical deployability status, and dental deployability status. A commander
+faced with a deployment will be able to simply query the database to gain the deployability status of the
+entire command.
+
+         b. Commanders will have, for the first time, readiness tracking and reporting during all phases of
+deployment. The DOD standard automated systems will enhance commanders’ ability to track/report
+qualification for worldwide deployment by tracking such items as blood type, dental readiness, immuni-
+zations, allergies, flight status, physical profile, eyeglass prescriptions, current medical condition and
+medications, thereby ensuring that the commander deploys a fit and healthy force. These digital tools signi-
+ficantly enhance theater clearance and manifesting which ultimately streamlines the soldier readiness process.
+
+I-14
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+         c. Fielding of modular/tailorable CHS units, combined with the digital enablers, allows
+optimization of the CHS footprint within a TO minimizing strategic lift and ensuring early deployment of
+critical CHS assets. Digital enablers and reach capabilities will also optimize theater assets. Teleconsultation
+provides specialty medical information to maximize the effectiveness of deployed personnel.
+
+I-14. The Application of Medical Communications for Combat Casualty Care in Combat Health
+         Support Echelons of Care
+
+The following paragraphs discuss how MC4 applies at each echelon of CHS in an operation involving the
+combat brigade.
+
+         a. Echelon I.
+
+                (1) The 91W/trauma specialist (combat medic) will be the first point where a casualty
+interfaces with MC4. Each 91W/trauma specialist will be equipped (when made available) with an MC4
+Type I handheld Personal Digital Assistant (PDA) computing device capable of reading from and writing to
+the casualty’s EIC. Medical care provided to the casualty by the 91W/trauma specialist will be recorded on
+the EIC. Where communication assets allow, this information will also be transmitted to the supporting
+BAS.
+
+                (2) If a casualty’s injuries or illness require treatment beyond the 91W/trauma specialist’s
+abilities, the 91W/trauma specialist (combat medic) will notify the platoon sergeant who will relay a request
+for support/evacuation using the FBCB2 system to the company’s 1SG. The 1SG, who normally has
+control over the ambulances operating in DS support of the maneuver company, will dispatch an ambulance
+to the location. The casualty will then be evacuated to a higher level of medical care, most likely the BAS.
+During this evacuation, an on-board 91W/health care specialist will use digital equipment to monitor the
+patient and provide en route care as required. Under MC4, each ambulance will be equipped with an on-
+board MC4 computing device, which will interface with the casualty’s EIC. En route care provided by the
+91W/trauma specialist will be recorded on the patient’s EIC and will also be transmitted to the destination
+medical treatment facility. Digital linkages to medical C2 units/medical regulators allow for redirecting the
+casualty en route should the need arise. The request for evacuation from the 91W/trauma specialist’s site
+may also be made over FBCB2 system, utilizing a built-in MEDEVAC request.
+
+                (3) At the BAS, the medical staff will use MC4 Type II computing devices to read from the
+patient’s EIC, ascertaining information on the care that the patient has received demographic information,
+and any relevant medical history. Using the MC4 computing device, the BAS medical personnel will
+record care provided onto the patient’s EIC. This information, along with any information generated by the
+treatment that the casualty receives at the BAS will be recorded onto the local database. The information
+will also be transmitted to the next higher level of medical care (medical company) and ultimately to the
+interim theater database.
+
+                (4) The present MEDLOG system at Echelon I is a totally manual system. Under MC4 the
+91W/trauma specialist will utilize FBCB2 to request medical supplies from the BAS. This request will be a
+built-in report in FBCB2. At the BAS, requests for Class VIII resupply will be made utilizing the MC4
+system.
+
+                                                                                                                              I-15
+
+
+---
+
+FM 4-02.6
+
+         b. Echelon II.
+
+                (1) At the Echelon II MTFs (for example, the medical company/FST), MC4 will provide the
+same augmentations to treatment documentation, evacuation, and MEDLOG that will be seen at Echelon I.
+Through the use of the MDT, the medical company will have the ability to digitize medical data (x-rays,
+pictures, etc.) and transmit it to medical experts at EAB/EAD. This teleconsultation ability will result
+in some casualties being treated farther forward in the theater and will increase the RTD rate and reduce
+overevacuation.
+
+                (2) The MC4 system will automate linkage of Class VIII to the transportation system. The
+management of the complex medical sets along with the quality control of Class VIII materiel is also
+automated improving efficiency over the current manual system.
+
+         c. Echelon III. The MC4 will allow reach capability to Echelon III CHS and beyond. Echelon III
+contains hospitals and all of the specialized medical units required to support the theater. The MC4 system
+will link all of these medical functions. This system will equip corps treatment and evacuation teams with
+personally carried and mobile computers for the collection and forwarding of medical information to the
+forward, division, or ASMC. Likewise, CSC teams, veterinary teams, dental teams, and PVNTMED
+teams operating in the brigade rear area will be equipped with personally carried or mobile computers.
+These MC4-provided devices will be loaded with the appropriate software functionality. Corps/theater
+medical regulators/medical C2 will be able to rapidly and accurately match treatment capability with the
+soldier’s need for care. The MC4 corps medical regulating system (TRANSCOM’s Regulating and
+Command and Control Evacuation System) provides this functionality via WIN. A seamless Class VIII
+(including blood) automated system links the theater to prime vendor systems in CONUS.
+
+I-15. Medical Command and Control Application
+
+         a. Under MC4, medical information on soldiers will be stored at different levels. This will allow
+commanders and command surgeons at the various echelons to access medical information on their soldiers
+to find out specific information and to conduct analysis of disease/injury trends. These lower echelon
+databases also provide a means for information redundancy should destruction of an information node or
+communications outage occur. Each database will feed the databases above it. Personnel (medical
+commanders, staff surgeons) at each echelon with MC4 management functionality will be able to query the
+database. The CHS information required by the CSSCS will pass from the MC4 system through GCSS-A to
+CSSCS.
+
+         b. The brigade surgeon will maintain a database containing medical information relevant to the
+soldiers in the brigade. This will be the interim theater database that provides information to update
+sustaining base medical information systems such as the computer based patient record and health
+surveillance system.
+
+         c. At all echelons, MC4 will automatically provide information such as evacuation status, current
+fitness for combat, and hazard exposure information to the commander’s situational understanding system.
+The MC4 system will provide the commander with the ability to track and record the date and location of
+
+I-16
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+exposure to health hazards, which include environmental, occupational, industrial, and NBC hazards. This
+information is critical to the force health protection hazard analysis necessary to identify emerging DNBI
+problems and trends. Commanders will have real-time information on food sources safety/quality,
+operationally significant zoonotic disease, health surveillance/trends, and near-real-time health hazard
+assessment data for NBC/endemic disease threats and occupational or environmental health threats. This
+information will be provided to the commander from the MC4 functional digital systems through GCSS-A
+to CSSCS. Commanders, for the first time, will have a complete picture of the battle space, which will
+allow them to accurately influence current operations while synchronizing CHS with other activities.
+
+         d. The capabilities of the medical assets available to the combat brigade will be optimized with
+technological enablers for equipment and supplies, and with digital enablers to include FBCB2, CSSCS,
+MC4, TMIP, WIN, and the EIC. Figure I-7 provides an example of the MC4/TMIP database structure.
+
+                                                                                                                              I-17
+
+
+---
+
+FM 4-02.6
+
+         Figure I-7. Medical communications for combat casualty care/Theater Medical Information
+                                                Program database structure.
+
+I-18
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                   APPENDIX J
+
+ CLEARING STATION OPERATIONS ON URBANIZED TERRAIN
+
+J-1. Employment
+
+In military operations on urbanized terrain (MOUT), the medical company’s/troop’s treatment units may be
+required to deploy forward to provide Echelon I augmentation.
+
+J-2. Site Selection and Unit Layout
+
+Site selection and unit layout requirements of the medical company/troop, as discussed in Chapter 3,
+are still valid considerations in MOUT scenarios. However, MOUT-specific issues must also be con-
+sidered.
+
+         a. Locations Within the City. If the area selected for the medical company to occupy is within the
+city, it is important that the site be—
+
+                • Adequate for the number of casualties expected.
+
+                • That avenues of approach and egress are readily available.
+
+                • That there be a smooth flow of traffic within the site.
+
+                • That the location is reasonably secure easily defended and that it affords protection from
+observation and the direct and indirect fires that are likely to result from that observation.
+
+         b. Existing Buildings. Combat in urban environments generally results in serious damage to
+existing buildings. This damage may compromise the structural integrity of these buildings and render them
+unsafe. If medical company operations must be established within existing battle damaged structures, they
+should be inspected by engineers and declared safe for occupation.
+
+         c. Basements. In many areas of the world, basements and subbasements are routine parts of
+construction. Although basements afford protection from small arms and automatic weapons fire, they also
+pose many potential hazards. Combat in urban areas may damage or destroy gas, water and sewer mains
+(distribution systems). As the leaking gas may be heavier than air, it will settle into the low lying spaces
+creating poisoning as well as fire and explosion hazards. Another hazard presented by establishing the
+MTF in a basement or series of basements is that the building may collapse due to artillery fire or aerial
+bombing, trapping medical personnel and patients under the rubble.
+
+         d. Fortifying the Building. If ground and upper level floors of a building are used, fortifica-
+tions to the building can lower the threat from small arms and automatic weapons fire. This can be
+accomplished by barricading windows and using sandbags; observation/firing ports (holes) can be left
+open. By covering these observation/firing ports at night, light discipline can be maintained in the MTF
+operational area.
+
+                                                                                                                               J-1
+
+
+---
+
+FM 4-02.6
+
+J-3. Forward Surgical Team
+
+The forward surgical team FST will collocate with the clearing station during MOUT operations. This
+element provides forward surgical intervention for nontransportable trauma patients. Once stabilized by the
+FST these patients can be evacuated further to the rear for more definitive care.
+
+J-4. Mass Casualty Operations
+
+Mass casualty situations are chaotic events the throw large numbers of people together under less than ideal
+circumstances. When anticipated and prepared for, through detailed planning, coordination, regular
+rehearsals and tough realistic training the chaos associated with this type of event can be minimized. These
+actions require proactive command level emphasis for units to be able to effectively deal with these
+situations
+
+         a. Planning. To ensure efficient management of MASCAL situations, the CHS planner must
+develop an effective plan and then rehearse it on a periodic schedule.
+
+         b. Rehearsal and Training. The response to a MASCAL situation is determined in large part by
+how well the unit is prepared before the event occurs. Rehearsals are an invaluable tool for assessing the
+strengths, weaknesses and training required to make personnel proficient in their individual and collective
+tasks when responding.
+
+         c. Additional Information. For additional information on MASCAL operations, see Appendix C.
+
+J-5. Forward Deployed Medical Treatment, Preventive Medicine, and Medical Evacuation Assets
+
+         a. Medical Treatment. The medical company will augment and/or reinforce aid stations as
+needed during MOUT operations. Combat health support planners should consider pushing additional
+Class VIII items forward to the aid stations in response to the increased number of casualties that are
+generally sustained during MOUT operations. During the initial fight, the focus of the aid station is to treat
+and stabilize severe trauma patients for evacuation. As a result, routine sick call services will usually be
+passed to the medical company. The medical company/troop must, therefore, provide this support.
+
+         b. Preventive Medicine. Throughout history, disease nonbattle injury (DNBI) resulting from
+medical threats (including, but not limited to, heat, cold, and disease) have accounted for more losses to
+fighting forces than combat-related injuries. The need for effective preventive medicine measures cannot be
+overemphasized, especially in MOUT operations. Combat in urbanized terrain by its nature creates some
+unique hazards and situations. Despite considerable advances in the technology of war, the medical threat
+still presents a significant danger to our forces. For detailed information concerning preventive medicine
+refer to FMs 8-10-7 and 21-10.
+
+         c. Medical Evacuation. Conducting medical evacuation operations in the MOUT environment
+challenges the CHS planner. He must ensure that the CHS plan includes special or unique materiel
+
+J-2
+
+
+---
+
+                                                                                                                     FM 4-02.6
+requirements or improvised use of standard equipment. The plan must be sufficiently flexible to support
+unanticipated situations. For detailed information concerning patient evacuation in MOUT operations refer
+to FM 8-10-6, Chapters 5 through 10.
+
+                                                                                                                               J-3
+
+
+---
+
+            FM 4-02.6
+
+APPENDIX K
+
+MANAGEMENT OF INDIVIDUAL HEALTH RECORDS
+                              IN THE FIELD
+
+K-1. General
+
+         a. This appendix provides guidance on the maintenance of the soldier’s individual HREC and
+CEMRs in the field. The governing regulation is AR 40-66.
+
+         b. Health records are maintained by the MTF that provides primary care for the soldier.
+
+         c. Unit commanders will ensure that HRECs are always available to AMEDD personnel who
+require such records in the performance of their duties. Unit commanders will also ensure that the
+information in the HRECs is kept private and confidential in accordance with law and regulations governing
+patient records administration.
+
+         d. Health records located at an Echelon I MTFs are maintained by unit medical personnel. The
+AMEDD officer-in-charge serves as the custodian of the HRECs and CEMRs. Army Medical Department
+officers are in charge of the HRECs and CEMRs for the members of the units and civilian employees for
+whom they supply primary medical care. They are also in charge of the HRECs, CEMRs, and the records
+of other individuals that are receiving treatment from the MTF. Health records are important for the
+conservation and improvement of the patient’s health. Therefore, AMEDD officers will ensure that all
+pertinent information is promptly entered in the HRECs/CEMRs in their custody. If any such pertinent
+information has been omitted, the AMEDD officer will take immediate action to obtain such information
+from the proper authority and include it in the HREC/CEMR.
+
+K-2. Health Records of Deployed Soldiers
+
+         a. Health Records. The HRECs (DA Form 3444 or DA Form 8005 Series [Medical and Dental
+Treatment Records]) of deployed soldiers and the CEMR of deployed civilians will not accompany them to
+the combat area.
+
+                (1) The supporting MTF will initiate a DD Form 2766 (Adult Preventive and Chronic Care
+Flowsheet), DD Form 2766C (Adult Prevention and Chronic Care Flowsheet Continuation), DD Form
+2795 (Pre-Deployment Health Assessment Questionnaire), and DD Form 2796 (Post-Deployment Health
+Assessment Questionnaire). If an individual deploys, the DD Form 2766 and DD Form 2766C will be
+photocopied prior to deployment and the copy will be kept in the medical record. The original DD Form
+2766 and any DD Forms 2766C will accompany the individual to the field. The DD Form 2766 serves as
+the treatment folder for the individual that is deployed; other forms, such as DD Form 2766C, DD Form
+2795, DD Form 2796, and SF 600 (Health Record–Chronological Record of Medical Care) will be filed on
+the fastener inside DD Form 2766. The photocopies of the DD Form 2766 and DD Form 2766C will be
+removed and shredded when the originals are placed back into the HREC or CEMR. Forms that had been
+filed inside the DD Form 2766 folder will be removed and place in the HREC or CEMR (in the regular
+treatment folder).
+
+                                                                                                                               K-1
+
+
+---
+
+FM 4-02.6
+
+                (2) When processing individuals for deployment, the MTF and dental treatment facility
+(DTF) will audit each individual’s HREC or CEMR and record essential health and dental care information
+on DD Form 2766. If a HREC or CEMR is not available, DD Form 2766 will be completed based on
+individual interviews and any other locally available data. A HREC may not be available for most
+Individual Ready Reserve, Individual Mobilization Augmentees, and retired personnel because these HRECs
+may remain on file at the Army Reserve Personnel Command (ARPERSCOM) or the VA.
+
+                (3) Upon notification of deployment, all military personnel will complete DD Form 2795.
+
+                       (a) The individual being screened will fill out the section entitled Demographics on
+page 1, and the section entitled Health Assessment on page 2. These sections are self-explanatory.
+
+                       (b) The health assessment administrator will fill out the boxed area on page 1 entitled
+Administrator Use Only, and will answer the user’s questions on filling out the form. The administrator will
+document the deployment location as well as the completion date of the pre-deployment evaluation on DD
+Form 2766, Block 11, Pre-/Post-Deployment History. This does not apply to classified operations.
+
+                       (c) The health care provider will fill out the section entitled Pre-Deployment Health
+Provider Review on page 2.
+
+                       (d) A copy of the form will be filed on the fastener inside the DD Form 2766 folder;
+one copy will remain in the HREC, and the original form will be sent to the Army Medical Surveillance
+Activity, ATTN: MCHB-TS-EDM/Deployment Surveillance, Building. T-20, Room 213, 6825 16th Street
+NW, Washington, DC 20307-5000.
+
+                (4) Department of Defense Directive 6490.2 and Department of Defense Instruction (DODI)
+6490.3 state that to the extent applicable, medical surveillance activities will include essential DOD civilian
+and contractor personnel directly supporting deployed forces, consistent with plans established under DODIs
+1400.32 and 3020.37. If DD Form 2795 is used for civilians, a copy of the form will be filed on the
+fastener inside the DD Form 2766 folder; one copy will remain in the CEMR, and the original form will be
+sent to the Army Medical Surveillance Activity.
+
+                (5) If the deployed individual is taking part in a classified operation, the pre-deployment
+evaluation (DD Form 2795) is still required, but the form will be maintained only in the personnel folder.
+
+                (6) The completed DD Form 2766 and a copy of any printout from an automated immuni-
+zation tracking system will be provided to the individual’s command, or to the individual if he or she is an
+individual replacement, and then handed off to the MTF in the AO responsible for providing primary
+medical care to that individual. That MTF will maintain the DD Form 2766 as an outpatient field file for
+reference as needed. The MTF will ensure that the ABO/Rh blood type from a verified blood bank typing
+is recorded in Block 10. The field file will consist of, in part, DD Form 2766, DD Form 2795, and possibly
+DD Form 2766C, DD Form 2796, SF 600, SF 558 (Medical Record–Emergency Care and Treatment),
+SF 603 (Health Record–Dental), or DD Form 1380. These forms will be filed on the fastener inside
+the DD Form 2766. For detailed information on how to complete the DD Form 1380, see Appendix C, FM
+8-10-6.
+
+K-2
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                (7) If DD Form 2766 is not available, the individual’s field file may be managed as a “drop”
+file (forms not attached) and integrated into the DD Form 2766 when it is available.
+
+         b. Forwarded Deployed Force. If time permits, follow guidance in a(1), (2), and (3) above. If
+not, consolidate HREC in-country and process when time permits.
+
+         c. Limited Contingency Operations. Retain the HREC at the MTF and DTF providing primary
+care. If the servicing primary care facility closes, forward the HREC to the MTF or DTF indicated by the
+servicing MEDDAC and dental activity. If full mobilization occurs, follow guidance in a(1), (2), and (3) above.
+
+         d. Units That Do Not Process Through a Mobilization Station. Units that do not process through
+a mobilization station before deployment or otherwise do not have access to an MTF or DTF will follow the
+procedures in b above.
+
+K-3. Use of Field Files/DD Form 2766
+         a. If a member’s primary MTF changes, the field file/DD Form 2766 should be moved to the
+
+gaining MTF.
+         b. If a member requires admission to the hospital, every attempt will be made to forward the field
+
+file/DD Form 2766. The file will be returned to the member’s primary MTF if disposition is RTD.
+
+K-4. Storage of Health Records and Civilian Employee Medical Records
+Forward deployed (Echelon I and Echelon II) MTFs will secure field chest or field file containers in
+quantities sufficient for the troop and civilian employee population supported. They will maintain the DD
+Form 2766 for each individual receiving primary medical care from their MTF.
+
+K-5. Establishment and Management of the Field File in the Operational Area
+         a. A DD Form 2766 and the medical records identified above will be maintained by medical
+
+companies operating an Echelon II MTF or the medical platoon/section that operates an Echelon I MTF, or
+will be handed off to the MTF providing their primary care.
+
+         b. Supported units will be required to provide the primary care MTF a battle roster of personnel
+assigned. This roster should be provided when personnel assignment changes are made or upon request.
+
+         c. The MTF, when possible, will attempt to ensure that the HREC or CEMR accompanies the
+medically evacuated individual.
+
+         d. If an individual’s primary MTF changes, the HREC or CEMR will be transferred to the
+gaining MTF.
+
+                                                                                                                               K-3
+
+
+---
+
+FM 4-02.6
+
+         e. If an individual requires hospital admission, every attempt will be made to forward the HREC
+or CEMR to the admitting hospital.
+
+         f. When the MTF determines that an individual was evacuated without the DD Form 2766 and
+other medical records in the file, then the individual’s DD Form 2766 and other medical records are
+forwarded to the medical C2 headquarters responsible for regulating patients out of the AO. The medical
+C2 headquarters forwards the outpatient field file to the hospital where the patient was evacuated. The
+hospital patient administration section will attach the file to the inpatient chart and the file is evacuated with
+the patient out of the AO or theater.
+
+K-6. Health Assessments after Deployment
+
+         a. All military personnel will complete DD Form 2796 prior to leaving the AO.
+
+                (1) The individual being screened will fill out the section entitled Demographics on page 1
+and the section entitled Health Assessment on page 2. These sections are self-explanatory.
+
+                (2) The health assessment administrator will fill out the boxed area on page 1 entitled Admin-
+istrator Use Only and will answer the user’s questions on filling out the form. The administrator will
+document the deployment location (if this information is missing) and the completion date of the post-
+deployment evaluation on DD Form 2766, Block 11, Pre-/Post-Deployment History. This does not apply to
+classified operations.
+
+                (3) The health care provider will fill out the section entitled Post-Deployment Health Provider
+Review on page 2.
+
+         b. If a situation does not allow this health screening prior to departure, the individual’s commander
+will ensure that the health assessment is completed and submitted to the local MTF commander within 30
+days of the individual’s return. The local MTF commander will ensure that a procedure is in place for
+submitting the original DD Form 2796 to the Army Medical Surveillance Activity and for filing a copy in
+the HREC.
+
+         c. If the DD Form 2796 is completed prior to leaving the AO, a copy of the form will be filed in
+the DD Form 2766 folder until it can be integrated into the HREC. The original DD Form 2796 will be
+submitted to the Army Medical Surveillance Activity, ATTN: MCHB-TS-EDM/Deployment Surveillance,
+Building. T-20, Room 213, 6825 16th Street NW, Washington, DC 20307-5000.
+
+         d. The post-deployment assessment of Reserve Component personnel must be completed prior to
+release from active duty if not completed before redeployment. Reserve Component personnel who have
+been deployed will also complete DD Form 2697 (Report of Medical Assessment) according to AR 40-501.
+Reserve Component personnel who are called to active duty but never actually deployed will only complete
+DD Form 2697.
+
+         e. If DD Form 2796 is used for civilians, the form will be completed prior to leaving the AO. If
+a situation does not allow this health screening prior to departure, the individual’s commander will ensure
+
+K-4
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+that the health assessment is completed within 30 days of the individual’s return. If the DD Form 2796 is
+completed prior to leaving the AO, a copy of the form will be filed in the DD Form 2766 folder until it can
+be integrated into the CEMR. The local commander will ensure that a procedure is in place for submitting
+the original DD Form 2796 to the Army Medical Surveillance Activity and for filing the copy in the CEMR.
+
+         f. If the deployed individual is taking part in a classified operation, the post-deployment evaluation
+(DD Form 2796) is still required, but the form will be maintained only in the personnel folder.
+
+K-7. Field Record Administration after Hostilities Cease
+         a. Field files/DD Form 2766 will be integrated with the HREC or CEMR after demobilization at
+
+the home station or at mobilization stations.
+                (1) On return to the MTF (post-deployment), forms, such as SF 600, will be removed from
+
+the DD Form 2766 folder and placed with the other SF 600 in the medical record.
+                (2) DD Form 2795 and DD Form 2796 will be removed from the DD Form 2766 folder and
+
+placed as shown in Figures 5-1, 5-2, or 7-1 of AR 40-66. If a previously photocopied DD Form 2795 is
+contained in the record, only one of the DD Forms 2795 will be kept; the other will be removed and
+shredded.
+
+                (3) The photocopies of the DD Form 2766 and DD Form 2766C will also be removed and
+shredded when the originals are placed back into the record. Field files/DD Form 2766 will be forwarded
+to ARPERSCOM for those members who’s HREC is maintained at ARPERSCOM.
+
+         b. Each CONUS MTF must request records from ARPERSCOM for those members who remain
+on active duty and are assigned for support upon demobilization.
+
+         c. Field files will be integrated with the HREC maintained at home station or mobilization
+station. Field files will be forwarded to Army Reserve Personnel Center (ARPERCEN) for members who’s
+HREC is maintained at ARPERCEN.
+
+         d. Each CONUS MTF must request records from ARPERCEN for those soldiers who remain on
+active duty and are assigned for support upon demobilization.
+
+                                                                                                                               K-5
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                                   APPENDIX L
+
+      CLINICAL GUIDELINES FOR COMBAT CASUALTY CARE
+
+ Section I. CLINICAL GUIDELINES FOR PHYSICIAN–LEAD, PHYSICIAN
+    ASSISTANT–LEAD, AND NURSING–LEAD TREATMENT MODULES
+
+L-1. General
+
+         a. This appendix provides guidelines for use of personnel providing combat casualty care within
+the medical company. It focuses on the clinical aspects of the unit’s operations.
+
+         b. The phased concept of combat casualty care, unique to war, permits the medical company, an
+Echelon II MTF, to do what must be done to render casualties transportable to an Echelon III MTF for
+continued treatment, or to treat and care for them for a limited period of time until they are able to RTD.
+
+L-2. Field Surgeon (62B00 MC)
+
+The credentialed physician (field surgeon) commanding trauma treatment elements examines, diagnoses,
+and treats or prescribes course of treatment for the initial phase of battlefield disease and injury. He
+provides resuscitative and definitive care for injured and wounded soldiers within the capability of the unit’s
+medical element. This physician is also credentialed in Advance Trauma Life Support (ATLS®). Accord-
+ingly, he establishes and practices techniques and procedures in accordance with ATLS® protocols. The
+field surgeon also provides guidance to assigned clinical personnel and ensures the efficacy of their capability
+in handling the sick and wounded/trauma casualty. He also ensures his team readiness and continued
+training in tactical emergency medical care.
+
+L-3. Physician Assistant (65D00 SP)
+
+Physician assistants leading emergency medical treatment elements are ATM certified. The ATM is
+composed of ATLS® and military specific/unique ATM and resuscitative skills. They practice techniques
+and procedures in accordance with established ATM protocols. The PA also provides clinical guidance to
+assigned medical personnel and insures the efficacy of their capability in handling of the sick and wounded/
+trauma casualty.
+
+L-4. Medical-Surgical Nurse (66H00 AN)
+
+The medical-surgical nurses leading patient holding elements provide professional nursing care and health
+care promotion for the assigned unit and the broader military community. Their responsibilities include
+ambulatory, medical-surgical, emergency, and critical care nursing. The medical-surgical nurse duties
+include supervision of holding squad personnel and technical training for 91W personnel of the unit. The
+medical-surgical nurse also provides nursing care for those patients that overflow the FST’s recovery area.
+
+                                                                                                                               L-1
+
+
+---
+
+FM 4-02.6
+
+L-5. Forward Surgical Team
+
+This physician-lead 20-person Echelon II trauma treatment module employs three clinical functional areas:
+triage-trauma management, surgery, and recovery.
+
+         Section II. HEALTH CARE SPECIALISTS TREATMENT AND
+                                  EVACUATION MODULES
+
+L-6. The 91W Health Care Specialist
+
+Health care specialists assigned to treatment teams, holding squad, and ambulance teams of the medical
+company/troop serve as integral members of the warfighting team by combining the skills of soldier and
+medical caregiver. The 91W performs emergency and evacuation care under the medical direction of a
+physician or other credentialed providers. Serves as a clinical technician in inpatient and outpatient areas of
+MTFs. Performs basic force health protection care for individual soldiers and small units. Is trained for
+combat and other operational environments. Conducts casualty triage and provides medical care for
+patients in all operational environments to include enroute care during ground and air ambulance evacuations.
+The 91W is certified to the national standards of emergency medical technician–basic (EMT–B) and
+augmented by the national EMT–intermediate curriculum.
+
+L-7. Core Competencies of the 91W
+
+The 91Ws of medical company/troop must be trained/credentialed in several areas of core competencies.
+These core competencies are examples of specific skills that establishes the scope and depth of clinical
+practice that are outlined in Tables L-1 through L-3 below.
+
+                             Table L-1. Core Competency for Emergency Medical Care
+
+         CORE COMPETENCY IN EMERGENCY CARE FOR THE 91W IS INCLUSIVE OF THE FOLLOWING:
+             • BATTLEFIELD AND OPERATIONAL FOCUS
+             • FAR FORWARD PRIMARY CARE
+             • SKILLS TO SUPPORT UNIT READINESS AND OPERATIONAL NEEDS
+             • SKILLS IN CONTEXT OF TACTICAL/OPERATIONAL ENVIRONMENT
+             EXAMPLES:
+                  A. ALL EMT–BASIC SKILLS
+                       1. ABCs (AIRWAY, BREATHING, CIRCULATION), CPR (CARDIOPULMONARY RESUSCITATION), OXY-
+                             GEN THERAPY, SUCTION, AND SO FORTH.
+                       2. BLEEDING CONTROL, BANDAGING, SPLINTING
+                       3. BLS (BASIC LIFE SUPPORT) CARE FOR A BROAD ARRAY OF EMERGENCIES
+                       4. DOCUMENTATION OF MEDICAL CARE
+
+L-2
+
+
+---
+
+                                                                                    FM 4-02.6
+
+        Table L-1. Core Competency for Emergency Medical Care (Continued)
+
+B. ADVANCED AIRWAY MANAGEMENT (INTUBATION, CRICOTHYROTOMY)
+C. DECOMPRESSION OF TENSION PNEUMOTHORAX
+D. VASCULAR ACCESS: INTRAVENOUS, INTRAOSSEOUS
+E. FLUID RESUSCITATION
+F. NBC MEDICAL PROCEDURES
+G. LIMITED MEDICATIONS
+
+     1. CONTROLLED MEDICATIONS (SUCH AS MORPHINE)
+     2. CEPHALOSPORIN (ANTIBIOTIC)
+     3. ATROPINE (NERVE AGENT ANTIDOTE)
+     4. PRALIDOXIME (NERVE AGENT PROPHYLAXIS)
+     5. NITRITES, SULFATES (CYANIDE ANTIDOTE)
+     6. ALBUTEROL (PULMONARY AGENTS)
+     7. EPINEPHRINE, BENADRYL (ANAPHYLAXIS)
+     8. OTHER MEDICATIONS AT THE DISCRETION OF THE ATTENDING PHYSICIAN
+H. ASSIST WITH AND MAINTAIN MEDICAL INTERVENTIONS INITIATED IN ECHELONS I, II, AND III DURING
+     TRANSPORTATIONS. ASSIST IN THESE PROCEDURES:
+     1. NASOGASTRIC INSERTION
+     2. FOLEY CATHETER INSERTION AND MAINTENANCE
+     3. CHEST TUBE(S) INSERTION AND MAINTENANCE
+ I. TRIAGE/MASCAL
+J. ALL EMERGENCY CARE SKILLS ARE TRANSFERABLE TO INPATIENT/PATIENT HOLDING SETTING
+
+                        Table L-2. Core Competency for Primary Medical Care
+
+CORE COMPETENCY IN PRIMARY CARE FOR THE 91W IS INCLUSIVE OF THE FOLLOWING:
+
+    • SICK CALL NEEDS OF FAR-FORWARD UNITS
+    • ACUTE DENTAL, PSYCHOLOGICAL, AND OTHER PRIMARY CARE NEEDS
+    • PROTOCOL-DRIVEN COMMON FIELD CLINICAL PROBLEMS
+
+    EXAMPLES:
+        A. HEADACHE, COUGH, SORE THROAT AND OTHER MINOR COMPLAINTS
+        B. SPRAINED ANKLE, BRUISES, CUTS AND OTHER MINOR INJURIES
+        C. MINOR WOUND CARE AND CLOSURES (STAPLES/SUTURES)
+        D. LIMITED OVER-THE-COUNTER (OTC) MEDICATIONS
+              1. ACETAMINOPHEN (HEADACHE)
+              2. IBUPROFEN (ACHES AND PAINS)
+              3. ANTACIDS (DYSPEPSIA)
+              4. KAOPECTATE (DIARRHEA)
+              5. BENADRYL (ITCH)
+              6. CALAMINE LOTION (POISON IVY)
+              7. OTHER AVAILABLE OTC MEDICATIONS APPROVED BY A PHYSICIAN
+        E. REHABILITATION OF HEAT EXHAUSTION, FATIGUE, COLD EXPOSURE, AND SO FORTH
+        F. ASSIST PHYSICIAN/PA IN SICK CALL PROCEDURES
+       G. APPROPRIATE DOCUMENTATION (PATIENT CHARTING AS APPROPRIATE)
+        H. CONDUCT BASIC AMBULATORY CARE—TRIAGE
+
+                                                                                               L-3
+
+
+---
+
+FM 4-02.6
+
+                                 Table L-3. Core Competency for Medical Evacuation
+
+         CORE COMPETENCY IN PATIENT EVACUATION AND RETRIEVAL FOR THE 91W IS INCLUSIVE OF THE FOLLOWING:
+             • EXTRACTION OFF THE BATTLEFIELD
+             • EXTRICATION FROM ALL TYPES OF COMBAT VEHICLES AND AIRCRAFT
+             • ONGOING EVACUATION CARE
+             • REQUESTING AIR/OR GROUND EVACUATION
+             EXAMPLES:
+                  A. EXTRACTION OFF THE BATTLEFIELD
+                  B. MANUAL AND LITTER CARRIES
+                 C. EVACUATION PLATFORM LOADING/UNLOADING
+                 D. EXTRICATION FROM VEHICLES/AIRCRAFT
+                  E. OPERATING TACTICAL GROUND AMBULANCES (TRACKED AND WHEELED)
+                  F. BASIC EN ROUTE MEDICAL CARE ONGOING FOR UP TO 48 HOURS
+                 G. APPLICATION OF TACTICAL MEDICAL EVACUATION PROCEDURES AND RADIO COMMUNICATIONS
+
+L-8. Medical Training
+
+Tables L-4 through L-6 contains the critical tasks to be used by the commander in the development of unit
+medical training program for assigned or attached 91W personnel. The training will be conducted under the
+auspices of a licensed physician. The 91W will be certified to the national standards of EMT-B and
+augmented by the national EMT-intermediate curriculum. The commander (medical company/troop) will
+coordinate with the senior medical officer for consultation as needed, supervision of the unit’s continuing
+education program, and to serve as the medical liaison between the unit and other services/facilities.
+
+                                         Table L-4. 91W10/20 Critical Task List
+
+         1. PERFORM AN INITIAL CASUALTY ASSESSMENT
+         TRAUMA/MEDICAL ASSESSMENTS (RESPONSIVE AND UNRESPONSIVE), BOTH ADULT AND PEDIATRIC (VS),
+         HISTORY (HX), SUBJECTIVE OBJECTIVE PROCEDURE NOTES, AUSCULTATE BREATH/BOWEL SOUNDS, MENTAL
+         STATUS, GLASGOW COMA SCALE, PRIORITIZE INJURIES OF INDIVIDUAL CASUALTY/PATIENT, COMPLETE
+         SPECIFIC FORMS
+         2. PERFORM ONGOING CASUALTY MANAGEMENT
+         VS DEFICITS AND TX, ONGOING MEDICAL MANAGEMENT IN BOTH LIMITED AND UNLIMITED RESOURCE
+         ENVIRONMENTS, PROVIDE CARE FOR COMPLICATIONS WITHIN AIR/GROUND EVACUATIONS, TRIAGE
+         CASUALTIES
+         3. PERFORM A CASUALTY RESUSCITATION
+         UNRESPONSIVE AND RESPONSIVE CASUALTIES, CARDIOPULMONARY RESUSCITATION (CPR), AIRWAY
+         ADJUNCTS, AIRWAY DEVICES, ADMINISTRATION OF OXYGEN (O2), HEAD POSITIONS, COMPLETE SPECIFIC
+         FORMS
+
+L-4
+
+
+---
+
+                                                                                                               FM 4-02.6
+
+                           Table L-4. 91W10/20 Critical Task List (Continued)
+
+4. ESTABLISH AN AIRWAY
+ESTABLISH AIRWAY, USING AIRWAY ADJUNCTS, CONFIRM PLACEMENT, USE AMBU BAG AND TRACHEAL
+SUCTION AS REQUIRED. USE MEDICATIONS FOR CONTROL OF THE INTUBATED PATIENT
+
+5. MANAGE AN AIRWAY
+FOCUSED ASSESSMENT, ADMINISTRATION OF O2 MASKS, PULSE OXIMETER, SUCTIONING, INTUBATION
+6. TREAT A CASUALTY FOR A BURN INJURY
+FOCUSED ASSESSMENT (BURN SURFACE AREA/DEPTH), AIRWAY MANAGEMENT, STABILIZING TX, PAIN
+MANAGEMENT, WOUND CARE. (INCLUDE KNOWLEDGE ON CHEMICAL AND ELECTRICAL BURNS), PREPARE
+FOR EVACUATION
+
+7. TREAT A CASUALTY FOR A MAXILLOFACIAL AND NECK INJURY
+FOCUSED ASSESSMENT, AIRWAY MANAGEMENT, MANAGE AREA-SPECIFIC BLEEDING, TX TEETH INJURIES,
+AND PAIN MANAGEMENT, EAR INJURY
+
+8. TREAT A CASUALTY FOR AN OCULAR INJURY
+FOCUSED ASSESSMENT (HX, INCIDENT, COMPLAINTS, ACUITY, PUPIL, ORBITAL RIM, CHEMICAL), IRRIGATE
+EYES, SUPERFICIAL FOREIGN BODY REMOVAL, EXTRUSIONS OF THE EYE, BURNS AND CONTUSIONS, APPLICA-
+TION OF BANDAGES, PREPARE FOR EVACUATION
+
+9. TREAT A CASUALTY FOR HEAD INJURY
+FOCUSED ASSESSMENT, OPEN AND CLOSED INJURIES, TX FOR SPECIFIC INJURY, PREPARE FOR EVACUATION
+
+10. TREAT A CASUALTY FOR A CHEST INJURY
+FOCUSED ASSESSMENT, OPEN/CLOSED CHEST INJURES, NEEDLE DECOMPRESSION, FLAIL CHEST, EMPHY-
+SEMA, TENSION PNEUMOTHORAX, ADMINISTRATION OF O2, PAIN MANAGEMENT, PREPARE FOR EVACUATION,
+BLAST INJURY
+
+11. TREAT A CASUALTY FOR AN ABDOMINAL INJURY
+FOCUSED ASSESSMENT (BOWEL SOUNDS), TX OPEN AND CLOSED INJURIES (BANDAGES AND POSITION), IV
+FLUID MANAGEMENT, PREPARE FOR EVACUATION
+
+12. TREAT A CASUALTY WITH A WOUND
+FOCUSED ASSESSMENT (OPEN/CLOSED), TX FOR LACERATIONS AND FRACTURES (FX), APPLICATION OF
+DRESS-INGS/BANDAGES, SLINGS, SPLINTS, SUPERFICIAL REMOVAL OF FOREIGN BODY(IES), WOUND CARE,
+ESTABLISH A STERILE/CLEAN FIELD, PERFORM SIMPLE SKIN CLOSURE TECHNIQUES, PAIN MANAGEMENT,
+PREPARE FOR EVACUATION
+
+13. TREAT A CASUALTY WITH AN EXTREMITY INJURY
+FOCUSED ASSESSMENT (INCLUDE NERVE INJURIES AND OPEN/CLOSED INJURY), TX DISLOCATIONS AND FX,
+APPLICATION OF SPLINTS/SLINGS AND FX DEVICES, PAIN MANAGEMENT, PREPARE FOR EVACUATION
+
+14. TREAT A CASUALTY WITH A MANGLED BODY PART
+FOCUSED ASSESSMENT, TX CRUSHED, PARTIAL AND COMPLETE AMPUTATIONS AND AVULSIONS, IV FLUID
+MANAGEMENT, PAIN MANAGEMENT, USE OF TOURNIQUET, APPLY DRESSINGS, PREPARE FOR EVACUATION
+
+15. TREAT A CASUALTY WITH AN IMPALED OBJECT
+FOCUSED ASSESSMENT, TX ABDOMINAL AND EXTREMITY IMPALEMENTS, PAIN MANAGEMENT, PREPARE FOR
+EVACUATION
+
+                                                                                                                         L-5
+
+
+---
+
+FM 4-02.6
+
+                                 Table L-4. 91W10/20 Critical Task List (Continued)
+
+         16. CONTROL BLEEDING
+         FOCUSED ASSESSMENT, APPLY DIRECT PRESSURE, PRESSURE POINTS, HEMOSTATIC DRESSINGS (WHEN
+         AVAILABLE) PRESSURE DRESSINGS, TOURNIQUET, IV THERAPY (INSERTION AND MANAGEMENT)
+
+         17. TREAT FOR SHOCK
+         FOCUSED ASSESSMENT (VS FOR EBL), DECISION IV FLUID MANAGEMENT/THERAPY, USE OF ALBUMIN, ASSESS
+         URINE OUTPUT, FOLEY INSERTION
+
+         18. PROVIDE TREATMENT FOR BITES AND STINGS
+         FOCUSED ASSESSMENT (TYPE OF INSECT/SNAKE AND SO FORTH), TX INJURY AND COMPLICATIONS, IN-
+         STRUCT PREVENTIVE MEASURES
+
+         19. TREAT FOR ANAPHYLAXIS
+         FOCUSED ASSESSMENT (TYPE OF INCIDENT-FOOD, DRUGS, AND BITES/STINGS); ADMINISTER EPINEPHRINE
+         AND OXYGEN, AIRWAY MANAGEMENT
+
+         20. PROVIDE TREATMENT FOR A TOXIC EXPOSURE
+         FOCUSED ASSESSMENT (INGESTED, CONTACT, INHALED) ADMINISTER IPECAC, CHARCOAL, AIRWAY MANAGE-
+         MENT (CPR), PREPARE FOR EVACUATION
+
+         21. MANAGE A SEIZING CASUALTY
+         FOCUSED ASSESSMENT (INCLUDE HX AND INCIDENT OF ONSET), AIRWAY MANAGEMENT, USE OF DRUGS/
+         NARCOTICS, PREPARE FOR EVACUATION, POSITION PATIENT
+
+         22. TREAT A CASUALTY FOR A COLD INJURY
+         FOCUSED ASSESSMENT (MINOR TO SEVERE), PROVIDE TX FOR EACH (TEMP CONTROL, REWARMING, AND SO
+         FORTH), INSTRUCT PREVENTIVE MEASURES, AND PREPARE FOR EVACUATION
+
+         23. TREAT A CASUALTY FOR A HEAT INJURY
+         FOCUSED ASSESSMENT (MINOR TO SEVERE), PROVIDE TX FOR EACH (TEMP CONTROL, COOLING, AND SO
+         FORTH), INSTRUCT PREVENTIVE MEASURES, ORAL AND IV FLUID MANAGEMENT, PREPARE FOR EVACUATION
+
+         24. MANAGE A BEHAVIORAL CASUALTY
+         FOCUSED ASSESSMENT (INCLUDE DEPRESSION, SUICIDE, STRESS, AND SO FORTH), INITIATE CARE OR
+         PREVENTIVE MEASURES, PREPARE FOR EVACUATION, STRESS MANAGEMENT PRINCIPLES
+
+         25. EXTRACT A CASUALTY
+         PROVIDE SUPPORT DEVICES, SPINE PRECAUTIONS/IMMOBILIZATIONS, REMOVE FROM GROUND, VEHICLE,
+         TANK, FIXED FACILITY, AIRCRAFT, PROVIDE GROUND SURVEILLANCE FOR LAND MINES/SCENE SAFETY.
+
+         26. PERFORM CASUALTY TRIAGE
+         MASCAL-CORRECTLY TRIAGE CASUALTIES INTO DELAYED, IMMEDIATE, MINIMAL, OR EXPECTANT
+
+         27. EVACUATE A CASUALTY BY GROUND
+         ASSESS AND TRIAGE CASUALTY/IES FOR TYPE OF ROUTE APPROPRIATE FOR INJURY, LOAD AND UNLOAD A
+         CASUALTY, LITTER CARRIES
+
+         28. EVACUATE A CASUALTY BY AIR
+         ASSESS AND TRIAGE CASUALTY/IES FOR TYPE OF ROUTE APPROPRIATE FOR INJURY, LOAD AND UNLOAD A
+         CASUALTY, LITTER CARRIES
+
+         29. MANAGE MEDICAL COMMUNICATIONS
+         REQUEST FOR CASUALTY EVACUATION, WRITTEN FORMS OF COMMUNICATION, 9 LINE, USE OF VARIOUS
+         EQUIPMENT, TELEMEDICINE, GUIDE COMBAT LIFE SAVERS
+
+L-6
+
+
+---
+
+                                                                                                               FM 4-02.6
+
+                             Table L-4. 91W10/20 Critical Task List (Continued)
+
+30. PROVIDE POSTMORTEM CARE
+PREPARE AND WRAP BODY, GRAVES REGISTRATION
+31. PROVIDE TREATMENT FOR A BIOLOGICAL EXPOSED CASUALTY
+FOCUSED ASSESSMENT, TRIAGE, APPROPRIATE TX PER PROTOCOL
+32. PROVIDE TREATMENT FOR A NUCLEAR EXPOSED CASUALTY
+FOCUSED ASSESSMENT, TRIAGE, APPROPRIATE TX PER PROTOCOL
+33. PROVIDE TREATMENT FOR A CHEMICAL AGENT CASUALTY
+FOCUSED ASSESSMENT, TRIAGE, APPROPRIATE TX PER PROTOCOL
+34. DECONTAMINATE A CASUALTY
+FOCUSED ASSESSMENT, APPROPRIATE DECONTAMINATION PROCEDURES
+35. PERFORM MEDICAL SCREENING
+ADMINISTER IMMUNIZATIONS, PERFORM SICK CALL PROCEDURES UTILIZING THE ALGORITHM DIRECTED
+TROOP MEDICAL CARE, PERFORM EMERGENCY INCIDENT REHABILITATION
+36. PROVIDE BASIC CARE
+BED BATH, BLOOD DRAWS (NEEDLE/VACUTAINER), MAINTAIN BLOOD/FLUID PRECAUTIONS
+37. PREVENT THE SPREAD OF DISEASE
+PERFORM BASIC FIELD SANITATION, INSTRUCT ON PERSONAL HYGIENE IN REMOTE ENVIRONMENTS,
+PREVENT NOSOCOMIAL INFECTIONS, WASH HANDS, DISPOSE OF INFECTIOUS WASTE, BODY SUBSTANCE
+ISOLATION
+38. TREAT A CASUALTY FOR SPINE INJURY
+FOCUSED ASSESSMENT, C-SPINE AND NERVE INJURIES, APPROPRIATE IMMOBILIZATION
+39. TREAT CARDIOPULMONARY SYMPTOMS
+FOCUSED ASSESSMENT, CHEST PAIN, HA, ABDOMINAL PAIN, SITE OF BURN; DIFFERENTIAL DIAGNOSIS OF
+CHEST PAIN
+
+40. TREAT GASTROINTESTINAL SYMPTOMS
+FOCUSED ASSESSMENT, ACUTE ABDOMINAL PAIN, N/V/D
+41. TREAT GENITOURINARY SYMPTOMS
+FOCUSED ASSESSMENT, UTIs, STDs (UNDER TREAT INFECTIOUS DISEASE), VAGINAL DELIVERY (ISOLATED
+ENVIRONMENT IN EMERGENCY CASES ONLY)
+42. TREAT NEUROLOGICAL SYMPTOMS
+FOCUSED ASSESSMENT, TX PER PROTOCOL
+43. TREAT METABOLIC/ENDOCRINE SYMPTOMS
+FOCUSED ASSESSMENT, ASSIST WITH TX OF HYPOGLYCEMIA PER PROTOCOL
+44. TREAT INFECTIOUS DISEASE IMMUNOLOGICAL SYMPTOMS
+FOCUSED ASSESSMENT, TRIAGE, APPROPRIATE TX PER PROTOCOL
+45. TREAT SKIN DISORDERS
+FOCUSED ASSESSMENT, TRIAGE, APPROPRIATE TX PER PROTOCOL
+46. VAGINAL DELIVERY (EMERGENCY CASES ONLY)
+FOCUSED ASSESSMENT, MANAGE AIRWAY, MANAGE AREA BLEEDING, PAIN MANAGEMENT, FETAL ASSESS-
+MENT, UMBILICAL CORD MANAGEMENT
+
+                                                                                                                         L-7
+
+
+---
+
+FM 4-02.6
+
+                                           Table L-5. 91W30 Critical Task List
+
+         EVACUATE A MEDICAL CASUALTY
+                   • THE MEDICAL EVACUATION SYSTEM INCLUDES PROPERTY EXCHANGE, MEDICAL SUPPORT OF
+                       OFFENSIVE/DEFENSIVE OPERATIONS
+                   • ESTABLISH GROUND AND AIR AXP
+                   • COMMUNICATE WITH FORWARD SUPPORT AIR AMBULANCE TEAM, ESTABLISH LZ
+                   • EVACUATION OF PRISONERS OF WAR
+                   • EVACUATION IN SPECIFIC ENVIRONMENTS INCLUDES MOUNTAIN, JUNGLE, DESERT, AND OTHER
+                       OPERATIONS
+                   • USE OF SMOKE IN GROUND/AIR EVACUATION MISSIONS (IAW GENEVA CONVENTIONS)
+
+         PERFORM MEDICAL FORCE PROTECTION
+             EMPLOY PREDEPLOYMENT MEDICAL SURVEILLANCE REQUIREMENT
+                   • CONDUCT MEDICAL SOLDIER READINESS PROCESSING
+                   • IDENTIFY AND COORDINATE WITH PVNTMED ASSETS
+                   • CONDUCT INSPECTIONS OF UNIT FIELD SANITATION PRACTICES
+                   • CONDUCT INJURY PREVENTION CLASSES
+                   • CONDUCT A MEDICAL THREAT ASSESSMENT
+             EMPLOY MEDICAL SURVEILLANCE REQUIREMENTS DURING DEPLOYMENT
+                   • CONDUCT MEDICAL SURVEILLANCE DATA COLLECTION ACTIVITIES
+                   • CONDUCT MEDICAL SURVEILLANCE DATA ANALYSIS ACTIVITIES
+                   • REPORT MEDICAL SURVEILLANCE DATA ANALYSIS FINDINGS
+             EMPLOY MEDICAL SURVEILLANCE REQUIREMENTS DURING REDEPLOYMENT
+                   • COORDINATE WITH PVNTMED FOR DEBRIEFING
+                   • CONTINUE MONITORING POTENTIAL DISEASE SYMPTOMS FROM DEPLOYMENT
+             CONDUCT MEDICAL FORCE PROTECTION RISK ASSESSMENT
+                   • IDENTIFY THE 5 STEPS OF CONTINUOUS RISK MANAGEMENT IAW FM 100-14
+                   • UTILIZE RISK ASSESSMENT FORM FOR MEDICAL OPERATIONS
+                   • CONFINED SPACES
+                   • PERSONAL PROTECTIVE MEASURES
+
+         SUPERVISE A MEDICAL TREATMENT AREA
+                   • ESTABLISH BAS, TREATMENT TEAM; MINIMAL CARE WARD, AND SO FORTH
+                   • ESTABLISH NBC DECONTAMINATION STATION, BAS, TREATMENT TEAM/PLATOON IAW FM 8-10-7
+                   • SUPERVISE FIELD/FIXED TREATMENT FACILITIES (WARDS, CLINICS)
+                   • COORDINATE MEDICAL COMPETENCY BASE TRAINING.
+                   • NATIONAL REGISTRY OF EMERGENCY MEDICAL TECHNICIAN STANDARDS
+                   • REFRESHER COURSE
+                   • CPR/OTHER REQUIREMENTS
+
+         APPLY MEDICAL LOGISTICS
+                   • CLASS VIII MEDICAL RESUPPLY SYSTEM
+                   • MEDICAL EQUIPMENT MAINTENANCE
+                   • BLOOD STORAGE AND DISTRIBUTION
+                   • NEW TECHNOLOGY SUCH AS O2 GENERATION, RESUSCITATIVE FLUIDS DEVELOPMENT, BLOOD
+                       SUBSTITUTES AND FROZEN BLOOD AND HEMOSTATIC DRESSINGS
+
+         ASSIST WITH ADVANCED TRAUMA MEDICAL PROCEDURES
+                   • CRICOTHYROTOMY
+                   • NEEDLE CRICOTHYROTOMY/PERCUTANEOUS TRANSTRACHEAL JET VENTILATION
+                   • CHEST TUBE INSERTION
+                   • DIAGNOSTIC PERITONEAL LAVAGE
+                   • CENTRAL VENOUS CANNULATION
+                   • VENOUS CUTDOWN
+                   • PERICARDIOCENTESIS
+                   • RESUSCITATIVE THORACOTOMY
+                   • ESCHAROTOMY FOR BURNS
+
+L-8
+
+
+---
+
+                                                                           FM 4-02.6
+
+Table L-6. 91W40 Critical Task List
+
+ASSESS MEDICAL CAPABILITIES
+    • CONSIDER RECONFIGURING ASSETS (PERSONNEL, EQUIPMENT) FOR STABILITY OPERATIONS AND SUP-
+         PORT OPERATIONS
+    • DEVELOP VIABLE HEALTH CARE PROGRAM FOR DISASTER ASSISTANCE, COMMUNITY AND ENVIRON-
+         MENTAL ASSISTANCE, AND LAW ENFORCEMENT SUPPORT
+    • INDIGENOUS MEDICAL CAPABILITIES
+    • RESEARCH AND IDENTIFY MEDICAL INTELLIGENCE
+    • ECHELONS OF CARE FOR JOINT OPERATIONS
+
+MEDICAL REGULATING                                           (INTRACORPS,  INTRATHEATER,  AND
+    • RESPONSIBILITIES AND COORDINATION WITH OTHER SERVICES
+         INTERTHEATER MEDICAL REGULATING).
+    • REGULATING WITHIN THE CZ
+    • ORIGINATING MEDICAL FACILITY’S RESPONSIBILITIES
+    • ESTIMATING MEDICALLY SIGNIFICANT CASUALTIES
+    • ESTIMATING ECHELON III HOSPITAL BED REQUIREMENTS
+
+MANAGE INFECTIOUS AND REGULATED MEDICAL WASTE
+    • IDENTIFY PROPER DISPOSAL TECHNIQUES FOR REGULATED MEDICAL WASTE
+    • IDENTIFY SOURCE REDUCTION TECHNIQUES FOR REGULATED MEDICAL WASTE
+
+APPLICATION/UTILIZATION OF MEDICAL TECHNOLOGY
+    REQUIRES FURTHER REFERENCES FROM AMEDD CENTER & SCHOOL, ATTN: MCCS-FC, FT SAM HOUSTON,
+    TX OR THE DCDD WEBSITE: http://dcdd.amedd.army.mil/index1.htm
+
+PREPARE THE MEDICAL ANNEX TO AN OPERATION ORDER
+    • PREPARE HEALTH SERVICES ANNEX INCLUDING SERVICE SUPPORT, PATIENT EVACUATION, TREAT-
+         MENT AND HOSPITALIZATION.
+    • MISCELLANEOUS—CP LOCATIONS, COMMUNICATIONS, JOINT INTERNATIONAL OR HOST AGREEMENTS.
+         ALSO INCLUDED ARE: OVERLAYS AND PVNTMED.
+
+L-9. Semiannual Combat Medic Skills Validation Test
+
+         a. The Army Surgeon General has directed that all 91W health care specialists validate their skill
+proficiency semiannually. The Semiannual Combat Medic Skills Validation Test (SACMS-VT) will be
+administered at least twice a year with a minimum of 4 months separating record of events. Commander
+may administer the SACMS-VT more than twice a year, but must indicate beforehand when results are for
+record purposes.
+
+         b. The SACMS-VT documents the 91W’s level of proficiency in critical medical skills and
+provides the impetus for sustainment training to maintain readiness. Commanders will find that this test
+facilitates the EMT-B civilian biannual certification process and ties in additional critical battlefield treatment
+modalities. Detailed information for the test is provided in soon-to-be published Training Circular (TC)
+8-800, Semiannual Combat Medic Skills Validation Test. The TC can be obtained by accessing the 91W
+website: http://www.cs.amedd.army.mil/91w/default.htm.
+
+                                                                                                                               L-9
+
+
+---
+
+FM 4-02.6
+
+           Section III. DENTAL–LEAD TREATMENT AND CLINICAL
+                          DIAGNOSTIC SUPPORT MODULES
+
+L-10. Comprehensive Dental Officer (63B00 DC)
+
+The dental officer leading the area support squad of an Echelon II MTF is accredited by the American
+Dental Association to provide comprehensive oral health care. He examines, diagnoses, and treats diseases,
+injuries and defects of teeth, jaws and oral cavity, and supporting structure. The dental officer also
+provides technical supervision of assigned dental, medical laboratory, and radiology personnel and insures
+the efficacy of their technical capability.
+
+L-11. Dental Specialist (91E)
+
+         a. The 91E assigned to the dental element of the area support squad, serves as an integral
+member of the dental team by combining the skills of soldier and dental caregiver.
+
+         b. This specialist assists the dental officer in prevention, examination, and treatment of disease of
+teeth and oral region, and assist with the management of the dental facility. The 91E receives patients,
+prepares the dental operatory, selects and arranges instruments, measures and records temperature blood
+pressure and pulse, and assists dentist during patients exams. Assist with the administration of anesthesia
+and in placement and removal of sutures. Prepares restorative and impression material. Performs
+cardiopulmonary resuscitation. Performs dental radiography. Performs preventive maintenance on dental
+equipment. Sets up, maintains, disassembles, and packs dental field equipment shelters.
+
+L-12. Core Competencies/Critical Tasks and Training for the 91E
+
+         a. The 91Es of medical companies/troops must be trained in several areas of core competencies
+as outlined below. These core competencies are clinically focused requiring specific skills that establishes
+the scope and depth of clinical practices required by the AMEDD Dental Service.
+
+         b. Tables L–7 below contain the core competency and critical task list to be used by the
+commander in the development of the unit’s dental proficiency training program. Proficiency training for
+the dental specialist will be conducted annually. Such training will be conducted under the auspices of a
+certified dentist. The medical company/troop commander, in collaboration with the senior dental officer,
+will establish a continuing education program for the dental specialist. Such training will be conducted
+annually.
+
+L-10
+
+
+---
+
+                                                                                FM 4-02.6
+
+Table L-7. 91E Core Competency/Critical Task List
+
+GENERAL DENTAL CORE COMPETENCY TASKS                              INSTRUCTIONS
+    1. SET UP FIELD DENTAL OPERATING/TREATMENT UNIT
+    2. PERFORM BASIC LIFE SUPPORT PROCEDURES
+    3. MEASURE AND RECORD PATIENT’S VITAL SIGNS
+    4. PREPARE PATIENT FOR DENTAL TREATMENT
+    5. PREPARE MATRIX BANDS
+    6. PREPARE DENTAL MATERIAL IN ACCORDANCE WITH MANUFACTURER’S
+    7. STERILIZE DENTAL ITEMS
+    8. PROCESS STERILIZED DENTAL ITEMS
+    9. PREPARE PATIENT FOR DENTAL TREATMENT
+
+  10. PERFORM FOUR-HANDED DENTISTRY TECHNIQUES
+  11. PREPARE A RESTORATIVE PROCEDURE SETUP
+  12. SETUP COMPRESSOR/HYDRATOR
+  13. OPERATE COMPRESSOR/HYDRATOR
+
+DENTAL CORE COMPETENCY CLINICAL TASKS
+  14. PREPARE A DENTAL LOCAL ANESTHETIC SETUP
+  15. PREPARE SURFACE DISINFECTION
+  16. PREPARE PATIENT FOR BASIC DENTAL EXAMINATION
+  17. SET UP FIELD SURGICAL SCRUB SINK
+  18. ASSIST IN MANAGEMENT OF CHAIR-SIDE EMERGENCIES
+  19. PREPARE OPERATIVE SITE
+  20. PREPARE AMALGAM RESTORATIVE MATERIAL
+  21. RETRACT SOFT TISSUE DURING DENTAL PROCEDURES
+  22. PROVIDE SUCTION DURING DENTAL PROCEDURES
+  23. PREPARE COMPOSITE RESIN MATERIAL
+  24. PREPARE IMMEDIATE RESTORATIVE MATERIAL
+  25. STORE ALL INSTRUMENTS TO MAINTAIN STERILE CONDITIONS
+  26. PROVIDE DENTAL PROPHYLAXIS WITH PROPHY CUP AND MINIMAL HAND SCALING TO REMOVE SUP-
+          RAGINGIVAL/DEPOSITS FOR PATIENTS
+  27. PREPARE EXTRACTION SETUP
+  28. PROVIDE—IRRIGATION DURING DENTAL PROCEDURES
+  29. DRY OPERATIVE SITE WITH AIR SYRINGE
+  30. PREPARE ALGINATE IMPRESSION MATERIAL
+  31. PREPARE DENTAL CEMENT
+  32. OPERATE THE FIELD SURGICAL SINK
+  33. ASSIST IN DENTAL TECHNIQUES FOR PREVENTION OF MEDICAL EMERGENCIES
+
+DENTAL RADIOGRAPHY CORE COMPETENCY TASKS
+  34. ASSEMBLE FIELD DENTAL X-RAY UNIT
+  35. OPERATE FIELD DENTAL X-RAY UNIT
+  36. PROTECT THE PATIENT AND OPERATOR THROUGH THE USE OF BARRIER TECHNIQUE
+  37. EXPOSE A RADIOGRAPH MANUALLY
+  38. PROCESS AN EXPOSED RADIOGRAPH MANUALLY
+  39. EXPOSE A DENTAL RADIOGRAPH USING THE PARALLELING TECHNIQUE
+  40. EXPOSE A DENTAL RADIOGRAPH USING THE BISECTING ANGLE TECHNIQUE
+  41. MOUNT A FULL MOUTH SERIES OF RADIOGRAPHS
+  42. PREPARE AN ENDODONTIC SETUP
+  43. PREPARE A PROSTHODONTIC PROCEDURE SETUP
+
+                                                                                          L-11
+
+
+---
+
+FM 4-02.6
+
+           Table L-7. 91E Core Competency/Critical Task List (Continued)
+
+GENERAL DENTAL CRITICAL TASKS                                      DENTAL  EQUIPMENT
+  44. PERFORM ROUTINE MAINTENANCE FOR HIGH- AND LOW-SPEED PIECES
+  45. DISASSEMBLE FIELD DENTAL X-RAY MACHINE
+  46. PACK DENTAL FIELD X-RAY MACHINE
+  47. DISASSEMBLE COMPRESSOR/HYDRATOR
+  48. DISASSEMBLE FIELD DENTAL OPERATING AND TREATMENT UNIT
+  49. PERFORM PREVENTIVE MAINTENANCE CHECKS AND SERVICES ON FIELD
+  50. DISPOSE OF REGULATED DENTAL WASTE
+  51. PACK FIELD OPERATING AND TREATMENT UNIT
+
+L-13. Radiology Specialist (91P)
+
+         a. The 91Ps assigned to the x-ray element of the area support squad, serves as an integral
+members of the diagnostic support team by combining the skills of soldier and clinical radiology
+expertise.
+
+         b. The radiology specialist—
+
+                • Operates fixed and portable radiology equipment.
+
+                • Reads and interprets radiographic request and physician orders.
+
+                • Prepares assembles and adjust instruments, materials, and equipment.
+
+                • Performs radiographic examinations of the upper and lower extremities, vertebral
+column, trunk, and skull.
+
+                • Performs soft tissue radiographic examinations
+
+                • Assist in performing body section radiographic procedures using conventional and com-
+puterized tomography.
+
+                • Assist in performing foreign body localization
+
+                • Assist in performing prenatal, pediatric, urogenital, and radiographic examinations of
+respiratory, vascular and nervous system.
+
+                • Develops radiographic film using automatic processing.
+
+                • Applies radiation, electrical, and mechanical protective measures.
+
+L-12
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                • Maintains daily ledger and performs routine patient administration.
+
+                • Inspects and performs operator maintenance on radiology equipment.
+
+                • Packs and unpacks, loads and unloads radiology equipment.
+
+                • Assembles and dissembles radiology equipment and shelters.
+
+L-14. Radiology Specialist/Sergeant Core Competencies, Critical Tasks, and Training
+
+         a. The 91P10/20s of medical company/troop must be trained/credentialed in several areas of
+core competencies. These core competencies in radiography techniques and procedures are examples of
+specific skills that establishes the scope and depth of clinical practices outlined in Table L-8 below.
+
+         b. The critical tasks listed in these tables are be used by the commander in the development of the
+unit’s medical radiology training program for assigned radiology specialists (91P). Normally the training
+will be conducted under the auspices of a certified diagnostic radiologist (61R00 MC) assigned to an
+Echelon III MTF. The commander (medical company/troop) will make coordination, through channels,
+with the supporting hospital and arrange for a continuing education program to support his clinical radiology
+personnel. Such training/recertification should be conducted annually, METT-TC permitting.
+
+                 Table L-8. Specialist/Sergeant (91P10/20) Core Competency/Critical Task List
+
+         TASK TITLE SKILL LEVELS 1&2
+
+              1. TRANSPORT A CASUALTY WITH A SUSPECTED SPINAL INJURY
+              2. ASSIST HEALTH CARE PROVIDER WITH TREATMENT FOR ANAPHYLACTIC SHOCK
+              3. ADMINISTER CARDIOPULMONARY RESUSCITATION
+              4. PREPARE PORTABLE RADIOGRAPHIC UNIT FOR OPERATION
+              5. PERFORM RESCUE BREATHING
+              6. MANAGE UNCONSCIOUS PATIENT
+              7. OPERATE MOBILE RADIOGRAPHIC UNIT
+              8. PREPARE FOR FIELD OPERATION IN AN NBC ENVIRONMENT
+              9. OPERATE DEPMEDS PORTABLE RADIOGRAPHIC UNIT
+            10. OPERATE FIELD CTC SCANNER
+            11. INITIATE INTRAVENOUS INFUSION
+            12. MANAGE CONVULSIVE AND/OR SEIZING PATIENT
+            13. PERFORM CT EXAMINATION (EXAM) OF UNENHANCED SPINE
+            14. MONITOR PATIENT’S CONDITION DURING ANGIOGRAPHY/INVASIVE PROCEDURE
+            15. X-RAY THE CHEST
+            16. X-RAY TRAUMA— LUMBAR SPINE
+            17. PERFORM CT EXAM OF ENHANCED CHEST
+            18. X-RAY THE CERVICAL SPINE
+            19. X-RAY THE PELVIS
+
+                                                                                                                              L-13
+
+
+---
+
+FM 4-02.6
+
+         Table L-8. Specialist/Sergeant (91P10/20) Core Competency/Critical Task List (Continued)
+
+         TASK TITLE SKILL LEVELS 1&2 (CONTINUED)
+
+            20. PROCESS FILM USING AN AUTOMATIC FILM PROCESSOR
+            21. OPERATE A FIELD CTC SCANNER
+            22. CODE PATIENT’S ID TO FILM FILE PACKETS/ENVELOPES
+            23. EVALUATE QUALITY OF DEVELOPED RADIOGRAPHS
+            24. USE UNIVERSAL PRECAUTIONS
+            25. PREPARE FIELD X-RAY PROCESSOR FOR OPERATION
+            26. PERFORM PREOPERATIONAL CHECK ON DEPMEDS PORTABLE RADIOGRAPHIC UNIT
+            27. PREPARE DEPMEDS RADIOGRAPHIC UNIT (CS 8952) FIELD DEPLOYABLE X-RAY SYSTEM
+            28. TRANSMIT IMAGES VIA SATELLITE
+            29. OPERATE RADIOGRAPHIC UNITS
+            30. PERFORM A PATIENT CARE HANDWASH
+            31. PREPARE AN INJECTION FOR ADMINISTRATION
+            32. ADMINISTER AN INJECTION (INTRAMUSCULAR, SUBCUTANEOUS, INTRADERMAL)
+            33. ESTABLISH A STERILE FIELD
+            34. APPLY IMMOBILIZATION DEVICE TO PATIENT
+            35. PREPARE AN AREA FOR OPERATIVE TREATMENT
+            36. ASSESS PATIENT CONDITION BEFORE X-RAY
+            37. ASSIST HEALTH CARE PROVIDER IN MANAGING CARDIAC ARREST
+            38. HANDLE PATIENT USING PROPER BODY MECHANICS
+            39. ADMINISTER OXYGEN BY MASK/CATHETER
+            40. ADMINISTER INTRAVENOUS CONTRAST MEDIA
+            41. OPERATE ANGIOGRAPHIC IMAGING EQUIPMENT
+            42. DIGITIZE CONVENTIONAL RADIOGRAPHIC IMAGES
+            43. DIGITIZE IMAGES FROM NON-RACS IMAGING MODALITIES
+            44. TRANSMIT IMAGES USING TELERADIOLOGY SOFTWARE AND HARDWARE
+            45. PERFORM CT EXAM OF UNENHANCED BRAIN
+            46. PERFORM CT EXAM OF UNENHANCED SINUSES
+            47. PERFORM CT EXAM OF UNENHANCED NECK—SOFT TISSUE
+            48. PRINT IMAGES
+            49. PERFORM CT OF TEMPORAL BONE
+            50. PERFORM CT EXAM OF UNENHANCED EXTREMITY
+            51. PREPARE OXYGEN TANK FOR PATIENT USE
+            52. MAINTAIN RADIOLOGY EMERGENCY EQUIPMENT TRAY/CART
+            53. OPERATE SPOT FILM DEVICE
+            54. X-RAY THE LUMBAR SPINE
+            55. X-RAY ABDOMEN
+            56. X-RAY THE HAND
+            57. X-RAY THE FOOT
+            58. OPERATE DIGITAL FLUOROSCOPIC UNIT
+            59. OPERATE PORTABLE C-ARM RADIOGRAPHIC/FLUOROSCOPIC UNIT
+            60. REPRINT CT IMAGES
+            61. X-RAY TRAUMA HIP
+            62. X-RAY THE TOES
+            63. MAINTAIN TECHNIQUE CHARTS FOR RADIOGRAPHIC UNIT
+            64. X-RAY DECUBITUS ABDOMEN
+            65. X-RAY DECUBITUS CHEST
+            66. X-RAY THE WRIST
+            67. X-RAY TRAUMA SHOULDER
+            68. X-RAY THE HIP
+
+L-14
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+         Table L-8. Specialist/Sergeant (91P10/20) Core Competency/Critical Task List (Continued)
+
+         TASK TITLE SKILL LEVELS 1&2 (CONTINUED)
+
+            69. X-RAY THE FEMUR
+            70. X-RAY THE ANKLE
+            71. X-RAY THE PATELLA
+            72. X-RAY THE SKULL
+            73. X-RAY FACIAL BONES
+            74. X-RAY THE MANDIBLE
+            75. X-RAY THE TEMPOROMANDIBULAR JOINTS
+            76. X-RAY THE ZYGOMATIC ARCHES
+            77. X-RAY SOFT TISSUE LARYNX
+            78. X-RAY THE THORACIC SPINE
+            79. X-RAY THE SACRUM/COCCYX
+            80. X-RAY THE SACROILIAC JOINT AND LUMBOSACRAL ARTICULATION
+            81. X-RAY THE RIBS
+            82. X-RAY THE SCAPULA
+            83. X-RAY THE SHOULDER
+            84. X-RAY THE HUMERUS
+            85. X-RAY THE ELBOW
+            86. X-RAY THE FOREARM
+            87. X-RAY FINGER OR THUMB
+            88. X-RAY THE CLAVICLE
+            89. X-RAY THE ACROMIOCLAVICULAR JOINTS
+            90. X-RAY THE KNEE
+            91. X-RAY THE LEG
+            92. X-RAY THE CALCANEUS
+            93. X-RAY THE PARANASAL SINUSES
+            94. X-RAY THE STERNUM
+            95. X-RAY THE NOSE
+            96. ASSIST WITH PATIENT URINARY CATHETERIZATION
+
+         TASK TITLE SKILL LEVEL 2
+
+              1. ESTABLISH RADIATION SAFETY PROGRAM
+              2. PREPARE PATIENT EMERGENCY EVACUATION PLAN
+              3. PERFORM RETAKE ANALYSIS
+              4. PERFORM PROTECTIVE DEVICES QUALITY CONTROL TESTS
+              5. DEVELOP STANDING OPERATING PROCEDURE DOCUMENT FOR A RADIOLOGY SECTION
+              6. MAINTAIN RADIOLOGY SUPPLIES AND EQUIPMENT
+              7. EVALUATE RADIOLOGY EQUIPMENT PREVENTIVE MAINTENANCE PROCEDURES
+              8. PERFORM COLLIMATOR QUALITY CONTROL TEST
+
+L-15. Medical Laboratory Specialist (91K)
+
+         a. The 91Ks assigned to the medical laboratory element of the area support squad, serves as
+integral members of the diagnostic support team by combining the skills of a soldier and clinical laboratory
+expertise.
+
+                                                                                                                              L-15
+
+
+---
+
+FM 4-02.6
+
+         b. The medical laboratory specialist performs blood banking procedures and elementary and
+advanced examinations of biological and environmental specimens to aid in the diagnosis, treatment, and
+prevention of disease and other medical disorders. The duties the 91Ks assigned to area support squads
+include the following:
+
+                (1) MOSC 91K10. Performs elementary clinical laboratory and blood banking procedures.
+
+                (2) MOSC 91K20. Performs elementary blood banking and clinical laboratory procedures
+in hematology, immunohematology, biochemistry, serology, bacteriology, parasitology, and urinalysis.
+
+L-16. Core Competencies of the 91K
+
+The 91Ks of medical company/troop must be trained/credentialed in several areas of core competencies.
+These core competencies are examples of specific skills that establishes the scope and depth of clinical
+laboratory practices that are outlined in Table L-9.
+
+                          Table L-9. Core Competency for Clinical Laboratory Specialists
+
+         CORE COMPETENCY IN MEDICAL LABORATORY TECHNIQUES AND PROCEDURES FOR THE 91K IS INCLUSIVE
+         OF THE FOLLOWING FOR AN AREA SUPPORT SQUAD:
+         THE MEDICAL LABORATORY SPECIALIST PERFORMS CLINICAL LABORATORY PROCEDURES IN A FIELD LAB-
+         ORATORY COMMENSURATE WITH THE CAPABILITY OF THE FACILITY. THIS SPECIALIST AIDS THE PHYSICIAN,
+         PA, AND OTHER MEDICAL PROFESSIONALS IN THE DIAGNOSIS, TREATMENT, AND PREVENTION OF DISEASE
+         IN PERFORMING THE FOLLOWING:
+
+             • REPORTING ACCURATE AND RELIABLE RESULTS
+             • BASIC HEMATOLOGY PROCEDURES
+             • BASIC MICROBIOLOGY AND SEROLOGICAL PROCEDURES
+             • BASIC CHEMISTRY PROCEDURES
+             • BASIC BLOOD BANKING PROCEDURES
+             • SPECIMEN PROCESSING
+             • QUALITY CONTROL PROCEDURES
+
+L-17. Clinical Laboratory Training
+
+Table L-10 contains critical tasks to be used by the Commander in the development of a unit medical
+laboratory training program for assigned medical laboratory specialists (91K). Normally the training will be
+conducted under the auspices of a certified Clinical Laboratory Officer (71E67 MS) assigned to an Echelon
+III MTF. The Commander (medical company/troop) will make coordination, through channels, with the
+supporting hospital and arrange for a continuing education program to support his clinical laboratory
+personnel. Such training/recertification will be conducted annually.
+
+L-16
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+                                        Table L-10. 91K10/20 Critical Task List
+
+         THE MEDICAL LABORATORY TECHNICIAN (91K) MUST BE COMPETENT IN THE FOLLOWING TASKS ALONG
+         WITH HAVING KNOWLEDGE AND TRAINING IN SETTING UP, MAINTAINING AND DEPLOYING DEPMEDS EQUIP-
+         MENT AND DEPMEDS LABORATORY EQUIPMENT. THE 91K MUST REMAIN FOCUSED ON OPERATIONAL
+         READINESS AND ENSURE THE CORE COMPETENCY SKILLS ARE MAINTAINED. COMMUNICATION WITH THE
+         NEXT LEVEL OF CARE IS IMPERATIVE TO SUSTAIN EQUIPMENT READINESS AND TRAINING
+
+         1. PERFORM ROUTINE URINALYSIS
+         FOCUSED ASSESSMENT, COLOR AND APPEARANCE, PH AND SPECIFIC GRAVITY, IDENTIFICATION OF URINARY
+         SEDIMENTS AND THEIR SIGNIFICANCE, ANALYZE AND INTERPRET COLOR REACTIONS ON DIPSTICK, CON-
+         FIRMATION TESTING, MICROSCOPIC EXAMINATION, QUALITY CONTROL
+
+         2. PERFORM BASIC HEMATOLOGY
+         FOCUSED ASSESSMENT, OBTAINING BLOOD SPECIMENS (CAPILLARY AND VENOUS), MICROHEMATOCRITE
+         DETERMINATION, MANUAL WBC, PLATELET ESTIMATE AND RBC COUNT BY UNNA-PAPPENHEIM STAIN,
+         WRIGHT’S STAIN, GIEMSA STAIN FOR THE PRESENCE OF MALARIAL PARASITE, QUALITY CONTROL
+
+         3. PERFORM BASIC MICROBIOLOGY
+         FOCUSED ASSESSMENT, GRAM STAIN, CONCENTRATION TECHNIQUES FOR OVA, CYSTS AND PARASITES,
+         MACROSCOPIC EXAMINATION OF FECES AND TEST FOR OCCULT BLOOD, SKIN SCRAPING USING KOH OR
+         NAOH, QUALITATIVE PREGNANCY TEST, RAPID PLASMA REAGIN (RPR), THROAT CULTURE, INFECTIOUS
+         MONONUCLEOSIS, QUALITY CONTROL
+
+         4. PERFORM BASIC CHEMISTRY
+         FOCUSED ASSESSMENT, USE CHEMICAL ANALYZER TO DETERMINE CHEMICAL ANALYTES (ELECTROLYTES,
+         AMYLASE, BILIRUBIN, BUN, CREATININE, AST, ALT, GLUCOSE), BLOOD GAS, QUALITY CONTROL
+
+         5. PERFORM BASIC BLOOD BANKING
+         FOCUSED ASSESSMENT, RECEIVING, STORING AND ISSUING BLOOD PRODUCTS. PERFORM AN IMMEDIATE
+         SPIN CROSS MATCH. PERFORM VENOUS PUNCTURE FOR BLOOD COLLECTION
+
+                Section IV. MENTAL HEALTH CLINICAL SUPPORT MODULES
+
+L-18. Psychiatrist (60W00 MC)
+
+The psychiatrist assigned to the divisional MH section of an Echelon II MTF is a licensed medical doctor
+and is credentialed in psychiatry. This medical corps officer examines, diagnoses, and treats or provides
+courses of treatment for personnel suffering from emotional or mental illness, mental retardation, or
+situational maladjustment. This chief of section serves as the division psychiatrist (staff advisor). He also
+provides technical supervision of assigned MH personnel and insures the efficacy of their technical capability.
+
+L-19. Social Worker (73A67 MS)
+
+The social worker assigned to the MH section of an Echelon II MTF holds a master’s degree in social work
+and is credentialed by the Council on Social Work Education. This officer performs social work functions
+
+                                                                                                                              L-17
+
+
+---
+
+FM 4-02.6
+
+which include: providing critical event debriefing, psychological autopsies, suicide prevention, clinical
+counseling, disaster relief, civil affairs, crisis intervention, substance abuse intervention, teaching and
+training, supervision, research, administration, consultation, and policy development in various military
+settings. These functions are provided to enhance unit readiness and the emotional well-being of service
+members, their eligible family members, and DA civilians as appropriate. He also teaches and provides
+technical guidance for behavioral science personnel.
+
+L-20. Clinical Psychologist (73B67 MS)
+
+The Clinical psychologist assigned to the MH section of an Echelon II MTF holds a PhD in clinical
+psychology, and counseling psychology. He is a licensed psychologist, credentialed by the American
+Psychological Association. This health professional applies psychological principles, theories, methods,
+and techniques through direct patient services, consultation, education, and research to human effectiveness,
+adjustment, and emotional disturbance in medical and other settings; investigation, evaluation and
+amelioration of mental and behavioral disorders; prevention of mental illness; and promotion of effective
+MH. He also teaches and provides technical guidance for behavioral science personnel.
+
+L-21. Mental Health Specialist (91X)
+
+The mental health specialist under the supervision of a psychiatrist, social worker, psychiatric nurse, and/or
+psychologist assists with the management and treatment in in/outpatient MH activities; during peacetime or
+mobilization; collects and records psychosocial and physical data; counsels and treats clients/patients with
+personal, behavioral, or MH problems. Duties for the 91X at each military occupational specialty code
+(MOSC) are as follows:
+
+         a. MOSC 91X. Under close supervision, collects and records psychosocial and physical data,
+assists with care and treatment of psychiatric, drug and alcohol patients, and counsels client/patient with
+personal, behavioral, or psychological problems.
+
+          b. MOSC 91X20. Collects and records psychosocial and physical data and assists with care and
+treatment of psychiatric, drug and alcohol patients, and counsels clients/patients with personal, behavioral,
+or psychological problems.
+
+         c. MOSC 91X30. Collects and records psychosocial and physical data and assists with care and
+treatment of psychiatric, drug and alcohol patients, and counsels clients/patients with personal, behavioral,
+or psychological problems and assists with management of mental health activity.
+
+         d. MOSC 91X40. Assists professional staff with management and supervision of patient treatment
+in in/outpatient mental health activities. Assist professional staff in the supervision of patient treat-
+ment programs, personnel matters, supply economy procedures, fiscal, technical, and administrative
+matters.
+
+L-18
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+L-22. Core Competencies of the 91X
+
+The behavioral science specialist of medical companies must be trained/credentialed in several areas of core
+competencies. These core competencies are examples of specific skills that establish the scope and depth of
+clinical practices that are outlined in Table L-11.
+
+                              Table L-11. Core Competency for Behavioral Specialists
+
+         CORE COMPETENCY IN BEHAVIORAL SCIENCE TECHNIQUES AND PROCEDURES FOR THE 91X IS TO TRIAGE,
+         EVALUATE, COUNSEL AND/OR TREAT STRESSED PATIENTS. THE PRIMARY TECHNIQUES AND PROCEDURES
+         USED INCLUDE THE FOLLOWING:
+
+             • MAXIMIZE PREVENTION TO CONTROL (AND WHEN FEASIBLE, REDUCE) STRESSORS THAT ARE KNOWN
+                  TO INCREASE BF AND MISCONDUCT STRESS BEHAVIOR.
+
+             • TREAT BF IN THE SITUATIONAL AREAS OF PROXIMITY, IMMEDIACY, EXPECTANCY, AND SIMPLICITY.
+             EXAMPLES:
+
+                  A. PROXIMITY REFERS TO THE NEED IN TREATING SOLDIERS AS CLOSE TO THE UNIT AND BATTLE AS
+                       POSSIBLE. IT IS A REMINDER THAT OVER EVACUATION SHOULD BE PREVENTED.
+
+                  B. IMMEDIACY INDICATES THAT BF REQUIRES TREATMENT IMMEDIATELY.
+                  C. EXPECTANCY RELATES TO THE POSITIVE EXPECTATION PROVIDED TO BF CASUALTIES FOR THEIR
+
+                       FULL RECOVERY AND EARLY RETURN TO DUTY.
+                  D. SIMPLICITY INDICATES THE NEED FOR USING SIMPLE, BRIEF, STRAIGHTFORWARD METHODS TO
+
+                       RESTORE PHYSICAL WELL-BEING AND SELF CONFIDENCE BY USING NONMEDICAL TERMINOLOGY
+                       AND TECHNIQUES.
+
+L-23. Mental Health Specialty Training
+
+Tables L-12 and L-13 contain the critical tasks to be used by the unit commander and the senior mental
+health officer in the development of a unit medical training program for assigned 91X personnel.
+
+                                        Table L-12. 91X10/20 Critical Task List
+
+         1. PERFORM CASUALTY EVALUATION
+             TRIAGE CASUALTY TO DETERMINE STATUS
+
+         2. PERFORM RESTRAINTS
+             RESTRAIN PATIENTS WHO POSE A THREAT TO OTHERS
+
+         3. PERFORM CASUALTY ASSESSMENT/SEPARATION
+             A. ASSESS CASUALTIES AND DATA OBTAINED TO DETERMINE FUNCTIONAL CAPACITY, APPROPRIATE
+                   TREATMENT, AND OR RTD
+
+                                                                                                                              L-19
+
+
+---
+
+FM 4-02.6
+
+                                 Table L-12. 91X10/20 Critical Task List (Continued)
+
+             B. SEPARATE STRESS AND MISCONDUCT COMBAT STRESS BEHAVIOR (MCSB) CASES FROM PSYCHI-
+                   ATRIC, WOUNDED, AND SICK PATIENTS
+
+         4. PERFORM ADMINISTRATIVE ACTIONS
+             A. PREPARE BF AND NP CASES FOR EVACUATION OR TRANSFER
+             B. COORDINATE RTD OF MCSB AND RECOVERED BFC TO ORIGINAL OR ALTERNATE UNIT
+
+                                        Table L-13. 91X30/40 Critical Task List
+
+         PERFORM SUPERVISION AND IMPLEMENTATION OF THE ORGANIZATION’S PREVENTIVE MENTAL HEALTH
+         PROGRAM
+
+             A. TRAIN PHYSICIANS AND PHYSICIAN ASSISTANTS TO PERFORM NP TRIAGE.
+             B. COORDINATE THROUGH MEDICAL COMPANY’S HEADQUARTERS FOR ADDITIONAL CSC SUPPORT FROM
+
+                   THE SUPPORTING MEDICAL BRIGADE.
+             C. MAINTAIN COORDINATION WITH SUPPORTED UNITS AND HIGHER HQ TO PREDICT POSSIBLE BF AND
+
+                   STRESS CASUALTIES.
+             D. PREPARE CSC ESTIMATE OF TACTICAL SITUATION.
+             E. COORDINATE TRAINING WITH SUPPORTED FORCES HQ FOR COMBAT STRESS MANAGEMENT AND
+
+                   PREVENTION.
+             F. COORDINATE CRITICAL INCIDENT STRESS DEBRIEFING OF TEAMS, CREWS, SQUADS, AND PLATOONS
+
+                   AT RECONSTITUTION SITES.
+             G. FORWARD STATUS REPORT TO COMPANY HQ IAW TSOP.
+
+          Section V. PREVENTIVE MEDICINE SUPPORT MODULES
+
+L-24. Preventive Medicine Officer (60C00 MC)
+The PVNTMED officer leading the section of an Echelon II MTF is a practicing medical doctor, credentialed
+in public health science. He determines status of, and conditions influencing, health of military and
+appropriate civilian personnel; formulates and recommends measures for health improvements; and plans,
+coordinates, and directs a program designed to maintain health, improve physical fitness, and prevent
+disease and injury. This practicing physician also provides technical supervision of assigned professional
+and paraprofessional personnel, and insures the efficacy of their technical capability.
+
+L-25. Environmental Science Officer (72D67 MS)
+The environmental science officer advises or performs professional and scientific work in environ-
+mental health and industrial hygiene. Functions include: identification, evaluation, and formulation of
+
+L-20
+
+
+---
+
+                                                                                                                     FM 4-02.6
+
+recommendations for the control of potential health hazards; health hazard assessment of weapons,
+equipment, clothing, training devices and materiel systems; development of environmental health and
+industrial hygiene criteria and standards; promotion of policies, programs, practices, operations directed
+toward the prevention of disease, illness, and injury. The environmental science officer also ensures the
+establishment of protocols for the training of 91S personnel.
+
+L-26. Preventive Medicine Specialist (91S)
+
+The PVNTMED specialist conducts or assists with PVNTMED inspections, surveys, control operations,
+and PVNTMED laboratory procedures, supervises PVNTMED facilities, or serves on PVNTMED staff.
+The duties for 91S at each skill are as follows:
+
+         a. MOSC 91S/20. Conducts PVNTMED inspection, surveys and controls operations and assists
+with PVNTMED laboratory procedures. Additionally, the 91S20 supervises subordinate personnel in the
+performance of their duties.
+
+         b. MOSC 91S30. Conducts PVNTMED inspection, surveys and controls operations and assists
+with PVNTMED laboratory procedures. Organizes water, food sanitation, hospital environment,
+entomological, epidemiology, and environmental stress surveillance programs. Analyzes and evaluates
+collected data. Supervises technical and administrative functions of PVNTMED activities.
+
+         c. MOSC 91S40. Supervises medium size PVNTMED services or medical team/detachments.
+Assists with development of unit defense plans and operational orders. Reviews and make appropriate
+recommendations on doctrine and training literature. Maintains intelligence information and records.
+Establishes quality control procedures for inspection programs and laboratory analysis. Develops community
+health education programs. Evaluates existing PVNTMED programs and modifies as necessary to meet the
+needs of the population served.
+
+          Section VI. OPTOMETRY CLINICAL SUPPORT MODULES
+
+L-27. Optometry Officer (67F00 MS)
+
+The optometry officers (67F MS) in the optometry section of the DSMC, MSMC and the medical com-
+pany of the HSB are a primary health care provider in Echelons II and above MTFs. These certified
+practicing optometrists, independently conduct examination to detect, prevent, diagnose, and manage ocular
+related disorders; that is, injuries, diseases, and visual dysfunctions. Uses diagnostic and therapeutic
+pharmaceutical agents (TPA) medical/surgical instruments. Prescribes spectacle and medical related con-
+tact lenses, TPA and other therapy. Their duties include consultation in such areas as occupational vision
+and the diagnosis and treatment of battlefield laser-induced injuries. The senior optometry officer/chief of
+section provides technical supervision of assigned clinical personnel and insures the efficacy of their
+technical capability.
+
+                                                                                                                              L-21
+
+
+---
+
+FM 4-02.6
+
+L-28. Eye Specialist (91WP3)
+
+         a. The eye specialist (91WP3) and the eye sergeant (91W20) perform routine diagnostic tests and
+assist in the care of ophthalmology or optometry patients. As optometry specialist these duties are conducted
+under the auspices of an optometrist or ophthalmologist.
+
+         b. As 91Ws these specialists also perform emergency and evacuation care under the medical
+direction of a physician or other credentialed providers. Serves as a clinical technician in inpatient and
+outpatient areas of MTFs. Performs basic force health protection care for individual soldiers and small
+units. Is trained for combat and other operational environments. Conducts casualty triage and provides
+medical care for patients in all operational environments to include enroute care during ground and air
+ambulance evacuations. The 91W is certified to the national standards of EMT-B. Refer to Section II
+above.
+
+L-29. Core Competencies of the 91WP3
+
+The eye specialist (91WP3) of medical companies must be trained in several areas of core competencies.
+These core competencies are examples of specific skills that establishes the scope and depth of tactics,
+techniques, and procedures that are outlined in Tables L-14 below.
+
+                                   Table L-14. Core Competency for Eye Specialists
+
+         CORE COMPETENCY IN EYE SPECIALTY TECHNIQUES AND PROCEDURES FOR THE 91WP3 IS INCLUSIVE OF
+         THE FOLLOWING:
+
+             • PATIENT SCREENING
+             • HISTORY TAKING
+             • TONOMETRY
+             • LENSOMETRY
+             • PHOTOGRAPHY
+
+L-30. Training for the 91WP3
+
+Table L-15 below contains the critical tasks to be used by the optometry chief of section in the development
+of training program for assigned 91WP3 personnel. Also the unit commander will ensure that these
+personnel comply with the 91W continued education and training program as outlined in Paragraph L-8 and
+Table L-4 above.
+
+L-22
+
+
+---
+
+                                                                         FM 4-02.6
+
+Table L-15. 91WP310/20 Critical Task List
+
+FIELD-SPECIFIC TASKS
+    • ASSEMBLE A FIELD COMBAT OPTOMETRY SET
+    • DISASSEMBLE A FIELD OPTOMETRY SET
+
+ADMINISTRATIVE TASKS                                            REPORTS
+    • MAINTAIN AN EYE CLINIC HAND RECEIPT ACCOUNT
+    • MAINTAIN THE EYE CLINIC FORMS SUPPLY
+    • MAINTAIN THE EYE CLINIC PUBLICATIONS LIBRARY
+    • ORDER EYE CLINIC EQUIPMENT
+    • ORDER EYE CLINIC SUPPLIES
+    • SCHEDULE EYE CLINIC APPOINTMENTS
+    • MONITOR EYE CLINIC SCHEDULES
+    • PREPARE EYE CLINIC COMPOSITE HEALTH CARE SYSTEM REPORTS
+    • PREPARE EYE CLINIC SPECTACLE REQUEST TRANSMISSION SYSTEM
+
+PRESCRIPTION EYEWEAR TASKS
+    • ORDER PRESCRIPTION EYEWEAR
+    • MAINTAIN PRESCRIPTION EYEWEAR ORDER FILES
+    • DISPENSE PRESCRIPTION EYEWEAR
+    • RECEIVE PRESCRIPTION EYEWEAR
+    • INSPECT COMPLETED PRESCRIPTION EYEWEAR
+
+    • PERFORM REPAIRS AND ADJUSTMENTS ON PRESCRIPTION EYEWEAR
+
+CLINICAL TASKS
+    • CONDUCT AN EYE CLINIC PRE-EXAMINATION PATIENT SCREENING
+    • CONDUCT AN OPTOMETRIC PHYSICAL SCREENING
+    • CONDUCT AN OPTOMETRIC SCREENING FOR A DOD MEDICAL EVALUATION REVIEW BOARD CANDIDATE
+    • CONDUCT AN OPTOMETRIC PHYSICAL SCREENING FOR AVIATION CANDIDATE
+    • ADMINISTER DOCTOR-ORDERED TREATMENT FOR OCULAR INJURIES
+    • ADMINISTER DOCTOR-ORDERED TREATMENT FOR OCULAR BURNS
+    • ADMINISTER DOCTOR-ORDERED TREATMENT FOR OCULAR DISEASES
+    • INITIATE EMERGENCY TREATMENT FOR A CHEMICAL BURN OF THE EYE
+    • REMOVE NONEMBEDDED FOREIGN BODIES FROM THE CONJUNCTIVA OR CORNEA
+    • CONDUCT VISUAL FIELD TEST
+    • PERFORM OCULAR A/B SCAN
+    • PERFORM OCULAR PHOTOGRAPHY
+    • CONDUCT A FLUORESCEIN ANGIOGRAPHY
+    • ADMINISTER A TEAR FLOW TEST
+    • TRIAGE EYE EMERGENCIES
+    • PERFORM OPERATOR MAINTENANCE ON OPHTHALMIC EQUIPMENT
+    • CALIBRATE THE EYE CHART
+    • DISPENSE CONTACT LENS
+
+SURGICAL TASKS                                                SERVICE
+    • CONDUCT AN OCULAR SURGERY PREOPERATIVE SCREENING
+    • PREPARE FOR A MAJOR OCULAR SURGICAL PROCEDURE
+    • PREPARE FOR A MINOR OPHTHALMIC SURGICAL PROCEDURE
+    • PREPARE FOR OCULAR LASER TREATMENT
+    • ASSIST THE DOCTOR DURING OCULAR SURGERY
+    • CONDUCT AN OCULAR SURGERY POSTOPERATIVE CLEANUP
+    • CONDUCT AN OCULAR SURGERY POSTOPERATIVE SCREENING
+    • RECEIVE OPHTHALMIC SURGICAL SETS FROM CENTRAL MATERIAL
+
+                                                                                           L-23
+
+
+---
+
+FM 4-02.6
+L-31. Optical Laboratory Specialist (91H10)
+The optical laboratory specialist assembles spectacles utilizing presurfaced single-vision lens; surfaces
+multivision lens and assembles multivision spectacles; repairs and fabricates spectacles; and maintains tools
+and equipment.
+
+L-24
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+                                                     GLOSSARY
+
+          ABBREVIATIONS, ACRONYMS, AND DEFINITIONS
+
+A2C2 Army airspace command and control
+AASLT air assault
+ABC airway, breathing, circulation
+ABCA American, British, Canadian, and Australian
+ABCS Army Battle Command Systems
+abn airborne
+ACR armored cavalry regiment
+ACS armored cavalry squadron
+ACUS Area Common-User System
+admin administrative
+advanced trauma management (ATM) Resuscitative and stabilizing medical or surgical treatment
+
+         provided to patients to save life or limb and to prepare them for further evacuation without
+         jeopardizing their well-being or prolonging the state of their condition.
+AELT air evacuation liaison team
+AFMIC Armed Forces Medical Intelligence Center
+AIR STD air standardization agreement
+AM amplitude-modulated
+amb ambulance
+ambulance control point The ambulance control point consists of a soldier (from the ambulance company
+         or platoon) stationed at a crossroad or road junction where ambulances may take one of two or more
+         directions to reach loading points. The soldier, knowing from which location each loaded ambulance
+         has come, directs empty ambulances returning to the rear. The need for control points is dictated
+         by the situation. Generally, they are more necessary in forward areas.
+ambulance exchange point (AXP) A location where a patient is transferred from one ambulance to
+         another en route to an MTF. This may be an established point in an ambulance shuttle or it may be
+         designated independently.
+
+                                                                                                                    Glossary-1
+
+
+---
+
+C1, FM 4-02.6
+
+ambulance loading point This is a point in the shuttle system where one or more ambulances are
+         stationed ready to receive patients for evacuation.
+
+ambulance relay point This is a point in the shuttle system where one or more ambulances are stationed
+         ready to advance to a loading point or to the next relay point to replace an ambulance that has
+         moved from it. As a control measure, relay points are generally numbered from front to rear.
+
+ambulance shuttle system The shuttle system is an effective and flexible method of employing ambulances
+         during combat. It consists of one or more ambulance loading points, relay points, and when nec-
+         essary, ambulance control points, all echeloned forward from the principal group of ambulances,
+         the company location, or basic relay points as tactically required.
+
+AMEDD Army Medical Department
+AMEDDC&S Army Medical Department Center and School
+AML area medical laboratory
+AN Army Nurse Corps
+ANCD automated net control device
+AO area of operations
+AOE Army of Excellence
+AOR area of responsibility
+AR Army regulation
+ARPERCEN Army Reserve Personnel Center
+ARPERSCOM Army Reserve Personnel Command
+ARSOF Army Special Operations Forces
+ARTEP Army Training and Evaluation Program
+AS area support
+ASL authorized stockage list
+ASMB area support medical battalion
+ASMC area support medical company
+
+Glossary-2
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+ASMD area support medical detachment
+asst assistant
+ATLS® Advanced Trauma Life Support
+ATM See advanced trauma management.
+attn attention
+augmentation A command relationship. Units that are designated to augment another unit are, therefore,
+
+         not available to the losing command for the period of augmentation.
+AXP See ambulance exchange point.
+
+BAS battalion aid station
+BCIS battlefield combat identification system
+BCIS–NS battlefield combat identification system–node switch
+BCOC base cluster operations center
+BCT brigade combat team
+bde brigade
+behav behavioral
+BF battle fatigue
+BFC battle fatigue casualty
+BLS basic life support
+BMSO brigade medical supply office
+brigade support area (BSA) A designated area from which combat service support elements from
+
+         DISCOM and corps support command provide logistics support to the brigade. The BSA normally
+         is located 20 to 25 kilometers behind the forward edge of the battle area.
+BSA See brigade support area.
+BSB brigade support battalion
+
+                                                                                                                    Glossary-3
+
+
+---
+
+C1, FM 4-02.6
+
+BSMC brigade support medical company
+BSS brigade surgeon’s section
+BW biological warfare
+
+C2 command and control
+C3 command, control, and communications
+C4I command, control, communications, computers, and intelligence
+casualty Any person who is lost to his organization by reason of having been declared dead, wounded, injured,
+
+         diseased, interned, captured, retained, missing, missing in action, beleaguered, besieged, or detained.
+casualty collection point A specific location where casualties are assembled to be transported to a medical
+
+         treatment facility. It is usually predesignated and may be either staffed or not. The echelon
+         designating the point provides the staffing.
+casualty evacuation A term used by nonmedical units to refer to movement of casualties aboard
+         nonmedical vehicles or aircraft. Casualties transported in this manner do not receive en route
+         medical care.
+CBT combat
+CDR commander
+CE communications-electronics
+CEMR civilian employee medical record
+CHL combat health logistics
+CHPPM Center for Health Promotion and Preventive Medicine
+CHS See combat health support.
+CIP combat identification panel
+CL configured loads
+clr clearing
+cmd command
+
+Glossary-4
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+CME continuing medical education
+
+CMO civil-military operations
+
+CNR combat net radio
+
+co company
+
+COA course(s) of action
+
+combat health support (CSH) All support services performed, provided, or arranged by the Army
+         Medical Department to promote, improve, conserve, or restore the mental and/or physical well-
+         being of personnel in the Army and, as directed, in other services, agencies, and organizations.
+         These services include, but are not limited to, the management of health service resources such as
+         manpower, monies, and facilities; preventive and curative health measures; the health service
+         doctrine; evacuation of the sick (physically and mentally), injured and wounded, selection of the
+         medically unfit; medical supply, equipment, and maintenance thereof; and medical dental, veterinary
+         laboratory, optometry, and medical food services.
+
+combat service support (CSS) The assistance provided to sustain combat forces, primarily in the fields of
+         administration and logistics. It includes administrative services, chaplain services, civil affairs,
+         food service, finance, legal services, maintenance, health service support, supply, transportation,
+         and other logistical services.
+
+combat support (CS) Consists of fire support and operational assistance provided to combat elements. It
+         includes field artillery, air defense artillery, engineer, military police, signal, military intelligence,
+         and chemical.
+
+combat trains The portion of the unit trains that provides combat service support required for immediate
+         response to the needs of forward tactical elements. At company level, health service support,
+         recovery, and maintenance elements normally constitute the combat trains. At battalion, the com-
+         bat trains normally consist of ammunition and petroleum, oils, and lubricates, vehicles, maintenance/
+         recovery vehicles and crews, and the battalion aid station. (See also field trains; unit trains.)
+
+combat zone (CZ) (1) That area required by combat forces for the conduct of operations. (2) The
+         territory forward of the Army rear boundary.
+
+communications zone (COMMZ) Rear area of the theater of operations (behind but contiguous to the
+         combat zone) which contains the lines of communication, establishments for supply and evacuation,
+         and other agencies required for the immediate support and maintenance of the field forces.
+
+COMMZ See communications zone.
+
+company aid post A company aid post is a designated location on the battlefield where a combat medic
+         provides emergency medical treatment to casualties awaiting evacuation. This point is similar to the
+
+                                                                                                                    Glossary-5
+
+
+---
+
+C1, FM 4-02.6
+
+         collecting point (patient) except that it is manned by one of the company combat medics or medical
+         platoon’s aide/evacuation team.
+COMSEC communications security
+CONUS continental United States
+COSC combat operational stress control
+COTS commercial off-the-shelf
+CP command post
+CRP common relevant picture
+CPR cardiopulmonary resuscitation
+CRT control receiver-transmitter
+CS See combat support.
+CSAR combat search and rescue
+CSC combat stress control
+CSH combat support hospital
+CSOP clinical standing operating procedure
+CSS See combat service support.
+CSSCS Combat Service Support Control System
+ctrl control
+CW chemical warfare
+CZ See combat zone.
+
+DA Department of the Army
+DABS division aviation brigade support
+DAGR Defense Advance Global Positioning System Receiver
+DC Dental Corps
+
+Glossary-6
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+DD Department of Defense
+DDL Daily Disposition Log
+DE directed energy
+decon decontamination
+DIG digitized
+DISCOM division support command
+div division
+division support area (DSA) An area normally located in the division rear area positioned near air-
+
+         landing facilities and along the main supply route. The division support area contains the division
+         support command post, headquarters elements of the division support command battalions, and
+         those division support command elements charged with providing backup support to the combat
+         service support elements in the brigade support area and direct support units located is the division
+         rear. Selected corps support command elements in the division may be located in the division
+         support area to provide direct support backup and general support as required.
+DLA Defense Logistics Agency
+DMLSS-AM Defense Medical Logistics Standard Support-Amplitude Modulated
+DMOC division medical operations center
+DMSO division medical supply office(r)
+DNBI disease and nonbattle injury
+DNVT digital nonsecure voice telephone
+DOA dead on arrival
+DOD Department of Defense
+DODD Department of Defense Directive
+DODI Department of Defense Instruction
+DS direct support
+DSA See division support area.
+
+                                                                                                                    Glossary-7
+
+
+---
+
+C1, FM 4-02.6
+
+DSMC division support medical company
+
+DSS division surgeon’s section
+
+DTF dental treatment facility
+
+DTG date time group
+
+DVE driver’s vision enhancer
+
+EAB echelons above brigade
+
+EAC echelons above corps
+
+EBL estimated blood loss
+
+Echelon I (Level I) Unit level—The first medical care a soldier receives is provided at this level. This
+         care included immediate lifesaving measures, advanced trauma management, disease prevention,
+         combat stress prevention, casualty collection, and evacuation from supported unit to supporting
+         medical treatment facility. Echelon I elements are located throughout the combat and communi-
+         cations zones. These elements include the combat lifesaver, combat medic, and battalion aid
+         station. Some or all of these elements are found in combat, combat support, and combat service
+         support units. When Echelon I capability is not organic to a unit then this support is provided that
+         unit by the supporting Echelon II medical unit.
+
+Echelon II (Level II) Duplicates Echelon I and expands services available by adding dental, laboratory,
+         x-ray, and patient holding capabilities. Emergency care, advanced trauma management, including
+         urgency initial surgery with forward surgical team augmentation. Echelon II units are located in
+         the combat zone—brigade/regimental support area, corps support area, and communication zone.
+         Echelon II medical support may be provided by clearing stations of divisional and nondivisional
+         medical companies/troops.
+
+Echelon III (Level III) This echelon of support is provided in the corps . Echelon III expands the support
+         provided at Echelon II (division-level). Casualties who are unable to tolerate and survive movement
+         over great distances will receive definite care in hospitals close to the division rear boundary as the
+         tactical situation will allow. Echelon III hospitalization is provided by the combat support hospital.
+         Operational conditions may require hospitals to locate in offshore support facilities, third country
+         support bases, or in the communication zone.
+
+Echelon IV (Level IV) This echelon of support is provided in the communication zone by the combat
+         support hospital. It provides further treatment to stabilize those patients requiring evacuation to the
+         continental United States. This echelon also provides resuscitative and definitive care of soldiers
+         located in the communication zone.
+
+Glossary-8
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+echelon of care A North Atlantic Treaty Organization term which can be used interchangeably with the
+         term level of care.
+
+EIC electronic information carrier
+emergency medical treatment (EMT) The immediate application of medical procedures to the wounded,
+
+         injured, or sick by specially trained medical personnel.
+EMT See emergency medical treatment.
+EMT-B emergency medical treatment (technician)—basic
+EN electronic notebook
+env environmental
+EOH equipment on hand
+EPLRS Enchanced Position Location Reporting System
+EPW enemy prisoner(s) of war
+equip equipment
+evac evacuation
+evacuation policy A command decision indicating the length in days of the maximum period of noneffectiveness
+
+         that patients may be held within the command for treatment. Patients, who, in the opinion of the
+         responsible medical officers, cannot be returned to duty status within the period prescribed are
+         evacuated by the first available means, provided the travel involved will not aggravate their disabilities.
+
+F Fahrenheit
+FAX facsimile
+FBCB2 Force XXI Battle Command Brigade and Below
+FEBA forward edge of the battle area
+field trains The combat service support portion of a unit at company and battalion level that is not
+
+         required to respond immediately. At company level, supply and mess teams normally will be
+         located in the field trains A battalion’s field trans may include mess teams, a portion of the supply
+         section of the support platoon, a maintenance element, as well as additional ammunition and
+         petroleum, oils and lubricants. Positions of the field trains is dependent on such factors as the type
+
+                                                                                                                    Glossary-9
+
+
+---
+
+C1, FM 4-02.6
+
+         of friendly operation underway, available suitable terrain, and intensity of enemy activity in the
+         area. (See also combat trains; unit trains.)
+first aid Urgent and immediate lifesaving or other measures which can be performed for casualties (or
+         performed by the victim himself) by nonmedical personnel when medical personnel are not
+         immediately available.
+1SG first sergeant
+fld field
+FLOT forward line of own troops
+FM frequency-modulated; field manual
+FMC US Field Medical Card (DD Form 1380); forward maintenance company
+FMTV Family of Medium Tactical Vehicles
+forward arming and refueling point A temporary facility that is organized, equipped, and deployed by
+         an aviation unit commander, and located closer to the area of operations than the aviation units
+         combat service support area. It provides fuel and ammunition necessary for the employment of
+         helicopter units in combat.
+FSB forward support battalion
+FSE forward support element
+FSMC forward support medical company
+FSMT forward support medical evacuation team
+FST forward surgical team
+FX fracture(s)
+
+G1 Assistant Chief of Staff, G1 (Personnel)
+GC Geneva Convention Relative to the Protection of Civilian Internees in Time of War
+GCSS-A Global Combat Support System-Army
+general support (GS) A general support unit provides support to the total force, not to any particular
+
+         subdivision. Therefore, subdivision may not directly request support from the general support unit.
+
+Glossary-10
+
+
+---
+
+                                                  C1, FM 4-02.6
+
+         Only the supported force headquarters may determine priorities and assign missions or tasks to the
+         general support unit. A general support unit has no command relationship with the supported unit
+         or force.
+
+GOTS government off-the-shelf
+
+GPS global positioning system(s)
+
+GPW Geneva Convention Relative to the Treatment of Prisoners of War
+
+GRC ground radio communications
+
+GS See general support.
+
+GTN global traffic network
+
+GWS Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in the Armed
+         Forces
+
+GWS (SEA) Geneva Convention for the Amelioration of the Condition of the Wounded, Sick, and Ship-
+         wrecked Members of the Armed Forces at Sea
+
+HA heart attack
+HDC headquarters and distribution company
+hldg holding
+hlth health
+HMMWV high-mobility multipurpose wheeled vehicle
+HN host nation
+HQ headquarters
+HREC health record
+HSB heavy separate brigade
+HSMO health service materiel officer
+HSSO health service support officer
+
+                                                  Glossary-11
+
+
+---
+
+C1, FM 4-02.6
+
+HX history
+
+IAW in accordance with
+ID identification
+IHFR improved high-frequency radio
+IIF informal information flow
+initial point of treatment Any point within the combat health support system at which a soldier is seen
+
+         and treated by trained medical personnel
+IR infrared
+IV intravenous
+
+JTF joint task force
+
+kbps kilobits per second
+kg kilogram
+kHz kilohertz
+KIA killed in action
+km kilometers
+
+LAB laboratory
+ldr leader
+lines of patient drift Natural routes along which wounded soldiers may be expected to go back for
+
+         medical care from a combat position
+LOC lines of communication
+LOG logistical; logistics
+LOGPAC logistical package
+Glossary-12
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+LZ landing zone
+
+MA mortuary affairs
+maint maintenance
+MASCAL mass casualty
+MASF mobile aeromedical staging facility
+MC Medical Corps
+MC4 Medical Communications for Combat Casualty Care
+MCO movement control office(r)
+MCSB misconduct combat stress behavior
+MCT movement control team
+MDT Medical Detachment Telemedicine
+med medical
+MEDCOM medical command
+MEDDAC medical department activity
+MEDEVAC medical evacuation
+medical equipment set (MES) A chest containing medical instruments and supplies designed for specific
+
+         table of organization and equipment units or specific missions.
+medical treatment facility (MTF) Any facility established for the purpose of providing medical treatment.
+
+         This includes battalion aid stations, clearing stations, dispensaries, clinics, and hospitals.
+MEDLAB medical laboratory
+MEDLOG medical logistics
+MEDLOG–D medical logistics–division
+MEDTCU medical transportable computer unit
+
+                                                                                                                  Glossary-13
+
+
+---
+
+C1, FM 4-02.6
+
+MES See medical equipment set.
+METT-TC mission, enemy, terrain, troops, time available, and civilian consideration
+MH mental health
+MHz megahertz
+MIA missing in action
+MLO medical logistics
+MMMB medical materiel management branch
+MMMC medical materiel management center
+MOPP mission-oriented protective posture
+MOS military occupational specialty
+MOSC military occupational specialty code
+MOUT military operations on urbanized terrain
+MRI Medical Reengineering Initiative
+MRO medical regulating office(r)
+MS Medical Service Corps
+MSB main support battalion
+MSE mobile subscriber equipment
+MSMC main support medical company
+MSR main supply route
+MSRT mobile subscriber radio telephone
+MTF See medical treatment facility.
+MTOE modified table of organization and equipment
+MTS Movement Tracking System
+Glossary-14
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+NATO North Atlantic Treaty Organization
+NBC nuclear, biological, and chemical
+NCO noncommissioned officer
+NCOIC noncommissioned officer in charge
+NCS net control station
+NGO nongovernmental organization
+NVG night vision goggles
+
+OCONUS outside the continental United States
+off officer
+op operation
+OPCON See operational control.
+operational control (OPCON) The authority delegated to a commander to direct forces assigned so that
+
+         the commander may accomplish specific missions or tasks that are usually limited by function, time,
+         or location; to deploy units concerned, and to retain or assign tactical control of those units. It does
+         not of itself include administrative or logistic control. In the North Atlantic Treaty Organization, it
+         does not include authority to assign separate employment of components of units concerned.
+OPLAN operation plan
+OPORD operation order
+OPSEC operations security
+opt optical
+OR operating room
+OTC over the counter
+
+PA physician assistant
+passage of lines Passing one unit through the position of another, as when elements of a covering force
+
+         withdraw through the forward edge of the main battle area, or when an exploiting force moves
+
+                                                                                                                  Glossary-15
+
+
+---
+
+C1, FM 4-02.6
+
+         through elements of the force that conducted the initial attack. A passage may be designated as a
+         forward or rearward passage of lines.
+patient A sick, injured, or wounded soldier who receives medical care or treatment from medically
+         trained personnel
+PDA personal digital assistant
+PDS Personnel Daily Summary
+PE&MR Patient Evacuation and Mortality Report
+PERSCOM personnel command
+PERSITREP Personnel Situation Report
+PhD doctor of philosophy
+plt platoon
+PMCS See preventive maintenance checks and services.
+PMM preventive medicine measures
+pnt See patient.
+POL petroleum, oils, and lubricants
+preventive maintenance checks and services The care, servicing, inspection, detection, and correction
+         of minor faults before these faults cause serious damage, failure, or injury. The procedures and the
+         category of maintenance to perform PMCS are found in the –10 and –20 equipment technical
+         manuals and lubrication orders.
+PSR Patient Summary Report
+PVNTMED preventive medicine
+
+QSTAG Quadripartite Standardization Agreement
+
+reconstitution The total process of keeping the force supplied with various supply classes, services, and
+         replacement personnel and equipment required to maintain the desired level of combat effectiveness
+         and of restoring units that are not combat effective to the desired combat effectiveness through the
+
+Glossary-16
+
+
+---
+
+                                                         C1, FM 4-02.6
+
+         replacement of critical personnel and equipment. Reconstitution encompasses unit regeneration and
+         sustaining support.
+regt regiment
+rep repair
+RMC remote multiplexer combiner; radio multiplexer combiner
+RMSO regimental medical supply office
+RP release point; retained personnel
+RPR rapid plasma reagin
+RSA regimental support area
+RSS regimental surgeon section
+RT receiver; transmitter
+RTD return to duty
+
+S1 Adjutant (US Army)
+S2 Intelligence Officer (US Army)
+S3 Operations and Training Officer (US Army)
+S4 Supply Officer (US Army)
+SACMS-VT Semiannual Combat Medic Skills Validation Test
+SAS squadron aid station
+SATCOM satellite communications
+SBCT Stryker Brigade Combat Team
+sci science
+SCTACST single-channel tactical satellite
+sec section
+
+                                                         Glossary-17
+
+
+---
+
+C1, FM 4-02.6
+
+SEN small extension node
+SF standard form; Special Forces
+SFMC Special Forces medical sergeant
+SFODA Special Forces Operational Detachment A
+SGT Sergeant
+SINCGARS single-channel ground and airborne radio system
+SOF Special Operations Forces
+SOI signal operation instructions
+SOP standing operating procedures
+SP Army Medical Specialist Corps
+SPC specialist
+spot report A concise narrative report of essential information covering events or conditions that may
+
+         have an immediate and significant effect on current planning and operations that is afforded the
+         most expeditious means of transmission consistent with requisite security. (Note: In reconnaissance
+         and surveillance usage, spot report is not to be used.)
+spt support
+sqd squad
+SQDN squadron
+SSA supply support activity
+SSC small scale contingency
+SSG staff sergeant
+sta station
+STANAG See Standardization Agreement.
+Standardization Agreement (STANAG) North Atlantic Treaty Organization Standardization Agreement.
+         The North Atlantic Treaty Organization consists of 15 member nations allied together for military
+
+Glossary-18
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+         interoperability in both equipment and methods of operations. As each standardization agreement is
+         adopted, it becomes a part of each nation’s unilateral procedures and is incorporated into national
+         doctrinal and procedural publications.
+
+STD sexually transmitted diseases
+
+sup supply
+
+support An action that aids, protects, complements, or sustains another force in accordance with an order
+         requiring such action. Units that are supporting another unit remain under the control of the head-
+         quarters providing the support.
+
+surg surgical
+
+T1 Immediate Treatment Group (nuclear casualty)—those patients requiring immediate lifesaving surgery.
+         Procedures should not be time-consuming and concern only those with a high chance of survival,
+         such as respiratory obstruction or accessible hemorrhage.
+
+T2 Delayed Treatment Group (nuclear casualty)—those patients requiring surgery, but whose conditions
+         permit delay without unduly endangering safety. Life-sustaining treatment such as intravenous
+         fluids, antibiotics, splinting, catheterization, and relief of pain may be required in this group.
+         Examples are fractured limbs and uncomplicated burns.
+
+T3 Minimal Treatment Group (nuclear casualty)—those patients with relatively minor injuries, such as
+         minor fractures or lacerations, who can be helped by untrained personnel or who can look after
+         themselves. Buddy care is particularly important in this category.
+
+T4 Expectant Treatment Group (nuclear casualty)—those patients with serious or multiple injuries requiring
+         intensive treatment, or with a poor chance of survival. These patients receive supportive treatment
+         compatible with resources, which includes large doses of analgesics, as applicable. Examples or
+         severe head and spinal injuries, widespread burns, or high doses of radiation; this is a temporary
+         category.
+
+TAMMIS Theater Army Medical Management Information System
+
+task organization A temporary grouping of forces designed to accomplish a particular mission. Task
+         organization involves the allocation or distribution of available forces to a subordinate headquarters
+         by placing these forces either attached, under operational control to, or in direct support of the
+         subordinate headquarters. Staff planners must distinguish between that support and augmentation
+         which is provided to any or all the division(s), and additional support or augmentation which may
+         be required by the heavy or light division when conducting heavy-light operations. (See also
+         augmentation.)
+
+TB MED Technical Bulletin (Medical)
+
+                                                                                                                  Glossary-19
+
+
+---
+
+C1, FM 4-02.6
+
+TBSA total body surface area
+
+TC training circular
+
+TC-AIMS Transportation Coordinators’ Automated Information for Movement System
+
+TCAM TAMMIS Customer Assistance Module
+
+TF task force
+
+TIM toxic industrial material
+
+TM technical manual; team
+
+TMIP Theater Medical Information Program
+
+TO theater of operations
+
+TOC tactical operations center
+
+TOE table(s) of organization and equipment
+
+TPA therapeutic pharmaceutical agent
+
+triage  The medical sorting of patients according to the type and seriousness of injury, likelihood of
+        survival, and the establishment of priority for treatment and/or evacuation. Triage ensures that
+        medical resources are used to provide care for the greatest benefit to the largest number. The
+        categories are: minimal—those who require limited treatment and can be returned to duty;
+        immediate—patients requiring immediate care to save life or limb; delayed—patients who, after
+        emergency medical treatment, incur little additional risk by delay or further treatment; and
+        expectant—patients who are so critically injured that only complicated and prolonged treatment will
+        improve life expectancy. (For triage categories for nuclear casualties, refer to T1, T2, T3, and T4.)
+
+trl trailer
+
+trmt treatment
+
+TSOP tactical standing operating procedure
+
+TX treatment
+
+UCMJ Uniformed Code of Military Justice
+ULLS Unit Level Logistics System
+Glossary-20
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+unit trains Combat service support personnel and equipment organic to or attached to a force that
+         provides supply, evacuation, and maintenance services. Unit trains, whether or not echeloned, are
+         under unit control and no portion of them is released to the control of a higher headquarters. Trains
+         are normally echeloned into combat and field trains. (See also combat trains; field trains.)
+
+UO urbanized operations
+US United States
+USAF United States Air Force
+USAMMA US Army Medical Materiel Agency
+UTI urinary tract infection
+VA Department of Veterans Affairs
+veh vehicle
+VHF very high frequency
+VRC vehicular radio communications
+VS both adult and pediatric; vital signs
+WIA wounded in action
+WIN Warfighter Information Network
+WMD weapons of mass destruction
+XO executive officer
+
+                                                                                                                  Glossary-21
+
+
+---
+
+                                                                  C1, FM 4-02.6
+
+                                        REFERENCES
+
+SOURCES USED
+These are the sources quoted or paraphrased in this publication.
+
+NATO STANAGs
+
+These agreements are available on request (using DD Form 1425) from the Standardization Documents
+Order Desk, 700 Robins Avenue, Building 4, Section D, Philadelphia, Pennsylvania 19111-5094.
+
+2087.  Medical Employment of Air Transport in the Forward Area. Edition 5. 9 September 1997.
+2132.     (Latest Amendment, 10 September 1999.)
+2931.
+3204.  Documentation Relative to Medical Evacuation, Treatment, and Cause of Death of Patients. Edition 2.
+          7 August 1974. (Latest Amendment, 15 September 1986.)
+
+       Orders for the Camouflage of the Red Cross and Red Crescent on Land in Tactical Operations.
+          Edition 2. 19 January 1998. (Latest Amendment, 3 April 1998.)
+
+       Aeromedical Evacuation. Edition 6. 15 July 1999. (Latest Amendment, 4 October 2000.)
+
+ABCA QSTAGs
+
+These agreements are available on request (using DD Form 1425) from the Standardization Documents
+Order Desk, 700 Robins Avenue, Building 4, Section D, Philadelphia, Pennsylvania 19111-5094.
+
+470. Documentation Relative to Medical Evacuation, Treatment, and Cause of Death of Patients.
+             Edition 1. 23 February 1979. (Latest Amendment, 14 August 1989.)
+
+529. Medical Employment of Air Transport in the Forward Area. Edition 1. 24 March 1980. (Latest
+             Amendment, 14 August 1989.)
+
+AIR STDs
+
+These agreements are available on request (using DD Form 1425) from the Standardization Documents
+Order Desk, 700 Robins Avenue, Building 4, Section D, Philadelphia, Pennsylvania 19111-5094.
+
+44/36A. Aeromedical Evacuation by Helicopter. 2 October 1978.
+61/71. Selection, Priorities, and Classes of Conditions for Aeromedical Evacuation. 10 May 1989.
+
+Joint or Multiservice Publications
+
+Joint Publication 4-02.1. Joint Tactics, Techniques, and Procedures for Health Service Logistics Support
+             in Joint Operations. 6 October 1997.
+
+                                                                                                                 References-1
+
+
+---
+
+C1, FM 4-02.6
+
+AR 40-562. Immunizations and Chemoprophylaxis. AFJI 48-110; BUMEDINST 6230.15; CG
+             COMDTINST M6230.4E. 1 November 1995.
+
+FM 3-3. Chemical and Biological Contamination Avoidance. FMFM 11-17. 16 November 1992.
+             (Change 1, 29 September 1994.)
+
+FM 3-4. NBC Protection. FMFM 11-9. 29 May 1992. (Reprinted with basic including Changes 1—2,
+             21 February 1996.)
+
+FM 3-100. Chemical Operations Principles and Fundamentals. MCWP 3-3.7.1. 8 May 1996.
+FM 4-02.33. Control of Communicable Diseases Manual (17th Edition). NAVMED P-5038. 31 Decem-
+
+             ber 1999.
+FM 8-9. NATO Handbook on the Medical Aspects of NBC Defensive Operations AMedP-6(B), Part I–
+
+             Nuclear, Part II–Biological, Part III–Chemical. NAVMED P-5059; AFJMAN 44-151V1V2V3.
+             1 February 1996.
+FM 8-284. Treatment of Biological Warfare Agent Casualties. NAVMED P-5042; AFMAN(I) 44-156;
+             MCRP 4-11.1C. 17 July 2000.
+FM 8-285. Treatment of Chemical Agent Casualties and Conventional Military Chemical Injuries.
+             NAVMED P-5041; AFJMAN 44-149; FMFM 11-11. 22 December 1995.
+FM 11-1. Talk II-SINCGARS Multiservice Communications Procedures for the Single-Channel Ground
+             and Airborne Radio System. MCRP 6-2.2.2; NDC TACMEMO 3-13.1; ACCPAM 33-154;
+             PACAFPAM 33-154; USAFEPAM 33-154. 29 May 1996.
+FM 90-3. Desert Operations. FMFM 7-27. 24 August 1993.
+FM 100-19. Domestic Support Operations. FMFM 7-10. 1 July 1993.
+FM 101-5-1. Operational Terms and Graphics. MCRP 5-2A. 30 September 1997.
+TB Med 81. Cold Injury. NAVMED P-5052-29; AFP 161-11. 30 September 1976.
+TB Med 507. Occupational and Environmental Health Prevention, Treatment and Control of Heat
+             Injury. NAVMED P-5052-5; AFP 160-1. 25 July 1980.
+TM 5-632. Military Entomology Operations Handbook. NAVPAC MO-310; AFM 9-16. 1 December
+             1971. (Reprinted with basic including Changes 1—2, 2 January 1976.)
+TM 8-227-12. Armed Services Blood Program Joint Blood Program Handbook. NAVMED P-6530;
+             AFH 44-152. 21 January 1998.
+DODD 6490.1. Mental Health Evaluations of Members of the Armed Forces. 1 October 1997.
+DODD 6490.2. Joint Medical Surveillance. 30 August 1997.
+DODD 6490.5. Combat Stress Control Programs. 23 February 1999.
+DODI 1400.32. DOD Civilian Work Force Contingency and Emergency Planning Guidelines and
+             Procedures. 24 April 1995.
+DODI 3020.37. Continuation of Essential DOD Contractor Services During Crises. 6 November 1990.
+DODI 6490.3. Implementation and Application of Joint Medical Surveillance for Deployments.
+             7 August 1997.
+
+Army Publications
+
+AR 40-3. Medical, Dental, and Veterinary Care. 30 July 1999.
+AR 40-5. Preventive Medicine. 15 October 1990.
+AR 40-61. Medical Logistics Policies and Procedures. 25 January 1995.
+AR 40-66. Medical Record Administration and Health Care Documentation. 3 May 1999.
+
+References-2
+
+
+---
+
+                                                                                                                C1, FM 4-02.6
+
+AR 40-400. Patient Administration. 12 March 2001.
+AR 40-501. Standards of Medical Fitness. 30 August 1995. (Reprinted with basic including Change 1,
+
+             27 February 1998.)
+AR 71-32. Force Development and Documentation—Consolidated Policies. 3 March 1997.
+AR 220-10. Preparation for Oversea Movement of Units (POM). 15 June 1973.
+AR 335-15. Management Information Control System. 15 December 1982. (Reprinted with basic in-
+
+             cluding Change 1, 28 October 1986.)
+AR 750-1. Army Materiel Maintenance Policy and Retail Maintenance Operations. 1 August 1994.
+
+             (Change 1, 1 July 1996.)
+FM 3-0. Operations. 14 June 2001.
+FM 3-97.6. Mountain Operations. 28 November 2000.
+FM 4-02. Force Health Protection in a Global Environment. 13 February 2003.
+FM 4-02.1. Combat Health Logistics. 28 September 2001.
+FM 4-02.4. Medical Platoon Leaders’ Handbook—Tactics, Techniques, and Procedures. 24 August 2001.
+FM 4-02.10. Theater Hospitalization. 29 December 2000.
+FM 4-02.17. Preventive Medicine Services. 28 August 2000.
+FM 4-02.19. Dental Service Support in a Theater of Operations. 1 March 2001.
+FM 4-02.21. Division and Brigade Surgeons’ Handbook (Digitized)—Tactics, Techniques, and Proce-
+
+             dures. 15 November 2000.
+FM 4-02.24. Area Support Medical Battalion—Tactics Techniques, and Procedures. 28 August 2000.
+FM 7-30. The Infantry Brigade. 3 October 1995. (Change 1, 31 October 2000.)
+FM 8-10-3. Division Medical Operations Center—Tactics, Techniques, and Procedures. 12 November
+
+             1996.
+FM 8-10-6. Medical Evacuation in a Theater of Operations—Tactics, Techniques, and Procedures. 14
+
+             April 2000.
+FM 8-10-7. Health Service Support in a Nuclear, Biological, and Chemical Environment. 22 April
+
+             1993. (Reprinted with basic including Change 1, 26 November 1996.)
+FM 8-10-8. Medical Intelligence in a Theater of Operations. 7 July 1989.
+FM 8-10-9. Combat Health Logistics in a Theater of Operations—Tactics, Techniques and Procedures.
+
+             3 October 1995.
+FM 8-10-14. Employment of the Combat Support Hospital—Tactics, Techniques, and Procedures. 29
+
+             December 1994.
+FM 8-10-15. Employment of the Field and General Hospitals—Tactics, Techniques, and Procedures. 26
+
+             March 1997.
+FM 8-10-16. Army Medical Information Operations. 3 September 1998.
+FM 8-10-18. Veterinary Service—Tactics, Techniques, and Procedures. 22 August 1997.
+FM 8-10-25. Employment of Forward Surgical Teams—Tactics, Techniques, and Procedures. 30 Sep-
+
+             tember 1997.
+FM 8-10-26. Employment of the Medical Company (Air Ambulance). 16 February 1999. (Change 1, 20
+
+             May 2002.)
+FM 8-42. Combat Health Support in Stability Operations and Support Operations. 27 October 1997.
+FM 8-43. Combat Health Support for Army Special Operations Forces. 21 June 2000.
+FM 8-50. Prevention and Medical Management of Laser Injuries. 8 August 1990.
+FM 8-51. Combat Stress Control in a Theater of Operations—Tactics, Techniques, and Procedures. 29
+
+             September 1994.
+
+                                                                                                                 References-3
+
+
+---
+
+C1, FM 4-02.6
+
+FM 8-55. Planning for Health Service Support. 9 September 1994.
+FM 8-250. Preventive Medicine Specialist. 27 January 1986. (Reprinted with basic including Change 1,
+
+             12 September 1986.)
+FM 8-500. Hazardous Materials Injuries: A Manual for Pre-Hospital Care. Edition 4. 17 January
+
+             1997.
+FM 11-32. Combat Net Radio Operations. 15 October 1990.
+FM 11-50. Combat Communications within the Division (heavy and light). 4 April 1991.
+FM 11-55. Mobile Subscriber Equipment Operations. 22 June 1999.
+FM 12-6. Personnel Doctrine. 9 September 1994.
+FM 17-95. Cavalry Operations. 24 December 1996.
+FM 19-4. Military Police Battlefield Circulation Control, Area Security, and Enemy Prisoner of War
+
+             Operations. 7 May 1993.
+FM 21-10. Field Hygiene and Sanitation. 21 June 2000.
+FM 21-10-1. Unit Field Sanitation Team. 11 October 1989.
+FM 22-51. Leader’s Manual for Combat Stress Control. 29 September 1994.
+FM 24-19. Radio Operator’s Handbook. 24 May 1991.
+FM 27-10. The Law of Land Warfare. 18 July 1956. (Reprinted with basic including Change 1, 15 July
+
+             1976.)
+FM 31-70. Basic Cold Weather Manual. 12 April 1968. (Reprinted with basic including Change 1, 17
+
+             December 1968.)
+FM 31-71. Northern Operations. 21 June 1971.
+FM 63-1. Support Battalions and Squadrons, Separate Brigades, and Armored Cavalry Regiments. 30
+
+             September 1993. (Reprinted with basic including Change 1, 20 September 1994.)
+FM 63-2. Division Support Command, Armored, Infantry, and Mechanized Infantry Divisions. 20 May
+
+             1991.
+FM 63-2-1. Division Support Command—Light Infantry, Airborne, and Air Assault Divisions. 16 Nov-
+
+             ember 1992. (Reprinted with basic including Change 1, 20 September 1994.)
+FM 71-100. Division Operations. 28 August 1996.
+FM 71-100-2. Infantry Division Operations—Tactics, Techniques, and Procedures. 31 August 1993.
+FM 71-100-3. Air Assault Division Operations—Tactics, Techniques, and Procedures. 29 October 1996.
+FM 71-123. Tactics and Techniques for Combined Arms Heavy Forces: Armored Brigade, Battalion/
+
+             Task Force, and Company/Team. 30 September 1992.
+FM 90-5. Jungle Operations. 16 August 1982.
+FM 90-10. Military Operations on Urbanized Terrain. 15 August 1979.
+FM 90-26. Airborne Operations. 18 December 1990.
+FM 100-8. The Army in Multinational Operations. 24 November 1997.
+FM 100-10. Combat Service Support. 3 October 1995.
+FM 100-17. Mobilization, Deployment, Redeployment, and Demobilization. 28 October 1992.
+FM 100-17-5. Redeployment. 29 September 1999.
+FM 100-23. Peace Operations. 30 December 1994.
+FM 100-25. Doctrine for Army Special Operations Forces. 1 August 1999.
+FM 101-5. Staff Organization and Operations. 31 May 1997.
+FM 101-5-2. US Army Report and Message Formats. 29 June 1999.
+
+References-4
+
+
+---
+
+                                                                              FM 4-02.6
+
+TB Med 530. Occupational and Environmental Health: Food Service Sanitation. 28 November 1991.
+TB Med 577. Occupational and Environmental Health: Sanitary Control and Surveillance of Field Water
+
+             Supplies. 7 March 1982.
+CMH Pub 20-5. The Medics’ War. April 1986.
+
+DOCUMENTS NEEDED
+These documents must be available to the intended users of this publication.
+
+Department of the Army Forms
+
+DA Form 1155. Witness Statement on Individual. 1 June 1966.                            February
+DA Form 1156. Casualty Feeder Report. 1 June 1966.
+DA Form 1594. Daily Staff Journal or Duty Officer’s Log. 1 November 1962.
+DA Form 1934. Grid Azimuths (T and T) and (T-T) Correction from UTM Grid Coordinates.
+
+             1957.
+DA Form 2765-1. Request for Issue or Turn-in. April 1976.
+DA Form 3444. Terminal Digit File For Treatment Record (Orange). May 1991.
+DA Form 8005. Outpatient Medical Record (OMR) (Orange). November 1991.
+DA Form 8007-R. Individual Medical History (LRA). November 1996.
+
+Department of Defense Forms
+
+DD Form 1380. US Field Medical Card. December 1991.
+DD Form 1934. Geneva Conventions Identity Card for Medical and Religious Personnel Who Serve in
+
+             or Accompany the Armed Forces. July 1974.
+DD Form 2697. Report of Medical Assessment. February 1995.
+DD Form 2766. Adult Preventive and Chronic Care Flowsheet. March 1998.
+DD Form 2766C. Adult Preventive and Chronic Care Flowsheet (Continuation Sheet). March 1998.
+DD Form 2795. Pre-Deployment Health Assessment Questionnaire. May 1999.
+DD Form 2796. Post-Deployment Health Assessment Questionnaire. May 1999.
+
+Standard Forms
+
+SF Form 558.  Medical Record—Emergency Care and Treatment. September 1996.
+SF Form 600.  Health Record—Chronological Record of Medical Care. June 1997.
+SF Form 603.  Health Record—Dental. October 1975.
+
+                                                                              References-5
+
+
+---
+
+FM 4-02.6
+
+READING RECOMMENDED
+
+These readings contain relevant supplemental information.
+
+Joint and Multiservice Publications
+
+AR 40-562. Immunizations and Chemoprophylaxis. AFJI 48-110; BUMEDINST 6230.15; CG
+             COMDTINST M6230-4. 1 November 1995.
+
+AR 190-8. Enemy Prisoners of War, Retained Personnel, Civilian Internees, and Other Detainees.
+             OPNAVINST 3461.6; AFJI 31-304; MCO 3461.1. 1 October 1997.
+
+AR 600-8-14. Identification Cards for Members of the Uniformed Services, their Family Members, and
+             other Eligible Personnel. AF 36-3026 (I); BUPERS I 1750.10A; MCO P5512.1B, CG M5512.1;
+             Manual 29.2, Instructions 1 and 2. 1 March 1998. (Change 2, 29 July 1999.)
+
+FM 3-4. NBC Protection. FMFM 11-9. 29 May 1992. (Reprinted with basic including Changes 1—2,
+             21 February 1996.)
+
+FM 3-5. NBC Decontamination. MCWP 3-37.3. 28 July 2000.
+FM 3-9. Potential Military Chemical/Biological Agents and Compounds. NAVFAC P-467; AFR 355-7.
+
+             12 December 1990.
+FM 3-100. Chemical Operations Principles and Fundamentals. MCWP 3-3.7.1. 8 May 1996.
+FM 4-02.283. Treatment of Nuclear and Radiological Casualties. NTRP 4-02.21; ARMAN 44-161(I);
+
+             MCRP 4-11.1B. 20 December 2001.
+FM 6-22.5. Combat Stress. MCRP 6-11C; NTTP 1-15M. 23 June 2000.
+FM 100-23-1. Multiservice Procedures for Humanitarian Assistance Operations. FMFRP 7-16; NDC
+
+             TACNOTE 3-07.6; ACCP 50-56; PACAFP 50-56; USAFEP 50-56. 31 October 1994.
+
+Army Publications
+
+AR 40-501. Standards of Medical Fitness. 30 August 1995. (Reprinted with basic including Change 1,
+             27 February 1998.)
+
+FM 3-05.20. Special Forces Operations. 26 June 2001.
+FM 3-97.6. Mountain Operations. 28 November 2000.
+FM 4-02.1. Combat Health Logistics. 28 September 2001.
+FM 55-30. Army Motor Transport Units and Operations. 27 June 1997.
+FM 55-65. Strategic Deployment. 3 October 1995.
+FM 71-100-2. Infantry Division Operations—Tactics, Techniques, and Procedures. 31 August 1993.
+FM 71-100-3. Air Assault Division Operations—Tactics, Techniques, and Procedures. 29 October 1996.
+FM 100-14. Risk Management. 23 April 1998.
+FM 100-25. Doctrine for Army Special Operations Forces. 1 August 1999.
+FM 100-30. Nuclear Operations. 29 October 1996.
+
+References-6
+
+
+---
+
+                                                                                        C1, FM 4-02.6
+
+                           INDEX
+
+References are to paragraph numbers unless otherwise indicated.
+
+advanced trauma management, 1-4a(4)(b), 1-8, 1-10b. See also field surgeon.
+ambulance
+
+    air and ground direct support, 1-11b(1), F-14, F-18b
+    platoon, 3-4, 3-14, H-3b
+
+        headquarters, 3-4a
+        leader, 3-4a
+        sergeant, 3-4
+    squads, 1-8b(2), 3-4b
+ammunitions, 3-9c(6), 3-13f
+area
+    damage control, 3-10b
+    support
+        medical battalion, 1-4a and b(3), 1-17
+        medical company, 1-4a, 1-8a, 2-16
+        squad, 1-8b(4)—(5), 3-3c(2), F-14, Figure F-9, H-3a(2)(b)
+
+           elements, 3-3c
+    treatment
+
+        platoon, 3-3, F-10
+        squad, 3-3b, F-12—13
+ATM. See advanced trauma management.
+automation and digitization, I-9—11
+    area common user system, I-5, I-7c, I-9b. See also warfighter information network.
+    MC4 system, I-12
+        application, I-14
+        command and control, I-15
+        hardware, I-12c(2)
+        software, I-12c(1)
+        telecommunications, I-12c(3)
+    medical communications for combat casualty care system concept, page I-13
+
+battalion
+    aid station, 4-8b(2)
+    area support, 2-16
+
+blood
+    banking, 3-3c(2)(b)
+    management report, E-7, F-28
+    situation report, 3-2d(2), 3-3a
+    supply, E-6—7
+    support, 3-3c, 3-15c
+
+brigade
+    Class VIII requisitioning, F-24
+    collecting point, A-2c
+    combat team, 2-4b(10) and c, 2-14, F-21
+    medical supply office, 2-10a
+
+                                                                                        Index-1
+
+
+---
+
+C1, FM 4-02.6
+
+brigade (continued)
+    organic support battalion, 2-14c
+    separate infantry, 2-10c
+    support
+        battalion, 2-1, 2-15
+        medical company, 2-15, Appendix F
+    surgeon section, 4-8a(1)
+
+camouflage, operational guidelines, 3-10a(1)                                       section.
+CHL. See combat health logistics.
+Class VIII, Appendix D, F-10, F-24, F-27
+
+    emergency request, F-23
+    routine requisitions, F-22
+    supply management in Force XXI divisions, D-1a
+clearing station
+    ammunition, individual weapons, and sensitive military equipment, 3-13f
+    cots, 3-3c
+    establishment, 3-13
+    evacuation, 3-13f
+    layout, Figure 3-1
+    operations on urbanized terrain, Appendix J
+clinical
+    guidelines
+
+        combat casualty care, Appendix L
+    psychologist, 3-6b, L-20
+    standing operating procedure, Appendix H
+cold weather environment, 4-5
+combat
+    casualty care clinical guidelines, Appendix L
+    health
+
+        logistics
+           blood management, 1-13, F-27
+           Class III resupply, 3-15c
+           delivery of Class VIII supplies, F-24
+
+        support
+           in specific environments, Chapter 4
+           planning, 1-6, Appendix B
+           system, Chapter 1
+
+    operational stress control, 1-4, 1-10b, 1-17, 4-4b(5). See also mental health
+communications
+
+    radios
+        amplitude modulated (AM), I-3
+           AN/GRC-213 (improved high-frequency), I-3a
+           AN/GRC-246, I-3b
+           AN/PSC-5 Spitfire, I-3c
+
+Index-2
+
+
+---
+
+communications                                                    C1, FM 4-02.6
+    radios (continued)                                                    Index-3
+        ancillary equipment, I-4
+        combat net radio systems, I-7
+        frequency-modulated (FM), I-2
+           Single Channel Ground and Airborne Radio System, I-2a
+              AN/PRC-119, I-2b
+              AN/VRC-88F/87F, I-2a and c
+              AN/VRC-89F, I-2a and d
+              AN/VRC-90F, I-2a and e
+        wire nets, I-8
+           command frequency-modulated (FM), I-8a
+           high-frequency amplitude modulated (AM), I-8b
+           internal wire communication, I-8f
+    wire subscriber access, I-5c
+
+company commander, 3-2a(1), F-4
+COSC. See combat operational stress control.
+CSOP. See clinical standing operating procedure.
+
+dental
+    comprehensive care, 1-14b
+    element, 3-3c(2)(a), F-13
+    officer, 3-3c(2), F-13, L-10
+    operational care, 1-4b(1), 1-14a, 2-4b(4), 2-6b(3), 3-3c
+    services, 1-6b, 1-10b, 1-14
+    specialist (91E), 1-8b(4), 3-3c(2), L-11
+
+desert environment, 4-4
+    acclimatization ,4-4b(1)
+    discipline, 4-4b(2)
+    water, basic need, 4-4b(3)
+    wind; dust and sand, 4-4b(6)
+
+division
+    air assault, 2-3d
+    airborne, 2-3c
+    armored and mechanized infantry, 2-3a
+    Force XXI, digitized, 2-3a(2)
+    light infantry, 2-3b
+    medium, 2-3e
+    overview, 2-2
+
+echelon of medical care
+    Echelon I, 1-4a
+    Echelon II, 1-4b
+    Echelon III, 1-4c
+    Echelon IV, 1-4d
+    Echelon V, 1-4e
+
+
+---
+
+C1, FM 4-02.6
+
+evacuation
+    platoon, F-16—17, F-19
+    squads, F-18
+
+executive officer. See field medical assistant.
+expected areas of patient density, 3-9c(3)
+
+field
+    medical assistant/executive officer, 3-2a(2), 3-3a, 3-12a
+    surgeon (62B MC), 3-3, L-2
+
+forward
+    support medical
+        company, 2-5
+        evacuation team, F-1c
+    surgical team, 1-8b(6), 2-7e(1), 2-13a, 3-3e—f, J-3, L-5
+
+FST. See forward surgical team.
+
+Geneva Conventions, Appendix A, G-5b(2)
+
+health
+    care specialist (91W), 3-3b, L-6—7
+        medical training, L-8
+    records, Appendix K
+
+hospitalization in
+    CONUS, 1-12c
+    corps, 1-12a
+    theater (echelon above corps), 1-12b
+
+jungle environment, 4-2
+    combat operations, 4-2b
+    special planning considerations, 4-2c
+
+laboratory specialist, medical (91K), 3-3c(2), L-15
+landing zone (site), 3-9c(8)
+Law of Land Warfare, Appendix A
+logistics
+
+    blood management, 1-13, 3-2d
+        report, E-7
+
+    combat health, 3-2d, F-5b
+    elements, F-5
+    medical
+
+        equipment maintenance, F-5c
+        supply and maintenance element, 3-2d
+    unit supply, 3-2c, F-5a
+
+MASCAL. See mass casualty.
+
+Index-4
+
+
+---
+
+mass casualty                                                     C1, FM 4-02.6
+    operations, J-4                                                       Index-5
+    planning for, 1-6d, H-3e, J-4a
+    rehearsals and training, J-4b
+    situations, Appendix C
+
+MC4. See medical communications for combat casualty care.
+medical
+
+    communications for combat casualty care, I-12—15, Figure I-7
+    company
+
+        area support, 2-16a, Figure 2-13
+        brigade support, 2-15a, Appendix F
+        division support, 2-6, Figure 2-7, 2-7b
+        employment of, 3-8, F-6—F-8
+        forward support, 2-4
+
+           air assault, 2-5c, Figure 2-3
+           airborne, 2-5d, Figure 2-4
+           digitized, 2-5e, Figure 2-5
+           heavy, 2-5a, Figure 2-1
+           light, 2-5b, Figure 2-2
+        headquarters, 3-10
+        heavy separate brigade, 2-9, Figure 2-11
+        main support
+           air assault, 2-7d, Figure 2-9
+           airborne, 2-7e, Figure 2-10
+           heavy, 2-7a, Figure 2-6
+           light, 2-7c, Figure 2-8
+        site selection, 3-9
+    evacuation, 1-11a
+    laboratory
+        element, F-13
+        specialist (91K), L-15
+    regulating, 1-11b
+    supply and medical maintenance element, 3-2d
+    surgical nurse (66H AN), 3-3d, L-4
+    troop-armored cavalry regiment, 2-12, Figure 2-12
+    threat, 1-5
+mental health section, 3-6, 3-17, F-8
+    clinical psychologist (73A67), L-20
+    combat operational stress control, 1-4, 1-10b, 1-17, 4-4b(5)
+    psychiatrist, L-18
+    specialist (91X), L-21
+    social worker (73A67), L-19
+MH. See mental health section.
+modular medical support system
+    ambulance squad, 1-8b(2)
+
+
+---
+
+C1, FM 4-02.6
+
+modular medical support system (continued)
+    area support squad, 1-8b(4)
+    combat medic (trauma specialist), 1-8b(1)
+    forward surgical team, 1-8b(6)
+    general, 1-8a
+    patient holding squad, 1-8b(5)
+    treatment squad, 1-8b(3)
+
+mountain environment, 4-3
+    increase in patient suffering, 4-3e
+    litter bearers, 4-3b
+    operations, 4-3c
+    survival training, 4-3d
+
+NBC and directed-energy environments, 4-6
+
+optometry section, 3-7a, 3-18
+    eye specialist (91WP3), 3-7, L-28
+    officer (67F00 MS), 3-7, L-27
+    optical laboratory specialist (91H), 3-7, L-31
+
+operational dental care, 1-4b(1), 1-14a, 2-4b(4), 2-6b(3), 3-3c
+
+patient holding squad, 3-3d, F-15, H-3a(c)
+physician assistant (65D SP), 1-4a(4)(b), 3-3a, F-2c, L-3
+physician. See field surgeon.
+planning, combat health support, Appendix B
+platoon
+
+    evacuation, F-16—17, F-19
+    leader, 3-4, F-4
+    treatment, 3-3a, 3-12a, F-9—F-10, F-15
+preventive medicine
+    environmental science officer (72D67 MS), L-25
+    field sanitation team, 1-16b
+    functions, 3-5d
+    officer (60C00 MC), L-24
+    section, 3-5, 3-16, F-7
+
+        employment of, 3-16
+    services, 1-16
+    specialist (91S), L-26
+property exchange, 3-4b, F-18, F-28
+psychiatrist (60W), 3-6b, L-18
+PVNTMED. See preventive medicine.
+
+radios. See communications.
+radiology
+
+    element, 3-3c(2)(c), F-13
+
+Index-6
+
+
+---
+
+radiology (continued)                                   C1, FM 4-02.6
+    specialist, 1-8b(4), 3-3c(2), F-13, L-13—14                 Index-7
+
+rehearsals and training, C-2b, J-4b
+
+security, G-5d—e
+semiannual combat medic skills validation test, L-9
+site selection, medical company, 3-9, G-5f(1)
+
+    commander’s plan and mission, 3-9c(1)
+    decontamination area, 3-9c(12)
+    equipment, 3-9c(11)
+    expected areas of patient density, 3-9c(3)
+    flow of traffic (patients and vehicles), 3-9c(10)
+    Geneva Conventions adherence, 3-9c(13)
+    hardstand, drainage, obstacles, and space, 3-9c(4)
+    perimeter security, 3-9c(9)
+Stryker brigade combat team, 2-15
+
+tactical standing operating procedure, Appendix G
+    annexes, G-5
+    format, G-3
+    general, G-1
+    purpose, G-2
+    sections, G-4
+
+training, Chapter 4
+    clinical laboratory specialist, L-17
+    dental specialist, L-12
+    eye specialist, L-29—30
+    health care specialist, L-7
+    medical, L-8
+    mental health specialist, L-22—23
+    radiology specialist, L-14
+
+treatment
+    medical,1-10a
+    platoon, 3-3, 3-12, F-9—F-10, F-15, H-3a
+        headquarters, 3-3a, F-10
+    squad, 3-3b—c, F-11
+
+TSOP. See tactical standing operating procedure.
+
+unit supply, 3-2c, F-5a
+
+van, expansible, 2-5a(3), 2-7b(2)
+
+warfighter information network, I-8f, I-9a
+Water, 4-2c, 4-4, 4-5d
+
+
+---
+
+By Order of the Secretary of the Army:                      FM 4-02.6 (FM 8-10-1)
+                                                                   1 AUGUST 2002
+Official:
+                                               ERIC K. SHINSEKI
+     JOEL B. HUDSON                     General, United States Army
+Administrative Assistant to the
+                                                  Chief of Staff
+   Secretary of the Army
+                   0217709
+
+DISTRIBUTION:
+
+Active Army, Army National Guard, and US Army Reserve: To be distributed in
+accordance with the initial distribution number 110816, requirements for FM 4-02.6.
+
+
+---
+
+PIN: 080070-001
+
+
+--- 

@@ -1,0 +1,6929 @@
+# mcwp_3-17-4_undated  ATP 3-34.81
+                                                                 MCWP 3-17.4
+                       Engineer Reconnaissance
+
+                                      MARCH 2016
+
+DISTRIBUTION RESTRICTION: Approved for public release; distribution is unlimited.
+This publication supersedes FM 3-34.170/MCWP 3-17.4, 25 March 2008.
+
+              Headquarters, Department of the Army
+
+
+---
+
+                                   FOREWORD
+
+This publication has been prepared under our direction for use by our respective commands and other
+commands as appropriate.
+
+JAMES H. RAYMER            ROBERT S. WALSH
+Brigadier General, USA     Lieutenant General, USMC
+Commandant                 Deputy Commandant for
+U.S. Army Engineer School  Combat Development and Integration
+
+   This publication is available at Army Knowledge Online
+     <https://armypubs.us.army.mil/doctrine/index.html>.
+      To receive publishing updates, please subscribe at
+
+<http://www.apd.army.mil/AdminPubs/new_subscribe.asp>.
+    It is also available at the U.S. Marine Corps Web site
+
+at Marine Corps Doctrine at <https://www.doctrine.usmc.mil/
+
+
+---
+
+Army Techniques Publication                                                                *ATP 3-34.81
+No. 3-34.81                                                                               MCWP 3-17.4
+
+Marine Corps Warfighter Publication                                                                      Headquarters
+No. 3-17.4                                                                                 Department of the Army
+                                                                                   Washington, DC, 1 March 2016
+
+              Engineer Reconnaissance
+
+Chapter 1                           Contents
+Chapter 2
+Chapter 3                                                                                                                        Page
+Chapter 4
+Chapter 5     PREFACE............................................................................................................... v
+
+              INTRODUCTION ...................................................................................................vi
+
+              ENGINEER RECONNAISSANCE FRAMEWORK ............................................ 1-1
+              Engineer Reconnaissance Tasks ....................................................................... 1-1
+              Engineer Reconnaissance Team Capabilities and Limitations .......................... 1-4
+              Command and Support Relationships................................................................ 1-7
+              Sustainment Considerations .............................................................................. 1-8
+
+              ENGINEER SUPPORT TO INFORMATION COLLECTION/INTELLIGENCE,
+              SURVEILLANCE, AND RECONNAISSANCE .................................................. 2-1
+              Planning.............................................................................................................. 2-1
+              Staff Support....................................................................................................... 2-1
+              Reconnaissance ................................................................................................. 2-2
+
+              RECONNAISSANCE SUPPORT ....................................................................... 3-1
+              Support to Mobility.............................................................................................. 3-1
+              Support to Countermobility ................................................................................. 3-8
+              Support to Survivability....................................................................................... 3-9
+              Support to Other Environments and Activities.................................................... 3-9
+              Support to Other Reconnaissance Types ........................................................ 3-18
+
+              TECHNICAL RECONNAISSANCE—ROUTE CLASSIFICATION.................... 4-1
+              Route Classification ............................................................................................ 4-1
+              Curve Calculations ............................................................................................. 4-6
+              Underpasses .................................................................................................... 4-15
+              Tunnels on Routes ........................................................................................... 4-15
+              Road Reconnaissance ..................................................................................... 4-18
+              Base Course and Subgrade ............................................................................. 4-22
+
+              TECHNICAL RECONNAISSANCE—ASSESSMENTS AND SURVEYS ......... 5-1
+              Bridge Reconnaissance...................................................................................... 5-1
+
+Distribution Restriction: Approved for public release; distribution is unlimited.
+*This publication supersedes FM 3-34.170/MCWP 3-17.4, 25 March 2008.
+
+1 March 2016                         ATP 3-34.81/MCWP 3-17.4                                                                              i
+
+
+---
+
+Contents
+
+Appendix A  Other Gap-Crossing Sites ................................................................................... 5-2
+Appendix B  Engineer Resource Assessment....................................................................... 5-10
+Appendix C  Infrastructure Reconnaissance ......................................................................... 5-10
+Appendix D  Environmental Reconnaissance ....................................................................... 5-16
+Appendix E  Airfield Assessment........................................................................................... 5-16
+Appendix F  METRIC CONVERSION CHART ...................................................................... A-1
+            REPORTING ...................................................................................................... B-1
+            INFRASTRUCTURE RECONNAISSANCE ...................................................... C-1
+            MILITARY LOAD CLASSIFICATION................................................................ D-1
+            TECHNICAL TOOLS AND RESOURCES ........................................................ E-1
+            SIGNS .................................................................................................................F-1
+            GLOSSARY .......................................................................................... Glossary-1
+            REFERENCES.................................................................................. References-1
+            INDEX ......................................................................................................... Index-1
+
+                                  Figures
+
+    Figure 1-1. Range of engineer reconnaissance capabilities.................................................. 1-2
+    Figure 2-1. Route reconnaissance graphic control measures ............................................... 2-5
+    Figure 2-2. Zone reconnaissance graphic control measures................................................. 2-7
+    Figure 2-3. Area reconnaissance graphic control measures ................................................. 2-8
+    Figure 4-1. Route classification overlay ................................................................................. 4-3
+    Figure 4-2. Route widths ........................................................................................................ 4-5
+    Figure 4-3. Tape-measure method ........................................................................................ 4-7
+    Figure 4-4. Triangulation method........................................................................................... 4-8
+    Figure 4-5. Cord method ........................................................................................................ 4-9
+    Figure 4-6. Curve symbols ..................................................................................................... 4-9
+    Figure 4-7. Percent of slope format ..................................................................................... 4-10
+    Figure 4-8. Map method to determine percent of slope....................................................... 4-11
+    Figure 4-9. Pace method to determine percent of slope...................................................... 4-12
+    Figure 4-10. Angle-of-slope method to determine percent of slope .................................... 4-13
+    Figure 4-11. Percent-of-slope symbols ................................................................................ 4-14
+    Figure 4-12. Route construction symbol .............................................................................. 4-14
+    Figure 4-13. Underpass symbols ......................................................................................... 4-15
+    Figure 4-14. Types of tunnel bores ...................................................................................... 4-16
+    Figure 4-15. Tunnel symbols ............................................................................................... 4-16
+    Figure 4-16. Overhead clearance measurements ............................................................... 4-17
+    Figure 4-17. Dimensions required for tunnels...................................................................... 4-18
+    Figure 4-18. Portal view of tunnel ........................................................................................ 4-19
+    Figure 4-19. Parts of a road ................................................................................................. 4-19
+
+ii          ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                                              Contents
+
+Figure 4-20. Load bearing capacity of roads with a flexible surface .................................... 4-22
+Figure 5-1. Telltale.................................................................................................................. 5-2
+Figure 5-2. Ford symbols........................................................................................................ 5-4
+Figure 5-3. Ferry symbols....................................................................................................... 5-6
+Figure 5-4. Sample ferry symbols........................................................................................... 5-6
+Figure 5-5. Dimensions required for streams and rivers ........................................................ 5-7
+Figure 5-6. Compass method to measure width of stream .................................................... 5-8
+Figure 5-7. Measuring gap width with a surveying instrument ............................................... 5-8
+Figure 5-8. Finding stream velocity ........................................................................................ 5-9
+Figure 5-9. Assessment overlapping survey ........................................................................ 5-11
+Figure 5-10. Airfield damage categories .............................................................................. 5-17
+Figure B-1. Sample DD Form 3009 ........................................................................................B-5
+Figure B-2. Sample DD Form 3010 ......................................................................................B-12
+Figure B-3. Sample DD Form 3011 ......................................................................................B-15
+Figure B-4. Typical bridge spans..........................................................................................B-18
+Figure B-5. Sample DD Form 3012 ......................................................................................B-20
+Figure B-6. Sample DD Form 3013 ......................................................................................B-23
+Figure B-7. Sample DD Form 3014 ......................................................................................B-26
+Figure B-8. Sample DD Form 3015 ......................................................................................B-29
+Figure B-9. Engineer resource symbols ...............................................................................B-31
+Figure B-10. Sample DD Form 3016 ....................................................................................B-33
+Figure C-1. The infrastructure assessment and survey model ............................................. C-1
+Figure E-1. ENFIRE components ...........................................................................................E-4
+Figure F-1. Hazard signs not included in the Geneva Convention.........................................F-2
+Figure F-2. Hazard signs included in the Geneva Convention...............................................F-3
+Figure F-3. Warning and enforcement signs ..........................................................................F-3
+Figure F-4. Bridge signs .........................................................................................................F-4
+Figure F-5. Width and height signs ........................................................................................F-5
+Figure F-6. Bridge sign containing technical information .......................................................F-5
+Figure F-7. Typical multilane bridge classification..................................................................F-6
+Figure F-8. Indicators of a damaged bridge ...........................................................................F-6
+Figure F-9. Military route guide signs for axial routes ............................................................F-7
+Figure F-10. Directional disks.................................................................................................F-8
+Figure F-11. Guide signs for casualty evacuation routes.......................................................F-8
+Figure F-12. Unit direction arrow ............................................................................................F-9
+Figure F-13. Military detour signs ...........................................................................................F-9
+Figure F-14. Front sign .........................................................................................................F-10
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  iii
+
+
+---
+
+Contents
+
+                                     Tables
+
+          Introductory table-1. Modified Army and Marine Corps terms ................................................. vii
+          Introductory table-2. Rescinded Army and Marine Corps terms.............................................. vii
+          Table 4-1. Examples of the route classification format .......................................................... 4-4
+          Table 4-2. Traffic flow capability based on route width.......................................................... 4-6
+          Table 4-3. Conversion of degrees and mils to percent of slope .......................................... 4-13
+          Table 4-4. Principle soil types .............................................................................................. 4-20
+          Table 4-5. Soil characteristics of roads and airfields ........................................................... 4-21
+          Table 4-6. Engineering properties of soil types ................................................................... 4-23
+          Table 4-7. Wheeled vehicle classification related to single wheel load ............................... 4-24
+          Table 4-8. Symbols for limiting characteristics .................................................................... 4-25
+          Table 4-9. Symbols for type of surface materials ................................................................ 4-25
+          Table 4-10. Examples of the road classification format ....................................................... 4-26
+          Table 5-1. Status color coding of infrastructure categories ................................................. 5-12
+          Table A-1. Metric conversion chart ........................................................................................ A-1
+          Table B-1. Route classification symbols ................................................................................ B-1
+          Table B-2. Engineer reconnaissance reports......................................................................... B-4
+          Table B-3. Minimum roadway widths ................................................................................... B-17
+          Table B-4. Span construction types ..................................................................................... B-17
+          Table B-5. Construction material ......................................................................................... B-19
+          Table C-1. Infrastructure assessment considerations ...........................................................C-3
+          Table F-1. Typical hazard, regulatory, and guide signs......................................................... F-1
+
+iv  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                     Preface
+
+ATP 3-34.81 provides techniques for the performance of tactical and technical engineer reconnaissance in support
+of military activities that are conducted across the full range of military operations. This publication supports
+doctrine found in ADP 3-0, FM 3-34, ADRP 5-0, and ADRP 6-0.
+
+Although primarily oriented on the brigade combat team (BCT)/regimental combat team (RCT) based Marine
+air-ground task force (MAGTF) and below, the principal audience for ATP 3-34.81 is all members of the
+profession of arms. Commanders and staffs of Army and Marine Corps headquarters serving as joint task force
+or multinational headquarters should also refer to applicable joint or multinational doctrine concerning the range
+of military operations and joint or multinational forces. Trainers and educators throughout the Army and Marine
+Corps will also use this publication.
+
+Commanders, staffs, and subordinates ensure that their decisions and actions comply with applicable United
+States (U.S.), international and, in some cases, host-nation laws and regulations. Commanders at all levels ensure
+that their personnel operate according to the law of war and the rules of engagement. (See FM 27-10.)
+
+Unless this publication states otherwise, masculine nouns and pronouns do not refer exclusively to men.
+
+Appendix A contains a metric conversion chart for the measurements used in this publication. For a complete
+listing of preferred metric units for general use, see Fed-Std-376B.
+
+ATP 3-34.81 uses joint terms where applicable. Selected joint and Army terms and definitions appear in both the
+glossary and the text. Terms for which ATP 3-34.81 is the proponent (the authority) are italicized in the text and
+are marked with an asterisk (*) in the glossary. Terms and definitions for which ATP 3-34.81 is the proponent
+publication are boldfaced in the text. For other definitions shown in the text, the term is italicized and the number
+of the proponent publication follows the definition.
+
+ATP 3-34.81 applies to Active Army, Army National Guard/Army National Guard of the United States, United
+States Army Reserve, Marine Corps, and Marine Corps Reserves unless otherwise stated.
+
+The proponent of ATP 3-34.81 is the United States Army Engineer School. The preparing agency is the Maneuver
+Support Center of Excellence (MSCoE) Capabilities Development and Integration Directorate; Concepts,
+Organizations, and Doctrine Development Division; Doctrine Branch. Send comments and recommendations on
+DA Form 2028 (Recommended Changes to Publications and Blank Forms) to Commander, MSCoE, ATTN:
+ATZT-CDC, 14000 MSCoE Loop, Suite 270, Fort Leonard Wood, MO 65473-8929; by e-mail to
+<usarmy.leonardwood.mscoe.mbx.cdidcodddengdoc@mail.mil>; or submit an electronic DA Form 2028. Marine
+Corps readers of this publication are encouraged to submit suggestions and changes to Deputy Commandant for
+Combat Development and Integration, ATTN: C116, 3300 Russell Road, Suite 204, Quantico, VA 22134-5021
+or by e-mail to <doctrine@usmc.mil>.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  v
+
+
+---
+
+                                 Introduction
+
+The three engineer disciplines are combat (with the capabilities and activities of mobility, countermobility, and
+survivability [M/CM/S]), general, and geospatial engineering. These disciplines include significant
+reconnaissance capabilities. The three engineer disciplines include extensive discussion on integrating the
+planning for, and conduct of, engineer reconnaissance support within the tactical operations of the combined arms
+team. This publication discusses the capability resident within combat engineer units to form and employ engineer
+reconnaissance teams (ERTs). It also describes the capability resident within general engineer elements to form
+and employ ERTs, augment combat engineer ERTs, or provide assessment and survey teams. Finally, geospatial
+engineering enables reconnaissance and may play a large role, especially during the planning process.
+
+Engineer reconnaissance, like chemical, biological, radiological, and nuclear (CBRN) and other technical
+applications, is not a form of reconnaissance. Engineer reconnaissance is a focused application of special or
+unique capabilities supporting reconnaissance, and it is applicable to all forms of reconnaissance. The engineer
+disciplines provide reconnaissance capabilities that vary in linkages to warfighting functions, degrees of technical
+expertise, and effort applied to the assigned mission and tasks. Engineer reconnaissance is directly linked to
+geospatial intelligence because combat and general engineer units use technical measuring or survey devices to
+confirm, correct, or update the accuracy of available geospatial information. After analysis and comparison
+against other intelligence collections, this updated geospatial information becomes intelligence, which feeds the
+commander’s decisionmaking process.
+
+The engineer contribution to operational success is highly desired by the commander. Demands for engineer
+reconnaissance support will often exceed capabilities. These capabilities are spread thin, and they compete with
+the commander’s needs for other engineer applications. The same engineer elements and capabilities are often
+required for each of these areas. Resolution of these competing priorities is one of the goals of the planning
+process. The staff-running estimate is created during mission analysis, and the engineer staff planner identifies
+the specified and implied engineer tasks (more than M/CM/S) and their associated purposes. This results in the
+recommendation of essential tasks for M/CM/S to the supported commander.
+
+Finally, this publication is written with the acknowledgement that the operational environment is more variable
+now. Engineers must be prepared to go into any operational environment and perform a full range of
+reconnaissance tasks in support of the maneuver commander while dealing with a wide range of threats and other
+influences. It builds on the collective knowledge and experience gained through nearly a dozen years of sustained
+military operations and exercises. It is rooted in time-tested principles and fundamentals, while accommodating
+new technologies and diverse threats to national security.
+
+This publication consists of five chapters and six appendixes that discuss the integration of engineer
+reconnaissance within the operational planning, execution, and assessment process that is presented in ADRP 5-0,
+ADRP 6-0, and MCWP 5-1. The following is a brief description of each chapter and appendix:
+
+        Chapter 1 provides a doctrinal framework for the provision of engineer reconnaissance capabilities
+             resident within engineer disciplines and supporting the warfighting functions. This chapter describes a
+             range of tactical to technical engineer reconnaissance capabilities, and it provides capabilities and
+             limitations of the ERT.
+
+        Chapter 2 provides doctrine for integrating the planning for engineer reconnaissance within
+             information management and planning processes of the combined arms team. This chapter specifically
+             addresses integration of geospatial support, and it provides specific considerations for integration of
+             engineer reconnaissance.
+
+        Chapter 3 provides doctrine for integrating the application of engineer reconnaissance within tactical
+             reconnaissance of the combined arms team. This chapter also addresses considerations for the
+             sustainment of engineer reconnaissance elements.
+
+        Chapter 4 provides doctrine for the conduct of technical engineer reconnaissance of routes. The ERTs
+             conduct route reconnaissance with a specified additional focus on required technical information.
+
+vi  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                            Introduction
+
+        Chapter 5 provides doctrine for the conduct of engineer assessments and surveys that provide engineer
+             reconnaissance support at the technical level of reconnaissance. Assessment and survey teams conduct
+             reconnaissance specifically focused on collecting detailed technical information.
+
+        Appendix A provides the user with a metric conversion table.
+        Appendix B illustrates the preparation of required engineer reconnaissance reports and forms.
+        Appendix C incorporates the form developed for infrastructure assessment. The examples are used for
+
+             infrastructure in sewage, water, electric, academics, trash, medical, (public) safety and other
+             considerations (SWEAT-MSO).
+        Appendix D provides techniques for determining military load classification (MLC) of bridges. The
+             MLC for bridging is explained fully in TM 3-34.22/MCRP 3-17.1B.
+        Appendix E provides guidelines for the use of signs at bridges, key locations, or constrictions along a
+             route that promotes efficient traffic control and limits the impact of hazardous areas along the route.
+        Appendix F includes a collection of other useful tools and resources.
+
+When this publication uses two terms separated by a slash, the first term is the Army term and the second term is
+the Marine Corps term. Key differences in Army and Marine Corps terms include—
+
+        Brigade combat team/regimental combat team-based MAGTF (written in this publication as
+             BCT/RCT).
+
+        Environmental officer/environmental compliance officer (written in this publication as environmental
+             officer/environmental compliance officer).
+
+        Intelligence preparation of the battlefield/intelligence preparation of the battlespace (written in this
+             publication as intelligence preparation of the battlefield/battlespace).
+
+        Mission analysis/problem framing (written in this publication as mission analysis/problem framing).
+        Mission, enemy, terrain and weather, troops and support available, time available, civil considerations
+
+             (METT-TC)/mission, enemy, terrain and weather, troops and support available, time available
+             (METT-T) (written in this publication as METT-T[C]).
+
+See introductory table-1 and introductory table-2 for term changes.
+
+                        Introductory table-1. Modified Army and Marine Corps terms
+
+                                Term                               Remarks
+infrastructure reconnaissance         updated to reflect current team and requirement
+
+              Introductory table-2. Rescinded Army and Marine Corps terms
+
+                       Term                                        Remarks
+                                      common English usage
+assessment                            common English usage
+                                      term source JP 3-34
+obstacle intelligence                 common English usage
+
+route classification
+
+survey
+
+Legend:       joint publication
+JP
+
+1 March 2016                          ATP 3-34.81/MCWP 3-17.4                          vii
+
+
+---
+
+This page intentionally left blank.
+
+
+---
+
+                                                 Chapter 1
+
+               Engineer Reconnaissance Framework
+
+         Combined arms is the synchronized or simultaneous application of several arms
+         (infantry, armor, field artillery, engineers, aviation) to achieve an effect on the enemy
+         that is greater than when used separately or in sequence. Engineer support to the
+         combined arms team adds key capabilities that ensure freedom of maneuver and
+         preserve combat power. An important measure of effectiveness of the integration of
+         lethal and nonlethal capabilities is the degree that the commander can concentrate
+         combat power at the critical place and time and the agility with which the commander
+         can shift those concentrations to new situations. Engineer support adds reconnaissance
+         capabilities to improve the commander’s understanding about the enemy and
+         environment, enabling the concentration and agility needed. This chapter begins the
+         discussion of engineer reconnaissance and the application of those capabilities
+         integrated and synchronized with other tasks and systems united by the combined arms
+         commander toward the common purpose of accomplishing the mission.
+
+ENGINEER RECONNAISSANCE TASKS
+
+     1-1. Engineer reconnaissance consists of tasks that are undertaken to obtain (by visual observation or other
+     detection methods) information about the activities and resources of an enemy or adversary or to secure data
+     concerning the meteorological, hydrographical, or geographical characteristics of a particular area.
+     Reconnaissance is a focused collection effort. Reconnaissance is performed before, during, and after missions
+     to provide information used in the intelligence preparation of the battlefield/battlespace process and by the
+     commander to format, confirm, or modify a course of action. Engineer units do not have designated
+     reconnaissance organizations. Engineer reconnaissance is prescribed and task-organized in orders, but it
+     depletes resources from other engineer missions.
+
+     1-2. The responsibility for conducting reconnaissance does not reside solely with specifically organized
+     units. Regardless of its primary function or physical location, every unit has an implied mission to report
+     information about the terrain, civilian activities, and friendly and enemy force dispositions. Although units
+     share the implied reconnaissance mission, the commander focuses specifically organized reconnaissance
+     units on the highest priority collection requirements. Ground maneuver formations (such as the BCT/RCT)
+     possess organic reconnaissance, surveillance, and target acquisition capabilities. These capabilities permit
+     them to exploit reconnaissance initiative and maintain operational tempo. The BCT/RCT is also able to access
+     theater and national resources. The BCT/RCT ability to develop the situation in and out of contact and to act
+     first with decisiveness is enhanced by this robust reconnaissance capability.
+
+     1-3. The maneuver commander must understand the capabilities and limitations of reconnaissance assets to
+     judiciously employ them and avoid assigning a mission to a unit that does not possess the ability to
+     accomplish the assignment. With the robust reconnaissance capability now available in support of the
+     BCT/RCT, the commander must know the capabilities and limitations (training, equipment) of their
+     reconnaissance assets. The commander ensures that these assets are employed on missions within their
+     capabilities. Although reconnaissance primarily relies on the human dynamic rather than technical means,
+     the situation may require collecting a higher degree of technical information than nonspecialized units
+     possess. An area with suspected CBRN contamination, for example, must be targeted for reconnaissance by
+     assets equipped to determine the type and level of contamination present and protection from the
+     contamination. Supporting units (engineers, CBRN, explosive ordnance disposal [EOD], military police)
+     have specialized capabilities to collect technical information that complements the overall reconnaissance
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  1-1
+
+
+---
+
+Chapter 1
+
+     effort of the force. This is especially true with respect to the collection of technical information by engineer
+     reconnaissance and survey teams operating throughout the battlefield/battlespace.
+
+RANGE OF ENGINEER RECONNAISSANCE
+
+     1-4. Engineer reconnaissance, like CBRN and other technical specialties, is not a form of reconnaissance.
+     Instead, it is a focused application of technical capabilities supporting reconnaissance and is applicable to all
+     forms of reconnaissance (route, zone, area, reconnaissance in force, and special reconnaissance). Each
+     discipline provides varying degrees of technical expertise and effort within the assigned mission and tasks.
+     The tasks and levels of expertise provide an overlap from discipline to discipline. For example, there is no
+     clean dividing line from the technical effort required for the combat engineering task of classifying a route
+     for combat vehicle traffic to the general engineering task of conducting road reconnaissance to estimate the
+     effort required for the upgrade of a main supply route. The combat engineering task will effectively address
+     classification of the route, but it will also provide information useful in the general engineer estimate of a
+     road segment. Similarly, the general engineer estimate will address the effort required for an upgrade and
+     provide information useful in the classification of the route. Army geospatial engineering is employed in
+     support of both and in varying degrees as required by the task and situation. Figure 1-1 graphically describes
+     the technical information provided by engineer reconnaissance tasks. This graphic is not intended to define
+     absolutes but rather to illustrate the general relationships and linkages between the engineer functions and
+     the technical and tactical engineer reconnaissance capabilities.
+
+     Figure 1-1. Range of engineer reconnaissance capabilities
+
+1-2  ATP 3-34.81/MCWP 3-17.4                                    1 March 2016
+
+
+---
+
+                                                                                                Engineer Reconnaissance Framework
+
+     1-5. Engineer units do not have dedicated reconnaissance elements within their structure. Combat and
+     general engineers are task-organized as required by the situation, based on METT-T[C], and combat and
+     general engineers may be teamed separately, with other elements from the BCT/RCT, or other engineer
+     organizations.
+
+ENABLING AND TEAMING WITH OTHER RECONNAISSANCE CAPABILITIES
+
+     1-6. The ERTs teamed directly with dedicated reconnaissance assets increase the tempo and effectiveness
+     of the reconnaissance mission. Combat engineers are typically task-organized in direct support of maneuver
+     units. Under this command relationship, the maneuver unit commander can employ the organic
+     reconnaissance element and a combat engineer ERT to collect information that will satisfy tactical
+     information requirements. When employed in this fashion, the reconnaissance element conducts the overall
+     reconnaissance mission while the ERT focuses on the collection and evaluation of engineer specific technical
+     information (complex obstacles, bypasses, river crossing sites, landing zones, combat road or trail capacity).
+     Matching a single or multiple ERTs with the organic reconnaissance element is the most common
+     employment method used by BCT/RCT commanders. To achieve the maximum benefit of this method of
+     employment, it is important for planners to ensure that the ERT has the same level of mobility as the
+     reconnaissance element. Additionally, careful consideration should be taken regarding the scope of tasks
+     assigned to the combat engineer unit. Committing ERTs to the reconnaissance mission will divert manpower
+     from the direct support combat engineer element to maneuver unit reconnaissance elements for tactically
+     oriented reconnaissance where engineer expertise supports the commander’s information requirements. The
+     reconnaissance unit conducts the overall mission while the ERT focuses on the more technical information
+     required (such as detailed information on a complex obstacle, proposed crossing site, or route capacity).
+     While various engineers are available to be task-organized to reconnaissance units, the teaming of engineers
+     into the reconnaissance forces directly supporting the BCT/RCT is the most common application.
+
+     1-7. General engineer units, when not directly supporting combat engineer units, will typically form
+     task-organized ERTs to perform general engineer surveys and technical assessments. These ERTs will
+     concentrate on the collection and evaluation of technical information related to infrastructure and resources
+     of the host nation. Depending on the technical nature of information required, these ERTs may include
+     credentialed civil engineer subject matter experts in permissive operational environments while access to
+     technical reachback centers may be applicable in uncertain or hostile environments.
+
+COMBAT ENGINEER RECONNAISSANCE TASKS
+
+     1-8. Combat engineers support all forms of reconnaissance. Engineer reconnaissance missions are fully
+     integrated within the BCT/RCT reconnaissance effort. Because they are conducted by engineers, it will
+     include some degree of focus on technical information as required by the commander’s reconnaissance
+     guidance. The reconnaissance should focus on restrictive aspects of equipment assigned to the ERT tasking
+     unit. Considerations for reconnaissance restriction designations may come from the unit table of organization
+     and equipment, technical manuals, or any other known physical characteristics of unit equipment that will
+     use the reconnoitered area.
+
+     1-9. The majority of engineer reconnaissance capabilities enable the collection of technical information in
+     support of combat engineering. Reconnaissance in support of M/CM/S is conducted primarily by ERTs
+     (composed of combat engineers) and focuses on collecting tactical and technical information to support the
+     BCT/RCT mobility. The specific combat engineer reconnaissance tasks include, but are not limited to—
+
+              Obstacle reconnaissance focused on bypass or breach of obstacles.
+              Route reconnaissance focused on route clearance.
+              Area reconnaissance focused on explosive hazards, requiring area clearance.
+              Crossing site reconnaissance focused on determining requirements for a gap crossing.
+              Route reconnaissance focused on establishing a combat road or trail.
+              Reconnaissance of planned or existing sites and facilities supporting the BCT/RCT.
+              Obstacle reconnaissance (including demolition obstacles) focused on establishing friendly
+
+                  obstacles integrated with fires.
+              Obstacle reconnaissance in preparation for target turnover.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  1-3
+
+
+---
+
+Chapter 1
+
+              Area reconnaissance focused on establishing vehicle fighting positions and protective works.
+              Area reconnaissance in support of urban combat.
+              Reconnaissance of tunnels and underground structures.
+              Reconnaissance to establish an initial assessment of infrastructure factors.
+              Reconnaissance in complex terrain.
+
+GENERAL ENGINEERING RECONNAISSANCE TASKS
+
+     1-10. General engineering reconnaissance is similar in focus to the reconnaissance tasks that support
+     missions linked to BCT/RCT sustainment. Technical capabilities are distinguished from the support provided
+     to combat engineer missions and from tactical sustainment missions by the level at which the requirements
+     are identified and addressed. At the tactical level, the BCT/RCT may have a general engineer element in
+     direct support to maintain or upgrade a specified main supply route in the BCT/RCT area of operations (AO).
+     General engineers working at the operational level will conduct reconnaissance to identify requirements for
+     large-scale improvement and maintenance of theater ground line of communications. Technical
+     reconnaissance capabilities are typically conducted by a general engineering assessment team or survey team
+     to gather the technical information required for the following general engineering tasks:
+
+              Maintaining and upgrading ground lines of communications.
+              Constructing or repairing bridges.
+              Supporting airfields and heliports.
+              Supporting seaports.
+              Supporting survivability.
+              Maintaining real estate and real property.
+              Procuring and producing construction materials.
+              Supporting base camps and support areas.
+              Generating and distributing power.
+              Maintaining petroleum pipeline and storage facilities.
+              Supporting water production and distribution (including well drilling).
+              Supporting underwater and other specialized construction.
+              Surveying infrastructure.
+
+     1-11. Technical capabilities include robust support from joint Service, multiagency, contractor, host nation,
+     and reachback elements. Field force engineering is the broad range of reachback capabilities, which are part
+     of the U.S. Army Corps of Engineers and Naval Facilities Engineering Command. Field force engineering is
+     linked through the engineer element on the ground to apply a higher degree of technical expertise to the
+     engineer mission. (See FM 3-34, FM 6-0, and MCWP 3-17 for additional information.)
+
+ENGINEER RECONNAISSANCE TEAM CAPABILITIES AND
+LIMITATIONS
+
+     1-12. The ERTs are added according to the mission needs. The Army BCT has a significant collection
+     capability inherent in its organic cavalry squadron, maneuver battalion, and military intelligence company.
+     The Army BCT may be augmented with information collection assets from echelons above the BCT. This
+     section describes the capabilities and limitations of task-organized ERTs formed by engineers supporting the
+     BCT. This includes the engineer battalion organic to each of the BCT structures and augmenting engineer
+     units.
+
+     1-13. The Marine Corps structure includes combat engineer capabilities task-organized in direct support of
+     the RCT. While the combat engineer elements supporting the RCT do not include organic or dedicated
+     reconnaissance formations, they do have the capability to conduct tactical reconnaissance as required by the
+     situation. The RCT will rely more heavily on joint Service support or other general engineer augmentation
+     than its BCT counterpart to provide the technical range of support.
+
+1-4  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                Engineer Reconnaissance Framework
+
+     1-14. The employment of engineers in a reconnaissance role enhances the effectiveness of combat engineer
+     support and the tempo and technical quality of the reconnaissance. The commander should be aware of the
+     ERT capabilities and understand the trade-offs between using engineer assets in a reconnaissance role versus
+     using them in other roles.
+
+FORMATION OF AN ENGINEER RECONNAISSANCE TEAM
+
+     1-15. ERTs represent task-organized elements within larger engineer units. Detailed preparations are
+     necessary to facilitate their rapid deployment and success. This can include designating certain personnel to
+     an ERT battle roster, providing specialized training for those personnel (how to operate measuring equipment
+     to collect technical information, how to employ tactical communications/information systems to submit ERT
+     reports), establishing an ERT standardized procedure, and conducting rehearsals using standardized
+     procedure. Based on the scope and scale of the assigned mission, the size of an ERT may be a team, squad,
+     platoon, or larger.
+
+     1-16. Regardless of the task organization that creates the ERT, units have to dedicate a large amount of
+     training time toward developing an effective ERT. This training may include—
+
+              Training events with the cavalry squadron to develop a strong working relationship.
+              Reconnaissance fundamentals.
+              Integration with brigade and engineer reconnaissance elements in a nearly habitual relationship to
+
+                  develop the trust and familiarity necessary to succeed on the battlefield.
+              Reporting, calling for fires, first aid, land navigation, demolitions, minefield indicators, foreign
+
+                  mine recognition, dismounted movement techniques, vehicle and equipment maintenance,
+                  helicopter insertion, resupply, extraction, relay, and retransmission procedures.
+              Operation of digital communications and automated reconnaissance systems to facilitate passing
+                  reconnaissance information.
+
+     1-17. The ERT is normally task-organized for each specific mission. The ERT elements are drawn from the
+     assigned engineer organization. The ERT—
+
+              Increases the supported unit reconnaissance capabilities concerning complex obstacle systems,
+                  enemy engineer activities, and the details of mobility along a route.
+
+              Conducts an analysis by providing technical information of obstacles to determine the assets
+                  needed to reduce any obstacle detected.
+
+              Marks bypasses of obstacles based on guidance from the supported commander. This guidance
+                  includes whether to mark bypasses and the direction the force should maneuver when bypassing
+                  an obstacle.
+
+              Assists in guiding the breach force to the obstacle for breaching.
+              Assists in gathering enemy engineer information.
+              Provides detailed technical information on routes (including classification) and specific
+
+                  information on bridges, tunnels, fords, and ferries along the route.
+              Provides the initial level technical information required for an airfield assessment.
+              Conducts reconnaissance with a specified focus on the initial technical information required for
+
+                  infrastructure assessments.
+
+     1-18. An ERT conducts missions as part of a larger combined arms force, directly augmenting the
+     reconnaissance element. More than one ERT may be employed if multiple named areas of interest (NAIs)
+     need to be observed in dispersed locations. The ERT may conduct its reconnaissance dismounted.
+
+     1-19. The dismounted element mission is to locate and report the information required by the supported
+     commander according to the information collection or intelligence collection plan. This information can be
+     transmitted by any available communication or information system means, per the supported unit
+     communication plan and the information collection or intelligence collection plan.
+
+     1-20. The supported element mission is to maintain communication with the dismounted ERT element and
+     higher headquarters. The supported element is responsible for relaying the information collected by the
+     dismounted element to the appropriate communications node. The supported element ensures that the team
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  1-5
+
+
+---
+
+Chapter 1
+
+     equipment is not discovered by the enemy. The obstacle information collected by a reconnaissance team is
+     also sent to its parent engineer headquarters, when possible. The secondary mission of the supported element
+     is to be prepared to go forward and complete the reconnaissance if the dismounted element is unsuccessful.
+
+     1-21. The supported element is responsible for the ERT security during their reconnaissance. Operational
+     limitations of the ERT include personnel vulnerability to detection and targeting by the enemy when the ERT
+     needs to dismount to take key measurements of reconnoitered structures or terrain features.
+
+LIMITATIONS OF AN ENGINEER RECONNAISSANCE TEAM
+
+     1-22. One of the high-frequency tasks associated with reconnaissance missions is locating obstacles and
+     restrictions that may affect the trafficability along a route. The ERT should not be confused with a route
+     clearance team, which is task-organized to detect and clear obstacles along a route. The purpose of this ERT
+     is to determine how best to overcome the obstacle effects. The tasks that are associated with this
+     reconnaissance may be to estimate the reduction assets necessary to reduce the obstacle, to mark the best
+     location to breach, or to recommend a bypass of the obstacle. If the obstacle is to be bypassed, the
+     reconnaissance team should be prepared to provide guides and markings. The reconnaissance should include
+     the location of supporting enemy positions and possible point of breach locations for the obstacle. See JP 3-15
+     for a discussion of obstacle types.
+
+     1-23. An ERT primary task with regard to tactical and protective obstacles is the reconnaissance of those
+     obstacles and locating and marking bypasses around obstacles and restrictions. An ERT has the following
+     limitations:
+
+              An unaugmented ERT is extremely limited in its ability to destroy or repel enemy reconnaissance
+                  units and security forces.
+
+              The distance the ERT can operate away from the main body is restricted by the range and type of
+                  communications, the range of supporting indirect fires, and the ability to receive sustainment.
+
+              The amount of technical reconnaissance equipment when organic transportation is not used.
+
+TECHNICAL AUGMENTATION OF AN ENGINEER RECONNAISSANCE TEAM
+
+     1-24. General engineer units can provide a range of additional technical expertise capabilities in direct
+     support of an ERT. Technical support can take the form of augmentation of the ERT or reachback support.
+     In some cases, the ERT mission will provide the initial technical information to plan or focus the employment
+     of follow-on assessment or survey elements from the general engineer force. General engineering technical
+     expertise can include —
+
+              Vertical or horizontal construction.
+              Port or pipeline construction.
+              Power generation and distribution.
+              Army water well drilling and distribution.
+              Divers and underwater construction.
+              Real estate and facilities management.
+              Environmental support.
+              Structural engineering and antiterrorism/force protection.
+              Explosive ordnance clearance agent/Marine Corps professional military education system school
+
+                  trained personnel
+
+     1-25. Any person or organization that has received basic search training is a resource; they may be able to
+     collect specialized information to support the intelligence picture. Even relatively trivial information
+     provided by a search-aware trained individual may provide the necessary information to launch future search
+     activities. (See FM 3-34.210/MCRP 3-17.2D for additional information on search.)
+
+     1-26. The search advisor is usually an experienced company or troop level officer, warrant officer, or senior
+     noncommissioned officer who has received intermediate or advanced search advisor training. A search
+     advisor conducts detailed search planning, preparation, rehearsals, and mission execution. A unit commander
+     may delegate authority to the search advisor, as appropriate, to accomplish the search mission. The specific
+
+1-6  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                Engineer Reconnaissance Framework
+
+     authorities delegated depend on the situation and the personalities involved. The search advisor can directly
+     augment an ERT when the reconnaissance mission is planned in support of search. When unavailable to
+     augment or accompany the ERT, the search advisor may provide specific information requirements for the
+     reconnaissance focus in support of planned search tasks.
+
+ASSESSMENTS AND SURVEYS
+
+     1-27. An ERT can conduct assessments and surveys at the operational level in support of the general
+     engineering function. The assessment or survey teams are generally not employed when direct contact with
+     the enemy is likely. Rather, engineer assessment or survey is typically conducted in a relatively secure area
+     and is focused on specific and detailed technical information required for a future engineered, or at least
+     heavily engineered, mission. When operating within an assigned maneuver area, the assessment or survey
+     team must fully coordinate its activity with the maneuver unit. Additional specialized assistance may also be
+     provided from assets not typically organized into tactical units and may include other military resources (U.S.
+     Army Corps of Engineers, Naval Facilities Engineering Command) or other unified action partners.
+
+     1-28. An ERT assessment is a judgment about something based on a technical understanding of the situation.
+     An assessment may follow the same format as a survey, but in the case of the assessment, time or specific
+     technical expertise is not adequate to call it a survey. The assessment requires less time, but it provides less
+     technical detail. Other, nonspecialized reconnaissance elements may also do assessments, but surveys require
+     specialized technical expertise.
+
+     1-29. An ERT survey looks at or considers something closely, especially to form a technical opinion.
+     Examples include an environmental baseline survey (see ATP 3-34.5/MCRP 4-11B), an infrastructure
+     survey, and the more technical components of route classification.
+
+     1-30. Assessment and survey teams are specifically tailored to collect the detailed technical information. The
+     teams include the variety of specialties necessary for the supported mission. Substantial additional technical
+     capabilities are added as necessary from unified action partners. Field force engineering is the broad range
+     of activities linked through the general engineer element to apply a high degree of technical expertise to the
+     engineer technical reconnaissance capability.
+
+COMMAND AND SUPPORT RELATIONSHIPS
+
+     1-31. Engineers are task-organized in a variety of ways, depending on the mission and current requirements.
+     This task organization drives an ERT command or support relationship. Additionally, the supported unit
+     commander may task-organize the reconnaissance team as appropriate. (See FM 6-0 and MCWP 3-17 for a
+     full discussion on command and support relationships.)
+
+     1-32. In an operational control relationship, a reconnaissance team receives all of its tasking and missions
+     from the supported unit. The supported unit commander retains the same authority over the reconnaissance
+     team as their organic units; the supported unit commander may task-organize the reconnaissance team, as
+     appropriate. Sustainment support comes from the parent engineer unit unless the engineer battalion has
+     coordinated with the supported unit for certain classes of supply.
+
+     1-33. In a direct support relationship, a reconnaissance team answers directly to the supported unit requests
+     for support. Sustainment support is provided by the parent engineer unit, and the reconnaissance team is
+     commanded by its parent engineer unit commander.
+
+     1-34. In a general support relationship, a reconnaissance team receives missions and all support from its
+     parent engineer unit. However, this is not a preferred method of a command support relationship.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  1-7
+
+
+---
+
+Chapter 1
+
+     1-35. An ERT can be employed using several purposes, and each purpose has advantages and disadvantages.
+     These advantages and disadvantages include the following:
+
+              Integrating as part of the brigade information collection/intelligence collection effort. In this
+                  method, an ERT is integrated into the brigade collection effort. This effort normally includes other
+                  assets and receives the same types of support and sustainment as the rest of the brigade
+                  reconnaissance assets. It is imperative that the engineer unit providing the ERT understands all
+                  aspects of the plan to employ the ERT. At a minimum, the ERT leader should attend the brigade
+                  information collection/intelligence collection rehearsal. The higher headquarters continues to
+                  track the ERT through the operation. Resources (maintenance and personnel status, verification
+                  of the team position, activation of no-fire areas) must be closely monitored. The efficient
+                  dissemination of the information collected by the team is also a critical task of the higher
+                  headquarters staff.
+
+              Assigning BCT/RCT NAIs in a task force AO. Under this method, an ERT receives its
+                  reconnaissance objectives from brigade through an engineer unit supporting a maneuver battalion,
+                  squadron, or task force. The ERT leader should link up with the appropriate task force scout
+                  platoon leader upon receiving the mission from the providing engineer unit. The engineer unit
+                  must ensure that the necessary instructions to the appropriate task forces are included in the
+                  brigade operations order, especially if the task forces are expected to provide logistical support to
+                  the ERT (including casualty evacuation and vehicle recovery support). The team leader should be
+                  present at the scout platoon leader’s operation order and rehearsals to ensure understanding of the
+                  scout platoon plan. To reduce the risk of fratricide, the ERT leader must provide the plan to the
+                  scout platoon leader. The ERT should report checkpoints and locations on the same net that the
+                  task force scouts are operating on (for example, task force operations on the intelligence net). All
+                  information reports should be sent to the task force and the engineer unit. The unit should then
+                  pass the information to the brigade and its subordinate elements. This employment concept should
+                  be used anytime the ERT works closely with task force scouts.
+
+              Working under task force control. In this method, ERTs are placed under the task force control
+                  to look at the NAIs that the brigade tasks to the task force or expects the task force to develop
+                  requiring engineer expertise (possibly a task force breach). This method involves the least amount
+                  of coordination and planning for the engineer unit that is providing the ERT. However, the
+                  responsibility to plan and monitor ERT activities now falls to the task force engineer. Although
+                  the task force decides how to use the ERT, the task force engineer must be involved in the planning
+                  details to ensure that the team is properly used, is integrated into a sound information
+                  collection/intelligence collection plan, and receives the necessary support.
+
+     1-36. In most cases, information collection/intelligence collection assets will be attached to a subordinate
+     command to ensure integration. However, the brigade may keep some assets under brigade control and assign
+     them their own AO or have them operated independently in another AO. The organic engineer headquarters
+     is responsible for command oversight of these independent operators, while the asset has the requirement to
+     ensure coordination with the respective maneuver commander. Examples of information
+     collection/intelligence collection assets operating independent of subordinate units include an unmanned
+     aircraft system (UAS) launch and recovery site.
+
+SUSTAINMENT CONSIDERATIONS
+
+     1-37. An engineer unit providing an ERT will likely be able to provide only a limited amount of logistical
+     support, especially after the ERT crosses the line of departure (LD). For this reason, it is essential that the
+     supported unit understand the ERT requirements and embrace the support of the element. The supporting
+     engineer unit must coordinate closely with the supported element commander for support that they cannot
+     provide organically or that can be provided more effectively by the supported maneuver unit.
+
+     1-38. For engineer units augmenting the BCT/RCT, staff coordination must be made at the appropriate task-
+     organized unit so that the supporting unit requirements are included in sustainment planning conducted by
+     the supported unit. Within the BCT/RCT, the maneuver and engineer battalion/squadron commanders ensure
+     that support is provided for organic and attached elements and supporting units.
+
+1-8  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                 Chapter 2
+
+  Engineer Support to Information Collection/Intelligence,
+                 Surveillance, and Reconnaissance
+
+         The commander’s decisionmaking process is directly supported by situational
+         awareness and understanding that is provided by timely combat reporting and accurate
+         intelligence. The collection, analysis, and dissemination of accurate intelligence satisfy
+         the commander’s information requirements, which remove some uncertainty from the
+         commander’s decisionmaking. Engineer units provide the means to collect specific
+         technical information to answer the supported unit commander’s information
+         requirements.
+
+PLANNING
+
+     2-1. A BCT/RCT conducts information collection/intelligence collection activities that support the overall
+     intelligence estimate. Information collection/intelligence collection is multifaceted and develops,
+     synchronizes, and integrates intelligence from a multitude of collection sources to eliminate functional
+     stovepipes for planning, reporting, and processing information and producing intelligence. Information
+     collection/intelligence collection must be nested from division to battalion or squadron level to ensure the
+     integration of available assets toward a single purpose. This integration results in increased security and
+     flexibility to gain and maintain the initiative at the tactical level, which is the focus of the BCT/RCT and its
+     subordinate elements.
+
+     2-2. Information collection/intelligence collection is a continuing activity. It allows units to produce a
+     continuous feed of relevant intelligence on the enemy, environment, and civil considerations that are required
+     by the commander when making critical decisions. This information answers requirements developed
+     throughout the operations process. Timely and accurate intelligence developed by aggressive and continuous
+     information collection/intelligence collection encourages audacity. This intelligence facilitates actions that
+     negate enemy strengths or exploit weaknesses (vulnerabilities).
+
+STAFF SUPPORT
+
+     2-3. The BCT/RCT commander and the executive officer must ensure an integrated staff process to conduct
+     planning and dissemination of information collection/intelligence collection orders. Given the complex
+     nature of the operational environment, combined with the significantly enhanced collection capabilities of
+     the BCT/RCT, it is imperative that the intelligence staff officer (S-2), operations staff officer (S-3), fires
+     coordinator, engineer staff, and other required staff work together to develop the information
+     collection/intelligence collection plan. The engineer is especially critical in ensuring that the reconnaissance
+     effort will support the mobility and survivability of the BCT/RCT. Further, the significance of the information
+     collection/intelligence collection process on unit success dictates the involvement of the entire staff. This
+     allows the S-2 to focus on fusing information from national through tactical intelligence collections, better
+     enabling the S-2 to provide the commander with timely and accurate intelligence assessments. The
+     commander uses the fused intelligence provided by information collection/intelligence collection to make
+     decisions that allow him to place combat effects on the enemy at the time and location chosen by the
+     commander, to impede, harass, or attrite the enemy and then to employ maneuver forces to destroy it. The
+     commander then employs maneuver forces to destroy it. The BCT/RCT executive officer integrates the staff
+     actions (S-2, S-3, the rest of the staff, and the reconnaissance element) to identify collection requirements
+     and implement the information collection/intelligence collection plan.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  2-1
+
+
+---
+
+Chapter 2
+
+     2-4. With staff participation, the BCT/RCT S-2 supports the information collection/intelligence collection
+     effort by focusing the collection, processing, analysis, and intelligence products on the critical needs of the
+     commander. The BCT/RCT S-3, in coordination with the S-2, tasks and directs the available information
+     collection/intelligence collection assets to answer the commander’s information requirements. The required
+     information is obtained through various detection methods and systematic observation, reconnaissance, and
+     surveillance. This task is a continuous process, and it has four subtasks—
+
+              Perform intelligence synchronization.
+              Perform information collection/intelligence collection integration.
+              Conduct surveillance.
+              Conduct reconnaissance.
+
+RECONNAISSANCE
+
+     2-5. Engineer units are uniquely trained and equipped to obtain data concerning the hydrographic or
+     geographic characteristics of a particular area. This permits them to collect data in support of tactical or
+     operational-level reconnaissance objectives. This can include data related to obstacles, surface drainage,
+     vegetation, cultural features, beaches, and soil composition. To ensure that the engineer fits effectively within
+     the combined arms team, it is critical for the engineer reconnaissance planners and team leaders to understand
+     the language of the maneuver commander’s reconnaissance plan. Similarly, the staff planners and team leader
+     must describe their engineer reconnaissance capabilities and support requirements in terms of the mission to
+     ensure integration with the overall reconnaissance effort. In determining which method (push or pull) and
+     technique used (mounted, dismounted, aerial, or sensor), the staff further describes how the reconnaissance
+     will be conducted.
+
+COMMANDER’S RECONNAISSANCE GUIDANCE
+
+     2-6. The BCT/RCT commander’s reconnaissance guidance is issued early in the operational planning
+     process. The commander’s reconnaissance guidance covers the following considerations:
+
+              Focus of reconnaissance.
+              Tempo of reconnaissance.
+
+                   Stealthy.
+                   Forceful.
+                   Deliberate.
+                   Rapid.
+              Engagement criteria (lethal and nonlethal), if any.
+                   Aggressive.
+                   Discreet.
+
+Focus
+
+     2-7. Reconnaissance focus defines where and on what the reconnaissance team needs to concentrate its
+     information gathering activities. Reconnaissance focus allows the commander to select the critical tasks to
+     accomplish and with which assets. Reconnaissance focus must be linked to the tasks of answering the
+     commander’s critical information requirements, supporting targeting (lethal and nonlethal), and filling
+     additional voids in the information requirements. The reconnaissance objectives of the ERT must be focused,
+     at a minimum, on one or more of the following:
+
+              Infrastructure. Infrastructure covers those systems that support the indigenous inhabitants,
+                  economy, and government of an area. Destroying, controlling, or protecting vital parts of the
+                  infrastructure can isolate the enemy from potential sources of support. Because these systems are
+                  inextricably linked, destroying or disrupting any portion of the urban infrastructure can have a
+                  cascading effect (intentional or unintentional) on the other elements of the infrastructure.
+
+              Terrain. Terrain-focused reconnaissance identifies voids in terrain-related information
+                  requirements that a map or digital analysis simply cannot satisfy to an acceptable degree. Terrain
+
+2-2  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                    Engineer Support to Information Collection/Intelligence, Surveillance, and Reconnaissance
+
+                  reconnaissance also includes the effect of weather on the military aspects of the terrain. Typical
+                  engineer focus includes obstacle information, route classification, and gap-crossing sites.
+              Threat. Threats may include conventional and known enemy forces, insurgents, paramilitary
+                  forces, guerrillas, criminal groups, and even civilian groups and individuals.
+              Society (social/human demographics). Gaining an awareness of how the local society affects
+                  military operations and the impact of military operations on the society may be critical to the
+                  commander when making operational decisions.
+
+Tempo
+
+     2-8. The tempo of the reconnaissance allows the commander to correlate time requirements for the
+     reconnaissance with other factors (planning time, movement formations, dismounted or mounted operational
+     methods). The commander establishes the tempo by answering several questions, to include—
+
+              Given the available time, will ERT need to conduct stealthy or forceful reconnaissance?
+              Is the reconnaissance mission deliberate or rapid?
+
+     2-9. The following describes the reconnaissance tempo:
+              Stealthy reconnaissance. Stealthy reconnaissance entails methodical, time-consuming details
+                  that minimize chance enemy contact. It is conducted predominantly dismounted, although
+                  mounted reconnaissance may also be involved.
+              Forceful reconnaissance. Forceful reconnaissance is the opposite of stealthy. It is a much faster
+                  paced reconnaissance; reconnaissance units are less concerned about being detected by the enemy.
+              Deliberate reconnaissance. Deliberate reconnaissance entails slow, detailed, broad-based
+                  missions in which the reconnaissance element accomplishes several tasks.
+              Hasty reconnaissance. Hasty reconnaissance is the opposite of deliberate. It focuses the
+                  reconnaissance element on a few key pieces of information required by the commander.
+
+     2-10. The terminology describing the tempo of reconnaissance is not as important as the requirement that
+     the commanders and their subordinates talk the same language when determining what type of tempo to adopt
+     and how that looks in the AO. Although the ERT may not receive specifically worded reconnaissance
+     guidance from the commander, the ERT leader must analyze requirements for tempo based on the
+     commander’s guidance, warning orders, and their experience.
+
+Engagement Criteria
+
+     2-11. Engagement criteria establish which targets the reconnaissance element is expected to engage with
+     direct or indirect fires and which targets they are expected to handover to the BCT/RCT maneuver battalions.
+     In general, engagement criteria will apply only to ERTs directly augmenting reconnaissance elements.
+
+     2-12. Engagement criteria may be articulated in terms of the type and number of threat systems that a
+     reconnaissance unit may be required to engage (or are prohibited from engaging). They may describe
+     situations in which engagement will or will not occur. They may even address what types of friendly weapon
+     systems may be employed or prohibited. Engagement criteria are linked closely with established rules of
+     engagement; however, they define important deviations from the rules of engagement as opposed to being
+     merely a reiteration of them.
+
+     2-13. Engagement criteria may also pertain to how the element handles nonlethal contact (such as tactical
+     questioning of civilians or factional leaders). Additionally, engagement criteria allow the reconnaissance
+     element to anticipate bypass criteria and to develop a plan to maintain visual contact with bypassed or
+     bypassing threat elements.
+
+FORMS
+
+     2-14. There are five forms of reconnaissance—
+              Route.
+              Zone.
+              Area.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  2-3
+
+
+---
+
+Chapter 2
+
+              Reconnaissance in force.
+              Special.
+
+     2-15. These forms of reconnaissance will normally be conducted with a multidimensional focus that includes
+     such factors as infrastructure, terrain, threat, and society. (See FM 3-90-2 for additional information on
+     reconnaissance in force and forms of reconnaissance.)
+
+             Note. A route reconnaissance is included in the forms of reconnaissance. It should not be confused
+             with a route classification (can be included as part of the route reconnaissance) or a road
+             reconnaissance (a technical component of the route classification).
+
+Route Reconnaissance
+
+     2-16. Route reconnaissance is the directed effort to obtain information (focused on the threat or terrain based
+     on the commander’s reconnaissance focus) along a specified route and on adjacent terrain (including lateral
+     routes) from which movement along the route could be negatively influenced. The route is a prescribed course
+     from a point of origin (start point [SP]) to a specific destination (release point [RP]). The route could be a
+     road or an axis of advance. Route reconnaissance is conducted to determine whether the route is clear of
+     obstacles or threat forces and how well or poorly it will support the planned movement. Below the BCT/RCT
+     level, route reconnaissance is often a task performed during zone or area reconnaissance as a combined arms
+     mission.
+
+     2-17. A route reconnaissance may be assigned as a separate mission or as a specified task for a unit
+     conducting zone or area reconnaissance. Reconnaissance platoons can reconnoiter only one route at a time;
+     therefore, the number of reconnaissance platoons available directly influences the number of routes that can
+     be covered at one time. Integrating ground, air, and other technical assets assures a faster and more detailed
+     route reconnaissance.
+
+     2-18. Reconnaissance elements will reconnoiter the route out to the direct-fire range of the threat, focusing
+     on key terrain that threat elements can use to influence the route. Determining trafficability of a route requires
+     the reconnaissance element to determine the capability or extent to which the terrain will bear traffic or permit
+     continued movement of a force. A thorough ground reconnaissance is required for developing detailed
+     information on the route. Modern roadway features are often difficult to evaluate quickly in the process of
+     route reconnaissance. Unless directed, the reconnaissance element does not conduct a deliberate route
+     classification. In some cases, the reconnaissance element may be reinforced with an ERT to perform that
+     mission. In other cases, the element may identify key features for follow-on engineer units to classify or to
+     clear. If enemy contact is expected, fire support should be readily available. If CBRN contamination is
+     expected, CBRN reconnaissance assets should accompany the force conducting ground reconnaissance.
+     When time is limited, air reconnaissance (manned and unmanned) can be used to cue ground reconnaissance
+     elements on where to focus their efforts.
+
+     2-19. Control measures for a route reconnaissance create focus. (See figure 2-1.) The commander places
+     lateral boundaries on both sides of the route. These boundaries are far enough out to allow the reconnaissance
+     of all terrain from which the threat could dominate the route. An LD that is perpendicular to the route is
+     placed short of the SP. This allows adequate space for the unit conducting the reconnaissance to deploy into
+     formation before reaching the SP. The LD creates one of the boundaries of the AO. A limit of advance (LOA)
+     is placed far enough beyond the route RP to include terrain from which the threat could dominate the route.
+     Normally, coordination points or contact points are included to enable proper flank coordination. If air
+     reconnaissance is employed, an air LOA is normally established to provide greater depth and to take
+     advantage of the aircraft elevated observation platform and long-range acquisition capability. The SP and RP
+     define that section of the route on which the unit collects detailed information. Phase lines and checkpoints
+     are added to maintain coordinated reconnaissance, to control movement, or to designate critical points.
+     Additional fire distribution measures and fire support coordination measures are included to coordinate
+     indirect and direct fires, as necessary. All of these graphic control measures are placed along or on
+     recognizable terrain features and, if possible, are identifiable from the ground and the air to assist in air-
+     ground coordination.
+
+2-4  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+              Engineer Support to Information Collection/Intelligence, Surveillance, and Reconnaissance
+
+              Legend:  line of departure
+              LD       limit of advance
+              LOA      named area of interest
+              NAI      phase line
+              PL       release point
+              RP       start point
+              SP
+
+              Figure 2-1. Route reconnaissance graphic control measures
+
+2-20. Certain tasks are accomplished during route reconnaissance unless the commander specifically directs
+otherwise. Tasks may include the following:
+
+        Reconnoiter and determine trafficability of the route.
+        Find and report threat elements that can influence movement along the route.
+        Reconnoiter routes approaching and inside urban areas.
+        Reconnoiter lateral routes.
+        Inspect and classify bridges and roads along the route.
+        Inspect overpasses, underpasses, tunnels, and culverts.
+        Reconnoiter defiles along the route.
+        Locate obstacles and other restrictions to mobility along the route.
+
+1 March 2016           ATP 3-34.81/MCWP 3-17.4                           2-5
+
+
+---
+
+Chapter 2
+
+              Locate bypasses around built-up areas, obstacles, and contaminated areas.
+              Update route information.
+
+Zone Reconnaissance
+
+     2-21. Zone reconnaissance is the directed effort to obtain detailed information concerning threat, terrain,
+     society, and infrastructure according to the commander’s reconnaissance focus within a location delineated
+     by LD, lateral boundaries, and LOA. A zone reconnaissance is assigned when the threat situation is vague or
+     when information concerning cross-country trafficability is desired. It is appropriate when previous
+     knowledge of the terrain is limited or when combat operations have altered the terrain. Critical terrain features
+     or points of interest are designated as checkpoints. The reconnaissance may be threat-oriented, terrain-
+     oriented, society-oriented, infrastructure-oriented, or a combination. Additionally, the commander may focus
+     the reconnaissance effort on a specific force (such as the threat reserve). A terrain-focused zone
+     reconnaissance must include the identification of obstacles (existing and reinforcing) and areas of CBRN
+     contamination.
+
+     2-22. Zone reconnaissance takes more time to execute than other reconnaissance missions do because the
+     target area is larger and the information requirements usually generate many unanswered questions. If the
+     time available is not adequate, the reconnaissance leader seeks additional time, reinforcements, or systems
+     to assist in the reconnaissance effort. If necessary, the reconnaissance leader may accelerate the
+     reconnaissance effort and accept a degree of risk by reducing the number of critical tasks to be accomplished.
+
+     2-23. A zone reconnaissance is organized with subordinate elements operating abreast of one another within
+     a portion of the zone as designated by graphic control measures. (See figure 2-2.) Fire support coordination
+     measures are included, as needed. If the BCT/RCT commander expects significant threat forces to be found
+     within the zone, consider attaching armored, mechanized, or aviation forces to the reconnaissance element
+     to deal with the anticipated threat. If it is likely that the reconnaissance elements will encounter significant
+     obstacles or other mobility impediments, the commander may provide combat engineer augmentation. If the
+     zone reconnaissance will be outside the supporting range of the BCT/RCT, additional fire support elements
+     may be task-organized to move with the reconnaissance element.
+
+     2-24. Zone reconnaissance is a deliberate, time-consuming process; therefore, it must be focused. The
+     reconnaissance force must accomplish certain critical tasks unless the BCT/RCT commander specifically
+     directs otherwise. The tasks associated with zone reconnaissance include:
+
+              Threat. Find and report threat forces within the zone.
+              Society.
+
+                   Determine the size, location, composition of the populace within the zone and applicable
+                        social demographics.
+
+                   Establish and maintain contact with local civilian and military leadership.
+              Infrastructure.
+
+                   Identify critical infrastructure that can affect military operations.
+                   Inspect and evaluate lines of communication.
+                   Locate and determine the extent of the engineer resources (soil, gravel, lumber) available
+
+                        within the zone.
+              Terrain.
+
+                   Locate obstacles; neutralize or mark lanes as specified in the operation order.
+                   Locate and determine the extent of contaminated areas, including CBRN.
+                   Reconnoiter and determine trafficability, including urban areas.
+                   Locate bypasses around urban areas, obstacles, and contaminated areas.
+                   Provide obstacle information and recommendations for breaching or bypassing.
+                   Locate fords or crossing sites near bridges within the zone.
+
+2-6  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+              Engineer Support to Information Collection/Intelligence, Surveillance, and Reconnaissance
+
+              Legend:  cavalry
+              CAV      line of departure
+              LD       limit of advance
+              LOA      named area of interest
+              NAI      November
+              NOV      phase line
+              PL       task force
+              TF       team
+              TM
+
+              Figure 2-2. Zone reconnaissance graphic control measures
+
+Area Reconnaissance
+
+     2-25. An area reconnaissance is a directed effort to obtain detailed information concerning threat, terrain,
+     society, and infrastructure according to the commander’s reconnaissance focus for a prescribed area. The
+     tasks accomplished as part of an area reconnaissance are the same as those for a zone reconnaissance, only
+     the scale of the reconnaissance is different. The objective in an area reconnaissance is substantially smaller
+     than the terrain reconnoitered in a zone reconnaissance. These objectives may be a small village or town,
+     critical infrastructure (water treatment plants, weapon storage sites, political headquarters), or other sites of
+     tactical importance (a suspected assembly area, a cache site, an airport). The reconnaissance element in the
+     BCT/RCT can conduct decentralized reconnaissance in multiple areas simultaneously, by maneuvering
+     elements through the areas or by establishing stationary observation posts within or external to them.
+
+     2-26. Forces conducting an area reconnaissance are organized according to the size, geography, physical
+     infrastructure, and social dynamics of the area to be reconnoitered and the time available for conducting the
+     reconnaissance. The forces may be required to reconnoiter one large area or several smaller ones. In many
+     cases, areas to be reconnoitered are assigned to platoon-size teams. A company- or troop-size team may be
+
+1 March 2016           ATP 3-34.81/MCWP 3-17.4                          2-7
+
+
+---
+
+Chapter 2
+
+     committed to a larger area. Focused reconnaissance capabilities (engineer, CBRN) may augment one or more
+     of the primary reconnaissance elements, as required and available. Area reconnaissance proceeds faster than
+     zone reconnaissance because the effort is focused on a relatively smaller, specific piece of terrain or threat
+     force.
+
+     2-27. The area for an area reconnaissance is delineated with a single continuous line enclosing the area to be
+     reconnoitered, and the area should be designated as an AO. If the AO is a large or complex urban area, it may
+     also be delineated by marking lateral boundaries, LD, and LOA (similar to a zone reconnaissance). The
+     graphic control measures for an area reconnaissance should always include the routes to and within the AO.
+     (See figure 2-3.)
+
+     Legend:  area of operations
+     AO       line of departure
+     LD       limit of advance
+     LOA      November
+     NOV      phase line
+     PL
+
+     Figure 2-3. Area reconnaissance graphic control measures
+
+2-8           ATP 3-34.81/MCWP 3-17.4                          1 March 2016
+
+
+---
+
+                                                 Chapter 3
+
+                        Reconnaissance Support
+
+         Reconnaissance support is guided by the same overall mission of the reconnaissance
+         element. ERTs take the basic form of a route, area, or zone reconnaissance and use
+         techniques that are compatible with the supported force. ERTs conduct zone, area, and
+         route reconnaissance with a reconnaissance focus linked directly to answering the
+         information requirements, but with a specified additional focus on the required
+         technical information. This chapter focuses on reconnaissance support to of the five
+         functions of mobility, support of obstacle integration and turnover in countermobility,
+         support to fighting and other protective positions, and support to other tactical missions
+         performed by the BCT/RCT.
+
+SUPPORT TO MOBILITY
+
+     3-1. Mobility is essential to achieving decisive results across the range of military operations. The
+     operational environment will present numerous challenges to movement and maneuver. These are typically
+     overcome through the integration of mobility and countermobility in support of mission requirements.
+     Reconnaissance facilitates mobility through the following tasks:
+
+              Conduct breaching.
+              Conduct clearing (areas and routes).
+              Conduct gap crossing.
+              Construct and maintain combat roads and trails.
+              Construct and maintain forward airfields and landing zones.
+              Conduct traffic management and enforcement. (See ATP 3-39.10 for traffic management and
+
+                  enforcement.)
+
+     3-2. The primary focus of the ERT is collecting technical information in support of mobility. This can
+     include—
+
+              Conducting route, zone, or area reconnaissance to determine trafficability.
+              Detecting the location and boundaries of obstacles.
+
+OBSTACLE RECONNAISSANCE
+
+     3-3. Where enemy obstacles can interfere with friendly maneuver, obstacle information is one of the
+     information requirements that should become a priority intelligence requirement. Finding enemy obstacles
+     or observing enemy activity to construct reinforcing obstacles validates and refines the S-2 picture of the AO.
+     Obstacle information helps the S-2 to determine enemy intentions, plans, and defense strength. The engineer
+     staff is the unit expert on enemy countermobility capabilities and assists the S-2 in templating enemy
+     obstacles, analyzing obstacle information, and analyzing the effects of the terrain. The S-2, S-3, and engineer
+     staff establish an obstacle information collection plan by determining specific obstacle information
+     requirements. Obtaining obstacle information requires dedicated collection assets. Reconnaissance assets are
+     tasked to collect specific information that is needed to fulfill obstacle information requirements.
+
+     3-4. Obstacle reconnaissance is one of the high-frequency tasks conducted by ERTs. The task is to conduct
+     reconnaissance of obstacles focused on answering obstacle information requirements. These requirements
+     include—
+
+              Obstacle location, length, width, and depth.
+              Obstacle composition (wire, mines by type).
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  3-1
+
+
+---
+
+Chapter 3
+
+              Soil conditions.
+              Lane and bypass locations.
+              Enemy direct-fire systems locations.
+
+     3-5. An ERT moves with scouts or a patrol to conduct dismounted reconnaissance of locations that contain
+     confirmed or doctrinally templated obstacles. The purpose of the reconnaissance is to locate the obstacle and
+     determine how best to overcome the effects of the obstacle (reduction or bypass). The following tasks may
+     be associated with the reconnaissance:
+
+              Locating and marking a bypass.
+              Locating and marking the best location to reduce.
+              Estimating the reduction assets necessary to reduce the obstacle.
+
+     3-6. Although an ERT may have a limited capability to clear or reduce small obstacles that are not covered
+     by fire or observation, ERTs engaged in a reconnaissance mission and tasked to collect obstacle information
+     are generally not used to reduce obstacles during the reconnaissance mission. Inadvertent detonation during
+     reduction may compromise engineers and scouts, defeating the reconnaissance mission. It may also
+     compromise the entire attack. If a decision is made to breach an obstacle, the ERT can typically provide
+     guides to the breach forces for subsequent breaching.
+
+     3-7. The ERT approaches a known or suspected obstacle location with caution. Security is established, with
+     support from the tactical reconnaissance element if possible, and selected engineer personnel conduct
+     dismounted movement to the obstacle. Trip wires and other wires may indicate that the enemy is using booby
+     traps or command-detonated mines to prevent friendly forces from collecting information on the obstacle.
+     The ERT prepares an obstacle report with the relevant information. Examples of obstacle information
+     collected through obstacle reconnaissance include the—
+
+              Location of existing and reinforcing obstacles.
+              Orientation and depth of obstacles.
+              Conditions of the soil (in the case of a minefield) to determine the ability to use mine plows.
+              Presence, location, and type of wire.
+              Location of lanes and bypasses.
+              Composition of explosive hazards, including minefields (buried or surface-laid antivehicle and
+
+                  antipersonnel mines, antihandling devices, and the depth of the buried mines).
+              Types of mines and fuses; composition of the minefield.
+              Location of enemy indirect-fire systems that can fire into the breach area.
+              Composition of complex obstacles.
+              Areas between successive obstacle belts.
+
+     3-8. The ERT forwards an obstacle report to the supported unit main command post and its parent unit
+     when possible. In the digital environment, information requirements remain the same; however, the means
+     by which the ERT collects data and retransmits it back to the maneuver main command post has changed.
+     Information obtained about the terrain, terrain features, and obstacles can now be digitally transmitted to the
+     maneuver main command post to facilitate BCT/RCT force mobility. Information collected can be digitally
+     transmitted in near real or real time.
+
+     3-9. After collecting the information, the scout platoon or ERT leader analyzes the situation and the mission
+     variables to select a course of action. Once the scouts and ERTs have determined the best course of action
+     for a situation, they execute it or recommend it to higher headquarters for approval. Generally, the
+     reconnaissance team executes a particular course of action without specific approval if it is addressed in the
+     operation order received from higher headquarters or if it is in the unit standard operating procedure (SOP).
+     If the situation encountered is not covered by previous guidance, the reconnaissance team determines the best
+     course of action and recommends it to the commander before execution. The four courses of action are—
+
+              Use a bypass.
+              Neutralize the obstacle.
+              Support a breach.
+              Continue the mission.
+
+3-2  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                             Reconnaissance Support
+
+3-10. Using a bypass is the preferred method when it offers a quick, easy, and tactically sound means of
+avoiding the obstacle and a likely enemy engagement area. A good bypass must allow an entire force to avoid
+the primary obstacle without risking further exposure to enemy fire and without diverting the force from the
+objective. Bypassing conserves reduction assets and maintains the momentum. If a reconnaissance team
+locates a bypass and the commander approves its use, scouts and engineers must mark it according to the
+supported unit tactical SOP and report its location to the commander. At a minimum, this report should
+include the grid location to the far recognition marker and information on how the obstacle is marked to
+confirm that the bypass is marked according to the SOP. If the reconnaissance team is tasked to mark a
+bypass, the team must emplace markers so that they are not visible to the enemy. Engineers and scouts may
+be required to provide guides for the main body, especially if the bypass is difficult to locate or if visibility
+conditions are poor.
+
+3-11. Bypassing is not always possible; breaching may be the best or only solution. The following situations
+are examples:
+
+        The obstacle is integrated into a prepared defensive position, and the only available bypass moves
+             friendly forces into an ambush.
+
+        The reconnaissance mission specifically tasks the reconnaissance team to clear the original route
+             for follow-on forces.
+
+        The best available bypass route does not allow follow-on forces to maintain the desired rate of
+             movement or it diverts the force from the objective.
+
+        Improvements to the bypass may require more time and assets than breaching the primary
+             obstacles.
+
+3-12. Reducing an obstacle significantly degrades the ability to maintain the momentum of the
+reconnaissance or follow-on forces. Obstacles that the scout and ERT are able to reduce include small surface
+laid minefields, simple wire obstacles, small roadblocks, and similar obstacles. The supported commander
+should make the decision to have the reconnaissance team reduce an obstacle while considering the risk to
+the reconnaissance team and the potential for prematurely identifying the route for use by friendly forces
+during an impending attack. Obstacle reduction should not be attempted if the obstacle is part of an integrated
+defensive position.
+
+3-13. When a large obstacle is located and cannot be bypassed easily, the alternative is to support a breach.
+Scouts and engineers perform additional reconnaissance tasks in support of breaching. These tasks include
+determining the assets and time needed to reduce the obstacle and determining the best location for the
+reduction site. Scout and engineer reconnaissance efforts focus on the following:
+
+        Trafficable routes to the reduction site and routes from the far side leading to the objective.
+        Proposed locations for positioning the support force.
+        Dispersed, covered, and concealed areas near the reduction site.
+        Best location for the reduction effort at the obstacle. It is imperative that the reduction plan be sent
+
+             to the reconnaissance teams once the scheme of maneuver is finalized. Information (number of
+             lanes required, distance between lanes) is needed for the reconnaissance forces to conduct the
+             necessary reconnaissance.
+        Positions on both sides of the obstacle that could provide enemy observation of the reduction site.
+        Trafficability and soil conditions near the reduction site. This is especially important for minefield
+             reduction because mine-clearing blades will not work effectively in all soil conditions.
+        Soil type (loamy, rocky, sandy).
+        Width, depth, and bottom conditions of wet and dry gaps and fords.
+        Bank height and slope and the soil stability of wet and dry gaps.
+        Water velocity and the direction of flow of wet gaps and fords.
+        Wind direction for using smoke to obscure enemy vision.
+        Location of the forward edge of the minefield to support mine-clearing line charge use.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  3-3
+
+
+---
+
+Chapter 3
+
+CLEARING
+
+     3-14. Clearing is conducted to neutralize explosive hazards and other obstacles from a route or area. As with
+     most mobility support activities, clearing is often conducted by a combined arms organization built around
+     an engineer-based clearing force.
+
+     3-15. Each clearing team will produce a comprehensive, detailed report that identifies the location of the
+     obstacles encountered and cleared. (See ATTP 3-90.4/MCWP 3-17.8 for more information on reporting
+     cleared obstacles.)
+
+GAP CROSSING
+
+     3-16. Ground combat formations engaged in offensive and defensive operations must be able to cross wet or
+     dry gaps in existing road networks or natural high-speed avenues of approach. Very few lines of
+     communications will exist without some form of bridge, bypass, or detour. Maneuver forces and logistical
+     support depend on three types of bridging—
+
+              Tactical.
+              Support.
+              Line of communications.
+
+     3-17. Combined arms operations conducted by ground combat forces (BCT/RCT) primarily focus on seizing
+     and exploiting available bridges (existing or permanent) or employing tactical and support bridges. Tactical
+     bridging is typically linked to combat engineer units that provide close, immediate support of combined arms
+     ground maneuver. (See ATTP 3-90.4/MCWP 3-17.8 for on additional information on bridging as a
+     component of combined arms gap crossing.)
+
+     3-18. Engineer units support gap crossing through construction, repair, and reinforcement of bridges; by
+     providing bridge reconnaissance and classification; and by the construction of bypasses and detours. The
+     specific mission undertaken is planned in a manner that maintains the momentum of the force. Bypasses and
+     fording sites can be used to overcome obstacles when it is more feasible or when bridges are not available.
+     Existing bridges may need to be repaired or reinforced to keep main supply routes and lines of
+     communications open. As the tactical situation changes, main supply routes are moved or improved to
+     support the force. Forward elements may demand that organic tactical bridges be replaced by more permanent
+     line of communications bridges and those tactical bridging assets be returned to continue the attack. Tactical
+     bridges are also not designed for the long duration use that are typical for main supply routes and will need
+     to be replaced by line of communication bridges. Requirements for engineer units to employ tactical, support,
+     and line of communications bridging continue throughout the fight.
+
+     3-19. Engineer unit planners use geospatial products and support to improve situational understanding (to
+     include terrain) and select optimal bridging sites. Geospatial products helpful for planning can include high-
+     resolution satellite imagery and UAS video pictures of terrain. Geospatial specialists employ software to
+     assist mission planning by determining soil conditions, hydrology, vegetation types, general weather patterns,
+     and other useful aspects of the terrain. This allows planners to determine conditions in areas at or adjacent to
+     potential gap-crossing sites and develop more detailed plans.
+
+     3-20. During the performance of route and area reconnaissance, ERTs focus on existing structures (including
+     bridges) while gathering information on trafficability. The ERTs inspect each bridge to determine its load-
+     carrying capacity (classification) and assess its structural integrity. The ERTs determine whether the situation
+     warrants emplacing tactical, support, or line of communications bridge assets. When a damaged bridge
+     requires replacement, ERT reporting provides information regarding the serviceability of the in-place
+     structural members and availability of local materials that may be reused in other construction. To maximize
+     the effectiveness (capacity) of available tactical, support, and line of communications bridge assets, engineer
+     units will use existing roads, abutments, piers, and spans if they are serviceable. Additional information
+     related to bridge classification, technical assessment, and reporting can be found in appendix D, appendix C,
+     and appendix B.
+
+     3-21. Bridge reconnaissance is classified as hasty or deliberate, depending on the amount of detail required,
+     time available, and security in the AO. ERTs typically conduct the hasty reconnaissance while augmented
+     ERTs, assessment, or survey teams are tasked to conduct the deliberate reconnaissance. A deliberate
+
+3-4        ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                                   Reconnaissance Support
+
+     reconnaissance is usually conducted in support of main supply routes and lines of communications bridging
+     since greater traffic requirements dictate that time and reachback to certified professional engineers (U.S.
+     Army Corps of Engineers, Naval Facilities Engineering Command) be made available to support the task.
+     An engineer light dive team can assist with the deliberate reconnaissance by providing near shore and far
+     shore crossing site data. Additionally, they can mark and prepare landing sites, riverbanks, and exit routes
+     for the crossing force. A deliberate reconnaissance includes a thorough structural analysis; a report on
+     approaches to the bridge site; a report on the nature of the crossing site, abutments, intermediate supports,
+     and bridge structure; repair and demolition information; and the possibility of alternate crossing sites.
+
+     3-22. When structures are inadequate or do not exist, ERTs conduct area reconnaissance to collect data that
+     identifies terrain that is more suitable or conditions more favorable for new construction. ERTs use the
+     assessment tools and procedures to provide the required technical focus for other gap-crossing sites. Using
+     the results of reconnaissance, planners can determine which type of bridge or bridge combinations are right
+     for the mission based on available resources. The location ultimately chosen for the bridge is determined by
+     numerous factors that are reflected in its structural design. Primary screening considerations include—
+
+              Access and approach roads. Determine if the preexisting roads are adequate. The time to
+                  construct approaches can be a controlling factor in determining if a crossing site is feasible.
+                  Approaches should be straight, with two lanes, and less than a 6-percent slope.
+
+              Width. Determine the width of the gap to be spanned at normal and flood stage for wet gaps.
+              Banks. Estimate the character and shape of the banks accurately enough to establish abutment
+
+                  positions. The banks should be firm and level to limit the need for extensive grading. Select
+                  straight reaches to avoid scour.
+              Flow characteristics. Determine the stream velocity and erosion data, taking into consideration
+                  the rise and fall of the water. A good site has steady current that runs parallel to the bank at less
+                  than 3 feet per second.
+              Stream bottom. Record the characteristics of the bottom. This will help in determining the type
+                  of supports and footings required. An actual soil sample is useful in the planning process,
+                  particularly in wide gaps that may require an intermediate pier.
+              Elevation. Determine and record accurate cross-section dimensions of the site for determining the
+                  bridge height. Planners must also know of existing structures that the bridge must cross over.
+              Materials. Determine the accessibility of material for improving bank conditions (rock, gravel,
+                  and other expedient construction materials).
+
+COMBAT ROADS AND TRAILS
+
+     3-23. The maneuver commander may require that a new or upgraded route be constructed to facilitate
+     mobility and support a scheme of maneuver or movement within an AO. An entirely new section of road
+     may need to be constructed, for example, to bypass a known obstacle (natural or man-made). This may
+     include the bypass of a densely populated location. The maneuver commander may also order an unusable
+     road upgraded or a trail created to permit the passage of forces. This combat construction could be a stand-
+     alone mission to open or reopen a necessary route, or it may be part of a larger mobility (a river crossing that
+     may require access and egress roads). Construction and maintenance of combat roads and trails is a tactical
+     task to enhance maneuver. Road improvements executed by horizontal construction units to improve lines of
+     communications are typically characterized as general engineering. Combat roads and trails include a
+     requirement for a combination of route and area reconnaissance to gather the required technical information.
+
+     3-24. Thorough reconnaissance is essential in the selection of combat roads or trails. It normally starts with
+     a study of available maps and aerial photos. Aerial reconnaissance provides valuable information; however,
+     detailed information is only obtained by ground reconnaissance.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  3-5
+
+
+---
+
+Chapter 3
+
+     3-25. The types of reconnaissance and applicability to combat roads and trails include—
+              Route reconnaissance. A route reconnaissance is one of the three forms of tactical
+                  reconnaissance. It should not be confused with a route classification, which can be included as
+                  part of the route reconnaissance or a road reconnaissance (a technical component of the route
+                  classification).
+              Route classification. A route classification is assigned to a route using the conditions of minimum
+                  width and worst route type; lowest MLC for bridge, raft, or culvert; and obstructions to traffic
+                  flow. Executing a route classification is executed as hasty or deliberate. Reconnaissance collects
+                  information about roads, bridges, tunnels, fords, waterways, and other natural terrain features that
+                  may affect the desired traffic flow. Information obtained in a hasty route classification may be
+                  adequately recorded on a simple sketch or overlay. An overlay is produced. The overlay is
+                  accompanied by forms that describe the route, its components, and pertinent terrain features in
+                  detail using specifically designed report formats found in appendix B.
+              Road reconnaissance. ERTs conduct road reconnaissance as a component of route classification,
+                  while assessment teams conduct road reconnaissance as the primary focus of technical
+                  reconnaissance support. The ERTs are primarily interested in the road as it affects route
+                  trafficability. The assessment team is interested in the engineering details of the road to support
+                  its upgrade or repair. Road reconnaissance is defined on DD Form 3010, Road Reconnaissance
+                  Report, and it is included in appendix B.
+              Area reconnaissance. New road construction is avoided when possible to save time and labor.
+                  When a new road is necessary, the first step is area reconnaissance. This requires a specific type
+                  of area reconnaissance in which all possible route layouts are included to ensure selection of the
+                  best route. Its main objective is to locate a new road or trail in an area that will hold up under
+                  anticipated traffic and meets mission requirements.
+
+     3-26. ERTs conduct route reconnaissance to determine trafficability of the selected route and its components.
+     Typically, a route classification is included as a specified task for the ERT as part of an assigned route
+     reconnaissance. The route classification describes the traffic-bearing capabilities and condition of the
+     selected route and supports the decisions on the improvements needed before a route can carry the proposed
+     traffic. The way in which route reconnaissance is performed depends on the amount of detail required, the
+     time available, the terrain problems encountered, and the tactical situation. Hasty route classification
+     determines the immediate military trafficability of a specified route. It is limited to critical terrain data
+     necessary for route classification. The results are part of the mobility input to the common operational picture.
+     Information concerning the route is updated with additional reports as required by the situation and the
+     commander’s guidance. A deliberate route classification (including road, bridge, tunnel, and other technical
+     components) is conducted when sufficient time and qualified technical personnel are available. Deliberate
+     route classification is usually conducted when operational requirements are anticipated to cause heavy,
+     protracted use of the road and may follow the conduct of a hasty route reconnaissance.
+
+     3-27. The ERT is briefed as to the anticipated traffic (wheeled, tracked, or a combination) and the anticipated
+     traffic flow. Single flow traffic allows a column of vehicles to proceed while individual oncoming or
+     overtaking vehicles pass at predetermined points. Double flow traffic allows two columns of vehicles to
+     proceed simultaneously in the same or in opposite directions. The ERT may also be asked to determine the
+     grade, alignment, horizontal and vertical curve characteristics, and the nature and location of obstructions.
+     Obstructions are defined as anything that reduces the road classification below what is required to support
+     the proposed traffic efficiently. Obstructions include—
+
+              Restricted lateral clearance, including traveled way width (bridges, built-up areas, rock falls, slide
+                  areas, tunnels, wooded areas).
+
+              Restricted overhead clearance (overpasses, bridges, tunnels, wooded areas, built-up areas).
+              Sharp curves.
+              Excessive gradients.
+              Poor drainage.
+              Snow blockage.
+              Unstable foundation.
+              Rough surface conditions.
+
+3-6  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                                   Reconnaissance Support
+
+     3-28. Other obstacles include CBRN contamination, roadblocks, craters, explosive hazards, cultural sites,
+     and environmental restrictions. Existing bridge condition requires special attention as they may be
+     deteriorated and be the limited factor of a route. Reachback may be necessary for correct classification of
+     existing bridges. It may be necessary to conduct a bridge reconnaissance and classification computations.
+
+     3-29. Information collected can be digitally transmitted in near real or real time via the digital reconnaissance
+     system. When available, an automated route reconnaissance kit (ARRK) can provide engineer units with an
+     automated reconnaissance package that allows the reconnaissance element to collect and process
+     reconnaissance information. Use of the ARRK assists the ERT by tracking location, speed, curve, and slope
+     of roads and obstacles encountered along the route. The ARRK is described in detail in appendix E.
+
+     3-30. ERTs conduct area reconnaissance when shortfalls are identified and the need to move or maneuver
+     cannot be supported by the existing road or trail network. With their understanding of force mobility
+     requirements in the forward area, the ERT can quickly evaluate the terrain for possible cross-country
+     movement. The ERT can also evaluate and collect preliminary information on sites that may be suitable for
+     construction of combat roads and trails. Typically, the decision to construct combat roads or trails can be
+     made with the technical information collected in the area reconnaissance. In the event that a new, more
+     durable road (semipermanent) is required, an assessment or survey team will typically conduct specific site
+     investigations to collect the detailed technical information required for planning a road network. Site
+     investigation requires a thorough knowledge of soils engineering, hydrology, and technical design
+     requirements. A detailed site investigation will serve as the foundation behind the design of a new road and
+     the upgrade, repair, and maintenance of an existing road.
+
+     3-31. Periodic reconnaissance is especially important when conducting missions in regions subject to
+     extremes that may have a detrimental effect on combat roads and trails. During winter months in cold
+     environments, this includes the possibility of snow roads for off-route traffic or ice roads across lakes and
+     streams. Maintenance requirements based on periodic reconnaissance (to include basic snow removal) must
+     be coordinated with the units using the roads. This ensures that the engineer maintenance effort will not be
+     spent on roads that are no longer needed and that engineer crews will not interfere with the movement of
+     critical convoys.
+
+FORWARD AVIATION COMBAT ENGINEERING
+
+     3-32. To accomplish the mission and meet the operational requirements of the combined arms team, airfields
+     and heliports are seized and improved or tactical (expedient) facilities are constructed and maintained when
+     similar facilities do not exist or they are unavailable or unsuitable. Forward aviation combat engineering
+     (FACE) prepares or repairs landing zones, forward arming and refueling points, landing strips, or other
+     aviation support sites in the forward combat area. All other airfield and heliport construction is considered
+     general engineering tasks. (See ATTP 3-90.4/MCWP 3-17.8.)
+
+     3-33. Airfields and heliports are classified by the degree of permanence, type, and quantity of aircraft they
+     are designed to support. The design of airfields and heliports accommodates performance characteristics for
+     each supported aircraft. It also addresses the need to safely control aircraft movement while on airfield
+     surfaces and during arrivals and departures. This is especially important when different types of aircraft (fixed
+     wing, rotary wing, tilt rotor) must operate from the same airfield. To incorporate this operational
+     consideration, airfields and heliports are divided into different classes. Each class is matched to a single or
+     multiple types of controlling aircraft. Airfield classification criteria and types are listed in UFC 3-260-01. A
+     controlling aircraft or combination of controlling aircraft has been designated for each category to establish
+     limiting airfield, geometric, and surface strength requirements.
+
+     3-34. A bare base airfield is a site with a usable runway, taxiway, parking area, and source of water that can
+     be made potable. It must be capable of supporting assigned aircraft and providing other mission-essential
+     resources (such as logistical support and services infrastructure composed of people, facilities, equipment,
+     and supplies). Depending on the level of airfield services and condition of infrastructure available at a bare
+     base airfield, additional modular, mobile facilities, utilities, and support equipment packages may be
+     deployed and rapidly installed.
+
+     3-35. The ERT conducts area reconnaissance to collect the technical information required to support FACE.
+     This information can also provide the preliminary level information for planning follow-on assessments,
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  3-7
+
+
+---
+
+Chapter 3
+
+     general engineering airfield support, and a survey if necessary. The ERT focuses on collecting the minimum
+     information required for the intended use of the facility. The ERT employs the appropriate components of
+     the full airfield assessment to understand the information required by the FACE mission. Additional technical
+     expertise can augment the ERT when the information required exceeds the ERT organic level of expertise.
+     The focus of reconnaissance in support of FACE may include the following:
+
+              Site drainage system structure.
+              Design and condition of runways, taxiways, and hardstands.
+              Availability of soils and other materials and their usefulness for improving subgrade.
+              Type and thickness of the base course.
+              Type and thickness of the surface course.
+              Information on related facilities (access and service roads; ammunition and petroleum, oils, and
+
+                  lubricants storage areas; navigation aids; maintenance aprons; warm-up aprons; corrosion control
+                  facilities; control towers; airfield lighting; security fencing).
+              Environmental considerations, to include applicable force health protection intelligence.
+
+SUPPORT TO COUNTERMOBILITY
+
+     3-36. Countermobility involves constructing reinforcing obstacles integrated with fires to inhibit the
+     maneuver of an enemy force, increase the time for target acquisition, and increase the effectiveness of
+     friendly force weapons. Commanders apply countermobility considerations throughout the planning process.
+     They are integrated within the concept of operations, fire support planning, and scheme of maneuver. An
+     ERT can be employed to conduct route and area reconnaissance to confirm the significance of existing natural
+     obstacles and guide site selection for emplacement of reinforcing obstacles. Other countermobility planning
+     factors to be considered include obstacle turnover, protection, and tracking. (See ATP 3-90.8/MCWP
+     3-17.5 for additional information on combined arms countermobility.)
+
+OBSTACLE PLACEMENT
+
+     3-37. Terrain analysis is used to identify areas suitable for obstacles. Area reconnaissance is used to
+     determine the exact location of individual obstacles based on the enemy force (target), desired location of
+     massed fires, tentative weapon system positions, and the intended effect (disrupt, fix, turn, or block). An area
+     reconnaissance is conducted to verify that individual obstacles are covered by fires, note locations of fire
+     control measures and obstacles, and record the appropriate data on range cards. (See
+     ATP 3-90.8/MCWP 3-17.5 for a detailed discussion on obstacle integration and siting of obstacles.)
+
+     3-38. Terrain analysis is also used to identify areas suitable for situational obstacles. Reconnaissance is used
+     to determine the best location on the ground for a situational obstacle based on the enemy force (target),
+     desired location of integrated fires, tentative decision point, and the intended effect (disrupt, fix, turn, or
+     block). Area reconnaissance is conducted to verify that selected locations are suitable for scatterable mines
+     or other situational obstacles.
+
+     3-39. The integrated obstacle plan may include the use of demolition obstacles with other types of obstacles.
+     Demolition obstacle planning requires detailed technical information to design the demolition attack and
+     estimate the resources necessary. The ERT conducts area reconnaissance to collect specific technical
+     information for planning the demolition of selected targets. The ERT is given the information available on
+     the selected target, and they must understand the demolition objective. This information helps the ERT to
+     determine the best method of destroying the target and to estimate the preparation time required. For example,
+     if the reconnaissance party knows that manpower and time are limited but explosives are plentiful, they may
+     design demolitions that require fewer personnel, less time, and large quantities of explosives. The ERT
+     conducts reconnaissance of the target and collects and reports the following information on DA Form 2203,
+     Demolition Reconnaissance Record:
+
+              Target location and nature of the target.
+              Proposed demolition classification (reserved or preliminary).
+              Preferable firing system type (dual or single).
+              Economy of effort (whether the demolition must be completed in one stage or multiple stages).
+
+3-8  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                                   Reconnaissance Support
+
+              Utility of the target during demolition (whether the target must remain open to traffic during
+                  demolition preparations).
+
+              Time allowed or expected between preparation and execution of the demolition.
+              Time allowed for changing the state of readiness (safe to armed).
+              Labor and equipment available for preparing the demolitions.
+              Type and quantity of explosives.
+
+MAINTAIN OBSTACLE INTEGRATION
+
+     3-40. The ERTs conduct area reconnaissance periodically to ensure emplaced obstacles remain integrated
+     into the scheme of maneuver. The task includes turnover and transfer, protection, repair, and tracking of
+     obstacles. Obstacle protection includes counter-reconnaissance to prevent the enemy from gathering obstacle
+     information and enemy mobility asset destruction to ensure maximum effectiveness of obstacles. Obstacle
+     tracking includes supervising the achievement of key milestones (Class IV and V forward, engagement area
+     development initiated, siting completed, collation and dissemination of obstacle information, maintenance of
+     records) as part of the unit timeline.
+
+SUPPORT TO SURVIVABILITY
+
+     3-41. Survivability provides cover and mitigates the effects of enemy weapons on personnel, equipment, and
+     supplies while simultaneously deceiving the enemy regarding the intentions of the force. Survivability ranges
+     from employing camouflage, concealment, and decoys to the hardening of facilities, command and control
+     nodes, and critical infrastructure. Engineers participate in and provide staff advice on—
+
+              Survivability and decoy measures.
+              Hardening of facilities to resist the destruction of command and control facilities (as part of
+
+                  integrated plans).
+              Air and missile defense weapons systems.
+              Support structures within the communications zone.
+
+     3-42. Within a missile threat environment, engineers provide field fortification support to harden key assets
+     against missile attacks. Protection includes survivability engineering applications to host nation facilities and
+     U.S.-operated facilities as protective measures for U.S. forces or national interests. Survivability also includes
+     providing concealment and protective shelter from the effects of enemy weapons. The ERT conducts area
+     reconnaissance to collect the technical information required to plan survivability operations. (See
+     ATP 3-37.34/MCWP 3-17.6 for additional information on survivability.)
+
+SUPPORT TO OTHER ENVIRONMENTS AND ACTIVITIES
+
+     3-43. The ERTs conduct zone, area, and route reconnaissance with a reconnaissance focus linked directly to
+     answering the commander’s critical information requirements, but with a specified additional focus on the
+     required technical information. While the basic principles associated with engineer reconnaissance support
+     is similar in support of M/CM/S, there are specific considerations that apply only to certain other types of
+     operations. This section provides considerations for tactical engineer reconnaissance support to complex
+     terrain, urban terrain, jungle terrain, mountainous terrain, desert terrain, and cold region terrain.
+
+COMPLEX TERRAIN
+
+     3-44. The ERTs support tactical reconnaissance in urban terrain with route, area, and zone reconnaissance
+     integrated closely with tactical reconnaissance elements. In urban terrain, the preferred means of employment
+     is to task-organize ERTs directly to maneuver battalion or squadron scouts or cavalry squadron troops to
+     augment those units during tactical reconnaissance operations. Engineers teamed directly with dedicated
+     reconnaissance assets add required technical skills to the team, which can increase the tempo and
+     effectiveness of the reconnaissance mission. The ERT must be familiar with planning considerations unique
+     to the urban environment. This discussion focuses on the following elements of planning for urban
+     reconnaissance:
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  3-9
+
+
+---
+
+Chapter 3
+
+              Collect and analyze existing intelligence.
+              Determine reconnaissance and surveillance objectives. (See FM 3-90-2 and ATTP 3-06.11.)
+              Plan infiltration and exfiltration routes.
+              Synchronize aerial and ground reconnaissance plans.
+              Develop communications and sustainment plans.
+              Coordinate for support.
+              Continue to improve the urban sketch.
+
+Collect and Analyze Existing Intelligence
+
+     3-45. The reconnaissance element conducts collaborative planning with the BCT/RCT. Reconnaissance
+     elements collect information to allow the BCT/RCT commander to gain an understanding of the AO and
+     select the most advantageous course of action. Because of its complex nature, urban terrain requires time for
+     development of situational understanding. Human intelligence and signal intelligence will be major
+     contributors of the required information. However, time requirements for locating sources and corroborating
+     information must be taken into consideration.
+
+     3-46. Reconnaissance focuses efforts on collecting information about the urban area that supports the
+     BCT/RCT commander’s designated course of action. This information may be directly linked to the
+     commander’s critical information requirements or may support triggers established in the course of action
+     (targeting lethal and nonlethal effects).
+
+     3-47. The development and dissemination of standardized urban mapping products can enhance the success
+     of urban reconnaissance. Most commonly, these products are based on aerial photographic products from
+     UAS reconnaissance overflights or satellite imagery. Using digital systems, these products can be enhanced
+     with graphic overlays showing unit and element sectors; building numbering systems; and key buildings,
+     sites, and terrain features. The products can then be distributed through hard copy reproduction or digital
+     broadcasting. When tactically and technically feasible, units should gain access to city planner or civil
+     engineer maps, which will provide detailed information on the urban area.
+
+     3-48. The urban terrain sketches will include a reference system to identify buildings and streets. Naming
+     conventions should be simple, allowing ease of navigation and orientation in the urban environment (for
+     example, odd-numbered buildings on the left side of streets, even numbers on the right). Street names should
+     not be used as references; signs can be missing or changed to confuse friendly forces. (See appendix F.)
+
+     3-49. Units conduct initial map or aerial photograph reconnaissance to pinpoint key terrain and other
+     important locations that can be identified in the AO. These areas include the following:
+
+              Safe havens.
+                   Hospitals.
+                   Police stations.
+                   Embassies.
+                   Other (friendly) facilities.
+
+              Hazardous areas.
+                   Construction sites.
+                   Industrial areas.
+                   Dangerous intersections.
+                   Bridges.
+                   Criminal areas.
+
+3-10  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                                   Reconnaissance Support
+
+              Major terrain features.
+                   Historical, cultural, or religious sites.
+                   Parks.
+                   Airports and train stations.
+
+Plan Infiltration and Exfiltration Routes
+
+     3-50. When tactically feasible, tactical reconnaissance elements enter the urban area using infiltration
+     techniques that allow orientation on the reconnaissance objective without having to engage the threat or fight
+     through prepared defenses. Elements will infiltrate to establish urban observation posts and conduct
+     surveillance or target acquisition on NAIs or targeted areas of interest. Because reconnaissance teams may
+     be required to remain during BCT/RCT operations, these elements must carefully select positions for them
+     and exfiltration routes if they are to leave the area during the conduct of the operation. A general rule of
+     thumb is to exfiltrate on routes different from those used for infiltration. Parent or controlling units must also
+     develop a plan to support the infiltrated teams.
+
+Synchronize Aerial and Ground Reconnaissance Plans
+
+     3-51. In urban terrain, it is most effective to task-organize UAS assets to the lowest possible level. This will
+     allow the company and troop commanders on the scene to control the employment of UAS assets and keep
+     its use synchronized with reconnaissance operations. If the BCT/RCT chooses to maintain control of the
+     UAS assets, it must ensure that the employment of the UAS supports the actions of the tactical reconnaissance
+     elements and that these elements have direct access to the information being collected.
+
+Develop Communication and Sustainment Plans
+
+     3-52. Communications in the urban environment require detailed planning that will allow units freedom of
+     movement while maintaining control of elements dispersed within the urban environment. To communicate
+     effectively and continuously, leaders must minimize limitations imposed by the urban environment and
+     maximize the advantages of existing civil communications. Tactical reconnaissance elements must plan for
+     redundant communications because of the limiting effects of urban terrain.
+
+     3-53. To ensure effective communications, the staff must identify terrain along the approach route and in the
+     urban AO that supports line-of-sight communications. They coordinate to establish retransmission sites on
+     supporting terrain or structures to facilitate the unit communication plan during the unit initial entry into the
+     urban area.
+
+     3-54. In developing a sustainment plan to support the urban reconnaissance, the staff should identify
+     potential logistics RPs that can be secured by limited forces. Stadiums, warehouse facilities in industrial
+     transportation areas, and schools in dispersed residential areas are examples of possible logistics RPs. If the
+     reconnaissance elements are tasked to conduct sustained operations or transition to stability operations,
+     logistics RPs can be expanded into logistical sites or operating bases. Because of security considerations and
+     the limited support vehicles and supplies available, casualty evacuation and vehicle recovery are the main
+     logistical functions that should occur within the urban area.
+
+Coordinate for Fire Support
+
+     3-55. From the ground unit perspective, helicopters are most effective when they operate under the
+     operational control of the ground unit commander closest to the threat; therefore, company and troop
+     commanders and platoon leaders must be proficient in directing attack helicopter fires. Because ground
+     reconnaissance leaders can direct the efforts of only a few aircraft at a time, it may be more effective for the
+     aviation unit to retain control of its individual aircraft. They then operate by continuously rotating attack
+     helicopter elements into the battle area where they then coordinate their attacks with the ground commander’s
+     maneuver.
+
+     3-56. The staff must consider numerous factors when coordinating and planning targets that will support in
+     an urban environment. The most likely mission that must be planned entails identifying targets to support
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  3-11
+
+
+---
+
+Chapter 3
+
+     disengagement from unexpected or overwhelming contact. Examples of fire support considerations for urban
+     terrain include the following:
+
+              Do the rules of engagement support the use of lethal fires within the urban area?
+              Who controls each fire support asset?
+              Has the fire plan been exchanged with adjacent units?
+              Has the observer plan been developed, including observation posts in buildings, location of laser
+
+                  designators, and overwatch of trigger points?
+              Have locations of hazardous sites been identified? This includes above- and below-ground sites
+
+                  (fuel and industrial storage tanks, gas distribution lines) and other areas where incendiary effects
+                  of detonating artillery and mortar rounds could start structure fires.
+              Has the general construction or composition of buildings and road surfaces been identified? This
+                  may affect the type of munitions used.
+              Where do buildings, overhead power lines, or towers mask or degrade global positioning system
+                  devices and compasses?
+              Will obscurants and illumination favor friendly or threat units?
+              Will buildings or structures require fire support personnel to carry or use equipment not normally
+                  on hand (field expedient antennas, climbing ropes, wire gloves, axes, sledgehammers)?
+              What are the requirements for radar coverage? Should radar zones be established? If so, where
+                  and how long?
+
+     3-57. The use of conventional and precision guided munitions must be carefully considered. The biggest
+     consideration for using precision guided munitions is that some sort of laser or infrared designator equipment
+     must be available. In the event these assets are not available, augmentation may be required from the
+     BCT/RCT.
+
+     3-58. Reconnaissance elements may be supported by a variety of attack helicopters. The increased risk of
+     small arms, rocket propelled grenade, and man-portable air defense system engagements means aviation
+     forces normally support urban operations by operating away from built-up areas. If the risk analysis
+     determines that the payoff is higher than the risk, aviation forces can be employed in and around the urban
+     area. The most common missions assigned to attack helicopters in urban operations are the following:
+
+              Reconnaissance.
+              Security of friendly locations.
+              Isolation of urban objectives.
+              Precision engagement of hardened point targets.
+              Interdiction and destruction of threat armored vehicles moving against friendly forces.
+
+     3-59. Aviation assets may also be called on to perform nontraditional roles in urban terrain. This is
+     particularly true during stability in urban areas. Additional missions may include—
+
+              Providing a limited relay of radio messages from isolated ground units.
+              Videotaping or photographing routes or objectives for later analysis by ground commanders.
+              Assisting, for limited periods, in the control and coordination of fires with the maneuver of ground
+
+                  forces.
+              Marking or identifying specific buildings and areas by smoke, fires, or targeting lasers.
+              Providing navigational and directional assistance to ground units.
+              Providing countersniper and countermortar armed reconnaissance patrols around friendly unit
+
+                  locations.
+
+     3-60. Reconnaissance elements may be supported by a variety of assault or lift helicopters. These assets can
+     be crucial for the flexible and responsive movement of troops and supplies. The most common missions
+     assigned to assault or lift helicopters in the urban environment are—
+
+              Air assault.
+              Medical evacuation.
+              Air movement of troops and supplies.
+
+3-12  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                                   Reconnaissance Support
+
+              Emplacement of logistics RPs.
+              Control of ground forces (airborne command post).
+              Noncombatant evacuation operations.
+              Electronic warfare.
+              Combat search and rescue. (Marines perform tactical recovery of aircraft and personnel vice
+
+                  combat search and rescue.)
+              Emplacement of volcano mines.
+
+     3-61. The need to deliver hovering fires from a temporary battle position may require the aircraft to carry
+     less than a full load of munitions or fuel. This is especially true in hot climates and high altitudes. Reduced
+     loads mean more frequent trips to forward arming and refueling points and less time on station. Long route
+     distances during air movements may require the establishment of forward arming and refueling points along
+     the route before missions. Climate will also affect the number of troops or amount of supplies the aircraft can
+     transport.
+
+Improving the Urban Sketch
+
+     3-62. Because individual vehicles and sections execute urban reconnaissance, personnel must have an
+     understanding of the sketch and reference system. Sketches are critical to visualize unit locations with detail
+     and in obtaining precise location updates throughout the mission.
+
+     3-63. The staff confirms and updates urban sketches during planning and execution of urban operations and
+     continues to add more detail throughout the operation. Specifically, reconnaissance elements assess entry
+     routes that the BCT/RCT could use in support of operations. Because most maps do not provide the necessary
+     level of detail to meet these important operational considerations, selected reconnaissance elements will
+     usually have to create overlays to enhance situational understanding. Included with the sketches are overlays
+     that categorize sections of the urban area by ethnicity, religious affiliation, and other prevailing characteristics
+     that could affect operations. The consolidated sketches and overlays are used to create an urban map with
+     overlays for the BCT/RCT.
+
+URBAN TERRAIN (SUBTERRANEAN)
+
+     3-64. This section discusses reconnaissance to collect information on the use of tunnels, natural caves, or
+     underground facilities by enemy forces. Caves and underground facilities can be used for command and
+     control centers, logistics staging areas, hospitals, or fortifications. The larger underground facilities can be
+     quite complex. They can be wired for electricity and communications and can have pumping stations for
+     supplying air to lower levels. Caves can have many large chambers connected by passageways. Also, tunnel
+     systems can have many large rooms joined by interconnecting tunnels. Search operations include a specified
+     target, whereas the reconnaissance objective is to collect specified information. Search team organization and
+     the reconnaissance team organization may differ significantly as well.
+
+             Note. This section should not be confused with the discussion on reconnaissance of tunnels on
+             routes.
+
+Tunnel Uses
+
+     3-65. Tunnels can be dug with zigzags and sumps to reduce the effects of small-arms fire, explosives, and
+     gas. Some tunnels, rooms, passageways, or chambers can contain concealed exits to allow an enemy to hide
+     or escape if the complex or cave is penetrated. Other tunnels can be booby-trapped to kill intruders. Tunnels
+     and caves are hard to detect from the air or ground. Their construction can make them impossible to destroy
+     with conventional ammunition. Tunnels can also be dug in the basement of safe houses for use as escape
+     routes if a house is compromised. Tunnel entrances are normally covered by fire from another point in the
+     complex.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  3-13
+
+
+---
+
+Chapter 3
+
+     3-66. An enemy can use tunnels in penetration operations to gain access to restricted areas. In built-up areas,
+     the enemy can infiltrate through sewers or tunnel to its target from the basement of a nearby building, subway
+     tunnel, or sewer. When an enemy is below the target, it can build an exit and penetrate the target from below
+     or fill the tunnel with explosives and destroy the target.
+
+     3-67. Tunnels are used for approach and escape, for access to caves and underground bunkers, for firing
+     positions, and for protection against indirect fires. They are also used as a common method for storing food
+     and materials in underground caches. If large enough, some tunnel complexes can house underground
+     hospitals and base camps.
+
+Tunnel Detection
+
+     3-68. The first step in detecting or locating tunnels is to reduce a large geographical area of interest to a
+     smaller area of interest or a smaller area of probable locations. This can be accomplished by studying
+     indications of probable tunnel locations. Some indicators that tunnels are being employed by insurgent forces
+     include—
+
+              Movement of insurgents in a specific direction after being spotted by aircraft.
+              Sniper fire occurring from areas where there are no obvious avenues of withdrawal.
+              Vegetable gardens far from places of habitation.
+              Operations where insurgents inflict casualties at relatively long range and disappear without
+
+                  making close contact or being detected by friendly forces.
+              The smell of burning wood or food cooking in an area lacking habitation.
+
+     3-69. Conventional aerial photography produces results if the appearance of the surface and vegetation is
+     changed from the normal. This requires skilled personnel to interpret photographs. In a jungle environment,
+     aerial photography may be prohibited since dense vegetation (such as double or triple canopy jungle)
+     obscures the ground.
+
+     3-70. Once it is determined that a certain area may contain a tunnel system, several indicators can be helpful
+     in detecting tunnels. Visual inspections often disclose the general area of a tunnel but not the precise location.
+     The key to finding a tunnel system is applying common sense to the situation. A platoon, company, or troop
+     should be assigned a small search area (never larger than a 1,000-meter grid square). These small areas are
+     chosen based on intelligence reports or on past actions of the enemy force. The unit searches every square
+     meter of the area. Some visual indicators usually found include—
+
+              Worn places on trees that were used as handholds.
+              A small trail (much like a game trail) through brush into a clump of small trees.
+              Cut trees (not a sure indicator).
+              Limbs tied near the treetop to conceal the use of a tunnel from aircraft.
+              A slight depression in or around a group of small trees.
+              Air holes (sure indicators).
+              A lone individual, mainly a female, in the area.
+              Freshly cooked food with no one attending the site.
+              Fresh human feces in the area.
+
+     3-71. These are all good indicators; however, they can vary depending on the area. The places to look for
+     indicators are in the corners of hedgerows, trails, and streams. The enemy often hides in these places to see
+     without being seen. Also, hiding in these places allows those who finished the camouflage to escape
+     undetected. The insurgents are aware of the danger of setting a pattern; however, they must have a location
+     that provides observation and concealment. Soldiers and Marines should look for observation posts that allow
+     the insurgent to move into or out of an area undetected.
+
+     3-72. Sometimes, the exact location of a tunnel can be obtained by questioning the local populace or
+     prisoners who may have occupied or helped dig the system. Due to compartmentalization, they may not be
+     able to locate an entrance or exit unless they have seen or used the completed tunnel.
+
+3-14  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                                   Reconnaissance Support
+
+Tunnel Reconnaissance
+
+     3-73. Entering an area where a tunnel complex is located requires a methodical approach. Security to the
+     flanks and rear is imperative. The size of the objective AO determines the strength of the unit assigned the
+     search mission. The unit, company, or platoon is task-organized for tunnel operations. Elements include the
+     following:
+
+              Security element (plus headquarters element to cordon search area).
+              Search element (to search the immediate area for tunnels). The search element is subdivided into
+
+                  search and security teams.
+              Reserve element (to assist in cordon and reinforce as needed).
+
+     3-74. The techniques of a deliberate search are centered on the rifle squad. Each squad is divided into a
+     security and a search team. A slow methodical search is conducted in the AO. Once assigned a search area,
+     the squad systematically searches every square meter. The security element moves toward the limits of the
+     search area. Once a tunnel is discovered, the security element surrounds the area while the search team
+     prepares to destroy or neutralize the tunnel.
+
+     3-75. The reconnaissance element may require the following special items to perform tunnel operations:
+              Mine detectors. Mine detectors are used to detect ammunition and weapon caches.
+              Grenades. Grenades are fragmentary, smoke, white phosphorus, and concussion types. Grenades
+                  should not be used after friendly forces have entered a tunnel.
+              Demolitions. Demolitions are used to destroy tunnel systems. Due to the complexity of charges
+                  needed to destroy some tunnel complexes, an engineer team should support the search unit. Also,
+                  the large amount of demolitions required for some operations can present unique logistics
+                  problems, mainly in a jungle environment. (See ATTP 3-06.11 for additional information on the
+                  urban environment.)
+              Air generator. An air generator is used to force smoke into a tunnel complex.
+              Flashlights. Flashlights are used to search tunnels.
+              Weapons. Pistols should be used inside tunnels. The pistol has good stopping power and is
+                  effective at close range.
+              Loudspeaker. A loudspeaker is used to call the enemy from tunnels.
+
+     3-76. Tactical reconnaissance will require engineer support in all types of terrain and climate. The
+     advantages and disadvantages of each environment are considered in the planning and conduct of ERT
+     operations. The ERTs conduct route, zone, and area reconnaissance in jungles, mountainous areas, deserts,
+     and cold regions; the ERTs employ specialized knowledge, skills, techniques, and equipment for each of
+     these areas. This section presents characteristics of four environments that affect tactical engineer
+     reconnaissance support and the associated considerations.
+
+JUNGLE TERRAIN
+
+     3-77. Jungles are humid, tropic areas with a dense growth of trees and vegetation. Typically, visibility is less
+     than 100 feet, and areas are sparsely populated. Mounted infantry and armor units are limited in jungle areas.
+     Jungle vegetation provides excellent concealment from air and ground observation. Vegetation does not
+     provide adequate cover from small caliber direct-fire and artillery indirect-fire fragments. Adequate cover is
+     available using the natural ravines and gullies produced by erosion from the high annual rainfall in the area.
+     Few natural or locally procurable materials are available in jungle areas. Other considerations are high water
+     tables, dense undergrowth, and tree roots (often requiring aboveground level protective construction).
+
+     3-78. The focus of engineer reconnaissance support in jungle terrain is influenced by the engineer tasks
+     typically conducted. The following discussion highlights common mobility/countermobility/survivability
+     tasks requiring engineer reconnaissance in jungle terrain.
+
+     3-79. The construction and maintenance of roads, tracks, and trails are the initial means of improving
+     mobility. Heavy rainfall, the clearance of vegetation, drainage, and the movement of equipment and materials
+     all combine to make this a long and painstaking task. Once constructed, routes will need regular maintenance.
+     Landing sites and drop zones will also need to be constructed to enhance the ability to move troops and stores
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  3-15
+
+
+---
+
+Chapter 3
+
+     by air transport and helicopters. However, with training and advice, other nonengineer troops should also be
+     able to take on some of these tasks. Crossing obstacles (such as large rivers) may require engineer advice,
+     support and, possibly, equipment; but once suitable material for the construction of boats, rafts, and small
+     bridges has been provided, other troops will often be able to complete the task. Bridging of obstacles to allow
+     vehicle passage normally requires special equipment, and it should remain an engineer task. Minefields in
+     the jungle are likely to be of the nuisance or protective variety, and they will remain an engineer task for
+     clearance. Engineers may also be required to reduce enemy defensive positions and clear explosive hazards.
+
+     3-80. The main countermobility tasks for engineers will be to block roads, tracks, and trails; employ mines
+     and booby traps (where rules of engagement permit); and carry out demolitions. Blocking roads, tracks, and
+     trails is always particularly effective to provide opportunities for counteraction (ambush, air strike).
+     Countermobility tasks may also assist in developing a deception plan if it is coordinated at the highest
+     appropriate level.
+
+     3-81. Engineers may be required to construct defensive positions, field fortification (including artillery gun
+     positions), and protective locations for combat supplies. Engineers will have a large variety of other tasks
+     and commitments that will demand their advice and attention. In the early stages of a deployment, engineers
+     are most likely to be concerned with establishing a secure base.
+
+MOUNTAINOUS TERRAIN
+
+     3-82. Characteristics of mountain ranges include rugged and poorly trafficable terrain, steep slopes, and
+     altitudes greater than 1,600 feet. Irregular mountain terrain provides numerous places for cover and
+     concealment. Because of rocky ground, it is difficult and often impossible to dig below ground positions;
+     therefore, boulders and loose rocks are used in aboveground construction. Construction materials used for
+     structural and shielding components are most often indigenous rocks, boulders, and rocky soil. Often, rock
+     formations are used as structural wall components without modification. Conventional tools are inadequate
+     for preparing individual and crew-served weapons fighting positions in rocky terrain. Engineers assist with
+     light equipment and tools (such as pneumatic jackhammers). These tools are delivered to mountain areas by
+     helicopter. Explosives and demolitions are used extensively for positions requiring rock and boulder removal.
+
+     3-83. The focus of engineer reconnaissance support in mountainous terrain is influenced by the engineer
+     tasks typically conducted. (See FM 3-97.6 for additional information on mountainous terrain.)
+
+     3-84. Mobility support is likely to be the major task, particularly the construction, improvement, and
+     maintenance of routes. Main supply routes may be vulnerable, particularly where they run through defiles.
+     The provision of drainage and bridging is likely to be required because of the large number of mountain
+     streams and their susceptibility to flash flooding. New bridges may be required to cross streams, replace weak
+     bridges, and cross gorges. Constructing new routes is likely to involve major engineering work, especially
+     excavation and fill. Because of the shortage of routes and restricted access, the following mobility tasks will
+     also assume particular significance:
+
+              Clearing obstacles.
+              Constructing passing and parking areas.
+              Clearing snow.
+              Constructing helicopter landing sites.
+              Supporting tasks related to resupply by air.
+
+     3-85. As routes are restricted, the effect of obstacles will be greatly enhanced. Blocking roads and passes,
+     destroying tunnels, and laying mines are particularly effective in rugged terrain. Care must be taken not to
+     restrict the movement of friendly forces. All obstacles may have to be coordinated at a higher formation level
+     than for normal operations.
+
+     3-86. Digging in may be difficult even when using explosive means. It is likely that defensive positions will
+     largely be based on raised fortifications. The construction of defensive positions remains an all arms/branches
+     responsibility, but engineers may be called upon to provide advice and enhanced engineer capabilities to
+     support their efforts. Some measure of tunneling may even be required. Irregular mountain terrain provides
+     many opportunities for cover and concealment. Light engineer equipment transported by helicopters can
+
+3-16  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                                   Reconnaissance Support
+
+     provide valuable assistance in protecting maneuver units. There may also be the need to construct support
+     bases for indirect-fire weapons.
+
+     3-87. Other common engineer tasks may include—
+              Constructing and operating aerial ropeways.
+              Constructing logistic facilities.
+              Supporting antihelicopter measures.
+              Supporting remote signals sites.
+              Supporting surveying.
+
+DESERT TERRAIN
+
+     3-88. Deserts are extensive, arid, and treeless. Deserts have a severe lack of rainfall and extreme daily
+     temperature fluctuations. The terrain is sandy with boulder-strewn areas, mountains, dunes, deeply eroded
+     valleys, areas of rock and shale, and salt marshes. Effective natural barriers are found in steep slope rock
+     formations. Wadis and other dried up drainage features are used extensively for protective position
+     placement. Camouflage, concealment, and light and noise discipline are important considerations in desert
+     terrain. Target acquisition and observation are relatively easy in desert terrain. (See FM 90-3 for additional
+     information on desert considerations.)
+
+     3-89. The focus of engineer reconnaissance support in desert terrain is influenced by the engineer tasks
+     typically conducted. The following discussion highlights common M/CM/S tasks in desert terrain.
+
+     3-90. The vastness of the desert makes mobility a prime concern. Cross-country mobility may be poor in
+     soft sand, rocky areas, and salt flats. Greater engineer reconnaissance effort will be needed to identify routes,
+     existing obstacles, and minefield locations. Engineer tasks may include—
+
+              Assisting maneuvers by reducing slopes, smoothing rock steps, and maintaining routes.
+              Providing dry-gap crossings, including those required to traverse oil pipelines.
+              Increasing weight-bearing capacity through soil stabilization to provide good roads or sites for
+
+                  aircraft landing strips or helicopter landing zones.
+              Employing dust abatement materials to support aircraft operations at landing strips and landing
+
+                  zones.
+              Obscuring enemy lines of sight during breaching.
+
+     3-91. To be of tactical value in the desert, a minefield must usually cover a relatively large area. Mechanical
+     and scatterable mines may be widely used in desert terrain. Scatterable mines may also be widely used. Since
+     there are often too many avenues of approach to be covered with mines, it is usually best to employ tactical
+     minefields to cover gaps between units, especially for night defense. Target-oriented obstacles may often be
+     the best choice to reduce enemy mobility. Terrain dependent obstacles may be extensive and must be used in
+     conjunction with each other and with any natural obstacles. All obstacles should support engagement areas.
+
+     3-92. Sand is effective in covering mines. However, shifting sand creates potential problems, such as
+     exposing the mines (causing malfunctions) or accumulating excessive sand (degrading performance).
+     Shifting sand can also cause mines to drift. Antitank ditches require extensive preparation time and may
+     require extensive maintenance. Caution must be exercised to prevent the ditch from identifying a defensive
+     front or flank and to deny their use as protection for enemy infantry.
+
+     3-93. Deserts provide little cover and concealment from ground-based observers and even less from aircraft.
+     Because of the lack of concealment, camouflage must often be used. Hull and turret defilade positions for
+     tactical vehicles may be important. Dispersion and frequent moves are other survivability techniques.
+     Preparation of fortifications in the desert is difficult. Sandy soil requires revetments, while rocky plains or
+     plateaus may be impossible to dig in. To counter this problem, emplacements are built up with rocks, and
+     depressions are used when possible. Hardening of facilities and nodes and upgrades to, or construction of,
+     forward landing strips and main supply routes are important in the desert.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  3-17
+
+
+---
+
+Chapter 3
+
+COLD REGION TERRAIN
+
+     3-94. Cold regions of the world are characterized by deep snow, permafrost, seasonally frozen ground, frozen
+     lakes and rivers, glaciers, and long periods of extremely cold temperatures. Digging in frozen or semifrozen
+     ground is difficult with equipment and virtually impossible for personnel using an entrenching tool. Fighting
+     and protective position construction in snow or frozen ground takes twice as long as positions in unfrozen
+     ground. Operations in cold regions are affected by wind and the possibility of thaw during warming periods.
+     An unexpected thaw causes a severe drop in the soil strength, which creates mud and drainage problems.
+     Positions near bodies of water (lakes, rivers) are carefully located to prevent flooding damage during the
+     spring melting season. Wind protection greatly decreases the effects of cold on personnel and equipment.
+     (See ATTP 3-97.11/MCRP 3-35.1D for additional information on arctic and cold regions.)
+
+SUPPORT TO OTHER RECONNAISSANCE TYPES
+
+     3-95. Generally, other types of engineer reconnaissance are intended to support a survey by technical
+     elements. The search, environmental assessment, and infrastructure assessment are usually linked to urban
+     locations, although not exclusively.
+
+SEARCH
+
+     3-96. The ERTs support military search by collecting technical information on the potential target of the
+     search. The information collected through route, zone, or area reconnaissance supports the planning and
+     targeting for subsequent search operations. While the ERT and search team are distinct and mission specific
+     organizations, the ERT can be augmented by a military search advisor to ensure that the information collected
+     is relevant to planned search operations. Each team has the potential to enable the other team.
+
+ENVIRONMENTAL ASSESSMENT
+
+     3-97. If the tactical situation permits, commanders conduct or direct an environmental baseline survey before
+     occupying the AO in conjunction with an environmental health site assessment. An environmental baseline
+     survey is typically performed by or with support from and centered on general engineer elements supported
+     by other technical specialties. An environmental health site assessment is performed by a team centered on
+     preventive medicine personnel and supported by other technical specialties. The ERTs may need to perform
+     an initial site assessment to gather information for an environmental baseline survey and the engineer portion
+     of the environmental health site assessment.
+
+INFRASTRUCTURE ASSESSMENT
+
+     3-98. The reconnaissance of infrastructure is accomplished in two stages (the infrastructure assessment and
+     the infrastructure survey). Since it is most likely that combat engineer units will be onsite first, an ERT can
+     be expected to conduct the initial assessment with the other technical expertise that is available in the unit
+     the ERT is supporting. The ERT uses a series of smartcards to determine the infrastructure capacity. The
+     initial infrastructure assessment will then be provided to a specialist in the field for the assessment area
+     evaluated. As operations mature, supporting technical elements will be available to provide teams who are
+     qualified to perform a comprehensive infrastructure survey. The infrastructure survey teams use the
+     infrastructure assessments that were prepared by the ERTs to prioritize the categories and parts of the
+     infrastructure that require reexamination during the infrastructure survey. The U.S. Army Corps of Engineers
+     and Naval Facilities Engineering Command will normally perform thorough assessments with field force
+     engineering assigned specialty designated teams.
+
+3-18  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                 Chapter 4
+
+       Technical Reconnaissance—Route Classification
+
+         The ERTs, engineer assessment teams, and survey teams collect technical information
+         to determine a route classification for specified routes. The classification is displayed
+         using a route classification format and route symbols on an overlay. Assessment and
+         survey teams employ a high degree of technical expertise, and the assessment and
+         survey teams are focused on detailed technical information required for design of
+         repairs or upgrades along the route. The capabilities in both cases overlap substantially,
+         and these capabilities could be conducted in phases. This chapter discusses the
+         technical information required for a route classification.
+
+ROUTE CLASSIFICATION
+
+     4-1. Route classification information is collected, assembled, and retained as supporting data for a graphical
+     representation. This data is also useful in planning and designing repairs and upgrades along the route. While
+     ERTs provide a degree of technical expertise in many route classification components, they operate as an
+     integrated part of an overall reconnaissance effort at the BCT/RCT level and below. The ERT would typically
+     conduct a route reconnaissance with a specified additional focus on collecting information required to assign
+     a classification. Technical augmentation to ERTs adds to the degree of technical expertise available to collect
+     information that is more detailed on specific route components, to include roadbeds, bridges, tunnels, and
+     other limiting factors of the route. An ERT will conduct an initial route reconnaissance to collect only the
+     technical information required to determine the overall classification of the route.
+
+     4-2. Route classification results from collecting detailed technical information on various components and
+     sections of a designated route. Route classification provides a graphical display of the load-carrying capacity
+     and number of vehicles that can travel the route over a period of time on a selected route. The designated
+     route components are reconnoitered, and a classification is determined. The resulting classification and the
+     graphical information from the classification components are displayed as a route classification overlay,
+     which may be included directly on the common operational picture. It is supplemented by the components
+     report documentation that is generated to determine the classification. A route classification may only include
+     the details about restrictions or limitations of the route or section of a route.
+
+     4-3. Hasty route reconnaissance includes only the essential facts about a route. Information is gathered as
+     quickly and safely as possible during a route reconnaissance. The ERTs are most likely employed to collect
+     technical information. The results of the reconnaissance may not provide the detailed information necessary
+     to determine a full route classification. The tempo of the reconnaissance element will dictate the tempo of
+     the ERT ability to gather sufficient technical information to classify the route. As the primary use of the route
+     shifts to sustainment, the reconnaissance focus may change to collecting the information necessary to assess
+     improvements along the route, but more likely, a supporting general engineer element will be tasked to
+     conduct the necessary assessment. During stability, detailed route classification and a broader selection of
+     the route components are performed to obtain in-depth information for upgrade or maintenance of, or along,
+     the route.
+
+     4-4. Routes are classified by obtaining pertinent information concerning trafficability and applying it to the
+     route classification format. The lowest rating from any section (road segment or restriction) of the route
+     constitutes the overall route classification. DD Form 3010; DD Form 3011, Bridge Reconnaissance Report;
+     DD Form 3012, Tunnel Reconnaissance Report; DD Form 3013, Ford Reconnaissance Report; and
+     DD Form 3014, Ferry Reconnaissance Report, help organize the reconnaissance information that is
+     collected. These forms are covered in detail in appendix B.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  4-1
+
+
+---
+
+Chapter 4
+
+ROUTE CLASSIFICATION OVERLAY
+
+     4-5. A route classification overlay graphically depicts the network of roads, bridge sites, and other
+     components of a route. The route components are reconnoitered and the data recorded as support
+     documentation for the complete route. A route classification overlay gives specific details on what
+     obstructions will slow down a convoy or maneuver force along a route. The following information is included
+     on the route classification overlay (see figure 4-1):
+
+              The route classification format.
+              The name and rank of the person in charge.
+              The unit conducting the classification.
+              The date-time group that the classification was conducted.
+              The map name, edition, and scale. Ensure that a North arrow and grid reference marks are
+
+                  indicated on the overlay.
+              The remarks necessary to ensure complete understanding of the information on the overlay.
+
+                  Include—
+                   A route name, when applicable.
+                   A legend for any nonstandard symbols used on the overlay.
+              The overlay classification (classified or unclassified).
+              The limits of the route reconnoitered (indicated by an open arrowhead on the side of the route).
+                  Route segments are labeled with an alphanumeric designation.
+
+BYPASSES
+
+     4-6. A bypass is a detour along a route that allows traffic to avoid an obstruction. Bypasses limited to
+     specific vehicle types (such as those capable of swimming or deep-water fording) are noted on the
+     reconnaissance report. Bypasses are classified as easy, difficult, or impossible. Use bypass easy when the
+     obstacle can be crossed in the immediate vicinity by a family of medium tactical vehicles without work to
+     improve the bypass. Use bypass difficult when the obstacle can be crossed in the immediate vicinity, but
+     some work to improve the bypass is necessary (the estimation of time, troops, and equipment necessary to
+     prepare the bypass is included on the reconnaissance report). Use bypass impossible when the obstacle can
+     be crossed only by repairing the existing bridge, constructing a new bridge or tunnel, or by constructing a
+     detour. Each type of bypass is represented symbolically on the arrow extending from the symbol to the map
+     location. (See appendix B for bypass symbols.)
+
+FORMAT
+
+     4-7. The route classification format is derived from information gathered during the route reconnaissance
+     and reconnaissance of key components of the route. The format is recorded on the route classification overlay
+     (see the route classification format in table 4-1, page 4-4). The format consists of the following:
+
+              (1) Traveled-way width (in meters).
+              (2) Route type.
+
+                   All weather (X).
+                   Limited, all weather (Y).
+                   Fair weather (Z).
+              (3) Lowest MLC.
+              (4) Lowest overhead clearance (in meters).
+              (5) Obstructions to traffic flow (OB).
+              (6) Seasonal conditions, such as snow blockage (T) or flooding (W), as required.
+
+4-2  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                  Technical Reconnaissance—Route Classification
+
+Note. Use this example format for the route classification format.
+(1) / (2) / (3) / (4) / (5) / (6)
+5.5 / Y / 30 / 4.6 / (OB) /(T or W)
+
+              Legend:       second lieutenant
+              2LT           battalion
+              bn            company
+              co            engineer
+              EN            gravel
+              G             June
+              Jun           obstructions to traffic flow
+              OB            pedestrian
+              P             social security number
+              SSN           vehicular
+              V             all weather
+              X             fair weather
+              Z
+                       Figure 4-1. Route classification overlay
+
+1 March 2016           ATP 3-34.81/MCWP 3-17.4                   4-3
+
+
+---
+
+Chapter 4
+
+                   Table 4-1. Examples of the route classification format
+
+Route Classification Format                  Description
+
+6.1/Z/40/∞                   A fair-weather route with a minimum traveled way of 6.1 meters and an MLC
+                             of 40. Overhead clearance is unlimited, and there are no obstructions to
+                             traffic flow. This route, based on its minimum traveled-way width,
+                             accommodates wheeled and tracked, single-flow traffic without obstructions.
+
+6.1/Z/40/∞/OB                A fair-weather route similar to the previous example except there is an
+                             obstruction. This obstruction could consist of overhead clearances of less
+                             than 4.3 meters, grades of 7% or greater, curves with a radius of 25 meters
+                             or less, fords, and ferries. A traveled way of 6.1 meters limits this route to
+                             one-way traffic without a width obstruction. If the route is used for double-
+                             flow traffic, then 6.1 meters of traveled way is considered an obstruction, and
+                             it is indicated in the format as an obstruction.
+
+7/Y/50/4.6/OB                A limited, all-weather route with a minimum traveled way of 7 meters, an
+                             MLC of 50, an overhead clearance of 4.6 meters, and an obstruction. This
+                             route width is not suitable for double-flow traffic (wheeled or tracked). This
+                             width constriction is indicated as OB in the route classification format if the
+                             route is used for double-flow traffic.
+
+10.5/X/120/∞/OB/W            An all-weather route with a minimum traveled-way width of 10.5 meters
+                             (suitable for two-way traffic of wheeled and tracked vehicles; an MLC of 120;
+                             unlimited overhead clearance; an obstruction; and regular, recurrent
+                             flooding.
+
+Legend:        military load classification
+MLC            obstruction
+OB             flooding
+W              all weather
+X              limited, all weather
+Y              fair weather
+Z
+
+(1) Traveled-Way Width
+
+     4-8. The traveled-way width is the narrowest width of traveled way on a route. (See figure 4-2 for additional
+     information.) This narrow width may be the width of a bridge, tunnel, road, underpass, or other constriction
+     that limits the traveled-way width. The number of lanes is determined by the traveled-way width. The lane
+     width normally required for wheeled vehicles is 3.5 meters and 4.0 meters for tracked vehicles.
+
+     4-9. According to the number of lanes, a road or route can be classified—
+              Limited access. Permits the passage of isolated vehicles of an appropriate width in one direction
+                  only.
+              Single lane. Permits passage in only one direction at any one time. Passing or movement in the
+                  opposite direction is impossible.
+              Single flow. Permits the passage of a column of vehicles and allows isolated vehicles to pass or
+                  travel in the opposite direction at predetermined points.
+              Double flow. Permits two columns of vehicles to proceed simultaneously. Such a route must be
+                  at least two lanes wide.
+
+4-4                                          ATP 3-34.81/MCWP 3-17.4       1 March 2016
+
+
+---
+
+              Technical Reconnaissance—Route Classification
+
+                           where—
+                           a = width of vehicle
+                           b = width of lane
+                           c = width of traveled way
+                           d = width of hard shoulder
+                           e = width of grading
+
+                                                  Figure 4-2. Route widths
+
+(2) Route Type
+
+     4-10. The route type is determined by the ability to withstand weather. It is determined by the worst section
+     of road on the entire route and is categorized as follows:
+
+              Type X. An all-weather route that, with reasonable maintenance, is passable throughout the year
+                  to a volume of traffic never appreciably less than its maximum capacity. This type of route is
+                  normally formed of roads having waterproof surfaces and being only slightly affected by rain,
+                  frost, thaw, or heat. This type of route is never closed because of weather effects other than snow
+                  or flood blockage.
+
+              Type Y. A limited, all-weather route that is passable throughout the year with reasonable
+                  maintenance, but at times has a volume of traffic considerably less than maximum capacity. This
+                  type of route usually consists of roads that do not have waterproof surfaces. The route is
+                  considerably affected by rain, frost, thaw, or heat. This type of route is closed for short periods
+                  (up to one day at a time) by adverse weather conditions during which heavy use of the road would
+                  probably lead to complete collapse.
+
+              Type Z. A fair-weather route is passable only in fair weather. This type of route is so seriously
+                  affected by adverse weather conditions that it may remain closed for long periods. Improvement
+                  of such a route can only be achieved by construction or realignment.
+
+(3) Lowest Military Load Classification
+
+     4-11. A route MLC is a weight load classification number that represents the safe load carrying capacity,
+     and it indicates the maximum vehicle class that can be accepted under normal conditions. Usually, the lowest
+     bridge MLC (regardless of the vehicle type or conditions of traffic flow) determines the route MLC. If there
+     is not a bridge on the route, the worst section of road will determine the overall classification of the route.
+
+     4-12. In cases where vehicles have a higher MLC than the route, an alternate route may be sought or an
+     additional reconnaissance of sections within the route may be necessary to determine whether a change in
+     traffic flow (such as single-flow crossing of a weak point) will permit heavier vehicles on the route. When
+     possible, ensure that the number of classes of traffic routes (by type) is included. This helps staff planners
+     manage traffic control along the routes. The entire network class is determined by the minimum load
+     classification of a road or a bridge within the network.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  4-5
+
+
+---
+
+Chapter 4
+
+     4-13. The broad categories are—
+             Class 50, average-traffic route.
+             Class 80, heavy-traffic route.
+             Class 120, very heavy-traffic route.
+
+(4) Lowest Overhead Clearance
+
+     4-14. The lowest overhead clearance is the vertical distance between the road surface and any overhead
+     obstacle that denies the use of the road to some vehicles. Use the infinity symbol for unlimited clearance in
+     the route classification format. Points along the route where the minimum overhead clearance is less than 4.3
+     meters are considered an obstruction.
+
+(5) Obstructions to Traffic Flow
+
+     4-15. Route obstructions restrict the type, amount, or speed of traffic flow. They are indicated in the route
+     classification format by the annotation OB. If an obstruction is encountered, its exact nature must be depicted
+     on the route classification overlay. Obstructions include—
+
+              Overhead obstructions, to include tunnels, underpasses, overhead wires, and overhanging
+                  buildings with a clearance of less than 4.3 meters.
+
+              Reductions in traveled-way widths that are below the standard minimums prescribed for the type
+                  of traffic flow. (See table 4-2.) This includes reductions caused by bridges, tunnels, craters, lanes
+                  through mined areas, projecting buildings, or rubble.
+
+              Slopes (gradients) of 7 percent or greater.
+              Curves with a radius of 25 meters and less. Curves with a radius of 25.1 to 45 meters are not
+
+                  considered an obstruction; however, they must be recorded on the route classification overlay.
+              Ferries.
+              Fords.
+
+                             Table 4-2. Traffic flow capability based on route width
+
+Wheeled           Limited Access         Single Lane        Single Flow        Double Flow
+                At least 3.5 meters  3.5 to 5.5 meters  5.5 to 7.3 meters  Over 7.3 meters
+Tracked or a
+combination of  At least 4.0 meters 4.0 to 6.0 meters   6.0 to 8.0 meters  Over 8 meters
+vehicles
+
+Seasonal Conditions
+
+     4-16. In cases where snow blockage is serious and blocks traffic on a regular and recurrent basis, the symbol
+     following the route classification format is T. In cases where flooding is serious and blocks traffic on a regular
+     and recurrent basis, the symbol following the route classification format is W.
+
+CURVE CALCULATIONS
+
+     4-17. The speed at which vehicles move along a route is affected by sharp curves. Curves with a radius of
+     25 meters or less are obstructions to traffic. These curves are indicated as obstructions on the route
+     classification format by the annotation OB, and they are identified on DD Form 3010. (See appendix B.)
+     Curves with a radius between 25.1 and 45 meters are recorded on the overlay, but they are not considered
+     obstructions.
+
+4-6                                  ATP 3-34.81/MCWP 3-17.4               1 March 2016
+
+
+---
+
+                                                                                Technical Reconnaissance—Route Classification
+
+MEASURING METHODS
+
+     4-18. There are three primary methods used to measure curves. Each of the following methods provide
+     adequate information about the curve:
+
+              Tape measure.
+              Triangulation.
+              Cord.
+
+Tape-Measure Method
+
+     4-19. A quick way to estimate the radius of a sharp curve is by using a tape measure to find the radius. (See
+     figure 4-3.) Imagine the outer edge of the curve as the outer edge of a circle. Find (estimate) the center of
+     this imaginary circle and then measure the radius using a tape measure. Start from the center of the circle and
+     measure to the outside edge of the curve. The length of the tape measure from the center of the imaginary
+     circle to its outer edge is the curve radius. This method is practical for curves located on relatively flat ground
+     and having a radius up to 15 meters.
+
+              Legend:    centerline
+                         point of curvature
+              ℄          point of tangency
+              PC
+              PT       Figure 4-3. Tape-measure method
+
+Triangulation Method
+
+     4-20. The approximate radius of a curve can be determined by laying out right triangles (Pythagorean
+     theorem) at the point of curvature and point of tangency locations. (See figure 4-4, page 4-8.) A right angle
+     is created by using a leg 3 feet, a leg 4 feet, and a leg 5 feet (or a proportional ratio of 3/4/5). The intersection
+     (o), which is formed by extending the legs of each triangle, represents the center of the circle. The distance
+     (R) from point (o) to point PC or PT represents the curve radius.
+
+1 March 2016           ATP 3-34.81/MCWP 3-17.4          4-7
+
+
+---
+
+Chapter 4
+
+           Legend:             intersection
+           0                   centerline
+           ℄                   point of curvature
+           PC                  point of tangency
+           PT                  radius
+           R
+                              Figure 4-4. Triangulation method
+
+Cord Method
+
+     4-21. The cord method can also be used to determine the curve radius. (See figure 4-5.) The cord method is
+     based on the formula below (all measurements are performed in meters):
+
+                                                                 𝑀𝑀2 + 𝐶𝐶2
+                                                           𝑅𝑅 = 2𝑀𝑀
+
+     where—
+     R = radius of the curve
+     C = distance from centerline of the road to the centerline of the road at the outer extremities of the curve
+     M = perpendicular distance from the center of the tape to the centerline of the road
+
+             Note. When conditions warrant, set the perpendicular distance at 2 meters from the centerline and
+             then measure the distance from the centerline at 2 meters. Use this method when there is a time
+             limitation or because natural or man-made restrictions prevent proper measurements.
+
+     4-22. For example, if the distance from the centerline of the road to the centerline of the road at the outer
+     extremities of the curve is 9 meters and the perpendicular distance from the center of the tape to the centerline
+     of the road is fixed at 2 meters—
+
+                                                                  92 + 22
+                                                            𝑅𝑅 = 2 × 2
+
+                                     85
+                              𝑅𝑅 = � 4 � = 21.25
+
+     where—
+     R = radius of the curve
+
+4-8                           ATP 3-34.81/MCWP 3-17.4           1 March 2016
+
+
+---
+
+              Technical Reconnaissance—Route Classification
+
+Legend:       distance from centerline of the road to the centerline of the road at the outer
+C             extremities of the curve
+              centerline
+℄             perpendicular distance from the center of the tape to the centerline of the road
+M             radius of the curve
+R
+                                Figure 4-5. Cord method
+
+4-23. The result of this calculation would be an obstruction to traffic flow. The obstruction (OB) is annotated
+in the route classification format.
+
+CURVE SYMBOL
+
+     4-24. Sharp curves with a radius of 45 meters or less are symbolically represented on maps or overlays by a
+     triangle that points to the exact map location of the curve. The measured value (in meters) for the radius of
+     curvature is written outside the triangle. (See figure 4-6.) All curves with a radius of 45 meters are reportable,
+     and are noted on DD Form 3010.
+
+                                           Figure 4-6. Curve symbols
+
+4-25. A series of sharp curves is represented by two triangles, one drawn inside the other. The series of sharp
+curves symbol is annotated when there is insufficient space on the graphic to annotate multiple
+representations. The outer triangle points to the location of the first curve. The number of curves and the
+radius of curvature for the sharpest curve of the series is written to the outside of the triangle. (See figure 4-6).
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                                                           4-9
+
+
+---
+
+Chapter 4
+
+SLOPE ESTIMATION
+
+     4-26. The rise and fall of the ground is known as the slope or gradient (grade). A slope of 7 percent or greater
+     affects movement speeds along a route, and it is considered an obstruction. The percent of slope is used to
+     describe the effect that inclines have on movement rates. The percent of slope is the ratio of the change in
+     elevation (the vertical distance to the horizontal ground distance) multiplied by 100. (See figure 4-7.) It is
+     important to express the vertical distance and the horizontal distance in the same unit of measure. Report
+     slopes greater than 5 percent on the route classification overlay.
+
+      where—   horizontal distance
+      Hd       vertical distance
+      Vd
+               meters
+      Legend:            Figure 4-7. Percent of slope format
+      m
+
+Percent of Slope
+
+     4-27. There are four general methods to determine the percent of slope:
+              Clinometer.
+              Map.
+              Pace.
+              Angle of slope.
+
+Clinometer Method
+
+     4-28. A clinometer is an instrument that directly measures the percent of slope. Clinometers are found in
+     engineer survey units, as part of an artillery compass, and integrated on some vehicles. The aim point for
+     vehicle-mounted clinometers must take into account the height of the clinometer off the ground to the point
+     of aim above the ground at the top of the slope.
+
+Map Method
+
+     4-29. Use a large-scale map (such as 1:50,000) to estimate the percent of slope quickly. After identifying
+     the slope on the map, find the difference in elevations between the top and bottom of the slope by reading
+     the elevation contours or spot elevation. Then, measure and convert the horizontal distance (usually road
+     distance) to the same unit of measurement as the elevation difference. Substitute the vertical and horizontal
+     distances in the percent-of-slope format and compute the percent of slope. (See figure 4-8.)
+
+Pace Method
+
+     4-30. The pace method is a quick way to estimate percent of slope. First, determine the height and pace for
+     each member of the reconnaissance team. As a rule of thumb, the eye level of the average person is
+     1.75 meters above the ground. The pace of the average person is 0.75 meter.
+
+4-10           ATP 3-34.81/MCWP 3-17.4                        1 March 2016
+
+
+---
+
+                                            Technical Reconnaissance—Route Classification
+
+              where—   horizontal distance
+              Hd       vertical distance
+              Vd
+                       meters
+              Legend:  training circular
+              m
+              TC
+
+              Figure 4-8. Map method to determine percent of slope
+
+4-31. Perform the following procedures for the pace method:
+        Stand at the bottom of the slope with your head and eyes level.
+        Sight a spot on the slope. This spot should be easily identifiable. If it is not, another member of
+             the team should go forward to mark the location.
+        Walk forward and stand on the marked spot. Record the number of paces. Repeat this procedure
+             until the top of the slope (estimate fractions of an eye level) is reached.
+
+1 March 2016           ATP 3-34.81/MCWP 3-17.4                      4-11
+
+
+---
+
+Chapter 4
+
+              Compute the vertical distance by multiplying the number of sightings by the eye-level height
+                  (1.75 meters). Compute the horizontal distance by totaling the number of paces and converting
+                  them to meters by multiplying by 0.75 (or the known pace-to-meter conversion factor).
+
+              Calculate the percent of slope by substituting the values into the percent-of-slope format. (See
+                  figure 4-9.) Because this method considers horizontal ground distance and incline distance as
+                  equal, reasonable accuracy can only be obtained for slopes less than 30 percent. This method
+                  requires practice to achieve acceptable accuracy. A line level and string can be used to train this
+                  method.
+
+      𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑜𝑜𝑜𝑜 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 (𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔) = �𝑉𝑉𝑑𝑑 � × 100 = �3.50� × 100 = 2.33% (𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔)
+                                𝐻𝐻𝑑𝑑  150
+
+      where—
+
+      Vd = vertical distance
+
+      Hd = horizontal distance
+
+      Legend:  meters
+      m
+
+      Figure 4-9. Pace method to determine percent of slope
+
+Angle-of-Slope Method
+
+     4-32. The angle-of-slope method is a quick way to estimate the percent of slope. The angle of slope is first
+     measured by using an elevation quadrant, an aiming circle, and an M2 compass or binoculars with a standard
+     reticle. If the instrument used to take the angle of measurement is mounted above ground level, the height
+     difference must be compensated for by sighting a corresponding, equal distance above the slope. The
+     corresponding distance is the distance the instrument is above the ground. Obtain the angle of measurement
+     at the base of the slope. (See figure 4-10.) Once angle of measurement is obtained, enter the column
+     corresponding to the measured angle or percent of the slope on table 4-3.
+
+4-12                            ATP 3-34.81/MCWP 3-17.4                                                1 March 2016
+
+
+---
+
+                                Technical Reconnaissance—Route Classification
+
+where—
+d = angle of slope
+d' = angle of sight
+
+      Figure 4-10. Angle-of-slope method to determine percent of slope
+
+              Table 4-3. Conversion of degrees and mils to percent of slope
+
+              Degrees of Slope  Mils of Slope  Percent of Slope
+                         1               18               1.7
+                         2               36               3.5
+                         3               53               5.2
+                         4               71               7.0
+                         5               89               8.7
+                        10
+                        15              175              17.6
+                        20              267              26.7
+                        25              356              36.4
+                        30              444              46.6
+                        35              533              57.7
+                        40              622              70.0
+                        45              711              83.9
+                        50              800            100.0
+                        55              889            108.7
+                        60              978            117.6
+                                     1,067             126.7
+
+Slope Symbols
+
+     4-33. Most vehicles negotiating slopes of 7 percent or greater for a significant distance will be slowed. Such
+     slope characteristics must be accurately reported. The symbols illustrated in figure 4-11, page 4-14, are used
+     to represent various slopes.
+
+1 March 2016                    ATP 3-34.81/MCWP 3-17.4                      4-13
+
+
+---
+
+Chapter 4
+
+                                        Figure 4-11. Percent-of-slope symbols
+
+     4-34. A single arrowhead along the trace of a route pointing in the uphill direction indicates a grade of at
+     least 5 percent, but less than 7 percent. Two arrowheads represent a grade of at least 7 percent, but less than
+     10 percent. Three arrowheads represent a grade of at least 10 percent, but less than 14 percent. Four
+     arrowheads represent a grade of 14 percent or more. A symbol is not required for slopes less than 5 percent.
+
+     4-35. The percent of slope is written to the right of the arrow. (See figure 4-11.) When the map scale permits,
+     the length of the arrow shaft will be drawn to map scale to represent the approximate length of the grade.
+
+             Note. Slopes of 7 percent or greater are obstructions to traffic flow and are indicated by OB on the
+             route classification format.
+
+CONSTRICTIONS
+
+     4-36. Constrictions are reduced traveled-way widths that may include narrow streets in built-up areas,
+     drainage ditches, embankments, and war damage. These constrictions may also limit vehicle movement.
+
+     4-37. Constrictions in the traveled-way width below minimum requirements are depicted on maps and
+     overlays by two opposing shaded triangles. The width of the usable traveled way (in meters) is written next
+     to the left triangle. The length of the constriction along the route is written (in meters) next to the right
+     triangle. (See figure 4-12.)
+
+             Note. Constrictions of traveled-way widths below the minimum standard for the type and flow of
+             traffic are obstructions and are indicated by the annotation OB in the route classification format.
+
+           Figure 4-12. Route construction symbol
+
+4-14       ATP 3-34.81/MCWP 3-17.4                 1 March 2016
+
+
+---
+
+                                                                                Technical Reconnaissance—Route Classification
+
+UNDERPASSES
+
+     4-38. An underpass is depicted on a map or overlay by a symbol that shows the structure ceiling. It is drawn
+     over the route at the map location. The width is written (in meters) to the left of the underpass symbol, and
+     the overhead clearance is written (in meters) to the right of the underpass symbol. (See figure 4-13).
+
+                                                                             Underpass with sidewalks
+                                                                             Traveled-way width: 20 meters
+                                                                             Total width with sidewalks: 24 meters
+                                                                             Overhead clearance: 6 meters
+
+                                                                             Underpass with arched ceiling
+                                                                             Traveled-way width: 8 meters
+                                                                             Overhead clearance: 4.5 meters (minimum)/5 meters
+                                                                             (maximum)
+
+                                             Figure 4-13. Underpass symbols
+
+     4-39. If sidewalks permit emergency passage of wider vehicles, the sidewalks are symbolically represented.
+     This information should be noted on DD Form 3012. (See appendix B.) The traveled-way width is recorded
+     first, followed by a slash; then the structure total width, including the sidewalks, is recorded.
+
+                                                 CAUTION
+
+                    Structures with arched ceilings or other ceiling irregularities that result
+                    in a decrease in overhead clearance must be noted. In such cases, an
+                    extension of width may not mean that the structure will accommodate
+                    wider vehicles.
+
+     4-40. Minimum and maximum overhead clearances, if different, will be recorded. The minimum overhead
+     clearance is recorded first, followed by a slash; then the maximum overhead clearance is recorded.
+
+TUNNELS ON ROUTES
+
+     4-41. A tunnel on a route is an artificially covered structure (covered bridge, snowshed) or an underground
+     section of road along a route. A tunnel reconnaissance determines essential information, to include—
+
+              Serial number.
+              Location.
+              Type.
+              Length.
+              Width (including sidewalks).
+              Bypasses.
+              Alignment.
+              Gradient.
+              Cross section.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  4-15
+
+
+---
+
+Chapter 4
+
+     4-42. Tunnel reconnaissance is reported on DD Form 3012. (See appendix B.) A tunnel consists of a bore, a
+     tunnel liner, and a portal. Common shapes of tunnel bores are square with an arched ceiling, elliptical,
+     horseshoe, and semicircular. (See figure 4-14.)
+
+                                      Figure 4-14. Types of tunnel bores
+
+4-43. Basic tunnel information is recorded on maps or overlays using symbols. (See figure 4-15.) The
+location of the tunnel entrance is shown on a map or overlay by an arrow to the location of the entrance. For
+long tunnels (greater than 30.5 meters), both tunnel entrance locations are indicated.
+
+                                                                Tunnel Number 1
+                                                                Minimum overhead clearance: 5 meters
+                                                                Maximum overhead clearance: 7 meters
+                                                                Traveled way: 10.5 meters wide; 800 meters long; easy
+                                                                bypass available
+
+      Tunnel Number 2
+      Minimum overhead clearance: 5 meters
+      Maximum overhead clearance: 5 meters
+      Traveled way: 15 meters wide (17 meters total including
+      sidewalks); 100 meters long; difficult bypass available
+
+                                          Figure 4-15. Tunnel symbols
+
+4-44. For later reference, a serial number is assigned to each tunnel. Check for an existing fixed serial number
+on the actual tunnel or map sheet. If the tunnel does not have a serial number, assign a serial number based
+on the unit SOP. Serial numbers are not duplicated on any one map sheet, overlay, or document. The number
+is recorded inside the symbol. The traveled-way width is shown in meters, and it is placed below the symbol.
+
+4-45. If sidewalks permit the emergency passage of wider vehicles, then the sidewalks are symbolically
+represented. The traveled-way width is recorded first, followed by a slash; then the total width, including the
+sidewalks, is recorded.
+
+4-16  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                          Technical Reconnaissance—Route Classification
+
+                                             CAUTION
+
+               Structures with arched or irregular ceilings will decrease overhead
+               clearance. An extension of width does not always mean that the
+               structure will accommodate wider vehicles.
+
+4-46. The overhead clearance is the shortest distance between the surface of a traveled way and any
+obstruction vertically above the traveled way. The measurement of overhead clearance must be accurate.
+Obtain the measurements as shown in figure 4-16 and figure 4-17, page 4-18. Record the measurements on
+DD Form 3012.
+
+              Figure 4-16. Overhead clearance measurements
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                       4-17
+
+
+---
+
+Chapter 4
+
+      1 =   portal to portal length of the tunnel
+      1a =  centerline distance of the tunnel
+      2 =   effective width of the traveled way, curb to curb
+      3 =   horizontal clearance (minimum width of the tunnel bore measured at least 4 feet
+            above the traveled way
+      4 =   overhead clearance (minimum distance between the top of the traveled way and the
+            lower edge of the tunnel ceiling or any obstruction below the ceiling [trolly wires,
+      4a =  electric light wires])
+      5 =   rise of the tunnel arch (radius of the curved portion)
+      6 =   radius of curvature of the traveled way (measured or estimated)
+      6a =  gradient (percentage of rise of the traveled way between portals)
+            change in gradient within the tunnel (percentage of rise each way from break of grade)
+
+                             Figure 4-17. Dimensions required for tunnels
+
+4-47. The reconnaissance element records a general description and sketch of the tunnel entrances (portals)
+and the composition. The portal view information and sketch are recorded on DD Form 3012. (See
+figure 4-18.)
+
+ROAD RECONNAISSANCE
+
+     4-48. A road reconnaissance collects detailed technical information on the engineering characteristics and
+     trafficability of a road or road section within a route. Report the results of a road reconnaissance on
+     DD Form 3010. In general, a road consists of a road surface, base course, and subgrade. (See figure 4-19.)
+
+4-18        ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+              Technical Reconnaissance—Route Classification
+
+              Figure 4-18. Portal view of tunnel
+
+                                           Figure 4-19. Parts of a road
+
+4-49. Identifying the soil type used in road construction is a critical component of the road reconnaissance.
+Soils, stabilized when necessary, form the subgrade and base course for the vast majority of roads. Soils are
+considered according to type, characteristics, and allowable foundation bearing pressure. Soil types range
+from gravel and sandy soils to clay and silty soils. The principal soil type is described in table 4-4, page 4-20,
+and those characteristics are further analyzed in table 4-5, page 4-21, including an allowable bearing pressure.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4             4-19
+
+
+---
+
+Chapter 4
+
+The allowable bearing pressure is expressed as a California bearing ratio, which is used to determine the
+load-bearing capacity of a flexible road surface.
+
+       Note. The California bearing ratio is a measure of the shearing resistance of soil under controlled
+       density and moisture conditions. (See figure 4-20, page 4-22.) It is expressed as a ratio of the unit
+       load required to force a piston into the soil to the unit load required to force the same piston the
+       same depth into standard crushed stone.
+
+     Name                          Table 4-4. Principle soil types
+Gravel
+Sand                                                             Description
+Silt
+           Gravel is a mass of detached rock particles, generally water worn. Gravel passes a 3-inch
+Clay       sieve, and it is retained on a Number 4 sieve (0.187 inches).
+
+Organic    Sand is a granular material that is composed of rock particles. The rock particles can pass a
+           Number 4 sieve (0.187 inches), but they are retained on a Number 200 sieve (0.0029
+           inches). It is difficult to distinguish sand from silt when the particles are uniformly small. Dried
+           sand, however, differs from silt; it has no cohesion and feels grittier.
+
+           Silt is a fine, granular material composed of particles that can pass the Number 200 sieve
+           (0.0029 inches). It lacks plasticity, and it has little dry strength. To identify silt, prepare a pat
+           of wet soil and shake it horizontally in the palm of your hand. With typical inorganic silt,
+           shaking causes water to come to the surface of the sample, making it appear glossy and soft.
+           Repeat the tests with varying moisture contents. Squeezing the sample between your fingers
+           causes the water to disappear from the surface, and the sample quickly stiffens and finally
+           cracks or crumbles. Allow the sample to dry, test its cohesion, and feel it by crumbling it with
+           your fingers. Typical silt shows little or no dry strength, and it feels only slightly gritty in
+           contrast to the rough grittiness of fine sand.
+
+           Clay is an extremely fine-grained material composed of particles that can pass the Number
+           200 sieve (0.0029 inches). To identify clay, work a sample with your fingers, adding water
+           when stiffness requires it. The moist sample should be plastic enough to be kneaded like
+           dough. Test it further by rolling a ball of kneaded soil between the palm of your hand and a
+           flat surface. Clay can be rolled to a slender thread, about 1/4 inch in diameter, without
+           crumbling; silt crumbles without forming a thread. Measure the hardness of dry clay by the
+           finger pressure required to break a sample. It requires much greater force to break dry clay
+           than dry silt. Clay feels smooth in contrast to the slight grittiness of silt.
+
+           Organic soil is composed of decayed or decaying vegetation, sometimes mixed with fine-
+           grained mineral sediments (peat, muskeg). It is identified by a coarse and fibrous
+           appearance and odor. The odor may be intensified by heating. Plastic soils containing
+           organic material can be rolled into soft, spongy threads.
+
+4-20       ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                           Technical Reconnaissance—Route Classification
+
+                     Table 4-5. Soil characteristics of roads and airfields
+
+         Major Divisions                Letter                             Name          Field CBR
+
+                                   GW Well-graded gravels or gravel- 60-80
+                                                              sand mixtures, little or no fines
+
+                                   GP              Poorly graded gravels or gravel-   25-60
+                                                   sand mixtures, little or no fines
+              Gravel and gravelly                                                     40-80
+                                                   Silty gravels, gravel-sand-silt    20-40
+              soils                            d1  mixtures
+                                   GM
+
+                                               u2
+
+Coarse-                            GC Clayey gravels, gravel-sand- 20-40
+grained                                                       clay mixtures
+soils
+                                   SW Well-graded sands or gravelly 20-40
+                                                              sands, little or no fines
+
+              Sand and sandy       SP              Poorly graded sands or gravelly    10-25
+              soils                            d1  sands, little or no fines
+                                                                                      20-40
+                                   SM              Silty sands, sand-silt mixtures    10-20
+                                               u2
+
+                                   SC Clayey sands, sand-clay 10-20
+                                                              mixtures
+
+                                                              Inorganic silts and very fine
+                                   ML sands, rock flour, silty or clayey 5-15
+
+                                                              fine sands, or clayey silts with
+                                                              slight plasticity
+
+              Silts and clays                      Inorganic clays of low to          5-15
+              (liquid limits <50) CL               medium plasticity, gravelly        4-8
+                                                   clays, sandy clays, silty clays,   4-8
+Fine-                                              lean clays                         3-5
+
+grained                            OL              Organic silts and organic silt-
+                                                   clays of low plasticity
+soils
+                                                   Inorganic silts, micaceous or
+                                   MH              diatomaceous fine sandy or silty
+                                                   soils, elastic silts
+              Silts and clays
+                                                   Inorganic clays of high
+              (liquid limits >50)  CH              plasticity, fat clays
+
+                                   OH Organic clays of medium to high 3-5
+                                                              plasticity, organic silts
+
+Highly organic soils Pt Peat and other highly organic
+                                                                             soils
+
+Note. Division of GM and SM groups into subdivisions of d1 and u2 are for roads and airfields only; the subdivision is a basis
+of the Atterberg limits.
+
+1Indicates liquid limit is 28 or less, and plasticity index is 6 or less.
+2Indicates liquid limit is 28 or greater.
+
+Legend:
+
+CBR           California bearing ratio
+
+1 March 2016                            ATP 3-34.81/MCWP 3-17.4                                     4-21
+
+
+---
+
+Chapter 4
+
+Legend:         California bearing ratio
+CBR             pound
+lb
+           Figure 4-20. Load bearing capacity of roads with a flexible surface
+
+BASE COURSE AND SUBGRADE
+
+     4-50. The base course and subgrade are the intermediate fill under the traveled surface of the roadway. Base
+     courses are usually composed of gravel or crushed rock. Subgrade soils are typically more silts and clay soils.
+     Table 4-6 cross-references various engineering properties of soils to the soil letter designator.
+
+ROAD CAPACITY AND COMPUTATIONS
+
+     4-51. The load-bearing capacity of a road is its ability to support traffic, and it is expressed by an MLC. The
+     load-bearing capacity of a road with a flexible surface describes its ability to support traffic, and it is
+     expressed initially as a maximum allowable wheel load and then converted to an equivalent MLC. After
+     determining the type of subgrade material of the road using table 4-4, page 4-20; table 4-5, page 4-21; and
+     table 4-6; an accurate estimation of the load-bearing capacity of a road for wheeled vehicles can be made by
+     measuring the combined thickness of the surface and base course. Then use figure 4-20 to obtain the
+     corresponding load bearing capacity in pounds. The load-bearing capacity determined in figure 4-20 is
+     expressed as a maximum allowable wheel load in pounds. See table 4-7, page 4-24, to convert the bearing
+     capacity in pounds to an equivalent MLC. Road classification for tracked vehicles is not normally assigned.
+     Usually, other factors (such as wear and tear on the road surface by track action) determine the road capacity
+     to support track vehicles.
+
+4-22       ATP 3-34.81/MCWP 3-17.4                                              1 March 2016
+
+
+---
+
+                                                                           Technical Reconnaissance—Route Classification
+
+                      Table 4-6. Engineering properties of soil types
+
+    Letter       Value as                  Value as Base     Potential     Compressibility              Drainage
+               Foundation                      Directly   Frost Action4
+                when Not                        Under                      and Expansion Characteristics
+                Subject to
+              Frost Action3                 Bituminous
+                                              Pavement
+
+GW Excellent Good None to very Almost none Excellent
+                                                                           slight
+
+GP Good to Poor to fair None to very Almost none Excellent
+              excellent                                   slight
+
+GM  d1        Good to                      Fair to good   Slight to        Very slight      Fair to poor
+              excellent                                   medium
+
+    u2                                     Poor           Slight to        Slight           Poor to
+                Good                                      medium                            practically
+                                                                                            impervious
+
+                                                          Slight to                         Poor to
+
+GC Good Poor medium Slight practically
+                                                                                            impervious
+
+SW Good Poor None to very Almost none Excellent
+                                                                           slight
+
+SP Fair to good Poor to not None to very Almost none Excellent
+                                           suitable       slight
+
+SM  d1        Good                         Poor           Slight to high Very slight        Fair to poor
+
+    u2                                                                                      Poor to
+
+              Fair to good                 Not suitable   Slight to high Slight to medium practically
+
+                                                                                            impervious
+
+                                                                                            Poor to
+
+SC            Fair to good                 Not suitable   Slight to high Slight to medium practically
+
+                                                                                            impervious
+
+CL Fair to poor Not suitable Medium to Medium Practically
+                                                          high                              impervious
+
+OL Poor Not suitable Medium to Medium to high Poor
+                                                                           high
+
+MH Poor Not suitable Medium to High Fair to poor
+                                                                           high
+
+CH Poor to very Not suitable Medium High Practically
+              poor                                                                          impervious
+
+OH Poor to very Not suitable Medium High Practically
+              poor                                                                          impervious
+
+Pt            Not suitable                 Not suitable   Slight           Very high        Fair to poor
+
+1Indicates liquid limit is 28 or less, and plasticity index is 6 or less.
+
+2Indicates liquid limit is 28 or greater.
+
+3Values are for subgrades and base courses except for base courses directly under bituminous pavement.
+
+4Indicates whether these soils are susceptible to frost.
+
+    4-52. If the MLC of the road is greater than the classification of the weakest bridge on the route, the bridge
+    classification determines the capacity of the route. After determining the type of subgrade material, an
+    accurate estimation of the load-bearing capacity of a road for wheeled vehicles can be made by measuring
+    the combined thickness of the surface and base course. Use figure 4-20 to obtain the corresponding load-
+    bearing capacity in pounds. Some pavement sections may include a sand (depicted as start point [SP]) subbase
+    material between the base course and a silt or clay subgrade. The thickness of the SP can be included in the
+    calculations for the combined thickness in inches of pavement and base in figure 4-20.
+
+1 March 2016                                              ATP 3-34.81/MCWP 3-17.4                                 4-23
+
+
+---
+
+Chapter 4
+
+           Table 4-7. Wheeled vehicle classification related to single wheel load
+
+           Classification number  Maximum single wheel load (pounds)
+                         4                               2,500
+                         8                               5,500
+                         12                              8,000
+                         16                             10,000
+                         20                             11,000
+                         24                             12,000
+                         30                             13,500
+                         40                             17,000
+                                                        20,000
+                      50-150
+
+ROAD CLASSIFICATION FORMAT
+
+     4-53. The road classification format is a systematic description of the limiting section of a road. Do not
+     confuse it with the route classification format. Recorded information from the road classification format is
+     included in the route classification format. The following describes each portion of the format:
+
+              (1) Prefix the format with A if there are no limiting characteristics or B if there is one or more
+                  limiting characteristics.
+
+              (2) Limiting characteristics represent an unknown or undetermined characteristic with a question
+                  mark, together with the feature to which it refers. (See table 4-8.)
+
+              (3) Minimum traveled-way width is expressed with width in meters followed by a slash and the
+                  combined width of the traveled way and the shoulders.
+
+              (4) Road surface material is expressed with a letter symbol. The format above describes the surface
+                  material as water-bound macadam. Use the symbols listed in table 4-9. They are further related to
+                  the X, Y, and Z route types of the route classification described earlier in paragraph 4-10.
+
+              (5) Road length is expressed in kilometers and placed in parentheses.
+              (6) Indicate obstructions along a road by placing the symbol OB after the road length. Details of
+
+                  the obstructions are not shown in the format; they are reported separately by appropriate symbols
+                  on accompanying maps, overlays, or DD Form 3010. Report the following obstructions:
+                   Overhead obstructions (less than 4.3 meters over the route).
+                   Constrictions in traveled-way widths less than 6 meters for single-flow traffic or less than
+
+                        8 meters for double-flow traffic (tracked or combination vehicles [see table 4-2, page 4-6]).
+                   Slopes of 7 percent or greater.
+                   Curves with a radius of less than 25 meters (report curves of 25.1 to 45 meters).
+              (7) If blockage is regular, recurrent, and serious, the effects of snow blockage and flooding are
+                  indicated in the road classification report. Use T to indicate snow blockage, and use W to indicate
+                  frequent flooding.
+
+             Note. Use this example format for the road classification report.
+
+             (1) / (2) / (3) / (4) / (5) / (6) / (7)
+
+             B / g s / 4/5 / r / (8 km) / (OB) / (T)
+
+4-24                              ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                    Technical Reconnaissance—Route Classification
+
+              Table 4-8. Symbols for limiting characteristics
+
+  Limiting Characteristics                                Criteria                    Symbol
+Sharp curves                                                                               c
+Steep gradients             Sharp curves with a radius of 25 meters or less               g
+
+Poor drainage               Steep gradients, 7% or steeper (such as gradients)            d
+
+Weak foundation             Inadequate ditches, crown or camber, or culverts;              f
+Rough surface               culverts and ditches blocked or otherwise in poor              s
+Excessive camber or         condition
+superelevation                                                                             j
+                            Unstable, loose, or easily displaced material
+
+                            Bumpy, rutted, or potholed to an extent likely to reduce
+                            convoy speeds
+
+                            Falling away so sharply as to cause heavy vehicles to
+                            skid or drag toward shoulders
+
+              Table 4-9. Symbols for type of surface materials
+
+ Symbol                             Material                                  Route Type
+K                                                          Type X; generally heavy duty
+kb            Concrete                                     Type X; generally heavy duty
+P                                                          Type X or Y; generally heavy duty
+Pb            Bituminous (asphaltic) concrete              Type X or Y; generally heavy duty
+              (bituminous plant mix)
+rb                                                         Type X or Y; generally medium duty
+              Paving brick or stone
+r                                                          Type Y; generally light duty
+L             Bituminous surface on paving brick or        Type Y; generally light duty
+nb            stone                                        Type Y or Z; generally light duty
+
+b             Bitumen-penetrated macadam, water-           Type Y or Z; generally light duty
+              bound macadam with superficial asphalt
+n             or tar cover                                 Type Z; generally light duty
+                                                           Classify X, Y, or Z depending on the type
+V             Water-bound macadam, crushed rock or         of material used (indicate length when
+Legend:       coral or stabilized gravel                   this symbol is used).
+X
+Y             Gravel or lightly metaled surface
+Z
+              Bituminous surface treatment on natural
+              earth, stabilized soil, sand-clay, or other
+              select material
+
+              When type of bituminous construction
+              cannot be determined
+
+              Natural earth stabilized soil, sand-clay,
+              shell, cinders, disintegrated granite, or
+              other select material
+
+              Various other types not mentioned above
+
+              all weather
+              limited, all weather
+              fair weather
+
+1 March 2016                        ATP 3-34.81/MCWP 3-17.4                                           4-25
+
+
+---
+
+Chapter 4
+
+    4-54. A sample DD Form 3010 is shown in appendix B. (See table 4-10 for examples of the road
+    classification format.)
+
+                            Table 4-10. Examples of the road classification format
+
+   Road Classification Format                  Description
+
+A 5.0/6.2                            A road with no limiting characteristics or obstructions, a minimum
+                                     traveled way of 5.0 meters, a combined width of traveled way and
+                                     shoulders of 6.2 meters, and a concrete surface.
+
+B g s 4/5 L (OB)                     A road with limiting characteristics of steep gradients and a rough
+                                     surface, a minimum traveled way of 4 meters, a combined width of 5
+                                     meters, gravel or light metal surfaces, and obstructions.
+
+B c (f?) 3.2/4.8 P (4.3km) (OB) (T)  A road with limiting characteristics of sharp curves and unknown
+                                     foundation, a minimum traveled way of 3.2 meters, a combined width of
+                                     4.8 meters, paving brick or stone surface, obstructions, and 4.3
+                                     kilometers long subject to snow blockage.
+
+Legend:
+
+A                 no limiting characteristics
+
+B                 limiting characteristics
+
+km                kilometers
+
+OB                obstruction
+
+P                 pedestrian
+
+T                 tracked
+
+           Notes.
+
+           1. Where rockslides are a hazard or poor drainage is a problem, include information on a written
+           enclosure or legend.
+
+           2. Ensure that a new classification format is entered on DD Form 3010 each time the road changes
+           significantly.
+
+4-26                                           ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                 Chapter 5
+
+  Technical Reconnaissance—Assessments and Surveys
+
+         The ERTs conduct reconnaissance but may include all or key portions of an assessment
+         as part of the specified focus of technical information. Assessments may be conducted
+         as an integrated requirement in the reconnaissance or may be in support of information
+         requirements at the operational level. Typically, engineer surveys are conducted at the
+         operational level. Operational-level assessments and survey teams employ a routinely
+         high degree of technical expertise. Survey teams are focused on the technical
+         requirements of the reconnaissance support mission. The capabilities in both cases
+         overlap substantially, but the overall nature of the engineer reconnaissance support is
+         distinct. This chapter discusses assessment and survey capabilities and those
+         assessment capabilities available from ERTs. Regardless of the level of reconnaissance
+         support integration when operating within assigned maneuver areas, the assessment or
+         survey team must fully coordinate their activity with the maneuver unit.
+
+BRIDGE RECONNAISSANCE
+
+     5-1. A bridge reconnaissance is conducted to collect detailed technical information on selected bridges. The
+     bridge reconnaissance is conducted as part of a route or road classification or as a separate mission focused
+     on the selected bridge. Based on the situation, the reconnaissance may be conducted by an ERT, an
+     augmented ERT, an assessment team, or a survey team. The level of detail of the information collected will
+     increase in the progression from ERT to survey team. In every case, the information collected can be used to
+     determine the bridge load-carrying capacity and to estimate resources required to repair or upgrade the bridge.
+     The ERTs also conduct bridge reconnaissance to collect information to enable the planning and estimation
+     of the materials required for a bridge demolition. See FM 3-34.214/MCRP 3-17.7L for additional information
+     on bridge demolition requirements. DD Form 3011 is used to report the information collected from a bridge
+     reconnaissance.
+
+     5-2. Large, multilane highway bridges are common in most theaters of operations. These bridges with steel
+     girders or prestressed concrete beams may be difficult to classify. Damaged bridges will also present a
+     challenge for classification, resulting from the damage and for repair options to mitigate the damage. The
+     U.S. Army Corps of Engineers and Naval Facilities Engineering Command have developed specific expertise
+     to assist in assessing bridges that present a challenge to reconnaissance elements in the field. The assistance
+     is available through reachback support via the U.S. Army Corps of Engineers, Reachback Operations Center.
+
+BRIDGE CONDITION
+
+     5-3. The reconnaissance team collects general information and assesses the general condition of the bridge,
+     paying particular attention to evidence of damage from natural causes (rot, rust, deterioration) or combat
+     action. Classification procedures presume that a bridge is in good condition. If the bridge is in poor condition,
+     the classification obtained from mathematical computations must be reduced according to the classifier’s
+     judgment. See TM 3-34.22/MCRP 3-17.1B for a complete discussion of bridge classification procedures and
+     signing of a bridge. The bridge assessment provides the basic MLC information necessary for the commander
+     to plan for the use of the bridge.
+
+BRIDGE SYMBOL
+
+     5-4. The reconnaissance team collects the specific bridge information necessary to fill out the full North
+     Atlantic Treaty Organization (NATO) bridge symbol. (See TM 3-34.22/MCRP 3-17.1B.) This symbol is
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  5-1
+
+
+---
+
+Chapter 5
+
+     different from an on-site bridge classification. The information necessary for the full bridge symbol includes
+     the—
+
+              Bridge serial number.
+              Geographic location.
+              Bridge MLC.
+              Overall length.
+              Traveled-way width.
+              Overhead clearance.
+              Available bypasses.
+
+     5-5. A bridge serial number is assigned for future reference, and it is recorded in the lower portion of the
+     symbol (assign a number according to the unit SOP). For proper identification, do not duplicate serial
+     numbers within any one map sheet, overlay, or document.
+
+     5-6. A telltale or other warning device is placed before the bridge to indicate overhead clearance limitations.
+     (See figure 5-1.) A question mark is used to indicate information that is unknown or undetermined and is
+     included as part of the bridge reconnaissance symbol.
+
+                                                       Figure 5-1. Telltale
+
+     5-7. The reconnaissance team may be interested in railway bridges that could be used by other vehicles in
+     an emergency. The team conducts a bridge reconnaissance and makes an overall assessment of the
+     adaptability of the railway bridge for vehicle traffic indicating use easy or use difficult on the bridge symbol.
+     A railroad bridge is considered easy to adapt for use if it can be adapted in less than 4 hours with
+     35 Soldiers/Marines and the appropriate resources.
+
+OTHER GAP-CROSSING SITES
+
+     5-8. Like bridges, the range of engineer reconnaissance capabilities is employed to collect detailed technical
+     information on gap-crossing sites where bridges are not present. Similar to bridge reconnaissance,
+     reconnaissance of gap-crossing sites is conducted to collect detailed technical information where bridges are
+     not present. It is typically conducted as part of a route or road classification or as a separate evolution directed
+     toward collection at a selected site. Based on the situation, the reconnaissance may be conducted by an ERT,
+     an augmented ERT, an assessment team, or a survey team. The level of detail of the information collected
+     increases in the progression from ERT to survey team. The information collected is used to determine the
+     route classification and to estimate resources for repair or upgrade of the site or for construction of a bridge
+     at the site. There are several forms used to record and report the information collected during reconnaissance
+     of gap-crossing sites. Appendix B provides detailed instructions for their use.
+
+5-2  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                       Technical Reconnaissance—Assessments and Surveys
+
+FORD RECONNAISSANCE
+
+     5-9. A ford is a location in a water barrier where the current, bottom, and approaches allow personnel,
+     vehicles, and other equipment to cross and remain in contact with the bottom during crossing. Fords are
+     obstructions to traffic flow. Detailed ford reconnaissance information is recorded on DD Form 3013. (See
+     appendix B.)
+
+     5-10. During high-water periods, low-water bridges are easily confused with paved fords because they are
+     completely submerged. It is important to know the difference between this type of bridge and a paved ford
+     because of corresponding military load limitations.
+
+     5-11. Fords are classified according to the crossing potential (or trafficability) for pedestrians or vehicles.
+     Fordable depths for vehicular traffic can be increased by suitable waterproofing and adding deepwater
+     fording kits. Check vehicle technical manuals for fording capabilities.
+
+     5-12. Record the composition of the approaches. They may be paved or covered with mat or trackway, but
+     they are usually unimproved. The composition and the slope of the approaches to a ford should be carefully
+     noted to determine the trafficability after fording vehicles saturate the surface material of the approaches.
+     Identify the ford left and right approaches when looking downstream.
+
+     5-13. Record the current velocity and the presence of debris to determine the effect, if any, on the ford
+     condition and passability. Estimate the current as—
+
+              Swift (more than 1.5 meters per second).
+              Moderate (1 to 1.5 meters per second).
+              Slow (less than 1 meter per second).
+
+     5-14. The ford bottom composition largely determines its trafficability. It is important to determine whether
+     the bottom is composed of sand, gravel, silt, clay, or rock and in what proportions. Record whether the natural
+     river bottom of the ford has been improved to increase the load-bearing capacity or to reduce the water depth.
+     Improved fords may have gravel, macadam, or concrete surfacing; layers of sandbags; metal screening or
+     matting; or timber (corduroy) planking. Nearby material may be used to improve the ford. Record the ford
+     limitation information on maps or overlays using a symbol as shown in figure 5-2, page 5-4. The information
+     recorded should include—
+
+              Geographic location. The geographic location of the ford is shown by an arrow from the symbol
+                  to the ford location on a map or overlay. The symbol is drawn on either side of the stream.
+
+              Serial number. A serial number is assigned to each ford for reference (if the ford already has an
+                  assigned serial number on the map sheet, use it). Follow the unit SOP in assigning serial numbers.
+                  They must not be duplicated within any one map sheet, overlay, or document.
+
+              Ford type. The type of ford is determined by bottom conditions, width, and water depth. Use the
+                  letters V for vehicular or P for pedestrian to show the ford type. Approaches are not considered in
+                  determining the ford type.
+
+              Stream velocity. The normal stream velocity is expressed in meters per second. Seasonal limiting
+                  factors follow the stream velocity notation and are shown by the following letter designation:
+                   X. No seasonal limitations except for sudden flooding of limited duration (such as flash
+                        floods).
+                   Y. Serious, regular, or recurrent flooding or snow blockage. If symbol Y is used, the route
+                        type in the route classification format automatically becomes type Z.
+
+              Ford length. The ford length, expressed in meters, is the distance from the near to far shores. The
+                  width of the ford is the traveled-way width of the ford bottom.
+
+              Ford bottom. The nature of the bottom is indicated by the most appropriate letter designation:
+                   M = mud.
+                   C = clay.
+                   S = sand.
+                   G = gravel.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  5-3
+
+
+---
+
+Chapter 5
+
+                   R = rock.
+                   P = artificial paving.
+              Depth. The normal depth is the depth of water at the deepest point, expressed in meters. During a
+                  hasty reconnaissance, the actual water depth is used.
+              Stream banks. The left and right banks of a stream are found by looking downstream. From the
+                  middle of the stream and looking downstream, your left arm indicates the left bank and your right
+                  arm indicates the right bank. In drawing this portion of the symbol, pay attention to the direction
+                  of the stream flow. A difficult approach is shown by irregular lines placed on the corresponding
+                  side of the basic symbol.
+
+                          Ford #1 is pedestrian and vehicular with a stream velocity
+                          of 1.5 meters per second, no seasonal limitations,
+                          15-meters long, 6.5-meters wide, with a gravel bottom,
+                          0.7-meters deep, and a difficult approach on the right bank.
+
+                          Ford #2 is pedestrian with a stream velocity of 1.2 meters
+                          per second, seasonal limitations, 50-meters long, 3-meters
+                          wide, with a rock bottom, 1-meter deep, and easy
+                          approaches.
+
+                          Ford #3 is vehicular with an unknown stream velocity, no
+                          seasonal limitations, 15-meters long, 6-meters wide,
+                          artificial paving, 0.5-meters deep, and a difficult approach
+                          on both banks.
+
+Legend:  gravel
+G        pedestrian
+P        rock
+R        vehicular
+V        all weather
+X        limited weather
+Y
+
+                          Figure 5-2. Ford symbols
+
+     5-15. All elements of the ford symbol are separated by slashes. If the ford symbol is unknown or cannot be
+     determined, substitute a question mark for the required information.
+
+FERRY RECONNAISSANCE
+
+     5-16. Ferries are considered obstructions to traffic flow and are indicated by the letters OB on the route
+     classification format. Ferryboat construction varies widely and ranges from expedient rafts to ocean-going
+
+5-4                       ATP 3-34.81/MCWP 3-17.4   1 March 2016
+
+
+---
+
+                                                                 Technical Reconnaissance—Assessments and Surveys
+
+vessels. Ferries differ in physical appearance and capacity depending on the water width, depth, current, and
+the characteristics of the traffic to be moved. Ferries may be propelled by oars, cables and pulleys, poles,
+stream current, or engines (steam, gasoline, or diesel). Detailed ferry reconnaissance information is recorded
+on DD Form 3014. (See appendix B.)
+
+5-17. Usually, the capacity of a civil ferryboat is expressed in short tons and total number of passengers. The
+ferry is often assigned an MLC number. Ensure that the capacity of each ferry is recorded when more than
+one is used at a given site. The ferries may vary in capacity.
+
+5-18. Ferry slips (or piers) are usually provided on each shore to permit easy loading of passengers, cargo,
+and vehicles. The slips may range from simple log piers to elaborate terminal buildings. A distinguishing
+characteristic of a ferry slip is often the floating pier that adjusts, with changes in the water depth, to the
+height of the ferryboat.
+
+5-19. Approach routes to ferry installations have an important bearing on using the ferry. Reconnoitering
+and recording the conditions of the approaches (including the load-carrying capacity of landing facilities) is
+very important.
+
+5-20. Limiting characteristics of ferry sites that should be considered are the—
+        Width of the water barrier from bank to bank.
+        Distance and time required for the ferryboat to travel from one bank to the other.
+        Depth of the water at each ferry slip.
+        Ease in which each landing site can be defended.
+
+5-21. Climatic conditions affect ferry operations. Fog and ice substantially reduce the total traffic moving
+capacity and increase the hazard of the water route. As a result, planners should review meteorological data
+(tidal fluctuations, freezing periods, floods, excessive dry spells, storm seasons) and consider the effect that
+local weather conditions may have on ferrying.
+
+5-22. Limited ferry information is recorded on maps or overlays by using the symbols shown in figure 5-3,
+page 5-6. Figure 5-4, page 5-6, gives examples of completed ferry symbols. The information recorded
+includes the—
+
+        Geographic location. The geographic location of the ferry is shown by an arrow from the symbol
+             to the location of the ferry on a map or overlay. The symbol may be drawn on the map or overlay
+             on either side of the stream.
+
+        Serial number. A serial number is assigned to each ferry for later reference. The numbers must
+             not be duplicated within any one map sheet, overlay, or document. Some maps will already show
+             a ferry serial number. Use this number for your reconnaissance. If you do not find a number, record
+             a number according to the unit SOP.
+
+        Ferry type. The type of ferry (V for vehicular and P for pedestrian) is shown after the serial
+             number. If the ferry can haul vehicles, it can also haul pedestrians.
+
+        Deck MLC. The deck MLC is placed in the bottom left box of the symbol. Most ferries have this
+             information on the data plate.
+
+        Dead-weight capacity. The dead-weight capacity of the ferry is the MLC plus the actual weight
+             of the ferry in short tons.
+
+        Turnaround time. The turnaround time is shown by the number of minutes required to cross the
+             water obstacle, unload, and return.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  5-5
+
+
+---
+
+Chapter 5
+
+           Figure 5-3. Ferry symbols
+
+Ferry #1 is a pedestrian ferry with an MLC deck       Ferry #2 is a vehicular and pedestrian ferry with MLC
+unknown, 8 short ton dead-weight capacity,            of deck 60, unknown dead-weight capacity, a
+12 minute turnaround time, and a difficult left bank  20 minute turnaround time, and a difficult right bank
+approach.                                             approach.
+
+Legend:    Ferry #3 is a vehicular and pedestrian ferry with MLC of deck 60, 100 short ton dead-
+MLC        weight capacity, 18-minute turnaround time, and difficult approaches on both banks.
+P
+V                military load classification
+                 pedestrian
+                 vehicular
+
+                                     Figure 5-4. Sample ferry symbols
+
+     5-23. When drawing the approach condition portion of the symbol, pay attention to the direction of stream
+     flow. Left and right banks are determined by looking downstream. Approach conditions are determined in
+     the same manner as fords. A difficult approach is shown by irregular lines placed on the corresponding side
+     of the basic symbol. A question mark is substituted for unknown or undetermined information.
+
+RIVER RECONNAISSANCE
+
+     5-24. River reconnaissance is conducted to collect and report technical information regarding sites that may
+     be suitable for military rafting or bridging. The data collected can also be used to determine the suitability of
+     sites for fording or swimming. See ATTP 3-90.4/MCWP 3-17.8 for information related to wet and dry gap
+     crossing. Desirable site characteristics are—
+
+              Current velocity between 0 and 1.6 meters per second.
+              Banks that permit loading without a great deal of preparation.
+              Approaches that permit easy access and egress.
+              Strong, natural anchorage or holdfasts.
+              Sites with no shoals, sandbars, or snags.
+              Sites clear of obstacles immediately downstream.
+
+5-6        ATP 3-34.81/MCWP 3-17.4                    1 March 2016
+
+
+---
+
+                                                                 Technical Reconnaissance—Assessments and Surveys
+
+        Sites clear of mines and booby traps.
+        Sites with enough depth to prevent grounding the raft during loading and unloading operations or
+
+             when crossing.
+        Suitable raft-construction sites (depending on the type of raft).
+        Holding areas for vehicles awaiting passage.
+        Suitable road network to support crossing traffic.
+
+5-25. The ERTs use DD Form 3016, River Reconnaissance Report, to record the technical information
+collected. DD Form 3016 is transmitted to the headquarters that ordered the reconnaissance once complete.
+Some confusion may exist regarding the use of DD Form 3014 and DD Form 3016. DD Form 3014 is used
+to collect detailed information about an existing, operational ferry while DD Form 3016 is used to collect
+information when no crossing means (ferry, ford, bridge) exists at collection sites. DD Form 3016 is
+appropriate when no existing crossing means (ferry, ford, bridge) is present.
+
+5-26. In either case, the ERT will identify and report locations that permit smooth traffic flow and reduce
+route obstructions as much as possible. When conducting a river reconnaissance, record the river depth,
+width, approaches, velocities, and natural and man-made obstacles. (See figure 5-5.) The percent of slope is
+equal to the grade.
+
+                       Figure 5-5. Dimensions required for streams and rivers
+
+5-27. Stream depth is usually measured using field-expedient devices (poles, weighted ropes). The depth
+should be measured every 3 meters along the planned stream-crossing route. Recheck depths and currents
+frequently during and immediately after any inclement weather. A sudden, heavy rainfall can cause a sluggish
+stream or river to become torrential quickly, particularly in mountainous, tropical, and arid regions. Monitor
+weather reports for the areas adjacent to streams and rivers because storms that occur miles away can cause
+flash flooding. It may also be helpful to review historical meteorological data to determine whether the area
+is subject to extreme seasonal weather events. Planners should also consider the impact that upstream dams
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  5-7
+
+
+---
+
+Chapter 5
+
+     or locks may have if they become damaged, destroyed, or are opened to regulate (control) local flooding that
+     is caused by inclement weather.
+
+             Note. When performing a hasty reconnaissance, the actual depth measured is recorded as the
+             normal depth.
+
+     5-28. There are four methods that can be used to determine the width of a gap—
+              Compass method. This method requires that a compass be used to take an azimuth from a point
+                  on the near shore (close to the edge) to a point on the opposite shore (close to the edge). (See
+                  figure 5-6.) On the near shore, establish another point that is on a line and at a right angle to the
+                  azimuth selected. The azimuth to the same point on the far shore is ± 45 degrees (800 mils) from
+                  the previous azimuth. Measure the distance between the two points on the near shore. This distance
+                  is equal to the distance across the gap.
+              Aiming circle, azimuth indicator, or alidade method. Use an aiming circle, azimuth indicator,
+                  or alidade to measure the angle between two points that are a known distance apart on the near
+                  shore and a third point directly across the gap from one of these points. (See figure 5-7.) Using
+                  trigonometric relationships, compute the distance across the gap.
+              Global positioning system method. Calculate the distance using two known grid points (from a
+                  global positioning system).
+              Direct measurement method. Measure short gaps with a tape measure or a laser range finder
+
+                                                                           where—
+                                                                           A = point on near shore
+                                                                           B = point on far shore
+
+                                                                           The azimuth of line AB is 315° (moving left, add 45°;
+                                                                           moving right, subtract 45°).
+                                                                           The azimuth of line CB is 270°.
+                                                                           The difference between azimuth AB and azimuth CB
+                                                                           is 45°.
+                                                                           The distance along AC equals the distance along AB.
+
+                           Figure 5-6. Compass method to measure width of stream
+
+     Figure 5-7. Measuring gap width with a surveying instrument
+
+5-8  ATP 3-34.81/MCWP 3-17.4                                      1 March 2016
+
+
+---
+
+                                                                 Technical Reconnaissance—Assessments and Surveys
+
+5-29. Current velocities vary in different parts of a stream or river. The velocity is usually slower near the
+shore and faster in the main channel. Perform the following procedure to determine stream or river velocity—
+
+        Measure a distance along a riverbank.
+        Throw a light floating object (not affected by the wind) into the stream or river.
+        Record the time it takes the object to travel the measured distance.
+        Repeat the procedure at least three times.
+        Use the average time of the test in the format shown in figure 5-8 to determine the stream velocity.
+
+                                           Figure 5-8. Finding stream velocity
+
+     5-30. Gently sloping stream approaches are desirable for fording and swimming operations. Slope is
+     expressed in percent. The slope climbing capability is considered for vehicles that are expected to ford or
+     swim the water. This information is usually located on the vehicle data plate, on the vehicle dash plate, or in
+     the vehicle technical manual. When considering slope climbing capability, consider the degrading effects of
+     weather, the condition of the vehicle tires or tracks, the quantity of vehicles using the site, and the condition
+     of the ground surface on both sides of the stream. When bank improvements are necessary, include the scope
+     of work required on DD Form 3015, Engineer Reconnaissance Report.
+
+     5-31. Consider the following obstacles during river reconnaissance:
+              High, vertical banks.
+              Mines and booby traps that are located at the entrance, exit, or likely approaches; submerged; or
+                  attached to poles and floating logs.
+              Debris and floating objects (logs, brush, cadavers, poles, floating logs with wire attached) that can
+                  foul propellers and suspension systems.
+              Ice crusts.
+
+UNDERWATER RECONNAISSANCE
+
+     5-32. The Army engineer force structure includes diving teams that can conduct underwater reconnaissance
+     for deepwater fording sites, and the diving teams determine bottom conditions. When the divers cannot easily
+     span the distance between banks, other means of deployment are required to deliver divers to selected
+     entrances and drop off sites at regular intervals. Engineer light diving teams routinely conduct river
+     reconnaissance at night.
+
+     5-33. To assist underwater reconnaissance teams in maintaining direction, weighted lines (transverse lines)
+     may be placed across the bottom of the water obstacle. Buoys or other floating objects are attached to the
+     lines to indicate the survey area for underwater reconnaissance teams. When the current is greater than
+     1.3 meters per second, underwater reconnaissance personnel will have difficulty maintaining a position along
+     the line selected. To assist divers, another transverse line that is parallel to the original line (with lateral lines
+     connecting both lines) may be placed upstream. The operational techniques that are required to compensate
+     for the current velocity and other environmental factors should be considered when employing a dive team.
+     These can include local security at the reconnaissance site, surface support, and underwater environmental
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  5-9
+
+
+---
+
+Chapter 5
+
+     factors (water temperature, turbidity, visibility, bottom clutter, chemical contamination, biological and other
+     hazards [disease, dangerous marine animals]) that affect the pace and accuracy of the reconnaissance.
+
+ENGINEER RESOURCE ASSESSMENT
+
+     5-34. ERTs, augmented ERTs, and assessment teams conduct an engineer resource assessment to determine
+     the location, availability, and suitability of existing engineer resources within an assigned AO, which may be
+     useful or necessary to engineer support. ERTs will typically include an assessment of engineer resources as
+     part of an area reconnaissance, while an assessment team may be nearly exclusively focused on collecting
+     specific engineer resource information.
+
+     5-35. The information collected can pertain to availability and suitability of construction materials, raw
+     materials, or local commercial engineer capabilities (skilled labor, equipment, construction firms). The
+     assessment team can be employed in conjunction with other reconnaissance. The assessment team movement
+     must be coordinated with the respective maneuver commander of the area to be reconnoitered by the team.
+     The assessment report is used to report engineer information requirements not adequately covered by any of
+     the other reconnaissance capabilities.
+
+INFRASTRUCTURE RECONNAISSANCE
+
+     5-36. Infrastructure reconnaissance is a multidisciplinary reconnaissance focused on gathering
+     technical information on the condition and capacity of existing public systems, municipal services, and
+     facilities within an assigned area of operations. Infrastructure reconnaissance seeks to assess
+     SWEAT-MSO. SWEAT-MSO is the common memory aid that reminds users of categories of concern within
+     the infrastructure.
+
+     5-37. The engineer will likely be responsible for coordinating infrastructure reconnaissance but also relies
+     on other branches for support depending on the category or required expertise. The infrastructure
+     reconnaissance team includes expertise from at least the engineer, civil affairs, preventive medicine, and
+     military police disciplines. Augmentation from additional disciplines is provided when necessary.
+
+     5-38. Similar to other reconnaissance endeavors, infrastructure reconnaissance involves the collection and
+     analysis of data over time. Depending on the intensity and tempo of military activity that is occurring,
+     information collected and reported by the infrastructure assessment and survey teams can overlap as depicted
+     in figure 5-9. As a result, combat engineer units are generally the first to conduct an initial infrastructure
+     assessment. The initial assessment can be used by planners to tailor the composition and guide the positioning
+     of infrastructure survey teams. A series of smartcards are available to assist with the more detailed
+     infrastructure survey. (See appendix C.)
+
+     5-39. As the commander becomes concerned about infrastructure issues and how those issues affect the
+     military operation, demand for infrastructure information becomes a priority. Common questions of interest
+     regarding the infrastructure include—
+
+              Has the infrastructure been maintained?
+              Who built that component of the infrastructure?
+              Are repair parts and equipment available?
+              Will host nation employees return to the site after hostilities?
+              Is the infrastructure protected or can it be?
+
+     5-40. In some infrastructure reconnaissance cases and typically with assessments, the assessment team will
+     be required to collect information on or to inspect infrastructure categories without significant knowledge of
+     the systems being inspected. The results will have significant gaps, but they should be adequate to help
+     prioritize and plan further reconnaissance. Smartcards are employed to focus collection within each
+     infrastructure category on the major technical components of the systems. The smartcards have the following
+     objectives:
+
+              Assist the inspector in identifying and inventorying the primary components of the system.
+              Indicate what types of damage the inspector should be looking for and reporting.
+              Provide guidance for collecting the information visually or from operators and locals workers.
+
+5-10  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+              Technical Reconnaissance—Assessments and Surveys
+
+                               Figure 5-9. Assessment overlapping survey
+
+5-41. Specific situations may not require inspection and inventory of all the components covered in each
+infrastructure reconnaissance smartcard. The first part of the smartcard provides a brief overview of the
+infrastructure category, how it works, and some of the major components in the system. The second part is
+the form that the inspector uses to collect inventory and inspection information. The assessment team should
+consider relevant SWEAT-MSO work sheet and the following tools to assist in collecting information:
+
+        Multi-tool knife.
+        Flashlight.
+        Hammer.
+        Global positioning system receiver.
+        Digital camera.
+        Safety equipment (personal protective equipment).
+        Tape measure.
+        Measuring wheel.
+        Binoculars.
+        Teleengineering Communications Kit-Deployable.
+        Reconnaissance and Surveying Instrument Set (common name: ENFIRE).
+
+5-42. The assessment team may be required to determine an overall status for each infrastructure category.
+Color-coding is a common status indicator. Table 5-1, page 5-12, provides guidance for the status color-
+coding of each infrastructure category.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  5-11
+
+
+---
+
+Chapter 5
+
+             Table 5-1. Status color coding of infrastructure categories
+
+  Category           Green                    Amber                      Red                     Black
+Sewage                                                        No treatment             Sewage treatment
+             Sewage system          Sewage system works,      observed, but            system is destroyed.
+Water        works                  but treatment status is   treatment plant exists.
+             consistently.          undetermined.             Sewage is observed,      Presence of raw
+Electricity                                                   and odor is present.     sewage is a public
+             No sewage is           No sewage is                                       health issue.
+Academics    observed, and          observed, but there is    Operational in less
+Trash        there is no odor.      odor present or the       than 50% of public       No operational
+                                    system is damaged.        facilities.              sewage in public
+             Sewage system is                                                          facilities.
+             operational in         Sewage system is          Water distribution
+             100% of public         operational in 50% or     does not work.           Water distribution
+             facilities.            more of public                                     system is destroyed.
+                                    facilities.               Water does not
+             Water distribution                               appear clean and         Water is tested as
+             works at 100%          Water distribution        local populace states    nonpotable, appears
+             capacity.              works at 50% or more      that it is not clean.    contaminated, and/or
+                                    of capacity and/or        Running water is in      has a bad odor.
+             Water tested as        there are some leaks.     less than 50% of         No running water in
+             clean or local                                   public facilities.       public facilities.
+             populace is            Water appears clean,      Power distribution
+             consuming.             with no smell and the     system is unreliable;    Power distribution
+                                    local populace states     there are frequent       system is destroyed.
+             Running water is       that it is clean.         blackouts.
+             in 100% of public                                Electric lines are less  Electric lines are all
+             facilities.            Running water is in       than 50%; there is       down; hot wires
+                                    50% or more of public     major damage or          exposed; significant
+             Power distribution     facilities.               noticeable power         power loss.
+             system works;                                    loss.
+             blackouts are          Power distribution        Power grid station is    Power grid station is
+             planned.               system works;             nonoperational;          stripped or
+                                    blackouts are             unable to secure.        destroyed.
+             Electric lines are     unplanned.                Building is useable;     Building is not
+             100%; there is no                                utilities operate less   useable; utilities are
+             damage and/or no       Electric lines are 50%;   than 50%; not secure.    nonfunctional.
+             power loss.            there is minor damage
+                                    or undetermined power     Academic resources       Extremely limited
+             Power grid station     loss.                     are available to less    academic resources.
+             intact and secure.                               than 50%.
+                                    Power grid station is                              No trash collection.
+             Building is            operational, but it is    No formal trash
+             serviceable; all       not secure.               collection system.       Trash is consolidated
+             utilities operational                                                     in an area that
+             and secure.            Building is adequate;     Central trash            presents a health
+                                    utilities operate over    collection area          hazard.
+             Academic               50%, but are not          presents a possible
+             resources are          secure.                   health hazard.           Public facilities have
+             available to all                                                          excess trash.
+             students.              Academic resources        Public facilities have
+                                    are available to 50% or   no means to remove
+             Formal trash           more.                     trash.
+             collection system
+             is operational.        Formal trash collection
+                                    system exists, but it is
+             Trash collection is    limited.
+             in a central area
+             that does not          No known central trash
+             present a health       collection area.
+             hazard.
+                                    Limited trash in public
+             No trash buildup       facilities; relatively
+             in public facilities.  clean.
+
+5-12                                ATP 3-34.81/MCWP 3-17.4                            1 March 2016
+
+
+---
+
+                                          Technical Reconnaissance—Assessments and Surveys
+
+              Table 5-1. Status color coding of infrastructure categories (continued)
+
+   Category                Green                    Amber                     Red                   Black
+Medical          Medical facilities are   Medical facilities are                           Medical facilities
+                 functional and secure;   useable but not           Medical facilities     are not useable
+(Public) Safety  there is backup power    secure; there is no       are unsanitary;        due to damage,
+                 and minimal              backup power and          there are significant  unsanitary
+Other            equipment issues.        some equipment            equipment and          conditions, or
+considerations:                           shortages.                supply shortages.      looting.
+Roads and        Emergency services       Emergency services                               Emergency
+Railroads        are available,           exist (ground             Emergency              services are not
+                 including multiple       transport only).          services are           available.
+Other            ambulatory services.                               unavailable; ground
+considerations:                           Limited veterinary        transport does not     Veterinary services
+Bridges and      Veterinary services      services are              have medically         are not available.
+Waterways        are available; an        available; holding        trained personnel.
+                 animal holding area is   area is inadequate.                              Police department
+                 available.               Police department is      On-call veterinary     is nonfunctional;
+                 Police department is     functional a minimum      services, but no       building is not
+                 functional; the          of 50%; building is       holding area.          useable; equipment
+                 building is secure;      securable; equipment                             is unavailable.
+                 equipment is             is available and          Police department
+                 available and            operational more than     is functional less     Fire department is
+                 operational.             50%.                      than 50%; unable       nonfunctional;
+                                          Fire department is        to secure the          building is not
+                 Fire department is       functional a minimum      building; limited      useable; equipment
+                 functional; building is  of 50%; building is       equipment is           is unavailable.
+                 secure; equipment is     securable; equipment      available.
+                 available and            is available and                                 Road is not
+                 operational.             operational more than     Fire department is     trafficable.
+                                          50%.                      functional less than
+                 Road is Class C at a     Road is Class D at a      50%; unable to         Railroad system
+                 minimum that can be      minimum; damage           secure the building;   did exist, but it now
+                 upgraded, and it has     and upgrade               limited equipment      has extensive
+                 no visible damage.       requirements will         is available.          damage to the
+                                          affect traffic flow.                             track and the
+                 Railroad system is                                 Road is Class E at     trains.
+                 operational.             Railroad is damaged,      a minimum;             Bridges are not
+                                          but resources to          upgrade                trafficable, and they
+                 Bridges are              repair are available;     requirements are       are impassable.
+                 trafficable, with no     jacks are available.      significant, and
+                 visible damage.                                    materials are not      Construction repair
+                                          Bridges are               readily available.     is required before
+                 The MLC is verified      trafficable; supports                            MLC can be
+                 through ERDC or          are intact, but there is  Railroad damage is     determined.
+                 Naval Facilities         damage to spans.          extensive;
+                 Engineering                                        resources to repair
+                 Command.                 The MLC is                are not readily
+                                          calculated but not        available.
+                                          verified due to
+                                          damage.                   Bridges are not
+                                                                    trafficable for the
+                                                                    military and risky
+                                                                    for civilians; there
+                                                                    is damage to spans
+                                                                    and supports.
+
+                                                                    The MLC is
+                                                                    ineffective due to
+                                                                    damage.
+
+1 March 2016                              ATP 3-34.81/MCWP 3-17.4                          5-13
+
+
+---
+
+Chapter 5
+
+           Table 5-1. Status color coding of infrastructure categories (continued)
+
+    Category              Green                   Amber                      Red                   Black
+Other                                    Inspection and                                  Inspection and
+considerations:  Inspection and          evaluation                 Inspection and       evaluation
+Bridges and      evaluation shows        determines strength        evaluation           determines that the
+Waterways        original strength       support issues.            determines           bridge cannot
+(continued)      assessment is valid.                               minimal              support weight.
+Other                                    Airport can support        supportable
+considerations:  Airport is capable of   limited military traffic;  strength.            Airport is not working
+Airports         supporting military     there is no visible                             or unavailable.
+                 and civilian traffic    damage.                    Airport is
+Other            concurrently; there is                             damaged; utilities   Runway is not
+considerations:  no visible damage.      Runway is                  and structures       serviceable;
+Housing          Runway, taxiway,        serviceable, but           are not reliable or  dimensions will not
+                 and parking aprons      taxiway and parking        safe.                support military
+Other            are serviceable;        is limited (C130/C17                            aircraft; major repair
+considerations:  working and parking     only).                     Runway is not        and upgrades are
+Communications   maximum aircraft on                                serviceable; but     required.
+                 the ground is greater   Residences are             can be repaired
+Other            than or equal to 2      damaged and need           with available       Residences are
+considerations:  (military).             structural evaluation;     resources.           destroyed.
+Hazardous        Residences are          they offer limited
+Materials        structurally sound      protection from the        Residences are       Utilities are
+                 and offer protection    environment.               damaged and          nonoperational.
+                 from the                Utilities are working      structurally
+                 environment.            over 50%, but they         unsafe; no           Telephone hookups
+                                         are not reliable.          protection from      or equipment is not
+                 Utilities are working                              the environment.     available.
+                 and reliable.           Telephone hookups
+                                         are available; some        Utilities work less  Postal system is not
+                 Telephone system is     equipment is               than 50% and         available.
+                 operational and         available and              require significant
+                 reliable in public      somewhat reliable.         repairs.             Media is not
+                 facilities.             Postal system is                                available.
+                                         slow; over 50% of the      Limited telephone
+                 Postal system is        mail is delivered.         hookups and          Hazardous materials
+                 operational and                                    equipment are        or hazardous waste
+                 reliable.               One form of media          available but not    is not segregated,
+                                         exists, is operational,    reliable.            stored, or labeled.
+                 Media (television,      available, and
+                 Internet, radio,        reliable.                  Postal system
+                 newspaper) is                                      exists; extremely
+                 operational,            Some hazardous             slow; less than
+                 available, and          materials or               50% of the mail is
+                 reliable.               hazardous waste is         delivered.
+                 Hazardous materials     not properly
+                 and hazardous           segregated, stored,        One form of
+                 waste are properly      or labeled.                media exists, but
+                 segregated, stored,                                it has limited
+                 and labeled.                                       availability and
+                                                                    reliability.
+
+                                                                    Hazardous
+                                                                    materials or
+                                                                    hazardous waste
+                                                                    is not properly
+                                                                    segregated,
+                                                                    stored, or labeled.
+
+5-14                                     ATP 3-34.81/MCWP 3-17.4                         1 March 2016
+
+
+---
+
+                                       Technical Reconnaissance—Assessments and Surveys
+
+              Table 5-1. Status color coding of infrastructure categories (continued)
+
+   Category              Green                 Amber                     Red                     Black
+Other            Containers are        Containers are not
+considerations:  adequate for the      adequate, but there    Containers are           Containers are
+Hazardous        material.             is limited corrosion   inadequate, corroded,    inadequate,
+Materials                              or damage.             and leaking.             corroded, and
+(continued)      Safety measures       Safety measures                                 leaking.
+                 and secondary         and secondary          No safety measures
+Other            containment is in     containment are        or secondary             Safety measures or
+considerations:  place.                inadequate.            containment.             secondary
+Attitude         Hazards               Hazards                                         containment is not
+                 communications        communications         Hazards                  available.
+Legend:          system is in place.   system is limited.     communications
+AO                                                            system is not            Hazards
+BCT              No leaks or spills.   Potential for leaks    available.               communications
+ERDC                                   and spills.                                     system is not
+MLC              Spill prevention and                         Some leaks and spills    available.
+RCT              cleanup measures      Limited spill          are present;
+                 is in place and       prevention and         contaminants may         Gross contamination
+                 available.            cleanup measures       enter air, soil,         is present;
+                 Community leaders     are available.         groundwater, or          contaminants have
+                 are not hostile;      Community leaders      watercourses.            entered air, soil,
+                 religious centers     are neutral;                                    ground water, and
+                 are intact; and the   religious centers      No ability to prevent    watercourses.
+                 community is          are damaged but        or cleanup spills.
+                 supportive of         securable.                                      No ability to prevent
+                 general                                      Community leaders        or cleanup spills.
+                 engineering effort.   Distinct ethnic        are negative; religious
+                 Ethnic tension is     groups exist within    centers are damaged      Community leaders
+                 not present.          the AO; they are       and not securable;       are hostile; religious
+                                       supportive of          and community is         centers are
+                 Unemployment is       general                skeptical of general     destroyed; and
+                 less than 50%.        engineering effort if  engineering support.     community does not
+                                       equal among                                     want general
+                 A formal              groups.                Distinct ethnic groups   engineering
+                 paramilitary threat   Unemployment is        exist within the AO;     assistance.
+                 is not present.       greater than 50%;      one group is
+                                       population is willing  dominant; general        Ethnic violence
+                                       and able to work to    engineering tasks        occurs; one group is
+                                       support general        cannot be                extremely dominant;
+                                       engineering effort.    accomplished for all     general engineering
+                                       Paramilitary threat    groups.                  effort would increase
+                                       is briefed at the                               ethnic tension.
+                                       BCT/RCT level.         Unemployment is
+                                                              greater than 50%;        Unemployment is a
+                                                              population is unable     serious issue;
+                                                              to support general       population is
+                                                              engineering work         unwilling to support
+                                                              effort.                  general engineering
+                                                                                       work effort.
+                                                              Paramilitary threat is
+                                                              a concern at the         Paramilitary threat is
+                                                              BCT/RCT level.           a concern at the
+                                                                                       echelons above
+                                                                                       BCT/RCT level.
+
+                 area of operations
+                 brigade combat team
+                 Engineer Research and Development Center
+                 military load classification
+                 regimental combat team
+
+1 March 2016                           ATP 3-34.81/MCWP 3-17.4                         5-15
+
+
+---
+
+Chapter 5
+
+     5-43. Infrastructure protection may be another element of the infrastructure reconnaissance process that
+     would commonly be addressed as part of the survey stage. This may be important to maintaining the status
+     quo of the infrastructure evaluated during the survey or in providing security while identified repairs are
+     implemented. Infrastructure protection may also be necessary for a time after the infrastructure elements are
+     in full operation to ensure continuing operation. Considering infrastructure protection in the survey phase
+     requires the identification of threats to the infrastructure elements and the vulnerabilities associated with
+     those threats and the development of courses of action for mitigating those vulnerabilities. Those courses of
+     action could involve hardening components of infrastructure elements, identifying forces to protect them,
+     and identifying redundancies that make protection of individual elements unnecessary.
+
+ENVIRONMENTAL RECONNAISSANCE
+
+     5-44. Environmental reconnaissance is focused on collecting technical information on existing
+     environmental conditions and identifying areas that are environmentally sensitive or are of relative
+     environmental concern. An environmental baseline survey is performed before long periods of occupation of
+     a location. Environmental baseline surveys are normally conducted by individuals or teams with a specialized
+     study in geosciences, biology, chemistry or natural sciences, environmental science, environmental policy,
+     or public health. The information collected is used to assess the impact of military operations on the
+     environment and to identify potential environmental impacts on safety and protection. Commanders must be
+     aware of the linkage of environmental concerns to local or regional instabilities. With adequate information
+     on the risks from environmental hazards and the potential for damage to environmentally sensitive areas,
+     planners can mitigate the impact of environmental concerns on the military operation. (See ATP 3-34.5
+     /MCRP 4-11B for additional information on environmental reconnaissance and surveys.)
+
+AIRFIELD ASSESSMENT
+
+     5-45. An airfield assessment is conducted to collect detailed technical information on selected airfields and
+     heliports. Typically, the airfield assessment is preceded by the use of geospatial and other intelligence
+     information. This information provides a baseline level of awareness, helps formulate a listing of preliminary
+     collection requirements, and helps formulate questions about the airfield before arriving at the airfield.
+
+     5-46. The assessment is conducted as part of an infrastructure assessment or as a separate mission focused
+     on the selected facility. Based on the situation, the assessment may be conducted by an ERT, an augmented
+     ERT, an assessment team, or a survey team. The level of detail of the information collected increases in the
+     progression from ERT to survey team. The highest level of survey team will often include Air Force technical
+     participation, especially if the airfield is to be used for intertheater or intratheater air mobility. (See
+     FM 5-430-00-1/AFJPAM 32-8013 and FM 5-430-00-2/AFJPAM 32-8013 for additional information on
+     qualities and capabilities of airfields.) In every case, the information collected can be used to determine the
+     airfield operating capacity and to estimate resources for repair or upgrade of the airfield and its supporting
+     facilities. The assessment is recorded using the airfields smartcard tool in the infrastructure reconnaissance
+     smartcard package. (See the Reachback Engineer Data Integration Smartcard Web site for the smartcard
+     package. See the Web site section of the references for a Web site address.)
+
+     5-47. Pavement damage categories are shown in figure 5-10. Damage to the pavement includes the apparent
+     crater damage and the upheaval of pavement around the crater. The damage category for a given munition
+     depends on the delivery method, extent of penetration, and charge size. See UFC 3-270-07 for additional
+     information.
+
+     5-48. During the performance of amphibious operations or sustained operations ashore, the MAGTF will
+     conduct a survey of those airfields that are seized to determine their suitability to support aviation missions
+     ashore. When necessary, MAGTF engineer units (and seabees) will be deployed ashore to repair, expand, or
+     improve airfields that have been seized and surveyed. Additional details regarding airfield repair, expansion,
+     improvement, and airfield damage repair techniques can be found in MCWP 3-21.1.
+
+5-16  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                        Technical Reconnaissance—Assessments and Surveys
+
+Legend:       foot
+ft            kilogram
+kg            pound
+lb            meter
+m
+
+                        Figure 5-10. Airfield damage categories
+
+5-49. Airfields and heliports are classified by their degree of permanence and type of aircraft (fixed or rotary
+wing) they are designed to support. These controlling aircraft or aircraft combination are identified for each
+kind of facility to establish limiting airfield and heliport geometric and surface strength requirements. See
+ATP 3-37.34/MCWP 3-17.6 for additional information on survivability (hardening) support and the
+construction of revetments for helicopters.
+
+5-50. The maximum (aircraft) on the ground (MOG) is the maximum number of aircraft that can be
+accommodated on an airfield. There are two types of MOG:
+
+        Parking MOG is the total number of aircraft that can be parked at an airfield. Parking MOG is
+             affected by the overall size of the airfield and by how available space is managed.
+
+        Working MOG refers to how many or how quickly parked aircraft can be offloaded, material
+             through putted from the aerial port of debarkation, and aircraft serviced and prepared for departure.
+
+5-51. Materials handling equipment, trucks, buses, and other surface transport vehicles, road networks,
+aircraft support equipment, fuel tankers, personnel, and other factors affect working MOG. Ideally, working
+MOG equals parking MOG. When it is not equal, backlogs occur. MOG is normally expressed in terms of
+C-141s. A minimum of MOG Class 2 is desired for airfields. (See AFPAM 10-1403 for aircraft dimensions.)
+
+1 March 2016            ATP 3-34.81/MCWP 3-17.4                  5-17
+
+
+---
+
+Chapter 5
+
+     5-52. Air Force airfields are classified into six mission categories. A controlling aircraft or combination of
+     controlling aircraft has been designated for each category to establish limiting airfield, geometric, and surface
+     strength requirements. These airfield categories include—
+
+              Light (F15, C-17).
+              Medium (F-15, C-17, B-52).
+              Heavy (F-15, C-5, B-52).
+              Modified heavy (F-15, C-17, B-1).
+              Auxiliary (F-15).
+              Assault landing zone (C-130, C-17).
+
+     5-53. On normal operational airfields, pavements are grouped into the following four traffic areas based on
+     their intended use and design load:
+
+              Type A. Those traffic areas that receive concentrated traffic and the full design weight of the
+                  aircraft. These traffic areas require a greater pavement thickness than other areas on the airfield
+                  and include all airfield runways and, in some cases, taxiways. All airfield pavement structures on
+                  contingency operations airfields are considered Type A traffic areas.
+
+              Type B. Those traffic areas that receive a more even traffic flow and the full design weight of the
+                  aircraft. These traffic areas include parking aprons, pads, and hardstands.
+
+              Type C. Those traffic areas with a low volume of traffic or the applied weight of the operating
+                  aircraft is generally less than the design weight. These traffic areas include secondary taxiways
+                  and washrack pavements.
+
+              Type D. Those traffic areas with an extremely low volume of traffic or the applied weight of the
+                  operating aircraft is considerably lower than the design weight.
+
+     5-54. An airfield can also be described based on its location within the AO—
+              Forward airfields. Forward airfields provide focused logistics support or support combat missions
+                  of short-range aircraft (such as attack helicopters and UAS during contingency operations). These
+                  airfields are designed to initial or temporary contingency operations standards depending on
+                  mission and operational requirements, and forward airfields may be paved or semiprepared. These
+                  may be initially prepared or repaired as FACE tasks.
+              Intermediate airfields. Intermediate airfields Provide general logistics support and support combat
+                  missions of longer-range aircraft during contingency operations or training. These airfields are
+                  designed to temporary or semipermanent standards depending on mission and operational
+                  requirements. Intermediate airfields are normally paved. These airfields provide a link between
+                  forward tactical airfields and sustainment level airfields.
+              Airfields. Airfields provide logistics support forward from fixed, secure bases and support combat
+                  operations of long-range aircraft or training. These airfields are designed to be semipermanent or
+                  permanent facilities.
+
+     5-55. For airfield planning and design, refer to the following publications:
+              FM 5-430-00-1/AFJPAM 32-8013.
+              FM 5-430-00-2/AFJPAM 32-8013.
+              TM 5-820-1/AFM 88-5, Chapter 1.
+              UFC 3-260-01.
+              UFC 3-260-02.
+              UFC 4-141-10N.
+
+5-18  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                           Appendix A
+
+                            Metric Conversion Chart
+
+This appendix complies with AR 25-30 which states that weights, distances, quantities,
+and measurements contained in Army publications will be expressed in both U.S.
+standard and metric units. Table A-1 is a metric conversion chart for the measurements
+used in this publication. For a complete listing of preferred metric units for general use,
+see Fed-Std-376B.
+
+                                      Table A-1. Metric conversion chart
+
+              U.S. Units           Multiplied By                   Equals Metric Units
+                                       0.30480              Meters
+Feet                                                        Meters per second
+                                      18.28800              Centimeters
+Feet per second                        2.54000              Meters
+                                       0.02540              Millimeters
+Inches                                                      Kilometers
+                                      25.40010              Grams
+Inches                                 1.60930              Kilograms
+                                                            Kilopascal
+Inches                              453.59000               Metric (long) tons
+                                       0.45360              Square meters
+Miles (statue)                           6.9000             Square centimeters
+                                       0.90700              Square meters
+Pounds                                 0.09290              Meters
+                                       6.45160
+Pounds                                 0.83610                      Equals U.S. Units
+                                       0.91400              Inches
+Pounds per square inch                                      Pounds
+                                   Multiplied By            Pounds
+Short tons                             0.39370              Miles (statute)
+                                       2.20460              Pounds per square inch
+Square feet                                                 Feet
+                                    0.0022046               Inches
+Square inches                          0.62137              Yards
+                                       0.14493              Feet per second
+Square yards                           3.28080              Short tons
+                                                            Inches
+Yards                                 39.37000              Square inches
+                                       1.09360              Square yards
+              Metric Units             3.28080              Square feet
+                                       1.10200
+Centimeters                            0.03937
+                                       0.15500
+Kilograms                              1.19600
+
+Grams                                 10.76400
+
+Kilometers
+
+Kilopascal
+
+Meters
+
+Meters
+
+Meters
+
+Meters per second
+
+Metric (long) tons
+
+Millimeters
+
+Square centimeters
+
+Square meters
+
+Square meters
+
+Legend:
+
+U.S.                United States
+
+1 March 2016                       ATP 3-34.81/MCWP 3-17.4                                   A-1
+
+
+---
+
+This page intentionally left blank.
+
+
+---
+
+               Appendix B
+
+              Reporting
+
+This appendix is intended to provide a quick reference for reporting of engineer related
+technical information. The first section provides, in table format, the various symbols
+used to describe the results of a route classification on an overlay. The second section
+provides examples of various report formats useful in documenting and reporting the
+results of technical engineer reconnaissance support. See FM 3-34.210/
+MCRP 3-17.2D for an explosive hazard survey form and instructions.
+
+ROUTE CLASSIFICATION SYMBOLS
+
+     B-1. Table B-1 identifies symbols used on route classification overlays.
+                                       Table B-1. Route classification symbols
+
+Symbol                                                       Definition
+
+              Bridge symbol (abbreviated). Use this symbol only when the map scale does not
+              permit the use of the full NATO bridge symbol. Submit DD Form 3011 if this
+              symbol is used. Draw an arrow to the map location of the bridge. Show the bridge
+              serial number in the lower portion of the symbol and the MLC for single-flow traffic
+              in the upper portion. If there are separate load classifications for tracked or
+              wheeled vehicles, show the lesser classification. Underline the classification
+              number if the width or overhead clearance is below minimum requirements.
+
+              Bridge symbol (NATO). The bridge symbol shows—
+                    • Two-way wheeled classification, on the top left.
+
+                    • One-way wheeled classification, on the top right.
+
+                    • Two-way tracked classification, on the middle left.
+
+                    • One-way tracked classification, on the middle right.
+
+                    • Assigned serial number, bottom inside circle.
+
+                    • Traveled-way width, bottom outside circle.
+
+                    • Overhead clearance, on the outside left.
+
+                    • Length, on the outside right.
+
+              Bridge symbol (railway). Place RL above the symbol to indicate a railway bridge.
+              At the left of the symbol, show the overhead clearance (in meters). Show the
+              bridge overall length (in meters) at the right of the symbol. Indicate the traveled-
+              way width below the symbol and underline it if it is below standard for the
+              classification. Inside the symbol, show the bridge classification in the upper half. If
+              the class is different for single- and double-flow traffic, show single flow on the left
+              and double flow on the right. Place the railway bridge serial number in the lower
+              half of the symbol. Draw an arrow to the map location of the bridge. On the arrow
+              shaft, indicate the ease of adapting the bridge for road-vehicle use. A zigzag line
+              means it would be difficult to adapt; a straight line means it would be easy to
+              adapt. Place the bypass symbol on the arrow shaft to indicate bypass conditions.
+              Show the bridge adapted traveled-way width directly below the symbol. Place the
+              number of hours to adapt the bridge to a vehicular roadway below the railway
+              bridge width number. More than 4 hours to adapt railway to roadway must be
+              circled.
+
+              Bypass symbols shown indicate (from left to right) that the bypass is easy,
+              difficult, or impossible.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                                                     B-1
+
+
+---
+
+Appendix B
+
+     Symbol  Table B-1. Route classification symbols (continued)
+
+                                                                  Definition
+
+                  Concealment. Show roads lined with trees by a single line of circles for deciduous
+                  trees and a single line of inverted Vs for evergreen trees. Show woods bordering
+                  a road by several rows of circles for deciduous trees and several rows of inverted
+                  Vs for evergreen trees.
+
+                  Critical points. Number (in order) and describe critical points on DD Form 3015.
+                  Use critical points to show features not adequately covered by other symbols on
+                  the overlay.
+
+                  Constriction (underpass). The number on the left shows the narrowest width of
+                  the constriction; the number on the right is the overhead clearance
+                  (minimum/maximum). Both dimensions are in meters.
+
+             Constriction (width). The number on the left shows the narrowest width of the
+             constriction; the number on the right is the length of the route that is constricted.
+             Both dimensions are in meters.
+
+             Curve with a radius less than 45 meters. The symbol points toward the curve
+             location and shows the actual radius of the curve outside of the triangle.
+
+             A series of sharp curves is shown with a triangle drawn inside another triangle.
+             The number of curves followed by the radius of the sharpest curve is shown
+             outside of the triangles.
+
+             Ferry symbol. The ferry symbol shows—
+                   • Assigned serial number, on the top left.
+                   • Ferry type (V, P, or both), on the top right.
+                   • MLC, enclosed left.
+                   • Dead-weight capacity (if known), enclosed right.
+                   • Ferry turnaround time, bottom bank conditions shown by arrow neck and
+                         tail.
+
+             Ford symbol. The ford symbol shows—
+                   • Assigned serial number, on the top left.
+                   • Ford type (V, P or both), the top second from the left.
+                   • Stream normal velocity, the top second from the right.
+                   • Route type (X, Y, or Z), on the top right.
+                   • Length of the ford, on the bottom left.
+                   • Ford width, on the bottom second from left.
+                   • Nature of the ford bottom, on the bottom second from the right.
+                   • Normal depth, on the bottom right.
+
+             Grades—
+                   • Single arrowhead pointing up—indicates a grade between 5 to 6.9%.
+                   • Double arrowhead pointing up—indicates a grade between 7 to 9.9%.
+                   • Triple arrowhead pointing up—indicates a grade between 10 to 14.9%.
+                   • Four arrowheads pointing up—indicates a grade that is 15% and over.
+
+B-2          ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                             Reporting
+
+Symbol               Table B-1. Route classification symbols (continued)
+
+                                                                          Definition
+
+                          Limits of the reconnoitered route. Show the reconnoitered section starting and
+                          ending points of a route covered by reconnaissance with open-ended arrows.
+                          Further, designate sections of the route that are included by using alphanumeric
+                          designations.
+
+                     Parking area.
+
+10.5m/X/120/00       Railroad grade crossing. Use this symbol to show a level crossing where passing
+6m/Z/30/4.1m/(OB)    trains would interrupt traffic flow. If there is a power line present, show its height
+9m/V/40/5m/(OB) (W)  (in meters) from the ground. Underline the overhead clearance if it is less than
+                     4.3 meters.
+
+                     Route classification format consists of, from left to right—
+                           • Route width, in meters.
+                           • Route type (X, Y, or Z).
+                           • Lowest MLC.
+                           • Lowest overhead clearance, in meters.
+                           • Obstructions to traffic flow (OB).
+                           • Seasonal conditions (T or W).
+
+                     Tunnel symbol shows—
+                           • Minimum/maximum overhead clearance, top left.
+                           • Traveled-way width, bottom center.
+                           • Tunnel length, top right.
+                           • Assigned serial number, inside tunnel type sketch.
+                           • Bypass type, on arrow toward tunnel.
+
+                     Turnout. Use this symbol to show the possibility of driving off the road. Draw the
+                     arrow in the direction of the turnout (right or left of the road). For wheeled
+                     vehicles, draw a small circle on the arrow shaft. For tracked vehicles, draw a
+                     small square on the arrow shaft and place the length of the turnout, in meters, at
+                     the tip of the arrow. When a turnout is longer than 1 kilometer, use double arrows.
+
+Legend:       Department of Defense
+DD            meter
+m             military load classification
+MLC           North Atlantic Treaty Organization
+NATO          obstructions to traffic flow
+OB            pedestrian
+P             railway bridge
+RL            tracked
+T             vehicular
+V             flooding
+W             all weather
+X             limited weather
+Y             fair weather
+Z
+
+1 March 2016                        ATP 3-34.81/MCWP 3-17.4  B-3
+
+
+---
+
+Appendix B
+
+ENGINEER RECONNAISSANCE REPORTS
+
+     B-2. Table B-2 provides a summary of the various engineer reconnaissance reports and the page reference
+     in this appendix where an example is provided.
+
+                                    Table B-2. Engineer reconnaissance reports
+
+              Form                                                            Page
+                                                                           Page B-5
+     DD Form 3009, Route Classification (formerly DA Form 1247)            Page B-12
+                                                                           Page B-15
+     DD Form 3010, Road Reconnaissance Report (formerly DA Form 1248)      Page B-20
+                                                                           Page B-23
+     DD Form 3011, Bridge Reconnaissance Report (formerly DA Form 1249)    Page B-26
+                                                                           Page B-29
+     DD Form 3012, Tunnel Reconnaissance Report (formerly DA Form 1250)    Page B-33
+
+     DD Form 3013, Ford Reconnaissance Report (formerly DA Form 1251)
+
+     DD Form 3014, Ferry Reconnaissance Report (formerly DA Form 1252)
+
+     DD Form 3015, Engineer Reconnaissance Report (formerly DA Form 1711)
+
+     DD Form 3016, River Reconnaissance Report (formerly DA Form 7398)
+
+     Legend:  Department of the Army
+     DA       Department of Defense
+     DD
+
+DD FORM 3009
+
+     B-3. Use a DD Form 3009 to report the technical information collected during route classification.
+     Additionally, route classification information is summarized on the route classification overlay as described
+     in chapter 5. Complete the route classification form as shown in figure B-1.
+
+B-4                                   ATP 3-34.81/MCWP 3-17.4              1 March 2016
+
+
+---
+
+                                               Reporting
+
+              Figure B-1. Sample DD Form 3009
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4          B-5
+
+
+---
+
+Appendix B
+
+            Figure B-1. Sample DD Form 3009 (continued)
+
+B-6         ATP 3-34.81/MCWP 3-17.4                      1 March 2016
+
+
+---
+
+                                                           Reporting
+
+              Figure B-1. Sample DD Form 3009 (continued)
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                      B-7
+
+
+---
+
+Appendix B
+
+            Figure B-1. Sample DD Form 3009 (continued)
+
+B-8         ATP 3-34.81/MCWP 3-17.4                      1 March 2016
+
+
+---
+
+                                                           Reporting
+
+              Figure B-1. Sample DD Form 3009 (continued)
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                      B-9
+
+
+---
+
+Appendix B
+
+            Figure B-1. Sample DD Form 3009 (continued)
+
+B-10        ATP 3-34.81/MCWP 3-17.4                      1 March 2016
+
+
+---
+
+                                                                      Reporting
+
+Legend:       Army techniques publication
+ATP           attention
+attn          Department of the Army
+DA            Department of Defense
+DD            December
+Dec           July
+Jul           kilometer
+km            meter
+m             Marine Corps warfighting publication
+MCWP          military load class
+MLC           Sergeant First Class
+SFC           United States Army Training and Doctrine Command
+TRADOC        United States of America
+USA
+                         Figure B-1. Sample DD Form 3009 (continued)
+
+DD FORM 3010
+
+     B-4. Use DD Form 3010 to report the technical information collected during road reconnaissance.
+     Additionally, the road information is summarized on the route classification overlay. Complete the road
+     reconnaissance form as follows (see figure B-2, page B-12):
+
+              There are four date blocks on the form (3 on the front side and 1 on the back); record the same
+                  date in each.
+
+              Block 1a should indicate the country and the map name, not just the country.
+              Block 1c should indicate the sheet number, edition, and map sheet date.
+              Block 3 requires at least a 6-digit grid coordinate.
+              In section II, record the information for the most limiting characteristics of the road.
+              Section III(d) should read, “Curves with a radius of 25 meters or less. Also record curves with a
+
+                  radius of 25.1 to 45 meters.”
+              In section IV, complete the scale block as follows: Scale: ___units = ___kilometers. Include the
+
+                  road classification format for each section of the road. Indicate obstruction locations on the sketch.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                                 B-11
+
+
+---
+
+Appendix B
+
+B-12        Figure B-2. Sample DD Form 3010            1 March 2016
+                              ATP 3-34.81/MCWP 3-17.4
+
+
+---
+
+                                                                   Reporting
+
+1 March 2016  Figure B-2. Sample DD Form 3010 (continued)          B-13
+                                          ATP 3-34.81/MCWP 3-17.4
+
+
+---
+
+Appendix B
+
+Legend:     First Lieutenant
+1LT         Army techniques publication
+ATP         attention
+attn        Department of the Army
+DA          Department of Defense
+DD          December
+Dec         July
+Jul         June
+Jun         kilometer
+km          meter
+m           Marine Corps warfighting publication
+MCWP        United States Army Training and Doctrine Command
+TRADOC      United States of America
+USA
+                       Figure B-2. Sample DD Form 3010 (continued)
+
+DD FORM 3011
+
+     B-5. Use DD Form 3011 to report the technical information collected during a bridge reconnaissance. The
+     bridge information is summarized on the route classification overlay when part of a route classification.
+     Complete the bridge reconnaissance form as follows (see figure B-3):
+
+              Column 1. Record the assigned serial number. This number matches the serial number used in the
+                  bridge symbol of the route classification overlay.
+
+              Column 2. Record the 8-digit grid coordinates and the map identifier of the bridge site.
+
+              Column 3. Record the horizontal clearance information in meters. The horizontal clearance is the
+                  clear distance between the inside edges of the bridge structure, measured at a height of 0.3 meters
+                  above the surface of the traveled way and upwards. However, horizontal clearance for truss
+                  bridges is measured 1.21 meters above the traveled way. Any horizontal clearance less than the
+                  minimum required for the bridge roadway width (table B-3, page B-17) is underlined. Unlimited
+                  clearance is indicated by the infinity (∞) symbol.
+
+              Column 4. Record the under-bridge clearance in meters. It is the clear distance between the
+                  underside of each span and the surface of the water. The height above the streambed and the height
+                  above the estimated normal water level (pertaining to the appropriate bridge type) are included in
+                  this column for each span.
+
+              Column 5. If the bridge is oriented more north to south, start with the northern most span and
+                  work south. Place the letter N in column 5 before the first span in the sequence. If the bridge is
+                  oriented more east than west, start with the eastern most span and work west. Place the letter E in
+                  column 5 before the first span in the sequence. For each span, list a sequence number followed by
+                  a slash and the total number of spans. Columns 5, 6, 7, and 8 are completed for each span.
+
+              Column 6. Record the type of span construction. Refer to the numbers in table B-4, page B-17,
+                  and the diagrams in figure B-4, page B-18, for this information.
+
+              Column 7. Record the type of construction material. Refer to table B-5, page B-19, for this
+                  information.
+
+              Column 8. Record the span length in meters. This is a center-to-center spacing between bearings.
+                  The sum of the span length may not equal the overall length. Spans that are not usable because of
+                  damage or destruction are indicated by the pound (#) symbol, placed after the dimension of the
+                  span length. Spans that are over water are indicated by placing the letter W after the dimension of
+                  the span length. (See figure B-3.)
+
+B-14        ATP 3-34.81/MCWP 3-17.4                                 1 March 2016
+
+
+---
+
+                                               Reporting
+
+              Figure B-3. Sample DD Form 3011
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4          B-15
+
+
+---
+
+Appendix B
+
+B-16        Figure B-3. Sample DD Form 3011 (continued)          1 March 2016
+                                        ATP 3-34.81/MCWP 3-17.4
+
+
+---
+
+                                                                                         Reporting
+
+Legend:       Army techniques publication
+ATP           attention
+attn          centimeter
+cm            Department of the Army
+DA            Department of Defense
+DD            December
+Dec           July
+Jul           meter
+m             Marine Corps warfighting publication
+MCWP          route
+Rt            Sergeant First Class
+SFC           United States Army Training and Doctrine Command
+TRADOC        United States of America
+USA
+                         Figure B-3. Sample DD Form 3011 (continued)
+
+                        Table B-3. Minimum roadway widths
+
+Roadway Width (meters)                                   Bridge Classification  Two-Way
+                                         One-Way                                     0
+                                                                                     0
+         2.75–3.34                       12                                          0
+                                                                                     0
+         3.35–3.99                       30                                          0
+                                                                                    30
+              4–4.49                     60                                         60
+
+              4.5–4.99                   100                                        100
+                                                                                    150
+              5–5.4                      150
+
+              5.5–7.2                    150
+
+              7.3–8.1                    150
+
+              8.2–9.7                    150
+
+              Over 9.8                   150
+
+Note. The minimum overhead clearance for all classes is 4.3 meters.
+
+                        Table B-4. Span construction types
+
+                    Span Type                                     Number
+Truss                                                                 1
+Girder (including steel multigirder and
+two girder spans)                                                     2
+Beam (including reinforced or
+prestressed concrete and steel box                                    3
+beam spans)
+Slab                                                                  4
+Arch (closed spandrel)                                                5
+Arch (open spandrel)                                                  6
+Suspension                                                            7
+Floating                                                              8
+Swing                                    9 (specify type in additional information)
+Bascule                                  10 (specify type in additional information)
+Vertical lift                                                         11
+Other                                    12 (specify type in additional information)
+
+1 March 2016                             ATP 3-34.81/MCWP 3-17.4                         B-17
+
+
+---
+
+Appendix B
+
+            Figure B-4. Typical bridge spans
+
+B-18        ATP 3-34.81/MCWP 3-17.4           1 March 2016
+
+
+---
+
+                                                               Reporting
+
+              Table B-5. Construction material
+
+                 Material of Span Construction  Letter Symbol
+              Steel or other metal                       a
+              Concrete                                   k
+              Reinforced concrete                       ak
+              Prestressed concrete                      kk
+              Stone or brick                             p
+              Wood                                       h
+              Other (specify by name)                    o
+
+B-6. Under the Additional Bridge Information block in DD Form 3011, the columns are added to give the
+MLC, overall length, roadway width, overhead clearance, and bypass possibilities (specify use easy, difficult,
+or impossible). Indicate whether the bridge is simply supported or continuous. (See figure B-3, page B-15.)
+
+B-7. DD Form 3011 should include a sketch and photographs when possible. Show as much information as
+possible when sketching the bridge on page 2 of DD Form 3011 (see figure B-3). For bridges that present a
+challenge to reconnaissance elements collecting information and determining a classification, reachback
+assistance is available through the U.S. Army Corps of Engineers and the Naval Facilities Engineering
+Command.
+
+DD FORM 3012
+
+     B-8. Use DD Form 3012 to report the technical information collected during the reconnaissance of tunnels
+     on routes. Additionally, the tunnel information is summarized on the route classification overlay. Complete
+     the tunnel reconnaissance form as follows (see figure B-5, page B-20):
+
+              Block 2. Record the grid coordinates for the start of the route on which the tunnel is located.
+              Block 3. Record the grid coordinates for the end of the route on which the tunnel is located.
+              Block 8. Record the tunnel number found on the map sheet, head wall, or data plate of the tunnel.
+
+                  If a number is not found, assign an appropriate number based on the unit SOP. If there is a different
+                  number on the map than on the tunnel, record both serial numbers.
+              Block 9. Record the distance and direction from the nearest town.
+              Block 13. Record the number of railroad tracks passing through the tunnel, if applicable.
+              Block 15. Record the vertical clearance (the shortest clearance from the road surface in the tunnel
+                  to the lowest point on the ceiling above the traveled way). Also, record the distance from the
+                  sidewalk to the ceiling if traffic can travel on the sidewalks.
+              Block 15 (continued). Record the horizontal clearance. The horizontal clearance is the roadway
+                  width or the roadway width and sidewalks/emergency lanes (where vehicles can move through
+                  the tunnel without striking the top or sides).
+              Block 16. Record the internal tunnel grade.
+              Block 17. State whether the tunnel is straight or curved. Record curves that may restrict traffic
+                  flow.
+              Block 19. Record a description of the tunnel entrances (portals) and their composition.
+              Block 22. Mark the applicable box. Some tunnels are chambered for demolition. This means that
+                  the tunnel has predesigned locations for placing demolitions to destroy the tunnel and deny use by
+                  the enemy.
+              Block 23. Record the date that the tunnel was constructed.
+              Block 27. Record the grade of the tunnel entrances.
+              Block 29. Inspect the rock or soil at the tunnel entrances. If a rock or mudslide is possible, record
+                  the location and possible solution to the problem.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                          B-19
+
+
+---
+
+Appendix B
+
+B-20        Figure B-5. Sample DD Form 3012            1 March 2016
+                              ATP 3-34.81/MCWP 3-17.4
+
+
+---
+
+                                                                   Reporting
+
+1 March 2016  Figure B-5. Sample DD Form 3012 (continued)          B-21
+                                          ATP 3-34.81/MCWP 3-17.4
+
+
+---
+
+Appendix B
+
+Legend:     Army techniques publication
+ATP         attention
+attn        Department of the Army
+DA          Department of Defense
+DD          December
+Dec         July
+Jul         kilometer
+km          Marine Corps warfighting publication
+MCWP        Pennsylvania
+PA          Sergeant First Class
+SFC         United States Army Training and Doctrine Command
+TRADOC
+                       Figure B-5. Sample DD Form 3012 (continued)
+
+DD FORM 3013
+
+     B-9. Use DD Form 3013 to report the technical information collected during ford reconnaissance.
+     Additionally, when the ford reconnaissance is part of a route classification, the ford information is
+     summarized on the route classification overlay. Complete the ford reconnaissance form as shown in
+     figure B-6.
+
+B-22        ATP 3-34.81/MCWP 3-17.4                                 1 March 2016
+
+
+---
+
+                                                         Reporting
+
+1 March 2016  Figure B-6. Sample DD Form 3013            B-23
+                                ATP 3-34.81/MCWP 3-17.4
+
+
+---
+
+Appendix B
+
+            Figure B-6. Sample DD Form 3013 (continued)
+
+B-24        ATP 3-34.81/MCWP 3-17.4                      1 March 2016
+
+
+---
+
+                                                                      Reporting
+
+Legend:       Army techniques publication
+ATP           attention
+attn          Department of the Army
+DA            Department of Defense
+DD            December
+Dec           July
+Jul           kilometer
+km            meter
+m             Marine Corps warfighting publication
+MCWP          North
+N             route
+Rt            southeast
+SE            second
+sec           Sergeant First Class
+SFC           United States Army Training and Doctrine Command
+TRADOC        Virginia
+VA
+                         Figure B-6. Sample DD Form 3013 (continued)
+
+DD FORM 3014
+
+     B-10. Use DD Form 3014 to report the technical information collected during ferry reconnaissance.
+     Additionally, when the ferry reconnaissance is part of a route classification, the ferry information is
+     summarized on the route classification. Complete the ferry reconnaissance form as shown in figure B-7,
+     page B-26.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                                 B-25
+
+
+---
+
+Appendix B
+
+B-26        Figure B-7. Sample DD Form 3014            1 March 2016
+                              ATP 3-34.81/MCWP 3-17.4
+
+
+---
+
+                                                           Reporting
+
+              Figure B-7. Sample DD Form 3014 (continued)
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                      B-27
+
+
+---
+
+Appendix B
+
+Legend:     Army techniques publication
+ATP         attention
+attn        Department of the Army
+DA          Department of Defense
+DD          December
+Dec         east
+E           kilometer
+km          meter
+m           Marine Corps warfighting publication
+MCWP        Maryland
+MD          north
+N           not applicable
+NA          south
+S           Sergeant First Class
+SFC         United States Army Training and Doctrine Command
+TRADOC      Virginia
+VA          west
+W
+                       Figure B-7. Sample DD Form 3014 (continued)
+
+DD FORM 3015
+
+     B-11. Use DD Form 3015 to report the technical information collected during an engineer resource
+     assessment. Additionally, the engineer reconnaissance report can be used to report other significant engineer
+     information not covered by any of the other reports in this appendix. Complete the engineer reconnaissance
+     form as follows (see figure B-8):
+
+              Heading. Self-explanatory.
+
+              Key. The key references the item of the report and its corresponding location on the map overlay.
+                  The object serial number (or critical point number) is entered in this column.
+
+              Object. Shown by a conventional symbol (see figure B-9, page B-31) or a brief written
+                  description.
+
+              Work estimate. If a work estimate is included as part of the report, enter yes; if not, enter no.
+              Additional Remarks. In this column, report the object location by grid coordinates followed by
+
+                  remarks, calculations, and sketches. Make this information as detailed as possible to alleviate the
+                  necessity for an additional reconnaissance.
+
+              Work estimate. The work estimate is on page 2 of DD Form 3015. Each work estimate is keyed
+                  by a serial or critical point number to the appropriate object on the reverse side of the form. Only
+                  the appropriate columns need be completed. Draw additional sketches when necessary. (See
+                  figure B-8.)
+
+B-28        ATP 3-34.81/MCWP 3-17.4                                 1 March 2016
+
+
+---
+
+                                                         Reporting
+
+1 March 2016  Figure B-8. Sample DD Form 3015            B-29
+                                ATP 3-34.81/MCWP 3-17.4
+
+
+---
+
+Appendix B
+
+Legend:     Army techniques publication
+ATP         attention
+attn        Department of the Army
+DA          Department of Defense
+DD          meter
+m           Marine Corps warfighting publication
+MCWP        November
+Nov         Sergeant First Class
+SFC         United States Army Training and Doctrine Command
+TRADOC      United States of America
+USA
+                       Figure B-8. Sample DD Form 3015 (continued)
+
+B-30        ATP 3-34.81/MCWP 3-17.4                                 1 March 2016
+
+
+---
+
+                                                     Reporting
+
+              Figure B-9. Engineer resource symbols
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                B-31
+
+
+---
+
+Appendix B
+
+                               Figure B-9. Engineer resource symbols (continued)
+
+DA FORM 2203
+
+     B-12. Use DA Form 2203 to report the technical information collected during demolition reconnaissance.
+     Complete the demolition reconnaissance record as described in FM 3-34.214/MCRP 3-17.7L. This form is
+     marked with the appropriate security classification statement when completed. No markings are required for
+     training purposes.
+
+DD FORM 3016
+
+     B-13. Use DD Form 3016 to report the technical information collected during river reconnaissance.
+     Additionally, when the river reconnaissance is part of a route classification, the river information is
+     summarized on the route classification overlay. Complete the river reconnaissance form as shown in
+     figure B-10.
+
+B-32        ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                          Reporting
+
+1 March 2016  Figure B-10. Sample DD Form 3016            B-33
+                                 ATP 3-34.81/MCWP 3-17.4
+
+
+---
+
+Appendix B
+
+            Figure B-10. Sample DD Form 3016 (continued)
+
+B-34        ATP 3-34.81/MCWP 3-17.4                       1 March 2016
+
+
+---
+
+                                                                      Reporting
+
+Legend:       Army techniques publication
+ATP           attention
+attn          Department of the Army
+DA            Department of Defense
+DD            December
+Dec           feet
+ft            feet per second
+fps           July
+Jul           kilometers
+km            meter
+m             Marine Corps warfighting publication
+MCWP          meters per second
+mps           Sergeant First Class
+SFC           southwest
+SW            United States Army Training and Doctrine Command
+TRADOC
+                        Figure B-10. Sample DD Form 3016 (continued)
+
+NORTH ATLANTIC TREATY ORGANIZATION AGREEMENTS
+
+     B-14. NATO nations have concluded a number of agreements on a wide range of engineer matters, which
+     are regularly reviewed. More subject areas are under negotiation. This section provides a summary of the
+     standardization agreements of relevance to engineer reconnaissance. The list of standardization agreements
+     relevant to engineer reconnaissance is shown below with the custodians shown in parenthesis:
+
+              STANAG 2010.
+              STANAG 2017.
+              STANAG 2021.
+              STANAG 2036.
+              STANAG 2143.
+              STANAG 2221.
+              STANAG 2282.
+              STANAG 2369.
+              STANAG 2370.
+              STANAG 2394.
+              STANAG 2929.
+              STANAG 2989.
+              STANAG 2991.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                                 B-35
+
+
+---
+
+This page intentionally left blank.
+
+
+---
+
+                                         Appendix C
+
+                    Infrastructure Reconnaissance
+
+This appendix provides a quick reference for collecting and reporting technical
+information from the major categories of infrastructure and several other categories of
+infrastructure. This appendix provides a guide for the collection of relevant
+information.
+
+ASSESSMENT
+
+C-1. The infrastructure assessment and the infrastructure survey are two stages of infrastructure
+
+reconnaissance used to gather the necessary infrastructure information. The purpose of the assessment is to
+
+provide immediate feedback concerning the status of the basic services necessary to sustain the local
+
+population. The memory aid to describe this assessment is SWEAT-MSO; each of the letters describes a
+
+major         area  within             the  assessment.         (See                     figure
+
+C-1.) The model can be adapted for use at the tactical level in stability or civil support operations. Not all
+
+considerations will be assessed during initial entry, but they will be assessed as operations stabilize. The
+
+infrastructure assessment and survey model can be used during course of action development to delineate
+
+tasks, missions, and effects that support civil-military related objectives. The ERT may also include
+
+specialized additive reconnaissance elements tasked with humanitarian aid assessments that are not related
+
+to brigade level military operations.
+
+                   Figure C-1. The infrastructure assessment and survey model
+
+C-2. The basic services or categories evaluated depend on the situation, mission, and commander’s intent.
+While the assessment is typically performed by engineers, it may be accomplished by others when an
+engineer is not available, depending on the expertise available and the desired type and quality of information
+
+1 March 2016                           ATP 3-34.81/MCWP 3-17.4                           C-1
+
+
+---
+
+Appendix C
+
+     required. If available, leaders should also consult military and nongovernmental organizations, units, and
+     agencies in the area to determine if there are extenuating circumstances that may influence the outcome of
+     the assessment. Typically, engineer planners use this information to define immediate needs and determine
+     priorities of work. While an infrastructure assessment is designed to support the resolution of the immediate
+     challenges, it will normally set the conditions for a successful transition. Some of the primary considerations
+     for the assessment are—
+
+              Sewage. What is the status of the local sewage system? What health and environmental risks exist?
+              Water. What potable water sources are available? Are they adequate? Have they been tested?
+              Electricity. What is the status of electrical generation facilities, to include availability of
+
+                  generators? What is the status of the transmission infrastructure? What critical facilities (hospitals,
+                  government buildings, schools) are not having their needs met? What is the availability of fuel for
+                  transportation, heating, and cooking? Is there an adequate system of distribution?
+              Academics. What schools are in need of repair and rebuilding?
+              Trash. Is there a system in place for removing waste? What hazardous waste streams are being
+                  generated that may have detrimental impacts on health and the environment? What is the ultimate
+                  disposal system for trash?
+              Medical. Are medical services available and operational? Does an emergency service exist? Are
+                  veterinarian services available for animals?
+              (Public) Safety. Is there a police and fire service? Are explosive hazards or other hazards an issue?
+              Other considerations. Other considerations that leaders may consider as a part of the assessment
+                  include—
+                   Transportation networks. Are roads, bridges, and railroads trafficable? Is the airport
+
+                        operational? Do helicopter landing sites exist and are they useable? Can they sustain the local
+                        humanitarian assistance traffic?
+                   Fuel distribution. Is there a fuel distribution system available to commercial and residential
+                        customers?
+                   Housing. Are the homes structurally sound and habitable? Do they include basic utilities?
+                   Explosive hazards. Are ordnance hazards observed?
+                   Environmental hazards. Are environmental hazards observed?
+                   Communications. Is the telephone network available and operational? Does the town have
+                        television, radio, and newspaper access; if so, do they work?
+                   Places of worship. Are there adequate facilities to support religious activities for all groups?
+                   Attitude. Are local people and community leaders supportive? Is there ethnic tension?
+
+     C-3. The USACE provides handbooks, which are used to execute infrastructure reconnaissance assessments
+     and surveys. Examples of infrastructure assessment and survey criteria can be found at the Reachback
+     Engineer Data Integration Smartcard Web site. (See the Web site section of the references for a Web site
+     address.). Table C-1 provides an example of the type of information gathered during the initial infrastructure
+     assessment of a town or location. This information will be used to determine the humanitarian and civic
+     assistance needs of the location. These considerations are not intended to be all-inclusive, but rather another
+     aid to support an assessment. The formal survey will be more specific and in-depth than the information in
+     any assessment. Survey smartcards support the conduct of a survey. Table C-1 uses the SWEAT-MSO model
+     to assist personnel in organizing an assessment strategy. Leaders may use these resources to begin developing
+     priorities, obtaining resources, and refining a plan. Many of the tasks derived from this process will be general
+     engineering tasks (facilities construction, well drilling, power generation, road repair). Focus on the areas
+     described by SWEAT-MSO, and annotate key city official points of contact. The physical location of the
+     reconnaissance should also be collected and reported. Recommend priorities and any key official
+     recommendation for priority.
+
+C-2  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                        Infrastructure Reconnaissance
+
+              Table C-1. Infrastructure assessment considerations
+
+      Area of Assessment                                              Considerations
+S Sewage System                • Status of municipal sewage systems or distribution systems
+                               • Status of sewage systems in commercial or residential properties
+W Water                        • Determination of immediate needs
+                               • Status of water treatment plants or distribution systems
+E Electricity                  • Status of potable water in commercial or residential properties
+A Academics                    • Status of storage capacity
+T Trash                        • Determination of location and capacity of wells
+M Medical                      • Determination of immediate needs
+S (Public) Safety              • Status of electric plants or distribution systems
+                               • Status of electric power in commercial or residential properties
+        Other Considerations   • Determination of alternate power sources
+        Transportation System  • Determination of immediate needs
+        Fuel Distribution      • Status of school buildings
+        Housing                • Status of teachers and supplies
+O                              • Determination of immediate needs
+        Explosive Hazards      • Status of trash collection systems
+                               • Status of disposal sites
+        Environmental Hazard   • Determination of immediate needs
+                               • Status of hospitals or clinic buildings
+        General                • Status of physicians and supplies
+                               • Determination of immediate needs
+                               • Status of police and fire departments
+                               • Status of safety personnel and supplies
+                               • Determination of immediate needs
+
+                               • Status of road system conditions (include sketches if needed)
+                               • Impact on critical transportation needs
+                               • Determination of immediate needs
+
+                               • Status of fuel distribution systems
+                               • Status of storage capacity
+                               • Determination of immediate needs
+
+                               • Status of structures
+                               • Status of utilities
+                               • Determination of immediate needs
+
+                               • Explosive ordnance locations and types (send nine-line EH report as
+                                   required by the mission)
+
+                               • Status of explosive ordnance markings (if yes, marking description)
+                               • Determination of immediate needs
+
+                               • Status of existing and known hazards (describe)
+                               • Status of known, visible chemicals on the ground (describe)
+                               • Status of abandoned manufacturing buildings (are waste
+
+                                    products/streams contained?)
+                               • Determination of immediate needs
+
+                               • Status of population (male and female)
+                               • Status of religious denominations
+                               • Status of ethnic breakdown
+
+1 March 2016                   ATP 3-34.81/MCWP 3-17.4                                                C-3
+
+
+---
+
+Appendix C
+
+SURVEY
+
+     C-4. Infrastructure reconnaissance is accomplished in two stages—
+              The infrastructure assessment.
+              The infrastructure survey.
+
+     C-5. As a follow-on to the assessment, the infrastructure survey provides a detailed description of the
+     condition of major services. The primary difference between the assessment and the survey is the degree of
+     technical information and the expertise required and available to perform the reconnaissance. The survey is
+     normally conducted by forward U.S. Army Corps of Engineers personnel assigned or attached to a forward
+     engineer support team. The survey team integrates with other technical specialties (medical, civil affairs) to
+     enhance the quality of the survey. A large urban area may require more than one survey team to accomplish
+     the necessary breadth of survey requirements. A survey may also require that the area be secure for it to be
+     performed while the assessment may be performed in an area that is not secured yet. The survey and the
+     assessment are best performed when other branch specialties are available to support the base engineer
+     element.
+
+C-4  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                Appendix D
+
+                       Military Load Classification
+
+         The basis for MLC is the effect (load, vehicle speed, tire width) a vehicle has on a
+         bridge when crossing. Heavy loads (artillery, tanks) make vehicle classification an
+         important factor when determining bridge capacity and classifying the overall
+         trafficability of a route.
+
+CLASSIFICATION NUMBER REQUIREMENTS
+
+     D-1. Classification numbers are mandatory for self-propelled vehicles having a total weight of 3 short tons
+     or more and trailers with a payload of 1 1/2 short tons or greater (in compliance with STANAG 2010 and
+     STANAG 2021). Trailers with a rated capacity of less than 1 1/2 short tons are usually combined with their
+     towing vehicle for classification.
+
+     D-2. The MLC information is found in the vehicle technical manual or on the vehicle data plate. Because
+     units do not have the same vehicle types and characteristics, the organization table of equipment vehicle
+     information should be incorporated into the unit SOP as a quick reference table. This information will serve
+     as a quick reference for ERTs when assigned the mission to classifying bridges for crossing with unit
+     equipment. When working with multinational partners, vehicle characteristics should also be considered
+     before assigning limiting characteristics to the capacity of a bridge or route. The MLC determination for
+     crossing vehicles over unsigned bridges can be found in TM 3-34.22/MCRP 3-17.1B.
+
+VEHICLE CLASSIFICATION REQUIREMENT
+
+     D-3. The mathematical computation of a vehicle MLC is beyond the scope of this publication. If a
+     requirement to determine a vehicle classification exists, when time allows, classification is requested through
+     reachback by supplying the dimensions of the vehicle in question and requesting computation of the MLC
+     number. Requests for classification of vehicles should be sent directly to the U.S. Army Tank Automotive
+     Research, Development, and Engineering Center; ATTN: AMSRD-TAR-D/BRDG MS#21;
+     6501 East 11 Mile Road; Warren, MI 48397-5000 or via commercial telephone at (800) 574-5608.
+
+     D-4. The Teleengineering Emergency Operations Center can be reached by e-mail at
+     <uroc@usace.army.mil>, the Reachback Operations Center Web site, and commercial telephone at (601)
+     634-2735/3485 or (877) 223-8322 and Defense Switched Network telephone at (312) 446-2735 or
+     (312) 466-3485.
+
+     D-5. Requests for classification that do not include all of the necessary information may not be met. Some
+     of the data may be obtained from the vehicle weight and dimension card (see STANAG 2021) that is
+     displayed by vehicles during transport. The following information must be listed:
+
+              Weight (empty, loaded for cross-country, and loaded for highway).
+              Load on each axle (empty, loaded for cross-country, and loaded for highway).
+              Load on lunette, pintle, or fifth wheel (empty, loaded for cross-country, and loaded for highway).
+              Tires (number per axle, size, and inflation pressure).
+              Distance between axles.
+              Distance from nearest axles to pintle, lunette, or fifth wheel.
+              Outside-to-outside width of tires or tracks and inside-to-inside width of tires or tracks.
+              Length of track in contact with the ground.
+              The national stock number, if available.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  D-1
+
+
+---
+
+Appendix D
+
+TEMPORARY PROCEDURES FOR VEHICLE CLASSIFICATION
+
+     D-6. Temporary vehicle classification numbers may be assigned under special conditions. Sometimes
+     military vehicles carry loads that are more than or less than their normal payloads. In this case, a temporary
+     vehicle MLC number may need to be assigned. The classification number assigned increases or decreases by
+     an amount equal to the overload or underload.
+
+     D-7. It is sometimes necessary to classify a vehicle under field conditions. This may be done in one of two
+     ways. A temporary MLC may be assigned through comparison with a similarly classified vehicle or through
+     the expedient classification procedure. In both cases, the using unit must verify the classification quickly.
+
+VEHICLE COMPARISON
+
+     D-8. For all vehicles, a comparison of the unclassified vehicle may be made by comparing the axle loads,
+     gross weight, and dimensions of the unclassified vehicle with those of a similar classified vehicle. If no
+     comparable vehicle is available, then use the expedient vehicle classification.
+
+EXPEDIENT VEHICLE CLASSIFICATION
+
+     D-9. This expedient procedure to estimate the MLC is available and effective when the situation requires
+     an immediate determination. During the classification process, vehicles are divided into two categories and
+     calculated accordingly. The categories are vehicles with trailers (vehicle combination class number) and
+     without trailers (single vehicle classification number).
+
+     D-10. When a vehicle tows another vehicle at a distance less than 30.5 meters and the vehicles are not
+     designed to operate as one unit, the combination is referred to as a nonstandard combination. A temporary
+     vehicle MLC number may be assigned to this combination. The classification number assigned is nine-tenths
+     the sum of the normal vehicle classification numbers if the total of both classifications is less than 60. If the
+     sum of the two military classification numbers is 60 or over, the total becomes the MLC number for the
+     nonstandard combination. See the following formula:
+
+             𝐶𝐶𝐶𝐶𝐶𝐶 = 0.9 (𝐴𝐴 + 𝐵𝐵)𝑖𝑖𝑖𝑖 𝐴𝐴 + 𝐵𝐵 < 60
+
+             𝐶𝐶𝐶𝐶𝐶𝐶 = 𝐴𝐴 + 𝐵𝐵 𝑖𝑖𝑖𝑖 𝐴𝐴 + 𝐵𝐵 > 60
+
+     where—  class of first vehicle
+     A =     class of second vehicle
+     B =     combination class number
+     CCN =
+
+     D-11. The expedient classification for a wheeled vehicle is estimated to be 85 percent of its total weight.
+     Therefore, the vehicle gross weight must be determined. Multiply the air pressure in the tires (in pounds per
+     square inch) by the total area (in square inches) of the tires in contact with the ground. If a gauge is not
+     available, use 75 pounds per square inch as an average value. This yields an approximate weight of the vehicle
+     in pounds. The following formula shows the expedient classification:
+
+     where—              𝑊𝑊𝑊𝑊 = 𝐴𝐴𝐴𝐴 × 𝑃𝑃𝑃𝑃 × 𝑁𝑁𝑁𝑁 ÷ 2,000
+     WT =                     = 0.85 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 (𝑤𝑤ℎ𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 𝑣𝑣𝑣𝑣ℎ𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖)
+     AT =
+     PT =    gross weight of vehicle (short tons)
+     NT =    average tire contact area (hard surface) (square inches)
+             tire pressure (pounds per square inch)
+             number of tires
+
+D-2                                    ATP 3-34.81/MCWP 3-17.4                                                        1 March 2016
+
+
+---
+
+                                                                                                          Military Load Classification
+
+D-12. Tracked vehicles weigh about one short ton per square foot of track that makes contact with the ground.
+By determining the area of track that is in contact with the ground, the vehicle gross weight can be assigned.
+The estimated classification equals the gross weight of the vehicle in short tons for tracked vehicles. In the
+case of vehicles that weigh a fraction over whole tonnage, the next higher classification number is assigned.
+
+D-13. A wheeled vehicle MLC for a flexible surface road can be estimated using the bearing capacity
+determined in chapter 4 (see figure 4-20, page 4-22). Classification numbers and their relationship to wheel
+loads are shown in table 4-8, page 4-25. Since the maximum allowable single wheel load for vehicles from
+50 to 120 is the same (20,000 pounds), the load class for roads in this range relies on a determination of the
+single axle load, which exceeds the scope of this publication. Normally, road classification for tracked
+vehicles is not assigned.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  D-3
+
+
+---
+
+This page intentionally left blank.
+
+
+---
+
+                                                Appendix E
+
+                   Technical Tools and Resources
+
+         This appendix highlights some of the most useful and primary support tools for
+         engineers performing general engineering operations. This type of reachback
+         capability is one of the characteristics of field force engineering. The U.S. Air Force
+         and U.S. Navy provide some of the same type of capabilities and support through the
+         Air Force Civil Engineering Support Agency and the Naval Facilities Engineering
+         Command. (See FM 3-34 for further information.)
+
+ENGINEER RESEARCH AND DEVELOPMENT CENTER
+
+     E-1. The U.S. Army Corps of Engineers Engineer Research and Development Center consists of seven
+     laboratories at four geographical sites. The research and development supports the Department of Defense,
+     other federal agencies, and the nation in military and civilian projects. Their primary mission areas include—
+
+              Warfighter support.
+              Installation support.
+              Environment support.
+              Water resources.
+              Information technology.
+
+     E-2. Research projects include facilities, airfields, pavements, protective structures, sustainment
+     engineering, environmental quality, installation restoration (cleanup), compliance and conservation,
+     regulatory functions, flood control, navigation, recreation, hydropower, topography, mapping, geospatial
+     data, winter climatic conditions, oceanography, environmental impacts, and information technology.
+
+PROTECTIVE DESIGN CENTER
+
+     E-3. The U.S. Army Corps of Engineers Protective Design Center is the Army Center of Expertise for
+     security engineering and structures hardened to resist weapon effects. The Protective Design Center
+     employees are considered experts in their specialties.
+
+     E-4. The Protective Design Center director co-chairs the committee that wrote the Department of Defense
+     minimum antiterrorism construction standards and that writes many of the Department of Defense security
+     engineering unified facilities criteria documents. These unified facilities criteria present design guidance for
+     protective systems against aggressor tactics, to include—
+
+              Explosive hazards.
+              Indirect weapons fire.
+              Direct weapons fire.
+              CBRN.
+
+     E-5. The Protective Design Center has experience assisting units with vulnerability assessments and using
+     software and other tools to determine where facility hardening is required. Their engineers can identify
+     vulnerabilities and recommend mitigating measures, including vehicle barriers to achieve standoff distance
+     and structural hardening to resist weapons effects.
+
+REACHBACK OPERATIONS CENTER
+
+     E-6. The U.S. Army Corps of Engineers Reachback Operations Center provides a reachback engineering
+     capability enabling Department of Defense personnel deployed worldwide to talk directly with experts in the
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  E-1
+
+
+---
+
+Appendix E
+
+     United States when a problem in the field needs quick resolution. Deployed troops are linked to subject matter
+     experts within the government, private industry, and academia to obtain solutions to complex field problems.
+
+     E-7. The Reachback Operations Center staff members respond to incoming information requests (flooding
+     potential due to dam breaches; load carrying capacities of roads and bridges; field fortifications and force
+     protection; design and repair of airports, port facilities, bridges, dams, railroads, and roadways; evaluation of
+     transportation networks). The Reachback Operations Center provides comprehensive training and support to
+     deployed units, and it maintains a data repository for collected engineering data used for infrastructure
+     analysis. Informational reports on conducting infrastructure reconnaissance can be found on the Reachback
+     Engineer Data Integration Web site.
+
+TELEENGINEERING COMMUNICATIONS EQUIPMENT-DEPLOYABLE
+
+     E-8. The Teleengineering Communications Equipment-Deployable provides reachback capability using
+     off-the-shelf satellite communications equipment with added security encryption. Video teleconferences and
+     data transfers can be conducted from remote sites where normal communications are unavailable.
+
+TELEENGINEERING TOOLKIT
+
+     E-9. The Teleengineering toolkit software is a valuable analysis tool for the graphical display of engineer
+     products, analyses, and digital data. The ARRK combines the power of the Teleengineering toolkit with a
+     global positioning system, video camera, and three-dimensional accelerometers to provide a mounted vehicle
+     or airborne automated route reconnaissance capability. This system has supported numerous military
+     operations and natural disaster response missions.
+
+GEOSPATIAL ASSESSMENT TOOL
+
+     E-10. The geospatial assessment tool for the Engineering Reachback Program provides rapid data collection
+     for assessing critical infrastructure (SWEAT-MSO), real property, environmental condition reports,
+     environmental base closures, access control points, explosive ordnance disposal, civil affairs, and special
+     operations weather team collections. The U.S. Army Corps of Engineers Reachback Operations Center
+     provides comprehensive training and support to units and maintains a repository for collected data and data
+     migration to the Secure Internet protocol router.
+
+AUTOMATED ROUTE RECONNAISSANCE KIT
+
+     E-11. The ARRK provides military units with an adaptable, easy-to-use reconnaissance package that allows
+     an ERT or other engineer reconnaissance element to rapidly collect and process reconnaissance (all types but
+     generally route reconnaissance) information.
+
+     E-12. The ARRK uses a field-ready laptop computer that continuously collects reconnaissance information
+     without stopping or leaving the vehicle for routine calculations. Time, security, and accuracy issues normally
+     associated with route reconnaissance are reduced. The ARRK collects pictures, voice recordings, global
+     positioning system locations, and accelerometer and gyroscope data streams in three dimensions. Unlike the
+     traditional, manually recorded route reconnaissance efforts, the ARRK allows an operator with minimum
+     training and experience to collect, process, and export route information. The ARRK accommodates a
+     chronological picture replay of the route and geo-referenced display of major features that affect the
+     classification and usage of the road or route. The viewer of the data can scroll through the stored data types
+     to locate specific features along the route instantly. Data includes automated determination of slope, radius
+     of curvature, and ride quality. The reconnaissance data collected from the ARRK is quickly converted by the
+     operator to a preformatted report that follows the requirements of this publication. Planned improvements for
+     the system include integration of a laser range finder and digital scale reference guide. The system will be
+     developed as a stand-alone data collection tool and a fully interoperable data collection platform for
+     dissemination and repository of route information.
+
+E-2  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                          Technical Tools and Resources
+
+RECONNAISSANCE AND SURVEYING INSTRUMENT SET
+
+     E-13. The ENFIRE is a digital tool set used by engineers to execute combat and construction reconnaissance
+     and surveys. (See figure E-1, page E-4.) The ENFIRE provides the engineer with the capability to perform
+     rapid reconnaissance, reporting, and dissemination of this information up the chain of command. The
+     ENFIRE automatically populates field data on the forms used for reconnaissance reporting, with relevant
+     information from peripheral devices included in the ENFIRE set. The information collected is transferable
+     between the tablet personal computer and other digital systems through the personal geodatabase transfers or
+     joint variable message format messages created using the common operating environment message
+     processor. Some of the information gathered will be disseminated through the battle command common
+     services server. The ENFIRE also contains a variety of existing commercial off-the-shelf and government
+     off-the-shelf software packages for additional functionality. More functions of the ENFIRE include—
+
+              Nine-line improvised explosive device/unexploded ordnance report.
+              Bridge reconnaissance report.
+              Road reconnaissance report.
+              Route reconnaissance report.
+              Hasty minefield report.
+              Simplified survivability assessment tool to determine bunker shelter requirements.
+              SoftPlan© to design structures and generate a bill of materials.
+              TerraModel® to model the contours of a landscape to determine cut and fill requirements and
+
+                  requirements for materials.
+              Microsoft® Office tools.
+              Theater Construction Management System.
+
+WATER DETECTION RESPONSE TEAM
+
+     E-14. The objective of the water detection response team is to reconnoiter potential areas for the best quality
+     of water within the available drilling equipment capability and to meet the water production requirements of
+     the mission. The water detection response team is the Department of Defense prime organization for assisting
+     military well drillers, whether for military, humanitarian, or nation-building activities. Its primary function
+     is to assist and advise well-drilling teams on the location of the best well-drilling sites and depths and to
+     provide information on drilling conditions for logistical planners. A staff of ground water experts is on call
+     to provide information and assistance and to produce studies for military well-drilling related activities. The
+     team possesses remote sensing and geophysical equipment, and the team has numerous bibliographic sources
+     readily available for most areas of the world. The water detection response team also offers a Hydrogeology
+     for Military Well Drillers short course upon request.
+
+DEFENSE ENVIRONMENT NETWORK AND INFORMATION
+EXCHANGE
+
+     E-15. The Defense Environmental Network and Information Exchange is an electronic environmental
+     bulletin board accessible throughout the Department of Defense. It gives environmental, safety, and
+     occupational health managers a central communications platform to gain timely access to vital environmental
+     information.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  E-3
+
+
+---
+
+Appendix E
+
+Legend:     defense advanced global positioning system receiver
+DAGR        personal computer
+PC          universal serial bus
+USB
+                                Figure E-1. ENFIRE components
+
+     E-16. The Defense Environmental Network and Information Exchange (based on the Army Defense
+     Environmental Electronic Bulletin Board System) gives users the ability to—
+
+             Read online environmental publications (proprietary or Department of Defense specific).
+             Send or receive mail electronically on the Defense Environmental Network and Information
+
+                  Exchange host computer or across the internet.
+             Exchange environmental information via managed discussion forums based on a subject area.
+             Send or receive the required reporting data through the chain of command.
+             Peruse and request environmental training courses and seminars.
+             Access the Defense Environmental Network and Information Exchange directory service
+
+                  database.
+             Upload and download files from the Defense Environmental Network and Information Exchange
+
+                  to and from a personal computer.
+
+UNITED STATES ARMY CENTER FOR HEALTH PROMOTION AND
+PREVENTIVE MEDICINE
+
+     E-17. The U.S. Army Center for Health Promotion and Preventive Medicine has a mission to provide
+     worldwide technical support for implementing preventive medicine, public health, and health promotion and
+     wellness services into all aspects of the Army and the Army community. The U.S. Army Center for Health
+
+E-4         ATP 3-34.81/MCWP 3-17.4                              1 March 2016
+
+
+---
+
+                                                                                                   Technical Tools and Resources
+
+Promotion and Preventive Medicine anticipates and rapidly responds to operational needs and adapts to a
+changing world environment. The U.S. Army Center for Health Promotion and Preventive Medicine
+organization is headquartered at Aberdeen Proving Ground, Maryland, with subordinate commands in
+Landstuhl, Germany, and Sagami, Japan. The U.S. Army Center for Health Promotion and Preventive
+Medicine also maintains subordinate commands at three locations in the United States (Fort Meade,
+Maryland; Fort McPherson, Georgia; and Fort Lewis, Washington).
+
+E-18. The U.S. Army Center for Health Promotion and Preventive Medicine is a linchpin of medical support
+to combat forces and of the military managed-care system. The U.S. Army Center for Health Promotion and
+Preventive Medicine provides worldwide scientific expertise and services in clinical and field preventive
+medicine, environmental and occupational health, health promotion and wellness, epidemiology and disease
+surveillance, toxicology, and related laboratory sciences. It supports readiness by keeping Soldiers and
+Marines fit to fight, while also promoting wellness among their families and the Federal civilian workforce.
+Professional disciplines represented include chemists, physicists, engineers, physicians, optometrists,
+epidemiologists, audiologists, nurses, industrial hygienists, toxicologists, entomologists, and subspecialties
+within these professions.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  E-5
+
+
+---
+
+This page intentionally left blank.
+
+
+---
+
+                                       Appendix F
+
+                               Signs
+
+Posting signs at bridges and at other constrictions or key locations along a route
+promotes efficient traffic control and limits the impact of hazardous areas along the
+route. Signs are used when it is necessary to identify special controls placed on a bridge
+or route section; to warn vehicle operators of hazardous areas or conditions; and to
+identify holding areas, turnouts for parking and unloading vehicles, and checkpoints.
+Procedures for posting military routes are standardized for the United States and Allied
+Nations. However, this system may be integrated into other road sign systems
+according to military requirements.
+
+  Note. This appendix implements STANAG 2454.
+
+ROUTE SIGNS
+
+     F-1. There are three general types of standard route signs (hazard, regulatory, and guide). Table F-1 lists
+     the way each type is used. Their size is not prescribed; however, they must be large enough to be easily read
+     under poor lighting conditions. Exceptions to this rule are bridge classification signs for which dimensions
+     are specified. Signs for civil international road use are usually not less than 16 inches square.
+
+                             Table F-1. Typical hazard, regulatory, and guide signs
+
+                          Hazard                      Type                 Guide
+              Advance warning of stop             Regulatory
+              signs and traffic signals  No entry                  Detour
+              Changes in road width
+              Crossroad                  One way                   Detour begins
+              Curves                     Parking restrictions      Detour ends
+                                         Specific regulations for  Directions
+              Danger or hazard           vehicles
+              Dangerous corner           Speed limit               Distances
+              Dips                       Stop                      Information to help driver
+              T-Junction                 Bridge classification     Locations
+              Y-Junction                                           Route number
+Application   Level railroad crossing,
+              advance warning
+              Men working
+              Railroad crossing
+              Road construction repairs
+              Road narrows
+              Slippery road
+              Steep grades
+              Steep hill
+              Turns
+
+1 March 2016                             ATP 3-34.81/MCWP 3-17.4                               F-1
+
+
+---
+
+Appendix F
+
+HAZARD SIGNS
+
+     F-2. Hazard signs indicate traffic hazards and require coordination with civil authorities. Hazard signs are
+     square and are installed in a diamond position. (See figure F-1 and figure F-2.) A military hazard sign has a
+     yellow background with the legend or symbol inscribed in black. The wording on these signs is in the
+     language or languages determined by the authority erecting the sign. (See FM 3-34.210/MCRP 3-17.2D for
+     information on explosive hazard signs.)
+
+     Figure F-1. Hazard signs not included in the Geneva Convention
+
+F-2  ATP 3-34.81/MCWP 3-17.4                                         1 March 2016
+
+
+---
+
+                                                         Signs
+
+                        Figure F-2. Hazard signs included in the Geneva Convention
+
+REGULATORY SIGNS
+
+     F-3. Regulatory signs regulate and control traffic. Regulatory signs include enforcement and warning signs.
+     Warning signs are placed in advance of the enforcement sign to provide vehicle operators with advance notice
+     of the enforcement area. Examples of regulatory signs include bridge classification signs, stop signs, no-entry
+     signs, and signs that define the light line (the line where vehicles must use blackout lights at night).
+     Regulatory signs have a black background on which the legend or symbol is superimposed in white.
+
+             Note. Exceptions to these rules are bridge classification signs, stop signs, no-entry signs, and signs
+             that apply to civil and military traffic. Check with civilian authorities to ensure compliance when
+             erecting signs in areas with civilian traffic.
+
+     F-4. Examples of regulatory signs are shown in figure F-3. Two warning signs are located, allowing for the
+     terrain, before the enforcement sign. Place the first warning sign 200 to 500 meters before the regulatory
+     sign.
+
+              Legend:  centimeter
+              cm       meter
+              m
+
+              Figure F-3. Warning and enforcement signs
+
+1 March 2016           ATP 3-34.81/MCWP 3-17.4           F-3
+
+
+---
+
+Appendix F
+
+Bridge and Raft Signs
+
+     F-5. All classified vehicles and bridges in the theater of operations require classification signs. Bridge signs
+     are circular with yellow background and black inscriptions. Sign diameters are a minimum of 40 centimeters
+     for one-lane bridges and 50 centimeters for two-lane bridges. (See figure F-4.) A two-lane bridge has two
+     numbers, side by side, on the sign. The number on the left is the bridge classification when both lanes are in
+     use at the same time. The number on the right indicates the classification if the bridge is carrying one-way
+     traffic and the vehicles proceed along the centerline of the bridge.
+
+                                                   Figure F-4. Bridge signs
+
+     F-6. For bridges with separate classifications for wheeled and tracked vehicles (dual classification), use a
+     special circular sign that indicates both classifications (only applicable if the classification is over 50). (See
+     the right side of figure F-4.) Use a separate rectangular sign, if necessary, to show the bridge width limitations.
+     For one-way or two-way traffic bridges, the sign should be a minimum of 50 centimeters.
+
+Rectangular Bridge Signs
+
+     F-7. Additional instructions and technical information are posted on rectangular signs, which are a
+     minimum of 41 centimeters in height or width and have a yellow background with the appropriate letters and
+     symbols in black. Write the figures as large as the sign permits. Theater commanders may make special
+     arrangements to indicate vehicles of exceptional width or to indicate low overhead obstructions. Use separate
+     signs to show the width or height limitations (see figure F-5) or technical information (see figure F-6). Width
+     and height signs are not required on bridges where existing civilian signs are in place and sufficiently clear.
+
+Width and Height Restrictions
+
+     F-8. TM 3-34.22/MCRP 3-17.1B lists minimum roadway width restrictions for bridge classifications. If a
+     one-lane bridge does not meet width requirements, post a rectangular warning sign under the classification
+     sign to show the clear width (see figure F-5). If this is a route restriction, annotate it in the route classification
+     format. For a two-lane bridge, downgrade the two-way classification to the highest class for which it does
+     qualify (one-way class is not affected). Post a limited-clearance sign if the overhead clearance is less than
+     4.3 meters. These signs must be a minimum of 3 to 5 meters in height or width, with a yellow background,
+     and the appropriate description in black letters. Separate rectangular signs are used (if necessary) to denote
+     width limitations, height limitations, or other technical information. The same signs are used for tunnels, if
+     applicable.
+
+F-4  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                  Signs
+
+              Legend:  meter
+              m
+
+              Figure F-5. Width and height signs
+
+                           Figure F-6. Bridge sign containing technical information
+
+Multilane Bridge Signs
+
+     F-9. Bridges of three or more lanes are special cases that require individual consideration; the minimum
+     widths for respective load classifications are used. See TM 3-34.22/MCRP 3-17.1B for a full explanation of
+     bridge MLC. In some cases, heavier loads can be carried on a restricted lane rather than on the other lanes.
+     (See figure F-7, page F-6, and figure F-8, page F-6.) Under such circumstances, post standard bridge
+     classification signs for each lane and mark the restricted lanes with barricades, painted lines, or studs.
+
+1 March 2016           ATP 3-34.81/MCWP 3-17.4    F-5
+
+
+---
+
+Appendix F
+                                Figure F-7. Typical multilane bridge classification
+
+                                     Figure F-8. Indicators of a damaged bridge
+
+Bridge Sign Placement
+
+     F-10. Ensure that signs are placed properly (as listed below) to maintain uninterrupted traffic across a bridge:
+              The bridge classification sign is placed at both ends of the bridge in a position that is clearly visible
+                  to all oncoming traffic.
+              Rectangular signs, other than those indicating height restrictions, are placed immediately below
+                  the bridge classification (circular) signs.
+
+F-6  ATP 3-34.81/MCWP 3-17.4                                                         1 March 2016
+
+
+---
+
+                                                                                                                                               Signs
+
+              Signs that indicate height restrictions are placed centrally on the overhead obstruction.
+              Special classification numbers are never posted on standard bridge-marking signs.
+              Appropriate advance warning signals are placed on bridge approaches, as required.
+
+GUIDE SIGNS
+
+     F-11. Guide signs indicate direction or location. These signs consist of the military route number and the
+     appropriate directional disk. If standard signs are not available, construct military route guide signs by placing
+     a directional disk over a rectangular panel on which the route number is inscribed. (See figure E-9.)
+
+                              Figure F-9. Military route guide signs for axial routes
+
+Directional Disks
+
+     F-12. A directional disk consists of a fixed, black arrow (with or without a bar) on a white background. Eight
+     equally spaced holes around the edges of the circumference allow the disk to be nailed with the arrow pointing
+     in the desired direction. These disks are no smaller than 12 inches in diameter. (See figure F-10, page F-8.)
+     They are used as standard guide signs to indicate military axial and lateral routes. Directional disks may be
+     used together with unit signs to indicate direction to locations of major units (groups and above). Smaller
+     units may not use directional disks. However, any arrow sign that provides a different shape and color from
+     the standard direction disks can be used to indicate smaller units.
+
+Headquarters and Logistical Signs
+
+     F-13. Headquarters and logistical signs mark a headquarters and logistical installation. Use the appropriate
+     military symbol. (See MIL-STD 2525C.) The inscription is black on a yellow background. This symbol may
+     be supplemented by national distinguishing symbols or abbreviations. For division headquarters and above,
+     nationality is always indicated. Colors other than black or yellow are prohibited, except for national
+     distinguishing symbols.
+
+Casualty Evacuation Route Signs
+
+     F-14. Indicate casualty evacuation routes on rectangular signs. (See figure F-11, page F-8.) The signs have
+     a white background with red inscriptions of a directional arrow, a red cross (except for Turkey who has a red
+     crescent), and a unit or subunit designation (if required). An alternate sign may be made from a white disk
+     with four segments cut in the shape of an X. The inscriptions are shown in red.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  F-7
+
+
+---
+
+Appendix F
+
+     Legend:  forward edge of battle area
+     FEBA                Figure F-10. Directional disks
+
+                            Figure F-11. Guide signs for casualty evacuation routes
+
+Unit Direction Arrow
+
+     F-15. Use temporary unit direction arrows to mark march routes and include the unit identification symbol
+     as part of the inscription. (See figure F-12.) Unit route signs are placed in advance of the moving column and
+     are picked up by a trail vehicle.
+
+F-8           ATP 3-34.81/MCWP 3-17.4                    1 March 2016
+
+
+---
+
+                                                              Signs
+
+Legend:       centimeter
+cm                         Figure F-12. Unit direction arrow
+
+Military Detour Signs
+
+     F-16. Military detour signs consist of a white arrow superimposed on a blue square. Place the sign in a
+     diamond position. (See figure F-13.) Show the number of the diverted route by placing the number on the
+     square over the arrow or placing the number on a small panel under the square.
+
+              Figure F-13. Military detour signs
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4                         F-9
+
+
+---
+
+Appendix F
+
+ROAD MARKERS IN AREAS OF HEAVY SNOW
+
+     F-17. Posting road signs in areas of heavy snowfall requires special attention. Ensure that the markers are
+     placed evenly on both sides of the traveled way. In open country, use poles of appropriate height with
+     direction markers, snow markers, or flags. Place markers at least one meter off the traveled way to avoid
+     traffic damage. If you cannot completely mark a road, place arrow signs at prominent points to indicate road
+     direction. Road markers and signs used for a long period in areas of heavy snow should be checked frequently
+     to ensure that their positions have not altered. In areas with prolonged conditions of snow, yellow
+     (international orange) may be substituted for white on standard military route signs.
+
+VEHICLE SIGNS
+
+     F-18. There are two types of vehicle signs:
+              Front. Use front signs on vehicles, except trailers, to show the classification of the laden vehicle.
+              Side. Use side signs on towing vehicles and trailers only to show the classification of the laden
+                  towing vehicles or trailers by themselves.
+
+     F-19. Front and side signs are circular and marked in contrasting colors consistent with camouflage
+     requirements. Black figures on a yellow background may be used.
+
+     F-20. The front sign is 23 centimeters in diameter. Place or paint the front sign on the front of the vehicle,
+     above or on the bumper, and below the driver’s line of vision. When possible, place it on the right side, facing
+     forward.
+
+     F-21. The side sign is 15 centimeters in diameter. Place or paint the side sign on the right side of the vehicle,
+     facing out.
+
+     F-22. Make the inscription on the sign as large as the sign allows. The front sign, except on towing vehicles
+     and tank transporters, indicates the vehicle laden solo class. On towing vehicles, the front sign indicates the
+     combined load class of the train. Above this number, write the letter C to distinguish the vehicle as a towing
+     vehicle. (See figure F-14.) On tank transporters and similar type vehicles, the fixed front sign shows the
+     maximum classification of the laden vehicle. One alternative front sign may be carried. Place the sign so that
+     it covers the fixed front sign, when necessary, to show the class of the vehicle when unladen. The side sign
+     (used only by prime movers of combination vehicles and trailers) indicates the laden solo class of the prime
+     mover or trailer.
+
+                                              Figure F-14. Front sign
+
+F-23. Single vehicles (including tank transporters) carry the front sign only; towing vehicles carry front and
+side signs; and trailers carry side signs only. Mark all vehicles as shown in paragraphs F-19 through F-22.
+(See appendix D for details on determining the vehicle MLC.) Marking vehicles of a gross weight of
+3.048 short tons or less or trailers with a rated capacity of 1.524 short tons or less is optional.
+
+F-10  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                                                               Signs
+
+SIGN LIGHTING
+
+     F-24. The appropriate military authority in the area specifies which signs are to be illuminated. Primary
+     considerations go to hazard and direction signs. The system of lighting must remain operational for a
+     minimum of 15 hours without refueling or changing batteries. Consider the following:
+
+              Under normal conditions, each armed force is responsible for ensuring that standard signs are
+                  visible at night and other periods of reduced visibility. Take necessary precautions, however,
+                  during combat operations.
+
+              Under reduced lighting conditions, the positioning of the signs and the methods adopted to make
+                  them visible (illumination or reflection) must enable personnel to see them from vehicles fitted
+                  with reduced lighting or filtering devices.
+
+              In a blackout zone, signs are equipped with upper shields that prevent light from being directly
+                  observed from the air. The light illuminating the sign is of such low intensity that it is not possible
+                  to locate the sign from the air at altitudes greater than 150 meters by its reflection off the road
+                  surface. Illumination devices are positioned so that they can be recognized by oncoming vehicles
+                  at a road distance of 100 meters and read at a distance of 80 meters.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  F-11
+
+
+---
+
+This page intentionally left blank.
+
+
+---
+
+                                  Glossary
+
+The glossary lists acronyms and terms with Army or joint definitions. Where Army and
+joint definitions differ, (Army) precedes the definition. Terms for which this
+publication is the proponent are marked with an asterisk (*).
+
+SECTION I – ACRONYMS AND ABBREVIATIONS
+
+              AAP   Allied Administrative Publication
+
+              AO    area of operations
+
+              AR    Army regulation
+
+              ARRK  automated route reconnaissance kit
+
+              ATP   Army techniques publication
+
+              attn  attention
+
+              BCT   brigade combat team
+
+              CBRN  chemical, biological, radiological, and nuclear
+
+              DA    Department of the Army
+
+              DC    District of Columbia
+
+              DD    Department of Defense form
+
+              EOD   explosive ordnance disposal
+
+              ERT   engineer reconnaissance team
+
+              FACE  forward aviation combat engineering
+
+              FM    field manual
+
+              JP    joint publication
+
+              LOA   limit of advance
+
+              LD    line of departure
+
+M/CM/S              mobility, countermobility, and survivability
+
+MAGTF               Marine air-ground task force
+
+              MCRP  Marine Corps reference publication
+
+              MCWP  Marine Corps warfighting publication
+
+METT-T              mission, enemy, terrain and weather, troops and support available, time
+                    available
+
+METT-TC             mission, enemy, terrain and weather, troops and support available, time
+                    available, civil considerations
+
+              MI    Michigan
+
+              MLC   military load classification
+
+              MO    Missouri
+
+              MOG   maximum (aircraft) on the ground
+
+MSCoE               Maneuver Support Center of Excellence
+
+              NAI   named area of interest
+
+1 March 2016                      ATP 3-34.81/MCWP 3-17.4            Glossary-1
+
+
+---
+
+Glossary
+
+          NATO     North Atlantic Treaty Organization
+              No.  number
+                   operation and maintenance
+           O&M     regimental combat team
+            RCT    release point
+                   intelligence staff officer
+              RP   operations staff officer
+              S-2  standard operating procedure
+              S-3  start point
+             SOP   standardization agreement
+               SP  sewage, water, electricity, academics, trash, medical, safety, and other
+      STANAG       considerations
+SWEAT-MSO          technical manual
+                   United States
+              TM   unmanned aircraft system
+             U.S.  unified facilities criteria
+            UAS    United States Marine Corps
+            UFC
+          USMC
+
+  SECTION II – TERMS
+
+*infrastructure reconnaissance
+          A multidisciplinary reconnaissance focused on gathering technical information on the condition and
+          capacity of existing public systems, municipal services, and facilities within an assigned area of
+          operations.
+
+Glossary-2         ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                  References
+
+REQUIRED PUBLICATIONS
+
+     ADRP 1-02. Terms and Military Symbols. 7 December 2015.
+     JP 1-02. Department of Defense Dictionary of Military and Associated Terms. 8 November 2010.
+
+RELATED PUBLICATIONS
+
+These documents contain relevant supplemental information.
+
+ARMY
+
+Most Army publications are available online at <www.apd.army.mil>.
+     ADP 3-0. Unified Land Operations. 10 October 2011.
+     ADRP 5-0. The Operations Process. 17 May 2012.
+     ADRP 6-0. Mission Command. 17 May 2012.
+     ATP 3-39.10. Police Operations. 26 January 2015.
+     ATTP 3-06.11. Combined Arms Operations in Urban Terrain. 10 June 2011.
+     FM 3-34. Engineer Operations. 2 April 2014.
+     FM 3-90-2. Reconnaissance, Security, and Tactical Enabling Tasks Volume 2. 22 March 2013.
+     FM 3-97.6. Mountain Operations. 28 November 2000.
+     FM 6-0. Commander and Staff Organization and Operations. 5 May 2014.
+     FM 27-10. The Law of Land Warfare. 18 July 1956.
+
+JOINT
+
+Most joint publications are available online at <www.dtic.mil/doctrine/new_pubs/jointpub.htm>.
+     JP 3-15. Barriers, Obstacles, and Mine Warfare for Joint Operations. 17 June 2011.
+     JP 3-34. Joint Engineer Operations. 30 June 2011.
+
+MARINE CORPS
+
+Most Marine Corps publications are available online at <https://www.doctrine.usmc.mil > or
+<https://www.doctrine.usmc.mil/currentPubsListing.asp>.
+
+     MCWP 3-17. Engineering Operations. 14 February 2000
+     MCWP 3-21.1. Aviation Ground Support. 16 October 2001.
+     MCWP 5-1. Marine Corps Planning Process. 24 August 2010.
+
+MULTI-SERVICE
+
+     ATP 3-34.5/MCRP 4-11B. Environmental Considerations. 10 August 2015.
+     ATP 3-37.34/MCWP 3-17.6. Survivability Operations. 28 June 2013.
+     ATP 3-90.8/MCWP 3-17.5. Combined Arms Countermobility Operations. 17 September 2014.
+     ATTP 3-90.4/MCWP 3-17.8. Combined Arms Mobility Operations. 10 August 2011.
+     ATTP 3-97.11/MCRP 3-35.1D. Cold Region Operations. 28 January 2011.
+     FM 3-34.210/MCRP 3-17.2D. Explosive Hazards Operations. 27 March 2007.
+     FM 3-34.214/MCRP 3-17.7L. Explosives and Demolitions. 11 July 2007.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  References-1
+
+
+---
+
+References
+
+     FM 5-430-00-1/AFJPAM 32-8013. Volume I, Planning and Design of Roads, Airfields, and Heliports
+                in the Theater of Operations–Road Design. 26 August 1994.
+
+     FM 5-430-00-2/AFJPAM 32-8013. Volume II, Planning and Design of Roads, Airfields, and Heliports
+                in the Theater of Operations–Airfield and Heliport Design. 29 September 1994.
+
+     FM 90-3/FMFM 7-27. Desert Operations. 24 August 1993.
+     TM 3-34.22/MCRP 3-17.1B. Military Nonstandard Fixed Bridging. 17 October 2013.
+     TM 5-820-1/AFM 88-5, Chapter 1. Surface Drainage Facilities for Airfields and Heliports. 20 August
+
+                1987.
+
+NATO
+
+Most NATO publications are available at <http://nso.nato.int/nso/#nogo>.
+     STANAG 2010. (Edition 6) Military Load Classification Markings. 5 March 2004.
+     STANAG 2017. (Edition 4) Orders to the Demolition Guard Commander and Demolition Firing Party
+                Commander (Non-Nuclear). 28 January 1999.
+     STANAG 2021. (Edition 6) Military Load Classification of Bridges, Ferries, Rafts, and Vehicles.
+                22 May 2014.
+     STANAG 2036. (Edition 6) Land Mine Laying, Marking, Recording and Reporting Procedures.
+                27 January 2005.
+     STANAG 2143. (Edition 6) Explosive Ordnance Disposal (EOD) Principles and Minimum Standards
+                of Proficiency. 5 September 2014.
+     STANAG 2221. (Edition 3) Explosive Ordnance Disposal Reports and Messages. 3 September 2014.
+     STANAG 2282. (Edition 2) Inter-Service Explosive Ordnance Disposal Operations on Multinational
+                Deployments. 4 April 2011.
+     STANAG 2369. (Edition 3) The NATO EOD Publications Set–Identification and Disposal of Surface,
+                Air, and Underwater Munitions. 26 January 2010.
+     STANAG 2370. (Edition 3) Inter-Service Improvised Explosive Device Disposal Operations on
+                Multinational Deployments–A Guide for Staff Officers/Operators. 3 March 2014.
+     STANAG 2394. (Edition 3) Land Force Combat Engineer Doctrine. 18 December 2008.
+     STANAG 2454. (Edition 3) Road Movements and Movement Control. 27 January 2005
+     STANAG 2929. Airfield Damage Repair (ADR). 1 March 1994.
+     STANAG 2989. (Edition 2) Transfer of Barriers. 23 February 2007.
+     STANAG 2991. (Edition 4) NATO Combat Engineer Glossary. 18 August 2004.
+
+OTHER
+
+     AFPAM 10-1403. Air Mobility Planning Factors. 12 December 2011. <http://static.e
+                -publishing.af.mil/production/1/af_a3_5/publication/afpam10-1403/afpam10-1403.pdf>,
+                accessed on 4 December 2015.
+
+     Fed-Std-376B. Preferred Metric Units for General Use by the Federal Government. 27 January 1993.
+                <http://www.nist.gov/pml/wmd/metric/upload/fs376-b.pdf>, accessed on
+                4 December 2015.
+
+     MIL-STD 2525C. Common Warfighting Symbology. 17 November 2008.
+                <http://www.dtic.mil/doctrine//doctrine/other/ms_2525c.pdf>, accessed on 4 December 2015.
+
+     UFC 3-260-01. Airfield and Heliport Planning and Design. 17 November 2008.
+                <http://www.wbdg.org/ccb/DOD/UFC/ufc_3_260_01.pdf>, accessed on 4 December 2015.
+
+     UFC 3-260-02. Pavement Design for Airfields. 30 June 2001.
+                <http://www.wbdg.org/ccb/DOD/UFC/ufc_3_260_02.pdf>, accessed on 4 December 2015.
+
+     UFC 3-270-07. O&M: Airfield Damage Repair. 12 August 2002.
+                <http://www.wbdg.org/ccb/DOD/UFC/ufc_3_270_07.pdf>, accessed on 4 December 2015.
+
+References-2  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                                                                                                                       References
+
+     UFC 4-141-10N. Design: Aviation Operation and Support Facilities. 16 January 2004.
+                <http://www.wbdg.org/ccb/DOD/UFC/ufc_4_141_10n.pdf>, accessed on 4 December 2015.
+
+PRESCRIBED FORMS
+
+Department of Defense forms are available on the Office of the Secretary of Defense Web site at
+<www.dtic.mil/whs/directives/infomgt/forms/formsprogram.htm>.
+
+     DD Form 3009. Route Classification.
+     DD Form 3010. Road Reconnaissance Report.
+     DD Form 3011. Bridge Reconnaissance Report.
+     DD Form 3012. Tunnel Reconnaissance Report.
+     DD Form 3013. Ford Reconnaissance Report.
+     DD Form 3014. Ferry Reconnaissance Report.
+     DD Form 3015. Engineer Reconnaissance Report.
+     DD Form 3016. River Reconnaissance Report.
+
+REFERENCED FORMS
+
+Unless otherwise indicated, Department of the Army forms are available on the Army Publishing
+Directorate Web site at <www.apd.army.mil>.
+
+     DA Form 2028. Recommended Changes to Publications and Blank Forms.
+     DA Form 2203. Demolition Reconnaissance Record.
+
+WEB SITES
+
+     Army Knowledge Online, Doctrine and Training Publications Web site,
+                <https://armypubs.us.army.mil/doctrine/index.html>, accessed on 4 December 2015.
+
+     Army Publishing Directorate, Army Publishing Updates Web site,
+                <http://www.apd.army.mil/AdminPubs/new_subscribe.asp>, accessed on 4 December 2015.
+
+     Reachback Engineer Data Integration Smartcard Web site. <https://redi.usace.army.mil/sites/uroc
+                /Reference%20Documents/Manuals%20and%20Handbooks/SWEAT-IR
+                /SWEAT_inspection_forms_all_2015_FEB.pdf>, accessed on 4 December 2015.
+
+     Reachback Engineer Data Integration Web site. <https://uroc.usace.army.mil/>, accessed on
+                4 December 2015.
+
+     Reachback Operations Center Web site. <https://uroc.usace.army.mil/>, accessed on 4 December 2015.
+     Teleengineer Emergency Operations Center, Reachback Operations Center Web site. <https://uroc
+
+                -redi-sso.usace.army.mil/USACE/SelfReg.aspx?SITE=UROC>, accessed on
+                4 December 2015.
+
+RECOMMENDED READINGS
+
+     AAP-06. NATO Glossary of Terms and Definitions (English and French). 2 May 2014. Web site
+                <http://nso.nato.int/nso/ZPUBLIC/_BRANCHINFO/TERMINOLOGY_PUBLIC/NON-
+                CLASSIFIED%20NATO%20GLOSSARIES/AAP-6.PDF>, accessed 20 January 2015.
+
+     ADP 1. The Army. 17 September 2012.
+     ADP 2-0. Intelligence. 31 August 2012.
+     ADP 3-07. Stability. 31 August 2012.
+     ADP 3-28. Defense Support of Civil Authorities. 26 July 2012
+     ADP 3-90. Offense and Defense. 31 August 2012.
+     ADP 4-0. Sustainment. 31 July 2012.
+     ADP 5-0. The Operations Process. 17 May 2012.
+     ADP 6-0. Mission Command. 17 May 2012.
+
+1 March 2016  ATP 3-34.81/MCWP 3-17.4  References-3
+
+
+---
+
+References
+
+     ADP 7-0. Training Units and Developing Leaders. 23 August 2012.
+     ATP 2-01. Plan Requirements and Assess Collection. 19 August 2014.
+     ATP 3-34.22. Engineer Operations–Brigade Combat Team and Below. 5 December 2014.
+     ATP 3-34.40/MCWP 3-17.7. General Engineering. 25 February 2015.
+     ATP 3-34.80. Geospatial Engineering. 23 June 2014.
+     ATP 4-32.16/MCRP 3-17.2C/NTTP 3-02.5/AFTTP 3-2.32. EOD Multi-Service Tactics, Techniques,
+
+                and Procedures for Explosive Ordnance Disposal. 6 May 2015.
+     ATTP 4-10. Operational Contract Support Tactics, Techniques, and Procedures. 20 June 2011.
+     FM 3-20.96. Reconnaissance and Cavalry Squadron.12 March 2010.
+     FM 3-39. Military Police Operations. 26 August 2013.
+     FM 3-96. Brigade Combat Team. 8 October 2015.
+     FM 90-5. Jungle Operations. 16 August 1982.
+     GTA 05-07-013. Rapid Field Classification Booklet. 1 July 2006.
+     TC 3-25.26. Map Reading and Land Navigation. 15 November 2013.
+     TM 3-34.45. Engineer Prime Power Operations. 13 August 2013.
+     TM 3-34.85/MCRP 3-17A. Engineer Field Data. 17 October 2013.
+     TM 5-349. Arctic Construction. 19 February 1962.
+     UFC 3-230-01. Water Storage, Distribution, and Transmission. 1 November 2012.
+     UFC 3-535-01. Visual Air Navigation Facilities. 17 November 2005
+
+References-4  ATP 3-34.81/MCWP 3-17.4  1 March 2016
+
+
+---
+
+                                            Index
+
+                                       Entries are by paragraph number.
+
+                   A                   engineer reconnaissance team                           R
+                                           duties of, 1-17
+Air Force airfields                        limitations of, 1-22            reconnaissance guidance
+    mission categories, 5-52               obstacle reconnaissance, 3-4        engagement criteria, 2-11
+                                           training, 1-16                      focus, 2-7
+airfield assessment, 5-45                                                      tempo, 2-8
+                                       environmental reconnaissance,
+airfields                                 5-44                             reconnaissance operations
+    pavement types, 5-53                                                       range of, 1-4
+                                                           F
+area reconnaissance, 2-25                                                  road reconnaissance, 4-48
+    as part of tactical capabilities,  ferries, 5-16                           base course and subgrade,
+       1-8                                                                        4-50
+                                       forms of reconnaissance, 2-14           road capacity computations,
+assessment and survey                                                             4-52
+    teams, 1-30                                           G
+                                                                           route classification, 4-2
+assessment teams, 5-34                 gap-crossing sites                      bypasses, 4-6
+                                           ferry, 5-16                         overlay, 4-5
+                   B                       ford, 5-9                           symbols, B-1
+                                           underwater, 5-32
+breaching operation, 3-11                                                  route classification formula, 4-7
+                                       general engineer
+bridge                                     technical capabilities, 1-10    route reconnaissance, 2-16
+    condition, 5-3                                                             control measures, 2-19
+    symbol, 5-4                                            I                   critical tasks, 2-20
+
+bridge reconnaissance, 5-1             infrastructure assessment, 5-46;                       S
+                                          C-1
+                   C                                                       search operations, 3-96
+                                       infrastructure protection, 5-43
+classification numbers, D-1                                                sign lighting, F-24
+                                       infrastructure reconnaissance, C-4
+combat engineer reconnaissance                                             slope estimation, 4-26
+   tasks, 1-9                          infrastructure survey, C-1
+                                                                           slope symbols, 4-33
+commander                              intelligence, surveillance, and
+    and reconnaissance                    reconnaissance                   standard route signs, F-1
+       operations, 1-2                     assets, 1-36                        guide signs, F-11
+    reconnaissance guidance, 2-6           planning, 2-1                       hazard, F-2
+                                           staff support of, 2-3               regulatory signs, F-3
+complex terrain, 3-64
+    arctic and cold regions, 3-94                         M                survivability operations, 3-41
+    deserts, 3-88
+    jungles and forests, 3-77          maintain countermobility                                T
+    mountains, 3-82                       operations
+                                           obstacle integration, 3-40      technical capabilities
+countermobility operations, 3-36                                               of general engineers, 1-10
+    obstacle placement, 3-37           mobility operations, 3-1
+                                           combat roads and trails, 3-23   technical reconnaissance
+curve calculations, 4-17                   gap crossing, 3-16                 capabilities, 1-10
+    tape measure method, 4-19              obstacle reconnaissance, 3-4
+                                                                           tunnel
+                   E                                      P                    detection, 3-68
+                                                                               reconnaissance, 3-73
+engineer                               percent of slope
+    reconnaissance, 1-4                    angle-of-slope method, 4-32     tunnels, 3-65
+                                           clinometer method, 4-28
+engineer reconnaissance                    map method, 4-29                                   U
+    capabilities of, 1-9                   pace method, 4-30
+    other types, 3-95                                                      underpass, 4-38
+
+engineer reconnaissance reports                                            urban operations, 3-44
+    types of, B-2
+
+1 March 2016                           ATP 3-34.81/MCWP 3-17.4             Index-1
+
+
+---
+
+Index                                     Z
+                      zone reconnaissance tasks, 2-24
+                   V
+vehicle signs, F-18
+
+Index-2               ATP 3-34.81/MCWP 3-17.4          1 March 2016
+
+
+---
+
+                                         ATP 3-34.81
+                                        MCWP 3-17.4
+
+                                              1 March 2016
+
+By Order of the Secretary of the Army:     MARK A. MILLEY
+Official:
+                                        General, United States Army
+
+                                                  Chief of Staff
+
+    GERALD B. O’KEEFE
+
+   Administrative Assistant to the
+         Secretary of the Army
+                 1602802
+
+DISTRIBUTION:
+
+Active Army, Army National Guard, and United States Army Reserve: Distributed in electronic media
+only (EMO).
+
+
+---
+
+PCN: 14300015600  PIN: 106039−000
+
+
+--- 

@@ -1,0 +1,4726 @@
+# misc_tm_43_0001_36_ammunition_data_sheets_for_land_mine  TM 43-0001-36
+
+          TECHNICAL MANUAL
+
+ARMY AMMUNITION DATA SHEETS
+                      FOR
+
+                LAND MINES
+                 (FSC 1345)
+
+DISTRIBUTION STATEMENT A: Approved for public release; distribution is unlimited.
+
+HEADQUARTERS, DEPARTMENT OF THE ARMY
+
+                                      SEPTEMBER 1994
+
+
+---
+
+CHANGE                                                                                               TM 43-0001-36
+NO. 2                                                                                                          C2
+
+                                                                            HEADQUARTERS
+                                                                    DEPARTMENT OF THE ARMY
+                                                                Washington, DC., 15 September 1997
+
+                                        ARMY AMMUNITION DATA SHEETS
+                                               (LAND MINES (FSC 1345))
+
+           DISTRIBUTION STATEMENT A: Approved for public release; distribution unlimited.
+
+TM 43-0001-36, dated 01 September 1994, is changed as follows:
+
+1. Cross out information on inside cover. The information is changed and placed on page a.
+
+     2. Remove old pages and insert new pages as indicated below. Changed material is indicated by a vertical bar in
+the margin of the page. Added or revised illustrations are indicated by a vertical bar adjacent to the identification
+number.
+
+           Remove pages                       Insert pages
+           i and ii                           i and ii
+           3-7 and 3-8                        3-7 and 3-8
+
+3. File this change sheet in front of the publication for reference purposes.
+
+By Order of the Secretary of the Army:
+
+                                                                                    DENNIS J. REIMER
+                                                                               General, United States Army
+
+                                                                                         Chief of Staff
+
+Official:
+
+                  JOEL B. HUDSON
+           Administrative Assistant to the
+
+                Secretary of the Army
+                                       03953
+
+Distribution:
+          To be distributed in accordance with IDN 340853, with requirements for TM 43-000-36.
+
+
+---
+
+CHANGE                                                                                                          TM 43-0001-36
+NO. 1                                                                                                                   C1
+
+                                                                                       HEADQUARTERS
+                                                                               DEPARTMENT OF THE ARMY
+                                                                               Washington, DC, 30 June 1997
+
+                                        ARMY AMMUNITION DATA SHEETS
+                                               (LAND MINES (FSC 1345))
+
+TM 43-0001-36, dated 01 September 1994, is changed as follows:
+
+1. Cross out information on inside cover. The information is changed and placed on page a.
+
+2. Remove old pages and insert new pages as indicated below. Changed material is indicated by a vertical bar in the
+margin of the page. Added or revised illustrations are indicated by a vertical bar adjacent to the identification number.
+
+        Remove pages                                            Insert pages
+
+        A and B                                                 None
+        i and ii                                                i and ii
+        8-5 and 8-6                                             8-5 and 8-6
+
+2. File this change sheet in front of the publication for reference purposes.
+
+By Order of the Secretary of the Army:                                              DENNIS J. REIMER
+                                                                               General, United States Army
+Official:
+                                                                                         Chief of Staff
+       JOEL B. HUDSON
+Administrative Assistant to the
+
+      Secretary of the Army
+                           03767
+
+Distribution:
+        To be distributed in accordance with IDN 340853, with requirements for TM 43-000-36.
+
+
+---
+
+                                                                                                                                                  *TM 43-0001-36
+
+Technical Manual  )                         HEADQUARTERS
+                                    DEPARTMENT OF THE ARMY
+                  )              Washington, DC, 1 September 1994
+
+                  )
+
+No. 43-0001-36    )
+
+                     ARMY AMMUNITION DATA SHEETS
+                            (LAND MINES (FSC 1345))
+
+                        REPORTING ERRORS AND RECOMMENDING IMPROVEMENTS
+You can help improve this manual. If you find any mistakes or if you know of a way to improve the
+procedures, please let us know. You may mail, e-mail, or FAX your response. Mail your letter, DA Form
+2028 (Recommended Changes to Publications and Blank Forms) or DA Form 2028-2 located in the back
+of this manual direct to: Commander, U.S. Army TACOM, Armament Research, Development and
+Engineering Center, ATTN: AMSTA-AR-WEL, Picatinny Arsenal, NJ 07806-5000. E-mail address is
+LSS@PICA.ARMY.MIL. FAX number is Commercial (201) 724-4633, DSN 880-4633. A reply will be
+furnished to you.
+
+                                                                                 Page
+
+CHAPTER 1. INTRODUCTION ................................................................................................. 1-1
+                    Purpose ............................................................................................................... 1-1
+                    Scope .................................................................................................................. 1-1
+                    Metric Conversion Chart....................................................................................... 1-1
+                    Key to Abbreviations and Symbols ....................................................................... 1-1
+                    Quantity-Distance Classes and Storage Compatibility Group................................ 1-1
+
+CHAPTER 2. ANTITANK MINES AND AERIALLY DISPERSED
+                    ANTITANK/ANTIVEHICLE MINES
+
+     Section I. Mines, Antitank
+                    Mine, Antitank: HE, Heavy, M15 .......................................................................... 2-3
+                    Mine, Antitank: HE, Nonmetallic, M19 .................................................................. 2-5
+                    Mine, Antitank: HE, Heavy, M21 .......................................................................... 2-7
+                    Mine, Antitank: HE, M24 ...................................................................................... 2-9
+                    Mine, Antitank: HE, M66 ...................................................................................... 2-11
+                    Mine, Antitank: HE, M75 ...................................................................................... 2-13
+
+    Section II. Mines, Aerially Dispersed, Antitank/Antivehicle Mines
+                    Mine Dispersing Subsystem, Aircraft: M56 .......................................................... 2-17
+
+CHAPTER 3. ANTIPERSONNEL MINES
+                    Mine, Antipersonnel: M2A4 (M2A4B2).................................................................. 3-3
+                    Mine, Antipersonnel: M3....................................................................................... 3-5
+                    Mine, Antipersonnel: M14..................................................................................... 3-7
+                    Mine, Antipersonnel: M16 (M16A1, M16A2) ......................................................... 3-9
+
+*This manual supersedes TM 43-0001-36, 14 February 1977, including all changes.
+
+                     Change 2 i
+
+
+---
+
+                                                                                                                                            TM 43-0001-36
+
+CHAPTER 3. ANTIPERSONNEL MINES (Continued)
+                    Mine, Antipersonnel: M18A1 ................................................................................ 3-13
+                    Mine, Antipersonnel: M26..................................................................................... 3-15
+                    Mine, Antipersonnel: HE, M74.............................................................................. 3-17
+                    Mine, Antipersonnel: M86, Pursuit Deterrent Munition (PDM) ............................... 3-21
+
+CHAPTER 4. CHEMICAL AGENT MINES
+                    Mine, Chemical Agent, VX: M23........................................................................... 4-3
+
+CHAPTER 5. PRACTICE, INERT, TRAINING, AND DUMMY ITEMS
+                    Mine, Antipersonnel, Practice: M8 (M8A1)............................................................ 5-3
+                    Mine, Antitank, Practice, Light: M10 ..................................................................... 5-5
+                    Mine, Antitank, Practice: M12 Series.................................................................... 5-7
+                    Mine, Antipersonnel: M16A1, Inert ....................................................................... 5-9
+                    Mine, Antipersonnel, Training: M81 ...................................................................... 5-11
+                    Mine, Antitank, Training: M80............................................................................... 5-13
+                    Mine, Antitank, Practice, Heavy: M20................................................................... 5-15
+                    Mine, Antipersonnel, Practice: M35 ...................................................................... 5-17
+                    Mine, Antipersonnel, Practice: M68 ...................................................................... 5-19
+                    Mini, Antitank, Practice: M69................................................................................ 5-21
+                    Activator, Antitank Mine, Practice: M1.................................................................. 5-23
+                    Mine, Antitank, Practice: M79............................................................................... 5-25
+                    Fuze, Mine, Antitank: M603, Inert......................................................................... 5-27
+                    Fuze, Mine, Antitank, Practice: M604 ................................................................... 5-29
+                    Fuze: M606, Inert................................................................................................. 5-31
+
+CHAPTER 6. ACTIVATORS AND FUZES
+                    Activator, Antitank: M1 (M2)................................................................................. 6-3
+                    Burster, Field, Incendiary: M4............................................................................... 6-5
+                    Fuze, Mine, Combination: M6A1 .......................................................................... 6-7
+                    Fuze, Mine, Combination: M7A1 .......................................................................... 6-9
+                    Fuze, Mine, Combination: M10 (M10A1, M10A2) ................................................. 6-11
+                    Fuze, Mine, AT: M603.......................................................................................... 6-13
+                    Fuze, Mine, Combination: M605........................................................................... 6-15
+                    Fuze, Mine, Antitank, Nonmetallic: M606 ............................................................. 6-17
+                    Fuze, Mine, Antitank: M607.................................................................................. 6-19
+                    Fuze, Mine, Antitank: M608.................................................................................. 6-21
+                    Fuze, Mine: M624 ................................................................................................ 6-23
+
+CHAPTER 7. PROJECTILES WITH ANTITANK MINES
+                    Projectile, 155 Millimeter: AT, M718 and M718A1 with
+                       Antitank Mines .................................................................................................. 7-3
+                    Projectile, 155 Millimeter: AT, M741 and M741A1 with
+                       Antitank Mines .................................................................................................. 7-5
+
+CHAPTER 8. MINE CANISTERS
+                    Canister, Mine: M87 ............................................................................................. 8-3
+                    Canister, Mine: M87A1......................................................................................... 8-5
+                    Canister, Mine, Practice: M88 .............................................................................. 8-7
+
+CHAPTER 9. DISPENSER AND MINES
+                    Dispenser and Mines, Ground: M131.................................................................... 9-3
+
+                                                                               ii
+
+
+---
+
+                                                                                                 TM 43-0001-36
+
+   CHAPTER 1
+INTRODUCTION
+
+1-1. Purpose                                                            d. Numerical values, such as weights, dimensions,
+This manual is a reference handbook published as an                candlepower, etc., are nominal values, except when
+aid in training, familiarization, and identification of land       specified as maximum or minimum. Actual items may
+mines and mine fuzes. This manual is not authorization             vary slightly from these values. Allowable limits can be
+for requisition, stockage, maintenance, or issue of the            obtained form the drawings indicated in the data sheets.
+materiel described herein.
+                                                                   1-3. Metric Conversion Chart
+1-2. Scope
+                                                                   For approximate conversions to/from metric measures
+     a. For each item of materiel, there are illustrations         see Table 1-1.
+and descriptions together with characteristics and
+related data. Included in the related data are weights,            1-4. Key to Abbreviations and Symbols                           nerve
+dimensions, performance data, packing, shipping and                AD ............................... Anti-disturbance
+storage data, type classification, and logistics control           AP................................ Armor piercing
+codes (LCC).                                                       APERS ........................ Antipersonnel
+                                                                   AT/AV .......................... Antitank/antivehicle
+     b. Information concerning supply, operation, and              CON............................. Contingency
+maintenance of the items will be found in the                      DCP ............................. Dispenser control panel
+publications referenced for those items. A complete                E-CELL ........................ Electrochemical cell
+listing of these publications is maintained in DA Pam              Frag ............................. Fragmentation
+310 series indexes.                                                HE ............................... High-explosive
+                                                                   LCC ............................. Logistics control codes
+     c. Within this manual, items with the following               LP ................................ Limited procurement
+type-classifications are included:                                 LVD.............................. Low voltage detector
+                                                                   NM............................... Nonmetallic
+            (1) Standard (LCC-A, LCC-B).                           OBS............................. Obsolete
+            (2) Contingency (CON).                                 SD ............................... Self-destruct
+            (3) Limited procurement (LP).                          VX................................ Persistent toxic (casualty)
+            (4) Reclassified obsolete (OBS) for regular
+Army use, but used by National Guard or Reserve units.                                             gas
+            (5) Reclassified OBS for all Army use, but
+used by Marine Corps, Air Force or Navy.                           1-5. Quantity-Distance Classes and Storage
+            (6) Reclassified OBS, no users, but US                 Compatibility Groups
+stocks remain. Items with the following type-
+classification are not included: Reclassified OBS for all            Quantity-Distance Classes and Storage Compatibility
+U.S. use. No U.S. stocks remain. (Foreign use or                   Groups. Quantity-Distance (QD) classes and Storage
+stock may remain).                                                 Compatibility groups (SCC) listed in this manual are
+                                                                   changed. For conversion to new system see Table 1-2.
+
+                                                              1-1
+
+
+---
+
+                                                                                                       TM 43-0001-36
+
+                                     Table 1-1. Metric Conversion Chart
+
+                                                                                      WEIGHT
+
+       Approximate Conversions to Metric Measures
+
+Symbol  When You    Multiply  To Find      Symbol           g          grams             0.035 ounces
+        Know        By
+                                                                       oz
+                    LENGTH
+                                                            kg         kilograms         2.2 pounds
+
+in.     inches      2.5 centimeters cm                                 lb
+
+ft      feet        30        centimeters cm                t          tonnes            1.1 short tons
+
+yd      yards       0.9 meters             in.                                        VOLUME
+
+mi      miles       1.6 kilometers km
+
+                    AREA                                    ml         milliliters       0.03 fluid ounces fL oz
+
+in.2 square inches 6.5 sq centimeters cm2                   1          liters            2.1 pints
+ft2 square feet 0.009 sq meters m2
+yd2 square yards 0.8 sq meters m2                                      pt
+
+mi2 sq miles        2.6 sq kilometers km2                   1          liters            1.06 quarts
+
+                                                                       qt
+
+        acres       0.4 hectares           ha               1          liters            0.26 gallons
+
+                    WEIGHT                                             gal
+
+oz      ounces      28        grams        g                ms         cubic meters 35        cubic feet ft
+                                                            ma cubic meters 1.3 cubic yards yd3
+lb      pounds      0.45 kilograms kg
+
+        short tons  0.9 tonnes             t                                        TEMPERATURE
+
+        (2000 lb)                                           Symbol When You Know Multiply Add To Find Symbol
+
+                    VOLUME                                  °C   Celcius                 by 1.8 32 Fahrenheit F
+
+tap     teaspoons   5         milliliters  ml                  Table 1-2. Quantity-Distance Classes and Storage
+                                                                                   Compatibility Groups
+Tbsp tablespoon 15            milliliters  ml
+
+fl oz   fluid ounces 30       milliliters  ml
+
+c       cups        0.24 liters            1
+
+pt      pints       0.47 liters            1                Quantity-distance            Storage compatibility
+                                                            hazard class 1/              group 1/3/
+qt      quarts      0.95 liters            1
+
+gal     gallons     3.8 liters             1                Old                New v          Typical - New
+ft3 cubic feet 0.03 cubic meters m3
+yd3 cubic yards 0.76 cubic meters m3                        8                  6.1
+
+                                                            7                  1.1                  D
+
+                   TEMPERATURE                              6                  1.2 (18)             E
+
+Symbol When You Know Subtract Multiply To Find Symbol       5                  1.2 (12)
+
+°F      Fahrenheit 32         by 0.55 Celcius °C            4                  1.2 (08)             F
+
+                                                            3                  1.2 (04)             G
+
+     Approximate Conversions from Metric Measures           2                  1.3                  C
+
+                    LENGTH                                  1                  1.4                  S
+
+mm      millimeter  0.04 inches            in.                                               1otes:
+                                                            1/ New QD and SCG's are compatible with classes
+cm      centimeters 0.4 inches             in.
+                                                            used by NATO nations.
+m       meters      3.3 feet               ft               2/ Numbers in parenthesis are minimum distance x 100
+
+m       meters      1.1 yards              yd               feet to protect against specific fragment hazards and
+
+km      kilometers 0.6 miles               mi               vary with items and types of ammunition. (Refer to TM
+
+                                 AREA                       9-1300-206.)
+cm2 square centi- 0.16 square inches in2                    3/ There is no simple conversion from old SCG's to new
+
+             meters                                         system. The SCG groups listed in this column are
+m2 square meters 1.2 square yards yd2
+km2 square kilo- 0.4 square miles mi2                       typical for the majority of items in the corresponding
+
+        meters                                              listed QD class but do not apply to every individual item
+
+ha      hectares    2.5 acres                               in the class. For SCG of individual items refer to TM 9-
+
+        (10,000m2)                                          1300-206.
+
+                                                       1-2
+
+
+---
+
+                                                                                              TM 43-0001-36
+
+                         CHAPTER 2
+ANTITANK MINES AND AERIALLY DISPERSED
+
+          ANTITANK/ANTIVEHICLE MINES
+                               2-1
+
+
+---
+
+                                                                                 TM 43-0001-36
+
+Section I. MINES, ANTITANK
+                  2-2
+
+
+---
+
+                                                                TM 43-0001-36
+
+Type Classification:                                                                            U
+     S 37119 (LCC-A)                                                                            AR 102194
+
+Use:                                                            spring primary fuze, M120 booster, and main explosive
+     Antitank mine M15 is intended for use against heavy        charge. The mine is shipped with fuze not assembled,
+                                                                with the fuze packed separately in a metal can in the
+tanks and other types of heavy tracked and wheeled              packing box. Arming of the mine requires the use of the
+vehicles.                                                       M20 wrench, with which the arming plug is
+                                                                unscrewed, permitting insertion of the fuze. Following
+Description:                                                    removal of the safety for the fuze is inserted in the well.
+     The mine is a flat, steel cylinder with the fuze and       After verifying that the setting knob and shutter are in
+                                                                the Safe position, the arming plug is screwed into place
+most of the other components located concentrically             and wrenched tight. The mine is armed by rotating the
+with the vertical axis. Two secondary fuzing wells,             setting knob to the Armed position with the M20 wrench.
+threaded to accept M1 activators, are located, one in the
+side and one in the bottom, to provide for alternate            Functioning:
+fuzing and booby trapping arrangements. The mine, as              When the shutter of the arming plug is in the Armed
+shipped, has these wells covered with tape. The
+recessed knob in the M4 arming plug, located top,               position, a force of 350 to 750 pounds on the pressure
+center, carries an arrow, and may be set to indicate            plate of the mine will allow the load to be transferred to
+Safe, Danger, or Armed, as indicated on the rim of the          the fuze. This force activates the fuze mechanism,
+plug. A carrying handle, attached to the underside of           driving the firing pin into the detonator. This initiates the
+the mine, is provided. The mine body houses the                 M120 booster in the bottom of the fuze well, which, in
+arming plug, pressure plate, multiple element belleville        turn, detonates the main charge.
+
+                                                           2-3
+
+
+---
+
+                                                                                                         TM 43-0001-36
+
+Tabulated Data:                                                               group ............................1.1D
+                                                                          UNO serial number- 0137
+Model number ........................M15                                  UNO proper shipping
+Type ................................AT-Heavy
+Drawings:                                                                     name ............................Mines
+                                                                          DOT shipping class - Class A Explosive
+    Assembly...........................82-0-189                           IDOT marking....................EXPLOSIVE MINES
+Weight - fuzed .......................31.46 lb                        DODAC ................................1345-K180
+Dimensions:                                                           Painting ................................Olive Drab
+                                                                      Marking ................................Yellow
+    Height................................4.91 in.
+    Max diameter ....................13.25 in.                        Explosive Data:
+Material Steel
+
+Threads:                                                                                           Weight
+    Arming plug well................2.313-14NS-1A
+    Secondary fuze well ..........0.75-12NS                           Item          Type       AV          Metric
+
+Fuze (see separate                                                    M603 Fuze -   PA #100    1.85 gr       120 mg
+    write-up) ............................M603                        M45 Det       4.24 gr    272 mg      11.18 gm
+                                                                      Lead Az       1.85 gr    120 mg
+Temperature Limits:                                                   RDX           RDX        172.5 gr
+    Firing - lower .................-40°F                             M120 Boost
+                - upper.................+125°F                        M15 Mine -    Comp B     22.75 lb    10.33 kg
+    Storage lower ...................-60°F                            Main chg      (if used)
+                - upper.................+ 160°F                       M1 Activator  Ar Ign Mx  2.3 gr      150 mg
+                                                                      M31 Det       3.9 gr     250 mg      2.3 gm
+Shipping and Storage Data:                                            Lead Az       4.2 gr     270 mg
+    Packing arrangement ........1 mine w/fuze, 1 activ in             Tetryl        Tetryl     36 gr
+                                        can, & 1 wrench, all in       Booster
+                                        wooden box
+    Weight...............................49 lb                        Reference:
+    Dimensions .......................18 x 15-1/8 x 7-1/2 in.         TM 9-1345-203-12&P
+    Cube ................................1.17 cu ft
+    Hazard class/division and
+        storage compatibility
+
+                                                                 2-4
+
+
+---
+
+                                                                 TM 43-0001-36
+
+MINE, ANTITANK: HE, NONMETALLIC, M19
+
+Type Classification:                                             trapping in the side of the mine and another one in the
+  S 37119 (LCC-A)                                                bottom. In mines of early manufacture these wells are
+                                                                 closed with plugs and gaskets, while in those of later
+Use:                                                             manufacture the wells are closed with strips of adhesive
+  Antitank mine M19 is used against heavy tanks and              tape. The fuze body contains the pressure plate, two
+                                                                 belleville springs, setting knob, step plate firing pin
+heavy tracked and wheeled vehicles. The M19 mine is              assembly, and detonator. The upper belleville spring
+of nearly all-plastic construction and is nondetectable by       allows the fuze to function with application of
+magnetic mine detectors. The mine uses the                       predetermined force. The lower belleville spring drives
+mechanical pressure type fuze M606, also constructed             the firing pin into the detonator when the pressure plate
+of plastic material.                                             is forced downward. The setting knob turns the step
+                                                                 plate from the Safe to Armed position and the safety clip
+Description:                                                     locks the setting knob in the Safe position.
+  The mine has a square case of olive drab plastic
+                                                                 Functioning:
+material with both embossed and yellow markings. It                With safety clip removed and setting knob set on A, a
+can be easily identified in the dark by its box shape.
+The mine is packed assembled with the M606 fuze, less            force of 300 to 500 pounds applied to the pressure plate
+the detonator holder, loading assembly, which is packed          causes the lower belleville spring to drive the firing pin
+separately in the same box. Two letters, A and S, on             into the detonator, thus initiating the booster pellet and
+the pressure plate signify Armed and Safe, respectively.         setting off the main charge.
+The mine body holds the high-explosive charge, the
+tetryl or RDX booster pellet, and the M606 fuze. There
+is a well, threaded to accept an M2 activator for booby
+
+                                                            2-5
+
+
+---
+
+                                                                                                             TM 43-0001-36
+
+Tabulated Data:                                                                 group ............................ 1.1D
+                                                                            UNO serial number............0137
+Model number ........................M19                                    UNO proper shipping
+Type ................................AT, Non-Metallic
+Drawings:                                                                       name Mines
+                                                                            DOT shipping class ...........Class A Explosive
+    Assembly...........................9209328                              DOT marking.....................EXPLOSIVE MINES
+Weight 27.68 lb                                                         DODAC ................................1345-K250
+Dimensions:                                                             Painting ................................Olive Drab
+                                                                        Marking ................................Yellow
+    Height s/M606 fuze............3.7 in.
+    Max width (square) ............13.09 in.                            Explosive Data:
+Material ................................Plastic
+                                                                                                             Weight
+Threads:
+    Fuze detonator holder                                               Item             Type       AV               Metric
+        well ............................... 0.563-12UNC-1A
+    Secondary fuze well ..........0.75-UNS-18                           M606 Fuze -
+
+Fuze (see separate                                                      M50 Det PA #100             1.62 gr          105 mg
+        write-up) .......................M606                                                       3.85 gr          250 mg
+                                                                                         Lead Az    7.85 gr          510 mg
+Temperature Limits:
+    Firing - lower .................-40°F                                                RDX
+                - upper.................+ 125°F
+    Storage - lower ..................-60°F                             M19 Mine -
+                - upper.................+160°F
+                                                                        Booster RDX                 805 gr           52.1 gm
+Shipping and Storage Data:                                                                          21 lb             9.53 kg
+    Packing arrangement ........2 mines, 2 fuzes, 1                     Main chg Comp B
+                                        wrench, & 2 activators in
+                                        bag. 2 bags (4 mines) in        M2 Activator - (when used)
+                                        wire-bound box
+    Weight...............................124.5 lb                       M31A1 Det Ar Ign Mx         1.62 gr          105 mg
+    Cube ................................3.9 cu ft                                                  250 mg           2.58 gm
+    Hazard class/division and                                           Lead Az 3.86 gr             270 mg
+        storage compatibility                                                                       40 gr
+                                                                        Tetryl           4.17 gr
+
+                                                                        Pellet           RDX
+
+                                                                        Reference:
+                                                                        TM 9-1345-203-12&P
+
+                                                                   2-6
+
+
+---
+
+                                                               TM 43-0001-36
+
+MINE, ANTITANK: HE, HEAVY, M21
+
+Type Classification:                                           and extension rod adapter, if provided, are assembled to
+  S 37246 (LCC-A)                                              the fuze. The extension rod adapter was eliminated
+                                                               after 1963.
+Use:
+  Mine M21 is used primarily for destroying tanks and          Functioning:
+                                                                 The fuze M607 for the mine is actuated by applying a
+tracked and wheeled vehicles. It is a standoff type that
+can penetrate 3-inch armor plate at a distance of 21           horizontal force greater than 3.75 pounds at the end of
+inches. It also functions as a blast-type mine.                the extension rod. The fuze is also actuated by a
+                                                               directly applied downward force of 290 pounds. The
+Description:                                                   fuze ignites the black powder expelling charge in the
+  Mine M21 is composed of a cover assembly and a               mine and the resulting detonation opens up the mine
+                                                               cover and removes the earth covering the mine. Back
+cylindrical steel body. The cover assembly includes the        pressure from the burning propellant drives the firing pin
+charge cap assembly with a threaded fuze hole closed           into the M42 primer which, in turn, ignites the delay
+by a shipping plug, a black powder charge, and the             assembly. After 0.15 second, the relay assembly is
+cover. The mine body contains a concave steel dish,            detonated, firing the M120 booster, which, in turn, fires
+and HE charge, firing pin, and delay assembly. The             the main charge. The steel dish is then driven at high
+delay assembly consists of the M42 primer, a delay             velocity against the target. The arming wrench M26 is
+element, and a relay charge. A booster is placed               provided for use with this mine and fuze.
+separately in the mine and it is assembled with the mine
+packing box when the mine is fuzed. The M607 fuze is
+screwed into the mine charge cap and the extension rod
+
+                                                          2-7
+
+
+---
+
+                                                                                                              TM 43-0001-36
+
+Tabulated Data:                                                              Hazard class/division and                        MINES
+Model number ........................M21                                         storage compatibility
+Type ................................Antitank                                    group ............................1.1D
+Drawings:
+                                                                             UNO serial number............- 0137
+    Assembly...........................8831341                               UNO proper shipping
+Weight ................................17.5 lb
+Dimensions:                                                                      name - ..........................Mines
+                                                                             DOT shipping class - Class A Explosive
+    Height - fuzed....................8.125 in.                              DOT marking.....................EXPLOSIVE
+    Height w/ext rod ................32 in.                              DODAC ................................1345-K181
+    Max diam ..........................9 in.                             Painting ................................Olive Drab
+Material Steel                                                           Marking ................................Yellow
+Threads:
+    Fuze well...........................0.75-UNS-2B                      Explosive Data:
+    Booster Cavity...................1.375-18NEF-2A
+Fuze (see separate                                                                                          Weight
+    write-up) ............................M607
+Temperature limits:                                                      Item             Type     AV                         Metric
+    Firing - lower................-40°F
+                                                                         M607 Fuze-
+                 - upper ...............+125°F
+    Storage lower..................-60°F                                 M101 Primer               0.35 gr                    22.7 mg
+                                                                                                   1.62 gr                     105 mg
+                 - upper ...............+ 160°F                          M46 Det NOL #130          4.31 gr                     280 mg
+Shipping and Storage Data:                                                                         2.24 gr                    1456 mg
+                                                                                          Lead Az
+    Packing arrangement ........2 mines w/2 fuzes w/2
+                                        boosters in barrier bag. 2                        RDX
+                                        bags (4 mines) w/2
+                                        wrenches in wire-bound           M21 Mine-
+                                        box
+                                                                         M120 Boost RDX            172.48 gr                  11.18 gm
+    Weight...............................90 lb                                                     4.62 gr                      300 mg
+    Dimensions .......................29-1/4 x 12-1/2 x13-1/2                             Lead Az  4.23 gr                      275 mg
+                                                                                                   10.8 lb                        4.9 kg
+                                        in.                              Relay Assy RDX Type
+    Cube ................................2.85 cu ft
+                                                                         Main chg Comp H-6
+
+                                                                         Reference:
+
+                                                                         TM 9-1345-203-12&P
+
+                                                                    2-8
+
+
+---
+
+                                                                TM 43-0001-36
+
+MINE, ANTITANK: HE, M24
+
+Type Classification:                                              Elevation and Azimuth Sighting Assembly. The
+  S 8899 (LCC-B)                                                sighting and aiming equipment consists of a tube
+                                                                containing a peepsight and crosshairs, and a pair of self
+Use:                                                            centering legs for positioning of the launcher tube.
+  The antitank mine M24 is a remotely operated
+                                                                  Firing Device, Demolition, M61. This assembly
+horizontal effects device, used to defend against tracked       consists of an arm/safe toggle switch together with an
+and wheeled vehicles. It supplements standard, vertical         indicator light mounted in a box which has provision for
+effects mines, in that off-route emplacement of the             batteries. The box is equipped with a safety cover,
+rocket permits mine of locations that could not otherwise       connectors for the discriminator assembly, and the
+be effectively mined.                                           rocket cable assembly and a transistorized firing circuit.
+                                                                Batteries are issued separately and are not installed
+Description:                                                    until mine is being employed.
+  The M24 mine has six basic components, plus
+                                                                  Bipod Assembly. This accessory provides an
+auxiliary equipment, as follows:                                adjustable base for the launcher. It consists of a two-
+                                                                pronged base, a short vertical rod with a knurled nut
+  Discriminator Assembly, Antitank Mine M2. This                which provides adjustment in elevation, and a yoke
+assembly consists of a 22 meter length of wire                  which grips the launcher tube near one end. Either
+connected to an 11 meter plastic-covered pressure               forward or aft end may be chosen, depending on type of
+actuated switch. The switch is composed of four 2.6             aiming correction desired. The auxiliary equipment
+meter segments with spacing between them. To                    consists of a discriminator spool and accessory
+assure operation with tracked or wheeled vehicles,              pouches. The discriminator assembly is wound on the
+pressure is required on two of the adjacent segments to         outside of the spool and the core of the spool forms an
+close the electrical circuit.                                   accessory compartment in which the bipod assembly,
+                                                                the sighting assembly, and the firing device are carried.
+  Rocket, HE, 3.5-inch Antitank, M28A2. This rocket             The entire M24 mine is carried in two green nylon
+has been modified by the addition of the folding fin            pouches and when strapped together they form the
+assembly and by splicing the leads of the rocket                M190 antitank mines case. One pouch contains the
+connecting cable to the rocket motor. The 15 meter              rocket launcher and the other contains the discriminator
+rocket connecting cable terminates in a connector for           spool.
+attachment to the M61 firing device.
+
+  Launcher, Rocket, M143. The launcher is a 24 inch
+long plastic tube housing the rocket.
+
+                                                           2-9
+
+
+---
+
+                                                                                                            TM 43-0001-36
+
+Functioning:                                                                 Weight...............................55 lb
+  A vehicle crossing the pressure switch at two adjacent                     Dimensions .......................28-1/8 x 13-7/8 x 10-3/4
+
+segments completes the circuitry to the firing device                                                            in.
+which electrically fires the igniter in the rocket motor.                    Cube ................................2.7 cu ft
+The igniter initiates the propellant and launches the                        Hazard class/division and
+rocket. The fuze is initiated upon impact and
+penetration of the target vehicle is effected by the shape                       storage compatibility
+charge warhead. Although the rocket has a maximum                                group ............................1.1E
+range of 825 meters it is used in the M24 mine to cover                      UNO serial number............0181
+a range up to 30 meters.                                                     UNO Proper shipping
+                                                                                 name ............................Rockets
+Tabulated Data:                                                              DOT shipping class - Class A Explosive
+Model number ........................M24                                     DOT marking- ROCKET AMMUNITION
+Type ................................Off-route, AT
+Drawings:                                                                                                        W/EXPLOSIVE
+                                                                                                                 PROJECTILES
+    Assembly...........................9207411                           DODAC ................................1345-K182
+Weight:                                                                  Painting ................................Olive Drab
+                                                                         Marking ................................Yellow
+    Total ................................18 lb
+    Rockets only......................9 lb                               Explosive Data:
+Dimensions:
+    Rocket:                                                                                                 Weight
+
+        Length ..........................23.55 in.                       Item             Type     AV               Metric
+        Max diam......................9 in.
+Material:                                                                M28A2 Rocket Motor -
+    Rocket:
+        Motor ............................Steel                          M2 Elec Sq flsh pdr       1 gr              65 mg
+        Warhead.......................Copper/Steel                                                 54 gr            3.5 gm
+Fuze:                                                                    Igniter          blk pdr  0.35 lb          159 gm
+    Rocket ............................... M404A2
+    Type ................................Mech-BD                         Propellant M7
+Battery Type (not included):
+    2 required for Firing                                                M404A2 Rocket Fuze -
+        Device ..........................BA-3202/U
+Temperature Limits:                                                                       PA #100  1.62 gr          105 mg
+    Firing - lower................-40°F                                                            3.86 gr          250 mg
+                                                                         M41 Det Lead Az           1.67 gr          108 mg
+                 - upper ...............+125°F                                                     75 gr            4.86 gm
+    Storage - upper ...............+120°F                                                 Tetryl
+Shipping and Storage Data:
+    Packing .............................2 mines, incl fuzed             Booster Tetryl
+
+                                        rockets in wire-bound box        M28A2 Rocket Warhead -
+
+                                                                         Shaped Chg Comp B         1.88 lb          853 gm
+
+                                                                         Reference:
+
+                                                                         TM 9-1345-203-12&P
+
+                                                                   2-10
+
+
+---
+
+                                                                 TM 43-0001-36
+
+                                   MINE, ANTITANK: HE, M66
+
+Type Classification:                                                       Fuze, Mine, Igniting Type, M619. This fuze is
+          OBS 03866008                                           an electronic detector/discriminator consisting of five
+                                                                 components. The Source Assembly is a tripod mounted
+Use:                                                             infra red beam generator. The Receiver Assembly is a
+The antitank mine M66 is a remotely actuated,                    tripod mounted infrared beam receiver. Stabilizing
+horizontal effects device, used to defend against tracked        stakes are provided for both the Source and Receiver
+and wheeled vehicles. It supplements standard, vertical          Assemblies. The geophone is a seismic device
+effects mines, in that off-route emplacement permits             emplaced in the ground to sense the approach of tanks.
+mining of locations that could not otherwise be                  The Data Processor, which receives inputs from the
+effectively mined. Although, basically similar to the M24        Receiver and the geophone, can analyze these and
+mine, it differs in that no initiating device need be            discriminates between tanks and personnel and/or
+contacted by the target to function the mine.                    animals. If the proper signal is received, the Data
+                                                                 Processor will fire the rocket at the target. The Output
+Description:                       of delivery by                Cable Assembly transmits the firing command to the
+The mine M66 is a system capable   backpack and                  rocket.
+parachute. It can be carried as a  has six basic
+emplaced by one man. The mine                                              Rocket, HE, 3.5-inch Antitank, M28A2. This
+component assemblies as follows:                                 rocket has been modified by the addition of the folding
+                                                                 fin assembly and by splicing the two leads in the firing
+                                                                 cable and spool assembly to leads connected to the
+                                                                 rocket motor squib.
+
+                                                           2-11
+
+
+---
+
+                                                                                                    TM 43-0001-36
+
+          Launcher, Rocket, M143. The launcher is a 24-          Fuze:
+inch-long plastic tube housing the rocket.                           System ..............................M619
+                                                                     Type ................................Electronic
+          Elevation and Azimuth Sighting Assembly. The               Rocket ............................... M404A2
+sighting and aiming equipment consists of a tube                     Type Mech-BD
+containing a peepsight and crosshairs, and a pair of self
+centering legs for positioning of the launcher tube.             Battery Types (not included):
+                                                                     2 required for Data
+          Bipod Assembly. This accessory provides an                     Processing .................... BA-3202/U
+adjustable base for the launcher. It consists of a two-              1 required for Data
+pronged base, a short vertical rod with a knurled nut                    Processing .................... BA-1114/U
+which provides adjustment in elevation, and a yoke                   1 required for IR Source ....BA-1114/U
+which grips the launcher tube near one end. Either
+forward or aft end may be chosen, depending on type of           Temperature Limits:
+aiming correction desired. The auxiliary equipment                   Firing -lower.......................-40°F
+consists of two elongated sand bags, a protective end                        -upper - ....................+125°F
+cover for the launcher, and a thumb screw wrench. The
+required batteries are issued separately.                        Shipping and Storage Data:
+                                                                     Packing .............................1 mine M66 w/fuze
+Functioning:                                                                                             M619/barrier
+          Mine system M66 operates on the principle of                                                   bag/wirebound box
+                                                                     Weight...............................70 lb
+remote detection and automatic functioning. The                      Dimensions .......................32-3/4 x 22-7/8 x12-5/8
+geophone detects an approaching vehicle through                                                          in.
+ground vibration and signals the data processor that a               Cube ................................5.4 cu ft
+target is enroute. When the target vehicle breaks the                Hazard class/division and
+infared (IR) beam generated by the source assembly,                      storage compatibility
+the receiver signals the data processor. The processor                   group ............................1.1E
+releases electrical energy to fire the rocket only under             UNO serial number............0181
+the conditions of a broken IR beam and a proper                      UNO Proper shipping
+seismic signal. This system is inhibited against                         name ............................Rockets
+personnel and animals by a filter in the data processor.             DOT shipping class ...........Class A Explosive
+Small vehicles do not normally function the system.                  DOT marking.....................ROCKET AMMUNITION
+However, the influence of small vehicles on system                                                       W/EXPLOSIVE
+functioning increases in some areas depending upon                                                       PROJECTILES
+closeness to geophone, speed of vehicle and terrain at
+the emplacement site.                                            DODAC ................................1345-K183
+                                                                 Painting ................................Olive Drab
+Tabulated Data:                                                  Marking ................................Yellow
+Model number ........................M66
+Type ................................Off-route, AT               Explosive Data:
+Drawings:
+                                                                                                    Weight
+    Assembly...........................9245817
+Weight:                                                          Item             Type     AV               Metric
+
+    Total ................................40 lb                  M28A2 Rocket Motor -
+    Rocket only .......................9 lb
+Dimensions:                                                      M2 Elec Sq fish pdr       1 gr              65 mg
+    Rocket:                                                                                54 gr            3.5 gm
+                                                                 Igniter          blk pdr  0.35 lb          159 gm
+        Length ..........................23.55 in.
+        Max diam......................3.5 in.                    Propellant M7
+Material:
+    Rocket:                                                      M404A2 Rocket Fuze-
+        Body Steel
+        Warhead.......................Copper/Steel                                PA #100  1.62 gr          105 mg
+    Rocket launcher ................Plastic                                                3.86 gr          250 mg
+    IR Source ..........................Aluminum                 M41 Det Lead Az           1.67 gr          108 mg
+    IR Receiver .......................Aluminum                                            75 gr            4.86 gm
+    Data Processor..................Aluminum                                      Tetryl
+    Geophone .........................Plastic/Steel
+                                                                 Booster Tetryl
+
+                                                                 M28A2 Rocket Warhead -
+
+                                                                 Shaped Chg Comp B         1.88 lb          853 gm
+
+                                                                 Reference:
+
+                                                                 TM 9-1345-203-12&P
+
+                                                           2-12
+
+
+---
+
+                         TM 43-0001-36
+
+MINE, ANTITANK: HE, M75
+
+2-13
+
+
+---
+
+                                                                  TM 43-0001-36
+
+Type Classification:                                              Operational Temperature Limits:
+  STD-LCC-A (LET 4-11-80, ARDC)                                       Minimum ...........................40°F (-40°C)
+                                                                      Maximum ..........................+150°F (+66°C)
+Use:
+  The ground burst antitank mine M75 can be emplaced              Explosive Weight per Mine:
+                                                                      RDX and Estane (95/5)......1.26 lb (0.57 kg)
+only by the ground vehicle mine dispenser M128. The                   PBXN-5 .............................0.05 oz (14.27 g)
+mine may be used in mixed minefields or by itself
+against heavy tanks and other types of heavy tracked
+and wheeled vehicles.
+
+Description:                                                      Self-destruct Times after Launch:
+  The mine is green, cylindrical in shape, and fabricated             Normal ..............................5 days
+                                                                      Long ................................15 days
+of thick-wall steel tubing. It has an internal safing and
+arming device, an electronic assembly, and a power                Safety Distances:
+supply. Some of the M75 mines have an                                 Vertical..............................1,300 ft (396 m)
+antidisturbance switch within the mine, as indicated by               Horizontal..........................2,086 ft (636 m)
+the last digit in the lot number. A lot number ending with
+a "-2" indicates that the mine has an antidisturbance             DODAC ................................1345-K184
+switch; a lot number ending with a "-1" indicates no              UNO serial number ................0137
+switch. The mine is set for a specific (normal) self-             UNO Proper shipping
+destruct time by the manufacturer; however, during
+operations it can be set for a long self-destruct time,               name ................................Mines
+depending on the mission requirement. The mines are               Packing arrangement .............5 mines per sleeve (1
+shipped and stored in a sealed, desiccated container.
+The container holds eight sleeves, each containing five                                                   with an anti-disturbance
+mines (one mine with an antidisturbance switch and four                                                   and 4 with no anti-
+mines with no antidisturbance switch), for a total of 40                                                  disturbance switch)
+mines per container. The containers are palletized, with                                                  8 sleeves per container
+six containers per pallet.                                                                                6 containers per pallet
+                                                                  NSN ................................1345-01-078-4104
+Functioning:
+  Partial arming results from the angular velocity                Shipping and Storage Container - EMPTY:
+                                                                      Length ...............................27.30 in. (69.30 cm)
+obtained as the mine travels through the launcher of the              Width ................................14.10 in. (35.81 cm)
+dispenser. A magnetic impulse provided by two                         Height................................15.20 in. (38.61 cm)
+transmitter coils located in the launcher muzzle initiates            Weight...............................55.0 lb (25.0 kg)
+a low-order detonating primer, which activates two                    Cube ................................3.40 cu ft (0.10 cu m)
+reserve batteries. The batteries provide the electrical               NSN ................................8140-01-089-2763
+power to complete the arming cycle after the mine                     Part number ......................9313655
+comes to rest on the ground. The mine is completely
+armed in 40 to 60 seconds after launch and is then                Shipping and Storage Container - LOADED:
+ready to detect a target.                                             Weight...............................232.0 lb (105.2 kg)
+                                                                      Storage compatibility
+  The mine will function in response to any of the                        group ............................D
+following conditions: (1) vehicle passing over the mine,              Quantity-distance class
+(2) physical disturbance of the mine, (3) expiration of                   for depot storage...........1.1
+self-destruct time, or (4) power rundown.                             Quantity-distance class
+                                                                          for field storage.............E
+Tabulated Data:                                                       DOT shipping class ...........A
+                                                                      DOT markings ...................EXPLOSIVE MINE
+Mine, Antitank: HE, M75:                                              U.S. Coast Guard
+    Painting .............................Green                           classification .................V11
+    Marking .............................Black                        Shelf life............................10 yr
+    Height (max) .....................2.60 in. (6.60 cm)
+    Diameter (max) .................4.75 in. (12.07 cm)           Storage Temperature Limits:
+    Weight...............................4.00 lb (1.81 kg)            Minimum ...........................-60°F (-51°C)
+    Material .............................Steel tubing                Maximum ..........................+155°F (+63°C)
+
+                                                            2-14
+
+
+---
+
+Sleeve (empty):                                                                                                                 TM 43-0001-36
+    Color ................................Green
+    Length ...............................24.48 in. (62.18 cm)               Weight (approximate,
+    Width ................................5.63 in. (14.30 cm)                    including dunnage) .......1573 lb (714 kg)
+    Height................................3.50 in. (8.89 cm)
+    Weight...............................2.12 lb (0.96 kg)                   Cube ................................31.93 cu ft (0.09 cu m)
+
+Pallet (loaded with full containers):                                    References:
+    Length ...............................55.50 in. (140.97 cm)
+    Width ................................43.00 in. (109.22 cm)          SC 1340/98-IL
+    Height................................23.13 (58.75 cm)               TM 9-1095-205-10
+                                                                         TM 9-1345-210-23&P
+
+                                                                 2-15
+
+
+---
+
+                                        TM 43-0001-36
+
+Section II. MINES, AERIALLY DISPERSED,
+       ANTITANK/ANTIVEHICLE MINES
+
+2-16
+
+
+---
+
+                                                                 TM 43-0001-36
+
+MINE DISPERSING SUBSYSTEM, AIRCRAFT: M56
+
+Type Classification:                                             Functioning:
+  STD A MSR 09746012, dated 20 Nov. 73                           Two subsystems are mounted per helicopter. A
+                                                                 Dispenser Control Panel (DCP) is installed in the
+Use:                                                             helicopter console which enables the pilot, or other crew
+The M56 subsystem provides the means for aerially                member, to control the quantity and time-interval of
+dispensing antitank/antivehicle (AT/ AV) mines from              mines fired. An electrical signal from the DCP through
+UH-1H helicopters.                                               the dispenser intervalometer initiates an M198 ejection
+                                                                 charge which ejects both mines from the canister. As
+Description:                                                     the mines leave the canister, a bore rider pin in each
+  One complete subsystem consists of a SUU13D/A                  mine is released which unlocks the fuze mechanical
+                                                                 safety device. When the mines are free of the canister,
+dispenser loaded with 40 canisters, each canister                spring loaded fins open which cause the mines to orient
+containing two AT/AV mines and one M198 ejection                 so they will land round side down. Upon impact, the
+charge. The mines are in the shape of half of a 4-5/8-           mechanical safety device releases, which allows the
+inch diameter cylinder and are 10-3/8 inches long. Each          fuze slider to move into the position which alines the
+AT/AV mine fuze contains an electronic timing module,            firing train. It also closes a microswitch in the fuze
+an electric timing module, an electric detonator, and is         electrical circuit which initiates electrical arming. After
+powered by a 7.0 volt battery. The firing train following        ground impact, the mine may tumble and come to rest
+the detonator is comprised of an RDX lead and an RDX             in any orientation. One to two minutes after impact, the
+booster pellet. Three pounds of Composition H6                   mine is fully armed and ready to be encountered by a
+constitutes the main charge of each mine.                        target. The fuze in the basic mines will initiate
+                                                                 electrically. When a mine contains the antidisturbance
+                                                                 (AD) feature
+
+                                                           2-17
+
+
+---
+
+                                                                   TM 43-0001-36
+
+any overrun or agitation of a mine will cause functioning.         Mine Ejection Charge M198:
+All versions of the mine contain a self-destruct (SD)                  Weight (loaded).................34 gm
+feature which has an electrochemical (E-cell) timing unit              Explosive weight (M5
+and a low voltage detector (LVD). When armed mine                          propellant) ....................0.32 gm
+has not been functioned by over-run or AD, it will SD in
+38 to 48 hours. Prior to SD, all mines will function if any        Antitank Mine:
+attempt is made to remove the battery or to disrupt the                Length ...............................10.38 in.
+battery circuit.                                                       Diameter
+                                                                           (half-cylindrical) ............4.63 in.
+Tabulated Data:                                                        Weight...............................5.6 lb
+                                                                       Explosive weight
+                                 NOTE                                      (Comp H6)....................3.0 lb
+          Dimensions and weights are
+          approximate.                                             Shelf Life:
+                                                                       Shelf life............................5 yrs
+Mine Dispersing Subsystem ...M56:
+    Length ...............................90.38 in.                Temperature Limitations (battery):
+    Width ................................14.75 in.                    Minimum ...........................-25°F (-32°C)
+    Height................................14.44 in.                    Maximum ..........................+145°F (+62°C)
+    Weight, empty, without ......117.01b
+        pallet                                                     Shipping and Storage Container
+    Weight (loaded as flown) ...640 lb                                 CNU-79/E (late model):
+    Weight of pallet .................40 lb                            Length ...............................104 in.
+    Number of canisters ..........40                                   Length (early model)..........115.6 in.
+    Distance between                                                   Width ................................31.5 in.
+        suspension lugs ............14 in.                             Height................................31.5 in.
+    Center of gravity (from                                            Weight:
+        front end (loaded)) ........51.6 in.                               Without dispenser.........681 lb
+    Weight of explosive contents                                           With dispenser..............1,368 lb
+        (per dispenser):                                               Cube ................................59.7 cu ft
+        Weight (H6 explosive) ..240 lb                                 Hazard class/division and
+        Weight (RDX                                                        storage compatibility
+            explosive) ................969 gm                              group ............................1.1D
+        Weight (M5                                                     DOT shipping class ...........Class A Explosive
+            propellant)................12.8 gm                         DOT marking.....................EXPLOSIVE BOMBS
+                                                                       Quantity distance for
+Mine Canister:                                                             field storage..................E
+    Height................................11.9 in.                     U.S. Coast Guard
+    Diameter ...........................4.80 in.                           classification .................X-A
+    Weight:                                                            DODAC .............................1345-K020
+        Empty...........................1.8 lb                         Drawing number ................9287573
+        Loaded .........................13.0 lb
+                                                                   References:
+Number of mines per
+    canister .............................2                        SB 700-200
+                                                                   TM 9-1300-200
+Number of mine ejection                                            TM 9-1345-201-12
+    charges per canister ..........1                               TM 9-1345-201-30&P
+
+Explosive Weight per Canister:
+    Comp H6...........................6.0 lb
+    RDX ................................17.4 gm
+    M5 propellant ....................0.32 gm
+
+                                                             2-18
+
+
+---
+
+                                                                              TM 43-0001-36
+
+         CHAPTER 3
+ANTIPERSONNEL MINES
+
+                3-1
+
+
+---
+
+                                                                                           TM 43-0001-36
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+                            3-2
+
+
+---
+
+                                                                 TM 43-0001-36
+
+MINE, ANTIPERSONNEL: M2A4 (M2A4B2)
+
+Type Classification:                                               Difference between models. M2A4 has a stamped
+  OBS 11756003                                                   steel base. M2A4B2 has a cast iron base which is
+                                                                 sealed to the projector tube and to the fuze well pipe
+Use:                                                             with solder, to provide a better moisture-proof seal.
+  Antipersonnel mines M2A4 and M2A4B2 are of the
+                                                                 Functioning:
+bounding, fragmenting-type and are used when an                  The firing mechanism is functioned either by a 3 to 10
+effective above-ground fragmentation pattern is                  pound pull on a trip wire or by a force of 8 to 10 pounds
+required.                                                        on one or more of the prongs protruding from the top of
+                                                                 the fuze. This pull or push releases the firing pin which
+Description:                                                     strikes the primer and initiates the firing train which
+  General. The mine consists of a steel case, with a             ignites the propelling charge. This propelling charge
+                                                                 ignites the delay charge and propels the projectile into
+propelling charge in the base. The combination mine              the air where its delay train detonates the projectile at
+fuze M6A1 is screwed into the tube attached to the               approximately 2 to 3 meters.
+base. The projectile, a modified 60mm mortar shell, is
+contained in the projector tube attached to the base.
+The propelling charge is ignited by the firing pin-primer-
+igniter train of the fuze. The mine is shipped with primer
+and igniter in place. Firing mechanism is shipped
+separately in fuze box and is screwed into igniter tube.
+
+                                                            3-3
+
+
+---
+
+                                                                                                             TM 43-0001-36
+
+Tabulated Data:                                                           UNO serial number............0138
+                                                                          UNO Proper shipping
+Model number ........................M2A4, M2A4B2
+Type ................................AP, bounding                             name ............................Mines
+Drawings:                                                                 DOT shipping class ...........Class A Explosive
+                                                                          DOT marking.....................EXPLOSIVE MINES
+    Assembly:                                                         DODAC ................................1345-K090
+        M2A4 ............................ 82-0-99                     Painting:
+        M2A4B2........................82-0-116                            Body ................................Olive Drab
+                                                                          Base ................................Yellow
+Weight - loaded and fuzed .....6.5 lb                                 Marking ................................Black
+Dimensions:
+                                                                      Explosive Data:
+    Height, fuzed .....................9.625 in.
+    Max diameter ....................4.10 in.                                                           Weight
+Material Steel
+Thread - fuze well ..................0.563-12UNC-1A                   Item              Type        AV          Metric
+Fuze number (see separate                                             M6A1 Fuze:
+    write-up) ............................M6A1                                          #3 Western  10 gr         648 mg
+Temperature Limits:                                                        Perc primer  blk pdr
+    Firing:                                                                Igniter                  40 gr         259 gm
+                                                                      Mine base:        blk pdr
+        Lower............................-40°F                             Propellant               2.7 gr        175 mg
+        Upper ...........................+125°F                       Projectile:       blk pdr     1.16 gr         75 mg
+    Storage:                                                               Rel-Delay    blk pdr     4.08 gr
+        Lower............................-60°F                             Igniter      Lead Az     1.24 gr       265 mg
+        Upper ...........................+160°F                                         Tetryl      248 gr          80 mg
+Shipping and Storage Data:                                                 M17 Det      Tetryl      2380 gr
+    Packing arrangement ........1 mine w/1 - spool stl wire                Booster      TNT                      16.1 gm
+                                                                           Main Chg                             154.2 gm
+                                        in ctn, 6 ctn (6 mines)
+                                        w/acc. in wdn box             Reference:
+    Weight...............................50 lb                        TM 9-1345-203-12&P
+    Dimensions .......................15 x 10-1/4 x 9-1/4 in.
+    Cube ................................0.82 cu ft
+    Hazard class/division and
+        storage compatibility
+        group ............................(08) 1.2E
+
+                                                                 3-4
+
+
+---
+
+                                                               TM 43-0001-36
+
+MINE, ANTIPERSONNEL: M3
+
+Type Classification:                                           M7A1 fuze will release the firing pin to strike the primer.
+  OBS-11756003                                                 The primer explodes the nonelectric blasting cap,
+                                                               crimped to the base of the fuze, initiating the TNT
+Use:                                                           bursting charge in the mine body.
+  The M3 mine is used when fragmenting, non-
+                                                               Tabulated Data:
+directional, antipersonnel mine is required. The mine is
+normally placed at the surface, but the effective radius       Model number ........................M3
+can be increased if it is raised several feet above the        Type AP, frag
+ground. If buried, the effective radius is considerably        Drawings:
+reduced.
+                                                                   Assembly...........................82-0-79
+Description:                                                   Weight (loaded and fuzed) .....10.3 lb
+  The M3 mine consists of a high explosive charge in a         Dimensions:
+
+heavy, cast iron body. The body is filled with flake TNT           Height - fuzes ....................8.68 in.
+and contains three threaded fuze wells to aid in booby             Max dia .............................3.5 in.
+trapping in a variety of fuzing arrangements. As               Material ................................Cast iron
+shipped, fuze well holes are closed with slotted plastic       Thread:
+plugs.                                                             Fuze wells .........................563-12NC-1
+                                                               Fuze number (see separate
+Functioning:                                                       write-up) ............................M7A1
+  A pressure of 8 to 20 pounds on any of the prongs, or
+
+a pull of 3 to 10 pounds on the release pin ring of the
+
+                                                          3-5
+
+
+---
+
+                                                                                                                 TM 43-0001-36
+
+Temperature Limits:                                                          DOT shipping class ...........Class A Explosive
+    Firing:                                                                  DOT marking.....................EXPLOSIVE MINES
+        Lower............................-40°F                           DODAC ................................1345-K120
+        Upper ...........................+125°F                          Painting ................................Olive Drab
+    Storage:                                                             Marking ................................Black
+        Lower............................-60°F
+        Upper ...........................+160°F                          Explosive Data:
+
+Shipping and Storage Data:                                                                                  Weight
+    Packing arrangement ........6 mines, 6 fuzes, 6 spools
+                                        - steel wire in wooden box       Item             Type          AV          Metric
+    Weight...............................73.2 lb
+    Dimensions .......................17-7/8 x 8-3/4 x 9-1/2 in.         M7A1 Fuze:
+    Cube 0.86 ft
+    Hazard class/division and                                            Primer           No. 3 Western
+        storage compatibility
+        group ............................1.1D                                            Battery
+    UNO serial number- 0137
+    UNO Proper shipping                                                  Cap              Type 1 Special
+        name ............................Mines
+                                                                                          Blasting Cap
+
+                                                                         M3 Mine:
+
+                                                                         Main Charge TNT                6300 gr     407.6 gm
+
+                                                                    3-6
+
+
+---
+
+                                                                                                                    TM 43-0001-36
+
+MINE, ANTIPERSONNEL, NONMETALLIC: M14
+
+                                                                            AR100369
+
+Type Classification:                                       cord is provided for removing the clip when arming the
+                                                           mine. A carrying cord is also provided. For safety, the
+  S37904 (LCC-B)                                           plastic detonator holder assembly with detonator is
+                                                           packaged separately within the same shipping container.
+Use:                                                       The hole for the detonator holder assembly in the
+                                                           underside of the mine is closed by a plastic plug during
+  Antipersonnel mine M14 is a blast-type mine and is       shipment. The mine and fuze wrench is also used for
+used when small, readily concealed mines are required.     removal of the shipping plug and installation of the
+                                                           detonator holder. A steel washer is attached to the
+Description:                                               bottom of the mine to aid in detection.
+
+  The M14 mine is cylindrical in shape, with six ribs on   Functioning:
+the outside of the body to provide strength and serve as
+a means of identification in darkness. The mine is of        With mine set on A, and safety clip removed, a force
+practically all-plastic construction and is detectable by  of 20 to 35 pounds applied to the pressure plate will
+magnetic mine detectors. M14 mine contains an              depress the belleville spring. At some point, the
+integral pressure operated fuze. The pressure plate of     belleville spring snaps into reverse, driving the firing pin
+the mine is designed to transfer the load to a firing pin  into the M46 detonator. This sets off the main charge.
+mounted on a belleville spring. When the load reaches
+a predetermined value, the belleville spring snaps into    Tabulated Data:
+reverse, driving the steel firing pin into the detonator.
+The pressure plate has a yellow indicating arrow and is    Model number ....................................        M14
+indented to accommodate the M22 mine and fuze              Type...................................................  AP, blast
+wrench. Letters A and S on fuze body indicate Armed        Drawings:
+and Safe, respectively. Slots in the pressure plate are                                                             75-15-55
+for insertion of the steel U-shaped, safety clip. A pull     Assembly ........................................
+
+Change 2 3-7
+
+
+---
+
+                                                                                                          TM 43-0001-36
+
+Weight ...................................   4.5 oz                 Dimensions ............................ 19-3/4 x17-1/4 x 8-3/4
+Dimensions:                                                         in.
+                                             1-9/16 in.             Cube ................................... 1.73 cu ft
+  Height .................................   2-3/16 in.             Hazard class/division and
+  Max dia...............................     Plastic
+Material ..................................                             storage compatibility
+                                                                        group.............................. 1.1D
+Thread:                                                             UNO serial number ............. 0137
+  Detonator holder ................. 438-20UNC-2A                   UNO Proper shipping
+                                                                        name.............................. Mines
+Fuze....................................... Integral                DOT shipping class ............. Class A Explosive
+                                                                    DOT marking ...................... EXPLOSIVE MINES
+Temperature Limits:                          -40°F                  DODAC............................... 1345-K121
+  Firing:                                    +125°F                 Painting............................... Olive Drab
+     Lower...............................                           Marking............................... Yellow
+     Upper...............................
+
+Storage:                                                            Explosive Data:
+  Lower............................... -60°F
+  Upper............................... +160°F                                                        Weight
+
+                                                                       Item             Type     AV       Metric
+                                                                    M46 Detonator    NOL #130
+Shipping and Storage Data:Item                                      Main Charge      Lead Azide  1.62 gr     105 mg
+                                                                                     RDX
+Packing arrangement .............            90 mines in carton in                   Tetryl      4.31 gr     280 mg
+                                             set-up box and 9
+                                             wrenches, in wooden                                 2.24 gr     145 mg
+                                             box
+                                                                                                 437.5 gr 28.35 gm
+
+                                                                    Reference:
+
+Weight ................................... 50 lb.
+
+                                                                    TM 9-1345-203-12&P
+
+                                                              U.S. GOVERNMENT PRINTING OFFICE: 1997-545-037/60704
+                                                         Change 2 3-8
+
+
+---
+
+                                                            TM 43-0001-36
+
+MINE, ANTIPERSONNEL: M16 (M16A1, M16A2)
+
+Type Classification:                                        Description:
+          M16 Conf. 6558                                              General. This mine consists of a combination
+          M16A1 S 3686 (LCC-B)
+          M16A2 S 3686 (LCC-A)                              mine fuze M605, a propelling charge, and a cast iron,
+                                                            fragmenting projectile all contained in a sheet steel
+Use:                                                        case. The fuze screws into the fuze well in the top of
+          The M16 series mines are of the bounding,         the case and extends through the projectile to the
+                                                            bottom of the case where the propelling charge is
+fragmenting type, and are employed primarily in mixed       located. No secondary fuze wells are provided and
+mine fields to protect antitank mines against enemy         booby trapping of the M16 series mine will be done only
+breeching parties. They can be used by themselves in        by specially trained personnel.
+the preparation of ambushes or in the nuisance mining
+of areas likely to be occupied by enemy troops.
+
+                                                       3-9
+
+
+---
+
+          Difference between models. The principal                                                                       TM 43-0001-36
+difference between the M16 and M16A1 models is in the
+construction of the detonators and the boosters. Mine             Tabulated Data:
+M16A2 is an advanced version of the series and
+incorporates only one booster detonator and delay                 Model numbers ......................M16, M16A1, M16A2
+instead of two each. This allows greater room for                 Type ................................AP, bounding, frag
+explosive charge.
+                                                                  Drawings:
+Functioning:                                                          Assembly:
+                              WARNING                                     M16 ..............................82-0-194
+                                                                          M16A1 .......................... 8796365
+          • WHEN HANDLING THE M605 FUZE,                                  M16A2 .......................... 8876013
+              ALWAYS TAKE CARE TO AVOID                               Weight (fuzed):
+              PUSHING ON THE CIRCULAR                                     M16 ..............................8.25 lb
+              DEPRESSION IN THE BODY OF                                   M16A1..........................8.25 lb
+              THE FUZE OPPOSITE THE TRIP                                  M16A2..........................6.25 lb
+              WIRE PULLING BOSS. THIS IS
+              THE SLIDER HOLDING THE                              Dimensions:
+              FIRING PIN AND ANY MOVEMENT                             Height (max) .....................7.82 in.
+              (EVEN THE SMALL AMOUNT                                  Diameter (max) .................4.05 in.
+              ALLOWED WITH THE SAFETY
+              COTTER PIN IN PLACE) CAN                            Material Steel and cast iron
+              PLACE THE FIRING PIN CLOSER                         Thread-primary fuze well........0.625-11UNC-1A
+              TO THE POINT OF RELEASE.                            Fuze (see separate
+
+          • IN ARMING THE M605 FUZE,                                  write-up) ............................M605
+              ALWAYS PULL THE POSITIVE                            Temperature Limits:
+              SAFETY PIN WITH YOUR
+              FINGERS NOT BY PULLING JUST                             Firing:
+              ON THE STRING. THIS WILL                                    Lower............................-40°F
+              AVOID IMPARTING A SHOCK TO                                  Upper ...........................+ 125°F
+              THE FUZE WHICH COULD
+              ACTUATE IT.                                             Storage:
+                                                                          Lower............................-60°F
+The M16 series firing mechanism is functioned by either                   Upper ...........................+160°F
+a 3 to 15 pound pull on a trip wire or by a force of 8 to
+45 pounds on one or more of the prongs protruding from            Shipping and Storage Data:
+the top of the fuze. This pull or push releases the firing            Packing:
+pin which strikes the primer which ignites the fuze delay                 M16 and M16A1 ...........4 mines, 4 fuzes, 4 spools
+charge. The delay allows time for persons stepping on                                                     wire, 1 wrench, in wooden
+the prongs to move from directly above the mine. The                                                      box
+fuze delay ignites the relay charge which ignites the fuze                M16A2..........................4 mines, 4 fuzes, 2 spools
+igniter charge. The fuze igniter charge ignites the mine                                                  wire, 1 wrench barrier bag
+propelling charge which projects the shell body upward                                                    in wooden box
+and at the same time ignites the detonator delay charge.              Weight...............................44.8 lb
+The detonator delay charge burns through and                          Dimensions:
+initiates the detonator which explodes boosters which                     M16 ..............................15-5/8 x 10-1/8 x 8-1/2 in.
+explodes the bursting charge about one meter above the                    M16A1 and M16A2 .......15-5/8 x 9-3/4 x 8-1/2 in.
+ground. The wrench M25 is furnished with this mine.                   Cube:
+The box end fits the shipping plug and the open end fits                  M16 ..............................0.78 cu ft
+the fuze.                                                                 M16A1 and M16A2 .......0.75 cu ft
+                                                                      Hazard class/division and
+                                                                          storage compatibility
+                                                                          group ............................(08) 1.2E
+                                                                      UNO serial number............0138
+                                                                      UNO Proper shipping
+                                                                          name ............................Mines
+                                                                      DOT shipping class ...........Class A Explosive
+                                                                      DOT marking.....................EXPLOSIVE MINES
+
+                                                                  DODAC ................................1345-K092
+                                                                  Painting ................................Olive Drab
+                                                                  Marking ................................Yellow
+
+                                                            3-10
+
+
+---
+
+                                                                                                TM 43-0001-36
+
+Explosive Data:
+
+                                                              M16A1 Mine Projectile:
+
+                                      Weight                              Blk Pdr     4.2 gr      280 mg
+                                                                                      4.6 gr      300 mg
+Item             Type        AV               Metric          Delay       Lead Sty    10.8 gr     700 mg
+                                                                                      606 gr     32.8 gm
+M605 Fuze:                                                                Lead Az     1.13 b      513 gm
+
+M42 Primer #793 Prim         0.34 gr           22 mg          Booster 5Tetry          2.1 gr      140 mg
+                             7.03 gr          475 mg                                  2.3 gr      150 mg
+Delay            Comp Tp II  10 gr            648 mg          Main Charge TNT         5.4 gr      350 mg
+                                                                                      172.4 gr  11.18 gm
+Flsh Ig n C1 Blk Pdr                                          M16A2 Mine Projectile:  1.3 lb      590 gm
+
+M16, M16A1,                                                               Blk Pdr
+
+M16A2 Mines:                                                  Delay       Lead Sty
+
+Expell Chg Blk pdr           70 gr             4.53 gm        Detonator Lead Az
+
+M16 Mine Projectile:         4.2 gr             280 mg        Booster Comp A5
+                             4.6 gr             300 mg
+                 Blk Pdr     10.8 gr            700 mg        Main Charge TNT
+                             76.2 gr           4.92 gm
+Delay            Lead Sty    839.2 gr         54.36 gm
+                             1.15 lb            521 gm
+Detonator Lead Az                                             Reference:
+
+Booster Tetryl
+
+Booster Tetryl                                                TM 9-1345-203-12&P
+
+Main Charge TNT
+
+                                                        3-11
+
+
+---
+
+                           TM 43-0001-36
+
+MINE ANTIPERSONNEL: M18A1
+
+3-12
+
+
+---
+
+                            TM 43-0001-36
+
+MINE, ANTIPERSONNEL: M18A1
+
+3-13
+
+
+---
+
+                                                                                                  TM 43-0001-36
+
+Type Classification:                                                  Height................................3.25 in.
+          (M18A1) S 37809 (LCC-A)                                     Width ................................8.5 in.
+                                                                      Thickness ..........................1.375 in.
+Use:                                                              Material ................................Plastic
+The M18A1 mine is used when a directional, fixed,                 Thread-detonator wells...........0.563-12 UNC-1A
+fragmentation mine is required for the defense of                 Fuze ................................Elec blasting cap assy M4
+bivouac areas, outposts, and against infiltration tactics.        Activating force ......................1-squeeze of hand-held
+It is also used against thin-skinned vehicles.
+                                                                                                          M57 activator handle
+Description:
+          General. Mine M18A1 has a curved,                       Temperature Limits:
+                                                                      Firing:
+rectangular, olive drab, molded case of fiberglass-filled                 Lower............................-40°F
+plastic. The front face is lined with steel spheres                       Upper ...........................+125°F
+embedded in a plastic matrix. The back portion of the                 Storage:
+case, behind the matrix, contains C4 explosive. The                       Lower............................-60°F
+fragmentation face is convex, horizontally, to direct the                 Upper ...........................+160°F
+fragments in a 60 degree arc, and concave, vertically, to
+control the vertical dispersion of the fragments. A built-        Shipping and Storage Data:
+in sight and two pairs of scissors-type folding legs allow            Packing .............................1 mine, 1 cap blasting, 1
+aiming of the mine. Two detonator wells located in the                                                    firing device in band, 6-
+top of the mine enable the mine to be fired from two                                                      band, 1 test set elec, 1 ID
+locations. The wells are sealed by the plug ends of the                                                   tag in wdn box (6 mines)
+shipping plug priming adapters. The adapter is reversed               Weight...............................53 lb
+when the mine is to be armed and the slotted end of the               Dimensions .......................15-3/4 x 11-1/8 x 18-1/8
+adapter is used to hold the blasting cap. The mine is                                                     in.
+shipped with several special components. The Cap,                     Cube ................................1.84 cu ft
+Blasting, Electric M4 assembly consists of an M6                      Hazard class/division and
+electric blasting cap and 30 meters of firing wire,                   storage compatibility
+terminating in an electrical connector and shorting plug.             group ................................1.1D
+The firing device is an M57 hand-held pulse generator                 UNO serial number............0137
+with an electrical connector and dust cover. The test set             UNO Proper shipping
+M40 is used to visually test circuit continuity. The                      name ............................Mines
+bandoleer M7 is constructed to carry one complete set                 DOT shipping class ...........Class A Explosive
+of components.                                                        DOT marking.....................EXPLOSIVE MINES
+
+Functioning:                                                      DODAC ................................1345-K143
+          The M18A1 mine main charge may be initiated             Painting ................................Olive Drab
+                                                                  Marking ................................Black
+by electrical or nonelectrical methods. The electrical
+method is by initiation of the electric blasting cap              Explosive Data:
+assembly by use of the M57 pulse generator firing
+device. The nonelectric method makes use of a pull                                                Weight
+type firing device operated by an observer, or by trip
+wires. The firing device initiates a length of detonating         Item             Type  AV               Metric
+cord attached to a nonelectric blasting cap.
+                                                                  M18A1 Mine:
+Tabulated Data:
+                                                                  M4 Cap Assy
+Model number ........................M18A1
+Type ................................AP, frag                     M6 Elec CapRDX         13.5 gr          875 mg
+Drawings:                                                                                1.6 lb           682 gm
+                                                                  Mine:
+    Assembly...........................88351.66
+Weight-less fuze ....................3.5 lb                       Main Chg Comp 4
+Dimensions:
+                                                                  Reference:
+
+                                                                  TM 9-1345-203-12&P
+
+                                                            3-14
+
+
+---
+
+                                                  TM 43-0001-36
+
+                        MINE, ANTIPERSONNEL: M26
+
+Type Classification:            Use:
+          OBS 03866012                     The M26 mine is of the bounding, fragmenting
+
+                                type and is used when an effective above ground
+                                fragmentation pattern is required.
+
+                        3-15
+
+
+---
+
+                                                                                                                       TM 43-0001-36
+
+Description:                                                      Tabulated Data:
+
+The M26 mine is a small, integrally fuzed,                        Model number ........................M26
+
+bounding type, antipersonnel mine. The body is of die-            Type ................................APERS
+
+cast aluminum and is relatively cylindrical in shape, but         Drawings:
+
+tapering toward the bottom where there are four external          Assembly...........................8840286
+
+vertical ribs. On the rim, at the top of the body, are two        Weight ................................2.2 lb
+
+recesses, with a raised S for Safe in one, and a raised A         Dimensions:
+
+for Armed in the other. The cover is built with six lugs          Height................................ 5.7 in.
+
+and the prongs of the arming latch fit between these to           Max diameter ....................3.1 in.
+
+prevent rotation. The middle prong of the arming latch            Material ................................Aluminum/steel
+
+fits under the trip lever cam. The arming latch is saftied        Fuze ................................(integral)
+
+to the body by an arming latch retaining pin. The cotter          Temperature Limits:
+
+pin is locked, after insertion, by spreading the ends             Firing:
+
+which project below the rim of the mine body. The                        Lower............................-40°F
+
+removable trip wire spool assembly consists of four 20                   Upper ...........................+125°F
+
+foot trip wires, a trip lever, and an arming handle, all          Storage:
+
+assembled on a plastic spool. The fragmenting ball                       Lower............................-60°F
+
+assembly consists of a steel ball containing an explosive                Upper ...........................+160°F
+
+charge, and a delay and booster assembly recessed                 Shipping and Storage Data:
+
+within the charge. At the base of the ball a steel                Packing .............................3 mines per fiber
+
+obturator or piston houses the propelling charge. The                                            container, 6 con-
+
+barrel is used to hold the fragmenting ball assembly in                                          tainers (18 mines)
+
+an upright position. when the mine is set on Safe (S),                                           per wooden box
+
+the flash hole in the barrel is out of alignment with the         Weight...............................601b
+
+primer and delay assembly. When set on Armed (A)                  Dimensions .......................21-1/4 x 12-1/2 x 9-
+
+the flash hole is alined with the primer and delay                                               3/4 in.
+
+assembly and permits ignition of the propellant. The              Cube ................................1.5 cu ft
+
+spring housing assembly includes the firing pin                   Hazard class/division and
+
+assembly and actuating lever, and a primer and delay              storage compatibility
+
+assembly.                                                         group ................................ (08) 1.2E
+
+Attached to, but easily removable from the mine are the           DOT shipping class ................Class A Explosive
+
+following accessories: Arming Handle, Arming                      DOT marking .........................EXPLOSIVE
+
+Instruction Tag, Trip Lever, and Spool Assembly. Four                                            MINES
+
+20 foot trip wires, two colored olive drab and two tan,           DODAC ................................1345-K146
+
+are stored on the spool.                                          UNO serial number ................0321
+
+                                                                  UNO Proper shipping
+
+Functioning:                                                      name ................................ Cartridges for
+
+Setting the mine to the armed (A) position                                                       weapons
+
+rotates the barrel assembly so that the primer and delay          Painting ................................Olive Drab
+
+assembly are in direct alinement with the flash hole in           Marking ................................Yellow
+
+the barrel assembly and with the expelling charge                 Explosive Data:
+
+directly above. A force of 14 to 28 pounds on the mine                                       Weight
+
+top, or a pull on the top level will activate the mine.           Item       Type      AV                        Metric
+
+Upon actuation, the spring loaded firing pin is released          Integral Mine Fuze:
+
+and fires the primer and delay assembly which ignites             M42 Primer           #793 Mix 0.34 gr 22 mg
+
+the expelling charge. This ejects the fragmenting ball            Delay chg            BA204                     2.84 gr 184 mg
+
+assembly to a height of approximately 2 meters. The                                    Se                        0.63 gr 41 mg
+
+delay, ignited by the expelling charge, then initiates the        Igniter              Eimite                    0.63 gr 41 mg
+
+booster which detonates the main charge, shattering the           Mine:
+
+fragmenting ball. The mine may be rigged for tripwire             Propellant           M9-TpI                    10 gr     648 mg
+
+activation. Remove the trip lever from storage in the             Delay Chg            Igniter*                  2.93 gr 190 mg
+
+spool assembly and insert in the threaded well in the                                  Lead Az                   3.47 gr 225 mg
+
+cam, top, center. Attach one or more of the tripwires, as                              Tetryl                    2.3 gr    150 mg
+
+required.                                                         Booster              Tetryl                    23 gr     1.5 gm
+
+                                                                  Main Chg             Comp B                    0.375 lb 170 gm
+
+                                                                  *Barium
+
+                                                                  Chromate                                       2.61 gr 169 mg
+
+                                                                  Beron
+
+                                                                  Amorphous            Pdr                       0.29 gr 19 mg
+
+                                                                  Vinyl Plastic        Resin                     0.03 gr 2 mg
+
+                                                                  Reference:
+
+                                                                  TM 9-1345-203-12&P
+
+                                                            3-16
+
+
+---
+
+                              TM-43-0001-36
+
+MINE, ANTIPERSONNEL: HE, M74
+
+3-17
+
+
+---
+
+                                                                                                                   TM 43-0001-36
+
+Type Classification:                                              Normal ..............................5 days
+
+      STD-LCC-A (LET 4-11-80, ARDC)                               Long ................................15 days
+
+Use:                                                              Tripline length ........................40.0 ft (12.2 m)
+
+      The ground burst antipersonnel mine M74 can                 Safe horizontal distance .........870 ft (265 m)
+
+be emplaced only by the ground vehicle mine dispenser             DODAC ................................1345-K151
+
+M128. This mine may be used in mixed minefields to                UNO serial number ................0137
+
+protect antitank mines against enemy breaching parties.           UNO Proper shipping
+
+Description:                                                      name Mines
+
+      The mine is green, cylindrical in shape, and                Packing arrangement .............5 mines per sleeve
+
+fabricated of thick-wall steel tubing which is internally                                    8 sleeves per con-
+
+scored for maintaining uniform fragment size. It has an                                      tainer
+
+internal Safing and Arming (S&A) device, an electronic                                       6 containers per
+
+assembly, a power supply, and four tripline assemblies                                       pallet
+
+at each end (eight total). The mine is set for a specific         NSN ................................1345-01-076-3497
+
+(normal) self-destruct time by the manufacturer;                  Shipping and Storage Container - EMPTY:
+
+however, during operations it can be set for a long self-         Length ...............................27.30 in. (69.30 cm)
+
+destruct time, depending on the mission requirement.              Width14.10 in. (35.81 cm)
+
+The mines are shipped and stored in a sealed                      Height................................15.20 in. (38.61 cm)
+
+desiccated container. The container holds eight                   Weight...............................55.0 lb (25.0 kg)
+
+sleeves, each containing five mines for a total of 40             Cube ................................3.40 cu ft
+
+mines per container. The containers are palletized, with                                     (0.10 cu m)
+
+six containers per pallet.                                        NSN ................................8140-01-089-2763
+
+Functioning:                                                      Part number ......................9313655
+
+          Partial arming results from the angular velocity        Shipping and Storage Container - LOADED:
+obtained as the mine travels through the launcher of the              Weight...............................196.0 lb (88.9 kg)
+dispenser. A magnetic impulse provided by two                         Storage compatibility
+transmitter coils located in the launcher muzzle initiates                group ............................D
+a low-order detonating primer, which activates two                    Quantity-distance class
+electrical power for mine functioning. After the mine                     for depot storage...........1.1
+comes to rest on the ground, a signal from the electronic             Quantity-distance class
+assembly initiates a pressure cartridge, which causes                     for field storage.............E
+ejection of the four tripline assemblies. The triplines               DOT shipping class ...........A
+uncoil from their bobbins until the tripline assemblies               DOT markings....... ............EXPLOSIVE
+impact the ground. The mine is completely armed in 40                                                     MINE
+to 60 seconds after launch and is ready to detect a                   U.S. Coast Guard
+target.                                                                   classification .................V11
+                                                                      Shelf life............................10 yr
+
+          The mine will function in response to any of the        Storage Temperature Limits:
+following conditions: (1) movement of a tripline, (2)                 Minimum ...........................60°F (-510C)
+physical disturbance of the mine, (3) expiration of the               Maximum ..........................+155F (+63°C)
+self-destruct time, or (4) power rundown.
+Tabulated Data:                                                   Sleeve (empty):
+Mine, Antipersonnel: HE, M74:                                         Color ................................Green
+                                                                      Length ...............................24.48 in. (62.18 cm)
+    Painting .............................Green                       Width ................................5.63 in. (14.30 cm)
+    Marking .............................Black                        Height................................3.50 in. (8.89 cm)
+    Height (max) .....................2.60 in. (6.60 cm)              Weight...............................2.12 lb (0.96 kg)
+    Diameter (max) .................4.75 in. (12.07 cm)
+    Weight...............................3.10 lb (1.41 kg)        Pallet (loaded with full containers):
+    Material .............................Steel tubing                Length ...............................55.50 in.
+Operational Temperature Limits:                                                                           (140.97 cm)
+    Minimum ...........................-40F (-40°C)                   Width ................................43.00 in.
+    Maximum ..........................+150F (+660C)                                                       (109.22 cm)
+Explosive Weight per Mine:                                            Height................................23.13 in. (58.75 cm)
+    Composition B4 .................0.90 lb (0.41 kg)                 Weight (approximate,
+    Composition A5 .................0.22 oz (6.35 g)                      including dunnage) .......1375 lb (616 kg)
+    PBXN-5 .............................0.17 oz (4.70 g)              Cube ................................31.93 cu ft
+                                                                                                          (0.90 cu m)
+
+Self-destruct Times after Launch:
+
+                                                            3-18
+
+
+---
+
+                                                                                    TM 43-0001-36
+
+References:
+
+SB 1340/98-IL
+TM 9-1095-205-10
+TM 9-1345-210-23&P
+
+                                                                              3-19
+
+
+---
+
+                                                                                           TM 43-0001-36
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+                           3-20
+
+
+---
+
+                                                                                                            TM 43-0001-36
+
+MINE, ANTIPERSONNEL: M86 PURSUIT DETERRENT MUNITION (PDM)
+
+Type Classification:                                                                • THE M86 MINE HAS A
+          STD
+                                                                                    SELFDESTRUCT FEATURE WHICH
+Use:
+          The M86 Antipersonnel Mine is to be hand                                  MAKES        IT     EXPENDABLE:
+
+emplaced or deployed as a deterrent munition by                                     THEREFORE, DO NOT RETURN TO
+special forces or selected personnel only on operations
+where they may be pursued by an enemy.                                              AREA.
+Description:
+                                                                                    • DO NOT DEPLOY MINE BELOW -
+          The M86 Mine is similar in configuration and
+possesses functioning characteristics of the ADAM Mine                              25°F. IF MINE IS DEPLOYED BELOW
+presently loaded in the 155mm projectile, M731 (and
+M692). The mine is wedge shaped, and contains a                                     -25°F, MINE MAY SELF-DESTRUCT
+safety clip, arming strap assembly, internal safing and
+arming device, seven tripline sensors, a reserve battery,                           EITHER IN A 5-MINUTE TIME FRAME,
+electronic circuitry containing an IC chip, and a kill
+mechanism surrounded by an overlay containing a liquid                              OR     LATER     THAN   THE
+propellant, and encapsulated in molded plastic form.
+Functioning:                                                                        PROGRAMMED SELF-DESTRUCT
+
+                              WARNING                                               TIME FRAME.
+
+          • ONCE ARMING STRAP IS LIFTED,                                            • DO NOT REMOVE NOSE
+          DEPLOYMENT IS MANDATORY. DO
+          NOT ATTEMPT TO RE-SAFE.                                                   PROTECTOR OR NOSE PROTECTOR
+
+          • SAFE SEPARATION TIME IS 25                                              TAPE. REMOVAL OF TAPE MAY
+          SECONDS AFTER STRAP IS LIFTED.
+          LEAVE AREA IMMEDIATELY AFTER                                              DAMAGE THE ELECTROMAGNETIC
+          EMPLOYMENT AND DO NOT
+          RETURN TO AREA.                                                           RADIATION        (EMR)  AND
+
+                                                                              3-21  ELECTROSTATIC DISCHARGE (ESD)
+
+                                                                                    PROTECTIVE PAINTS.
+
+                                                                                    • IF ONE OR MORE TRIPLINES ARE
+                                                                                    FOUND DEPLOYED PRIOR TO USE,
+                                                                                    DO NOT ARM OR ATTEMPT TO USE
+                                                                                    THE PDM. TURN IN MINE FOR
+                                                                                    DISPOSAL.
+
+
+---
+
+                                                                                                                    TM 43-0001-36
+
+          The M86 Antipersonnel Mine is manually armed              Packing .............................2 mines each in a
+by removing the safety clip and then the arming strap
+assembly. A camming action breaks the shorting bar                                          lastic bag, per
+and forces the battery ball against the battery breaking
+the glass ampule containing an electrolyte which                                            bandoleer; each
+activates the reserve battery and provides power. The
+shorting bar hook, attached to the cam, shears the                                          bandoleer in an
+shorting bar (a safety device across the detonator).
+After a 60-second (nominal) electronic time delay, a                                        outer barrier bag, 6
+piston actuator in the Safe and Arm mechanism is
+electrically fired, moving a slider to align the detonator                                  bandoleers in a
+with an explosive lead in the slider. At the same time,
+seven sensor triplines are released. Approximate three                                      metal box (PA19),
+or four triplines will deploy up to 20 feet from the mine,
+depending upon the at-rest position of the mine. The                                        two metal boxes in
+remaining triplines may be hindered due to their
+proximity to the resting surface. After an additional 10-                                   wooden wirebound
+second electronic time delay, allowing the munition to
+return to equilibrium, the mine is fully armed                                              box, total mines 24
+electronically. Disturbance of a tripline, or the mine
+itself, now triggers a switch which completes an                                            per box
+electronic firing circuit. The S&A electric detonator
+initiates the S&A firing train which initiates a detonating         Weight...............................56 lb
+cord which then initiates a thin layer of liquid propellant,
+which by gravity rests under the kill mechanism,                    Dimensions .......................14-5/8 x 12-13/16 x
+shattering the plastic mine body and propelling the kill
+mechanism upwards from 6 inches to 8 feet above the                                         11-15/16 in.
+ground where it detonates. The kill mechanism is a
+spheroid internally embossed and loaded with 21 grams               Cube ................................1.3 cu ft
+of Comp A5 and when detonated, propels fragments in a
+high velocity spherical pattern.                                    Palletization:
+
+If the mine is not activated by tripline or disturbance             Pallet size..........................40 in. x 48 in.
+mode, a factory preset self-destruct feature initiates the
+mine in 4 hours plus 0-20 percent.                                                          (101.6 cm x
+
+Tabulated Data:                                                                             121.92 cm)
+Model ................................M86
+Type ................................APERS, frag                    Pallet weight......................80 lb (36.29 kg)
+Dwg Assy ...............................9366700
+Weight ................................1.2 lb, approx               Dunnage weight.................11 lb (4.95 kg)
+Dimensions:
+                                                                    Loaded weight ...................2779 lb (w48 wd
+    Height................................3.203 in.
+    Radius (max).....................2.924 in.                                              boxes) (1260 kg)
+    Thickness ..........................72°wedge
+Material ................................Plastic and steel                                  approx
+Temperature Limits:
+    Operational:                                                    Cube ................................. 69.3 cu ft
+
+        Lower Limit ...................-32C (-250F)                       ................................(2.08 cu m)
+        Upper Limit...................+520C (+1250F)
+Storage:                                                            Hazard class/division .............(08) 1.2
+        Lower Limit ...................-46C (-50°F)
+        Upper Limit...................+710C (+1600F)                Storage compatibility
+Shipping and Storage Data:
+                                                                    group D
+
+                                                                    DOT shipping class ................A
+
+                                                                    DOT designation ....................EXPLOSIVE
+
+                                                                                            MINES
+
+                                                                    USCG classification ...............X-A
+
+                                                                    UNO serial number ................0138
+
+                                                                    UNO Proper shipping
+
+                                                                    name Mines
+
+                                                                    NSN ................................1345-01-243-5089
+
+                                                                    DODAC ................................1345-K152
+
+                                                                    Painting ................................Latex Forest Green
+
+                                                                                            (#609-66, Color
+
+                                                                                            F135, Fuller
+
+                                                                                            O'Brien)
+
+                                                                    Markings ................................Black (#37038)
+
+                                                                    Drawing number.....................8865546
+
+                                                                    Combination of adopted
+
+                                                                    items Dwg 9366711
+
+                                                                    Explosive Data:
+
+                                                                                                            Weight
+
+                                                                    Item            Type    AV                      Metric
+
+                                                                    M86 Mine:
+
+                                                                    Main Charge Comp A5 21 gr
+
+                                                                    References:
+
+                                                                    TM 9-1345-203-12&P
+
+                                                                    TM 9-1345-203-34&P
+
+                                                              3-22
+
+
+---
+
+                                                                               TM 43-0001-36
+
+          CHAPTER 4
+CHEMICAL AGENT MINES
+
+                4-1
+
+
+---
+
+                                                                                          TM 43-0001-36
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+                           4-2
+
+
+---
+
+                                                             TM 43-0001-36
+
+MINE, CHEMICAL AGENT, VX: M23
+
+Type Classification:                                         secondary fuze wells. The pressure plate assembly
+          S 3710 (LCC-A)                                     contains the pressure plate, deflection spring, fuze
+                                                             retainer spring, and arming plug.
+Use:                                                         Functioning:
+          The chemical mine M23 is used to disperse a
+                                                                       The M603 or M608 fuze is used in the primary
+nerve agent (VX) and may be used as an antitank or an        fuze well when used as an antitank mine. When used
+antipersonnel mine.                                          as an antipersonnel mine, it is booby trapped by using
+Description:                                                 an activator and a firing device in the side or bottom
+                                                             secondary fuze wells.
+          The chemical agent mine is prefilled, and
+consists of a thin-walled, steel body which houses the
+pressure plate assembly, a primary fuze well, and two
+
+                                                        4-3
+
+
+---
+
+                                                                                                     TM 43-0001-36
+
+Tabulated Data:                                                           name ............................Ammunition, toxic
+                                                                      DOT shipping class ...........Class A Explosive
+Model number ........................M23                              DOT marking.....................EXPLOSIVE
+Type ................................Chemical
+Drawings:                                                                                                 MINES
+                                                                  DODAC ................................1345-K257
+    Assembly...........................37-1-13                    Painting ................................Gray
+Weight ................................22.875 lb                  Marking ................................Green
+Dimensions:
+                                                                  Explosive Data:
+    Height................................5 in.
+    Max diam ..........................13 in.                     Weight
+Material ................................Steel
+Thread:                                                           Item            Type     AV                                 Metric
+    Arming plug well................2.313-14 NS-1
+    Secondary fuze well ..........0.688-12 NC                     M603 Mine Fuze:
+Fuzes (see separate
+    write-up):                                                    M45 Det PA #100          1.86 gr                            120 mg
+    Basic ................................M603
+    Alternate............................M608                                     Lead Az  4.25 gr                            275 mg
+Temperature Limits:
+    Firing:                                                                       RDX      1.85 gr                            120 mg
+
+        Lower............................ -25°F                   M120 Booster RDX         172.4 gr                           11.18
+        Upper ........................... + 125°F
+    Storage:                                                      mg
+        Lower............................ -60°F
+        Upper ........................... + 160°F                 Main Charge VX Agent     10.5 lb                            4.76 kg
+Shipping and Storage Data:
+    Packing arrangement ........3 mines w/3 fuzes                 *M1 Activator:
+
+                                        & 3 activ in 16 gal           M31 Det Army Ign     2.31 gr                            150 mg
+                                        drum
+Weight ................................1151b                                      Lead Az  3.85 gr                            250 mg
+Dimensions ............................16 in. diam x 18 in.
+                                        high                                      Tetryl   4.17 gr                            270 mg
+    Cube ................................3.8 cu ft
+    Hazard class/division and                                         Booster Tetryl       36 gr                              2.3 gm
+        storage compatibility
+        group ............................(12) 1.2K               *If M1 activator used, additional explosive components
+    UNO serial number............0020
+    UNO Proper shipping                                           will depend on type of firing device employed.
+
+                                                                  Alternate Primary Fuze - if used:
+
+                                                                  M608 Mine Fuze:
+
+                                                                      M55 Det NOL 130      0,23 gr                            15 mg
+                                                                                                                              19 mg
+                                                                                  RDX      0.29 gr                            51 mg
+                                                                                                                              207 mg
+                                                                                  Lead Az  0.79 gr
+
+                                                                      Lead        RDX      3.33 gr
+
+                                                                  Reference:
+
+                                                                  TM 9-1345-203-12&P
+
+                                                             4-4
+
+
+---
+
+                                                                                  TM 43-0001-36
+
+             CHARTER 5
+PRACTICE, INERT, TRAINING,
+
+       AND DUMMY ITEMS
+
+                   5-1
+
+
+---
+
+                                                                                          TM 43-0001-36
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+                           5-2
+
+
+---
+
+                                                                TM 43-0001-36
+
+MINE, ANTIPERSONNEL, PRACTICE: M8 (M8A1)
+
+Type Classification:                                            the air. The M8A1 indicates functioning by emitting
+     S 1747 (LCC-B)                                             yellow smoke from the top of the main body. The
+                                                                practice mine M8 uses either fuze mine combination
+Use:                                                            practice M10 or M10A1. The practice mine M8A1 uses
+                                                                the M10A2 fuze.
+          The antipersonnel practice mines M8 and M8A1
+simulate the M2 series of antipersonnel mines and are           Functioning:
+used for training in the proper methods and precautions
+to be observed in the care, handling, laying, booby             Mine M8 with Fuze M10 or M10A. The fuze firing
+trapping, arming, and disarming of the M2 and M15               mechanism is activated by an applied load of 8 to 20
+series mines.                                                   pounds on any of the prongs or by a pull of 3 to 10
+                                                                pounds of the trip wire. The fuze firing train ignites the
+Description:                                                    delay element in the projectile and also propells it about
+          General. The metal parts of these mines are           2 meters into the air. The delay initiates the spotting
+                                                                charge which explodes with a loud report and emits
+similar to those of service mine M2A4. The M8 mine              smoke.
+uses a cardboard projectile containing a spotting charge.
+The M8A1 uses smoke pellets to indicate activation of           Mine M8A1 with Fuze M10A2. The fuze firing
+the mine. These practice mines may be used many                 mechanism is activated by an applied load of 8 to 20
+times by replacing the fuzes and separately                     pounds on any of the prongs or by a pull of 3 to 10
+requisitionable components. The M8 requires                     pounds of the trip wire. The fuze firing train ignites the
+replacement of a mine cap (metal) and cardboard                 yellow smoke pellets through a 4 to 5 second delay.
+projectile which contains a spotting charge. The M8A1           The plastic plug is propelled in the air allowing the
+requires replacement of a mine plug (polystyrene) and           yellow smoke to be emitted from top of container.
+smoke pellets.
+
+          Difference between models. The M8 practice
+mine ejects a cardboard projectile containing a delay
+and a spotting charge of black powder which bursts in
+
+                                                           5-3
+
+
+---
+
+                                                                                                  TM 43-0001-36
+
+Tabulated Data:                                                                                     FUZES HANDLE
+                                                                                                    CAREFULLY
+Model number ........................M8, M8A1                            ................................1345-K105
+                                                                         ................................Blue
+Type ................................Practice, APERS           DODAC     ................................White
+                                                               Painting
+Drawings:                                                      Marking
+
+Assembly:
+
+    M8 ................................82-0-112
+
+    M8A1 ............................ 8862037                  Explosive Data:
+
+Weight ................................4.5 lb
+
+Dimensions - fuzed:                                                                             Weight
+
+Height................................9.75 in.                 Item         Type        AV                          Metric
+
+Max diam ..........................4.03 in.                    M10 Fuze:
+
+Material ................................Steel                 Mk V Primer Prim Mix     0.4 gr                      26 mg
+
+Thread - fuze well ..................0.563-12UNC-1A            4.5" Delay Safe Fuse
+
+Fuzes (see separate                                            Igniter      Bik Pdr     14.98 gr        972 mg
+
+write-up):                                                     M10A1 Fuze:
+
+M8  ................................M10, M10A1                 M39A1 Prim Prim Mix      0.4 gr                      26 mg
+
+M8A1 M10A2                                                     4.5" Delay Safe Fuse
+
+Shipping and Storage Data:                                     Igniter      Blk Pdr     14.98 gr        972 mg
+
+Packing arrangement ........2 mines w/2 fuzes                  M10A2 Fuze:
+
+    ................................& 20 sets repl parts       M39A1 Prim Prim Mix      0.4 gr           26 mg
+                                                                                        1.5 gr          100 mg
+    ................................in wooden box              Delay        TpI Comp    10 gr           650 mg
+                                                                                        11.2 gr         725 mg
+Weight...............................371b                      Delay        TpIII Comp
+
+Dimensions .......................16-1/2 x 11-1/2 x            Igniter      Smk Comp
+
+    ................................13-3/4 in.                 M8 Mine:
+
+Cube ................................ 1.51 cu ft               Delay        Bik Pdr     0.57 gr       37 mg
+                                                                                        0.77 gr       50 mg
+Hazard class/division and                                      Relay        Blk Pdr     170 gr    11.02 gm
+
+    storage compatibility                                      Spot Chg BIk Pdr
+
+    group ............................(04) 1.2G                M8A1 Mine:
+
+UNO serial number ................0313                         Spot Chg Yel Smk         92.7 gr                     6 gm
+
+UNO Proper shipping                                            Reference:
+
+name Signals, smoke                                            TM 9-1345-203-12&P
+
+DOT shipping class ...........Class C Explosive
+
+DOT marking.....................PERCUSSION
+
+                                                          5-4
+
+
+---
+
+                                                                 TM 43-0001-36
+
+MINE, ANTITANK, PRACTICE, LIGHT: M10
+
+Type Classification:                                             pounds on the striker .plate. This force acts directly on
+     OBS 11756003                                                the practice fuze M604. Functioning of the fuze ignites
+                                                                 a smoke charge, which emits a cloud of smoke and
+Use:                                                             creates a noise. When booby trapped, the mine is
+          The antitank practice mine M10 simulates the           activated by a pull wire. Functioning of the firing device
+                                                                 indicates activation of the mine.
+M7 series of light, inert, antitank mines and is used for        Tabulated Data:
+training in the proper methods and precautions to be             Model number ........................M10
+observed in the care, handling, laying, booby trapping,          Type ................................AT, Practice
+arming, and disarming of high explosive service antitank         Drawings:
+mines.
+                                                                     Assembly...........................82-0-156
+Description:                                                     Weight - fuzed &
+          The antitank practice mine M10 consists of a
+                                                                     ballasted............................8.2 lb
+rectangular, steel container, shipped empty, and is              Dimensions:
+loaded with sand in the field. A primary fuze well for the
+practice fuze M604 is located in the top center of the               Body ................................2-1/2 x 5 x 7 in.
+mine. The smoke charge is contained in the fuze. A               Material ................................Steel
+secondary fuze well is provided in one end of the mine           Thread:
+for insertion of a secondary fuze for booby trapping
+purposes. It is taped to take any 9/16-inch threaded                 Primary fuze well...............None
+firing device. such as the M1 or M2, and closed with a               Secondary fuze well ..........0.563-12 NC
+plug to which the mine carrying cord is attached. The            Fuzes (see separate
+sand loading port is closed with a twist lock cap,                   write-up) ............................M604 Practice
+supplied separately. The M10 practice mine is inert              Shipping and Storage Data:
+except for primer and smoke charges in the primary                   Packing arrangement ........12 mines w/o fuzes
+fuze and small charges in secondary fuze firing devices,
+when used. The practice fuze M604 is mounted in the                                                      in wooden box
+top of the mine and covered by the movable striker                   Weight...............................68 lb
+plate of the mine and is directly activated by an external           Dimensions .......................21 x 11-3/4 x 9-1/2
+force of 120 to 240 pounds. The M10 practice mine is
+booby trapped with a regular firing device threaded                                                      in.
+directly into the secondary fuze well. No igniter charge             Cube ................................1.36 cu ft
+or blasting cap should be used in the firing device.             DODAC ................................1345-K220
+Practice mine M10 is activated by a force of 120 to 240          Painting ................................Blue
+                                                                 Marking ................................White
+                                                                 Special Performance Data-- N/A
+
+                                                            5-5
+
+
+---
+
+                                                                         TM 43-0001-36
+
+Explosive Data:                                      Reference:
+                                                     TM 9-1345-203-12&P
+                              Weight
+                                              5-6
+Item            Type      AV          Metric
+M604 Fuze:
+                PA #100   1.62 gr     105 mg
+     M45 Prim   Blk Pdr   2.95 gr     192 mg
+                Smk Comp  262.3 gr
+     Smoke Chg                         17 gm
+
+
+---
+
+                                                                                     TM 43-0001-36
+
+                      MINE, ANTITANK, PRACTICE: M12 SERIES
+
+Type Classification:                                            and fuzed in the field. The mine is inert, but explosive
+
+C 6558 (LCC-S)                                                  components will be found in the primary fuze, and if
+
+Use:                                                            used, in the secondary fuze and activator. The arming
+
+                                                                plug has a steel shutter which moves from a side
+
+      The antitank practice mine M12 (M12A1,                    position to a center position as the setting knob is
+
+M12B1) is used for training personnel in the precautions        moved from SAFE through DANGER to ARMED
+
+and proper methods to be observed in the care,                  position. The words are appropriately color coded,
+
+handling, laying and arming, booby trapping, and                green, green/red, red respectively. A wire carrying
+
+disarming of the high explosive heavy antitank mine             handle is provided.
+
+M15.
+
+                                                                Functioning:
+
+Description:
+
+                                                                Practice mine M12 is activated by a force of 565 ± 174
+
+      The M12 practice mine is a flat, cylindrical, steel       pounds on the pressure plate of the mine. This force
+
+casing externally similar to the high explosive mine            overcomes both mine and fuze spring systems.
+
+M15. The mine is shipped empty, with arming plug M4             Functioning of the practice fuze M604 ignites a smoke
+
+assembled over the primary fuze well, but without               charge which emits
+
+primary or secondary fuzes. It is to be loaded with sand
+
+                                                           5-7
+
+
+---
+
+                                                                                               TM 43-0001-36
+
+a cloud of smoke and creates a noise. When booby                Dimensions ............................17-1/2 x 16 x 9-3/4
+trapped, the mine may be functioned by a pull or by                                                     in.
+release of trip wires attached to either of the secondary
+fuzes. Functioning of the secondary fuzes ignites a             Cube ................................1.56 cu ft
+small smoke charge in the M1 practice activator.                M12 or M12B1 .......................1 mine w/o fuze/
+
+Tabulated Data:                                                                                         mtl cntr
+Model number ........................M12, M12A1 or                  Weight...............................18.91b
+                                                                    Dimensions .......................14 x 13-3/4 x 4-1/8
+                                        M12B1
+Type ................................Practice, AT                                                       in.
+Drawings:                                                           Cube ................................0.46 cu ft
+                                                                Quantity-distance class ..........N/A
+    Assembly (M12A1) ............82-0-136                       DODAC ................................1345-K230
+Weight ................................20 lb                    Painting ................................Blue
+Dimensions:                                                     Marking ................................White
+
+    Height................................3.5 in.               Explosive Data:
+    Max diam ..........................13.25 in.
+Material ................................Steel                                           Weight
+Thread:
+    Arming plug well................2.313-14 NS-1               Item      Type       AV          Metric
+    Secondary fuze well ..........0.688-12 NS
+Fuzes (see separate                                             M604 Practice Fuze:
+    write-up) ............................M604 practice
+Shipping and Storage Data:                                      M45 Primer PA #100   1.62 gr     105 mg
+    Packing arrangement:                                                             2.96 gr     192 mg
+    M12 or M12A1...................2 mines w/o fuzes/                     Blk Pdr    262.3 gr
+                                                                                                  17 gm
+                                        wooden box              Smk Comp
+    Weight............................... 38.8 lb
+                                                                Reference:
+                                                                TM 9-1345-203-12&P
+
+                                                           5-8
+
+
+---
+
+                                                                              TM 43-0001-36
+
+MINE, ANTIPERSONNEL: M16A1, INERT
+
+                                                                 U
+                                                                 AR 101909-A
+
+Type Classification:                                                 Box, fiber packing..............8863609
+     12816009 (LCC-B)                                                Box, wirebound..................7548179
+
+Use:                                                             For additional pertinent details (including weight,
+          This mine is used for training purposes only. It       dimensions, material, thread, fuze, temperature limits,
+                                                                 shipping and storage data) see page 3-10.
+uses the M605 Inert Fuze and contains no explosive
+components. Since the dimensions are the same as the             Painting ................................Blue
+live M16A1 mine, care must be exercised not to use live          Marking ................................White
+components with it.                                              DODAC ................................Not listed - Parts
+
+Tabulated Data:                                                                                          packed under NSN
+                                                                                                         1345-00-799-7391
+Model number ........................M16A1, Inert                Reference:
+Type ................................Training
+Drawings:                                                        TM 9-1345-203-12&P
+
+    Assembly...........................9324631
+
+                                                            5-9
+
+
+---
+
+                                                                                          TM 43-0001-36
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+                          5-10
+
+
+---
+
+                                                                  TM 43-0001-36
+
+MINE, ANTIPERSONNEL, TRAINING: M81
+
+Type Classification:                                                  Box, wirebound..................7548179
+     12816001 (LCC-A)
+                                                                  For additional pertinent details (including weight,
+Use:                                                              dimensions, material, thread, fuze, temperature limits,
+          This mine is used for training purposes only. It        shipping and storage data) see page 3-10.
+
+uses the M605 Inert Fuze and contains no explosive                Painting ................................Bronze
+components. Since the dimensions are the same as the              Marking ................................White
+live M16A1 mine, care must be exercised not to use live           DODAC ................................Not listed
+components with it.                                               NSN ................................6920-01-136-3628
+
+Tabulated Data:                                                   Reference:
+Model number ........................M81, Training
+Type ................................Training                     TM 9-1345-203-12&P
+Drawings:
+
+    Assembly...........................9332440
+    Box, fiber packing..............8863609
+
+                                                            5-11
+
+
+---
+
+                                                                                          TM 43-0001-36
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+                          5-12
+
+
+---
+
+                                                                  TM 43-0001-36
+
+MINE, ANTITANK: TRAINING, M80
+
+Type Classification:                                                                               NOTE
+     S 03788003 (LCC-A)                                                     The threading of the secondary fuze
+                                                                            wells will therefore accept the M1 or
+Use:                                                                        M2 activators, which should never be
+          Inert mine M80 is used for training personnel in                  used. Use only the M1 practice
+                                                                            activator, despite the lack of good fit.
+the precautions and proper methods to be observed in
+the care, handling, laying and arming, booby trapping             Functioning:
+(using an activator/firing device without primer), and                      There is not explosive functioning of the mine.
+disarming of heavy nonmetallic mine, M19.
+                                                                  The mine can be set on Safe or Armed by the setting
+Description:                                                      knob, and the safety clip can be removed and replaced.
+          This mine and fuze are completely inert (contain
+                                                                  Tabulated Data:
+no explosive). They are constructed of parts identical to         Model number ........................M80
+those used in the M19 service mine and the M606                   Type ................................AT, Training
+service fuze.                                                     Drawings:
+
+                                                                      Assembly...........................9321449
+                                                                      Metal parts ........................9321447
+
+                                                            5-13
+
+
+---
+
+Weight-fuzed .........................Approx 28 lb                                                                    TM 43-0001-36
+Dimensions:
+                                                                   Packing & marking for
+    Height 3.7 in. .....................(w/M606                        box ...............................9321541
+                                        Fuze)
+                                                                   Box, wirebound,
+    Max diam 13.09 in.                                                 packing ......................... 9321540
+Material ................................Plastic
+Thread:                                                        DODAC ................................1345-K232
+                                                               Painting ................................All Bronze or OD
+    M606 Inert Fuze (deto-
+        nator holder well) ..........0.563-12UNC-1A                                                     w/Bronze (Copper)
+                                                                                                        Colored Circles
+    Secondary fuze well ..........0.75-UNS-1B                  Marking ................................White
+Fuze (see separate
+                                                               Reference:
+    write-up) ............................M606, Inert
+Temperature Limits ................N/A                         TM 9-1345-203-12&P
+Shipping and Storage Data:
+                                                       5-14
+
+
+---
+
+                                                            TM 43-0001-36
+
+                      MINE, ANTITANK, PRACTICE: HEAVY, M20
+
+Type Classification:          Use:
+     S 36841 (LCC-A)
+                              Practice mine M20 is used for training personnel in the
+                              proper methods and precautions to be observed in the
+                              care, handling, laying and
+
+                      5-15
+
+
+---
+
+                                                                                                             TM 43-0001-36
+
+arming, booby trapping, and disarming of the high                 Tabulated Data:
+explosive, heavy, antitank mine M15.                              Model number ........................M20
+                                                                  Type ................................Pract, Heavy, AT
+Description:                                                      Drawings:
+
+          The M20 mine has a squat cylindrical steel                  Assembly...........................7548124
+casing, externally similar to the high explosive mine             Weight-fuzed & ballasted .......31.46 lb
+M15, but differs by having three filler holes around its          Dimensions:
+periphery, and perforations around the arming plug and
+secondary fuzing wells, indicative of inert status. The               Height................................ 4.91 in.
+mine is issued empty, with arming plug M4 assembled,                  Max diam ..........................13.16 in.
+but lacking either primary or secondary fuze. It is to be         Material ................................Steel
+loaded with sand and fuzed in the field. The mine is              Thread:
+inert except for the smoke charge and M45 primer in the               Arming plug.......................2.313-14 NS-1A
+M604 fuze, the smoke charge primer in the M1 practice                 Second fuze well ...............0.688-12 NC
+activator, and the primer in the secondary fuzing device.         Fuze (see separate
+The primary fuze is the fuze M604. The secondary fuze                 write-up) ............................M604
+wells will accept practice antitank mine activator M1 and         Shipping and Storage Data:
+any firing device having 9/16 inch threading. A wire                  Packing arrangement ........3 mines w/arming
+carrying handle is provided. The mine, with M604 fuze,
+is activated by the weight of an intermediate or heavy                                                    wrench in wooden
+tank. Lighter equipment or personnel will not overcome                                                    box
+the spring system of the mine and actuate the fuze.                   Weight............................... 50.4 lb
+                                                                      Dimensions .......................17-5/8 x 16-1/8 x
+Functioning:                                                                                              17-1/2 in.
+                                                                      Cube ................................2.5 cu ft
+          Practice mine M20 is activated by a force of 565            Quantity-distance class......N/A
+± 174 pounds, which is sufficient to overcome both                DODAC ................................1345-K231
+spring systems, that in the mine, and that in the M604            Painting ................................Blue
+fuze. Although intended for interdiction of medium or             Marking ................................White
+heavy tanks, the mine can be functioned, when booby               Explosive Data:
+trapped, by pull or release, of either of two trip wires
+attached to a secondary firing device. The activation of                                              Weight
+the primary fuze or either of the secondary fuzes
+releases a cloud or smoke and creates a noise,                    Item        Type             AV                           Metric
+indicative of mine functioning.
+                                                                  M604 Fuze:
+
+                                                                  M45 Primer PA #100               1.5 gr     105 mg
+                                                                                                   2.96 gr    192 mg
+                                                                              Blk Pdr              262.3 gr
+                                                                                               used):          17 gm
+                                                                  Smk Chg Smk Comp
+
+                                                                  M1 Practice Activator (when
+
+                                                                  Photo-fish TP III C1A
+
+                                                                                               2.34 gr       151.5 mg
+
+                                                                  Quickmatch TP II C1A         20 gr          1.4 gm
+                                                                  Smk Chg Smk Comp
+
+                                                                  Reference:
+
+                                                                  TM 9-1345-203-12&P
+
+                                                            5-16
+
+
+---
+
+                                                                TM 43-0001-36
+
+MINE, ANTIPERSONNEL, PRACTICE: M35
+
+Type Classification:                                            Functioning:
+     OBS 11846007
+                                                                          After arming, and removal of the arming latch, a
+Use:                                                            weight of 14 to 28 pounds on the mine top or a pull on
+                                                                the assembled top lever will function the 32 caliber
+          The M35 practice mine is used to indoctrinate         cartridge case. The hot gases puncture the dye capsule
+trainees in the proper handling, emplacement, arming            and cause the blue dye powder to be expelled in a
+and disarming techniques required for emplacement of            discernable plume. The mine may be rigged for tripwire
+the antipersonnel service mine M26.                             activation. Remove the trip lever from storage in the
+                                                                spool assembly and insert in the threaded well in the
+Description:                                                    cam, top, center. Attach one or more of the trip wires,
+                                                                as required.
+          The M35 practice mine is similar to the M26
+mine with the following exceptions:                             Tabulated Data:
+
+          External - color and markings, presence of a          Model number ........................M35
+puff port in the cover and a hexagonal socket setscrew          Type ................................Practice, AP
+instead of a cover locking pin.                                 Drawings:
+
+          Internal - dye capsule, simulator and panel               Assembly...........................9212294
+assembly, cartridge case and sleeve assembly, spring            Weight ................................2.2 lb
+housing retainer and spring housing assembly.                   Dimensions:
+
+          The M35 practice mine is reusable and is                  Height................................5.7 in.
+expected to be reloaded at least 15 times before                    Max diam ..........................3.1 in.
+requiring repairs. Attached to, but easily removable            Material ................................Aluminum/Steel
+from the mine are the following accessories: Arming             Fuze ................................integral)
+Handle, Arming Instruction Tag, Trip Lever, and Spool
+Assembly. Four 20-foot tripwires, two colored olive drab
+and two tan, are stored on the spool.
+
+                                                          5-17
+
+
+---
+
+                                                                                               TM 43-0001-36
+
+Shipping and Storage Data:                                                                               FUZES HANDLE
+Packing arrangement .............3 mines w/acc 3/fbr                                                     CAREFULLY
+                                                                 DODAC ................................1345-K106
+                                        ctn, 6 ctns (18          Painting ................................Blue
+                                        mines) wooden box        Marking ................................White
+Weight ................................60 lb                     Explosive Data:
+Dimensions ............................21-1/4 x 12-1/2 x
+            ................................9-3/4 in.                                          Weight
+Cube ................................1.5 cu ft
+Hazard class/division and                                        Item        Type      AV                              Metric
+    storage compatibility
+    group ................................1.4G                   32 Caliber Cartridge
+UNO serial number ................0317
+UNO Proper shipping                                              Primer                1.5 gr          105 mg
+    name ................................Mines
+DOT shipping class ................Class C Explosive             Reference:
+DOT marking .........................PERCUSSION
+                                                                 TM 9-1345-203-12&P
+
+                                                           5-18
+
+
+---
+
+                                                                 TM 43-0001-36
+
+MINE, ANTIPERSONNEL, PRACTICE: M68
+
+Type Classification:                                             device and the M40 test set, all packed in the M7
+     S 8880 (LCC-A)                                              bandoleer. The external appearance of the M33
+                                                                 practice mine is identical to the M18A1 except for color
+Use:                                                             and marking. An inert filler replaces the high explosive.
+          The M68 practice mine simulates the M18                The M57 firing device, M7 bandoleer, and the M40 test
+                                                                 set are the same as used with M18A1 mine. The M10
+series mines, and is used for training in the proper             blasting cap is inert. The lead wires of the M10 are
+methods and precautions to be observed in the care and           shorted to provide electrical continuity.
+handling, booby trapping, arming, and disarming of high
+explosive service antipersonnel mines.                           Functioning:
+                                                                           The only components of the item that function
+Description:
+          The practice mine body M33 is included in a kit        are the M57 firing device and the M40 test set. There is
+                                                                 no explosive functioning.
+designated Mine, APERS, Practice, M68, which also
+includes the M10 practice blasting cap, the M57 firing
+
+                                                           5-19
+
+
+---
+
+Tabulated Data:                                                                                                            TM 43-0001-36
+
+Model number ........................M68                            Shipping and Storage Data:
+Type ................................APERS, Practice,                   Packing arrangement ........1 mine, 1 cap, 1 fir-
+Drawings:                                                                                                    ing device, 1 test
+                                                                                                             set per bandoleer, 6
+    Assembly...........................9251501                                                               bandoleers per
+    Kit ................................9251503                                                              wooden box (6
+Weight (approx) .....................3.5 lb                                                                  mines)
+Dimensions:
+    Width ................................8.5 in.                   Dimensions ............................15-1/4 x 10-1/2 x
+    Height................................3.25 in.                                                           14-3/8 in.
+    Thickness ..........................1.375 in.
+Material ................................Plastic                    Cube ................................1.4 cu ft
+Thread:                                                             Weight ................................0.53 lb
+    Detonator wells..................0.563-12UNC-1A                 DODAC ................................1345-K139
+Fuze ................................M10 practice                   Painting ................................Blue or Green with
+                                                                    blue stripes
+                                        (shunted) blasting          Marking ................................White
+                                        cap
+Temperature Limits ................NA                               Reference:
+
+                                                                    None
+
+                                                            5-20
+
+
+---
+
+                                                                 TM 43-0001-36
+
+MINE, ANTITANK, PRACTICE: M69
+
+Type Classification:                                                 IR Receiver .......................Aluminum
+     OBS 03866007                                                    Data Processor..................Aluminum
+     (Has not been produced and is not in field)                     Geophone .........................Plastic/Steel
+                                                                 Fuzes:
+Use:                                                                 System ..............................M619
+                                                                     Type ................................Electronic
+          The M69 practice antitank mine is used for                 Rocket ............................... M405A2
+training personnel in the precautions and proper                     Type ................................Mech-inert
+methods to be observed in the care, handling, laying,            Battery types (not included):
+and disarming of the M66 off-route antitank mine.                    2 - req'd for Data Proc .......BA-3202/U
+                                                                     1 - req'd for Data Proc .......BA-1114/U
+Description:                                                         1 - req'd for IR Source .......BA-1114/U
+                                                                 Temperature Limits:
+          The practice mine M69 differs from the M66                 Firing:
+mine, which it simulates, in that the lethal mechanism,
+the HE rocket, is replaced by a rocket having an inert                   Lower............................-40°F
+warhead M29A2. The other components of the mine are                      Upper ...........................+125°F
+identical to the M66 mine.                                       Shipping and Storage Data:
+                                                                     Packing arrangement ........1 mine M69 w/fuze
+Tabulated Data:
+                                                                                                         M619 barrier bag/
+Model number ........................M69                                                                 wirebound box
+Type ................................Off-route, Practice,        Weight ................................70 lb
+                                                                 Dimensions ............................33-3/4 x 22-7/8 x
+                                        AT                                                               12-5/8 in.
+Drawings:                                                        Cube ................................5.4 cu ft
+                                                                 Hazard class/division and
+    Assembly...........................9256479                       storage compatibility
+Weight:                                                              group ................................(12) 1.2F
+                                                                 UNO serial number--------
+    Total ................................40 lb                  DOT shipping class -------- Class C Explosive
+    Rocket only .......................9 lb                      DOT marking ---------------- ROCKET
+Dimensions:                                                                                              AMMUNITION
+    Rocket:                                                                                              W/INERT
+                                                                                                         LOADED
+        Length ..........................23.55 in                                                        PROJECTILE
+    Max diam ..........................3.5 in.                   DODAC ................................1345-K233
+Materials:                                                       Painting:
+    Rocket:                                                      Rocket ................................Blue
+                                                                 Marking:
+        Motor ............................Steel                  Rocket ................................White
+        Warhead.......................Cast iron
+    Rocket launcher ................Plastic
+    IR Source ..........................Aluminum
+
+                                                           5-21
+
+
+---
+
+                                                               TM 43-0001-36
+
+Explosive Data:
+
+                             Weight                Reference:
+                                                   None
+Item     Type            AV          Metric
+
+M29A2 Rocket Motor:
+
+M2 Elec Squib Flash Pdr  1 gr         65 mg
+                         54 r        3.5 gm
+Igniter  Blk Pdr         0.35 lb     159 gm
+
+Propellant M7
+
+                                             5-22
+
+
+---
+
+                                                                  TM 43-0001-36
+
+ACTIVATOR, ANTITANK MINE: PRACTICE, M1
+
+Type Classification:                                              Tabulated Data:
+
+     S 36841 (LCC-A)                                              Model number ........................M1
+                                                                  Type ................................Practice
+Use:                                                              Weight ................................17 gm
+                                                                  Length ................................1.99 in.
+          This activator is used to adapt any inert,              Material ................................Plastic
+antitank practice mine having 11/16-inch threaded                 Threading:
+secondary fuze wells to the use of a practice booby
+trapping firing device.                                               External.............................0.6875-12NS-SPEC
+                                                                      Internal ..............................0.5625-12-NC-
+Description:
+          The practice activator is made of black plastic                                                 SPEC
+                                                                  Drawings:
+(newer type, blue) and has a threaded closing plug and
+gasket. The body is internally threaded to receive a                  Assembly...........................73-9-46
+firing device. The other end is externally threaded. The              Parts ................................73-9-47
+body contains a igniting charge and the cylindrical               Temperature Limits:
+unthreaded cup end (color blue) contains the smoke                    Firing:
+charge.
+                                                                          Lower............................40°F
+Functioning:                                                              Upper ...........................+125°F
+                                                                  Storage:
+          This activator operates when the action of a                    Lower............................-60°F
+firing device initiates the igniter charge which, in turn,                Upper ...........................+160°F
+ignites the smoke charge, thus releasing a puff of white          Shipping and Storage Data:
+smoke with accompanying noise.                                    Packing arrangement .............180 activators - 1
+
+                                                                                                          per metal container
+                                                                                                          180 containers in
+                                                                                                          wooden box
+
+                                                            5-23
+
+
+---
+
+                                                                                                              TM 43-0001-36
+
+Container:                                                       Marking ................................N/A
+    Weight...............................54.5 lb                 *Newer models, all blue
+    Dimensions .......................16-3/4 x 14-13/16 x
+            ................................16-3/8 in.           Explosive Data:
+    Cube ................................2.3 cu ft
+                                                                                                              Weight
+Hazard class/division and
+    storage compatibility                                        Item              Type         AV                    Metric
+    group ................................1.4S                   Igniter:
+                                                                                   Tp III C1 A  2.34 gr       151.5 mg
+UNO serial number ................0349                                Flash Pdr    Tp II C1 A
+UNO Proper shipping                                                   Fuze, quick               20 gr                 1296 mg
+name ................................Articles, explosive                           Smk Comp
+DOT shipping class ................Class C Explosive                     match
+DOT marking .........................PERCUSSION                       Smk Chg
+
+            ................................FUZES HANDLE         Reference:
+            ................................CAREFULLY
+DODAC ................................1345-K002                  TM 9-1345-203-12&P
+Painting ................................*Black & Blue
+
+                                                           5-24
+
+
+---
+
+                               TM-43-0001-36
+
+MINE, ANTITANK, PRACTICE: M79
+
+5-25
+
+
+---
+
+                                                                                                                            TM 43-0001-36
+
+Type Classification:                                                  Container - EMPTY:
+
+                                                                      Length ...............................27.30 in. (69.30 cm)
+
+STD-LCC-A (LET 4-11-80, ARDC)                                         Width ................................14.10 in. (35.81 cm)
+
+                                                                      Height................................15.20 in. (38.61 cm)
+
+Use:                                                                  Weight...............................55.0 lb (25.0 kg)
+
+                                                                      Cube ................................3.40 cu ft
+
+      The practice antitank mine M79 simulates the                    ................................(0.10 cu m)
+
+HE antipersonnel mine M74 and the HE antitank mine                    NSN ................................8140-01-089-2763
+
+M75 and is used for training purposes. The mine is                    Part No..............................9313655
+
+emplaced by the ground vehicle mine dispenser M128.                   Shipping and Storage
+
+                                                                      Container - LOADED:
+
+Description:                                                          Weight...............................214.0 lb (97.1 kg)
+
+                                                                      Storage compatibility
+
+      The mine is cylindrical in shape, and is similar in             group ............................Inert
+
+appearance to the antipersonnel mine M74 and the                      Quantity-distance class
+
+antitank mine M75. The mine is inert and it is fabricated             for depot storage...........Not applicable
+
+of thick-wall steel tubing with a sheet metal closure lid             Quantity-distance class
+
+staked in each end. The mines are shipped and stored                  for field storage.............Not applicable
+
+in a sealed, desiccated container.. The container holds               DOT shipping class ...........Not applicable
+
+8 sleeves, each containing 5 mines, for a total of 40                 DOT markings ...................AMMUNITION,
+
+mines per container. The containers are palletized, with              ................................NON-EXPLOSIVE
+
+six containers per pallet.                                            US Coast Guard classi-
+
+                                                                      fication ..............................AMMUNITION,
+
+Functioning:                                                          ................................NON-EXPLOSIVE
+
+      There is no explosive functioning of this mine.                     Shelf life............................Indefinite
+                                                                      Storage Temperature
+
+Tabulated Data:                                                           Limits ................................Not applicable
+Mine, Antitank, Practice: M79:                                        Sleeve (empty):
+
+    Painting .............................Blue                            Color ................................Green
+    Marking .............................White                            Length ...............................24.48 in. (62.18 cm)
+    Height (max) .....................2.60 in. (6.60 cm)                  Width ................................5.63 in. (14.30 cm)
+    Diameter (max) .................4.77 in. (12.12 cm)                   Height................................3.50 in. (8.89 cm)
+    Weight...............................3.55 lb (1.61 kg)                Weight...............................2.12 lb (0.96 kg)
+    Material .............................Steel tubing                Pallet (loaded w/full containers):
+    Operational Tempera-                                                  Length ...............................55.50 in.
+
+        ture Limits.....................Not applicable                            ................................(140.97 cm)
+Explosive weight per                                                      Width ................................43.00 in.
+
+    mine ................................None (inert)                             ................................(109.22 cm)
+Physical security                                                         Height................................23.13 in. (58.75 cm)
+                                                                          Weight (approx incl
+    category ............................Nonsensitive
+DODAC ................................1345-K234                               dunnage) ......................1465 lb (665 kg)
+Packing arrangement .............5 mines per sleeve                       Cube ................................31.93 cu ft
+
+            ................................8 sleeves per con-                                                (0.90 cu m)
+            ................................ tainer                   References:
+
+            ................................6 containers per          TM 9-1345-210-23&P
+            ................................ pallet                   TM 9-1095-205-10
+NSN ................................1345-01-074-9370                  SC 1340/98-IL
+Shipping and Storage
+
+                                                                5-26
+
+
+---
+
+                                                                 TM 43-0001-36
+
+FUZE, MINE, ANTITANK: M603, INERT
+
+Type Classification:                                             Drawings:
+                                                                     Metal parts ........................73-9-55C
+     S 36841 (LCC-A)
+                                                                 Weight ................................1.52 oz
+Use:                                                             Dimensions:
+
+          The M603 inert fuze is an instantaneous,                   Height................................1.17 in.
+mechanical, pressure-type fuze used with the inert or                Max diam ..........................1.14 in.
+empty light antitank M7 series mine.                             Material ................................Aluminum and
+
+Description:                                                                                             Steel
+                                                                 Thread ................................None
+          The M603 inert fuze body contains a firing pin         Temperature Limits ................N/A
+assembly, a cover assembly, a safety fork (clip). The            Shipping and Storage Data:
+firing pin is actuated by a belleville spring.
+                                                                     Packing .............................Not packed sepa-
+Functioning:                                                                                             rately. Available
+                                                                                                         with M7A2 empty
+          A load of 140 to 240 pounds is required to                                                     or inert mines. (10
+depress the belleville spring and cause it to snap into                                                  sets in metal box)
+reverse, driving the firing pin into the dummy detonator.
+When assembled to the mine M7A2, this activating                     Hazard class/division and
+force is received directly from the movable pressure                     storage compatibility
+plate of the mine. No visible or audible functioning                     group ............................
+signal is provided.
+                                                                     UNO serial number............
+Tabulated Data:                                                      DOT shipping class ...........
+                                                                     DOT marking.....................
+Model number ........................M603 inert                  DODAC ................................1345-K210
+Type ................................AT, mech, inert             Painting ................................Unpainted
+                                                                 Marking ................................Metal stamped
+                                                                 Special Performance Data .....N/A
+
+                                                                 Reference:
+
+                                                                 TM 9-1345-203-12&P
+
+                                                           5-27
+
+
+---
+
+                                                                                          TM 43-0001-36
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+                          5-28
+
+
+---
+
+                                                                    TM 43-0001-36
+
+FUZE, MINE, ANTITANK, PRACTICE: M604
+
+Type Classification:                                                Type ................................Practice
+          S 36841 (LCC-A)                                           Weight:
+
+Use:                                                                    Loaded ..............................2.835 lb
+                                                                    Dimensions:
+          Fuze M604 is used to activate the M12, M12A1,
+and the M20 antitank practice mines.                                    Height................................1.723 in.
+                                                                        Max diam ..........................1.05 in.
+Description:                                                        Material Aluminum
+                                                                    Thread None
+          The fuze is an instantaneous, mechanical,                 Temperature Limits:
+pressure-actuated type. It consists of a steel body                     Firing:
+containing the firing pin assembly, cover assembly,
+primer and smoke charge and a safety fork (clip). It is                     Lower............................40°F
+issued separately and assembled to the mine in the                          Upper ...........................+125°F
+field. After the fuze has been fired it is replaced by a            Shipping and Storage Data:
+new one.                                                            Packing arrangement .............1 fuze in metal con-
+
+Functioning:                                                                                                tainers/180 con-
+                                                                                                            tainers (180 fuzes)
+          A minimum force of 140 to 240 pounds                                                              in wooden box
+depresses the pressure plate which causes the belleville                Weight...............................62 lb
+spring to snap into reverse, driving the firing pin into the            Dimensions .......................16-1/2 x 14-7/8 x
+primer. The primer ignites the smoke composition                                                            12-7/8 IN.
+which flashes emitting a cloud of smoke and creating a                  Cube ................................1.90 cu ft
+noise.                                                                  Hazard class/division and
+                                                                            storage compatibility
+Tabulated Data:                                                             group ............................1.4G
+                                                                        UNO serial number............0317
+Model number ........................M604                               UNO Proper shipping
+Drawings:                                                                   name ............................Fuzes, igniting
+                                                                        DOT shipping class ...........Class C Explosive
+    Assembly...........................73-9-86                          DOT marking.....................HANDLE
+                                                                                                            CAREFULLY
+                                                                                                            KEEP FIRE AWAY
+                                                                    DODAC ................................1345-K051
+                                                                    Painting ................................Blue
+                                                                    Marking ................................White
+
+                                                              5-29
+
+
+---
+
+                                                                         TM 43-0001-36
+
+Explosive Data:                                      Reference:
+                                                     TM 9-1345-203-12&P
+                               Weight
+
+Item        Type     AV                Metric
+
+M604 Fuze:
+
+M45 Primer PA #100    1.62 gr  105 mg
+                      2.96 gr  192 mg
+            Blk Pdr  262.3 gr
+                                17 gm
+Smk Chg Smk Comp
+
+                                               5-30
+
+
+---
+
+                                                                  TM 43-0001-36
+
+FUZE: M606, INERT
+
+Type Classification:                                              Drawings:
+          S 11756003 (LCC-A)                                          Metal Parts ........................8796140
+
+Use:                                                              Weight ................................Approx 2.4 lb
+                                                                  Dimensions:
+          M606 inert fuze is used with Mine Antitank,
+Training, M80.                                                        Height................................2.7 in.
+                                                                      Max diam ..........................10 in.
+Description:                                                      Material Plastic
+                                                                  Thread:
+          M606 inert fuze is identical to the M606 service            Fuze body .........................None
+fuze, except that it contains no explosives. The fuze                 Detonator holder
+body contains a pressure plate, a belleville spring, a
+setting knob, a step plate, a firing pin assembly, and a                  assembly ......................0.563-12 UNC-1A
+shipping plug.                                                    Temperature Limits ................N/A
+                                                                  Shipping and Storage Data:
+Functioning:
+          There is no explosive functioning of this fuze.             Packing arrangement ........As required
+                                                                  DODAC ................................Not listed - parts
+Tabulated Data:
+                                                                                                          stocked under NSN
+Model number ........................M606 Inert                                                           1345-00-077-2143
+Type ................................AT, Mech, Inert              Painting Olive Drab w/
+                                                                                                          Bronze Circles on
+                                                                                                          Top
+                                                                  Marking ................................White
+
+                                                                  Reference:
+
+                                                                  TM 9-1345-203-12&P
+
+                                                            5-31
+
+
+---
+
+                                                                                           TM 43-0001-36
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+                           5-32
+
+
+---
+
+                                                                               TM 43-0001-36
+
+          CHAPTER 6
+ACTIVATORS AND FUZES
+
+                6-1
+
+
+---
+
+                                                                                           TM 43-0001-36
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+                            6-2
+
+
+---
+
+                                                                 TM 43-0001-36
+
+ACTIVATOR, ANTITANK: M1 (M2)
+
+Type Classification:                                                       Precautions. Activator misfires resulting from
+                                                                 failure of the detonator or booster to fire, may be due to
+          M1 S 36841 (LCC-B)                                     excess cap sealing compound in the flash hole.
+          M2 S 36841 (LCC-A)                                     Examine the cavity in the body of the activator to be
+                                                                 sure it is free of foreign matter. At the same time, check
+Use:                                                             tip of firing device, especially the flash hole, to be sure it
+          Activators M1 and M2 are essentially detonator         is free of foreign matter.
+
+boosters and are used as adapters with any one of                Tabulated Data:
+several kinds of pull type or pull release type firing
+devices to supply antitank mines with a secondary fuze           Model numbers ......................M1, M2
+for antilift/booby trapping purposes.                            Type Detonator-booster
+                                                                 Drawings:
+Description:
+                                                                     Assembly:
+          The activator bodies are made of plastic and are               M1 ................................73-9-16
+threaded externally to fit the 3/4-inch secondary fuze                   M2 ................................7548048
+well of service antitank mines. The activators are
+threaded internally to accept service firing devices. The        Weight ................................0.04 lb
+detonator is cemented within the body and a booster              Dimensions:
+charge is contained in a cylindrical cup cemented to one
+end. Each activator is shipped with a closing plug and               Length:
+gasket.                                                                  M1 ................................2.14 in.
+                                                                         M2 ................................2.10 in.
+          Difference between models. Activator M1 is
+used with antitank mine M15 and activator M2 is used                 Diameter ...........................0.975 in.
+with nonmetallic antitank mine M19. Earlier M1                   Material ................................Plastic
+activators were made of black plastic, while newer types         Thread:
+are made of olive-drab plastic. The M1 activator uses
+tetryl for the booster while the M2 model uses RDX.                  External.............................0.75-12UNS-1A
+                                                                     Internal ..............................0.563-12UNC-2B
+Functioning:                                                     Temperature Limits ................N/A
+                                                                 Shipping and Storage Data:
+          The activator performs the function of an                  Packing - M1 & M2 ............1 per metal con-
+adapter, to fit the firing device to the mine. As a
+detonator booster, it increases the output of the                                                        tainer, 180 con-
+secondary firing devices, assuring detonation of the                                                     tainer (180 activa-
+mine main charge.                                                                                        tors) wooden box
+                                                                     Weight...............................54.5 lb
+                                                                     Dimensions .......................16-3/8 x 16-3/4 x
+                                                                                                         14-3/4 in.
+                                                                     Cube ................................2.34 cu ft
+                                                                     Hazard class/division and
+                                                                         storage compatibility
+                                                                         group ............................1.1B
+                                                                     UNO serial number............0106
+                                                                     UNO Proper shipping
+                                                                         name ............................Fuzes, detonating
+
+                                                            6-3
+
+
+---
+
+                                                                                                    TM 43-0001-36
+
+DOT shipping class ................Class A Explosive        Explosive Data:
+DOT marking .........................DETONATING
+                                                                                                    Weight
+                                        FUZES, HANDLE
+                                        CAREFULLY, DO            Item       Type           AV               Metric
+                                        NOT STORE OR        M1 Activator:
+                                        LOAD WITH ANY                         Igniter mix  2.32 gr  150 mg
+                                        HIGH                     M31          Lead azide   3.86 gr  250 mg
+                                        EXPLOSIVE                Detonator    Tetryl       4.12 gr  270 mg
+                                                                              Tetryl                2.3 mg
+DODAC:                                                           Booster                     36 gr
+    M1 ................................1345-K001            M2 Activator:     Igniter mix
+    M2 ................................1345-K003                              Lead azide   2.32 gr  150 mg
+                                                                 M31A1        Tetryl       3.86 gr  250 mg
+Painting:                                                        Detonator    RDX          4.12 gr  270 mg
+    M1:                                                                                             2.58 mg
+        Early ............................. Black                Booster                     40 gr
+        Current .........................Olive Drab
+    M2 ................................Olive Drab           Reference:
+
+Marking ................................Yellow/White
+
+                                                            TM 9-1345-203-12&P
+
+                                                       6-4
+
+
+---
+
+                                                                  TM 43-0001-36
+
+                          BURSTER, FIELD, INCENDIARY: M4
+
+Type Classification:                                              in the outer tube bursting the outer case of the M4
+          S 3520 (LCC-A)                                          Burster.
+
+Use:                                                              Tabulated Data:
+                                                                  Model number ........................M4
+The Burster, Field, Incendiary, M4 is used primarily to           Type ................................Incendiary
+ignite field improvised incendiary munitions.                     Drawings:
+
+Description:                                                          Assembly...........................D37-4-54
+                                                                  Weight ................................1.3 lb
+          The M4 Burster is a tubular steel container with        Dimensions:
+a cap at one end and a plug at the other, both secured
+by bayonet-type locking lugs. A small threaded hole in                Length ...............................12 in.
+the plug is closed with a shipping plug and provides an               Max diameter ....................1.75 in.
+access port for fuzing. A pyrotechnic ignition mixture,           Material ................................Steel
+tetryl pellets and a burster cup are contained in two             Thread ................................0.563-12NC-Spec
+concentric plastic tubes preassembled within the steel            Temperature Limits ................Dependent on fuz-
+burster tube. The bayonet-type locking design of the
+cap and plug permit the joining of two or more of the                                                     ing type
+bursters, as required. Both cap and plug are sealed by            Shipping and Storage Data:
+means of a preformed packing.
+                                                                      Packing .............................20 per fiber con-
+Functioning:                                                                                              tainer in wooden
+                                                                                                          box
+          The burster can be initiated by a fuze, blasting
+cap, detonating cord or any standard booby trap firing                Weight...............................50 lb
+device. This initiates the explosive material in the                  Dimensions .......................14-1/2 x 14-7/8 x
+burster cup which detonates the tetryl pellets in the inner
+tube. The tetryl charge sets off the pyrotechnic mixture                                                  10-7/8 in.
+                                                                      Cube ................................1.36 cu ft
+                                                                      Packing - Supplemental.....36 wooden boxes
+
+                                                                                                          palletized
+                                                                      Weight...............................2650 lb
+                                                                      Dimensions .......................49 x 44-1/2 x 43-1/2
+
+                                                                                                          in.
+                                                                      Cube ................................54.4 cu ft
+
+                                                             6-5
+
+
+---
+
+                                                                                                 TM 43-0001-36
+
+Hazard class/division and                              Explosive Data:
+  storage compatibility
+  group ........................ 1.1G                                                            Weight
+
+UNO serial number ...... 0043                               Item        Type           AV                Metric
+UNO Proper shipping
+                                                       M4 Burster:        Tetryl       1227 gr   79.65 gm
+  name ........................ Bursters                    Explosive     Igniter mix     0. lb    230 gm
+DOT shipping class ...... Class A Explosive                 Incendiary
+DOT marking ............... BURSTERS
+                                                       Reference:
+                                (EXPLOSIVE),           TM 9-1345-203-12&P
+                                HANDLE
+                                CAREFULLY
+DODAC........................ 1345-K010
+Painting........................ Olive Drab
+Marking........................ Yellow and Black
+
+                                                  6-6
+
+
+---
+
+                                                                  TM 43-0001-36
+
+FUZE, MINE, COMBINATION: M6A1
+
+Type Classification:                                              to the mine as issued and protected by a hexagonal
+                                                                  shipping cap. Firing mechanism is packed separately in
+          OBS 11756003                                            the mine packing box. Completely assembled fuzes
+                                                                  may also be requisitioned separately.
+Use:
+                                                                  Functioning:
+          Fuze M6A1 is used to activate the M2 series of
+antipersonnel mines.                                                        The firing mechanism is activated by a force of
+                                                                  8 to 20 pounds on any of the prongs, or a pull of 3 to 10
+Description:                                                      pounds on the release pin. Either type of action will
+                                                                  cause the firing pin to strike the primer which initiates
+          Fuze M6A1 is of the combination type, with a            the igniter charge.
+three-pronged pressure firing device at the top and a
+pull wire release-pin ring at the side. The fuze body             Tabulated Data:
+houses a spring loaded firing pin and a cocking
+mechanism. The igniter assembly contains a                        Model number ........................M6A1
+percussion cap primer and a black powder igniter. The             Type ................................Mechanical combi-
+firing mechanism consists of a cylindrical metal case
+containing a trigger pin, a release pin and a firing pin,                                                 nation
+each fitted with a coil spring. Two safety pins render the        Drawings:
+fuze safe during shipment and handling. A cotter pin
+passes through the end of the release pin and bears                   Assembly...........................73-9-13
+against the body of the fuze. A second pin, called the            Weight ................................Approx 6 oz
+safety firing pin, passes through the end of the firing pin       Dimensions:
+that protrudes above the top of the fuze. The base
+assembly containing the primer and igniter is assembled               Height (incl prongs) ...........6.62 in.
+                                                                      Max diameter ....................1.103 in.
+                                                                  Material ................................Zinc alloy
+                                                                  Thread ................................0.563-12 UNC-1A
+
+                                                             6-7
+
+
+---
+
+                                                                                                            TM 43-0001-36
+
+Temperature Limits:                                                          UNO Proper shipping
+  Firing:                                                                      name ........................ Fuzes, detonating
+     Lower........................................ -40°F
+     Upper........................................ + 125°F                   DOT shipping class ...... Class C Explosive
+  Storage:                                                                   DOT marking ............... PERCUSSION
+     Lower........................................ -60°F
+     Upper........................................ +160°F                                                    FUZES, HANDLE
+                                                                                                             CAREFULLY
+Shipping and Storage Data:                                                   DODAC........................ 1345-K053
+  Packing........................................ 3 fuzes/container, 4       Painting........................ Olive Drab
+                                                container/water-             Explosive Data:
+                                                proof container (48
+                                                fuzes) in wooden                                            Weight
+                                                box
+                                                                             Item        Type        AV                         Metric
+Weight ............................................ 32.8 lb
+Dimensions ..................................... 22-5/8 x 10-3/8 x           M6A1 Fuze:
+9-3/8 in.
+Cube ............................................... 1.29 cu ft              Perc primer #3 Western
+Hazard class/division and
+                                                                             Igniter     Blk Pdr     10 gr                      648 mg
+     storage compatibility
+     group ........................................ 1.4D                     Reference:
+UNO serial number ......................... 0410
+                                                                             TM 9-1345-203-12&P
+
+                                                                        6-8
+
+
+---
+
+                                                                  TM 43-0001-36
+
+FUZE, MINE, COMBINATION: M7A1
+
+Type Classification:                                              Tabulated Data:
+                                                                  Model number ........................M7A1
+          OBS 11756003                                            Type ................................Mechanical combi-
+
+Use:                                                                                                      nation
+                                                                  Drawings:
+          Fuze M7A1 is used to activate the M3 anti-
+personnel mine.                                                       Assembly...........................73-9-13-7
+                                                                  Weight ................................Approx 6 oz
+Description:                                                      Dimensions:
+
+          Fuze M7A1 is of the combination type, with a                Height (incl prongs) ...........6.37 in.
+three-pronged pressure firing device at the top and a                 Max diameter ....................1.103 in.
+pull wire release-pin ring at the side. The fuze body             Material ................................Zinc alloy
+houses a spring loaded firing pin and a cocking                   Thread ................................0.563-12UNC-1A
+mechanism. The fuze base contains a primer and a                  Temperature Limits:
+crimped-on non-electric blasting cap. The firing                      Firing:
+mechanism consists of a cylindrical metal case
+containing a trigger pin, a release pin, and a firing pin,                Lower............................-40°F
+each fitted with a coil spring. Two safety pins render the                Upper ...........................+ 125°F
+fuze safe during shipment and handling. A cotter pin                  Storage:
+passes through the end of the release pin and bears                       Lower............................-60°F
+against the body of the fuze. A second pin, called the                    Upper ...........................+ 160°F
+safety firing pin, passes through the end of the firing pin       Shipping and Storage Data:
+that protrudes above the top of the fuze. The fuze is                 Packing .............................3 fuzes/cardboard
+shipped as a complete assembly, consisting of a firing
+mechanism and a primped base, with a crimped-on                                                           carton, 4 carton/
+blasting cap. When supplied with the M3 mine, the fuze                                                    w/waterproof pack-
+is isolated, but packed within the same box. Fuzes are                                                    age, 4 package (48
+also packed for separate issue.                                                                           fuzes) wooden box
+                                                                      Weight...............................33.0 lb
+Functioning:                                                          Dimensions .......................22-5/8 x 10-3/8 x 9-
+                                                                                                          3/8 in.
+          The firing mechanism is activated by a force of             Cube 1.26 cu ft
+8 to 20 pounds on any of the prongs or a pull of 3 to 10              Hazard class/division and
+pounds on the release pin. Either type of action will                     storage compatibility
+cause the firing pin to strike the primer which initiates                 group ............................(04) 1.2D
+the non-electric blasting cap.                                        UNO serial number............0409
+                                                                      UNO Proper shipping
+                                                                          name ............................Fuzes, detonating
+                                                                      DOT shipping class ...........Class C Explosive
+                                                                      DOT marking.....................COMBINATION
+                                                                                                          FUZES, HANDLE
+                                                                                                          CAREFULLY
+                                                                  DODAC ................................1345-K054
+                                                                  Painting ................................Olive Drab
+
+                                                             6-9
+
+
+---
+
+                                                                      TM 43-0001-36
+
+Explosive Data:                                   Reference:
+                                                  TM 9-1345-203-12&P
+                            Weight
+
+Item             Type   AV          Metric
+
+M7A1 Fuze:
+
+Perc Primer #3 Western
+
+Blasting Cap Tp I
+
+                                            6-10
+
+
+---
+
+                                                                  TM 43-0001-36
+
+FUZE, MINE, COMBINATION: M10 (M10A1, M10A2)
+
+Type Classification:                                              fuze safe during shipment and handling. A cotter pin
+                                                                  passes through the end of the release pin and bears
+          C 6558 (LCC-S)                                          against the body of the fuze. A second pin, called the
+                                                                  safety firing pin, passes through the end of the firing pin
+Use:                                                              that protrudes above the top of the fuze. The fuze
+                                                                  igniter assemblies (primers, safety fuses, delays, black
+          Fuze, Mine, Combination, M10 and M1OA1 are              powder, or smoke charges) are replaceable. The fuzes
+used to activate the M8 antipersonnel practice mine.              may be used many times by replacing the fired igniter
+M10A2 is used to activate the M8A1 antipersonnel                  assembly and recocking the firing mechanism. All
+practice mine.                                                    models are packed with the appropriate M8 mine
+                                                                  models. The M10A1 fuze is also packed for separate
+Description:                                                      issue.
+
+          The M10 series fuzes are of the combination                       Difference between models. Fuzes M10 and
+type with a three-pronged pressure firing device at the           MlOA1 use a primer to fire a delay safety fuse which
+top and a pull wire release pin ring at the side. The fuze        ignites 15 grains of black powder. The M10 and M1OA1
+body houses a spring-loaded firing pin and a cocking              fuzes are interchangeable; their principal difference
+mechanism. The base contains a primer and either a                being in the primer. The M39A1 primer used with the
+length of safety fuze or a delay composition charge. The          M10A1 fuze provides more reliable functioning than the
+firing mechanism consists of a cylindrical metal case             MK5 primer used with the M10 fuze. The M1OA2 fuze
+containing a trigger pin, a release pin, and a firing pin,        uses the M39A1 primer and two delay composition
+each fitted with a coil spring. Two safety pins render the        elements to ignite a 725 mg smoke charge.
+
+                                                            6-11
+
+
+---
+
+                                                                                                         TM 43-0001-36
+
+Functioning:                                                     Shipping and Storage Data:
+                                                                     Packing (M10A1)...............4 fuzes/metal con-
+          The firing mechanism is activated by a force of                                                tainer, 60 contain-
+8 to 20 pounds on any of the prongs or a pull of 3 to 10                                                 ers (240 fuzes) in
+pounds on the release pin. Either type of action will                                                    wooden box
+cause the firing pin to strike the primer which initiates            Weight...............................125 lb
+the delay elements. After 4 to 5 seconds these set off               Dimensions .......................22 x 17-1/8 x 18 in.
+the igniter charge which, in turn, initiates the mine                Cube 4.23 cu ft
+explosive train.                                                     Hazard class/division and
+                                                                         storage compatibility
+Tabulated Data:                                                          group ............................(04) 1.2D
+                                                                     UNO serial number............0409
+Model numbers ......................M10, M10A1,                      UNO Proper shipping
+                                        M10A2                            name ............................Fuzes, detonating
+                                                                     DOT shipping class ...........Class C Explosive
+Type ................................Mechanical combi-               DOT marking.....................COMBINATION
+                                        nation                                                           FUZES, HANDLE
+                                                                                                         CAREFULLY
+Drawings:
+    Assembly:                                                    DODAC ................................1345-K056
+        M10 ..............................73-9-25                Painting ................................Olive Drab
+        M10A1 .......................... 73-9-25
+        M10A2 .......................... 8866643                 Explosive Data:
+
+Weight ................................Approximately 6 oz                                                Weight
+Dimensions:
+                                                                 Item             Type    AV                     Metric
+    Height (incl prongs) ...........6.875 in.
+    Maximum diameter............1.103 in.                        M10 Fuze:
+Material ................................Zinc alloy
+Thread ................................0.563-12UNC-1A            MK5 primer Primer mix 0.4 gr                    26 mg
+Temperature Limits:
+    Firing:                                                      4.5-inch delaySafe fuse
+
+        Lower............................40°F                    Igniter          Black powder 14.98 gr  972 mg
+        Upper ...........................+125°F
+    Storage:                                                     M1OA1 Fuze:
+        Lower............................-60°F
+        Upper ...........................+160°F                  M39A1 primer             Primer mix             0.4 gr
+
+                                                                 26 mg
+
+                                                                 4.5-inch delaySafe fuse
+
+                                                                 Igniter          Black powder 14.98 gr  972 mg
+
+                                                                 M10A2 Fuze:
+
+                                                                 M39A1 primer             Primer mix             0.4 gr
+
+                                                                 26 mg
+
+                                                                 Delay            Type I comp 1.5 gr     100 mg
+
+                                                                 Delay            Type III comp 10 gr    650 mg
+
+                                                                 Igniter          Smoke comp 11.2 gr     725 mg
+
+                                                                 Reference:
+
+                                                                 TM 9-1345-203-12&P
+
+                                                           6-12
+
+
+---
+
+                                                                                                TM 43-0001-36
+
+FUZE. MINE. AT: M603
+
+Type Classification:                                       Material ................................Aluminum & Steel
+                                                           Thread ................................None
+          S 36841 (LCC-A)                                  Temperature Limits:
+
+Use:                                                           Firing:
+                                                                   Lower............................-40°F
+          The M603 fuze is an instantaneous mechanical             Upper ...........................+ 125°F
+pressure-type fuze and is used with light antitank mine
+M7A2 and heavy antitank mine M15 and chemical agent            Storage:
+mine M23.                                                          Lower............................-60°F
+                                                                   Upper ...........................+ 160°F
+Description:
+                                                           Shipping and Storage Data:
+          The M603 fuze body contains a firing pin             Packing .............................1 fuze in metal con-
+assembly, a cover assembly, a safety fork (clip), and a                                            tainer, 180 contain-
+detonator. The firing pin is actuated by a belleville                                              ers (180 fuzes) in
+spring.                                                                                            wooden box
+                                                               Weight...............................71.6 lb
+Functioning:                                                   Hazard class/division and
+                                                                   storage compatibility
+          A load of 140 to 240 pounds is required to               group ............................1.4D
+depress the belleville spring and cause it to snap into        UNO serial number............0410
+reverse, driving the firing pin into the detonator. When       UNO Proper shipping
+assembled to the mine M15, a total force of 350 to 750             name ............................Fuzes, detonating
+pounds is needed on the pressure plate to overcome the         DOT shipping class ...........Class C Explosive
+combined resistance of the belleville springs in the mine      DOT marking.....................PERCUSSION
+and the fuze, and activate the fuze.                                                               FUZES, HANDLE
+                                                                                                   CAREFULLY
+Tabulated Data:
+Model number ........................M603                  DODAC ................................1345-K050
+Type ................................Antitank              Painting ................................Unpainted
+Drawings:                                                  Marking ................................Metal stamped
+
+    Assembly...........................73-9-55             Explosive Data:
+Weight ................................1.56 oz
+Dimensions:                                                                                     Weight
+
+    Height................................1.17 in.              Item        Type       AV               Metric
+    Max diameter ....................1.14 in.                               PA #100
+                                                           M45                         1.85 gr  120 mg
+                                                           Detonator        Lead Az
+                                                                            RDX
+                                                                                       4.24 gr  275 mg
+                                                                                        1.85 r  120 mg
+
+                                                           Reference:
+
+                                                                   TM 9-1345-203-12&P
+                                                           6-13
+
+
+---
+
+                                                                                           TM 43-0001-36
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+                           6-14
+
+
+---
+
+                                                                TM 43-0001-36
+
+FUZE, MINE, COMBINATION: M605
+
+Type Classification:                                            charge. Two safety pins render the fuze safe during
+                                                                shipment and handling. A cotter pin passes through the
+          S 34783 (LCC-A)                                       end of the release pin and bears against the body of the
+                                                                fuze. A second cotter pin passes through the end of the
+Use:                                                            firing pin, between the prongs. An interlocking pin
+                                                                between the safety pins provides additional safety.
+          The M605 fuze is used with the M16 series             Fuzes are shipped with the M16 mines or as separate
+antipersonnel mines.                                            issue. A hexagonal shipping plug closes the fuze well of
+                                                                the mine. A fuzing wrench M25 is issued with the mine.
+Description:
+                                                                Functioning:
+          The M605 fuze is of the combination type, with
+a three-pronged pressure firing mechanism at the top                      The M605 fuze is functioned either by a 3 to 15
+and a pull wire release pin ring at the side. The firing        pound pull on a trip wire or a force of 8 to 45 pounds on
+mechanism is housed in a cylindrical, metal case which          one or more of the prongs protruding from the top of the
+contains the cocking mechanism and a trigger pin, a             fuze. This pull, or push, releases the firing pin which
+release pin, and a firing pin, each fitted with a coil          strikes the primer, igniting the delay charge. The delay
+spring. The base or loading assembly contains a                 allows
+primer, a delay charge, a relay charge, and an igniter
+
+                                                          6-15
+
+
+---
+
+time for persons stepping on prongs to move from                                                                          TM 43-0001-36
+directly above the mine, where their presence might
+inhibit the proper functioning of the mine. The delay                  Weight...............................125 lb
+charge ignites the relay charge which, in turn, sets off               Dimensions .......................22 x 17-1/8 x 18 in.
+the flash igniter charge. This charge ignites the                      Cube ................................4.09 cu ft
+expelling charge, the first element of the mine firing                 Hazard class/division and
+train.
+                                                                           storage compatibility
+Tabulated Data:                                                            group ............................1.4D
+                                                                       UNO serial number............0410
+Model number ........................M605                              UNO Proper shipping
+Type ................................Combination                           name ............................Fuzes, detonating
+Drawings:                                                              DOT shipping class ...........Class C Explosive
+                                                                       DOT marking.....................COMBINATION
+    Assembly...........................7548284
+Weight ................................6 oz                                                                FUZES, HANDLE
+Dimensions:                                                                                                CAREFULLY
+                                                                   DODAC ................................1345-K058
+    Height................................7.125 in.                Painting ................................Olive Drab
+    Max diameter ....................1.75 in.                      Marking ................................Yellow
+Material ................................Zinc alloy
+Thread ................................0.625-11UNC-1A              Explosive Data:
+Temperature Limits:
+    Firing:                                                                                              Weight
+
+        Lower............................-40°F                          Item        Type        AV               Metric
+        Upper ...........................+ 125°F
+    Storage:                                                       M605 Fuze:       PA-101      0.34 gr   22 mg
+        Lower............................-60°F                          M42 Prim    Tp II Comp   7.3 gr  475 mg
+        Upper ...........................+160°F                         Delay       A5 Blk Pdr    10 gr  648 mg
+Shipping and Storage Data:                                              Flash Ign
+    Packing .............................4 fuzes/metal box,
+                                                                   Reference:
+                                        60 boxes (240
+                                        fuzes) in wooden           TM 9-1345-203-12&P
+                                        box
+
+                                                             6-16
+
+
+---
+
+                                                                                                                     TM 43-0001-36
+
+FUZE, MINE, ANTITANK, NONMETALLIC: M606
+
+Type Classification:                                              snap into reverse, driving the firing pin into the
+                                                                  detonator.
+          S 37119 (LCC-A)
+                                                                  Tabulated Data:
+Use:
+                                                                  Model number ........................M606          UNC-1A
+          Fuze M606 is a mechanical pressure-type and is          Type ................................AT, NM
+used to initiate M19 nonmetallic antitank mine.                   Drawings:
+
+Description:                                                          Assembly...........................9220396
+                                                                  Weight ................................2.43 lb
+          Fuze M606 is a flat, round disk, constructed of         Dimensions:
+plastic material to avoid discovery by magnetic mine
+detectors. The fuze body contains a pressure plate, two               Height................................2.7 in.
+belleville springs, a setting knob, a step plate, a firing            Max diameter ....................10 in.
+pin assembly, and a detonator holder assembly.                    Material ................................Plastic
+                                                                  Thread:
+Functioning:                                                          Fuze body .........................None
+                                                                      Detonator holder assy........0.563-12
+          After the safety clip has been removed and the          Temperature Limits:
+setting knob turned to the armed position, a force of 300             Firing:
+to 500 pounds on the pressure plate will depress the
+upper belleville spring, and cause the lower spring to                    Lower............................-40°F
+                                                                          Upper ...........................+ 125°F
+                                                                      Storage:
+                                                                          Lower............................-60°F
+                                                                          Upper ...........................+160°F
+
+                                                            6-17
+
+
+---
+
+                                                                                                                       TM 43-0001-36
+
+Shipping and Storage Data:                                          Marking ................................White
+    Packing .............................Not separate issue-
+                                        packed w/M19                Explosive Data:
+                                        mine
+    Hazard class/division and                                                                                          Weight
+        storage compatibility
+        group ............................1.1D                           Item        Type                          AV          Metric
+    UNO serial number............0137
+    UNO Proper shipping                                             M606 Fuze:       PA #100  1.62 gr                  105 mg
+        name ............................Mines                           M50 Det     Lead Az  3.85 gr                  250 mg
+    DOT shipping class ...........Class A Explosive                                  RDX      7.85 gr                  510 mg
+    DOT marking.....................EXPLOSIVE
+                                        MINES                       Reference:
+
+DODAC ................................1345-K250                     TM 9-1345-203-12&P
+Painting ................................Olive Drab
+
+                                                              6-18
+
+
+---
+
+                                                                 TM 43-0001-36
+
+FUZE, MINE, ANTITANK: M607
+
+Type Classification:                                             frangible plastic collar. The base is threaded to fit the
+          S 37246 (LCC-A)                                        mine and is shipped with a closure assembly screwed in
+                                                                 place for protection. Fuze wrench M26 fits the closure
+Use:                                                             assembly. A safety band and strap prevents movement
+          Fuze M607 is used with antitank mine M21.              of the fuze pressure ring. This is secured with a cotter
+                                                                 pin.
+Description:
+          The M607 fuze incorporates a belleville spring-        Functioning:
+
+loaded firing pin, a tilt rod, a pressure ring, and a                      Fuze M607 is a pressure type fuze that can also
+                                                                 be activated by side thrust loads, when so adapted, by
+                                                                 the addition of an extension rod.
+
+                                                           6-19
+
+
+---
+
+                                                                                                       TM 43-0001-36
+
+The plastic collar within the fuze is designed to shatter              Storage:
+under vertical loading of the pressure ring, or from side                  Lower............................-60°F
+load effects on the tilt rod. A 290 pound vertical load                    Upper ...........................+160°F
+with 1/8-inch travel, or a horizontal force on the tilt rod
+greater than 3.75 pounds acting through approximately              Shipping and Storage Data:
+20 degrees, is required to shatter the plastic collar.                 Packing .............................Packed with M21
+Once the collar is broken, continuing force from either                                                    AT Mine (not
+source will be transmitted through the tilt rod to the                                                     issued as separate
+belleville spring, which will drive the firing pin into the                                                item)
+M46 detonator. This, in turn, will function the mine.                  Hazard class/division and
+                                                                           storage compatibility
+Tabulated Data:                                                            group ............................1.1D
+                                                                       UNO serial number............0137
+Model number ........................M607                              UNO Proper shipping
+Type ................................Mech, AT                              name ............................Mines
+Drawings:                                                              DOT shipping class ...........Class A Explosive
+                                                                       DOT marking.....................EXPLOSIVE
+    Assembly...........................8833783                                 ................................MINES
+Weight ................................8 oz
+Dimensions:                                                        DODAC ................................1345-K181
+                                                                   Painting ................................Olive Drab
+    Height................................4 in.                    Marking ................................Yellow
+    Max diameter ....................2.8 in.
+Material Aluminum                                                  Explosive Data:
+Thread size ............................0.75-12NS-2A
+Temperature Limits:                                                                                    Weight
+    Firing:
+                                                                        Item        Type      AV               Metric
+        Lower............................-40°F                     M46 Det
+        Upper ...........................+ 125°F                                    NOL #130  1.62 gr  105 mg
+                                                                                    Lead Az
+                                                                                    RDX       4.31 gr  280 mg
+
+                                                                                              2.24 gr  145 mg
+
+                                                                   Reference:
+
+                                                                   TM 9-1345-203-12&P
+
+                                                             6-20
+
+
+---
+
+                                                                 TM 43-0001-36
+
+FUZE, MINE, ANTITANK: M608
+
+Type Classification:                                             and allows the actuating load to be transferred to the
+                                                                 firing mechanism.
+          S 5736 (LCC-A)
+          (Has not been produced and is not fielded)             Functioning:
+
+Use:                                                                       A load of 300-600 pounds applied for 250-450
+                                                                 milliseconds is required to function the M608 fuze, when
+          Fuze M608 is a direct contact, pressure-               assembled to the M15 mine.
+actuated fuze, containing a delay feature to provide
+resistance to blast-type countermeasures. It is used with        Tabulated Data:
+antitank mine M6A2 and M15, and with chemical agent              Model number ........................M608
+mine M23. It is suitable for use on land or in water, in         Type ................................Antitank
+temperate or tropical environments.                              Drawings:
+
+Description:                                                         Assembly...........................9204009
+                                                                 Weight ................................1 lb
+          The fuze is constructed primarily of aluminum          Dimensions:
+and stainless steel and consists of a fuze assembly with
+an integral arming cap. The fuze utilizes an out-of-line             Height................................3.5 in.
+detonator system for safety and a hydraulic system to                Max diameter ....................3.25 in.
+provide the delay. A spring-loaded firing pin, an M55            Material ................................Aluminum
+detonator, and a lead charge comprise the firing train.          Thread ................................2.313-14NS
+The fuze is threaded into the mine fuze well and                 Temperature Limits:
+secured by tightening the locking ring. The fuze is                  Firing:
+armed by removing the pull pin which allows the arming
+knob to be rotated from Safe to Armed position. This                     Lower............................-40°F
+rotation alines the input plunger with the input piston,                 Upper ...........................+ 125°F
+                                                                     Storage:
+                                                                         Lower............................-60°F
+                                                                         Upper ...........................+ 160°F
+
+                                                           6-21
+
+
+---
+
+Shipping and Storage Data:                                                                                               TM 43-0001-36
+    Packing .............................1 fuze/carton in
+                                        barrier bag. 45               DOT shipping class ...........Class C Explosive
+                                        bags (45 fuzes) in            DOT marking.....................PERCUSSION
+                                        wooden box
+    Weight...............................64 lb                                                            FUZES, HANDLE
+    Dimensions .......................23-5/8 x 15 x 14 in.                                                CAREFULLY
+    Cube ................................2.9 cu ft                DODAC ................................1345-K061
+    Hazard class/division and                                     Painting ................................Olive Drab
+        storage compatibility                                     Marking ................................White
+        group ............................1.4D
+    UNO serial number............0410                             Reference:
+    UNO Proper shipping
+        name ............................Fuzes, detonating        TM 9-1345-203-12&P
+
+                                                            6-22
+
+
+---
+
+                                                                    TM 43-0001-36
+
+FUZE, MINE: M624
+
+Type Classification:                                                Functioning:
+
+          Not available (LCC-A)                                               Fuze M624 is a pressure type fuze that can also
+                                                                    be activated by side thrust loads, when so adapted, by
+Use:                                                                the addition of an extension rod. The plastic collar
+                                                                    within the fuze is designed to shatter under vertical
+          Fuze M624 is used with Antitank Mine M15.                 loading of the pressure ring, or from side load effects on
+                                                                    the tilt rod. A 290 pound vertical load with 1/8-inch
+Description:                                                        travel, or a horizontal force on the tilt rod greater than
+                                                                    3.75 pounds acting through approximately 20 degrees,
+          The M624 fuze consists of the M607 fuze                   is required to shatter the plastic collar. Once the collar
+connected to an adaptor which is loaded with a delay                is broken, continuing force from either source will be
+element. The adaptor is designed to screw into the                  transmitted through the tilt rod to the belleville spring,
+mine fuze well. The M624 fuze incorporates a belleville             which will drive the firing pin into the PA523 detonator.
+spring-loaded firing pin, a tilt rod, a pressure ring, and a        This will activate the delay element which in turn will
+frangible plastic collar. A safety band and stop prevents           initiate the mine.
+movement of the fuze pressure ring. This is secured
+with a safety pin.
+
+                                                              6-23
+
+
+---
+
+                                                                                                             TM 43-0001-36
+
+Tabulated Data:                                                          Cube ................................1.0 cu ft
+Model number ........................M624                                Drawing number ................5581378
+Type ................................Mech, AT                            Hazard class/division.........1.4
+Drawings:                                                                Storage compatibility
+
+    Assembly...........................12546032                              group ............................S
+Weight ................................1.0 lb                            DOT shipping class ...........C
+Dimensions:                                                              DOT designation ...............DETONATING
+
+    Height................................4.7 in.                                                            FUZES, CLASS C
+    Max diameter ....................2.83 in.                                                                EXPLOSIVE,
+    Length of extension rod .....24.4 in.                                                                    HANDLE
+Material ................................Aluminum alloy                                                      CAREFULLY
+Thread Size ...........................2.3125-14 UNS-1A              DODAC ................................1345-K068
+Temperature Limits:                                                  UNO serial number ................0367
+    Operational:                                                     UNO Proper shipping
+                                                                         name ................................Fuzes, detonating
+        Lower............................-40°C (-400F)               Painting:
+        Upper ...........................+52°C (+ 1250F)                 M607 fuze .........................Olive drab
+    Storage:                                                             Adaptor .............................Anodized black
+        Lower............................-51°C (-600F)                   Marking .............................Yellow
+        Upper ...........................+71°C (+1600F)
+Shipping and Storage Data:                                           Explosive Data:
+    Packing .............................One fuze per fiber
+                                                                                                             Weight
+                                        board sleeve, 3
+                                        fiber board sleeves          Item              Type         AV               Metric
+                                        per M19A1 metal
+                                        container, four              Fuze, Mine: M624
+                                        M19A1 containers
+                                        per wirebound box.           PA523 Detonator:
+                                        Three extension
+                                        rod pieces (1 rod)           Primer            Prim Mix                        92 mg
+                                        placed in a foil bag,                                                248 to 280 mg
+                                        3 foil bags put on           Intermediate Lead Az
+                                        top of the 3 fuzes in                                                        145 mg
+                                        each M19A1 metal             Charge
+                                        container. There
+                                        are a total of 12            Lower ChargeRDX
+                                        fuzes and 12 three
+                                        piece extension              Delay Element:
+                                        rods per wirebound
+                                        box.                         M42 Primer PA-101
+Packing box:
+    Weight...............................42 lb                                         Primer comp  0.31 to
+    Dimensions (in.) ................17-3/8 x 11-1/2 x                                              0.35 gr
+                                        8-1/8
+                                                                     Delay Comp        Barium                630 mg
+                                                                     Relay             Chromate
+                                                                                       Boron                  70 mg
+                                                                                       Lead Az               300 mg
+                                                                                       RDX                   275 mg
+
+                                                                     Reference:
+
+                                                                     TM 9-1345-203-12&P
+                                                                     TM 9-1345-203-34&P
+
+                                                               6-24
+
+
+---
+
+                                                                                        TM 43-0001-36
+
+                   CHAPTER 7
+PROJECTILES WITH ANTITANK MINES
+
+                          7-1
+
+
+---
+
+                                                                                           TM 43-0001-36
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+                            7-2
+
+
+---
+
+                                                                                                                            TM 43-0001-36
+      PROJECTILE, 155 MILLIMETER: AT, M718 AND M718A1 WITH ANTITANK MINES
+
+Type Classification:                                             mines that are ejected during projectile flight by an
+          M718 - Standard, Logistic Control Code A               expulsion charge. The rotating bands are protected
+          M718A1 - Standard, Logistic Control Code A             from damage during transportation and handling by
+          MSR 04866010                                           plastic grommets.
+
+Use:                                                             Functioning:
+
+          These projectiles are used to deliver antitank                   When the projectile is fired, the primer ignites
+mines in front of enemy armored forces to deny/delay             the propelling charge which propels the round to the
+access to a particular area for a specific time period.          target area. The MTSQ fuze functions at its pre-set
+The "L" means "Long" for the long time until mine self-          time setting, initiating the expulsion charge, which ejects
+destructs (48 hours, nominal).                                   the mines from the projectile. The mines (having been
+                                                                 subjected to the required set-back, rotational, and set-
+Description:                                                     forward forces) are armed immediately or soon after
+                                                                 coming to rest on the ground, depending upon projectile
+          The projectiles are of the separate loading type       model. Upon sensing the proximity of tanks, the mines
+(the fuzes, propelling charges, and primers are handled          initiate. If the mines are not initiated during their
+separately). The projectiles are shipped from the                intended life span, a circuit is activated causing the
+loading plant with fusible lifting plugs to facilitate           mines to self-destruct. A percentage of the mines in
+handling, and as a safety measure. Before firing, the            each projectile has an antidisturbance mechanism to
+lifting plugs must be replaced with M577 series, MTSQ            discourage -attempts at mine field clearing.
+fuzes. The projectiles contain a payload of antitank
+
+                                                            7-3
+
+
+---
+
+Difference Between Models:                                                                                                  TM 43-0001-36
+
+          The arming time of the mines in Projectile                     Self-destruct time ..............48 hr (nominal)
+M718A1 is "INSTANTANEOUS" after impact. This                         Components:
+achieves the capability of using the mines tactically in
+combat operations. The arming time of the mines in                       Propelling charges.............M3A1, M4A2,
+Projectile M718 Carriers is 58 seconds nominal.                                  ................................M119, M119A1,
+Deployment is for the lay- ing of mine fields for denying                        ................................M119A2
+access to critical areas. These projectiles will not be
+resupplied when current assets are no longer available.                  Primers..............................MK2A4, M82
+                                                                         Fuze MTSQ, M577
+Tabulated Data:                                                      Temperature Limits:
+                                                                         Firing:
+Projectile:
+    Type Antitank (AT)                                                       Upper limit ....................-25°F (-32C)
+    Weight...............................103 lb with fuze                    Lower limit ....................+145F (+63C)
+    Length (with lifting                                                 Storage:
+        plug) .............................33.9 in.                          Lower limit ....................-60°F (-51C)
+    Body material ....................Forged steel                           Upper limit ....................+160°F (+71°C)
+    Color ................................Olive drab with yel-       Packing Data..........................This mine is not
+            ................................low markings
+    Marking drawing ................9277852 (M718)                               ................................available as a sup-
+            ................................11786215                             ................................ply item. See sup-
+            ................................(M718A1)                             ................................ply catalog, 155mm
+                                                                                 ................................Projectile, AT:
+Filler and Weight:                                                               ................................M718 and M718A1.
+    Number of mines...............9                                  Shipping and Storage Data:
+    Explosive ..........................PBX 0280 (95%                    Hazard class/division and
+            ................................RDX, 5% Estane)                  storage compatibility
+    Explosive weight/mine.......1.26 lb                                      group ............................1.1D
+    Expulsion charge...............M10 propellant                        UNO serial number............0168
+            ................................(58.0 ± 1 gr)                UNO Proper shipping
+                                                                             name ............................Projectiles
+Mines:                                                                   DODAC .............................1320-D503 (M718)
+    Air drop time......................8 sec (nominal)                           ................................1320-D515
+    Antidisturbance                                                              ................................(M718A1)
+        mixture .........................2 mines (randomly
+            ................................positioned in each       References:
+            ................................projectile)
+                                                                     TM 9-1025-200-12
+                                                                     TM 9-1025-211-10
+                                                                     TM 9-1300-251-20
+                                                                     TM 9-1300-251-34
+                                                                     TM 9-2350-311-10
+                                                                     TM 9-2350-314-10
+
+                                                                7-4
+
+
+---
+
+                                                                                                                      TM 43-0001-36
+PROJECTILE, 155 MILLIMETER: AT, M741 AND M741A1 WITH ANTITANK MINES
+
+Type Classification:                                             separately). The projectiles are shipped from the
+          M741 - Standard, Logistic Control Code A               loading plant with fusible lifting plugs to facilitate
+          M741A1 - Standard, Logistic Control Code A             handling, and as a safety measure. Before firing, the
+          MSR 04866010                                           lifting plugs must be replaced with M577 series, MTSQ
+                                                                 fuzes. The projectiles contain a payload of antitank
+Use:                                                             mines that are ejected during projectile flight by an
+                                                                 expulsion charge. The rotating bands are protected
+          These projectiles are used to deliver antitank         from damage during transportation and handling by
+mines in front of enemy armored forces to deny/delay             plastic grommets.
+access to a particular area for a specific time period.
+The "S" means "Short" for the short time until mine self-        Functioning:
+destructs (4 hours, nominal).
+                                                                           When the projectile is fired, the primer ignites
+Description:                                                     the propelling charge which propels the round to the
+                                                                 target area. The MTSQ fuze functions at its pre-set
+          The projectiles are of the separate loading type       time setting, initiating the expulsion charge, which ejects
+(the fuzes, propelling charges, and primers are handled          the mines from the projectile. The mines (having been
+                                                                 subjected to the required set-back, rotational, and
+
+                                                            7-5
+
+
+---
+
+set-forward forces) are armed immediately or soon after                                                                TM 43-0001-36
+coming to rest on the ground, depending upon projectile
+model. Upon sensing the proximity of tanks, the mines               Antidisturbance
+.initiate. If the mines are not initiated during their              mixture ..............................2 mines (randomly
+intended life span, a circuit is activated causing the
+mines to 'self-destruct. A percentage of the mines in                                                   positioned in each
+each projectile has an antidisturbance mechanism to                                                     projectile)
+discourage attempts at mine field clearing.                         Self-destruct time ..............4 hr (nominal)
+                                                                                                        ("Short" time - SD
+Difference Between Models:                                                                              mines)
+                                                                Components:
+          The arming time of the mines in Projectile                Propelling charges.............M3A1, M4A2,
+M741A1 is "INSTANTANEOUS" after impact. This                                                            M119, M119A1,
+achieves the capability of using the mines tactically in                                                M119A2
+combat operations. The arming time of the mines in                  Primers..............................MK2A4, M82
+Projectile M741 Carriers is 58 seconds nominal.                     Fuze MTSQ, M577
+Deployment is for the laying of mine fields for denying         Temperature Limits:
+access to critical areas. These projectiles will not be             Firing:
+resupplied when current assets are no longer available.                 Upper limit ....................-25°F (-32C)
+                                                                        Lower limit ....................+ 145°F (+63°C)
+Tabulated Data:                                                     Storage:
+                                                                        Lower limit ....................-60°F (-51C)
+Projectile:                                                             Upper limit ....................+160°F (+71C)
+    Type ................................Antitank (AT)          Packing Data..........................This mine is not
+    Weight...............................103 lb with fuze                                               available as a sup-
+    Length (with lifting                                                                                ply item. See sup-
+        plug) .............................33.9 in.                                                     ply catalog, 155mm
+    Body material ....................Forged steel                                                      Projectile, AT:
+    Color Olive drab with yel-                                                                          M741 and M741A1.
+                                        low markings            Shipping and Storage Data:
+    Marking drawing ................9278014 (M741)                  Hazard class/division and
+                                        11786240                        storage compatibility
+                                        (M741A1)                        group ............................1.1D
+                                                                    UNO serial number............0168
+Filler and Weight:                                                  UNO Proper shipping
+    Number of mines...............9                                     name ............................Projectiles
+    Explosive ..........................PBX 0280 (95%               DODAC .............................1320-D509 (M741)
+                                        RDX, 5% Estane)                                                 1320-D514
+    Explosive weight/mine.......1.26 lb                                                                 (M741A1)
+    Expulsion charge...............M10 propellant
+                                        (58.0 + 1 gr)           References:
+
+Mines:                                                          TM 9-1025-200-12
+    Air drop time......................8 sec (nominal)          TM 9-1025-211-10
+                                                                TM 9-1300-251-20
+                                                                TM 9-1300-251-34
+                                                                TM 9-2350-311-10
+                                                                TM 9-2350-314-10
+
+                                                           7-6
+
+
+---
+
+                                                                         TM 43-0001-36
+
+    CHAPTER 8
+MINE CANISTERS
+
+          8-1
+
+
+---
+
+                                                                                           TM 43-0001-36
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+                            8-2
+
+
+---
+
+                                                                 TM 43-0001-36
+
+CANISTER, MINE: M87
+
+Type Classification:                                             Tabulated Data:
+
+          Standard Jan. 89                                       Canister, Mine: M87:
+                                                                     Length ...............................24.09 in.
+Use:                                                                 Diameter ...........................5.0 in.
+                                                                     Weight (loaded with 5 AT
+          The M87 mine canister is used with the M139                    and 1 AP mines) ...........13.62 kg (30.0 lb)
+mine dispenser (VOLCANO) to lay a mine field.                        Color ................................Forest Green No.
+                                                                                                         34079
+Description:                                                         Marking .............................Yellow, Black
+                                                                     Contents:
+          The M87 mine canister is an expendable item                    AT mine........................5
+consisting of an aluminum tube and breech assembly                       AP mine........................1
+containing five antitank mines and one antipersonnel                     Pressure cartridge.........1
+mine. Also housed in the canister are six transmitter                    Electrical primer............1
+coils, attached to a dispersion strap, and a propulsion
+system. The propulsion system consists of a self-                Explosives:
+contained electrically initiated primer, and a pressure          AT Mine (Each):
+cartridge assembly containing the launching propellant.
+The canister is painted in green and has one colored                 RDX estane .......................0.59 kg (1.3 lb)
+band of yellow triangles near the breech.                            PBXN-5 .............................13.6 g (0.03 lb)
+                                                                     Lead styphnate ..................9 mg
+Functioning:                                                         RD 1333 lead azide ...........28 mg
+                                                                     Boron borochromate..........10 mg
+          When an electrical pulse is received, the                  HMX ................................32 mg
+electric primer initiates the pressure cartridge expelling           M5 propellant ....................1.5 g
+a mine stack from the canister. The stack consists of                Barium styphnate and
+five antitank mines and one anti-personnel mine. An
+interfaced web provides dispersion, self-destruct, and                   KDNBF 50/50
+arm signals, set from the dispenser control unit to the                  mixture .........................5.2 mg
+mines.                                                           AP Mine (Each):
+                                                                     Comp B-4..........................400.00g
+                                                                     Comp A-5..........................6.28 g
+
+                                                            8-3
+
+
+---
+
+    PBXN-5 .............................4.60 g                                                                           TM 43-0001-36
+    Lead styphnate ..................0.8 mg
+    RD 1333 lead azide ...........14 mg                               Storage:
+    HMX ................................16 mg                             Minimum ......................-53°C (-650F)
+    M5 propellant ....................1.5 g                               Maximum .....................+71°C (+160F)
+    Barium styphnate and
+                                                                  Shipping and Storage Container:
+        KDNBF 50/50                                                   (Metal Tube Type):
+        mixture .........................5.2 mg                       Length ...............................149.86 cm (59.0 in.)
+Pressure Cartridge:                                                   Diameter ...........................17.27 in. (6.8 in.)
+    Propellant M1 type I ..........4.8 g                              Weight (empty)..................11.34 kg (25.0 lb)
+    Propellant, black                                                 Weight (packed with 2
+        powder..........................1.0 g                             mine canisters) .............39.95 kg (88.0 lb)
+    Lead styphnate ..................62 mg
+Electric Primer:                                                  Palletization (Metal Pallet):
+    Boron potassium                                                   Pallet size..........................71.8 x 149.9 cm
+        perchlorate ...................10 mg                                                               (28-1/4 x 59.0 in.)
+    Titanium potassium                                                Pallet weight (empty).........63.5 kg (140. lb)
+        perchlorate ...................25 mg                          Pallet configuration
+Mine Canister (Each):                                                     (tubes) ..........................4 across x 5 high =
+    RDX estane .......................2.95 kg (6.5 lb)                         ................................20 tubes
+    PBXN-5 .............................72.60 g (0.16 lb)             Pallet height ......................99.1 cm (39.0 in.)
+    Comp B-4..........................400.00 g                        Pallet cube ........................1.07 cu m
+    Comp A-5..........................6.28 g                                   ................................(37.6 cu ft)
+    Lead styphnate ..................108 mg                           Pallet weight (loaded) ........852.6 kg
+    Boron borochromate..........50 mg                                                                      (1,900.0 lb)
+    HMX 176 mg
+    M5 propellant ....................9 g                         Shipping and Storage Data:
+    Barium styphnate and                                              DOD hazard class .............1.1
+        KDNBF 50/50                                                   DOD compatibility
+        mixture .........................31 mg                            group ............................D
+    Propellant M1 type I ..........4.8 g                              DOD hazard class .............Class A Explosive
+    Propellant, black                                                 DOT container marking .....EXPLOSIVE
+        powder..........................1.0 mg                                                             MINES
+    Boron potassium                                                   US Coast Guard
+        perchlorate ...................10 mg                              Classification ................X-A
+    Titanium potassium                                                Shelf life............................Indefinite
+        perchlorate ...................25 mg                          DODAC .............................1345-K045
+    RD 1333 Lead azide ..........154 mg                               NSN 1345-01-233-2029
+Temperature Limits:                                                   UNO serial number............UN0137
+    Operational:                                                      UNO Proper shipping
+        Minimum ......................-37°C (-35°F)                       name ............................Mines
+        Maximum .....................+63°C (+145F)
+                                                                  References:
+
+                                                                  TM 9-1095-208-10
+                                                                  TM 9-1345-203-12&P
+                                                                  TM 9-1345-203-34&P
+
+                                                           8-4
+
+
+---
+
+                                                             TM 43-0001-36
+
+CANISTER, MINE: M87A1
+
+Type Classification:                                         Tabulated Data:
+
+        Standard.                                            Canister, Mine: M87A1:
+                                                               Length.......................................... 24.09 in.
+Use:                                                           Diameter...................................... 5.0 in.
+                                                               Weight (loaded with 6
+        The M87A1 mine canister is used with the M139             AT mines) ................................. 13.62 kg
+mine dispenser (VOLCANO) to lay a mine field.                                                                (30.0 lb)
+                                                               Color............................................ Forest Green
+Description:                                                                                                 No. 34079
+                                                               Marking........................................ Yellow, Black
+        The M87A1 mine canister is an expendable item          Contents:
+consisting of an aluminum tube and breech assembly                AT mine.................................... 6
+containing six antitank mines. Also, the canister                 Pressure cartridge..................... 1
+contains six transmitter coils, attached to a dispersion          Electrical primer........................ 1
+strap, and a propulsion system. The propulsion system
+consists of a self-contained electrically initiated primer,  Explosives:
+and a pressure cartridge assembly containing the
+launching propellant. The canister is painted in green       AT Mine (Each):
+and has one colored bank of yellow triangles near the          RDX estane.................................. 0.59 kg (1.3 lb)
+breech.                                                        PBXN-5........................................ 13.6 g (0.03 lb)
+                                                               Lead styphnate ............................ 9 mg
+Functioning:                                                   RD 1333 lead azide...................... 28 mg
+                                                               Boron borochromate .................... 13 mg
+        When an electrical pulse is received, the electric     HMX ............................................ 32 mg
+primer initiates the pressure cartridge expelling a mine       M5 propellant ............................... 1.5 g
+stack from the canister. The stack consists of five            Barium styphnate and
+antitank mines and one antipersonnel mine. An                     KDNBF 50/50
+interfaced web provides dispersion, self-destruct and             mixture ..................................... 5.2 mg
+arm signals, set from the dispenser control unit to the
+mines.
+
+Change 1 8-5
+
+
+---
+
+                                                                         TM 43-0001-36
+
+Pressure Cartridge:                                                        Diameter...................................... 17.27 in. (6.8 in.)
+  Propellant M1 type I ..................... 4.8 g                         Weight (empty) ............................ 11.34 kg (25.0 lb)
+  Propellant, black                                                        Weight (packed with 2
+     powder...................................... 1.0 g
+  Lead styphnate ............................ 62 mg                           mine containers) ....................... 39.95 kg (88.0 lb)
+
+Electric Primer:                                                         Palletization (Metal Pallet):
+  Boron potassium                                                          Pallet size .................................... 71.8 x 149.9 cm
+     perchlorate................................ 10 mg                                                                   (28-1/4 x 59.0 in.)
+  Titanium potassium                                                       Pallet weight (empty) ................... 63.5 kg (140. lb)
+     perchlorate................................ 25 mg                     Pallet configuration
+                                                                              (tubes) ...................................... 4 across x 5 high
+M87A1 mine canister (Each):                                                                                              = 20 tubes
+  RDX estane.................................. 3.54 kg                     Pallet height................................. 99.1 cm (39.0 in.)
+  PBXN-5........................................ 81.6 g                    Pallet cube................................... 1.07 cu meter (37.6
+  Lead styphnate ............................ 116.0 mg                                                                   cu ft)
+  Boron borochromate .................... 60.0 mg
+  HMX ............................................ 192.0 mg              Pallet weight (loaded)...................... 852.6 kg (1,900.0
+  M5 propellant ............................... 9.0 g                                                                    lb)
+  Barium styphnate and
+     KDNBF 50/50                                                         Shipping and Storage Data:
+     mixture ..................................... 31.2 mg                 DOD hazard class ........................ 1.1
+  Propellant M1, type ...................... 4.8 g                         DOD compatibility
+  Propellant, black powder .............. 1.0 mg                              group ........................................ D
+  Boron potassium                                                          DOD hazard class ........................ Class A Explosive
+     perchlorate................................ 10.0 mg                   DOT container marking................ EXPLOSIVE
+  Titanium potassium                                                                                                     MINES
+     perchlorate................................ 25.0 mg                   US Coast Guard
+  RD 1333 lead azide...................... 168.0 mg                           Classification ............................ X-A
+                                                                           Shelf life ...................................... Indefinite
+Temperature Limits:                                                        DODAC........................................ 1345-J003
+  Operational:                                                             NSN............................................. 1345-01-384-3617
+     Minimum................................... -37oC (-35oF)
+     Maximum.................................. +63oC (+145oF)            References:
+  Storage:
+     Minimum................................... -53oC (-65oF)            TM 9-1095-208-10-1
+     Maximum.................................. +71oC (+160oF)            TM 9-1095-208-23-1&P
+                                                                         TM 9-1345-203-12&P
+Shipping and Storage Container:                                          TM 9-1095-208-23-2&P
+  (Metal Tube Type):
+  Length.......................................... 149.86 cm (59.0 in.)
+
+     U.S. GOVERNMENT PRINTING OFFICE: 1997 545-037/60702
+Change 1 8-6
+
+
+---
+
+                                                                                                             TM 43-0001-36
+
+                                        CANISTER, MINE, PRACTICE: M88
+
+Type Classification:                                             Tabulated Data:
+
+          Standard Jan. 89                                       Canister, ................................Mine: M88:
+                                                                 Length ................................24.09 in.
+Use:                                                             Diameter ................................5.0 in.
+                                                                 Weight (loaded with 6
+          The M88 practice mine canister is used with the
+M139 mine dispenser (VOLCANO) in field training in the               dummy mines)...................13.62 kg (30.0 lb)
+handling and operation of the M88 mine canister and              Color Blue No. 35109
+M139 mine dispenser.                                             Marking Blue, Brown, Black
+                                                                 Dummy mine .........................6
+Description:                                                     Pressure cartridge ..................1
+                                                                 Electrical primer .....................1
+
+The M88 mine canister is an expendable item                      Explosives:
+
+consisting of an aluminum tube and breech assembly
+
+containing six dummy mines. Also housed in the                   Pressure Cartridge:
+
+canister are a dispersion strap, and a propulsion system.        Propellant M1 type I ...............4.8 g
+
+The propulsion system consists of a self-contained               Propellant, black
+
+electrically initiated primer, and a pressure cartridge          powder ..............................1.0 g
+
+assembly containing the launching propellant. The                Lead styphnate.......................62 mg
+
+canister is painted in light blue and has one brown and          Electric Primer:
+
+one blue color band near the muzzle. The end cap has             Boron potassium
+
+a brown ring around a blue center dot.                           perchlorate ...................10 mg
+
+                                                                 Titanium potassium
+
+Functioning:                                                     perchlorate ...................25 mg
+
+                                                                 Mine Canister (Each):
+
+When an electrical pulse is received, the                        Lead styphnate ..................62 mg
+
+electric primer initiates the pressure cartridge expelling       Propellant M1 type 1..........4.8 g
+
+a mine stack from the canister. The stack consists of            Propellant, black
+
+six dummy mines.                                                 powder.......................... 1.0 mg
+
+                                                                 Boron potassium
+
+                                                                 perchlorate ...................10 mg
+
+                                                                 Titanium potassium
+
+                                                                 perchlorate ...................25 mg
+
+                                                            8-7
+
+
+---
+
+Temperature Limits:                                                                                                            TM 43-0001-36
+    Operational:
+        Minimum ......................-37°C (-35F)                      Pallet weight (loaded).............852.6 kg
+        Maximum .....................+63°C (+145°F)                                  ................................(1,900.0 lb)
+    Storage:
+        Minimum ......................-530C (-650F)                     Shipping and Storage Data:
+        Maximum .....................+710C (+160°F)                         DOD hazard class .............1.2
+                                                                            DOD compatibility
+Shipping and Storage Container:                                                 group ............................C
+    (Metal Tube Type):                                                      DOD hazard class .............Class C Explosive
+    Length ...............................49.86 cm (59.0 in.)               DOT container marking .....CARTRIDGE
+    Diameter ...........................17.27 in. (6.8 in.)                          ................................PRACTICE
+    Weight (empty)..................11.34 kg (25.0 lb)                               ................................AMMUNITION
+    Weight (packed with 2                                                   US Coast Guard
+        mine canisters) .............39.95 kg (88.0 lb)                         Classification ................X-A
+                                                                            Shelf life............................Indefinite
+Palletization (Metal Pallet):                                               DODAC ............................. 1345-K042
+    Pallet size..........................71.8 x 149.9 cm                    UNO serial number............0276
+            ................................(28-1/4 x 59.0 in.)             UNO Proper shipping
+    Pallet weight (empty).........63.5 kg (140. lb)                             name ............................Cartridges, power
+    Pallet configuration                                                             ................................device
+        (tubes) ..........................4 across x 5 high =               NSN ................................ 1345-01-233-2030
+            ................................20 tubes
+    Pallet height ......................99.1 cm (39.0 in.)              References:
+
+Pallet cube .............................1.07 cu meter                  TM 9-1095-208-10
+            ................................(37.6 cu ft)                TM 9-1345-203-12&P
+                                                                        TM 9-1345-203-34&P
+
+                                                                 8-8
+
+
+---
+
+                                                                              TM 43-0001-36
+
+         CHAPTER 9
+DISPENSER AND MINES
+
+               9-1
+
+
+---
+
+                                                                                           TM 43-0001-36
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+                            9-2
+
+
+---
+
+                                                             TM 43-0001-36
+
+DISPENSER AND MINES, GROUND: M131
+
+                                                             U
+                                                             AR 4515
+
+Type Classification:                                         mines for a total of twenty-one mines per dispenser (17
+                                                             AT/AV and 4 AP mines). The IC is powered by a lithium
+     STD-LCC-A (6-20-86)                                     cell battery and contains the electronic package which
+                                                             receives, interprets, and acts on the signals received.
+Use:                                                         The dispenser is designed as a self-contained shipping,
+                                                             storage, and deployment unit that is not reloadable once
+     The M131 Mine Dispenser is used with the M71            the mines have been deployed. The mine dispenser,
+Remote Control Unit (RCU) or Blasting Machine to             which weighs approximately 160 pounds, is easily
+deploy small antitank and antipersonnel minefields.          emplaced by four persons.
+
+Description:                                                 Functioning:
+
+     The M131 Mine Dispenser is a man portable,                   The Indicator Control in the dispenser receives
+remotely controlled, antipersonnel (AP) and                  command and control data from the M71 RCU when the
+antitank/antivehicle (AT/AV) mine dispensing system.         magnetic coupling devices of the RCU and dispenser
+The mines may be deployed on command by a blasting           are mated together. If no data is transferred to
+machine hardwired to dispenser or by operating a radio       dispenser, there will be no command and control
+frequency (RF) Remote Control Unit (RCU). The                capability once the mines are deployed. After dispenser
+dispenser contains a battery powered Indicator Control       is set to arm for 5 minutes, mines can be deployed via
+(IC) and seven launch tubes. Each tube houses three          the M71 RCU or by a blasting machine hardwire
+                                                             connecting to the Indicator Control.
+
+                                                        9-3
+
+
+---
+
+                                                                                                                TM 43-0001-36
+
+When the Indicator Control receives the deploy                                                      Power Requirements:
+command, it will send signals to the mine Electronic
+Battery Initiator (EBI) to activate the mine batteries.         Voltage.............................. 11-15 Vdc
+The Indicator Control then sends control data to mines
+and activates actuators in dispenser to detonate                Current .............................. 7.4 to 8.2 ma
+cartridges to launch mines.
+                                                                Power source:
+
+                                                                Battery, Primary Lithium Organic,
+
+                                                                BA-5598/U: Rating 10 to 15 volts dc,
+
+Tabulated Data:                                                 weight about 1.5 lb
+
+                                                                Pallet Configuration:
+
+a. Dispenser and Mines, Ground: M131:                           Pallet size..........................86.4 cm x 132.1 cm
+
+Color ................................Olive drab                ................................(34 in. x 52 in.)
+
+Marking ............................. White                     Pallet weight (including
+
+Length ............................... 81.8 cm                  cover and supports) ......63.5 kg
+
+Width ................................57.6 cm                   Pallet w/6 M131
+
+Height................................ 34.5 cm                  Dispensers....................472.1 kg
+
+Cube ................................ 0.137 cu m                Height - 1 Pallet w/6
+
+Weight (without                                                 dispensers (3 high) .......1.22 m (48 in.)
+
+battery) ......................... 68.1 kg (loaded)             Cube - 1 Pallet w/6
+
+Number of tube                                                  dispensers (3 high) .......1.39 cu m
+
+dispensers ....................7                                ................................(49.1 cu ft)
+
+Number of mines per                                             Shipping and Storage Data:
+
+tube ..............................                3            DOD hazard class .............1.1
+
+Total number of mines.......21 (4 AP, 17 AT)                    Storage compatibility
+
+Ejection charge..................12 gage cartridge              group ............................              D
+
+           ................................(electrically deto-  Quantity-distance class......1.1D
+
+           ................................nated)               DOT shipping class ...........A
+
+Total explosive weight .......11.98 kg                          DOT marking.....................EXPLOSIVE
+
+Explosives:                                                     ................................MINES
+
+Comp B-4..........................1.64 kg                       US Coast Guard Class.......X-A
+
+RDX Estane.......................10.03 kg                       Air Transport Loading/
+
+PBXN-5 ............................. 258.58 g                   Storage Group
+
+Comp A-5..........................25.12 g                       (TM 38-250)..................6
+
+Lead styphnate ..................21.4 mg                        Shelf life............................20 yr
+
+M5 propellant ....................31.5 g                        b. Antipersonnel Mine:
+
+RD 1333 lead azide ...........73.0 mg                           Color ................................Forest green
+
+HMX ................................ 336.0 mg                   Height................................ 6.60 cm
+
+Boron borochromate..........170.0 mg                            Diameter ...........................12.07 cm
+
+Barium styphnate and                                            Total weight1.54 kg
+
+KDNBF 50/50 mixture - 109.2 mg                                  Total explosive weight .......0.42 kg
+
+Barium nitrate....................483.0 mg                      Explosives:
+
+Lead azide.........................378.0 mg                     Main charge, Comp B-4.....0.41 kg
+
+Center lead........................4.18 mg                      Booster, Comp A-5
+
+Material:                                                       (4 ea)............................ 6.28 g (total)
+
+Outer ................................High density rub-         Explosive lead, PBXN-5
+
+           ................................ ber filled poly-    (4 ea) ................................4.0 g (total)
+
+           ................................ ethylene            Main charge leads,
+
+Inner ................................ Rigid structural         PBXN-5 (4 ea) ..............360.0 mg (total)
+
+           ................................ foam plastic liner  M100 Detonator:
+
+Tubes ................................ Aluminum                 Lead styphnate .............0.8 mg
+
+DODAC ............................. 1345-K022                   RD 1333 lead azide ......14.0 mg
+
+UNO serial number............0137                               HMX .............................               16.0 mg
+
+UNO Proper shipping                                             Transfer lead, PBXN-5- 73.0 mg
+
+name ............................ Mines                         MDF assembly, PBXN-5
+
+NSN ................................ 1345-01-160-8909           (2 cords, 4 end caps) ....160.0 mg
+
+Temperature Limits:                                             Cleaning charge M5
+
+Operation:                                                      Propellant (2 ea) ...........1.5 g (total)
+
+Minimum ......................-40°C (-40°F)                     Micro piston actuator-
+
+Maximum .....................+600C (+1400F)                     barium styphnate and
+
+Storage:                                                        KDNBF 50/50
+
+Minimum ......................-570C (-700F)                     mixture ......................... 5.2 mg
+
+Maximum .....................+710C (+1600F)                     Battery Primer:
+
+                                                                Barium nitrate....................23.0 mg
+
+                                                                Lead styphnate ..................0.8 mg
+
+                                                                9-4 Lead azide.........................18.0 mg
+
+
+---
+
+c. Antitank Mine:                                                                                                     TM 43-0001-36
+    Color ................................Forest green
+    Height................................ 6.60 cm                 Transfer lead, PBXN-5- 86.0 mg
+    Diameter ...........................12.07 cm                   MDF assembly,
+    Total weight.......................1.86 kg
+    Total explosive weight .......0.60 kg                              PBXN-5 ........................ 84.0 mg
+                                                                   Cleaning charge M5
+Explosives:
+    Main charge, RDX                                                   propellant (2 ea) ...........1.5 g (total)
+        ESTANE.......................0.59 kg                       Micro piston actuator -
+    Booster ring, PBXN-5
+        (4 ea)............................ 13.6 g                      barium styphnate
+    Main charge leads,                                                 and KDNBF 50/50
+        PBXN-5 (4 ea) ..............360.0 mg (total)                   mixture ......................... 5.2 mg
+    Center lead........................246.0 mg                    Battery Primer:
+    Delay Detonator:                                                   Barium nitrate ...............23.0 mg
+        Lead styphnate .............0.08 mg                            Lead styphnate .............0.8 mg
+        RD 1333 lead azide ......1.0 mg                                Lead azide....................18.0 mg
+        Boron borochromate .....10.0 mg
+        HMX .............................16.0 mg               References:
+
+                                                               TM 9-1345-209-10
+                                                               TM 9-1345-209-23&P
+
+                                                        9-5
+
+
+---
+
+                                                                                           TM 43-0001-36
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+                            9-6
+
+
+---
+
+                                                                                                        TM 43-0001-36
+
+8y Order of the Secretary of the Army:    GORDON R. SULLIVAN
+                                        General, United States Army
+Official
+                                                  Chief of Staff
+        MILON H. HAMILTON
+     Administrative Assistant to the
+
+         Secretary of the Army
+                                07496
+
+Distribution:
+     To be distributed in accordance with DA Form 12-34-E, Block 0853, requirements for TM 43-0001-36.
+
+                                          *U.S. Government Printing Office: 1996 - 406-421/50086
+
+
+---
+
+
+
+---
+
+                                             The Metric System and Equivalents
+
+            Linear Measure                                                                    Liquid Measure
+
+1 centimeter = 10 millimeters = .39 inch                  1 centiliter = 10 milliters = .34 fl. ounce
+1 decimeter = 10 centimeters = 3.94 inches                1 deciliter = 10 centiliters = 3.38 fl. ounces
+1 meter = 10 decimeters = 39.37 inches                    1 liter = 10 deciliters = 33.81 fl. ounces
+1 dekameter = 10 meters = 32.8 feet                       1 dekaliter = 10 liters = 2.64 gallons
+1 hectometer = 10 dekameters = 328.08 feet                1 hectoliter = 10 dekaliters = 26.42 gallons
+1 kilometer = 10 hectometers = 3,280.8 feet               1 kiloliter = 10 hectoliters = 264.18 gallons
+
+                 Weights                                                                        Square Measure
+
+1 centigram = 10 milligrams = .15 grain                   1 sq. centimeter = 100 sq. millimeters = .155 sq. inch
+1 decigram = 10 centigrams = 1.54 grains                  1 sq. decimeter = 100 sq. centimeters = 15.5 sq. inches
+1 gram = 10 decigram = .035 ounce                         1 sq. meter (centare) = 100 sq. decimeters = 10.76 sq. feet
+1 decagram = 10 grams = .35 ounce                         1 sq. dekameter (are) = 100 sq. meters = 1,076.4 sq. feet
+1 hectogram = 10 decagrams = 3.52 ounces                  1 sq. hectometer (hectare) = 100 sq. dekameters = 2.47 acres
+1 kilogram = 10 hectograms = 2.2 pounds                   1 sq. kilometer = 100 sq. hectometers = .386 sq. mile
+1 quintal = 100 kilograms = 220.46 pounds
+1 metric ton = 10 quintals = 1.1 short tons                                                   Cubic Measure
+
+                                                           1 cu. centimeter = 1000 cu. millimeters = .06 cu. inch
+                                                           1 cu. decimeter = 1000 cu. centimeters = 61.02 cu. inches
+                                                           1 cu. meter = 1000 cu. decimeters = 35.31 cu. feet
+
+                                             Approximate Conversion Factors
+
+To change          To                        Multiply by  To change             To           Multiply by
+
+inches             centimeters                2.540       ounce-inches        Newton-meters  .007062
+feet               meters                       .305      centimeters         inches             .394
+yards              meters                       .914      meters              feet
+miles              kilometers                             meters              yards             3.280
+square inches      square centimeters         1.609       kilometers          miles             1.094
+square feet        square meters              6.451       square centimeters  square inches
+square yards       square meters                          square meters       square feet        .621
+square miles       square kilometers            .093      square meters       square yards       .155
+acres              square hectometers           .836      square kilometers   square miles    10.764
+cubic feet         cubic meters               2.590       square hectometers  acres             1.196
+cubic yards        cubic meters                 .405      cubic meters        cubic feet         .386
+fluid ounces       milliliters                  .028      cubic meters        cubic yards       2.471
+pints              liters                       .765      milliliters         fluid ounces    35.315
+quarts             liters                    29,573       liters              pints             1.308
+gallons            liters                       .473      liters              quarts             .034
+ounces             grams                        .946      liters              gallons           2.113
+pounds             kilograms                  3.785       grams               ounces            1.057
+short tons         metric tons               28.349       kilograms           pounds             .264
+pound-feet         Newton-meters                .454      metric tons         short tons         .035
+pound-inches       Newton-meters                .907                                            2.205
+                                              1.356                                             1.102
+                                             .11296
+
+                                             Temperature (Exact)
+
+               °F      Fahrenheit            5/9 (after       Celsius           °C
+
+                       temperature           subtracting 32)  temperature
+
+
+---
+
+PIN: 014884-002
+
+
+--- 

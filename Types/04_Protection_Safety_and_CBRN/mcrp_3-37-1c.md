@@ -1,0 +1,13289 @@
+# mcrp_3-37-1c  ARMY, MARINE CORPS, NAVY, AIR FORCE
+
+                                                  MULTISERVICE
+                                                       TACTICS,
+
+                                                    TECHNIQUES,
+                                                 AND PROCEDURES
+
+                                                            FOR
+                                                     BIOLOGICAL
+                                                   SURVEILLANCE
+
+                                                                       FM 3-11.86
+                                                                     MCRP 3-37.1C
+                                                                      NTTP 3-11.31
+                                                                    AFTTP (I) 3-2.52
+
+                                   OCTOBER 2004
+
+                                                                                                       DISTRIBUTION RESTRICTION: Approved for public release;
+                                                                                                       distribution is unlimited.
+
+MULTISERVICE TACTICS, TECHNIQUES, AND PROCEDURES
+
+
+---
+
+                                       FOREWORD
+
+      This publication has been prepared under our direction for use by our respective
+commands and other commands as appropriate.
+
+STANLEY H. LILLIE                   EDWARD HANLON, JR.
+Brigadier General, CM               Lieutenant General, USMC
+Commandant                          Commanding General
+United States Army Chemical School  Marine Corps Combat
+
+                                       Development Command
+
+JOHN M. KELLY                       DAVID F. MacGHEE, JR.
+Rear Admiral, USN                   Major General, USAF
+Commander                           Commander
+Navy Warfare Development Command    Headquarters Air Force Doctrine
+
+                                       Center
+
+This publication is available at Army Knowledge Online
+                         <www.us.army.mil>.
+
+
+---
+
+                                       PREFACE
+
+1. Scope
+
+      This multiservice operations publication provides tactics, techniques, and
+procedures (TTP) for planning and conducting biological-surveillance operations to
+monitor, detect, sample, identify, report, and evacuate samples of biological-warfare
+(BW) agents used against United States (US) forces. The term “biological surveillance”,
+as used in this publication, refers to the actions taken to detect that a BW attack has
+occurred and identify the suspected BW agent involved. Users of this manual are
+nuclear, biological, and chemical (NBC) or chemical, biological, and radiological (CBR)
+staff and medical officers, unit commanders, NBC noncommissioned officers (NCOs), and
+others involved in planning and conducting biological-surveillance operations.
+
+NOTE: The United States Marine Corps (USMC) uses the acronym METT-T
+(mission, enemy, terrain and weather, troops available, and time). Civilian
+considerations are inherently measured within the context of this acronym.
+
+2. Purpose
+
+      a. The purpose of this publication is to provide commanders, staffs, and unit
+leaders with a reference for the planning and conduct of biological-surveillance
+operations. It serves as a key source document for the development of other multiservice
+manuals and the refinement of existing training support packages, training center
+exercises, and service school curriculum.
+
+      b. This manual provides the commander and his staff with tools to support:
+
+             • Countering a biological threat.
+
+             • Providing input to support force protection (FP).
+
+             • Supporting medical requirements.
+
+             • Supporting the decision making process.
+
+3. Application
+
+      This publication is designed for use at the operational and tactical level. The
+publication will support command staff planning in preparing for and conducting
+biological-surveillance operations. This publication also provides guidance to biological-
+detection unit leaders and personnel for conducting biological surveillance.
+
+4. Implementation Plan
+
+      Participating service command offices of primary responsibility (OPRs) will review
+this publication, validate the information, and reference and incorporate it in service and
+command manuals, regulations, and curricula as follows:
+
+                                                                                                                                        i
+
+
+---
+
+      Army. The United States Army (USA) will incorporate this publication in training
+and doctrinal publications as directed by the commander, USA Training and Doctrine
+Command (TRADOC). Distribution is according to Department of the Army (DA) Form
+12-99-R (Initial Distribution [ID] Requirements for Publications).
+
+      Marine Corps. The USMC will incorporate the procedures in this publication in
+training and doctrinal publications as directed by the commanding general (CG), US
+Marine Corps Combat Development Command (MCCDC). Distribution is according to
+the USMC publication distribution system.
+
+      Navy. The United States Navy (USN) will incorporate the procedures in this
+publication in training and doctrinal publications as directed by the commander, Navy
+Warfare Development Command (NWDC). Distribution is according to the military
+standard requisitioning and issue procedures (MILSTRIP).
+
+      Air Force. The United States Air Force (USAF) will validate and incorporate
+appropriate procedures in accordance with the applicable governing directives. It will
+develop and implement this and other NBC multiservice tactics, techniques, and
+procedures (MTTPs) through a series of USAF manuals providing service-specific TTPs.
+Distribution is according to the USAF publication distribution system.
+
+5. User Information
+
+      a. The USA Chemical School (USACMLS) developed this publication with the
+joint participation of the approving service commands.
+
+      b. We encourage recommended changes for improving this publication. Key your
+comments to the specific page and paragraph and provide a rationale for each
+recommendation. Send comments and recommendations directly to—
+
+ii
+
+
+---
+
+                                              Army
+
+                           Commandant
+                           US Army Chemical School
+                           ATTN: ATSN-CM-DD
+                           401 MANSCEN Loop, Suite 1029
+                           Fort Leonard Wood, MO 65473-8926
+                           COMM (573) 596-0131, extension 3-7364
+
+                                        Marine Corps
+
+                           Commanding General
+                           US Marine Corps Combat Development Command
+                           ATTN: C42 (Director)
+                           3300 Russell Road
+                           Quantico, VA 22134-5001
+                           DSN 278-6234; COMM (703) 784-6234
+
+                                              Navy
+
+                           Commander
+                           Navy Warfare Development Command
+                           ATTN: N5
+                           686 Cushing Road
+                           Newport, RI 02841-1207
+                           DSN 948-4201; COMM (401) 841-4201
+
+                                           Air Force
+
+                           HQ Air Force Doctrine Center
+                           ATTN: DJ
+                           155 North Twining Street
+                           Maxwell AFB, AL 36112-6112
+                           DSN 493-7442; COMM (334) 953-7442
+                           Webpage: <www.doctrine.af.mil>
+
+Unless this publication states otherwise, masculine nouns and pronouns do not
+refer exclusively to men.
+
+                                                                                                                              iii
+
+
+---
+
+                                         *FM 3-11.86
+                                    MCRP 3-37.1C
+
+                                       NTTP 3-11.31
+                                    AFTTP(I) 3-2.52
+
+FM 3-11.86       US Army Training and Doctrine Command
+                                              Fort Monroe, Virginia
+
+MCRP 3-37.1C     Marine Corps Combat Development Command
+                                                         Quantico, Virginia
+
+NTTP 3-11.31     Navy Warfare Development Command
+                                      Newport, Rhode Island
+
+AFTTP(I) 3-2.52  Headquarters Air Force Doctrine Center
+                          Maxwell Air Force Base, Alabama
+
+                                    4 October 2004
+
+MULTISERVICE TACTICS, TECHNIQUES, AND PROCEDURES
+                                         FOR
+
+                      BIOLOGICAL SURVEILLANCE
+
+                 TABLE OF CONTENTS
+
+                                                                                     Page
+
+EXECUTIVE SUMMARY...................................................................................................xii
+
+Chapter I        BIOLOGICAL SURVEILLANCE PRINCIPLES, CONCEPTS, AND
+                 THREATS........................................................................................... I-1
+                 Background ........................................................................................ I-1
+                 Surveillance Principles ..................................................................... I-2
+                 Biological - and Medical -Surveillance Concepts.............................. I-3
+
+                 Execution of Operational Concepts of Biological and Medical
+                     Surveillance ................................................................................. I-8
+
+                 Biological -Warfare Threat Triggers................................................. I-9
+                 Application of Principles of Biological Surveillance ..................... I-10
+
+                 Commander’s Information Requirements—Sample Results
+                     and Medical Surveillance.......................................................... I-12
+
+DISTRIBUTION RESTRICTION: Approved for public release; distribution is unlimited.
+*This publication supersedes FM 3-101-4, 9 June 1997 and FM 3-101-6, 25 March 1999.
+
+
+---
+
+CHAPTER II                                                                                               Page
+CHAPTER III
+CHAPTER IV   BIOLOGICAL-SURVEILLANCE FUNCTIONS, RESPONSIBILITIES,
+             AND CAPABILITIES.............................................................................. II-1
+CHAPTER V    Background ........................................................................................... II-1
+APPENDIX A   Responsibilities ..................................................................................... II-2
+APPENDIX B   Capabilities............................................................................................ II-7
+             Applying Biological-Detection Capabilities ...................................... II-14
+
+             BIOLOGICAL-SURVEILLANCE PLANNING ....................................... III-1
+             Background .......................................................................................... III-1
+             Integrated Biological-Surveillance Operations .................................. III-1
+             Tactical, Operational, and Strategic Planning................................... III-2
+             Planning Process.................................................................................. III-2
+             Integration.......................................................................................... III-14
+
+             BIOLOGICAL-SAMPLE EVACUATION ...............................................IV-1
+             Background ..........................................................................................IV-1
+             Sample Evacuation Requirements ......................................................IV-1
+             Supported Unit Sample Evacuation Plan...........................................IV-2
+             Biological Detection Asset Sample Evacuation Plan .........................IV-2
+             Biological-Detection Asset Sample Evacuation Planning
+
+                 and Operational Considerations ...................................................IV-3
+             Sample Evacuation Execution.............................................................IV-4
+             Chain-of-Custody .................................................................................IV-4
+
+             INFORMATION MANAGEMENT ...........................................................V-1
+             Background ...........................................................................................V-1
+             Information Management.....................................................................V-1
+             Priority Information Requirements .....................................................V-2
+             Reporting ...............................................................................................V-2
+             Information Collection and Operational Level Assessments .............V-4
+             Unit Incident Reporting........................................................................V-8
+             Communications Architecture............................................................V-14
+
+             MEDICAL COUNTERMEASURES AND PROTECTION.......................A-1
+             Background ...........................................................................................A-1
+             Medical Countermeasures ....................................................................A-1
+             Vaccines .................................................................................................A-2
+             Medical Intervention.............................................................................A-3
+             Restriction of Movement.......................................................................A-3
+
+             FIELD LAB SUPPORT ..........................................................................B-1
+             Background ...........................................................................................B-1
+             Types of Labs.........................................................................................B-1
+             Confidence Levels of Lab Analysis Results .........................................B-2
+             Employment of Labs .............................................................................B-4
+             Laboratory Response Network for Biological Terrorism ....................B-4
+
+             v
+
+
+---
+
+APPENDIX C                                                                                              Page
+APPENDIX D
+APPENDIX E  BIOLOGICAL-COLLECTION AND -DETECTION CAPABILITIES
+APPENDIX F  AND LIMITATIONS................................................................................C-1
+            Background ...........................................................................................C-1
+            Joint Portal Shield ................................................................................C-1
+            Biological Integrated Detection System ..............................................C-2
+            Joint Biological Point Detection System, Fixed-Site or
+
+                Trailer-Mounted Version ................................................................C-4
+            Long-Range Biological Standoff Detection System .............................C-4
+            Maritime Biological Agent Detection Capabilities..............................C-4
+            Dry Filter Unit ......................................................................................C-5
+            Department of Defense Biological Sampling Kit ................................C-6
+            Common Limitation ..............................................................................C-7
+
+            BIOLOGICAL-DETECTION CONTRACTED LOGISTICS
+            SUPPORT ..............................................................................................D-1
+            Background ...........................................................................................D-1
+            Principles...............................................................................................D-1
+            Contracted Logistics Support Planning Considerations.....................D-2
+            Employment ..........................................................................................D-3
+            Responsibilities .....................................................................................D-3
+            Contracted Logistics Support Capabilities and Constraints ..............D-8
+            Contracted Logistics Support Team Assessment................................D-8
+            Contracted Logistics Support Control .................................................D-8
+            Contracted Logistics Support Concept ................................................D-9
+
+            BIOLOGICAL-COLLECTION AND -DETECTION SYSTEM
+            EMPLOYMENT ......................................................................................E-1
+            Background ...........................................................................................E-1
+            Mission ..................................................................................................E-1
+            Concept of Operations...........................................................................E-1
+            Employment Considerations ................................................................E-5
+            Biological-Warfare Threat Analysis (Intelligence Preparation
+
+                of the Battlespace)...........................................................................E-6
+            Duration and Modes of Operation for Biological Detection................E-7
+            Biological-Detection and/or -Collector Employment Tactics ............E-10
+            Preparing a Biological-Surveillance Plan..........................................E-13
+            Maritime Biological -Detection and -Collection
+
+                Employment Tactics .....................................................................E-18
+            Common Detection Site Selection Criteria for
+
+                Biological-Detection Systems .......................................................E-19
+            Indoor Site Selection for Biological Detectors or Collectors .............E-22
+
+            BIOLOGICAL-WARFARE ATTACK WARNING ................................... F-1
+            Background ........................................................................................... F-1
+            Warning Without a Biological-Detection and -Identification
+
+                Capability ........................................................................................ F-1
+            Warning With a Biological-Detection and -Identification
+
+                Capability ........................................................................................ F-2
+            Centralized Versus Decentralized Warning........................................ F-2
+
+vi
+
+
+---
+
+APPENDIX G                                                                                              Page
+
+            BIOLOGICAL-WARFARE SAMPLE EVACUATION PLANNING,
+            HANDLING, AND CHAIN-OF-CUSTODY ............................................ G-1
+            Background .......................................................................................... G-1
+            Sample Evacuation Planning and Execution ..................................... G-1
+            Sample Evacuation Logistics Requirements ...................................... G-4
+            Chain-of-Custody Document Preparation .......................................... G-4
+            Biological Sample Packaging............................................................... G-8
+            Sample Identification Number Assignment ....................................... G-9
+            Supporting Documentation Packaging ............................................. G-10
+            Completed Evacuation Package ........................................................ G-10
+            Sample Evacuation Planning Considerations .................................. G-11
+            Background Sample Evacuation ....................................................... G-11
+
+APPENDIX H  LONG-RANGE BIOLOGICAL STANDOFF DETECTION SYSTEM
+            OPERATIONS ........................................................................................H-1
+            Background ...........................................................................................H-1
+            Mission...................................................................................................H-1
+            Capabilities............................................................................................H-1
+            Organization..........................................................................................H-2
+            Employment Planning ..........................................................................H-4
+            Long-Range Biological Standoff Detection System
+
+                Employment ....................................................................................H-6
+            Long-Range Biological Standoff Detection System
+
+                Mission Profiles ...............................................................................H-8
+            Mission Planning ..................................................................................H-9
+            Long-Range Biological Standoff Detection System
+
+                Mission Phases ..............................................................................H-16
+
+APPENDIX I  BIOLOGICAL INTEGRATED DETECTION SYSTEM UNIT
+            OPERATIONS (M3IA1 AND M31A2) ..................................................... I-1
+            Background ............................................................................................ I-1
+            Preplanned Product Improved Biological Integrated
+
+                Detection System ............................................................................. I-1
+            Joint Biological Point Detection System (M31A2-Biological
+
+                Integrated Detection System) Operations .................................... I-13
+            Biological Integrated Detection System Unit Information
+
+                Management and Reports.............................................................. I-18
+            Biological Integrated Detection System Unit Communication ......... I-24
+
+REFERENCES ...................................................................................................References-1
+
+GLOSSARY ............................................................................................................ Glossary-1
+
+INDEX ...........................................................................................................................Index-1
+
+            vii
+
+
+---
+
+FIGURES                                                                                              Page
+
+viii     Figure I-1. METT-TC Factors That Impact Biological
+             Surveillance ...................................................................................I-4
+
+         Figure I-2. Preparing BW Risk Reduction Measures ................I-5
+         Figure II-1. JBPDS and Dry Filter Unit Coverage of
+
+             an APOD .....................................................................................II-10
+         Figure II-2. BIDS Platoon Emplacement to Provide
+
+             Coverage for JTF (Corps Size) Maneuver Forces
+             for a Long Line Source Attack .............................................. II-11
+         Figure II-3. Employment of Multiple Biological-Detection
+             Collection Systems (System of Systems) ............................. II-12
+         Figure III-1. Biological-Surveillance Operations................. III-15
+         Figure IV-1. Field Confirmatory Lab Support From
+             USN Capability...........................................................................IV-5
+         Figure IV-2. Sample Collection Flow .........................................IV-6
+         Figure V-1. Maintaining Mission Readiness:
+              “Detect to Treat”........................................................................ V-3
+         Figure V-2. Possible Biological-Detection Network
+             with Centralized Warning ........................................................ V-4
+         Figure V-3. Tracking BW Data...................................................... V-6
+         Figure V-4. Biological-Event-Tracking Tool.............................. V-7
+         Figure V-5. Incident Report (Sample)......................................... V-9
+         Figure V-6. Biological-Event-Tracking Tool (Sample) .......... V-13
+         Figure B-1. Field Confirmatory Testing..................................... B-5
+         Figure B-2. Laboratory Response Network Structure............ B-5
+         Figure E-1. Biological-Surveillance Mission
+             Planning—Preattack ................................................................. E-2
+         Figure E-2. Biological-Surveillance Mission
+             Planning—Attack and Postattack .......................................... E-4
+         Figure E-3. Conducting BW-Threat Analysis (IPB) ................. E-8
+         Figure E-4. Dice Five Array......................................................... E-12
+         Figure E-5. Circle Employment .................................................. E-12
+         Figure E-6. Picket Line Employment........................................ E-12
+         Figure E-7. Semicircle Employment.......................................... E-13
+         Figure E-8. Dense Picket Employment..................................... E-13
+         Figure E-9. Critical-Node Array ................................................. E-14
+         Figure E-10. Area Array Support ............................................... E-17
+         Figure E-11. BIDS Deployment Areas ....................................... E-20
+         Figure G-1. Sample Chain-of-Custody Form ............................. G-5
+         Figure H-1. LRBSDS Employment Concept .............................. H-4
+         Figure H-2. Sample LRBSDS Mission ......................................... H-8
+         Figure H-3. Flight Profile Examples for LRBSDS
+             Missions ...................................................................................... H-11
+         Figure H-4. Sample Air Mission Briefing Guide..................... H-19
+         Figure H-5. Optimal Altitude for Air Release ......................... H-22
+         Figure H-6. Optimal Altitude for Ground Release................. H-23
+         Figure H-7. Difference in Helicopter Altitude and
+             NAI Elevation ............................................................................ H-23
+
+
+---
+
+TABLES                                                                                              Page
+
+        Figure H-8. Low-Altitude Flight Profile
+            Considerations ..........................................................................H-24
+
+        Figure H-9. Two LRBSDSs Scanning an Entire NAI .............H-24
+        Figure H-10. An LRBSDS Scanning a Checkerboard
+
+            Pattern Into an NAI .................................................................H-25
+        Figure H-11. An LRBSDS Scanning the Front and
+
+            Rear Edges of an NAI...............................................................H-25
+        Figure H-12. Optimal Data Collection Altitude ......................H-26
+        Figure H-13. Minimum Single-Pass Altitude ...........................H-27
+        Figure H-14. Minimum Multipass Altitude ..............................H-27
+        Figure H-15. Departure Report ..................................................H-29
+        Figure H-16. Course Leg Commencement Request ...............H-30
+        Figure H-17. Course Leg Commencement SITREP................H-30
+        Figure H-18. Initial LAZER Detection Report ........................H-31
+        Figure H-19. Follow-Up Detection Report ...............................H-32
+        Figure H-20. Cloud Loss Detection Report ..............................H-32
+        Figure I-1. Sample BIDS SITREP................................................ I-20
+        Figure I-2. Sample Event-Tracking Form ................................. I-22
+        Figure I-3. Sample BIDS Incident Report for
+
+            Event Tracking........................................................................... I-23
+        Figure I-4. Sample Biological-Detection Platoon
+
+            Sector Sketch.............................................................................. I-24
+        Figure I-5. HF Network ................................................................. I-28
+        Figure I-6. MSE Network .............................................................. I-29
+        Figure I-7. VHF Network for M31, M31A1, and M31A2
+
+            and FBCB2 for M31A2 Only..................................................... I-29
+        Figure I-8. Sample FBCB2 Free Message Text for
+
+            Biological-Incident Reports .................................................... I-30
+
+        Table I-1. Biological-Surveillance Principles........................... I-11
+        Table II-1. Command Staff Biological-Defense
+
+            Responsibilities ........................................................................... II-2
+        Table II-2. Biological-Detection and -Collection
+
+            Assets—Operational Envelope ................................................II-8
+        Table II-3. Biological-Sample Courier Tasks...........................II-13
+        Table III-1. Identifying Risk Reduction Measures................. III-4
+        Table III-2. Biological-Surveillance Planning—Situation ... III-5
+        Table III-3. Biological-Surveillance Planning—Mission ...... III-6
+        Table III-4. Biological-Surveillance Planning—Execution .. III-6
+        Table III-5. Biological-Surveillance Planning—Service
+
+            Support ..................................................................................... III-11
+        Table III-6. Biological-Surveillance Planning—Command
+
+            and Signal................................................................................. III-14
+        Table V-1. Warning Level Applicability...................................... V-9
+        Table V-2. System Confidence Levels........................................ V-10
+        Table C-1. BIDS Comparison......................................................... C-3
+
+        ix
+
+
+---
+
+                                                                                                                    Page
+
+                        Table C-2. Dry Filter Unit 2000 Functions................................. C-5
+                        Table C-3. Dry Filter Unit 2000 Biological-Detection
+
+                             Process .......................................................................................... C-6
+                        Table E-1. Favorable, Marginal, or Unfavorable
+
+                             Meteorological Conditions for BW Line
+                             Source Release ............................................................................ E-9
+                        Table E-2. Sample Duration Intervals for Biological
+                             Detection System or Collector Operations........................... E-9
+                        Table F-1. Pros and Cons of the Centralized Warning
+                             System ............................................................................................F-3
+                        Table F-2. Pros and Cons of Decentralized Warning
+                             System ...........................................................................................F-3
+                        Table G-1. Sample Identification Numbers ............................... G-7
+                        Table G-2. Preparing a Dry Filter Unit Filter for
+                             Shipment ...................................................................................... G-9
+                        Table G-3. Packaging Supporting Documents for
+                             Evacuation ................................................................................. G-10
+                        Table H-1. LRBSDS Employment Options ................................. H-7
+                        Table H-2. Example of an LRBSDS Staff Planning
+                             Checklist ....................................................................................... H-9
+                        Table H-3. Helicopter NOE Altitude (150 to 1,000 Feet
+                             AGL)............................................................................................. H-13
+                        Table H-4. Helicopter NOE Altitude (1,001 to 5,000 Feet
+                             AGL)............................................................................................. H-13
+                        Table H-5. LRBSDS Mission Planning Checklist ................... H-15
+                        Table H-6. LRBSDS Mission Preparation Checklist.............. H-18
+                        Table H-7. LRBSDS Biological-Detection Process ................. H-20
+                        Table H-8. LRBSDS Biological-Surveillance Mission
+                             Execution Checklist (Sample) ............................................... H-21
+                        Table H-9. Data Items for LRBSDS Detection Report .......... H-33
+                        Table H-10. LRBSDS Postoperations Checklist..................... H-35
+                        Table I-1. P3I BIDS (M31A1) System Functions .........................I-1
+                        Table I-2. Preparing the Wet Collector for Evacuation ............I-4
+                        Table I-3. Preparing an Alternate Sample Container
+                             for Shipment ..................................................................................I-5
+                        Table I-4. Packing Supporting Documents for
+                             Evacuation .....................................................................................I-6
+                        Table I-5. Comparison of the UVAPS, CBMS, and
+                             Mini-FCM ........................................................................................I-7
+                        Table I-6. UVAPS, CBMS, and Mini-FCM Capabilities..............I-8
+                        Table I-7. Possible Impact of the Environment on
+                             BIDS Component Results ...........................................................I-9
+                        Table I-8. P3I BIDS Background Data ..........................................I-9
+                        Table I-9. P3I BIDS Event Data ................................................... I-10
+                        Table I-10. P3I BIDS System-Level Process.............................. I-11
+                        Table I-11. P3I BIDS System-Level Response Profile............. I-12
+                        Table I-12. Factors That Could Influence Medium or
+                             Low Confidence Levels ............................................................ I-13
+
+x
+
+
+---
+
+                                                                                            Page
+Table I-13. JBPDS (M31A2-BIDS) System Functions ............. I-13
+Table I-14. Packaging Supporting Documents for
+
+    Evacuation (JBPDS [M31A2-BIDS]) ...................................... I-15
+Table I-15. Background Characteristics.................................... I-17
+Table I-16. JBPDS (M31A2-BIDS) Background Data.............. I-18
+Table I-17. JBPDS (M31A2-BIDS) Event Data.......................... I-18
+
+                                                                                                          xi
+
+
+---
+
+                              EXECUTIVE SUMMARY
+
+              Multiservice Tactics, Techniques, and Procedures
+                                                for
+
+                                  Biological Surveillance
+
+               Biological-Surveillance Principles, Concepts, and Threats
+
+      Chapter I provides the principles and concepts of biological and medical
+surveillance. It discusses the execution of biological and medical surveillance and
+provides information on assessing the BW threat.
+
+       Biological-Surveillance Functions, Responsibilities, and Capabilities
+
+      Chapter II provides an overview of the functions of biological surveillance. It
+continues to define responsibilities of the staff in conducting biological-surveillance
+operations. It also provides the capabilities required to execute biological-surveillance
+operations.
+
+                                 Biological-Surveillance Planning
+
+      Chapter III discusses the planning of biological-surveillance operations. It discusses
+integrated biological-surveillance operations. It provides guidance for planning biological
+surveillance at the tactical, operational, and strategic levels. The chapter culminates
+with a discussion on the biological-surveillance process and the integration of biological-
+surveillance assets. The chapter provides a discussion on the biological-surveillance
+annex to an operation order (OPORD).
+
+                                   Biological-Sample Evacuation
+
+      Chapter IV provides guidelines for conducting biological-sampling operations. It
+discusses sample evacuation requirements, coordination, planning, and execution. It
+provides guidance on maintaining the sample chain of custody and conducting sample
+transfers. It also discusses the sample evacuation plan and subsequent sample analysis.
+
+                                      Information Management
+
+      Chapter V provides an overview of biological-detection information management. It
+discusses the elements of BW attack determination and decision making to include
+priority information requirements, reports, communications, operational-level
+assessments, and decisions.
+
+xii
+
+
+---
+
+                            PROGRAM PARTICIPANTS
+
+       The following commands and agencies participated in the development of this
+publication:
+
+                                                    Army
+
+       United States Army Chemical School, 401 MANSCEN Loop, Suite 1029, Fort Leonard
+Wood, MO 65473.
+
+       United States Army Medical Department Center and School, 1400 E. Grayson Street,
+Fort Sam Houston, TX 78234.
+
+       United States Army Soldier Biological Chemical Command, Aberdeen Proving Ground,
+MD 21040.
+
+                                               Marine Corps
+
+       United States Marine Corps Combat Development Command, 3300 Russell Road, Suite
+318A, Quantico, VA 22134-5021.
+
+                                                     Navy
+
+       United States Navy Warfare Development Command, 686 Cushing Road, Sims Hall,
+Newport, RI 02841.
+
+                                                  Air Force
+
+       United States Air Force Civil Engineer Support Activity, 14A Barnes Drive, Suite 1,
+Tyndall AFB, FL 32403.
+
+       United States Air Force Doctrine Center, 155 North Twining Street, Maxwell AFB, AL
+36112-6112.
+
+                                                                                                                                    xiii
+
+
+---
+
+                                        Chapter I
+
+  BIOLOGICAL-SURVEILLANCE PRINCIPLES, CONCEPTS, AND
+                                        THREATS
+
+1. Background
+
+      Biological- and medical-surveillance operations are mutually supportive and critical
+in support of FP. Biological detection and medical surveillance could be the first line of
+defense against a biological attack. These operations can support identifying whether or
+not a BW attack occurred prior to the onset of symptoms among the force.
+
+      a. Biological Surveillance. Surveillance is the systematic observation of
+aerospace, surface, or subsurface areas, places, persons, or things by visual, aural,
+electronic, or other means. Specifically, biological surveillance is the observation of
+specific areas of an area of operations (AO) for biological hazards. This includes the use of
+biological-detection or -collection assets (such as conducting background monitoring and
+biological-detection operations) and all source intelligences capable of providing
+information that a biological attack has occurred. It “paints the picture” of the status of
+the biological threat for the commander. It also includes the analysis and dissemination
+of the data collected.
+
+      b. Medical Surveillance.
+             (1) Medical surveillance is the ongoing, systematic collection of health data
+
+essential to the evaluation, planning, and implementation of public health practice. It is
+closely integrated with timely dissemination of data as required by a higher authority. A
+medical-surveillance system includes a functional capacity for the collection, analysis,
+and dissemination of data linked to public health programs. The foundation of a medical-
+surveillance program is the determination of unit-specific rates of illness and injuries of
+public health significance (see Appendix A). Medical surveillance is closely integrated
+with the timely dissemination of this data to those responsible for the prevention and
+control of disease and nonbattle injuries (DNBIs) and biological-defense planning. The
+establishment of uniform, standardized health surveillance and readiness procedures for
+all deployments is listed in Chairman of the Joint Chiefs of Staff (CJCS) Memorandum
+Military Classification Manual (MCM)-0006-02, Department of Defense Directive
+(DODD) 6490.2, and Department of Defense Instruction (DODI) 6490.3.
+
+             (2) Medical surveillance may provide the first indicator that a biological
+attack has occurred. If an attack is not detected directly, the first indication may be an
+increase of illness among the affected population. Most BW agents induce symptoms
+after an incubation period. An influx of patients reporting similar symptoms may
+indicate that an attack has occurred. Although it may be too late for medical
+countermeasures to help individuals who already show symptoms (see Appendix A), the
+trend can alert the medical system to initiate protective measures such as vaccines or
+antibiotics for those who have been exposed but are not yet sick.
+
+                                                                                                                                                   I-1
+
+
+---
+
+2. Surveillance Principles
+
+      Biological and medical surveillance are used to support early detection and
+identification of a biological-agent attack. Early identification of a BW attack is critical to
+support measures such as postattack medical prophylaxis and treatment. The principles
+of biological and medical surveillance directly support the NBC defense principles of
+Joint Publication (JP) 3-11 and Multiservice Tactics, Techniques, and Procedures for
+Nuclear, Biological, and Chemical Defense Operations. Biological and medical
+surveillance support measures such as BW agent contamination detection and
+identification or the initiation of postattack medical prophylaxis. The common features of
+biological and medical surveillance support identifying whether a threat BW attack
+occurred. The principles below support the surveillance process of detecting and
+identifying BW attacks.
+
+      a. Maximize the Probability of Detection.
+
+             (1) Thorough intelligence preparation of the battlespace (IPB) allows
+commanders to optimally position detection and medical resources and establish
+strategies to increase the probability of detection and identification.
+
+             (2) The information collected and reported is directly applicable to the
+commander’s critical information requirements (CCIR) developed during IPB, the
+prevention of DNBI, and the ongoing identification of the biological threat in the AO. For
+example, the supporting information from a lab conducting field confirmatory or
+definitive identification (see Appendix B) directly supports a commander’s priority
+information requirements (IRs) (such as identifying that a threat BW attack has
+occurred).
+
+      b. Orient on the Threat.
+
+             (1) The threat BW situation is assessed before commencing operations. The
+IPB process assesses where, when, how, and why the threat may employ biological
+weapons. IPB assists in focusing the surveillance efforts at the critical places and times.
+For example, biological-detection and medical assets are assigned areas of responsibility
+(AORs) based on the IPB. The IPB process evaluates the weather and terrain of the AOR
+to assess the impact of the environment on BW agent employment.
+
+             (2) The surveillance process also focuses on background conditions such as
+the development of a profile of disease occurrence in the AO. This allows the staff
+planners to identify and differentiate background disease occurrence from actual BW
+attacks.
+
+      c. Report All Information Promptly and Accurately.
+
+             (1) Biological and medical surveillance are performed to obtain information.
+Higher commanders merge this information with other intelligence indicators to confirm
+biological attacks and make decisions. The information source will generally have a
+confidence level associated with it. The source of the information can be an important
+element in the decision-making process.
+
+             (2) Transmission of the collected information is uniform in method and
+schedule. Reports of the interpreted information are clear, predictable, and coordinated
+with operation plans (OPLANs) and OPORDs.
+
+I-2
+
+
+---
+
+      d. Develop the Situation Rapidly.
+
+             (1) Once the unit or activity performing the biological- or medical-
+surveillance mission detects or identifies a BW agent, the information is forwarded
+rapidly through the reporting chain. The information is time sensitive and must be
+evaluated along with other intelligence indicators to update the commander’s situational
+awareness (SA).
+
+             (2) The surveillance plan uses the communications and network capabilities
+of the theater and the sustaining base to rapidly disseminate surveillance results
+throughout the command (such as intelligence, NBC, and command channels) and
+within the combat health support system.
+
+      e. Optimize the Use of Biological-Surveillance Capabilities. When selecting
+biological- (see Appendix C) and medical-surveillance assets to perform a task, the
+commander considers the capabilities of the available assets. Based on the assigned
+mission, threat IPB, and system capabilities, the NBC and medical staff prepare their
+surveillance plans.
+
+3. Biological- and Medical-Surveillance Concepts
+
+      The operational concept for biological surveillance is impacted by multiple factors
+such as mission, enemy, terrain and weather, time, troops available, and civilian
+(METT-TC) considerations. These factors are interrelated (terrain and weather impact
+BW agent employment and the location of a biological-detector array). The biological-
+surveillance planner considers these factors and analyzes the tradeoffs that exist
+between these different considerations (such as the tradeoff between mission
+requirements and troops and support available). Achieving the tradeoff between these
+factors results in an overlap that should maximize the probability of detection
+(see Figure I-1 [page I-4]). The siting of biological-surveillance systems will be impacted
+by the following factors:
+
+      z Mission—What are the commander’s IRs and priorities of effort?
+
+      z Enemy—What agent and delivery systems may be used by the threat?
+
+      z Terrain and weather—What terrain is available to position available assets?
+             How will weather and terrain impact BW aerosol releases?
+
+      z Troops available—How does the plan allocate a limited number of surveillance
+             assets? How does the plan apportion sustainment resources? (See Appendix D.)
+
+      z Time available and civilian considerations—How much time is available before
+             the onset of BW agent symptoms? What is the estimated time for evacuation
+             and lab analysis of samples? What is the estimated time to conduct postattack
+             medical prophylaxis?
+
+      The operational concept integrates the METT-TC conditions into practical terms
+that drive an effective probability of detection and support the development of viable
+courses of action (COAs) that are operationally and logistically supportable. Defining the
+operational concept in terms of a workable process leads to the development of risk
+reduction measures. Before the process of defining risk reduction measures begins, the
+command and staff ensure that they understand the assigned mission and the higher
+commander’s intent, guidance, risk assessment, constraints, and priorities of effort. An
+
+                                                                                                                                     I-3
+
+
+---
+
+                     Mission and enemy     Troops available and
+                                           civilian considerations
+
+     Maximize the                          Terrain and weather
+     probability of                        and time available
+
+       detection
+
+     Mission                               Time available
+        • Risk assessment.                    • Time to the onset of symptoms for
+        • Priorities of effort.                    treatment and threat analysis.
+        • Commander’s guidance.               • Time for the movement of samples to
+        • Commander’s intent.                      confirmatory or definitive lab.
+                                              • Decision time requirements (varies by
+     Enemy                                         type and trigger event).
+        • Agent and delivery systems.
+        • Delivery techniques.             Troops available and civilian considerations
+        • Threat to systems.                  • CLS availability.
+        • Uncertainty.                        • Types and numbers of systems available.
+                                              • System capabilities (such as an
+     Terrain and weather                           operational envelope).
+        • Wind direction and speed.           • FP for biological-detection assets.
+        • Stability conditions.               • Availability of HN resources.
+        • Impact of the terrain on the BW     • Movement of resources and biological
+             agent.                                samples across IBs.
+        • Impact of the background on         • Vaccination rate-consideration of military
+             systems.                              support to civil authorities.
+        • Size of assigned AO.
+
+                  Figure I-1. METT-TC Factors That Impact Biological Surveillance
+
+understanding of the mission provides the link between the mission and the concept of
+operations (CONOPS). To implement an operational concept that recommends effective
+risk reduction measures (see Figure I-2), the command and staff can use the following
+steps: detect and/or identify the BW hazard, assess the BW hazard, develop risk
+reduction measures and make risk decisions, implement risk reduction measures, and
+supervise and evaluate.
+
+      a. Detecting and/or Identifying the BW Hazard. Risk decisions should be based
+on SA of the threat. The threat of a BW attack can be found in nearly all operational
+
+I-4
+
+
+---
+
+           Step 1                          Step 2
+       Detect and/or               Assess BW hazard
+        identify BW
+                                                   Step 3
+           hazard                 Develop risk reduction measures
+
+     Mission                           and make risk decisions
+                                            Develop controls
+      Mission
+      Mission                        Determine the risk for each
+                                      hazard and overall mission
+                     New hazards
+Lesson learned                               Make decisions
+
+           Step 5
+   Supervise/evaluate
+
+            Step 4
+      Implement risk
+   reduction measures
+
+                            Figure I-2. Preparing BW Risk Reduction Measures
+
+environments, and the ability of unit leaders and staff to detect and/or identify the
+hazard is essential. The command and staff consider the following threats—
+
+             z BW agent capabilities.
+
+             z Available delivery systems.
+
+             z Delivery techniques.
+
+             z The likelihood of the use of a BW agent.
+
+             z The threat capability to attack and destroy US biological-detection assets.
+
+             (1) Identifying the threat BW agent capability is critical. Ensuring that
+biological- and medical-surveillance resources are prepared to support force health
+protection is vital.
+
+             (2) Identifying the BW hazard examines how and where a threat may use a
+BW agent (such as inside a building or outside with a line or point source). This is a
+challenging process with the unpredictability of BW agent use.
+
+      b. Assessing the BW Hazard. The command and staff assess the probability and
+severity of BW attacks to determine the potential risk to the mission and personnel. The
+end result is an estimate of risk and an assessment of the overall risk to the mission. The
+risk assessment is directly related to the BW hazard identification and method of BW
+employment. BW hazard identification is key to determining protective measures,
+casualty estimates, and the time before the onset of symptoms. Methods of employment
+include aerial sprayers, infected persons or vectors, or contaminated food or water. When
+
+                                                                   I-5
+
+
+---
+
+sprayers and explosive devices are used, factors that will impact the risk assessment
+include terrain and weather. BW hazard identification and the method of employment
+are interlinked and are used to support BW risk assessments. See Appendix E.
+
+             (1) Terrain and weather impact the assessment of the BW hazard. Specific
+factors that are part of the assessment include—
+
+      z The wind direction and speed.
+
+      z Atmospheric stability conditions (stable, neutral, or unstable).
+
+      z The impact of terrain (natural and man-made) on BW agent cloud
+            behavior.
+
+      z The impact of background conditions (environmental or man-made)
+            on biological-detection capabilities.
+
+      z The size of the AO.
+
+      z The impact of weather phenomena on biological-detection
+            capabilities.
+
+      (2) The time available is impacted by the time—
+
+      z To the onset of symptoms following exposure to a BW agent.
+
+      z For the movement of samples and for lab analysis.
+
+      z For support of the decision-making process.
+
+      (3) The protective posture of the personnel in the affected area is impacted by
+
+the—
+
+      z Immediate availability of respiratory protection.
+
+      z Vaccination rate.
+
+      z Immediate availability of collective protection.
+
+     c. Developing Risk Reduction Measures and Making Risk Decisions.
+
+             (1) After assessing the BW threat and the potential hazard of a BW attack,
+the command and staff develop risk reduction measures that should reduce the risk to
+the force. To be effective, each risk reduction measure developed must meet the following
+criteria:
+
+      z Suitability. It must reduce the hazard.
+
+      z Feasibility. The unit must have the capability to implement the
+            risk reduction measure.
+
+             (2) Examples of risk reduction measures include the following critical
+measures:
+
+      z Preparing an employment plan that optimizes the use of available
+            biological-detection resources (see Appendix E).
+
+      z Establishing centralized or decentralized warning and reporting
+            (see Appendix F).
+
+I-6
+
+
+---
+
+                    z Preparing a sample collection plan that integrates the use of
+                           laboratories, sample courier assets, and biological-detection assets
+                           (see Appendix G).
+
+                    z Providing the required reports through the established
+                           communications architecture to support the commander’s SA.
+
+                    z Preparing a logistics plan that integrates the use of contracted
+                           logistics support (CLS) and standard military support.
+
+                    z Preparing a plan for medical prophylaxis and treatment.
+                    z Ensuring that command and control (C2) and support relationships
+
+                           are specified.
+                    z Preparing a plan for minimizing the spread of the contamination,
+
+                           whether from the agent itself or contagious personnel.
+                    z Implementing quality management practices.
+                    z Providing quality management practices for the FP of surveillance
+
+                           resources.
+                    z Establishing a plan for the use of standoff detection systems
+
+                           (see Appendix H).
+                    z Preparing a restriction of movement plan to limit the possible
+
+                           transmission of a contagious BW agent.
+             (3) The development of risk reduction measures hinges on suitability and
+feasibility considerations. Factors that impact the risk reduction measure selected
+include the—
+
+                    z Number of biological systems available.
+                    z Capability of the systems available (for example, what is the
+
+                           operational envelope for the systems, individually or collectively).
+                           (See Appendixes C and I.)
+                    z Availability of CLS to support at one or more locations.
+                    z Availability and location of supporting confirmatory and/or definitive
+                           laboratories and sample couriers.
+                    z Availability of security resources to provide FP for low-density
+                           biological-detection assets.
+                    z Availability of host nation (HN) resources to support biological
+                           surveillance.
+                    z Mobility to move the required resources (such as samples and
+                           logistics) intratheater, intertheater, and between theaters.
+                    z Capability to communicate the required information and obtain the
+                           required technical reach-back capability.
+                    z Number of people exposed to the BW agent.
+
+                                                                                                                                     I-7
+
+
+---
+
+             (4) The development of risk reduction measures is directly linked to variables
+associated with BW hazard identification and assessment. Further, the risk associated
+with each control measure is assessed along with the overall risk to the force.
+
+      d. Implementing Risk Reduction Measures. The command and staff ensure that
+controls are integrated into standing operating procedures (SOPs), written and verbal
+orders, mission briefings, and staff estimates. The critical check for this step is to ensure
+that controls are converted into clear, simple execution orders that are understood at all
+levels.
+
+      e. Supervising and Evaluating. During mission preparation and execution,
+leaders complete the risk assessment process through supervision and evaluation. The
+continuous evaluation and assessment of risk levels may yield lessons learned and/or the
+identification of new hazards. Supervision and evaluation is a basic form of quality
+managment.
+
+4. Execution of Operational Concepts of Biological and Medical Surveillance
+
+      a. Biological Surveillance. Biological-detection and -collection assets are
+employed based on the mission, the risk assessment, and an evaluation of the threat
+force capability to use BW agents. The commander will prioritize the use of available
+assets and establish an employment plan that integrates the use of fixed-site and
+maneuver or maritime biological-detection and -collection assets. The operational
+settings for employing biological-detection and -collection elements include fixed sites,
+ports, or airfield FP (critical node) and maneuver or maritime FP (area array).
+
+             (1) Fixed sites, ports, or airfield force protection. This operational setting can
+occur when biological-detection and/or -collection assets are placed on or near a site to
+provide biological surveillance. They can be used to detect off-site or on-site attacks and
+can be employed to protect early-entry sites and C2 sites such as an installation, aerial
+port of debarkation (APOD), seaport of debarkation (SPOD), or specific buildings. A
+METT-TC analysis will determine the number of systems required as point detectors or
+samplers for critical target areas such as logistics bases, C2 locations, major airfields,
+airbases (ABs), naval bases, or ports. In joint operations, biological-detection and -
+collection systems can also be placed inside critical buildings. Guidance on site selection,
+placement, and spacing can found in Appendix E.
+
+                    (a) Fixed-site biological surveillance provides for a redundant biological-
+detection and -collection capability. This capability may address the need for surveillance
+of the outside ambient air and internal building air.
+
+                    (b) Monitoring the outside ambient air provides a capability to detect an
+external release of a biological agent from an overt or covert release. Additionally, critical
+buildings may be provided with biological-detection or -collection capabilities internal to
+the heating, ventilation, and air conditioning (HVAC) systems of the structure. These
+systems are used to detect possible covert or overt use of biological agents.
+
+             (2) Maneuver or maritime force protection. In this operational setting, the
+biological-detection and/or -collection elements are employed in an array designed to
+optimize the probability of detection consistent with FP security requirements. Maritime
+or land force assets will be placed based on METT-TC considerations. The size of the
+
+I-8
+
+
+---
+
+force to be protected also has a direct impact on system placement. The biological-
+detection assets should ideally be placed in depth throughout the AO to detect a
+biological-agent cloud that may have been disseminated as a large-area-coverage or line
+source attack from a ground, maritime, or aerial platform. Guidance for employing assets
+can be found in Appendix E.
+
+      b. Medical Surveillance. Executing medical surveillance is a responsibility that is
+shared by the individual, unit leaders, senior commanders, and the health service
+support (HSS) system.
+
+             (1) Individuals support medical surveillance by—
+
+                    z Reporting outbreaks of sickness or illness in the ranks.
+
+                    z Complying with preventive-medicine (PVNTMED) guidance.
+
+             (2) In executing medical surveillance, unit leaders—
+
+                    z Inform personnel of illness, injury, and disease threats; the risks
+                           associated with those threats; and the countermeasures in place (or
+                           to be used) to minimize those risks while deployed.
+
+                    z Ensure that individuals comply with PVNTMED guidance.
+
+                    z Promote PVNTMED programs and policies.
+
+                    z Ensure the completion of predeployment and postdeployment health
+                           assessment forms.
+
+                    z Ensure that environmental-health assessments are documented to
+                           record any exposures.
+
+             (3) Senior commanders support the execution of their medical-surveillance
+responsibilities through—
+
+                    z Supporting medical surveillance within their units with appropriate
+                           planning, resources, policy, enforcement, education, and training.
+
+                    z Using medical-surveillance information as the basis for unit health
+                           reporting and in all phases of planning.
+
+                    z Reporting unit DNBI rates and health readiness according to joint
+                           guidance, service policy, OPORDs, and OPLANs.
+
+                    z Providing unit personnel status reports.
+
+                    z Consolidating medical-surveillance report information to determine
+                           health status and medical threat.
+
+                    z Ensuring that personnel complete predeployment and
+                           postdeployment health assessment forms (Department of Defense
+                           [DD] Form 2795 [Pre-Deployment Health Assessment] and DD Form
+                           2796 [Post-Deployment Health Assessment] and other requirements
+                           according to joint guidance (see DODD 6490.2).
+
+5. Biological-Warfare Threat Triggers
+
+      From an operational standpoint, the command and staff IPB assesses the threat
+BW capability (when, where, and how a threat may employ BW agents). However, the
+
+                                                                                                                                     I-9
+
+
+---
+
+command and staff retain a pragmatic view that threat use of BW could be
+unpredictable. In response to a BW threat with unknown factors, the applicable OPLAN
+and/or OPORD outlines the priorities of effort and trigger events (decision points) that
+will result in a response that includes biological-defense countermeasures.
+Understanding different trigger events is important because trigger events help
+determine how far into a BW attack the response to the event begins. This helps shape
+the ability of the force to respond. The closer the response to an actual BW event (detect
+to treat), the less severe the damage to operations will be (fewer number of casualties).
+BW attacks could occur against small- (fixed sites such as ports or airfields) or large-area
+(such as maneuver or maritime forces) targets. A threat could use point or line source
+BW weapons (overt or covert) against small or large targets to achieve surprise and
+unpredictability as to the time and place of attack. Several key indicators that might
+signal a BW attack are medical surveillance, detector triggers, intelligence triggers, and
+weapons event triggers.
+
+      a. Medical surveillance may be the first detection of a BW event; casualties may
+be the first indication of a biological attack. A postattack analysis of the event will
+influence operational decisions—decisions likely to be complicated by uncertainties
+regarding the nature and scope of the attack. For example, use of an infectious agent
+could lead to quarantine or restriction of movement for US or HN assets.
+
+      b. Detector trigger events refer to the discovery, via a detection device signal that
+a biological agent may be present in the environment. Detectors may or may not indicate
+the presence of all BW agents due to the sensitivity of the devices and the possibility of
+false positives and false negatives. Detectors are limited to those BW agents for which
+they are designed to find. They may not detect BW agents in certain media (food, water,
+or soil). Networked aerosol detectors, positive presumptive test results, and supporting
+field confirmatory lab results help determine if a biological event occurred and is
+identified before the onset of casualties.
+
+      c. Intelligence triggers occur when a commander receives an intelligence report
+indicating that a threat possesses an offensive biological capability, that there is unusual
+threat activity consistent with the logistics and operational use of a biological agent, or
+that a fixed site may be attacked with a biological agent. Information and intelligence
+from multiple sources (the general public, military intelligence, or national intelligence
+institutions in the HN) can provide advance warning of a biological attack. Intelligence
+warning is the most likely, and perhaps the only, trigger event that allows a commander
+the opportunity to take preattack actions.
+
+      d. Weapons event triggers refer to an overt attack by weapon systems, such as
+theater ballistic missiles (TBMs), submunitions, or artillery that might be armed with a
+BW. If intelligence has assessed a biological-weapon capability, a weapons event in high-
+threat areas will likely be initially treated as an unknown agent. Detection, observation,
+or other notices of attack prior to casualties trigger during-attack actions. These actions
+initially focus on immediate actions to preserve human life. Detection of an attack in
+progress may result from an upwind attack warning, a detector alarm, or observable
+weapons events and should determine if a chemical or biological agent was used.
+
+6. Application of Principles of Biological Surveillance
+
+      a. Applying the principles of biological surveillance helps ensure that the
+supported commander receives the required capabilities. Table I-1 provides a sample of
+
+I-10
+
+
+---
+
+the biological-surveillance principles and example capabilities that could be required to
+support a joint-force commander (JFC). In this example, a JFC is moving elements of a
+USA corps and light infantry division into an APOD (a main operations base [MOB]) and
+a maritime force is supporting operations from offshore.
+
+                                 Table I-1. Biological-Surveillance Principles
+
+         Biological-Surveillance Principles                                  Capability
+Maximize probability of detection
+                                               Provide the JFC with biological- and medical-
+Orient on the threat                           surveillance assets to support mission-essential APOD
+                                               and maritime operations.
+Report information rapidly and accurately
+Develop the situation rapidly                  Conduct IPB to ensure understanding of the operational
+                                               environment (such as background conditions) and
+Optimize biological-surveillance capabilities  threat intent and capabilities.
+
+                                               Establish a warning-and-reporting network between
+                                               service components and the JFC.
+
+                                               Provide for the evacuation of presumptively identified
+                                               BW samples to the supporting confirmatory or definitive
+                                               lab.
+
+                                               Provide the JFC with biological surveillance, lab, and
+                                               sample courier assets.
+
+             (1) Maximize the probability of detection. JFC biological-surveillance
+capabilities are supported by the MOB Joint Portal Shield network and dry filter unit
+detection and collection capabilities. USA biological-detection assets also support
+operations from detector sites around the APOD. Shipboard biological-surveillance
+capabilities include the Interim Biological Agent Detector System (IBADS), Joint
+Biological Point Detection System (JBPDS) dry filter units, and handheld assays.
+Confirmatory lab support can be provided by an Air Force biological augmentation team,
+an Army medical laboratory, and Navy forward deployable preventive medicine units
+and is available on aircraft carriers and large deck amphibious ships. A Navy
+environmental and preventive medicine unit can provide a reach-back capability.
+
+             (2) Orient on the threat. The command and staff conduct IPB to understand
+the operational environment (the impact of background conditions on biological
+detection) and the threat intent and capabilities.
+
+             (3) Report all information rapidly and accurately. The JFC’s warning-and-
+reporting system facilitates the prompt reporting and tracking of BW event information.
+
+             (4) Develop the situation rapidly. The movement of presumptively identified
+samples to confirmatory laboratories within 6 hours provides critical information to
+support decision points for the commander.
+
+             (5) Optimize biological-surveillance capabilities. A networked team composed
+of medical and biological surveillance and sample couriers provides the resources needed
+for the support of biological-attack surveillance.
+
+      b. Implementing effective biological and medical surveillance should include
+quality-management practices that provide a group or series of measures and actions
+that are employed to ensure that a system, process, or analytical test is functioning
+properly. Omission of any aspect of the quality-management program decreases the
+
+                                               I-11
+
+
+---
+
+overall quality of the analytical result. Elements of a quality-management program can
+include ensuring—
+
+             z That proper operator training and certification is performed to maintain
+                    knowledgeable, skilled operators and technicians to perform the analysis.
+                    Documentation of both initial and continuing training for all operators of
+                    the system or process must be maintained.
+
+             z The proficiency of each operator is maintained through the periodic
+                    analysis of unknown samples (such as proficiency tests). The results must
+                    be verified and documented by a supervisor or designated observer who
+                    attests to the accuracy of the analysis and adherence to the proper
+                    analytical process.
+
+             z The preventive maintenance checks and services (PMCS) on all
+                    equipment and instruments are conducted on a routine basis as
+                    recommended by the equipment operating manual. Documentation of the
+                    performance of PMCS and the problems corrected must be maintained.
+
+             z That critical reagents and controls are transported and stored in the
+                    proper environment as directed by the manufacturer.
+
+             z That positive and negative controls are performed and the results are
+                    obtained and documented.
+
+             z That management and supervisory personnel maintain awareness of
+                    potential errors and problems with the system or process, evaluate
+                    personnel and process, document errors or problems, and take corrective
+                    action to eliminate or minimize such errors or problems.
+
+7. Commander’s Information Requirements—Sample Results and Medical
+Surveillance
+
+      a. The analysis and identification of a BW sample will support a commander’s
+IRs. The analysis of a sample can range from presumptive, to confirmatory, to definitive
+identification. The three levels of identification and their associated sample analysis
+definitions are addressed below.
+
+             (1) Biological-warfare agent field presumptive identification. Presumptive
+identification is provided by the positive results from a device such as a handheld assay.
+This process provides for the identification of a suspect BW agent by means of devices,
+materials, or technologies that detect biological markers (biomarkers) using a single
+methodology (see Appendix B). Agent identification to species level or differentiation
+among a family of similar agents, may not be possible. This is equivalent to the
+Laboratory Response Network for bioterrorism Level A and the USA Biological
+Integrated Detection System (BIDS).
+
+             (2) Biological-warfare agent field confirmatory identification. This process
+provides for the identification of a suspect BW agent by means of devices, materials, or
+technologies that detect biomarkers using two or more independent biomarker results.
+The field confirmation identification process can be accomplished in a matter of hours
+(6 to 8 hours). Examples might include the findings of the presumptive biomarker
+identification with the addition of a positive polymerase chain reaction, enzyme-linked
+immunosorbent assay, or electrochemiluminescence results, using specific target nucleic
+
+I-12
+
+
+---
+
+acid sequences for the organism and antibody recognition of agent specific antigen sites,
+respectively. This is equivalent to field sample or specimen identification conducted by
+forward-deployed or forward-positioned laboratories such as the USAF biological
+augmentation team, the Army medical laboratory, forward-deployed preventive medicine
+unit (USN), or homeland security Laboratory Response Network Level B or C asset (USA
+community hospitals or medical centers). BW-agent field confirmation identification is
+also available aboard selected aircraft carriers and amphibious ships and at selected
+medical facilities. These laboratories also have a reach-back capability with a definitive
+lab for consultation.
+
+             (3) Biological-warfare agent definitive identification. This process provides
+for the specific identification of a suspect biological agent as to genus and species,
+serological type, or toxin. This level of identification is by means of devices, materials, or
+technologies that detect based on two or more independent biomarker results using
+different methodologies. The definitive identification process can be accomplished in
+several hours to a couple of days, depending on the number of tests required. This level of
+identification is performed in a reference lab with a broader variety of methodologies
+available and highly skilled testing personnel, thus providing the highest levels of
+accuracy. Final sample or specimen identification is accomplished at one of the
+nationally recognized continental US (CONUS) reference laboratories such as the United
+States Army Medical Research Institute of Infectious Diseases (USAMRIID), the Navy
+Medical Research Center, or the Centers for Disease Control and Prevention (CDC).
+
+      b. Sample analysis from the BW-agent identification process can provide the
+commander with critical information. However, the first obvious indicator of a BW attack
+may be an increase of illness among the affected population (medical surveillance).
+
+      c. The commander uses multiple information sources (sample analysis results
+and medical surveillance). This information supports the commander’s SA and is critical
+input for critical decisions (detect to treat).
+
+                                                                                                                                   I-13
+
+
+---
+
+                                        Chapter II
+
+BIOLOGICAL-SURVEILLANCE FUNCTIONS, RESPONSIBILITIES,
+                                 AND CAPABILITIES
+
+1. Background
+
+      The commander will use all available assets (intelligence and medical and biological
+surveillance) to detect and reduce the effects of biological attacks. Resulting detection
+information will feed directly into the US force warning-and-reporting network.
+Intelligence and medical and biological surveillance are used to assess whether the
+threat has used BW agents. For example, signals intelligence (SIGINT) may intercept
+threat employment orders for a BW attack. Human intelligence (HUMINT) may also
+provide information on future threat intentions and BW manufacturing capabilities and
+locations. Medical surveillance assesses the incidence of illness to determine whether a
+biological attack may have occurred. Biological surveillance serves as another critical
+component of awareness. Biological-surveillance capabilities include the following:
+
+      a. Monitoring. When a biological-detection asset such as a Joint Portal Shield
+network or the JBPDS is operational, it is continuously monitoring the air for an
+increase in the number of aerosol particles within a certain size range that would
+indicate a BW attack. In addition, this may include the random or routine monitoring of
+food and water sources for contamination by HSS personnel.
+
+      b. Alerting. Alerts provide the initial determination that a biological attack may
+be occurring. Alerting devices determine if any change in the particulate background at
+the sensor may indicate a possible presence of biological agents. Selected alerting devices
+are also capable of determining whether biological mass is present in the ambient air.
+
+      c. Sampling. Sampling of the biological agent is a crucial part of the identification
+system. The sampling process collects possible BW samples for subsequent use in the
+identification process. It is important to note that the chain-of-custody must be initiated
+by the person who takes the sample.
+
+      d. Detecting. Once a sample has been collected and concentrated, the detection
+process in selected biological systems determines if the particulates are biological or
+inorganic in origin. To accomplish this, the sample passes to a generic detection
+component that analyzes the aerosol particles to determine if they are biological in
+origin. This component may also classify the suspect aerosol by broad category (for
+example, a spore, bacterium, or toxin).
+
+      e. Identifying. The identification process provides a presumptive identification of
+the biological agent collected at the system level. Identification is generally limited to a
+preselected set of agents and cannot identify agents outside of this set without the
+addition of new identifier chemistry, equipment, or preprogramming. Antibody-based
+assays are used for the presumptive identification of all fielded BW detection systems.
+
+      f. Reporting. The results from the biological-surveillance process are reported
+through the established reporting architecture. The controlling headquarters (HQ) NBC
+control center analyzes these biological reports to determine and assess whether a BW
+
+                                                                                                                                    II-1
+
+
+---
+
+attack occurred. Normally, this can be a joint task force (JTF), corps, numbered air force
+(NAF), or other operational level HQ.
+
+      g. Evacuating a sample and maintaining the chain-of-custody. Presumptively
+identified and background (environmental) samples are evacuated. Samples are
+collected, packaged, sealed, and documented. The chain-of-custody begins with the
+person taking the samples. A complete history of the circumstances about the acquisition
+of each sample is provided. The purpose of the sample may be for support of treatment or
+attribution (evidentiary) or both. It is critical that the sample be maintained at
+1-4°Celsius (C) during storage and transport. Samples are evacuated to preselected
+sample transfer points, sample management facilities, or directly to supporting
+laboratories. The chain-of-custody is maintained throughout the transfer process.
+Sampling and evacuation procedures are discussed in detail in Appendix G.
+
+2. Responsibilities
+
+      The NBC officer, medical officer, and intelligence staff work closely to manage
+biological-surveillance operations. They ensure that biological-and medical-surveillance
+considerations are integrated in the decision-making process. Command and staff
+responsibilities for biological defense are outlined in Table II-1. Biological-defense
+responsibilities define command and staff responsibilities relative to biological planning
+and operations.
+
+                    Table II-1. Command Staff Biological-Defense Responsibilities
+
+JTF/operational-       BW Detection Planning and Execution Responsibilities
+level commander   Allocates BW defense resources based upon METT-TC considerations. Determines
+COS               protection required including immunizations.
+Intelligence
+                  Reviews recommendations for priority IRs, priority target listing, and protective posture.
+Operations
+                  Assists in developing the biological-surveillance plan in support of the R&S plan.
+NBC officer/NCO   Coordinates BW intelligence reports and potential threat BW activities with the operations
+                  and NBC staffs and FSEs.
+Logistics
+Medical           Integrates BW defense training into unit combat mission training requirements. Develops
+                  risk assessment for operations in BW environments and assesses the OPTEMPO impact.
+                  Recommends targeting of BW-related activities. Rehearses/practices biological-sample
+                  evacuation plans.
+
+                  Develops the biological-surveillance annex in support of the R&S plan. Acts as the
+                  primary battle staff advisor on NBC defense. Ensures that BW defense considerations
+                  are part of the IPB process. Recommends biological-detection and -collection
+                  requirements and plans.
+
+                  Provides for supply and maintenance requirements.
+
+                  Advises and assists the commander and his staff on health and human safety in a BW
+                  environment (including health effects, PVNTMED, treatment, and patient evacuation).
+                  Recommends vaccinations, a pretreatment regime, and a treatment plan. Conducts
+                  liaison with field confirmatory laboratories and medical facilities. Conducts health risk
+                  assessments and provides commanders with health risk information for operational
+                  decision making. Provides a health risk assessment to the commander.
+
+      The following list of responsibilities and roles for operational-level or tactical
+commanders and staffs during biological-defense operations is not all-inclusive, but
+
+II-2
+
+
+---
+
+rather a general guide. The AF roles and responsibilities vary slightly from the guidance
+below and are outlined in AF Manual (AFMAN)-10-2602.
+
+      a. Commander.
+             z Prepares forces to defend, including training and equipping, against
+                    possible BW attacks.
+             z Orders preemptive strikes on threat BW capabilities.
+             z Directs the appropriate BW protective measures.
+             z Allocates biological-defense resources.
+             z Directs biological surveillance based on threat and intelligence indicators.
+             z Determines protection and warning criteria and the dissemination of a
+                    BW attack warning.
+
+      b. Chief of Staff (COS) and/or Executive Officer (XO).
+             z Ensures that staff estimates are coordinated and the staff integrates
+                    biological-defense considerations into the tactical decision-making
+                    process.
+             z Ensures that BW threat information is included when developing
+                    potential CCIR recommendations for the commander.
+             z Ensures that BW surveillance is synchronized with other intelligence
+                    collection efforts and the mission.
+             z Reviews staff recommendations for the employment of biological-detection
+                    assets and warning the force.
+             z Ensures that critical BW information is presented to the commander.
+             z Reviews recommendations for priority IRs, priority target listing, and
+                    protective posture.
+
+      c. Operations.
+             z Coordinates the staff BW risk assessment and recommends appropriate
+                    risk reduction measures to conserve combat power and protect the force.
+             z Recommends troop listing for BW defense assets based on the BW threat
+                    and mission.
+             z Integrates BW defense training into unit combat mission training that
+                    orients toward the conditions and standards of combat.
+             z Implements FP measures for reaction to threat BW operations.
+             z Considers the employment of biological-detection assets in planning
+                    future operations.
+             z Recommends the nomination of threat BW targets and related activities
+                    with the fire support coordinator (FSCOORD), intelligence, civil affairs
+                    (CA), and the NBC defense officer.
+             z Allocates biological-detection assets to current operations according to
+                    guidance.
+
+                                                                                                                                    II-3
+
+
+---
+
+             z Ensures that the biological-detection asset employment is synchronized
+                    with current (close, deep, and rear) operations.
+
+             z Assesses the impact of operations in a BW environment on operating
+                    tempo (OPTEMPO).
+
+             z Integrates the biological-detection asset employment with the branches
+                    developed to support current operations.
+
+             z Directs aviation and long-range biological-detection assets to execute
+                    long-range BW surveillance according to the commander’s guidance and
+                    priorities.
+
+             z Coordinates a rehearsal of the sample evacuation plan.
+
+      d. Intelligence.
+
+             z Applies IPB products to support the targeting of BW-related activities
+                    with fire support and tactical air assets.
+
+             z Disseminates weather reports and products from the staff weather officer
+                    and assesses implications in a BW threat environment.
+
+             z Analyzes BW attack information to develop intelligence to predict future
+                    BW employment.
+
+             z Creates the reconnaissance and surveillance (R&S) plan. This plan, which
+                    can be embedded in existing war plans, should include the biological-
+                    surveillance plan as an annex. The NBC defense officer will complete the
+                    biological-surveillance annex, with input from the medical and
+                    intelligence officer, ensuring synchronization with the overall unit R&S
+                    plan.
+
+      e. Fire Support.
+
+             z Uses the fire support target acquisition battery radar and sound/flash
+                    ranging equipment to identify the locations of threat indirect firing points
+                    used to conduct BW attacks.
+
+             z Destroys possible threat BW attack indirect fire systems using
+                    counterbattery fire.
+
+             z Provides an alternate means of determining local weather.
+
+             z Provides data to NBC defense personnel so that collateral damage
+                    estimates can be made regarding the release of BW agents that may occur
+                    as a result of the attack on threat systems.
+
+      f. Logistics.
+
+             z Coordinates biological-detection system CLS, as required.
+
+             z Coordinates with the HN through CA for any available biological-
+                    detection supplies unique to the biological-detection unit through foreign-
+                    nation support (FNS) channels.
+
+             z Coordinates biological-detection asset recovery and evacuation operations
+                    as necessary.
+
+II-4
+
+
+---
+
+      z Recommends the allocation of transportation capabilities to support the
+             rapid displacement of biological-detection assets.
+
+      z Forecasts resource requirements to support BW defense logistics
+             requirements.
+
+g. Personnel.
+
+      z Advise the commander and NBC defense officer on matters concerning
+             biological-detection asset personnel replacements.
+
+      z Request and allocate biological-detection personnel replacements as
+             required.
+
+h. Civil Affairs.
+
+      z Coordinates use of HN medical facilities to treat BW casualties, if
+             necessary.
+
+      z Determines the availability of biological-detection supplies unique to the
+             supported biological-detection asset from the local civil sector.
+
+      z Provides information (in the chief military observer [CMO] estimate) on
+             likely civilian actions reactions to a BW attack.
+
+i. Nuclear, Biological, and Chemical Defense Officer.
+
+      z Advises the commander and staff on operations in a BW environment.
+
+      z Ensures BW-related activities are part of the IPB process.
+
+      z Recommends actions to minimize friendly and civilian vulnerability to
+             BW attacks.
+
+      z Conducts BW vulnerability analysis in conjunction with the appropriate
+             staff elements (such as a staff threat working group).
+
+      z Participates in the target nomination process for threat BW-related
+             targets.
+
+      z Recommends tasking biological-detection assets to support the scheme of
+             maneuver and incorporates these assets into plans and orders.
+
+      z Coordinates biological-detection asset requirements with subordinate
+             commands.
+
+      z Recommends surveillance missions based on BW indicators and technical
+             knowledge of BW dissemination methods, agents, and favorable
+             conditions.
+
+      z Plans, coordinates, and evaluates BW defense training in cooperation
+             with the operations.
+
+      z Coordinates with the surgeon and medical staff in developing priorities of
+             effort for BW surveillance assets.
+
+      z Provides the biological-surveillance annex for the R&S plan to the
+             intelligence officer. The annex will include a sample evacuation appendix
+             that is coordinated with the surgeon or medical officer, staff intelligence
+             and transportation officer or NCO, and sample courier unit.
+
+                                                                                                                            II-5
+
+
+---
+
+      j. Surgeon or Medical Officer.
+
+             (1) DODI 6490.3 provides the following guidance for medical surveillance:
+during a deployment, the surgeon and the JTF surgeon will—
+
+                    “Deploy technically specialized units with capability and expertise in the
+                    conduct of surveillance for occupational and environmental illnesses,
+                    injuries, and diseases, health hazard assessments, and advanced
+                    diagnostic testing. . . . These specialized units may be deployed to meet
+                    the requirements of the deployed force through surveillance for
+                    occupational and environmental illnesses, injuries, and diseases,
+                    application of preventive medicine, use of advanced diagnostic testing,
+                    and coordination with combat stress control personnel. These units shall
+                    conduct health assessments of potential exposure to biological, chemical,
+                    or physical agents that threaten the health and safety of the command.”
+
+             (2) The surgeon, medical officer, or medical NBC defense officer also—
+
+                    z Advises and assists the commander and staff on health and human
+                           safety issues, including health effects, PVNTMED, treatment, and
+                           patient evacuation, in a BW environment.
+
+                    z Evaluates national medical intelligence in developing the BW
+                           vulnerability analysis and analyzes information on endemic
+                           diseases.
+
+                    z Identifies and coordinates the training and education of medical
+                           personnel on the medical management of personnel exposed to BW
+                           agents.
+
+                    z Coordinates with designated supporting medical lab to plan for the
+                           receipt and confirmatory analysis of suspected BW samples.
+
+                    z Identifies HN and other lab support that may be available, including
+                           integration with local and regional US and HN civilian medical-
+                           surveillance assets.
+
+      k. Staff Weather Officer.
+
+             (1) Advises and assists the operations, intelligence, and NBC defense officers
+with weather support capabilities and limitations in support of operations in a BW
+threat environment (for example, provides data used by the NBC staff in predicting the
+plume).
+
+             (2) Prepares climatological studies and analyses in support of operations in a
+BW threat environment.
+
+             (3) Evaluates and disseminates weather data, including forecasts, in support
+of operations in a BW threat environment.
+
+             (4) Responds to requests for information (for example, analyzes weather
+effects on BW).
+
+      l. Staff Judge Advocate (SJA).
+
+             (1) Provides legal advice regarding the law of armed conflict (LOAC) and
+attack of facilities suspected of being related to BW activities.
+
+II-6
+
+
+---
+
+             (2) Reviews chain-of-custody procedures.
+
+             (3) Provides guidance on issues that may occur if quarantine, restriction of
+movement, and mass-vaccination operations are considered.
+
+3. Capabilities
+
+      The commanders establish requirements for biological-surveillance capabilities and
+synchronize their use to complement other supporting capabilities (such as medical
+surveillance and intelligence). The integrated use of biological-detection assets,
+communication resources, sample courier and transportation assets, and lab resources is
+required to support an effective risk reduction strategy.
+
+      a. Biological-detection and -collection assets. The concept of employment (COE)
+for biological-detectors and -collection systems helps define where and how these assets
+will be used. Execution of biological-detection operations supports fixed-site ports,
+airfields, and/or maneuver force operations. Individual systems can be employed
+collectively or as a system of systems (integrating the use of different systems). The COE
+for biological-detection and -collection systems lends itself to employment at fixed sites
+(critical-node array) or to support of maneuver or maritime forces (area array). However,
+the COE for selected systems only lends itself one setting (fixed sites). See Table II-2
+(page II-8) for information on the operational envelope for biological-detection and
+-collection assets. Table II-2 outlines the operational envelope for multiple biological-
+detection and -collection assets.
+
+             (1) COE for fixed sites, ports, and airfields and maneuver land or maritime
+forces. The COEs for multiple detectors and collectors lend themselves to fixed-site
+operations and land and maritime forces.
+
+                    (a) Without the BIDS and Joint Service Light NBC Reconnaissance
+System (JSLNBCRS), these point detectors do not have authorized mobility assets or
+organic assigned operators. The fixed-site commander provides the operators that are
+required to move these assets. Systems employed at fixed sites, ports, and airfields
+include—
+
+                           z Joint Portal Shield.
+
+                           z M31A1 or M31A2 BIDS.
+
+                           z Fixed-site and/or trailer-mounted JBPDS and man-portable
+                                  JBPDS.
+
+                           z Dry filter units.
+
+                           z JSLNBCRS.
+
+                    (b) Maneuver land or maritime forces. These systems are still point
+detectors, but have assigned, organic ground transportation (except the shipboard
+JBPDS or IBADS). These systems include—
+
+                           z M31A1- and/or M31A2-BIDS.
+
+                           z JSLNBCRS.
+
+                           z Shipboard JBPDS/IBADS (maritime only).
+
+                           z Shipboard dry filter units.
+
+                                                                                                                                    II-7
+
+
+---
+
+II-8                           Table II-2. Biological-Detection and -Collection Assets—Operational Envelope
+
+       System/      COE        Capability     Point or     CLS      Produce     Prime      Power Source          Limitation          Organic
+           Kit                                Standoff  Required  Sample for    Mover          Available                      Communications
+                 Fixed         Monitors,     Detection  Yes       Evacuation  Available                       No detection
+      Joint      sites,        alerts,       Point      Yes       Yes         No           (i.e., generator)  capability to        Capability
+      Portal     ports,        collects,     Point                Yes         Yes        Yes                  complement      None
+      Shield     airfields     and                      Yes                              Yes                  the alert and
+                 Land          identifies    Point                Yes         Yes                             presumptive     AM/FM
+      M31A2-     maneuver      (outside                 Yes                              Yes                  identification
+      BIDS       force,        ambient air)  Point                Yes         No                              capability
+                 fixed sites,                           Yes                              Yes
+      M31A1-     ports,                      Point      Yes       Yes         No                                              AM/FM
+      BIDS       airfields                   Point                Yes         N/A        Yes
+                 Land                                                                    Yes                  Approximately   None
+      Fixed-     maneuver                                                                                     25 minutes      None
+      Site/      force,                                                                                       required from
+      Trailer-   fixed sites,                                                                                 alert to
+      Mounted    ports,                                                                                       presumptive
+      JBPDS      airfields                                                                                    identification
+      Man-       Fixed
+      Portable   sites,                                                                                                       None
+      JBPDS      ports,
+                 airfields
+      Shipboard
+      JBPDS      Fixed
+                 sites,
+                 ports,
+                 airfields
+                 Maritime
+                 force
+
+
+---
+
+                       Table II-2. Biological-Detection and -Collection Assets—Operational Envelope (Continued)
+
+      System/     COE                Capability       Point or     CLS      Produce     Prime    Power Source       Limitation             Organic
+         Kit                                         Standoff   Required  Sample for    Mover       Available                       Communications
+                                 Collects and        Detection            Evacuation  Available
+                                 identifies                                           No         (i.e., generator)                       Capability
+                                 (internal building                                   No
+      Dry Filter  Fixed sites,   air)                Point      Yes       Yes                    No (AC required)   No alerting     None
+      Unit 1000   ports,         Collects and                                         No                            capability
+                  airfields      identifies
+                                 (outside ambient                                     Yes
+      Dry Filter  Shipboard      air and internal    Point      No        Yes                    No (AC required)   No alerting     None
+      Unit 1000   Operations     air)                                                 N/A                           capability
+                                 Collects and
+      Dry Filter  Fixed sites,   identifies          Point      Yes       Yes         Yes        No (AC required)   No alerting     None
+      Unit 2000   ports,         (outside ambient                                                                   capability
+                  airfields      air or internal
+                                 building air)
+      JSLNBCR     Fixed sites,   Monitors, alerts,   Point      Yes       Yes                    Yes                N/A             FM
+      S           ports,         collects, and
+                  airfields,     identifies          Point      No        Yes                    N/A                No alerting None
+      DOD         land           (outside ambient
+      Biological  maneuver       air)                                                                               capability
+      Sampling    force
+      Kit                        Samples and         Standoff Yes         No                     N/A                No              None
+                  Maneuver       identifies
+      LRBSDS      land force,    (surface
+                  maritime       contamination)
+                  force, fixed                                                                                      presumptive
+                  sites, ports,  Detects (outside
+                  airfields      ambient air)
+
+                  Maneuver                                                                                          identification
+                  land force,
+II-9              maritime                                                                                          capability
+                  force
+
+
+---
+
+             (2) Applying the COE for fixed sites, ports, and airfields (critical-node array)
+and maneuver land and maritime forces (area array).
+
+                    (a) Fixed Sites, ports, and airfield biological surveillance. Figure II-1
+shows how the JBPDS and dry filter unit can provide biological-surveillance coverage of
+an APOD. This same employment can be used for other fixed sites, ports, and airfields.
+The biological-detection assets provide decentralized reporting to the fixed site, port, or
+airfield NBC center.
+
+                  APOD
+
+                                                                                                                         JTF
+
+                                                                             AF
+                                                                          NBCCC
+
+                          Dry filter unit
+                           JBPDS
+
+                     Figure II-1. JBPDS and Dry Filter Unit Coverage of an APOD
+                    (b) Maneuver forces biological surveillance. Figure II-2 shows a
+biological-detection platoon providing surveillance for JTF maneuver forces (corps size)
+against a long line source attack. Concurrently, surveillance support is still provided at
+the APOD. The USA biological-detection platoon provides centralized reporting directly
+to the JTF.
+                    (c) Use of multiple systems to support biological surveillance (such as a
+system-of-systems concept). See Figure II-3 (page II-12) for an illustration that indicates
+use of dry filter units and JBPDS (trailer-mounted and man-portable) and a USA
+biological-detection unit. The dry filter unit and JBPDS are located within the APOD
+perimeter using a dice five employment tactic (see Appendix E). The BIDS unit is using a
+circular employment tactic within a US AO that is secure. The biological-detection unit
+HQ provides decentralized reporting to the AB NBC center.
+      b. Communications. Communications are important during biological-
+surveillance operations. Biological-surveillance assets must be capable of the timely
+reporting of biological-surveillance data to include personnel and logistics status. Units
+with biological-surveillance assets must be capable of effective warning and reporting to
+subordinate and adjacent units, as well as higher commands.
+
+II-10
+
+
+---
+
+            X                          X
+
+DS1P              DS3P   60 km   DS5P           DS7P
+                      X    DS4P
+            DS2P                 XX       DS6P
+
+                                                      XXX
+                                                      JTF
+
+                                 APOD
+
+      BIDS
+
+      Figure II-2. BIDS Platoon Emplacement to Provide Coverage for JTF (Corps Size)
+                              Maneuver Forces for a Long Line Source Attack
+
+      c. Lab Support. The commander has a number of critical decisions to make in a
+BW environment that require information that can only be provided by a supporting
+medical lab. A designated supporting lab will perform the field confirmatory
+identification of a BW attack. Service and in theater lab support include the Navy
+environmental and preventive medicine units, forward deployable preventive medicine
+units, Navy large deck platforms, the AF biological augmentation team, a theater Army
+medical laboratory, and other forward fixed-site laboratories (theater medical
+surveillance teams).
+
+      d. Sample Courier.
+
+                                                      II-11
+
+
+---
+
+             DS1P        DS2P
+
+            APOD
+
+DS7P                     DS3P                            JTF
+DS6P
+                                  AF
+                               NBCCC
+
+      DS5P         DS4P
+
+           BIDS
+           Dry filter unit
+           JBPDS
+
+ Figure II-3. Employment of Multiple Biological-Detection Collection Systems (System of
+                                                          Systems)
+
+             (1) The ability to courier suspected biological samples from biological-
+detection assets to supporting laboratories while maintaining chain-of-custody is of
+significant importance. Under normal circumstances the biological-detection asset is
+responsible for the evacuation of their samples to a designated sample transfer point.
+However, depending on the proximity of the supporting lab, the biological-detection asset
+may be required to evacuate the sample directly to the lab.
+
+             (2) The command must ensure it has an executable plan to get the samples to
+the supporting laboratories. In some cases, dedicated technical escort unit (TEU) assets
+are used to escort samples. The priority for dedicated TEU assets will likely go to
+escorting samples from the theater back to the CONUS-based national laboratories for
+definitive analysis and identification.
+
+             (3) The combatant commander’s sample evacuation plan must include the
+escort of samples within his AOR with and without a TEU. This may require using other
+available assets besides a TEU. A set of basic tasks that can be used to train in-theater
+couriers to transport biological samples is provided in Table II-3. At all times, the chain-
+
+II-12
+
+
+---
+
+of-custody must be maintained to ensure legal and accurate reporting of biological attack
+surveillance results. Safety and security for the courier and the sample package are
+important.
+
+                                 Table II-3. Biological-Sample Courier Tasks
+
+                                                         Action
+
+         Task           Avoidance            Protection         Decontamination             Battle
+Conduct            Obtain DOD                                                           Management
+coordination       sampling kits.       Obtain appropriate      Obtain approved     Establish a linkup
+                                        respiratory             decontaminant       point with the
+Link up            N/A                  protection and          solution.           biological-sample
+Ensure package                          gloves.                                     generation asset.
+integrity          Use a DOD                                    N/A
+                   biological sampling  Ensure that                                 Report the linkup to
+Transfer the       kit to determine if  immunizations are       Conduct a surface   higher HQ.
+sample (chain-of-  the outside of the   up to date.             wipe-down of the
+custody)           package is                                   package.            N/A
+Coordinate         contaminated.        Begin prophylaxis       Conduct self-
+movement           Ensure that the      if required.            decontamination if  Report the transfer
+                   package is packed                            required.           of custody to
+                   according to         Don respiratory                             higher HQ.
+                   applicable           protection and
+                   guidance (for        gloves prior to the                         Report the
+                   example, IATA,       linkup.                                     departure and start
+                   CFR).                                                            of movement to
+                   Transfer sample      Place in an                                 higher HQ.
+                   package using the    additional transport                        Coordinate with the
+                   appropriate chain-   bag/container as                            applicable
+                   of-custody forms     appropriate.                                operations
+                   and procedures.                                                  elements as
+                   N/A                  Once the package                            required (for
+                                        integrity is verified,                      example,
+                                        respiratory                                 movement through
+                                        protection is no                            unit sectors.)
+                                        longer required.
+
+                                        N/A                     N/A
+
+                                        N/A                     N/A
+
+                                                                                    II-13
+
+
+---
+
+                 Table II-3. Biological-Sample Courier Tasks (Continued)
+
+                                                         Action
+
+         Task         Avoidance       Protection         Decontamination             Battle
+Safeguard and    Be prepared to                                                  Management
+transport the    conduct immediate    Ensure IPE is on-  Conduct             Report a package
+sample           action in the event  hand during        decontamination of  breach if required.
+                 of package breach.   movement.          the package if
+Transfer sample                                          required.           N/A
+                 Transfer the         Maintain the
+                 sample package       sample at 1-4°C.   N/A
+                 using the
+                 appropriate chain-   Seal and
+                 of-custody forms     repackage if
+                 and procedures.      required.
+
+                                      N/A
+
+             (4) The transportation and storage of suspected biological samples is time-
+sensitive, and the commander needs timely feedback so he can affect or initiate the
+appropriate countermeasures or prophylaxis. The samples must be properly packaged,
+sealed, and labeled. To support effective sample transport, the sample evacuation plan
+must allocate and task for the means to transport the sample.
+
+4. Applying Biological-Detection Capabilities
+
+      a. The actual “on-the-ground” biological-surveillance requirements for an
+operation will be METT-TC dependent. The planning process described in Chapter III
+provides an understanding of how to determine resource requirements for biological-
+surveillance operations. The operational-level commander’s subordinate commanders
+may have available surveillance capabilities. The operational-level commander task-
+organizes and synchronizes the use of all available capabilities to meet mission
+requirements.
+
+      b. A commander must be aware of all the resources available (See Appendix C) to
+provide him with a robust and integrated biological-detection plan of action. Not only
+must he know what his organic capabilities are, but he must also be aware of other HN
+assets that might be available.
+
+      c. The commander integrates the use of all available assets to include combat
+service support (CSS) (CLS—See Appendix D) to meet FP requirements. The commander
+integrates the use of maritime and land force biological-surveillance assets.
+
+             (1) The maritime component provides surveillance support from the seaward
+side with ship-based IBADS, JBPDS, and dry filter units. Additionally, the land force
+commander uses USA biological-detection assets to provide critical-node support at the
+APOD.
+
+             (2) The JFC NBC control center receives and integrates the input from both
+sources to maintain the required SA and uses the information to support required
+decisions.
+
+II-14
+
+
+---
+
+                                       Chapter III
+
+                BIOLOGICAL-SURVEILLANCE PLANNING
+
+1. Background
+
+      Biological-surveillance planning supports the commander’s CONOPS. The
+commander’s clear, concise statement of where, when, and how he intends to concentrate
+combat power to accomplish the mission uses biological surveillance to maintain the
+required SA. The commander’s concept broadly outlines considerations necessary for
+developing viable biological surveillance. Biological surveillance is conducted from
+peacetime to war. The nature of the threat and the technical complexity of conducting
+and maintaining adequate detection, identification, and warning against a biological
+attack necessitates BW defense preparedness and the facilitation of appropriate and
+prompt medical actions. Biological-detection planning occurs at all levels of operations,
+from the strategic to the tactical levels, and across the spectrum of military operations.
+Planning for biological detection provides the opportunity for leaders to limit the impact
+threat BW agents have on operations.
+
+2. Integrated Biological-Surveillance Operations
+
+      Biological-detection resources are integrated into the unit intelligence, surveillance,
+and reconnaissance (ISR) plan. Biological-detection assets are employed based on an
+assessment of the threat force capability to use BW agents. The commander will
+prioritize the use of available assets and establish a plan that integrates the use of all
+available capabilities. The combatant commander’s biological-surveillance plan
+integrates the use of land force, fixed-site, and maritime assets. See Appendix E.
+
+      a. Land-force biological-detection assets are employed in arrays designed to
+optimize the probability of detection consistent with the security requirements. Assets
+will be located based on METT-TC factors and the size of the critical asset to be
+protected. Ideally, the biological-detection assets will be placed upwind of the target area
+to detect a biological-agent cloud that has been primarily disseminated as a point or line
+source from a ground or aerial platform.
+
+      b. Fixed-site biological-detection assets are placed on or upwind of a site to
+provide BW detection. Fixed-site biological-detection operations focus on a specific target
+such as a port, APOD, or SPOD. Biological-detection assets are placed anywhere upwind
+or within the site to confirm or deny the presence of a biological agent. METT-TC
+analysis will determine the number of systems required as point detectors for critical
+target areas such as logistics bases or major airfields and/or ABs, naval bases, or ports.
+In joint operations (for example, the protection of critical port facilities) biological-
+detection systems can also be placed on ships for improved operational dispersion.
+Detectors and collection devices can also be placed inside critical facilities to monitor for
+BW agents.
+
+NOTE: Detectors may have to be moved throughout the year as there are
+seasonal wind patterns that would change the physical location of “upwind of a
+site.”
+
+                                                                                                                                   III-1
+
+
+---
+
+      c. Maritime assets use biological-protection assets to support increased FP.
+Biological detectors are used to support monitoring operations while ships are underway,
+in port, or operating close to landmasses.
+
+3. Tactical, Operational, and Strategic Planning
+
+      Tactical, operational, and strategic planning are interrelated. The actions taken at
+the tactical level have implications at the operational and strategic levels of war. For
+example, the liquid sample of a biological agent collected at the tactical level could be
+evacuated to the field confirmatory lab (operational level of war asset), and/or the
+definitive lab (strategic level of war asset).
+
+      a. Tactical. The tactical planning for biological surveillance focuses on ensuring
+that biological-detection and -collection operational requirements are met. The specific
+planning factors that are considered include ensuring that—
+
+             z Biological-detection requirements are resourced (for example, operators
+                    are trained and tasked to operate biological-detection systems).
+
+             z Sample collection techniques and procedures are rehearsed and
+                    understood.
+
+             z A NBC warning-and-reporting system is established and provides the
+                    required reports to higher and adjacent commands (see Appendix F).
+
+             z The sample evacuation process is rehearsed and understood.
+
+             z Biological-detection resources are integrated into FP plans.
+
+      b. Operational. Operational planning focuses on biological-detection,
+-identification, and -warning capabilities to support air, maritime, and ground
+operations. IPB evaluates threat capabilities and assesses what biological-surveillance
+and -detection assets may be required to reduce identified vulnerabilities or capabilities.
+For example, adjustment of the time-phased force and deployment list (TPFDL) may be
+needed to add TEUs, Army medical laboratory capabilities, and biological-detection units
+such as the BIDS or Long-Range Biological Standoff Detection System (LRBSDS) (see
+Appendix H).
+
+      c. Strategic. Strategic planning prioritizes and provides required assets to
+support missions within the CONUS and outside CONUS (OCONUS). These assets
+include biological-detection units, supporting labs, and biological-detection equipment.
+Applicable strategic-level intelligence information is also furnished to provide timely and
+effective IPB. The following may be included:
+
+             z Priority intelligence requirements (PIRs) to the commander.
+
+             z Named areas of interest (NAIs) for biological-surveillance operations.
+
+             z Biological-detection unit taskings for the R&S plan.
+
+4. Planning Process
+
+      a. The commander implements the CONOPS (see Chapter I) for biological
+surveillance through planning and implementing risk reduction measures. The
+command and staff use their SA (battlespace visualization) to identify the risk reduction
+measures that will be implemented in supporting OPLANs and/or OPORDs. Methods
+
+III-2
+
+
+---
+
+that can be used to examine, assess, and implement the risk reduction measures are
+included in Table III-1 (page III-4).
+
+      b. As a continuous process, this is an iterative method. The different factors
+interrelate (for example, the linkage between biological-detection system presumptive
+and field lab confirmatory identification), support a time-sensitive process, and focus on
+maximizing the probability of detection.
+
+      c. Preparation of a biological-surveillance plan entails completing mission
+analysis, assessing COAs, preparing staff estimates, and developing the OPLAN and/or
+OPORD or annex. Critical operations considerations must be assessed during the
+decision-making process; Table III-1 outlines many of the operational implications that
+must be considered and used during the planning process.
+
+      d. The operational-level commander develops an OPLAN and/or OPORD as a
+directive to issue to supporting or subordinate units that have biological-surveillance
+responsibilities. Situation, mission, execution, service support, and command and control
+are the key data elements in the command OPORD that the supporting or subordinate
+unit used to prepare OPORDs or fragmentary orders (FRAGORDs) to support the higher
+supported commander’s intent.
+
+             (1) Situation. The situation paragraph of the biological-surveillance plan
+(Table III-2 [page III-5]) is used to provide the most likely and most dangerous COAs of
+the threat. It provides the mission, commander’s intent, and CONOPS for the HQ one
+and two levels up. The situation paragraph also provides actions that other units (such
+as flank units) may take that can have significant effects on biological-surveillance
+operations.
+
+             (2) Mission. The mission statement in the biological-surveillance plan
+(Table III-3 [page III-6]) is based on the mission analysis.
+
+             (3) Execution. The execution paragraph of the biological-surveillance plan
+(Table III-4 [page III-6]) describes how the commander sees the actions of the
+subordinate biological-surveillance assets fitting together to accomplish the biological-
+surveillance mission. It states the missions or tasks assigned to each subordinate
+biological-surveillance asset to include any combat and combat support (CS) units that
+support biological-surveillance operations.
+
+             (4) Service Support. The service support paragraph of the biological-
+surveillance plan (Table III-5 [page III-11]) clarifies the concepts of support, materiel
+services, medical support, and personnel support.
+
+             (5) Command and Signal. This paragraph of the biological-surveillance plan
+(Table III-6 [page III-14) identifies the chain of command and its location and provides
+signal operating instructions (SOI), required reports and formats, and times the reports
+are to be submitted.
+
+                                                                                                                                   III-3
+
+
+---
+
+III-4                                                  Table III-1. Identifying Risk Reduction Measures
+
+           Receive and        Identify the enemy           Assess the BW          Propose risk       Reassess the          Implement risk            Execute the
+            analyze the          BW hazard and          hazard and friendly         reduction        BW risk (high/            reduction          OPLAN/OPORD
+                                                                                    measures          medium/low)                               Supervise, provide
+               mission       friendly BW defense           situation (high/                                               measures in the       feedback, and revise
+       How (How many               capabilities             medium/low)       Provide a             Assess the            OPLAN/OPORD           as required.
+       agents were used?)                                                     biological-           probability of
+       (How will US forces   Identify threat delivery  Assess the impact of   surveillance          detection.          Implement a             Supervise, provide
+       detect threat use of  TTP; identify friendly    BW use.                employment/                               biological-             feedback, and revise
+       BW agents?)           BW detection                                     medical-                                  surveillance plan       as required.
+                             capabilities.                 • Point release.   surveillance plan.                        (critical-node or area
+       What (What agents                                   • Line release.                                              array).                 Supervise, provide
+       may be used?)         Identify threat BW            • Outside or       Provide BW                                                        feedback, and revise
+                             agents.                                          detection             Assess whether      Deploy and              as required.
+       When (When may                                           inside.       capability.           capability gaps     synchronize the
+       an threat use BW      Identify threat           Assess the impact of                         exist.              required capability.    Supervise, provide
+       agents?)              windows of                BW agents.                 • Provide lab                                                 feedback, and revise
+                             opportunity.                                              capability.  Assess the          Implement the           as required.
+       How (How will threat                                • Detection                              timeliness and      sample evacuation
+       use of BW be          Confirm threat use of              capability.       • Provide         accuracy of the     plan and staff WG.      Supervise, provide
+       confirmed?)           BW.                                                       courier      C4I system.                                 feedback, and revise
+                                                           • Treatment                 capability.                      Implement the           as required.
+       Where (Where is the   Identify areas of                  capability.                         Assess the          warning-and-
+       AO?)                  possible BW                                      Provide warning       quality and         reporting network.
+                             employment.               Assess the time        and reporting and     timeliness of
+                                                       required to implement  establish trigger     reports.
+                                                       risk reduction         points and decision
+                                                       measures.              points.               Wargame             Implement the
+                                                                                                    options for threat  weather forecasting
+                                                       Assess confidence in   Ensure coordinated    BW use.             capability and
+                                                       reported result.       medical/NBC/                              conduct a routine
+                                                                              intelligence          Assess              assessment of
+                                                       Assess the impact of   information           background          background data.
+                                                       the AO on BW agents    management.           data.
+                                                       and US biological-     Implement the
+                                                       detection capability.  sample-evacuation
+                                                                              plan.
+                                                           • Weather.
+                                                           • Terrain.         Provide periodic
+                                                           • Background.      weather forecast
+                                                                              and analysis.
+                                                                              Provide
+                                                                              background
+                                                                              monitoring and
+                                                                              analysis.
+
+
+---
+
+                  Table III-2. Biological-Surveillance Planning—Situation
+
+       Situation                      Factor                           Operational Implications
+Threat Forces     Identify threat list of BW agents.      The list of AOR specific threat agents can
+                                                          affect requirements for different types of
+Friendly forces       • Detector/handheld-assay           detectors and the specific handheld assays
+Attachments and            tailoring.                     used. Also, the type of threat agent can drive
+detachments                                               the depth of the array used. It should be noted
+                      • Depth of array.                   that all common surveillance reagents may be
+                                                          initially used and all attacks may be surprise
+                  Identify dissemination method.          attacks.
+                      • Munitions.                        The type of delivery systems the threat has
+                      • Dispersal systems.                available can affect how the biological-
+                      • Terrorist-type attack (food/      detector array is positioned (critical node
+                           water).                        versus area array).
+                      • Direct contact with vector or
+                           contagious person.             Surprise attacks by the threat can never be
+                                                          fully planned for. Yet, they can potentially be
+                  Surprise.                               the most effective. Flexibility, effective C2, and
+                                                          a robust detection array are keys to providing
+                  Identify potential biological-          full-spectrum biological-surveillance
+                  surveillance assets within the AOR.     operations that can potentially provide
+                                                          coverage against surprise attacks.
+                  Identify biological-surveillance        Planning, coordination, and liaison determine
+                  assets.                                 what HN or other government organizations
+                                                          and NGOs can provide for support of
+                  Review for other units or assets that   biological surveillance. The commander and
+                  may possess a BW agent detection        his staff must “think outside the box” about
+                  capability.                             ways they can augment unit biological-
+                                                          surveillance capabilities.
+                  Review task organization for            The command and staff analyze the task
+                  biological-surveillance assets, C2      organization. The review determines what
+                  units (for example, a chemical          capabilities are available to support biological-
+                  brigade), and technical escort,         detection, medical-lab, and escort operations.
+                  theater Army medical laboratory.        The command and staff determine what other
+                  Identify assets available for           military assets are available within the AOR.
+                  biological-surveillance operations, to  Some of these assets may include HN and
+                  include medical lab support and         allied military assets.
+                  technical escort assets.                The established command and/or support
+                  Identify requests for assets to fill    relationship must be understood. This will
+                  shortfalls.                             impact factors such as reporting and logistics.
+
+                                                          Identify any required capabilities that are not
+                                                          available.
+
+                                                                           III-5
+
+
+---
+
+                Table III-3. Biological-Surveillance Planning—Mission
+
+       Mission                   Factor                       Operational Implications
+
+                Assess the mission statement to  The mission statement contains the five
+                determine specified and implied  elements associated with every operation—
+                tasks. Use this information for
+                mission analysis.                    • Who will execute the biological-
+                                                          surveillance operations?
+
+                                                     • What are the essential biological-
+                                                          surveillance tasks?
+
+                                                     • When will the biological-surveillance
+                                                          operation begin?
+
+                                                     • Where will the biological-surveillance
+                                                          operations occur (AO, objectives, grid
+                                                          coordinates)?
+
+                                                     • Why (for what purpose) will the force
+                                                          conduct biological-surveillance
+                                                          operations?
+
+                Table III-4. Biological-Surveillance Planning—Execution
+
+  Execution                Factor                                   Operational Implications
+Maneuver        Timeline
+                                           The biological-surveillance plan must emphasize time as a
+                Decision tree              critical factor of effective biological surveillance. biological-
+                    • High threat          surveillance data and samples are time-sensitive. The window of
+                    • Medium threat        opportunity to protect the force through warning and protective
+                    • Low threat           measures is very small. Samples sent to supporting laboratories
+                                           for confirmatory identification can deteriorate over time.
+                Risk                       A decision tree can be established identifying the types of
+                    • Plan ahead           decisions that need to be made at different levels of threat.
+                    • Redundant            These decision trees should never provide rubber-stamp actions
+                         systems in place  for each threat level. They should instead identify when a
+                    • FP depth             decision is needed and possibly a tentative set of options that
+                                           have been developed during the wargaming process.
+                Confidence in results      The amount of risk the command is willing to assume will impact
+                    • Lab                  the monitoring methodology (for example, all systems operational
+                    • Detector             or sampling interval).
+
+                                           The confidence in a detection of a biological attack is affected by
+                                           how it has been detected.
+
+                                           Detection by one biological detector has a lower confidence level
+                                           (medium) than if two biological detectors have made the
+                                           detection (high).
+
+                                           Confirmatory identification from a supporting lab confirms and
+                                           bolsters medium-confidence detections and further reinforces
+                                           high-confidence detections.
+
+                                           Confidence in a biological detection will affect how a commander
+                                           and his staff implement reduction measures.
+
+III-6
+
+
+---
+
+Table III-4. Biological-Surveillance Planning—Execution (Continued)
+
+  Execution             Factor                                 Operational Implications
+Maneuver
+(continued)  Post attack              After an attack has been identified (through presumptive and
+                                      confirmatory identification) the unit must affect reduction
+                 • Reduction          measures. These measures may come in the form of
+                 • Sampling/          prophylaxis, heightened protective postures, and warning and
+                                      reporting.
+                      detector
+                      operations      Post attack sampling and detector operations must be addressed
+                                      (for example, increased or decreased sampling).
+             Controlling HQ
+             command and staff        The HQ command and staff that control the biological-
+                                      surveillance operations have the responsibility to—
+                 • Receive
+                 • Analyze                • Be the central node for the receipt of any information that
+                 • Recommend                   may have an impact on biological-surveillance operations.
+                 • Decide                      This includes actual detection data and intelligence,
+                 • Disseminate                 meteorological, and medical information.
+                 • Execute C2
+                                          • Analyze and synthesize all pertinent biological
+                                               surveillance-related information into reliable action sets.
+
+                                          • Recommend COAs in response to biological attacks.
+                                          • Decide on a COA in response to a biological attack.
+                                          • Disseminate information and guidance about COAs in
+
+                                               response to a biological attack.
+                                          • Provide C2 of operations conducted in response to a
+
+                                               biological attack.
+
+             Preplan                  The importance of preplanning cannot be overestimated. An
+                 • What               effective and well-thought-out plan will save lives.
+                 • When
+                 • Value              The cost and value of the employment of biological-surveillance
+                 • Cost               assets must always be considered. The costs of an effective
+                                      biological-surveillance program are weighed against the
+             Operational implication  catastrophic effects of a successful biological attack.
+
+                                      The plan should include the operational impact of biological
+                                      surveillance on the force. It provides a clear and concise direct
+                                      relation between benefits and/or losses and effective and/or
+                                      ineffective biological-surveillance operations.
+
+                                                                     III-7
+
+
+---
+
+       Table III-4. Biological-Surveillance Planning—Execution (Continued)
+
+  Execution                 Factor                                  Operational Implications
+ISR              Point detection
+                 Standoff detection        Provide critical nodes to be protected.
+Air and missile  Minimum protocols
+defense                                    Provide guidance on the use of standoff detectors (when
+                 Sampling intervals        available).
+
+                 Consistency/              Provide standard protocols to be used during biological-
+                 standardization           surveillance operations. These protocols should provide the
+                                           minimum expected standards of conducting biological
+                 Logistically supportable  surveillance, such as minimum sampling intervals, spacing
+                                           between detectors, packaging of samples, and the time to
+                 Employment Plan           execute a sample evacuation.
+                     • Where to assign
+                          assets           Any standard set should be logistically supportable. For example,
+                     • Spacing             if the dry filter units are set with sampling intervals of 24 hours a
+                          - Lateral        day at 6 hour intervals, then each dry filter unit will be using, as a
+                          - Depth          minimum, 4 handheld assays a day. The use rate of
+                     • Number of           consumables (in this case handheld assays) will need to be
+                          assets           considered when establishing these standards.
+                          - Prioritize
+                          - Allocate       To support the higher command OPLAN, the unit prepares a
+                                           monitoring plan to indicate how biological detectors will be
+                 Fixed sites, ports, and   employed.
+                 airfields
+                 Maneuver land forces      Fixed site (critical node). To support fixed-site requirements, the
+                 or maritime forces        commander will likely allocate Joint Portal Shield, dry filter unit, or
+                                           JBPDS (trailer-mounted and man-portable) assets (see Chapter
+                 Air defense warning       II).
+
+                                           Maneuver force (area array). To support maneuver force
+                                           requirements, the commander will likely allocate JSLNBCRS or
+                                           BIDS assets (see Chapter II).
+
+                                           This monitoring plan should assign assets to specific critical
+                                           nodes or into area arrays.
+
+                                           Spacing guidance should be provided not only for the distance
+                                           between detectors laterally, but also in depth.
+
+                                           Guidance should be provided on what the priority of effort is and
+                                           how the command will allocate biological-surveillance assets to
+                                           provide coverage in that priority.
+
+                                           Provide a scheme of maneuver that addresses how biological-
+                                           detection assets will best provide coverage against the threat.
+
+                                           As part of the process array, placement, with regard to NAI
+                                           location, is critical for successful probability of detection. The
+                                           array type used is affected by the size of the area of operation.
+                                           Mission duration is impacted by factors such as weather.
+
+                                           Other systems within the battlespace can impact how biological
+                                           surveillance occurs. The air and missile defense warning system
+                                           can affect how biological surveillance is conducted. For example,
+                                           upon warning of a missile attack, biological-surveillance assets
+                                           may be directed to switch from periodic to continuous monitoring.
+
+III-8
+
+
+---
+
+Table III-4. Biological-Surveillance Planning—Execution (Continued)
+
+  Execution                Factor                                  Operational Implications
+
+Information     OPSEC/Handheld-           Codes have been assigned to the various biological agents that
+operations      Assay Agent Codes         handheld assays detect. The codes on the agent decode list are
+                                          classified SECRET.
+
+                                          The classification of these codes helps to maintain control of how
+                                          a force reacts to a biological attack. The HQ that controls the
+                                          biological-detection assets maintains the codes and thus controls
+                                          the release of detection data.
+
+Tasks to other  Automated Decision        Automated decision support tools can assist the commander and
+CS units        Support Tools             his staff in determining the impact of a biological attack. These
+                                          decision support tools can provide estimates of how far
+CCIRs           Determine the tasks for   downwind the biological cloud will travel as well as an estimated
+                biological-surveillance   footprint of the biological attack.
+Risk reduction  assets and priorities of
+control         effort                    Select decision support tools also have the ability to transmit this
+measures                                  data to subordinate, higher, and adjacent units.
+                Identify locations in
+Environmental   space and time for        Specific tasks should be provided to biological-surveillance
+considerations  NAIs/PIR                  assets to include supporting units. These tasks could include
+                VA outputs                specific locations to conduct detection operations, directions for
+                                          technical escort assets on where to set up sample transfer
+                Meteorological data       points, instructions for medical assets on the storage and
+                                          location of prophylaxis (for example, the forward positioning of
+                Effect on detection       antibiotics).
+
+                                          PIRs and CCIRs provide a focus for making the decisions on
+                                          where to position biological-detection assets.
+
+                                          During the planning process, the staff planner must conduct a
+                                          biological VA of the organization. The results of this VA are a set
+                                          of vulnerability reduction measures meant to lessen the risk and
+                                          impact of a biological attack. The VA can influence how and
+                                          where biological-surveillance assets are deployed.
+
+                                          There are various sources of meteorological data. The staff
+                                          meteorological officer must be consulted to determine which of
+                                          these sources are appropriate for use with any dispersion
+                                          predictions (see also Chapter V). Once identified, these sources
+                                          should also be disseminated to biological-detection assets.
+
+                                          The background environmental conditions can also have various
+                                          effects on biological-detection operations. (For example, an area
+                                          with a high pollen count may cause false alerts in some field
+                                          detectors).
+
+                                          Harsh weather can cause difficulties in conducting biological-
+                                          surveillance operations. Sandstorms, freezing rain, snow, ice,
+                                          heat, and high humidity can affect air monitoring, sampling, and
+                                          sample transport.
+
+                                                                     III-9
+
+
+---
+
+        Table III-4. Biological-Surveillance Planning—Execution (Continued)
+
+  Execution                Factor                              Operational Implications
+
+Environmental   Terrain               Terrain will also affect how and where detectors should be
+considerations                        placed. Terrain can create both direct and indirect effects on
+(continued)         • Detector        biological-agent dispersion and downwind travel.
+                         locations
+                                      International borders can affect how suspected biological
+                    • Field behavior  samples are transported. They may also affect resupply
+                    • Borders         operations for biological assets.
+
+                         - Samples    Assess the impact of background environmental conditions on
+                         - Resupply   detection capabilities (for example, background conditions will
+                Background            vary by season and time of day).
+
+FP              FP Conditions         Determine whether background levels may require the use of
+                                      alternate procedures for biological detectors (for example, a
+                FP                    release may not register due to high background and relatively
+                Survivability         low concentrations or a highly variable background).
+
+Any additional  Sample evacuation     FP conditions are other tools that influence biological-
+coordinating    architecture          surveillance operations. The higher the FP condition, the higher
+instructions                          the threat. The planner can directly correlate his biological
+                                      detection modes of operations (continuous versus periodic) as
+                TPFDL                 well as sampling intervals to current FP condition levels.
+
+                                      Biological surveillance and detection can be an integral part of
+                                      force protection operations. Biological surveillance provides the
+                                      tools required to protect the force from a biological attack.
+
+                                      Inversely, the planner must ensure that biological-surveillance
+                                      assets are provided the tools and ability to effectively survive.
+                                      Biological-surveillance assets are unique within the battlespace.
+                                      Their capabilities cannot be easily duplicated or reproduced.
+                                      Thus, survivability is of key importance when planning biological
+                                      surveillance.
+
+                                      Sample evacuation is a key element of biological surveillance. It
+                                      must be thoroughly planned and executed to be successful. Key
+                                      components of this plan include escort elements, routes,
+                                      communications, control and visibility, and designated lab
+                                      facilities.
+
+                                      A high priority should be given to planning the flow of biological-
+                                      surveillance assets into the AOR. As forces build up, so must the
+                                      network of biological-surveillance assets, to conduct health-risk
+                                      assessment and FP.
+
+                                      This network of biological-surveillance assets not only includes
+                                      biological detectors and samplers, but also the mechanisms
+                                      needed to affect biological surveillance (such as escort, labs, and
+                                      CLS).
+
+III-10
+
+
+---
+
+Table III-5. Biological-Surveillance Planning—Service Support
+
+    Service Support       Factor                              Operational Implications
+Support concept
+                     HNS                        HNS must be considered when planning
+                                                biological-surveillance operations. The HN can
+                     CLS                        provide invaluable assistance in characterizing
+                                                the AOR (developing baseline biological-
+                     Standard military support  background data). It could possibly provide
+                                                valuable lab support as well as hospital access
+                                                for mass-casualty events.
+
+                                                The service support section of the OPLAN/
+                                                OPORD should indicate key information that
+                                                includes—
+
+                                                    • The CLS arrival time.
+                                                    • CLS operating locations.
+                                                    • The CLS support concept.
+                                                    • The life-support concept for CLS (for
+
+                                                         example, who provides CSS support?).
+                                                    • Any restrictions on the use of CLS
+
+                                                         within the AOR.
+
+                                                Retrograde instructions for CLS line
+                                                replacement units or supplies.
+
+                                                Wherever possible, the use of standard military
+                                                support is encouraged. Many biological-
+                                                surveillance assets use unique items not
+                                                normally found using standard military logistics
+                                                channels. Many such systems are supported
+                                                by CLS. The planner must be aware that even
+                                                though a biological-detection asset may have
+                                                CLS available for its unique supply and
+                                                maintenance requirements, they also require
+                                                standard military support for all classes of
+                                                supply as well as maintenance on common
+                                                service items.
+
+                                                               III-11
+
+
+---
+
+        Table III-5. Biological-Surveillance Planning—Service Support (Continued)
+
+    Service Support                   Factor                      Operational Implications
+Transportation       Transport for BW surveillance
+                     assets                         Transportation for biological assets must be
+                                                    planned well enough in advance to not hinder
+                     Transport of samples           operations.
+
+                     Transport of CLS               Transportation of samples occurs—
+
+                                                        • From the detection site to the sample
+                                                             transfer point or directly to the
+                                                             supporting theater lab.
+
+                                                        • From a sample transfer point to a
+                                                             supporting theater lab or back to
+                                                             CONUS.
+
+                                                        • From a supporting theater lab back to
+                                                             CONUS.
+
+                                                    The plan must address what assets will be
+                                                    required to make the transport happen. Time
+                                                    plays a critical factor in transporting samples.
+                                                    Samples can be perishable and will lose their
+                                                    efficacy over time. Also, the longer it takes to
+                                                    accurately identify the biological agent, the
+                                                    more casualties should be expected.
+
+                                                    Movement of biological-surveillance assets
+                                                    may be complicated by the requirement for
+                                                    their maintenance and support sections (often
+                                                    times CLS) to move parts and personnel within
+                                                    the AOR and back to CONUS.
+
+Materiel services    Quality management, QA, and    The effectiveness of biological-surveillance
+                     QC                             operations greatly rests on how QA and QC
+                     Tracking sample information    checks are accomplished.
+                     Coordination
+                     CSS shelf life                 Establishing a chain-of-custody from the
+                     PMCS                           theater of operation (TO) sample takers to the
+                     Safety                         sample evaluators and to the archives requires
+                                                    a comprehensive understanding of the end-to-
+                                                    end sample flow, including all intermediate
+                                                    custodians and their ability to execute their
+                                                    portion of the chain without compromising
+                                                    sample integrity.
+
+                                                    QA and QC must be maintained in the tracking
+                                                    of sensitive limited shelf life items such as
+                                                    handheld assays.
+
+                                                    The quality of the maintenance and storage of
+                                                    certain items affects the quality and
+                                                    effectiveness of biological-surveillance
+                                                    operations.
+
+                                                    Safety must be addressed during all aspects of
+                                                    biological surveillance. The collection,
+                                                    transport, and analysis of potentially dangerous
+                                                    BW agents must always be conducted with the
+                                                    utmost care. Deliberate planning and precise
+                                                    execution of developed plans should provide
+                                                    the framework for safe and effective
+                                                    operations.
+
+III-12
+
+
+---
+
+Table III-5. Biological-Surveillance Planning—Service Support (Continued)
+
+    Service Support                   Factor                Operational Implications
+Materiel services    Cost of consumables
+(continued)                                   The cost of consumables must always be
+                                              deliberately planned. Heightened threat levels
+Medical evacuation   Lab support              will cause a higher rate of consumption of
+and hospitalization                           resources. For example, sampling intervals
+                                              during these higher threat levels can impact on
+Personnel service    Assign personnel         national/wholesale supply systems.
+support
+                                              Lab support for biological surveillance must be
+                     Train personnel          identified and defined in the plan.
+                                              Understanding the capabilities of the
+                                              supporting theater laboratories is of key
+                                              importance. The planner must understand the
+                                              number of samples expected to be produced
+                                              and sent to the lab, the surge capabilities of the
+                                              lab, and the expected turnaround time for
+                                              confirmatory identification of suspected
+                                              biological samples. If the supporting lab cannot
+                                              process the expected volume of samples, an
+                                              alternate COA must be developed quickly to
+                                              ensure timely confirmatory identification. These
+                                              alternate COAs could include the use of HN
+                                              labs, requests for and augmentation of lab
+                                              capabilities, or prioritization of samples.
+
+                                              Lab considerations need to be made for both
+                                              clinical and environmental samples.
+
+                                              Many biological detectors do not specifically
+                                              come with dedicated operators. As such,
+                                              operators must be identified. These operators
+                                              can be regularly assigned personnel,
+                                              augmentation personnel, or contracted
+                                              personnel.
+
+                                              The planner must ensure that personnel
+                                              identified to operate any biological detectors
+                                              are properly trained not only on the operation of
+                                              their systems, but on other tasks such as
+                                              packaging samples, reporting, and supply and
+                                              maintenance procedures.
+
+                                                                           III-13
+
+
+---
+
+        Table III-6. Biological-Surveillance Planning—Command and Signal
+
+ Command and Signal                     Factor                  Operational Implications
+Command
+                     Who makes decisions regarding—  The plan must identify the person that will
+                                                     make decisions concerning prophylaxis,
+                         • Prophylaxis.              protection, and warning. The plan must be
+                         • Protection.               clear and concise and leave no doubt which
+                         • Warning.                  level of command will make each specific
+                                                     decision. When this decision-making is
+Signal               Communications support          delegated to subordinate commanders, a
+                     architecture                    clear understanding of the process of
+                                                     reporting any changes in prophylaxis,
+                     Reach back                      protection, and warning must exist.
+                     Reports
+                                                     The plan must include a communications
+                                                     support architecture. This architecture will
+                                                     include how communications will occur
+                                                     among—
+
+                                                         • The biological-surveillance asset.
+                                                         • Supporting laboratories.
+                                                         • Sample escort assets.
+                                                         • C2.
+
+                                                     Reach back assets should be provided in
+                                                     the plan, as well as information on how to
+                                                     communicate with reach back assets.
+
+                                                     Required biological-surveillance reports
+                                                     should be identified, along with instructions
+                                                     on how and when they are to be submitted.
+
+5. Integration
+
+      Planning biological-surveillance operations includes the integration of METT-TC
+considerations and biological-surveillance assets. This integration provides the
+commander with the ability to protect the force while efficiently executing his assigned
+missions.
+
+      a. Figure III-1, illustrates the integration of METT-TC factors in the preparation
+of a biological-surveillance employment plan. Employment planning considers the
+following factors.
+
+             (1) Mission. The JTF NBC staff receives mission guidance to provide
+maneuver forces and critical fixed-site assets with biological-surveillance support. The
+commander’s priorities include supporting the first and second brigade and two critical
+fixed sites (for example, the JTF HQ and the USAF bare base within the AO) with
+biological-surveillance support.
+
+             (2) Enemy. The IPB indicates that the threat has line and point source
+delivery capabilities with BW agents (bacterial agents and toxins).
+
+             (3) Terrain and weather. The terrain is relatively flat and dusty (an arid
+environment), and the wind speed and direction favor threat use of agents.
+
+             (4) Time. Based on the time required for field confirmatory identification,
+postattack medical prophylaxis is a viable option for the protection of US forces.
+
+III-14
+
+
+---
+
+                 2d BDE                          2d BDE X
+                 X
+
+IB/              1st BDE                         BSA
+FLOT
+
+                                                                   JTF
+
+      X 1st BDE  BSA
+
+                                                           B
+
+                    Detector site                                 USAF
+                                                                bare base
+                    Forward fixing point/sample
+                    transfer point                                    Biological-Surveillance Plan
+                                                                            (Selected Elements)
+                   CLS main
+                                                      Employment. The friendly COE used USA BIDS
+                     The Setting                      assets to provide area array coverage for USA
+                                                      maneuver forces (1st and 2nd Bde). The COE used
+Location: Southwest Asia environment                  JPS and the JBPDS to provide critical-node support.
+                                                      CLS. CLS main was established at the USAF bare
+Resources available: 1 USA Chemical                   base with a forward fixing point for resupply and
+company (biological detection) (two                   exchange of JBPDS line replacement units in the 1st
+platoons–7 BIDS per platoon); CLS; Joint              and 2nd Bde BSAs.
+Portal Shield network assets support the              Sample evacuation. BIDS support teams evacuated
+JTF HQ; and JBPDS (trailer-mounted and                samples to STPs. Escort teams were met at sample
+man-portable versions) support the USAF               transfer points. Escort teams delivered samples to the
+bare base.                                            theater Army medical laboratory.
+                                                      Reporting. Centralized reporting was provided from
+Mission: Provide biological-surveillance              the BIDS platoon HQ to the BIDS company HQ that
+support for the JTF.                                  was collocated with the JTF. The theater Army medical
+                                                      laboratory reported results to JTF. Decentralized
+Assessed threat: Ground and air point or              reporting was conducted at the two critical fixed sites.
+line release of BW agents.                            In turn, the base operations centers reported to the
+                                                      JTF HQ.
+Tasks: Provide USA 1st and 2nd Bde. with              Weather/background. Background samples were
+area array biological-surveillance support;           analyzed by theater Army medical laboratory.
+provide critical fixed sites (JTF HQ and
+USAF bare base) with critical-node
+biological surveillance.
+
+                 Figure III-1. Biological-Surveillance Operations
+
+                                                                        III-15
+
+
+---
+
+             (5) Troops available. JTF assets include one USA chemical company
+(biological detection) with two BIDS platoons (7 systems per platoon; 14 systems total),
+and Joint Portal Shield network (available at the JTF HQ) and JBPDS assets (available
+at the USAF bare base).
+
+      b. The JTF integrates the biological-detection assets into the command overall
+reconnaissance and surveillance plan to support the command maneuver forces and fixed
+sites.
+
+             (1) Maneuver force support (area array). Based on a threat line source
+capability, USA BIDS platoon assets provide the maneuver force with area array
+support. The biological-detection unit leader applies METT-TC factors and uses the tools
+in Appendix E to estimate separation distances between systems and how far downwind
+from an estimated BW agent release point (RP) to place the array. The biological-
+detection unit leader balances the actual siting of the systems with FP guidance. The
+modified dice five employment tactic is used in the brigades to provide coverage in depth.
+
+             (2) Fixed-site support (critical node). Based on an threat point source
+capability, Joint Portal Shield network and JBPDS (trailer-mounted and man-portable)
+are used in critical-node arrays at the JTF HQ and USAF bare base. The planning
+process applies METT-TC and uses the tools in Appendix E tools to provide guidance on
+estimated separation distances for the systems. A dice five employment tactic is used at
+the fixed sites to provide biological-surveillance support.
+
+III-16
+
+
+---
+
+                                       Chapter IV
+
+                    BIOLOGICAL-SAMPLE EVACUATION
+
+1. Background
+
+      Biological sampling is the process or technique of selecting, packaging, and
+documenting the collection of biological material. Correct techniques for collecting,
+packaging, handling, and transporting suspected biological agents are critical for
+accuracy in the analysis of environmental samples and clinical specimens. The quality of
+any analytical evaluation is directly related to the quality of the sample or specimen and
+the degree of postcollection degradation that occurs prior to testing. HSS personnel
+collect and submit specimens for suspect biological hazards and/or agents involving
+humans and animals. PVNTMED and veterinary personnel collect and submit water,
+ice, food (for example, fruits and vegetables), environmental samples (including soil), as
+well as specimens from animals for suspect biological hazards and/or agents. Collected
+specimens and samples that are suspected of being exposed to or containing a biological
+agent are forwarded to the field confirmatory lab designated by the applicable combatant
+commander, and in turn, to the CONUS reference lab for definitive identification
+directed in current OPLANs and operation tasks (OPTASKs). The command surgeon will
+recommend priorities of effort and what labs should receive samples for confirmatory
+and/or definitive identification. See Appendix G.
+
+2. Sample Evacuation Requirements
+
+      There are specific requirements to effectively evacuate a sample to the appropriate
+agency. Some of these requirements are as follows:
+
+      z Maintain sample integrity through packaging the sample properly,
+             maintaining the sample at 1-4°C, and ensuring an uninterrupted chain-of-
+             custody and timely exfiltration.
+
+      z Obtain effective transportation and shipment coordination and clearances.
+      z Prioritize the process for the transport and analysis of samples.
+      z Provide appropriately trained personnel or units to transport samples.
+      z Coordinate with appropriate command and staff transportation authorities to
+
+             help ensure that the transport and transfer of a sample is uninterrupted across
+             international borders or to another government agency. The intent is
+             unimpeded and controlled sample flow.
+      z Evacuate background samples for lab analysis to characterize the background
+             environment within the AO.
+      z Maintain sample tracking and visibility.
+      z Identify the sample destination (for example, the theater lab or CONUS lab).
+             The theater surgeon or medical officer coordinates this action.
+      z Identify HN lab capabilities in coordination with the CA staff.
+
+                                                                                                                                   IV-1
+
+
+---
+
+3. Supported Unit Sample Evacuation Plan
+
+      Detailed planning and coordination are critical for successful sample evacuation.
+There are two key levels of command in the sample evacuation and planning process—
+the supported unit and the biological detection unit. Once planning and coordination
+have been accomplished, the OPLAN and/or OPORD provides the who, what, where,
+when, and why to ensure successful sample evacuation.
+
+      a. The planning and coordination process begins at the supported unit. The
+allocation of time is a critical factor, and the commander must provide guidance to
+subordinate units as early as possible.
+
+      b. The supporting unit should ensure that the following topics are covered in the
+OPLAN and/or OPORD. See Appendix G.
+
+             (1) Assets. List the assets needed to execute the sample and specimen
+evacuation mission. As a minimum, biological detection assets, courier assets, and
+medical and environmental lab assets are required. If medical lab support is not
+available in-theater, samples will be forwarded to alternate locations (CONUS).
+Identification of the lab location and point of contact (POC) is also required.
+
+             (2) Priorities. The OPLAN and/or OPORD sample evacuation annex may
+direct that selected samples (such as the first reported use of BW in the AOR by
+presumptive identification) be evacuated to designated sample transfer points within a
+specific time frame. For example, the Army medical laboratory mission statement
+indicates that the BIDS sample should be completed within 12 hours of the reported
+attack. It can take the Army medical laboratory approximately 6 to 8 hours for field
+confirmatory analysis and days for a definitive analysis. Therefore, it is important that
+the sample evacuation process be completed as soon as possible.
+
+             (3) Reporting. The higher HQ should direct any reporting requirements, such
+as how many samples have been evacuated.
+
+             (4) Coordination. The annex should indicate specific instructions on topics
+such as locations for supporting assets such as the sample courier, the supporting
+medical lab, or security elements and/or provide supporting communications
+information.
+
+      c. The supported unit (higher HQ) should conduct actions to support the overall
+sample evacuation process (for example, providing resources, establishing priorities,
+conducting coordination, and providing and requesting reports); however, the issuing of
+FRAGORDs to initiate the sample evacuation process will likely occur at the detection
+unit command.
+
+4. Biological Detection Asset Sample Evacuation Plan
+
+      The biological detection unit sample evacuation plan should complement the
+supported unit sample evacuation plan and describe what will be accomplished. It should
+be coordinated with higher HQ, the NBC officer, the intelligence officer, the courier
+element, and the supporting Army medical laboratory. The plan should include the
+following elements:
+
+      z The designation of primary and alternate sample transfer points for the
+             biological detection asset and TEU or designated unit for linkup. The sample
+             transfer points should be as close as possible to the biological detection asset.
+
+IV-2
+
+
+---
+
+      z The provision of frequencies for communications between all elements involved
+             in the sample evacuation process. This allows two-way communications (as
+             required) between the detection asset, technical escort, and lab.
+
+      z The designation of what unit (if any) has been tasked to provide security for
+             support teams and/or technical escort.
+
+      z The designation of primary and alternate evacuation routes.
+
+      z The designation of sample transfer point reporting requirements. The sample
+             transfer teams should notify their controlling HQ with information such as
+             sample transfer point arrival and departure times and/or the time the sample
+             was transferred to a technical escort.
+
+      z The sample identification (confirmatory or definitive) will be reported from the
+             supporting lab to the theater surgeon or medical officer. He will recommend
+             further dissemination if required. The supported commander will determine
+             the distribution of the results within the AO.
+
+      z Coordination with the supporting unit and the tasked sample courier unit to
+             ensure that all sample numbers, supporting documentation, and sample
+             preparation is correct to ensure that a viable sample is delivered to the
+             supporting medical lab.
+
+5. Biological-Detection Asset Sample Evacuation Planning and Operational
+Considerations
+
+      a. The unit or command with biological detection assets must publish an OPLAN
+and/or OPORD before any operation. The commander or leader ensures that the unit
+OPLAN and/or OPORD reflects the higher commander’s intent.
+
+      b. The biological detection asset plays a critical role in the sample evacuation
+process. It must supply a sample evacuation plan and ensure that the following concerns
+are taken into consideration:
+
+             z Higher HQ, on an exception basis, may manage individual sample
+                    evacuation (for example, the first reported BW event in the combatant
+                    commander’s AOR).
+
+             z Samples that support presumptive identification should be evacuated.
+
+             z Sample evacuation should occur as soon as the operational situation
+                    permits.
+
+             z The technical escort, theater medical and/or environmental laboratories,
+                    and biological detection assets coordinate directly unless otherwise
+                    directed.
+
+             z Sample evacuation is a time-sensitive process due to multiple factors
+                    including legal implications, the verification of first use, and agent
+                    viability.
+
+             z Priorities should be established for sample evacuation based on factors
+                    associated with BW event tracking.
+
+                                                                                                                                   IV-3
+
+
+---
+
+6. Sample Evacuation Execution
+
+      a. In preparing for the execution of a sample evacuation, the commander
+prioritizes the samples that should be evacuated. The commander considers the
+following when determining the priority of samples:
+
+             z What is the time sensitivity for a specific sample evacuation package?
+
+             z Where was the sample collected (the proximity of transportation or
+                    courier assets for sample transport)?
+
+             z What is the role of the sample in the overall process of the operation (is it
+                    being used to support “detect to treat” or “verification of agent or release
+                    decisions”)?
+
+             z How many resources (consumables) are needed to support analysis and
+                    testing?
+
+      b. All samples will be evacuated to confirmatory laboratories for analysis.
+Laboratories will prioritize sample analyses based on critical background information
+(for example time sensitivity and role of the sample). The lab commander will determine
+the number and types of samples to be analyzed.
+
+      c. Sample evacuation execution relies on an effective means to evacuate the
+sample. TEU assets may be available; however, if TEU assets are not available, other
+courier personnel can be trained to perform escort responsibilities.
+
+      d. Sample evacuation packages from biological detection units require field
+confirmatory identification support. The applicable service component or special
+operations forces (SOF) element prepares the sample and an escort element transports
+the sample. The supporting medical and/or environmental lab destination for field
+confirmatory testing could range from sending the package to a ship-based lab (see
+Figure IV-1), an USAF lab, or to an Army medical laboratory.
+
+      e. The personnel packaging, transporting, and storing samples must ensure the
+integrity of the sample from the time it is first taken until it is delivered to the
+supporting lab. The temperature at which the sample is stored and transported is crucial
+to its viability. Samples should be transported and stored at 1-4°C. The sample courier
+should be able to periodically check the temperature within the sample transfer case to
+ensure continued sample viability.
+
+      f. Samples can also be evacuated to CONUS definitive laboratories for further
+analysis. The decision to return a sample to CONUS will be made by the confirmatory
+lab, theater medical officer, theater commander, or CONUS higher commands.
+Figure IV-2 (page IV-6), provides a depiction of sample flow from sample collection to
+CONUS definitive lab analysis and reporting.
+
+7. Chain-of-Custody
+
+      a. A strict chain-of-custody must be maintained for every sample or specimen
+collected. The chain-of-custody document must accompany the sample or specimen
+during transport from the point of collection to the receiving medical lab to the final
+disposition of the sample. Each time the sample or specimen is transferred to another
+individual, the receiving person must sign the document to show that he received the
+
+IV-4
+
+
+---
+
+BW detection and testing
+
+                  BW
+
+BW                SOF
+             USA
+                       CONUS/in theater
+                       lab assets
+
+           USAF
+BW
+
+     USMC              OGA
+BW                             BW
+
+                 Figure IV-1. Field Confirmatory Lab Support From USN Capability
+
+sample or specimen and state what happened to it while in his custody. The document
+will provide answers to the following questions about the sample or specimen.
+
+             z When was it collected?
+             z Who has maintained custody of it?
+             z What has been done with it at each change of custody?
+      b. The samples or specimens must be appropriately packaged, labeled, and
+evacuated to the designated medical and/or environmental lab for confirmation of a
+biological attack. The standard chain-of-custody for the evacuation could be as follows.
+             z Sampling unit.
+             z Sample courier or other command-designated courier personnel.
+             z In-theater supporting lab.
+             z Designated CONUS lab.
+
+                                         IV-5
+
+
+---
+
+                   Collect the sample          No                            Report,
+                                                                             archive, and
+      Receive the presumptive identification     Report results and          dispose of
+                             Yes                 perform risk assessment No  the sample
+                                                 to determine if field
+      Report results and coordinate transport    confirmation is necessary
+                 to the confirmatory lab
+                                                                 Yes
+
+        Prepare for transport: sample
+      preparation and chain-of-custody
+
+           Transport the sample to the         No  Report results
+                  confirmatory lab
+
+      Verify confirmatory identification
+
+                           Yes
+
+         Report results and coordinate
+          transport to the definitive lab
+
+        Prepare for transport: sample
+      preparation and chain-of-custody
+
+      Transport the sample to the definitive lab
+         Receive the definitive identification
+                       Report results
+
+                                      Figure IV-2. Sample Collection Flow
+
+IV-6
+
+
+---
+
+                                       Chapter V
+
+                         INFORMATION MANAGEMENT
+
+1. Background
+
+      The collection, analysis, and integration of biological- and medical-surveillance
+information support the identification of the agent that was used, provide the exposed
+location, and aid medical assets in determining the proper treatment. This information
+management integration process will likely occur at operational-level HQ (JTF,
+component command) and/or at fixed-site, port, or airfield operations centers (OPCENs).
+The objectives of timely BW information management focus on early warning and saving
+lives. These objectives support SA, reducing the decision cycle and decreasing the
+detection time. The time gained by decreasing the detection time can support the early
+initiation of medical-intervention measures and save lives.
+
+2. Information Management
+
+      a. Commanders require accurate and timely information as they prepare for
+operations in a biological-threat environment. The NBC staff monitors and tracks
+biological-surveillance information and the command surgeon monitors and tracks
+medical surveillance data. Ongoing coordination between the NBC staff, medical staff,
+and the intelligence section supports decisions that rely on SA and an understanding of
+the significance of the gathered data. The commander and staff apply the information
+from intelligence, medical, and surveillance systems to support—
+
+             z Aerosol tracking (BW event).
+             z Hazard predictions.
+             z Warning, reporting, and notification.
+             z Casualty prevention.
+             z Prophylaxis and treatment plan execution.
+             z Sample evacuation operations.
+             z Casualty management.
+      b. Units obtain relevant data from multiple sources (such as sensors, detectors,
+and medical staffs). The applicable report data (for example, lab results, the time of
+detection, BW sensor result from BIDS [see Appendix I], weather data, and the location)
+is processed, extracted, formatted, and forwarded. Commanders and their staff evaluate
+the information to assess any impact on operations. Risk assessment is part of the
+decision-making process and may result in directives and/or orders to help reduce the
+impact of the assessed biological hazard. Commanders may direct an integrated series of
+protective measures (for example, the administration of prophylaxis) to decrease the
+level of risk (decrease exposure opportunities) or reduce the effects of exposure. Because
+SA is an ongoing process, the plan is revised as updated information is received.
+      c. HSS personnel establish an exposure record documenting exposure levels and
+risk assessment information for each affected person.
+
+                                                                                                                                    V-1
+
+
+---
+
+3. Priority Information Requirements
+
+      a. The commander and staff determine priority information requirements and
+IRs to support biological and medical surveillance.The commander and his staff preplan
+to determine critical data requirements. The relevant choices are prioritized as priority
+information requirements and a data collection plan is prepared. The overall data
+collection effort shares the following common characteristics:
+
+             z Connectivity from lower-to-higher and higher-to-lower levels of command
+                    with adjacent and supporting units and state/HN agencies (for example,
+                    communications with supporting medical laboratories and BW sensors).
+
+             z The ability to forward relevant data to multiple echelons of command
+                    simultaneously.
+
+             z The ability to conduct technical reach back to obtain access to national-
+                    level medical, intelligence, operational, logistics, or technical information
+                    to provide information for operational assessments. Reach back provides
+                    the additional capability to improve the effective use of modeling and
+                    simulation to conduct region-specific, expert evaluation of potential
+                    biological-weapons effects as well as toxic industrial biological releases.
+
+             z The ability to receive, process, and evaluate data. Data received may be
+                    incomplete; therefore, it is assessed and evaluated in light of available
+                    information sources.
+
+             z The ability to focus data collection on the commander’s IRs (for example,
+                    has a threat BW attack occurred?).
+
+      b. Multiple risks impact BW defense planning. It is impractical to require units to
+don individual protective equipment (IPE) for prolonged periods. It is critical to be able to
+determine if a BW attack has occurred before agent symptoms begin appearing, if
+possible. Initiating prophylaxis before the onset of symptoms will reduce the number of
+casualties. Before implementing critical decisions, the command and staff assess
+confidences in the information that is provided. Figure V-1 provides an approximate
+average for the percentage of casualties avoided if antibiotics are issued promptly after
+exposure. The averages are based on the initiation of prophylaxis for traditional BW
+bacterial agents.
+
+4. Reporting
+
+      If properly executed, biological reporting provides commanders with time and
+information (as much as possible) to react to biological events. Commanders direct the
+actions needed to minimize the impact of attacks. Quick and accurate reporting provides
+the necessary information for command decisions and responses.
+
+      a. Reporting is the link between successful battlespace awareness, decision-
+making, and effective operations in a biologically contaminated environment. To be
+useful, biological-surveillance report information (such as medical surveillance and BW
+sensor results) must be collected, distributed, and quickly analyzed. Once analyzed, this
+information is used as battlefield intelligence. During a biological event, the volume of
+information received by C2 elements could become overwhelming and slow information
+analysis. Programs such as the Joint Warning-and-Reporting Network and the Force
+
+V-2
+
+
+---
+
+                                            TRIGGER/DECISION POINTS                            Rapid identification and
+                                                                                                       treatment key
+                                            Exposure    Medical      Clinical
+                                                      surveillance  diagnosis        Issue antibiotics day 0, exposure
+                                                                                                avoid casualties
+                                                           alert
+
+                                            100%
+
+                                      100%
+
+Percent casualties avoided (average)  80%             71%                            Day 3, medium surveillance alerts
+                                      60%                                                  avoid 71% of casualties
+
+                                                                                                 Day 4, avoid 29% of casualties
+
+                                      40%                           29%              Day 5, clinical diagnosis confirmed
+                                      20%                                       12%         avoid 12% of casualties
+                                       0%
+
+                                            D0 D1 D2 D3 D4 D5 D6 D7 D9 D12 D14 D18 D21
+                                                                                       Day antibiotics initiated
+
+                                                Source: Naval Medical Research Center, Biological Defense Research Directorate Briefing
+
+                     Figure V-1. Maintaining Mission Readiness: “Detect to Treat”
+
+XXI Battle Command Brigade and Below (FBCB2) help automate the reporting process
+and organize biological-detection data.
+
+      b. Maintaining SA is critical. Timelines of reporting are critical to ensure that
+time-sensitive decisions are made within other critical timelines (such as before the
+onset of BW agent symptoms). For example, a biological-detection asset (such as a USA
+BIDS unit) could be required to support the USAF component of a JTF. The USA
+biological-detection element complies with a direct reporting requirement through the
+AF component. However, the JTF OPORD requires that the biological-detection unit HQ
+also provide voice and/or digital reporting to the JTF NBC control center (see Figure V-2
+[page V-4]). The prompt, accurate reporting of biological-surveillance information is
+critical, and the operational-level commander (for example, a JTF) uses this information
+to support time-sensitive decisions.
+
+      c. NBC control centers receive reports from subordinate NBC control centers
+and/or supporting biological-detection units. Many of the reports will be preformatted
+NBC Warning-and-Reporting System reports according to service doctrine manuals such
+as Chemical and Biological Contamination Avoidance. For example, an NBC-1
+(biological [BIO]) report should be reported from a biological-surveillance unit HQ. For
+example, an NBC-1 (BIO) report should be reported from a biological-surveillance unit
+HQ to the supported NBC control center. The NBC control center also coordinates with
+the medical and intelligence staff to receive key information from assets such as the
+
+                                                                                                                                         V-3
+
+
+---
+
+                    JTF
+
+     State/HN  USA  USAF                      USMC  USN
+
+                      Component command
+                    USA biodetection unit HQ
+
+                                                    Controlling HQs
+                                                    Report flow
+
+          Figure V-2. Possible Biological-Detection Network with Centralized Warning
+
+medical and/or environmental laboratories. This information will most likely be in the
+form of unformatted free text messages. The NBC control center is responsible for the
+following:
+
+             z Correlating and validating all NBC reports from subordinate commands
+                    and reporting activities (for example, fixed-site detection or collection
+                    assets; LRBSDS; JSLNBCRS; and BIDS units).
+
+             z Assigning a temporary strike serial number to all validated attacks. The
+                    combatant command (command authority) (COCOM) NBC center assigns
+                    the permanent strike serial number.
+
+             z Preparing formatted NBC reports and overlays for the Global Command
+                    and Control System (GCCS), FBCB2, Joint Warning-and-Reporting
+                    System, and NBC Warning-and-Reporting System.
+
+             z Ensuring that subordinate reporting activities use standard reporting
+                    formats.
+
+             z Reporting any issues regarding interoperability within the reporting
+                    network.
+
+5. Information Collection and Operational Level Assessments
+
+      Information collection should generally follow a pattern and can be tracked during
+preattack, attack, and postattack operations (see Figure V-3 [page V-6]). The unit or staff
+
+V-4
+
+
+---
+
+may use an integrated information collection tool (such as a matrix) to record and assess
+the input from different sources (see Figure V-4 [page V-7]). The biological-event-
+tracking tool can be used to monitor medical surveillance results, preattack data (current
+BW risk assessment, weather conditions, and the impact of background conditions),
+attack data (alert, detection, and identification), postattack data (lab results), and
+remarks data (such as local activity). Tracking key information can support decisions to
+warn, protect, or treat. The decisions are based on input from the NBC, medical, and
+intelligence staffs. They are products of the IPB and include consideration of risk.
+
+      z Warn. The decision to warn is based on the assumption that there is a threat
+             of an upwind aerosol cloud moving toward the warned forces. It also can be a
+             notification that exposure may have already occurred. A warning should be
+             accompanied by treatment and/or protection guidance to ensure a consistent,
+             effective response.
+
+      z Protect. The decision to assume a protective posture must take force
+             capabilities and vulnerabilities into account. Implemented control measures
+             could include using available protective equipment, conducting detection and
+             identification of biological agents, and assessing unit vulnerability to a
+             suspected agent (vaccinated or unvaccinated forces).
+
+      z Treat. The decision to administer postexposure prophylaxis or treatment is
+             made after there is evidence of likely exposure to a BW agent. The commander
+             makes the decision with advice from the surgeon and supporting input from
+             the NBC officer and intelligence staff. The senior medical officer will
+             recommend the appropriate prophylaxis or treatment regimen.
+
+      a. Medical Surveillance. The collection, analysis, and dissemination of
+surveillance information may be the first and only indicator of BW use. The direct and
+clear flow of information to the controlling HQ commander, medical officer (primary
+recipient), and NBC defense officer facilitates the rapid dissemination of protection,
+prophylaxis, and warning guidance.
+
+      b. Preattack Information. Preattack information recorded will include the
+current BW risk assessment, weather conditions, and the impact of background
+conditions on system operations.
+
+      c. Attack Information. The evaluated BW report results from BW attacks provide
+alert, detection (if applicable), and presumptive identification with an associated
+confidence level (low, medium, or high).
+
+                                                                                                                                    V-5
+
+
+---
+
+     Preattack   Monitor the current BW risk
+     Attack      assessment (high/medium/low)
+
+                 Monitor weather conditions
+                 (favorable/marginal/unfavorable)
+
+                         Monitor the impact of
+                      background conditions on
+                     system operations (yes/no)
+
+                 Record and report the alert time
+
+                  Consolidate data from multiple
+                                 sources
+
+                 Record and report the detection
+                          result, if applicable
+
+                        Record and report the
+                  presumptive identification result
+
+     Postattack        Forward the sample
+
+                 Receive the field confirmatory
+                              lab result
+
+                       Forward the sample
+
+                                      Receive the definitive lab
+
+                 Figure V-3. Tracking BW Data
+
+V-6
+
+
+---
+
+        Medical                     Preattack                      Attack*                  Postattack    Remarks
+     Surveillance
+                   Current BW  Weather         Impact of   Alert   Detection    ID Result   ID Result     Record information
+     BW Used       Risk        Conditions      Background  Time    Result       (PI)/Time/  (FC/DI/Time)  such as other
+                   Assessment                  Conditions                                                 available intelligence,
+     Yes/No/                   F/M/U           on System   (Time)  C/S/T        Confidence                local activity, and the
+     Unknown       H/Med/L                     Operations                       Level                     type of biological-
+                                                                                                          detection system
+                                               Yes/No                                                     used.
+
+     *Attack results are recorded following the receipt, analysis, and evaluation of reports to help ensure consistency and correlation of
+     data.
+
+     Legend:       Unk – Unknown               C – Cells
+                   H – High                    S – Spores
+                   Med – Medium                T – Toxin
+                   L – Low                     PI – Presumptive identification
+                   F – Favorable               FC – Field confirmatory
+                   M – Marginal                DI – Definitive identification
+                   U – Unfavorable             ID - Identification
+
+                                               Figure V-4. Biological-Event-Tracking Tool
+
+V-7
+
+
+---
+
+             (1) At the operational or tactical level (for example, a JTF HQ or a fixed-site
+OPCEN, respectively), an aggregate picture is available from the information generated
+by a biological detector array. From these results, aerosol-tracking hazard predictions
+and reports are prepared.
+
+             (2) Other key information that the NBC staff may track includes consistency
+among the NBC-1 (BIO) reports received, the type of biological-detection system that
+reported the information, the confidence level associated with the report, and any other
+related analysis (such as consistency and correlation in the reported results).
+
+      d. Postattack. The result of the identification from the supporting lab will be
+recorded.
+
+      e. Remarks. Other information (such as available intelligence) will be provided in
+the remarks section of the BW event-tracking tool.
+
+6. Unit Incident Reporting
+
+      a. The biological-detection unit HQ or system-level operator should report the
+following to the designated HQ (for example, a NBC control center or unit OPCEN:
+
+             z Presumptive positive BW identification results.
+
+             z Status reports as required.
+
+             z Other reports as required by the mission, threat, background,
+                    meteorological conditions, or location characteristics.
+
+      b. All report information from the biological-surveillance assets are recorded
+manually or electronically. For example, JBPDS data is recorded and saved
+electronically. Following a BW event (for example, alert and/or identification data), the
+information is saved to provide a record. At end of the shift or the end of mission, the
+information is saved for follow-on use and analysis, as required. Background data is also
+saved as a baseline for future use.
+
+      c. The operator uses the incident report (see Figure V-5) to record and report
+alert and/or sampling interval and identification information obtained during biological-
+detection operations. It reports both background and actual alert and/or sampling
+intervals and identification information. The biological-detection or -collection system
+operators maintain the information for each background collection and identification
+result. For the biological-detection system incident report, there are two fundamental
+fields of data that are compiled and reported for a BW event. These are the alert and/or
+collection and identification fields of data. Alert and/or collection data includes alert and/
+or sampling interval times and meteorological data. The identification data provides
+positive (an agent code) or negative results. The remarks section is used to record the
+associated confidence result, external conditions and/or activities, and the system-
+operating mode, if applicable. The remarks section of the sampling incident report will
+include weather information (as of the time of the sample collection) to include
+environmental conditions (such as a sandstorm).
+
+      d. biological-surveillance information reporting can be set up for three levels of
+warning. Table V-1 provides a summary of the warning levels.
+
+V-8
+
+
+---
+
+      Alert/       Meteorological Data                             Identification
+  Collection
+               2. Meteorological data:            System 1:        System 2:        System 3:
+1. Alert Time  a. Wind speed (kph/mph):           a. Location/ID:  a. Location/ID:  a. Location/ID:
+(DTG):         ________________                   ______________   _____________    _____________
+___________                                       b. DTG:          b. DTG:          b. DTG:
+                                                  ______________   _____________    _____________
+2. Collection  b. Wind direction (degree):        c. Agent code:   c. Agent code:   c. Agent code:
+interval:      ________________                   ______________   _____________    _____________
+___________                                       or               or               or
+                                                  Negative         Negative         Negative
+
+Team ID:
+Team leader signature:
+Sample identification number:
+Remarks:
+Confidence level:
+External conditions:
+Operating mode:
+
+                                Figure V-5. Incident Report (Sample)
+                               Table V-1. Warning Level Applicability
+
+                      Warning Level               Applicable to    Applicable to     Applicable to
+                                                   Automated           Manual       the Supporting
+Level 1 - Detection Notice                          Detection
+                                                      Assets         Sampling               Lab
+    • Applicable only to automated detection              X            Assets
+         assets (Joint Portal Shield/JBPDS)                                                 N/A
+         because of their system detection                X              N/A
+         capability.
+                                                        N/A            X            N/A
+    • Not applicable to manual sampling assets
+         (dry filter units). They do not have an                       N/A          X
+         alerting capability.
+
+Level 2 - biological-Presumptive Identification
+
+Based on a presumptive identification from a
+biological-detection system or handheld-assay
+testing.
+Level 3 - Field Confirmatory Identification
+
+Applicable to the receipt of results from a
+supporting lab.
+
+                                                                                         V-9
+
+
+---
+
+NOTE: The incident report format may be adapted to meet theater
+requirements; however, the basic data fields must be used. Additionally, some
+system specific reporting requirements may require additional data (for
+example, the M31A1 BIDS incident report provides detection data).
+
+             (1) Level 1: Detection Notice.
+
+                    z This indicates that the detector has alerted to the presence of
+                           biological particles in the air. Level 1 capability is not applicable to
+                           manual sampler operations.
+
+                    z Upon a detection notice, the system will automatically collect an
+                           aerosol sample and analyze it using automated assays to determine
+                           if a BW agent is present. A Level 2 warning occurs if the handheld-
+                           assay result is positive. If the assay result is negative, the Level 1
+                           warning will be cleared.
+
+             (2) Level 2: Biological-Presumptive Identification.
+
+                    z This indicates that the system has read one or more of the assays as
+                           being positive or a single handheld assay has shown positive results
+                           from a collection asset (such as a dry filter unit).
+
+                    z Upon receipt of positive presumptive identification, the operator will
+                           prepare a collected sample (liquid or dry) for evacuation.
+
+             (3) Level 3: Validated Biological-Confirmatory Identification.
+
+                    z This indicates that a medical lab provided a positive field
+                           confirmatory result.
+
+                    z Communication and coordination is maintained with the command
+                           surgeon and the NBC control center.
+
+      e. The analysis of the results from multiple BW detectors or collectors consists of
+assessing the results from subordinate units and consolidating and evaluating the data
+to ensure that the information is usable and complete. The objective of BW event
+tracking is to assess the probability that a BW attack has been detected. Based on BW
+event tracking, the results provide an associated confidence level (Table V-2). During the
+planning process, the confidence level is assigned to a BW event and may serve as a
+trigger to support a commander’s decision points (such as protection or treatment). A
+single-system presumptive identification provides a medium level of confidence. A
+medium level of confidence indicates the potential presence of a BW agent; however,
+other information sources (such as medical surveillance, other biological-detector results,
+or intelligence) must be reviewed to determine if there is other confirming data. Multiple
+confirming, consistent indicators of a BW attack (for example, two or more biological
+detectors with consistent, presumptive identification results) provide a high confidence
+level.
+
+                                      Table V-2. System Confidence Levels
+
+  Number of Systems Reporting Presumptive              Level of Confidence  High
+                  Identification Results    Medium                            X
+
+Single-system presumptive identification        X
+Multiple-system presumptive identification
+
+V-10
+
+
+---
+
+      f. The biological-detection unit HQ should report the following to the higher HQ
+NBC center:
+
+             z Positive BW identification results.
+
+             z Other reports required by the mission, threat, background, meteorological
+                    conditions, or location characteristics. This information may include
+                    reports on system and/or component operational readiness or significant
+                    local activities (such as an unusual weather phenomena).
+
+             z Status reports as required.
+
+      g. All report information is recorded manually or electronically. Following a BW
+event (for example, alert and/or identification data), the information is saved to provide a
+record. At the end of a mission, the information is saved for further follow-on use and
+analysis as required. Background data is also saved as a baseline for future use. This
+information will be retained for a minimum of 3 years following the end of the operation
+unless otherwise instructed by individual service regulation or Department of Defense
+(DOD) policy. This background information is especially important for after action
+reviews (AARs) and follow-on health surveillance as required.
+
+      h. Incident reports are used to record and report alert and identification
+information obtained during biological-detection operations to the NBC center. The NBC
+center generates the appropriate NBC report (for example, an NBC-1) from the incident
+reports. It is used to report both background and actual detection and identification
+information. For the incident report, there are two fundamental fields of data that are
+routinely compiled and reported for a BW event. These are the alert and identification
+fields of data and detection data (if applicable). Alert data includes the alert time and
+meteorological data. Identification data contains the agent identification code (or
+negative if none is identified) and the mode of operation of the system during the event.
+The incident report also includes environmental conditions (for example, a sandstorm)
+and the presumptive identification result.
+
+      i. Field confirmatory lab results may take hours and definitive results could take
+days. The definitive results provide a more sensitive result; however, the commander
+may assess that in-theater field confirmatory results provide a sufficient basis for
+approving prophylaxis and other treatment recommendations.
+
+      j. The reporting of supporting information is important for a BW attack
+assessment. The supporting information can be used to help corroborate that a BW
+occurred.
+
+             (1) Intelligence. Intelligence represents a valuable and significant source of
+information. The confidence placed in detection and identification increases with the
+certainty that the threat is assessed to have a particular agent. For example, if a group of
+detectors are indicating anthrax and it is known that the threat has anthrax in its
+arsenal, then higher confidence may be placed in the detector response. Other
+intelligence considerations may include the following:
+
+                    z Any indication of intent or instances of past use of BW agents by the
+                           threat.
+
+                    z Past employment techniques may determine a threat pattern of
+                           agent use.
+
+                                                                                                                                  V-11
+
+
+---
+
+                    z IPB also plays a key role in the assessment of results from medical
+                           surveillance and BW sensors. Assessing where the threat is most
+                           likely to originate a biological attack in advance, and then actually
+                           detecting a biological attack downwind from that source can increase
+                           confidence that this might be an actual attack. Determining where
+                           these potential dissemination points are depends on intelligence
+                           information, such as what agents the threat is known to possess and
+                           what dissemination equipment they have (for example, point source
+                           or line source weapons).
+
+             (2) Weather. Weather has an important influence on whether a threat can
+disseminate a biological agent effectively or not. For BW, meteorological data at ground
+level and up to 100 meters or more over a large area is important. Among the
+considerations are—
+
+                    z Wind direction. The wind direction should be towards friendly
+                           forces.
+
+                    z Wind speed. Wind speed should be conducive to effective agent
+                           dissemination, while minimizing agent dilution through turbulence
+                           and dispersion. Biological agents can be employed effectively at most
+                           wind speeds.
+
+                    z Atmospheric stability. A combination of wind speed, cloud cover,
+                           and solar angle (time of day) can be represented as stability factors 1
+                           (very unstable) through 7 (very stable). A large-scale biological
+                           attack would most likely be effective under somewhat stable
+                           atmospheric conditions. Unstable conditions involve a large degree of
+                           vertical dispersion, resulting in decreased downwind travel. Further
+                           information on how atmospheric stability can affect biological
+                           attacks can be found in service publications such as Field Behavior of
+                           NBC Agents (Including Smoke and Incendiaries).
+
+                    z Precipitation. Generally, precipitation does not have much of an
+                           impact on biological-aerosol cloud “washout” unless the rain is
+                           unusually heavy for an extended time.
+
+                    z Effect of terrain on meteorology. Surface contours and the
+                           overall roughness of the surface, influence the direction and speed of
+                           agent flow. Higher concentrations can be expected in valleys and
+                           depressions, which also tend to direct the flow of the aerosol cloud.
+                           Rough ground (vegetation, forests, and rocks) tends to retard agent
+                           flow and increase vertical dispersion of the agent resulting in
+                           decreased downwind travel and concentration.
+
+                    z Agents. Not all agents can be effectively dispersed in the
+                           atmosphere.
+
+      k. The systematic collection of information over time supports SA. Figure V-6
+provides a sample BW event tracking tool that used the following information input to
+track BW-related activity from preattack through postattack.
+
+V-12
+
+
+---
+
+          Medical                     Preattack                            Attack*                  Postattack                    Remarks
+       Surveillance
+      BW Used        Current  Weather     Impact of Background  Alert      Detection  ID Result     ID Result     Record information such as
+      Yes/No/        BW RA    Conditions  Conditions on System  Time       Result     (PI)/Time/    (FC/DI/Time)  other available intelligence,
+      Unknown                 F/M/U       Operations                                                              local activity, and the type of
+                     H/Med/L                                    (Time)     C/S/T      Confidence                  biological-detection system
+      Unk                                 Yes/No                                      Level                       used.
+
+                     Med      M           No                    220100L N/A           Positive for  FC positive   JBPDS ID @ APOD; no unusual
+                                                                                      agent         for agent     outside activity
+                                                                                                    XXXX
+                                                                                      XXXX@         220700L
+                                                                                      22012 High
+
+      *Attack results are recorded following the receipt, analysis, and evaluation of reports to help ensure consistency and correlation of data.
+
+      Legend:        Unk – Unknown        C – Cells
+                     H – High             S – Spores
+                     Med – Medium         T – Toxin
+                     L – Low              PI – Presumptive identification
+                     F – Favorable        FC – Field confirmatory
+                     M – Marginal         DI – Definitive identification
+                     U – Unfavorable      ID - Identification
+
+                                              Figure V-6. Biological-Event-Tracking Tool (Sample)
+
+V-13
+
+
+---
+
+             (1) Preattack information collection.
+                    z Current BW risk assessment was assessed as medium based on
+                           threat activity.
+                    z Weather conditions were assessed as marginal within the AO.
+                    z Reports from the biological-detection unit HQ indicated that
+                           background conditions were having no impact on system-level
+                           results.
+
+             (2) Attack information collection.
+                    z Collated and evaluated incoming reports from a JBPDS-equipped
+                           BIDS unit that indicated an alert time at 220100L May 03.
+                    z Follow-up reports indicated a presumptive identification at 220120L
+                           May 03, confidence level high.
+
+             (3) Postattack information collection. Lab feedback provided positive field
+confirmatory results at 220700L May 03.
+
+             (4) Remarks information collection. No unusual outside activity was noted on
+any of the incoming reports.
+
+7. Communications Architecture
+
+      a. The communications architecture uses standard, existing protocols. For
+example, the NBC Warning-and-Reporting System is used as the basis for forwarding of
+NBC reports. The standard communication guidelines that are used for command or
+supporting relationships also apply. For example, supporting biological detection or
+medical laboratories provide report results to those supported HQ that are designated in
+OPORDs and/or OPLANs.
+
+      b. The communications architecture identified in the controlling HQ OPLAN,
+OPORD, and/or SOI identifies the key linkages. These communications linkages include
+a requirement for the exchange of information between the supporting laboratories and
+the command surgeon or between the biological-surveillance resources and the
+supporting confirmatory lab (for example, advance notification to the lab that a sample is
+enroute).
+
+V-14
+
+
+---
+
+                                      Appendix A
+
+         MEDICAL COUNTERMEASURES AND PROTECTION
+
+1. Background
+
+      Medical countermeasures can include PVNTMED, immunization, diagnosis,
+prophylaxis, treating mass casualties, and supporting psychological casualties. Medical
+countermeasures focus on the prevention of BW agent casualties. The unit surgeon
+provides recommendations to the commander on medical countermeasures that are
+implemented through applicable directives and OPLANs and/or OPORDs.
+
+2. Medical Countermeasures
+
+      a. PVNTMED. Specially trained medical personnel and units assist in
+maintaining the health of the command with the goal of preventing diseases before they
+occur. Recent conflicts have demonstrated that PVNTMED practices, such as good field
+sanitation and hygiene, can significantly reduce natural occurrences of infectious
+diseases. Many of these principles can be applied as countermeasures against BW
+agents.
+
+      b. Immunization. Making an individual immune is one of the most effective
+defenses against BW agents. Immunity is produced when an individual is vaccinated
+with a vaccine or toxoid. Vaccine lead time will have a major impact on operations,
+particularly during the critical phase of deployment. Time impacts must be considered in
+force projection and requirements for early intelligence assessment and predeployment
+planning.
+
+      c. Epidemiological Analysis.
+
+             (1) Any unusual occurrence of simultaneous cases of illness with similar
+presenting symptoms, especially in regions with a higher likelihood of biological attack,
+should prompt the medical staff to consider biological agents as a cause. Epidemiological
+analysis can only be effective if the system responds quickly and decisively to medical
+trends. Although it may be too late for medical countermeasures to help individuals who
+already show symptoms, the trend can alert the medical system to initiate protective
+measures such as vaccines or antibiotics for those who are exposed but not yet sick.
+
+             (2) With a covert biological agent attack, the most likely first indicator of an
+event would be an increased number of patients who present clinical features caused by
+the disseminated disease agent. Therefore, health care providers must use epidemiology
+to detect and respond rapidly to a biological agent attack.
+
+             (3) A sound epidemiologic investigation of a disease outbreak, whether
+natural or human engineered, will assist medical personnel to identify the pathogen and
+institute the appropriate medical interventions. Documenting the affected population,
+possible routes of exposure, and signs and symptoms of disease—along with rapid lab
+identification of the causative agents—will greatly increase the ability to institute an
+appropriate medical and public health response. Good epidemiologic information can
+guide the appropriate follow-up of those potentially exposed, as well as assist in risk
+communication and responses to the media.
+
+                                                                                                                                    A-1
+
+
+---
+
+             (4) Many diseases caused by weaponized biological agents present
+nonspecific clinical features that could be difficult to diagnose and recognize as a
+biological attack. The disease pattern that develops is an important factor in
+differentiating between a naturally occurring event and a terrorist or warfare attack. It
+is important to remember that naturally occurring epidemics can have one or more of
+these characteristics and a biological attack may have none.
+
+             (5) Once a biological attack or any outbreak of disease is suspected, the
+epidemiologic investigation should begin. Whether the outbreak is intentional or not, the
+conduct of the investigation will not differ significantly. The first step is to confirm that a
+disease outbreak has occurred. A case definition should be constructed to determine the
+number of cases and the attack rate. The case definition allows investigators who are
+separated geographically to use the same criteria when evaluating the outbreak. The use
+of objective criteria in the development of a case definition is very important in
+determining an accurate case number, as additional cases may be found and some cases
+may be excluded, especially with the potential for mass hysteria to be confused with
+actual disease. The estimated rate of illness should be compared with rates during
+previous years to determine if the rate constitutes a deviation from the norm.
+
+      d. Prophylaxis and Treatment. Prophylaxis is preventive action taken before
+infection. Treatment is the care of personnel after they have been exposed to a biological
+agent. For some BW agents, there is a window of opportunity between infection and the
+onset of symptoms where medical treatments are particularly effective. Medical
+treatments that are initiated outside the window of opportunity are less effective.
+Therefore it is critical to ascertain which agents were used in the attack and when the
+attack occurred. See Field Hygiene and Sanitation.
+
+      e. Mass Casualties and Quarantine. Providing medical support for large numbers
+of biological casualties with strain the medical system. If large numbers of casualties
+occur, the unit commander will be responsible for some primary care with organic assets
+and limited medical augmentation. The provision of this care will need to be a
+coordinated effort. Units attacked with contagious BW agents may have to be
+quarantined. The US force commander may need to request and obtain additional
+support to handle mass casualties.
+
+      f. Psychological Effects. The use of biological weapons will cause some personnel
+to seek medical treatment although they have not been infected with a biological agent.
+Combat stress control and mental health detachments or teams will be needed to provide
+counseling for these personnel. Trained and disciplined units will be less susceptible to
+the psychological effects of BW.
+
+3. Vaccines
+
+      Currently, the only Food and Drug Administration (FDA) approved vaccines are for
+the following BW agents: anthrax, Venezuelan equine encephalitis, and smallpox. While
+vaccination before exposure provides a high level of protection from the specific biological
+agent, vaccination after exposure can be an effective medical alternative for some agents.
+The anthrax vaccine is effective if administered according to guidelines and can reduce
+the impact of an attack with anthrax spores. If all military personnel in the affected area
+are immunized against anthrax, the effect and impact on medical resources will be
+reduced.
+
+A-2
+
+
+---
+
+4. Medical Intervention
+
+      a. When available, vaccinations can reduce the susceptibility of target
+populations to attacks by specific biological agents. Vaccines for some agents are more
+effective than for others, though most will reduce the vulnerability of the immunized
+population.
+
+      b. Treatments after a BW attack are available for many agents. Treatments
+administered after exposure, but before symptoms, are referred to as postexposure
+prophylaxis or preventive treatment. Vaccinations are available for some agents, but in
+most cases they must be applied before the onset of symptoms. In most cases, preventive
+treatments will only be initiated if the attack is detected before the onset of symptoms.
+This is problematic in a threat environment where covert attacks are possible. Attacks
+using toxins are more difficult to address because, in general, toxins act more quickly
+than pathogens, leaving less time for detection, identification, and evaluation before
+large segments of the population fall ill.
+
+      c. A BW attack could quickly overwhelm any local medical system. To be
+prepared, prestaged equipment and medications and a robust program to train medical
+personnel and exercise procedures are required. Medical treatment facilities (MTFs)
+must be prepared to issue medical countermeasures, decontaminate, and treat expected
+biological casualties. Nonmedical personnel may be required to assist with basic
+maintenance tasks and quarantine. Additionally, MTFs should anticipate the need for,
+and incorporate the resources of, the surrounding medical community into their
+biological detection response plans. MTFs must provide the installation commander with
+timely and accurate assessments of capabilities and limitations. These assessments must
+take into account any coordination that may have occurred for local medical support.
+
+      d. Even if an attack is detected in time to implement medical countermeasures,
+organization, infrastructure, and equipment must be in place in advance for the response
+to be effective. Contingency plans should designate facilities for holding large numbers of
+casualties (for example, gymnasiums, schools, and churches) while providing care based
+on triage reports. This may also require planning for vehicles (such as buses and vans) to
+transport the mass casualties to the designated facilities. Public information
+countermeasures can also help limit the problem. Additionally, the quarantine of
+potentially exposed personnel and isolation of patients are required to prevent the
+spread of disease. The mission impacts of the implementation of the restriction of
+movement and the transportation of personnel, patients, and supplies need to be
+considered for movement within, into, and out of the theater.
+
+5. Restriction of Movement
+
+      a. The terms quarantine and isolation are often used in the context of preventing
+contact between healthy populations and those either infected or suspected of being
+infected with an infectious disease. Quarantine involves the detention of an individual or
+group suspected of having been exposed to an infectious disease, until it is deemed that
+they have escaped infection (usually once the incubation period has lapsed). Isolation is
+the separation of an infected individual from a healthy population (usually refers to
+patients in an MTF). During military operations where personnel have contracted or are
+suspected of having been exposed to an infectious disease, the commander conducts
+mission assessments to consider quarantine or isolation. Restriction of movement, the
+
+                                                                                                                                    A-3
+
+
+---
+
+more universal term, is used to prevent contact with or detain persons suspected of
+having been exposed or are known to have been exposed to an infectious agent.
+
+      b. Restriction of movement is a tool for maintaining operational effectiveness in
+the face of an infectious disease, whether natural or artificial (such as a BW attack). The
+goal is to control the spread of the disease by restricting contact between healthy groups
+of personnel and those who have, or are suspected of having, contracted it. Personnel
+covered by restriction of movement do not necessarily need to be removed from
+operations. Wherever possible, restriction of movement should be implemented to allow
+them to continue their mission. It may also be necessary to reduce the risk of
+transferring an infectious disease back to the home base.
+
+      c. If restriction of movement is contemplated at any stage during an operation,
+coordination should be conducted with assets such as HN forces. This coordination must
+be with the full knowledge that the impact on operational effectiveness is likely to be
+significant. The unit surgeon, with assistance from other staff elements (for example, the
+legal and CA staff), will support the commander in the unit operational assessment. The
+only stage of an operation when restriction of movement is unlikely to play a significant
+deleterious role is during the close of an operation when personnel are being returned
+home. Here, restriction of movement would be aimed not at preserving the fighting
+integrity of the force, but rather reducing the risk of introducing infectious disease into
+the CONUS base.
+
+      d. Restriction of movement implementation will restrict the ability of the
+commander to use affected force elements. In practice, the operational impact of disease
+control measures will need to be balanced against the potential consequences of the
+spread of an infectious disease. Operational pressures may dictate a policy that accepts
+the limited spread of an infectious disease because the implementation of restriction of
+movement would result in the loss of the military objective.
+
+A-4
+
+
+---
+
+                                      Appendix B
+
+                               FIELD LAB SUPPORT
+
+1. Background
+
+      Field lab support includes labs with various capabilities for analyzing clinical and
+environmental samples that may contain BW agents. Depending on which labs are
+deployed and available, one or more may be designated to confirm a presumptive
+identification of a BW agent sample that was analyzed at another site or by another
+method. This confirmatory identification enhances the COCOM ability to make timely
+and accurate decisions. Field confirmatory identification may require definitive
+identification by a CONUS lab.
+
+2. Types of Labs
+
+      Analysis of biological threat agents generally requires labs with capabilities
+different from those possessed by routine hospital or clinical labs. Because of the risk of
+shutting down an entire hospital lab (and therefore the functionality of the hospital) if
+the lab becomes contaminated with a BW agent from an environmental source (such as
+powders), it is inadvisable or even prohibited to take many types of environmental
+samples into a hospital lab. Clinical specimens containing BW agents do not pose the
+same degree of risk for contaminating the lab, so processing routine clinical specimens
+that contain BW agents is acceptable in a hospital lab. Even if associated with or
+collocated with hospitals, the following labs possess the special capabilities necessary for
+field confirmatory identification of biological threat agents.
+
+      a. Air Force. The biological augmentation team is a flexible, rapidly deployable
+lab team assigned to the deployed MTF. The biological augmentation team expands
+theater force health protection (FHP) by introducing the most advanced microbiological
+testing capabilities available, such as the Joint Biological Agent Identification and
+Diagnostic System (JBAIDS). The biological augmentation team analytical tools can
+identify both naturally occurring and induced pathogens in clinical and environmental
+samples. The biological augmentation team provides a preventive capability through
+analytical test data to support early warning of pathogen exposures as well as the
+assessment of the extent and type of microbial contamination in other various
+substances (food, air, water, or soil).
+
+      b. United States Army.
+
+             (1) An Army medical laboratory is the specialized lab in a theater AO that
+provides medical and chemical lab support. The Army medical laboratory provides in-
+theater field confirmatory identification of NBC threat agents in various samples and
+specimens. Using sophisticated equipment and methods, the Army medical laboratory
+has the capability to analyze and identify NBC agents in a variety of specimens or
+samples such as air, soil, water, animal tissue, vegetation, or food, as well as human
+blood, sputum, and feces. Direct support from CONUS-based labs aids the Army medical
+laboratory in identifying NBC agents. Command decisions on the use of protective and/or
+preventive measures and patient care may be based on the Army medical laboratory
+
+                                                                                                                                    B-1
+
+
+---
+
+findings. However, further CONUS-based testing must be undertaken for definitive
+identification of NBC agents and for forensic analysis purposes.
+
+             (2) The clinical lab of the combat support hospital (CSH) will have
+microbiology culture and identification capability when augmented with the
+microbiology augmentation set (M403). This may be accomplished either by directly
+augmenting the hospital lab or by augmenting with a medical team (infectious disease).
+When the JBAIDS instrument is used in the microbiology augmentation set, this lab will
+have the capability of providing detection and field confirmatory identification testing for
+BW agents in clinical specimens that are collected for patient diagnosis.
+
+      c. United States Navy and Untied States Marine Corps.
+
+             (1) Support ashore.
+
+                    (a) The Navy environmental preventive medicine unit has the mission
+to provide specialized consultation, advice, recommendations, and technical support in
+matters of environmental health. PVNTMED, and occupational safety support to USN
+and USMC shore activities and units of the operational forces within their designated
+AOR. This lab is on call to provide technical assistance and field confirmatory analysis
+for biological and chemical agents. A Navy environmental and preventive medicine unit
+expands theater FHP by employing the best available advanced microbiological testing
+capabilities such as JBAIDS.
+
+                    (b) Forward-deployable preventive medicine units enhance FHP by
+identifying and evaluating environmental health hazards (including CBR and physical
+agents), assessing the risk of adverse health outcomes, monitoring the health of deployed
+forces, advising the operational commander concerning significant risks, and
+recommending countermeasures and interventions needed to protect the health of the
+force. A designated forward-deployable preventive medicine unit will deploy to provide
+short duration, specialized PVNTMED support. The Forward-deployable preventive
+medicine unit provides technical assistance and field confirmatory analysis for biological
+and chemical agents.
+
+             (2) Support afloat. Medical departments on aircraft carriers (CV); aircraft
+carriers, nuclear (CVNs); large deck amphibious assault ships (general purpose) (LHA);
+hospital ships (T-AHs); and command ships are equipped to provide confirmatory testing
+capability for environmental samples from other ships assigned to a carrier strike group
+and expeditionary strike group. They can receive, sample, test, report, package, and
+transport suspected BW samples.
+
+3. Confidence Levels of Lab Analysis Results
+
+      There is no set parameter that determines levels of confidence in lab results.
+Confidence in lab results is based on a combination of the scientific quality and accuracy
+of the test methodology, the number and type of biomarkers detected, the technical
+expertise of the testing personnel, and the environmental conditions in which the lab is
+operating.
+
+      a. Biomarker. A biomarker refers to the characteristics of a biological agent
+(microorganism or toxin) that are specific or unique to that agent. Some biomarkers are
+more useful or accurate in identifying the biological agent than others. Likewise, some
+
+B-2
+
+
+---
+
+types of scientific devices and/or methodologies are more sensitive and accurate in
+detecting certain types of biomarkers.
+
+             (1) The types of biomarkers include specific—
+
+                    z Nucleic acid sequences unique to the bacteria or viruses identified by
+                           a technique such as polymerase chain reaction.
+
+                    z Antigens associated with the bacteria, viruses, or toxins identified by
+                           techniques such as enzyme-linked immunosorbent assay,
+                           electrochemiluminescence assay, or handheld immunological assay.
+
+                    z Enzymatic or growth properties as demonstrated on biochemical
+                           tests or selective media, such as characteristic colony morphology on
+                           culture and phage inhibition.
+
+                    z Microscopic characteristics, such as those identified using Gram
+                           stain, fluorescent antibody stain, immunohistochemical stain, or
+                           cytopathic effects.
+
+             (2) Confirmatory and definitive testing requires positive results of two or
+more independent biomarkers. Independent biomarkers are significantly different from
+each other biologically, such as with uniquely different gene sequences or antigens.
+Different methodologies test for biomarkers in technologically different manners, such as
+polymerase chain reaction versus electrochemiluminescence, or handheld assay versus
+polymerase chain reaction. Analyzing a sample twice using handheld assays is only
+employing one methodology. However, the level of confidence is increased if a particular
+methodology is employed to test for two different biomarkers (for example, polymerase
+chain reaction testing for two or more gene sequences).
+
+      b. Sensitivity. The sensitivity of a test is its ability to detect the presence of a
+biological agent. This is the proportion of samples with positive test results out of all
+samples that truly contain the biological agent (regardless of whether the biological
+agent is detected or not).
+
+             (1) Sensitivity is the percentage of true positives divided by the total of true
+positive and false negative results. The more false negatives a test allows, the less
+sensitive it is.
+
+             (2) A false negative test result is negative although the biological agent is
+actually present. It may occur because of a concentration of a biological agent below the
+detection level of the test methodology and/or instrument, binders or inhibitors that may
+be present in the sample, temperature deviations from the test protocol, bad reagents,
+and/or equipment malfunctions.
+
+      c. Specificity. The specificity of a test is its ability to correctly indicate that a
+biological agent is not present in the sample when, in fact, the sample is devoid of that
+agent. Specificity is the proportion of samples with true negative test results divided by
+the total of true negative and false positive results. The more false-positives a test
+allows, the less specific it is. A false positive test result is one that indicates that a
+biological agent is present when that agent is actually not present. Common causes for
+false positive results are cross-reactions with various substances in the sample or
+reagents.
+
+                                                                                                                                    B-3
+
+
+---
+
+      d. Predictive Value of Test Results.
+             (1) Screening tests are often designed to be very sensitive so that they do not
+
+miss a true biological agent (detecting all true positives and a few false positives).
+However, an increase of false positives results in decreased specificity, so a positive
+screening test is only a presumptive positive.
+
+             (2) The positive predictive value of a positive test result from a single
+screening test is the ability of the test to correctly predict the actual presence of a
+biological agent. Prevalence of infection is very useful when evaluating a stable
+population or infection rates for epidemiologic studies. However, prevalence is very
+difficult to accurately assess when the likelihood of the biological agent being present is
+extremely low (such as in BW scenarios). Repeating a positive screening test does not
+add clarity or accuracy. Tests may react positively or negatively from one sample to
+another when the concentration of the biological agent is near the threshold limits of
+detection for the test methodology.
+
+             (3) The challenges of predictive values and specificity associated with
+screening tests are largely alleviated by confirmatory tests. Confirmatory tests have
+been designed to be highly specific in identifying biological agents. However, this design
+may result in an increase of false negative results, thus leading to decreased sensitivity,
+so it would not be ideal as a screening test. To increase the accuracy and specificity of
+confirmatory tests, testing is conducted for more than one biomarker, by the same or
+different methodologies.
+
+4. Employment of Labs
+
+      The determination of which labs are deployed depends on the anticipated nature of
+samples to be processed. The following illustration indicates the possible employment of
+labs to perform presumptive and confirmatory testing. Labs employing JBAIDS
+(see Figure B-1) are employing field confirmatory testing. However, positive results are
+checked by the Army medical laboratory or other designated higher-level confirmatory
+lab. The JBAIDS helps to serve as a quality screening system to reduce the workload on
+the Army medical laboratory (or other designated confirmatory lab).
+
+5. Laboratory Response Network for Biological Terrorism
+
+      The Laboratory Response Network is a multilevel system (see Figure B-2) in
+CONUS that is designed to link front-line hospital and state public health microbiology
+labs with federal and military reference labs supporting advanced capabilities in testing
+human, veterinary, food, and environmental samples. Labs participating in the
+Laboratory Response Network employ common SOPs and reagents to process and
+identify potential BW threat agents. Upon obtaining a presumptive identification, lower-
+level labs (Level A) send the samples and/or microorganisms to higher-level labs
+(Level C) for confirmatory identification. Upon confirmation of the identification at
+Levels B/C labs, other appropriate labs are employed for forensic testing.
+
+B-4
+
+
+---
+
+       Environmental sample                         Clinical specimen
+         (food or PVNTMED)                          FSMC with minimal lab
+
+                           Sample courier               CSH lab—Level A
+
+Food—JBAIDS
+
+PVNTMED—JBAIDS                                      CSH or microlab with
+Tech escort courier                                 JBAIDS—Level A
+
+                                                            Tech escort courier
+
+                     Army medical laboratory (with
+                           JBAIDS)—Level B/C
+
+Tech escort courier
+
+                     CONUS
+                        lab
+
+                     Figure B-1. Field Confirmatory Testing
+
+    Level D labs                           D—CDC, USAMRIID; high-level molecular
+        BSL-4                              characterization
+
+     Level C labs                            C—State PHL, some MEDCENs, TAML;
+          BSL-3                              molecular assays, reference capacity
+
+     Level B labs                                  B—Local PHL, MEDCENs, TAML,
+       BSL-2/3                                     forward-deployable preventive
+                                                   medicine unit; confirm ID
+    Level A labs
+        BSL-2                                            A—Routine medical department
+                                                         activity/CSH lab; presumptive ID
+Front-line screening
+
+Not part of Laboratory Response Network—front-line screening (PVNTMED
+det, veterinary food inspection, BIDS)—sample collection and screening tests.
+
+Figure B-2. Laboratory Response Network Structure
+
+                                                                                           B-5
+
+
+---
+
+                                      Appendix C
+
+  BIOLOGICAL-COLLECTION AND -DETECTION CAPABILITIES
+                                 AND LIMITATIONS
+
+1. Background
+
+      biological-point detection and -collection capabilities provide commanders with
+critical SA information. This appendix provides information on detector and sampling
+capabilities.
+
+2. Joint Portal Shield
+
+      a. The Joint Portal Shield network provides a capability to alert, collect, identify,
+and warn commanders and the site populace of biological attacks. Upon detection, the
+system provides automatic warning to active and passive command post (CP) computers.
+
+      b. The Joint Portal Shield network is typically a suite of 10 to 24 detectors with
+hardwired electricity and communications with radio frequency (RF) backup. The Joint
+Portal Shield consists of a particle counter (aerodynamic particle sizer) and cyclone
+sampler. The suite of components includes the following:
+
+             z Global positioning system (GPS) and weather station.
+
+             z Central processing unit (CPU) and radio modem data management. The
+                    CPU controls the hardware associated with the system and compiles and
+                    stores historical data from the detector.
+
+             z Automated warning and reporting and downwind hazard prediction. The
+                    The Joint Portal Shield network is capable of providing an automated
+                    warning of a biological-agent release directly to a computer in the
+                    OPCEN.
+
+             z Environmental control unit (ECU). An ECU keeps the components, to
+                    include the internal computer, cool.
+
+             z Computer control component. The computer is a standard, commercial
+                    off-the-shelf (COTS) high-speed personal computer (PC) with a dedicated
+                    monitor and printer. The computer contains Joint Portal Shield network-
+                    unique software that will generate system status and alarm data (visual
+                    and audible) on the PC. The system software is also ATP-45 compatible
+                    and can automatically prepare properly formatted NBC reports.
+
+             (1) The number of sensors employed at each site will depend largely on the
+size of the installation and the shape of its perimeter. The sensors will be positioned at
+stationary, presurveyed locations around an AB or seaport perimeter. The Joint Portal
+Shield network allows the operator to configure the network by selectively activating
+those sensors that are appropriate for the current BW threat. Additionally, individual
+sensors, designated by the operator to be part of the network, can be further
+programmed to operate in either an unarmed or armed mode. Unarmed sensors only
+monitor the atmosphere for a rise in the particle count. If an airborne particle rise is
+detected, the sensor will not collect a wet sample. Unarmed sensors will not collect wet
+
+                                                                                                                                    C-1
+
+
+---
+
+samples and will not inject a portion of the wet sample for testing. Armed sensors
+perform surveillance and wet sample collection functions and, when conditions warrant,
+they will accept a command from the computer to inject and test the wet sample.
+
+             (2) Tailoring the network is highly suited for accommodating changes in the
+threat between operations during daylight and periods of darkness. Since BW attacks
+are less likely to occur during daylight hours, the network may be configured to include
+most upwind sensors—half of them armed with the remaining half unarmed—and some
+downwind sensors, most in the unarmed mode. Because BW attacks are more likely
+during hours of darkness, the number of active and armed sensors on the upwind and
+downwind sides of the perimeter should be increased. The ability to tailor the net and
+operating status of each sensor extends component life, minimizes operator maintenance
+requirements, and reduces the consumption of expendable materials.
+
+             (3) Three network operating logic modes are available. They are the smart,
+random, and manual modes. The computer logic that dictates sensor activity in the
+smart and random modes is related to meteorological conditions and is intended for use
+during high and low threat periods, respectively. The network logic should be set to the
+smart mode when wind conditions are favorable for a BW attack. When in the smart
+mode, all sensors that are designated as part of the network should be armed. The
+random mode is desirable for periods when the wind speed is unfavorable or marginal for
+a BW attack. In the manual mode, the operator initiates the sampling sequence. Because
+of the reduced threat of a BW attack, some active sensors may be unarmed.
+
+      c. The Joint Portal Shield network is capable of monitoring the local atmosphere
+and testing samples for the presence of eight different biological agents simultaneously.
+The eight agents that the system is set to monitor and test for are selected from a larger
+menu of possible agents (the list of specific agents that can be detected is classified). The
+selection of specific biological agents for monitoring is a command decision and will be
+based on AOR threat information that is provided to the installation commander by the
+medical and operational intelligence communities.
+
+      d. The Joint Portal Shield network accomplishes biological detection by injecting
+a small amount of a wet sample that is suspected of containing a BW agent onto its
+immunoassay optical ticket reader. The sensor contains immunoassay tickets that react
+to BW agents. The Joint Portal Shield network sensors also incorporates a computer and
+a built-in communications capability. All active sensors continuously report their status
+and activities to the CP computer. The computer continuously analyzes all reported data
+received from the sensors. Once the system has advanced to the network activation
+stage, the computer will direct all triggered sensors to initiate wet sample testing for the
+presence of BW agents. The Joint Portal Shield network alerting, sampling, identifying,
+and reporting process parallels the process used by the BIDS (see Appendix I).
+
+3. Biological Integrated Detection System
+
+      a. The BIDS provides the capability to alert, detect, collect, and identify BW
+agents. It is a biological-detection asset designed for defense against a long line source
+BW attack. BIDS units are operational level-of-war assets. The unit is optimally
+deployed as a company-sized asset; however, platoon-sized deployments (with supporting
+CSS, including CLS) can be planned and executed. BIDS units can be placed throughout
+the AO to create a wide-area sensor array or network. Any presumptive identification is
+reported directly to the operational-level commander. The operational-level commander
+
+C-2
+
+
+---
+
+and staff then determine if a BW attack has taken place (as opposed to the single system
+alert being due to local fluctuations—a false positive). If the determination is that an
+attack has occurred, then appropriate warning and postattack actions are executed. The
+BIDS functions are described in Appendix I.
+
+      b. The BIDS consists of a shelter (S-788 lightweight multipurpose shelter)
+mounted on a dedicated vehicle (high mobility multipurpose wheeled vehicle
+[HMMWV]). It is equipped with a biological-detection suite employing complementary
+technologies to detect large-area biological attacks.
+
+             (1) The system is capable of generating its own electrical power. To ensure
+uninterrupted operation for at least 3 days, the complete BIDS system also includes a
+second HMMWV that is used as a support vehicle (to carry spares and repair parts and
+to courier suspect samples to a collection point). It also carries two of the BIDS four-man
+crew.
+
+             (2) While each individual BIDS system is robust in itself, the fact that so few
+systems are used to monitor large areas means that localized, point BW attacks may go
+undetected. Several BIDS can be employed at a single high-priority site to provide
+coverage of that site. There are currently three versions of BIDS in the USA inventory:
+the M31, M31A1, and M31A2.
+
+      c. See Appendix I for a description of system capabilities and operations. The
+BIDS detection process includes monitoring, alerting, sampling, collecting, identifying,
+and reporting (see Table C-1).
+
+                                            Table C-1. BIDS Comparison
+
+M31A2     Monitoring             Alerting        Sampling        Identifying           Reporting
+M31A1                                          The sample      Determines the
+       Determines if an   Determines if        collector is    presumptive        The time range for
+ M31   increase in the    aerosol particles    automatically   identification of  reporting
+       number of          contain biological   activated.      up to ten          presumptive
+       particles within   material. Detection                  preselected        identification is
+       a certain size     is based on single   The biological  BW agents.         18 minutes. Data
+       range occurs.      component, rather    and liquid                         recording and
+                          than multiple        sampler is      Determines the     display and
+       Determines         components as in     automatically   presumptive        formatting to a
+       whether            the M31/M31A1.       activated.      identification of  NBC report is
+       biological mass                                         up to eight        automated.
+       is present within  Determines with      The biological  preselected
+       aerosol            greater sensitivity  and liquid      BW agents.         The time range for
+       particles of a     than the M31 if      sampler is                         reporting
+       certain size       aerosol particles    manually        Determines the     presumptive
+       range.             contain biological   activated.      presumptive        identification is
+       Determines if an   material—cells,                      identification of  18-25 minutes.
+       increase in the    spores, or toxins.                   four to eight      The recording and
+       number of                                               BW agents.         display of data is
+       particles within   Determines if                                           automated.
+       a certain size     aerosol particles
+       range occurs.      contain biological                                      The time range of
+                          material—cells,                                         reporting
+                          spores.                                                 presumptive
+                                                                                  identification is
+                                                                                  30-40 minutes.
+                                                                                  The recording of
+                                                                                  data is manual.
+
+                                                                                  C-3
+
+
+---
+
+4. Joint Biological Point Detection System, Fixed-Site or Trailer-Mounted
+Version
+
+      The trailer-mounted JBPDS provides an alert, collection, and identification
+capability. A designated prime mover tows the two-wheeled trailer. It can be transported
+by the landing craft air cushion (LCAC). The trailer has the following components
+mounted on its platform: basic biological suite unit, ECU, 2-kilowatt tactical quiet
+generator, two 20-liter diesel fuel cans, stowage boxes, and a ladder. Power is supplied to
+the system by the generator. Public utility power can also be used to supply power to the
+system. The trailer-mounted JBPDS is essentially a man-portable JPBDS that has been
+modified for trailer mounting. The trailer-mounted JBPDS is mounted on a modified
+M116A3 trailer chassis. The fully integrated system consists of the JBPDS, shock
+isolators, government-furnished equipment [GFE] components, cabling, and integration
+hardware mounted on an M116A3 chassis.
+
+5. Long-Range Biological Standoff Detection System
+
+      a. LRBSDS capabilities include being able to discriminate between man-made
+and naturally occurring clouds in the atmosphere. See Appendix H.
+
+      b. Just as many military systems employ the concept of defense-in-depth,
+biological detection can be viewed as providing detection at different physical and
+operational levels. In this context, the LRBSDS performs at the outer edge of the
+detection environment, providing perhaps the earliest detection of a possible biological
+attack. As an operational-level asset, the LRBSDS is flown as close to the forward line of
+own troops (FLOT) as is safe and practical—the system is designed to be flown in a
+utility helicopter; specifically, the UH-60. The long range of the system (30 kilometers or
+more) allows detection of long line source attacks before the suspected agent has reached
+and affected US forces, preventing what could be a substantial negation of US military
+capability.
+
+      c. The LRBSDS only warns that it has detected a man-made aerosol cloud; it
+cannot determine if that cloud contains biological material. Other systems, such as the
+BIDS, will be required to actually determine that there is an agent present once the
+cloud reaches US forces.
+
+6. Maritime Biological Agent Detection Capabilities
+
+      a. The shipboard JBPDS provides a capability to alert, collect, and identify
+biological agents to support maritime operations. The first two components of the JBPDS
+continuously monitor the air for a significant rise in particulate concentrations and/or
+biological mass. If a significant rise over the background is detected, the instruments will
+automatically collect an aerosol sample and alert the ship damage control center (DCC)
+of the need to collect the sample and screen it using a handheld assay for a possible
+presumptive identification. Positive presumptive identification results from the IBADS
+and/or JBPDS providing a high-confidence result.
+
+      b. The maritime JBPDS detects and identifies BW agents. It contains or connects
+to navigation, meteorological, and communications equipment that is used to identify the
+location and sense the conditions under which the agent was detected. The maritime
+JBPDS has the ability to detect and identify up to ten BW agents (for example, bacteria,
+
+C-4
+
+
+---
+
+rickettsia, viruses, and toxins) during a mission. BW agent identification is limited only
+by the available agent reactive assay strips housed within the identifier. It provides the
+ability to collect and save BW agent samples for later lab analysis. The JBPDS consists
+of the basic biological suite unit and a power pack.
+
+      c. The maritime JBPDS provides the capability to monitor the ambient air for the
+presence of BW agents. It is employed to provide presumptive identification support to
+the commander and alerting, collecting, identifying, and reporting capabilities.
+
+7. Dry Filter Unit
+
+      a. The dry filter unit 2000 provides the commander with a capability for
+biological sampling. This system, complemented by handheld assays, provides the
+command with a manual presumptive identification capability for the analysis of the
+samples. See Table C-2.
+
+                                   Table C-2. Dry Filter Unit 2000 Functions
+
+Dry Filter Unit 2000           Collecting              Identifying                Reporting
+
+                      Collects a sample at a  Determines the             The time range for the
+                      prescribed interval.    presumptive                reporting of presumptive
+                                              identification based on a  identification is 18-20
+                                              manual handheld assay.     minutes following
+                                                                         collection of the sample.
+
+NOTE: The dry filter unit has no trigger.
+
+      b. The dry filter unit 2000 consists of a dry filter unit 1000 air sampler, outer
+shelter, and preseparator. The system uses commercial power but comes equipped with a
+generator that has automatic-start capability to change power sources in case of a
+commercial power failure.
+
+      c. The capabilities of the dry filter unit 2000 include—
+
+             z biological-air sampling.
+
+             z Collection and concentration of biological-particulate matter from the air.
+
+             z A collection time of 1 to 8 hours.
+
+             z Presumptive identification of BW agents. The filter is placed into the
+                    buffer solution, shaken to extract particles, and analyzed using a
+                    handheld assay.
+
+             z Simple operation and maintenance.
+
+             z Contained within a shelter for use in harsh exterior climates.
+
+             z Exclusion of large particles and rain from the filters (via preseparator).
+
+      d. The dry filter unit 2000 collects particles from the ambient air for analysis. It
+is a continuous sampler that collects and traps airborne particles onto a filter for later
+extraction and analysis. Testing may be performed through antibody-antigen analysis,
+such as with handheld assays. The dry filter unit 2000 requires minimal training and
+maintenance. Operations are simple and require very little time. When deployed with
+handheld assays and dry filter unit consumable kits, the dry filter unit 2000 becomes
+both a biological-sampling and a presumptive identification system.
+
+                                                                                     C-5
+
+
+---
+
+      e. The dry filter unit sampling and identification process (capabilities) consists of
+collecting, identifying, reporting, and packaging the sample. See Table C-3 for process
+information.
+
+                     Table C-3. Dry Filter Unit 2000 Biological-Detection Process
+
+             Mission Essential Task                                Product(s)
+                                     Physical sample for analysis
+Collecting                           Presumptive identification
+Identifying                          Incident report
+Reporting                            Confirmatory identification
+Evacuating
+
+             (1) Collecting. The decision to conduct dry filter unit 2000 sampling
+operations is made by the commander with input from his NBC, intelligence, medical,
+and FP staff.
+
+             (2) Identifying. Manual presumptive identification, using handheld assays
+and samples collected by the dry filter unit 2000, is conducted at intervals established by
+the commander or his designated representative (for example, the FP officer).
+
+             (3) Reporting. The dry filter unit 2000 provides information based on the
+results from the handheld-assay testing. The dry filter unit 2000 is deployed within an
+installation. Communications linkages between the operators conducting the handheld-
+assay testing and the installation OPCEN allow critical BW agent identification
+information to support the commander’s SA.
+
+             (4) Evacuating. Following presumptive identification, the installation
+provides a FRAGORD, when applicable, for sample evacuation. This FRAGORD directs
+when to evacuate the collected sample or samples, the sample transfer point location,
+specific identification of the receiving courier team, and a not later than (NLT) time to
+link up with the escort team at the sample transfer point.
+
+8. Department of Defense Biological Sampling Kit
+
+      a. The DOD biological sampling kit capability provides a presumptive
+identification capability for areas suspected of being contaminated with BW agents. The
+kits include all the necessary components to acquire a sample and provide presumptive
+identification. The basic functions of the kit include collecting, identifying, and reporting.
+
+      b. The DOD biological sampling kit is a single-use package containing the
+handheld-assay sampling panel and all the supporting supplies to collect and process
+suspect samples. Each kit holds up to eight handheld assays, phosphate-buffered saline
+solution in a dropper bottle, two sterile cotton-tipped swabs, directions for use, and a
+blue-capped 50-milliliter conical tube.
+
+      c. The DOD biological sampling kit provides a capability to test areas suspected
+of being contaminated with BW agents on a surface that is conducive to testing. The
+handheld assays are designed to identify a limited list of biological agents from relatively
+clean, nonporous surfaces. The handheld assay is not designed for soil, skin, wood, food,
+or water sampling and is not for diagnostic use.
+
+C-6
+
+
+---
+
+      d. The DOD biological sampling kit and its associated handheld assays are
+employed for—
+
+          z Field-screening suspect munitions.
+
+          z Munitions fragments.
+
+          z Suspicious liquids.
+
+          z Powders (or suspensions).
+
+          z Terrorist labs or weapons materials that might be associated with the
+                manufacture or delivery of BW agents.
+
+          z Reconnaissance of indoor or outdoor surfaces where it is suspected that
+                BW agents were released in fairly high concentrations.
+
+      e.  The DOD biological sampling kit sampling and identification process consists
+of—
+
+          z Sampling. The decision to conduct sampling is made by the commander
+                with input from the NBC, intelligence, and medical staffs and NBC
+                reconnaissance or explosive ordnance disposal (EOD) teams.
+
+          z Identifying. The sampling team conducts manual presumptive
+                identification on completion of the sampling.
+
+          z Reporting. The results of the presumptive identification process are
+                reported by the sampling team to the controlling OPCEN (for example,
+                the NBC control center).
+
+          z Packaging. The sampling team ensures that sample are packaged
+                according to Appendix G.
+
+          z Evacuating. Following a presumptive identification, the installation
+                provides a FRAGORD, when applicable, for sample evacuation. The
+                FRAGORD directs when and where to evacuate the sample.
+
+9. Common Limitation
+
+      a. Each of the systems and the kit described in this appendix use immunoassay
+technology to presumptively identify BW agents. This technology has limitations.
+Handheld assays are not designed to be the sole method of identification, but are part of
+a layered defense capability using follow-on lab assets to perform definitive or
+confirmatory identification of the agent. Handheld-assay limitations include the
+following.
+
+             (1) Handheld assays should not be used where there might be extremely high
+concentrations of the agents. Clogging may occur during the assay and lead to an
+inconclusive result.
+
+             (2) Handheld assays should not be removed from their foil packaging until
+just prior to the assay. Additionally, do not use the handheld assay if the packaging has
+been breached prior to testing. The handheld-assay membrane can absorb humidity from
+the air and lead to an inconclusive test result.
+
+             (3) BW-aerosol concentrations might be below detectable limits for the
+handheld assay, yet be above the infectious dosage. This could lead to false negative
+
+                                                                                   C-7
+
+
+---
+
+results. Due to the limitations of the handheld assay, additional testing is always
+necessary to assess an area as free of contamination from that BW agent.
+
+      b. The handheld assay allows for presumptive identification only. Like all assays,
+the handheld assay has a threshold of sensitivity—if the amount of the agent present is
+below this concentration, the handheld assay will not detect it. Although the handheld
+assay is sensitive, the infective dose for most pathogens is far lower than the sensitivity
+of the handheld assay. Use of the handheld assays leads to presumptive identification
+only (whether negative or positive) and must be confirmed by additional testing at a lab
+using multiple microbiological methodologies.
+
+C-8
+
+
+---
+
+                                      Appendix D
+
+BIOLOGICAL-DETECTION CONTRACTED LOGISTICS SUPPORT
+
+1. Background
+
+      Biological-detection assets use standard military support for supply and
+maintenance; however, biological-detection assets often require the use of CLS as an
+integrated element of their support and deployment package. Validated OPLANs and/or
+OPORDs outlining the biological-detection logistics support concept and CLS must be
+integrated into contingency planning. Logistics support planning must address CLS
+considerations during mobilization, employment, and deployment. Planning also
+addresses the contingency that multiple mission requirements will split biological-
+detection operations into different theaters of operation, increasing risk and degrading
+CLS support (the dilution of limited CLS assets).
+
+2. Principles
+
+      The use of CLS for military operations is governed by principles that emphasize
+ensuring that a plan is executable from both an operational and a logistics perspective.
+The following principles provide a framework for the use of CLS.
+
+      a. Risk Assessment. Commanders must assess risk, evaluate factors (such as the
+impact of the threat on contractor safety), and determine where CLS can safely operate.
+The risk assessment identifies the survival training and equipment (for example, IPE)
+that CLS will require during the assigned mission.
+
+      b. Force Structure Augmentation. CLS is an integral support requirement for
+many biological-detection assets. CLS provides a force structure augmentation for
+biological-detection units that may not be part of military core capabilities (for example,
+a military unit may not be available to perform the required maintenance on biological-
+detection suite components).
+
+      c. Mission, Enemy, Terrain and Weather, Time, Troops Available, and Civilian.
+METT-TC considerations help commanders and staff planners evaluate when and where
+to use CLS. For example, the commander must consider the time required for CLS to
+repair a component using a centrally located facility versus forward-deployed
+maintenance contact teams. Additionally, commanders must consider other factors such
+as the threat to operations involving low-density, highly skilled CLS technicians.
+
+      d. Integrated Planning. CLS leaders must participate in the logistics planning
+process. CLS representatives must be present at planning sessions on the receipt of alert
+directives or an OPLAN and/or OPORD. CLS representatives can provide useful input on
+the logistics feasibility of COAs and the preparation of the administrative and/or logistics
+annex to the OPLAN and/or OPORD.
+
+      e. Customer Support. Links between the biological-detection unit and CLS must
+not place additional burdens or requirements on the supported unit. CLS can use
+whatever internal systems or procedures they choose; however, they must use the
+military systems and procedures when interfacing with the military.
+
+                                                                                                                                    D-1
+
+
+---
+
+      f. International Agreements. International agreements and HN laws that apply
+to the AO directly affect the use of CLS. Use of CLS may incur legal obligations to the
+HN such as customs, taxes, vehicle registration and licensing, communications, support,
+passports or restrictions, and inter- or intra-country travel. These agreements must be
+considered when preparing contracts and OPLANs and/or OPORDs.
+
+      g. Habitual Relationships. A habitual relationship is a long-term relationship
+between CLS and the biological-detection asset. The nature of this relationship is
+established through the terms and conditions of a contract and extends beyond that of
+the organization to include the individual contractor, employee, and supported unit.
+
+3. Contracted Logistics Support Planning Considerations
+
+      Planning for CLS support is integral to any operation. Planning for an operation
+involves several critical decisions concerning the integration of CLS capabilities. Key
+CLS planning considerations are addressed in the following paragraphs.
+
+      a. Responsibilities. Unit planning responsibilities ensure that the right resources
+are deployed to support a mission.
+
+      b. Operation Plan. The CSS sections of applicable OPLANs address the use and
+employment of CLS. The level of detail in the OPLAN will vary depending on the level of
+command.
+
+      c. Risk Assessment. Risk assessment evaluates the ability of CLS to support
+missions during the transition from peace to conflict. As mission requirements increase,
+CLS must still respond with the same required support.
+
+      d. Responsiveness of Support. The nature of the operational environment (for
+example, operations in multiple AOs and theaters of operation) may require the ability of
+CLS to support deployed assets; however, uninterrupted sustainment support is still
+required. CLS must be prepared to task-organize its assets to meet unanticipated
+requirements.
+
+      e. Transition From Peace to War. The risk of using CLS during peacetime is
+normally low, increasing as operations transition from peace to war. The supported force
+must protect CLS personnel in hostile areas, and the CLS contractor and his employees
+must be trained and ready to operate and survive in an NBC environment.
+
+      f. Communication Requirements. The CLS contract describes the scope of CLS
+support. The contractor is not legally obligated to meet any requirement not in the
+contract. Without a requirement specified in the contract, the government has no basis
+for directing or requiring any contractor action. All requirements for CLS are
+communicated to the contractor through the contract.
+
+      g. Coordination Requirements.
+
+             (1) The supporting COCOM, the gaining COCOM, the biological-detection
+unit, and CLS plan in coordination. CLS planning and coordination must address the
+responsibility of the chain of command to feed, house, and protect contractor employees
+operating on the battlefield. It must also include predeployment training and integrated,
+time-phased force deployment planning.
+
+             (2) Within the scope of the existing contract, the major command contracting
+office should appoint a task monitor. The appointed task monitor must be familiar with
+
+D-2
+
+
+---
+
+CLS operations. Additionally, a CLS appointment letter will outline the task monitor’s
+responsibilities. See paragraph 5 for information on task monitor responsibilities. The
+task monitor must also be familiar with biological-detection operations.
+
+             (3) CLS must be attached to a military support element for functions such as
+life support and personnel accountability. For example, the United States Army Materiel
+Command logistics support element (LSE) would coordinate day-to-day life support
+services for the CLS team; however, the LSE may not be within the AOR initially. In the
+absence of the LSE, a designated unit such as a biological-detection company or a C2 HQ
+element will coordinate the required life-support efforts for CLS personnel. A HN,
+another service, or another Army unit could also furnish the actual life-support services.
+Effective coordination and deployment planning ensures that deploying CLS teams
+receive notification of deployment (concurrent with notification of biological-detection
+assets) to allow CLS time to prepare for movement.
+
+4. Employment
+
+      Employment considerations include—
+      z Obtaining information on the safety zone requirements. The safety zone is an
+
+             FP control measure for CLS operations. The boundaries are determined by the
+             COCOM, based on threat and mission considerations.
+      z Locating CLS near the biological-detection assets C2 element.
+      z Informing the gaining command of CLS facility requirements and conducting
+             coordination to ensure that required assets are furnished.
+      z Locating CLS near main supply routes (MSRs), airfields, or ports of
+             debarkation (PODs) (air or sea) to facilitate the movement of supplies and
+             equipment.
+      z Recognizing the requirement for permits or authorizations to move CLS teams
+             across international borders.
+
+5. Responsibilities
+
+      Managing and maintaining visibility over CLS requires the involvement of
+commanders and their staffs at all levels. In planning and execution, responsibilities for
+the integration of CLS range from the strategic to tactical level. It is necessary to ensure
+that CLS is integrated into the decision-making process.
+
+      a. Supporting COCOM (Force Provider). The supporting combatant commander’s
+responsibilities may include—
+
+             z Providing the contracting officer for the CLS support effort.
+             z Validating force requirements to support an OPLAN (ensure that
+
+                    OPLANs address CLS requirements).
+             z Preparing forces for commitment in support of OPLAN execution.
+             z Coordinating movement with and deploying forces as scheduled by US
+
+                    Transportation Command (USTRANSCOM).
+
+                                                                                                                                    D-3
+
+
+---
+
+             z Coordinating deployment changes with the supported COCOM and
+                    USTRANSCOM.
+
+             z Coordinating and supporting deployment requirements for biological-
+                    detection and CLS assets.
+
+             z Notifying the CLS contracting officer at the area contracting center on
+                    deployment notification.
+
+             z Designating installations (for example, Fort Benning, Georgia) as
+                    mobilization stations for the execution of the mobilization mission
+                    (receiving, processing, training, equipping, validating, and deploying CLS
+                    personnel).
+
+      b. Installation. Installation responsibilities can include supporting deployment
+operations or supporting other personnel, medical, or logistics issues.
+
+             (1) For deployment, installations such as Fort Benning, Georgia, or Fort
+Polk, Louisiana, may be designated as mobilization stations and aerial ports of
+embarkation (APOEs). The primary responsibilities of the mobilization stations are to
+receive, house, command, support, share assets, train, validate, and deploy biological-
+detection units and CLS.
+
+             (2) Support from the installation can range from personnel, to medical, to
+logistics issues. For example, the installation transportation officer may provide
+guidance and help units prepare, maintain, and execute movement plans. They also
+coordinate and monitor unit movement, provide assistance to units within or traversing
+the installation support area, and coordinate commercial transportation support. They
+prepare movement reports, process convoy clearances and special hauling permits, and
+approve unit movement plans and associated data. Installation staffs should also be
+responsible for physically processing military units and supporting biological-detection
+CLS elements for deployment according to their readiness SOP. This support includes
+conducting military and civilian readiness processing verification. This process can
+include medical and dental processing, chemical defense equipment issue, and
+organizational clothing and individual equipment issue.
+
+      c. Continental United States Replacement Center.
+
+             (1) The CONUS Replacement Center (CRC) responsibility includes receiving,
+processing, training, equipping, validating, deploying reserve soldiers and contract
+civilians, and providing theater-specific equipment. The CRC coordinates equipping,
+transporting, training, validating, and staging personnel for movement to a TO. The
+CRC can also become a CONUS demobilization center upon redeployment. It receives,
+out-processes, and accounts for individuals returning from the theater, to include
+soldiers and civilians. Further, a military installation staff (supporting the CRC) will
+physically process the military and civilian personnel. This includes functions such as
+administration, soldier and civilian readiness processing, billeting, communications,
+medical and dental support, organizational clothing and individual equipment issue, and
+training.
+
+             (2) CRCs have responsibility for the following critical tasks:
+
+                    z Certifying military personnel and/or civilian contractor readiness-
+                           processing qualifications.
+
+D-4
+
+
+---
+
+                    z Coordinating installation-processing requirements, when needed.
+                    z Coordinating the equipping of military personnel, government
+
+                           civilians, and contract civilians.
+                    z Coordinating theater-specific briefings and training requirements.
+                    z Coordinating movement around the installation and to the port of
+
+                           embarkation (POE).
+                    z Creating and providing manifests.
+                    z Coordinating out-processing procedures with the installation.
+      d. Gaining Combatant Command Responsibilities. The supported geographic
+COCOM accomplishes key tasks that include—
+             z Preparing operational plans that address CLS requirements. The OPLAN
+                    has the time-phased force and deployment data (TPFDD), non-unit-
+                    related cargo and personnel data, and movement data for the OPLAN.
+                    The TPFDD includes integrated information for both the biological-
+                    detection and CLS assets.
+             z Providing facilities to support CLS requirements.
+             z Requesting CLS capabilities and approving TPFDL requirements for the
+                    biological-detection unit and their supporting CLS assets.
+             z Ensuring the reception, staging, onward movement, and integration
+                    (RSOI) of CLS assets.
+      e. Service Component Commander. COCOMs may be forward-stationed or
+CONUS-based. The service component develops the TPFDD and ensures that the
+supporting plans are consistent with the unified commander’s OPLAN. The service
+component is responsible for the following:
+             z Developing supporting plans for OPLANs.
+             z Training and preparing assigned forces for deployment.
+             z Maintaining accurate unit movement data (UMD) for its assigned units.
+             z Prescribing procedures, requirements, and responsibilities for deployment
+                    planning and execution.
+             z Coordinating deployment activities as scheduled by USTRANSCOM.
+             z Planning and preparing to receive and support forces if deployed to its
+                    AOs.
+      f. Senior Theater Logistics Command. The senior theater logistics command is
+responsible for synchronizing logistics and support operations, and for integrating CLS
+into the overall support structure. The senior logistics command in the AOR assumes
+responsibility for visibility of the CLS element in the theater, and maintains visibility
+over who is in the theater, where they are operating, what support functions they are
+performing, and when they provide support. The functions performed by the logistics
+command are not related to contract compliance.
+
+                                                                                                                                    D-5
+
+
+---
+
+      g. Biological-Detection Assets. The biological-detection asset responsibilities can
+include—
+
+             z Coordinating FP for CLS assets.
+
+             z Employing CLS capabilities.
+
+             z Providing integrated unit and CLS movement data for submission to
+                    support the TPFDL.
+
+             z Coordinating the required life support for CLS during deployments.
+
+             z Integrating CLS into readiness processing.
+
+             z Offering training, as required.
+
+             z Integrating CLS considerations and CLS team leaders into the
+                    contingency planning process.
+
+      h. United States Transportation Command. The major transporter of CLS
+equipment and supplies is USTRANSCOM and its transportation component
+commands—Military Traffic Management Command (MTMC), Military Sealift
+Command (MSC), and the Air Mobility Command (AMC). USTRANSCOM provides
+strategic air, land, and sea transportation for biological-detection and CLS resources.
+USTRANSCOM provides centralized global transportation management to ensure in-
+transit asset visibility. USTRANSCOM assets support the biological-detection CLS effort
+through the movement of CLS personnel and equipment, furnishing transportation
+assets for resupply of consumables and line replacement units, and transporting CLS
+assets between areas of responsibility, if required.
+
+      i. Military Departments. Service departments support the geographic COCOMs
+and/or JFCs through ensuring administrative and logistics support for COCOM and/or
+JFC forces.
+
+      j. Contracted Logistics Support Responsibilities.
+
+             (1) The CLS team provides system support for systems such as BIDS, Joint
+Portal Shield, JBPDS, and LRBSDS. The CLS project manager supervises CLS team
+activities and ensures that CLS elements are ready to support biological-detection unit
+requirements.
+
+             (2) The CLS team has the overall responsibility for each aspect of the support
+activity. These responsibilities include, but are not limited to the following:
+
+                    z Providing CLS planning for the supported unit.
+
+                    z Providing CLS load planning data to the supported unit and
+                           establishing priorities for work accomplished.
+
+                    z Reviewing work and supply requests from the supply unit.
+
+                    z Managing and ensuring that CLS team personnel remain ready for
+                           deployment (for example, monitoring training and medical and
+                           dental requirements)
+
+      k. Contracting Officer’s Representative or Task Monitor.
+
+             (1) The contracting officer’s representative or task monitor is the contracting
+officer’s designated representative who assists in the technical monitoring and
+
+D-6
+
+
+---
+
+administration of a contract. The contracting officer’s representative is the link of the
+supported unit to the contractor using the contract administration and management
+process. This task monitor is designated, in writing, to perform the duties and
+responsibilities delegated by the contracting officer.
+
+             (2) The contracting officer’s representative, administrative contracting
+officer’s representative, or task monitor gives specific duties and responsibilities that are
+delegated in writing by the contracting officer. Typically, a contracting officer’s
+representative will be responsible for assisting the contracting officer in the following
+areas:
+
+                    z Maintaining liaison and direct communications with both the
+                           contractor and the contracting officer.
+
+                    z Monitoring the contractor’s performance, notifying the contracting
+                           officer of deficiencies observed during surveillance, and
+                           recommending appropriate corrective action.
+
+                    z Verifying that the contractor has performed the technical and
+                           managerial requirements of the contract.
+
+                    z Performing all necessary inspections.
+
+                    z Verifying that the contractor has corrected all correctable
+                           deficiencies.
+
+                    z Accepting supplies and services received (for the government).
+
+             (3) Although the contracting officer’s representatives provide a vital link
+between the military and the contractor, there are certain limits to their authority. The
+contracting officer’s representative, administrative contracting officer’s representative,
+or task monitor is prohibited from—
+
+                    z Making any agreement with the contractor requiring the obligation
+                           of public funds.
+
+                    z Making any commitments or changes that affect price, quality,
+                           quantity, delivery, or other terms and conditions of the contract.
+
+                    z Discouraging the contractor from undertaking new work or
+                           extending existing work beyond the contract period by words,
+                           actions, or a failure to act.
+
+                    z Authorizing a contractor to obtain property for use under a contract.
+
+                    z Interfering with the contractor’s management prerogative by
+                           “supervising” contractor employees or otherwise directing their work
+                           efforts.
+
+                    z Modifying the tour of duty or hours.
+
+             (4) The task monitor’s responsibilities include—
+
+                    z Monitoring contract performance and notifying the contracting
+                           officer’s representative of deficiencies observed during surveillance
+                           (making recommendations).
+
+                    z Receiving feedback from the biological-detection and CLS leaders on
+                           sustainment operations.
+
+                                                                                                                                    D-7
+
+
+---
+
+                    z Coordinating with the CLS contractor on any changes in contract
+                           requirements, if directed by the contracting officer and/or
+                           contracting officer’s representative.
+
+6. Contracted Logistics Support Capabilities and Constraints
+
+      CLS requirements may include biological-detection systems specific maintenance
+and/or supply support as required by the applicable contract. CLS requirements may
+also include operating biological-detection equipment.
+
+7. Contracted Logistics Support Team Assessment
+
+      It is especially critical that CLS teams are responsive to short-notice deployment
+requirements. The contracting officer and/or contracting officer’s representative may
+assess the preparedness of CLS to respond.
+
+      a. On receipt of notification of a requirement to deploy CLS, negotiation between
+the CLS contractor and contracting officer results in agreement and/or certification that
+the contractor will fulfill the requisite contractual requirements.
+
+      b. Additionally, the contracting officer’s representative receives reports or
+assessments from task monitors on the CLS team preparation for deployment. The task
+monitor coordinates with units such as the on-site CLS team, the biological-detection
+element, and applicable installation-level POCs. Examples of key information that the
+task monitor may report during deployment processing include—
+
+             z Satisfactory completion of readiness processing by CLS personnel, to
+                    include required training.
+
+             z Results of technical inspections of CLS vehicles.
+
+             z The receipt of required organizational clothing and equipment (such as
+                    protective masks and overgarments).
+
+             z Completed packing of specified line replacement units, consumables,
+                    spare parts, and other necessary items.
+
+             z Responsiveness of CLS.
+
+8. Contracted Logistics Support Control
+
+      Planning for CLS addresses the military responsibility to feed, house, equip, and
+protect contractor employees operating on the battlefield. It also includes predeployment
+training and time-phased, force deployment planning. Overall, the CLS planning effort
+must address the following considerations.
+
+      a. Command and Control. When coordinating CLS, the contract addresses the
+relationship between the CLS team and support of the CLS team as a system contractor
+to the military. This is a crucial point since commanders cannot order contractors to
+provide services; they must use the contracting officer’s representative to direct work
+within the scope of the existing contract. Additionally, the government CLS contracting
+officer can appoint, in writing a military unit commander or his designated
+representative as a task monitor. The task monitor has the authority to monitor CLS
+operations. He provides general guidance and furnishes missions and priorities to the
+
+D-8
+
+
+---
+
+supporting CLS team. The appointed task monitor should be familiar with biological-
+detection CLS operations.
+
+      b. Deployment of Contracted Logistics Support Personnel. The CLS personnel
+will deploy in support of biological-detection unit operations. These deploying CLS teams
+require early notification of deployment to allow adequate preparation time for
+movement to become an integral part of the deployment package.
+
+      c. Location on the Battlefield. Site determination of a CLS team requires the
+consideration of several factors. Some of these include—
+
+             z Geographical limits of the contractor safety zone and physical-security
+                    requirements. The safety zone is an FP control measure for CLS
+                    operations. The boundaries are determined by the COCOM, based on
+                    threat and mission considerations.
+
+             z The location of CLS teams near the biological-detection asset for
+                    responsiveness, access to communications and biological-detection asset
+                    logistics information, and daily coordination.
+
+             z Facilities that support CLS supply and maintenance requirements (for
+                    example, refrigeration support for selected supplies, power sources, and a
+                    relatively dust-free environment).
+
+             z The location of CLS teams near MSRs or PODs (air or sea) to expedite the
+                    receipt or transport of supplies, components, or CLS teams to other
+                    locations within or outside the theater.
+
+             z Requirements to move CLS teams across international borders and the
+                    corresponding requirements for permits and authorizations.
+
+9. Contracted Logistics Support Concept
+
+      a. Concept. CLS could range from maintenance and supply operations to
+providing equipment operators for biological-detection systems.
+
+      b. Maintenance Support.
+
+             (1) In general, military units are responsible for requesting, maintaining,
+and turning in standard military issue equipment. This equipment includes items such
+as generators, gas particulate filter units, vehicles, and radios.
+
+             (2) Military biological-detection asset leadership carefully analyzes
+maintenance requirements with respect to movement and maintenance times for repair
+versus replacement and evacuation of components. Unit leaders consider actions such as
+establishing forward fixing points and weigh the travel and repair time for a contact
+team at a forward fixing site versus the travel and repair times at a centralized location.
+The biological-detection unit considers maintenance that may include repair by
+replacement or repair forward.
+
+                    (a) Repair by replacement. After troubleshooting fails to resolve the
+problem, the biological-detection unit may request maintenance support. For example,
+the biological-detection unit can remove the line replacement unit (enclosed in a carrying
+case) for transport to the maintenance collection point or for a one-for-one, on-site swap
+with a unit contact team. Alternatively, a military unit support crew could bring the line
+replacement unit (with carrying case) to the detection site location and replace the line
+
+                                                                                                                                    D-9
+
+
+---
+
+replacement unit on site. Multiple options are available for the execution of repair by
+replacement. Additionally, operational-readiness floats may be used when downtime
+would degrade overall operational readiness to an unacceptable level and/or when repair
+would exceed a specific time frame. Specific operational-readiness float procedures for
+the issue and turn-in of components or systems will be outlined in unit SOPs. Repair by
+replacement is generally the preferred option.
+
+                    (b) Repair forward. The biological-detection unit, in coordination with
+supporting CSS and CLS elements, designates forward fixing sites that are within the
+safe zone and are secure. The forward fixing site is an intermediate point between the
+biological-detection site and support elements for the repair and/or exchange of systems,
+components, or consumables. Based on the assessment of repair requirements, a CSS
+maintenance team may recommend the repair of the component at the CSS main
+logistics support base.
+
+      c. Supply Concept.
+
+             (1) Biological-detection teams require common, as well as unique supplies to
+execute their missions. The unit requisitions unique supply items from the CLS supply
+team based on standardized, onboard stockage levels and projected consumption rates
+for current operations. The biological-detection unit in conjunction with the CLS
+contractor, carefully plans and establishes CLS reorder points based on anticipated
+supply transit times.
+
+             (2) Based on coordination between the CLS team leader and the biological-
+detection unit, key leadership remains informed of key CLS logistics issues. To ensure
+responsiveness, CLS prepares supply push packages. Daily coordination also helps
+identify critical supply items that may require the biological-detection unit to establish
+controlled supply rates. Alerting rear CLS to critical supply issues allows direct
+coordination with the vendor for issue resolution.
+
+             (3) Resupply can be executed either on a centralized or decentralized basis
+depending on METT-TC considerations. The biological-detection unit can pick up
+supplies from a central supply point or supplies could be delivered to biological-detection
+assets individually. Multiple factors will influence what resupply concept is used.
+Factors to be considered include the location of the biological-detection element, location
+of CLS supply points, urgency of a resupply requirement, and transport of supplies
+across international borders.
+
+      d. System Operators. CLS may be required to provide operators for biological-
+detection systems. The system operators are responsive to the supported unit. Factors
+that are especially critical to CLS system operations include, but are not limited to,
+ensuring the—
+
+             z Requisite survival training and equipping (based on the risk assessment).
+
+             z Uninterrupted continuity of operations.
+
+             z Maintenance of operator-training proficiency.
+
+D-10
+
+
+---
+
+                                      Appendix E
+
+       BIOLOGICAL-COLLECTION AND -DETECTION SYSTEM
+                                    EMPLOYMENT
+
+1. Background
+
+      Biological detectors provide the commander with BW-collecting, sampling, and
+presumptive identifying capabilities. The detectors provide a sample for presumptive
+identification and follow-on analysis at higher-level labs. Biological detectors provide SA
+and information (presumptive identification) that can be used to support detect-to-treat
+decisions.
+
+2. Mission
+
+      Biological collectors and detectors are used to provide biological-detecting,
+collecting, and presumptive identifying capabilities. They add to the commander’s total
+chemical, biological, radiological, or nuclear (CBRN) common operational picture (COP).
+
+3. Concept of Operations
+
+      The employment of a biological-collection and -detection system is directly impacted
+by the supported commander’s CONOPS. The CONOPS addresses preattack planning
+along with during attack and postattack operations.
+
+      a. Concept of Operations. Biological detectors should be used, operated,
+maintained, and redeployed using a phased operation. The duration and implementation
+of each of these phases is on order and therefore dependent on METT-TC considerations.
+
+      b. Preattack. biological-surveillance CONOPS begins with the receipt of the
+mission and guidance (see Figure E-1 [page E-2]). METT-TC considerations play a vital
+role in establishing the CONOPS for biological surveillance. They are used throughout
+the planning and development of the biological-surveillance plan. The preattack
+CONOPS includes—
+
+             z Conducting a BW-threat analysis. The BW-threat analysis is a
+                    continual process of compiling and examining all available threat BW
+                    information to identify the BW threat. This is done using the IPB process.
+                    BW-threat analysis uses the best available information; however there
+                    will be gaps in the overall intelligence and medical surveillance SA. The
+                    complete picture (for example, did a BW attack occur or not occur) is a
+                    composite of information from multiple sources.
+
+             z Conducting a BW-vulnerability analysis. The BW-vulnerability
+                    analysis is a continual process of compiling and examining information on
+                    the BW-protective posture of a force or facility. It assesses the BW-
+                    defense strengths and weaknesses of a force or facility BW-protective
+                    posture. The NBC and medical planner analyze friendly-force BW-defense
+                    preparedness, including the adequacy of individual and collective
+
+                                                                                                                                    E-1
+
+
+---
+
+                                            Receive mission            Considerations:
+                                             and guidance                  METT-TC
+
+Conduct threat analysis                                          Conduct vulnerability
+            (IPB)                                                        analysis
+
+           Classic agents/long line source  Treatments and prophylaxis
+           Unfavorable meteorological
+Low conditions                              available                                Low
+risk NAIs not accessible to threat
+             activities                     High protective posture                  risk
+
+                                            Detection capability/assets
+
+      No indication of intent to deploy BW
+
+      agents
+
+High  Advanced agent development/point      Treatments and prophylaxis not           High
+risk   release                               available                               risk
+      Favorable meteorological conditions   Low protective posture
+      NAIs accessible to threat activities  Little or no detection capability
+      Indication of intent to deploy BW      assets
+       agents                               Poorly trained (for example, poor
+                                             hygiene)
+
+                               Conduct VA: develop overall
+                             biological risk (low/medium/high/
+
+                                        extremely high)
+
+                         Prepare a biological-surveillance plan
+
+Develop an array plan        Identify warning triggers           Identify a warning
+• Critical node; area        • Intelligence indicators           method
+• Dice five, circle          • Detector results                  • Centralized
+• Security requirements      • Medical surveillance              • Decentralized
+• Is the array logistically
+
+   supportable
+
+              No
+
+                  Figure E-1. Biological-Surveillance Mission Planning—Preattack
+E-2
+
+
+---
+
+Does the plan meet the commander’s intent and mission
+                            requirements?
+
+                                   Yes
+
+                  Identify decision points for:
+                   • Changes to FP condition
+                   • Medical actions (for
+
+                      example, pretreatment)
+
+Do the surveillance plan inputs support decision points?
+
+Yes                                                       No
+
+Coordinate supporting plans                               Adjust the array
+• Medical surveillance
+• Administrative/logistics plan
+• Sample management plan
+• Supporting or supported commander’s
+
+   OPLAN/OPORD
+
+         Figure E-1. Biological-Surveillance Mission Planning—Preattack (Continued)
+
+                    protection and detection, medical, and decontamination resources against
+                    possible BW releases.
+
+             z Conducting BW-vulnerability assessment (VA). The BW-threat
+                    analysis is compared with the BW-VA to create the NBC VA. The process
+                    compares the BW threat with the force or facility ability to protect against
+                    and/or reduce the threat of BW attacks. For example, if the BW-VA is
+                    assessed as low, the biological-surveillance plan may direct that detectors
+                    conduct collection operations in a standard mode (and thereby conserve
+                    resources). Conversely, a high BW-VA will likely increase the number of
+                    detectors used and lengthen the monitoring periods.
+
+             z Preparing the biological-surveillance plan (including BW-
+                    response planning). See paragraph 4 for information elements that
+                    should be included in the plan.
+
+      c. Attack and Postattack. The biological-surveillance CONOPS for conducting
+during and postattack biological-surveillance operations (see Figure E-2 [page E-4])
+includes—
+
+             z Executing the biological-surveillance plan.
+
+             z Maintaining SA.
+
+             z Reassessing and adjusting as necessary.
+
+                                                                                                                                    E-3
+
+
+---
+
+                                                 Execute biological surveillance
+                                                • Analyze backgrounds
+                                                • Conduct surveillance operations
+                                                • Exercise proper quality control
+
+                            No
+
+                                  Was there a BW event?
+                            • Conduct a system-level analysis
+                            • Conduct an array-level analysis
+                            • Conduct an analysis of other
+
+                              information (medical surveillance)
+
+                                                              No                                 Maintain SA
+                                                                                    Yes  • Be prepared for
+
+              Does the input meet the decision point criteria?                             additional attacks
+                                                            No                           • Conduct BW event-
+
+                                    Yes                                                    tracking
+                                                                                         • Continue BW
+         Execute the response plan (postattack)
+                                                                                           surveillance
+
+     FP  Sampling  Warning  Array
+
+                            recovery
+
+                                                        Reassess
+                                           • Conduct threat analysis
+                                           • Conduct vulnerability
+
+                                              analysis
+                                           • Conduct VA
+                                           • Adjust the plan as necessary
+
+     Figure E-2. Biological-Surveillance Mission Planning—Attack and Postattack
+
+E-4
+
+
+---
+
+4. Employment Considerations
+
+      Although some biological detectors provide the commander with the capability to
+alert, sample, and even provide a presumptive identification capacity, not all deployed
+systems have these functions. Dry filter units, for example, sample the particles present
+in the nearby air and do not have an alerting capability. A dry filter unit is a continuous
+collector that collects and traps airborne particles onto a filter at pre-established
+intervals for manual presumptive identification.
+
+      a. Biological detectors such as the JBPDS, Joint Portal Shield network, and BIDS
+have both a monitoring and alert capability. These detectors collect particles from the
+ambient air for analysis following an alert. Following the collection of the sample, these
+systems begin the presumptive identification process.
+
+      b. The operational envelope for the use of biological detectors (such as
+determining when or where to use detectors and/or collectors) is dependent on factors
+such as system capabilities. As outlined in Chapter II, the operational envelope of some
+systems is only applicable to fixed-site operations (for example, Joint Portal Shield
+network, JBPDS [trailer-mounted and man-portable], or dry filter unit), while other
+systems can be used to support maneuver land forces and/or maritime forces (for
+example, BIDS and maritime dry filter units and JBPDS). BIDS units can be used for
+fixed sites or to support maneuver forces. METT-TC factors will also impact where and
+how detection and collection devices are used.
+
+             (1) Mission. Mission requirements will dictate where the detectors will be
+employed.
+
+             (2) Enemy. Planners must consider threat capabilities such as the type of BW
+agents that could be used and the method of dissemination (line or point source).
+
+                    (a) Line source. The agent is disseminated along a line perpendicular to
+the wind and upwind of the target. Example delivery systems include track-mounted
+sprayers, aircraft sprayers, tanks, agricultural sprayers, or releases from ships.
+
+                    (b) Point source. Agents are disseminated from single or multiple fixed
+points. Example delivery systems include bombs, unitary missile warheads,
+submunitions, fixed generators, or back sprayers.
+
+             (3) Terrain and weather. Planners remain aware that terrain and weather
+conditions can impact biological-detection operations. A dirty environment may
+adversely impact detector or sampler operations (for example, false positives on
+handheld assays from nonspecific binding or a clogged detector filter). Additionally,
+areas with high organic content in the ambient air may cause false positives during the
+presumptive identification process. Other conditions such as sandstorms could also
+degrade biological-detection operations (for example, the shutdown of alerting devices to
+prevent damage to components).
+
+             (4) Troops available. The availability of a supporting lab, sample courier
+assets, and CLS is critical for the support of biological-detector and -sampling systems.
+Additionally, the use of systems such as the dry filter unit, Joint Portal Shield, and
+JBPDS require deploying units to provide manpower and resources to conduct filter
+collection and handheld-assay testing.
+
+                                                                                                                                    E-5
+
+
+---
+
+             (5) Time available. Planners must consider time when employing detectors
+and samplers. Detect-to-treat information may be especially critical if a fixed site has a
+high throughput population. The fixed site may be an APOE, seaport of embarkation
+(SPOE), APOD, or SPOD with a highly transient population. In this situation, the
+frequency of sampling may need to be increased in order to limit the potential spread of a
+biological agent by exposed personnel.
+
+             (6) Civilian. Planners consider and plan for the availability of civilian assets
+such as CLS or the possibility of lab support from a civilian source (such as another
+government agency).
+
+      c. METT-TC factors are applied to achieve tradeoffs. Tradeoffs are necessary to
+optimize the probability of detection for biological-detection surveillance support for
+critical-nodes or area arrays.
+
+             (1) During planning for biological-surveillance operations, information such
+as the following is used: the commander’s guidance, weather and terrain information,
+intelligence information (such as agent types and the type of release), and the size of the
+base or activity or the areas that require support. This information is used to produce the
+biological-surveillance plan.
+
+             (2) The surveillance plan should include the—
+
+                    z BW-surveillance vulnerability analysis.
+
+                    z Meteorological assessment.
+
+                    z Recommended duration of operation for detectors and/or collectors.
+
+                    z Recommended mode of operation.
+
+                    z Separation distance between detectors and/or collectors.
+
+                    z Number of detectors required.
+
+                    z Detector array employment tactic (for example, dice five or line) and
+                           the plan for siting systems (such as the distance from the perimeter
+                           [critical node] or downwind distance from an estimated RP for a
+                           biological agent [area array]).
+
+                    z Mission and the commander’s guidance and priorities (for example,
+                           biological-detection array confidence results [medium or high])
+                           would serve as input for triggering the commander’s decision.
+
+             (3) The commander approves the biological-surveillance plan. (See
+paragraphs 5, 6, and 7 of this appendix.) Modifications to the plan may be required based
+on changes in weather, the operational situation, or resource issues (such as equipment,
+supply, or operator issues). There is risk associated with the implementation of a plan.
+The commander uses other information sources (such as medical surveillance or
+intelligence information) to maintain SA and to increase the confidence in an operational
+assessment (to confirm or deny that a BW attack has occurred).
+
+5. Biological-Warfare Threat Analysis (Intelligence Preparation of the
+Battlespace)
+
+      It is important to be aware of how the operational environment and meteorological
+conditions affect biological-surveillance operations. The operational environment
+
+E-6
+
+
+---
+
+(biological threat) and meteorological conditions will affect how often and how long
+biological-detection and -sampling operations are conducted.
+
+      a. BW-threat analysis is conducted to determine a recommended biological-threat
+risk status—low, medium, or high (Figure E-3 [page E-8]). Risk assessments are
+qualitative. The intelligence estimates are derived from the best available information,
+and will likely not definitely answer intelligence IRs that may be on a checklist.
+
+      b. Meteorological conditions are assessed.Meterorological conditions are assessed
+to determine if weather conditions would be favorable for an enemy biological attack.
+Stability, wind, direction, speed, turbulence, humidity, precipitation, heat, and cold are
+factors that should be considered as part of the meteorological assessment.
+
+             (1) Table E-1 (page E-9) provides information on favorable, marginal, and
+unfavorable conditions for BW-line source releases. Favorable conditions for line source
+releases generally include the presence of stable meteorological conditions. Stable
+conditions with accompanying winds support the wide-area dissemination of a BW
+aerosol.
+
+             (2) Unstable meteorological conditions are more effective for dispersal of a
+BW aerosol in a point attack. Unstable conditions provide the agitation that allows for a
+wider dissemination of a BW agent on a target such as a fixed site. Conversely, stable
+conditions during a BW attack would likely lead to thin, “cigar-shaped” cloud formations.
+
+             (3) Additionally, terrain features and man-made structures will cause a BW
+aerosol to break up and increase the heterogeneous nature of the cloud. The
+determination of cloud dynamics using dispersion models over terrain features and man-
+made structures has yet to be fully realized.
+
+6. Duration and Modes of Operation for Biological Detection
+
+      The biological-surveillance plan should address the duration of the operation for the
+detection and/or collection assets in the array. The surveillance plan will also indicate
+the recommended mode of operation for the array.
+
+      a. Comparison of threat and meteorological information provides input that can
+be used to recommend the duration of the collection and/or detection intervals. For
+example, during favorable conditions for threat BW use and high BW-risk conditions, the
+commander may decide to conduct detection operations 24 hours per day, 7 days per
+week (see Table E-2 [page E-9]).
+
+             (1) The recommended detection and/or collection intervals can be tailored for
+specific locations and situations. For example, based on a low VA (such as peacetime
+threat, FP conditions Alpha or Bravo), the commander may decide to use collection
+system capabilities (dry filter units) and conserve assets that require more resources to
+operate (biological-detection systems).
+
+             (2) Risk is taken when BW-detection and -collection operations are not
+conducted. However, the commander’s common operational pictures (COPs) (for
+example, IPB and weather and terrain assessments) provide the basis for directing
+detection and collection intervals.
+
+                                                                                                                                    E-7
+
+
+---
+
+     Start here       Select YES if one or more of the subquestions
+                      is answered yes.
+
+                                                Thread analysis      Vulnerability reduction
+                                                                             measures
+
+     Yes Is the threat BW capable?          No                   1. Ensure that immunizations are
+                                                                       current.
+     Is there a production capability?           Low
+     Are there medical/pharmaceutical             risk           2. Maintain intelligence and
+     plants in country/theater?                                        passive data collection efforts.
+     Are there known agent stockages?           Medium
+     Does the threat have BW-munition              risk          3. Maintain good personal
+     plants?                                                           hygiene.
+                                                 High
+     Is the fixed site/unit within the            risk           4. Maintain good area sanitation.
+                                                                 5. Ensure that MOPP gear is
+     range of likely delivery
+                                                                       readily available.
+     Yes systems?                           No                   6. Maintain physical conditioning.
+                                                                 7. Cover all supplies and
+     —Aerial spray    —Aerial Bomb
+     —Artillery       —Missiles                                        equipment.
+     —Rockets         —Mines —Other                              8. Know the threat/protective
+
+     Would the threat target the                                       measures.
+                                                                 9. Use approved food/water/ice
+     unit doctrinally or as a possible
+                                                                       sources.
+     Yes COA?                               No                   10. Ensure that all defensive plans
+
+                Are weather and terrain                                include NBC defense measures.
+     Yes favorable for employment? No
+                                                                 11. Continue the steps above.
+                 Is the threat trained and                       12. Actively employ biological-
+
+                 equipped to conduct BW                                detection capabilities.
+                                                                 13. Be alert to medical reports of an
+     Yes operations?                        No
+                                                                       unusual nature.
+     Does the threat have protective                             14. Be aware of threat activity
+     masks and clothing readily
+     available?                                                        regarding BWs.
+     Does the threat have                                        15. Ensure that prophylaxis,
+     immunizations, prophylaxis,
+     and pretreatements available?                                     pretreatments, and
+                                                                       immunizations are available for
+     Have BW munitions been                                            the known/suspected threat.
+     delivered to units?                                         16. Implement dispersal plans for
+     Has probable use message                                          personnel/supplies.
+     traffic been intercepted?                                   17. Continually monitor weather
+     Has the threat used BW                                            conditions.
+     weapons?                                                    18. Assume the designated MOPP.
+
+     Assessment= ________ Risk                                   19. Continue all the steps above.
+                                                                 20. Be prepared to transfer mission
+
+                                                                       functions to secondary
+                                                                       locations.
+                                                                 21. Increase the MOPP level for
+                                                                       exposed personnel.
+
+                   Figure E-3. Conducting BW-Threat Analysis (IPB)
+
+E-8
+
+
+---
+
+Table E-1. Favorable, Marginal, or Unfavorable Meteorological Conditions for BW Line
+                                                  Source Release
+
+Meteorological         Favorable for BW Use Marginal for BW Use            Unfavorable for BW
+   Conditions                                                                         Use
+
+Wind speed at heights  9-15 kph                   15-32 kph                Less than 9 or greater
+below 16 meters                                                            than 32 kph
+
+Stability              Stable                     Neutral                  Unstable
+
+Temperature            1-20°C                     Less than 0 or 21-29°C More than 30°C
+
+Precipitation          None to very light         Light                    Moderate to heavy
+
+NOTE: Point dissemination can still be effective in less than favorable conditions.
+
+Table E-2. Sample Duration Intervals for Biological Detection System or Collector
+                                                  Operations
+
+Meteorological         Low Risk (The threat has    Medium Risk (Intelli-            High Risk
+conditions              the capability to employ    gence reports indi-        Wartime/Conflict
+                         BW agents—peacetime        cate an increase in         (Hostilities have
+Favorable for BW use                              the threat—FP condi-
+                          threat—FP condition      tion Charlie or Delta)             begun)
+                              Alpha or Bravo)     Day/night
+                                                                           Day/night
+                       Day/night                  8 hours3/12 hours1
+                                                                           12 hours1/12 hours1
+                       8 hours3/8 hours3
+
+Marginal for BW use    4 hours3/8 hours3          8 hours3/8 hours3        8 hours1/12 hours1
+
+Unfavorable for BW use See 2                      See 2/12 hours3          4 hours3/12 hours3
+
+1 The biological detection system operates in standard mode.
+
+2 The biological detectors of the array operate in standby mode. Based on notification that an attack is
+imminent, the biological detectors of the array could be changed to standard mode.
+
+3 The biological detectors or collectors of the array operate with a 4-hour collection interval.
+
+      b. The tailoring of the biological surveillance can also be applied to the mode of
+operation of the array (for example, standard mode, single sample, collection only,
+standby). System level technical publications (such as technical orders [TOs] and
+technical manuals [TMs]) provide detailed information on the mode of operation for the
+different detectors. The biological-detector mode of operation can be tailored based on the
+operational situation. The modes of operation for a biological-detection system could be
+adapted as follows:
+
+             z Use the single-sample mode of operation to support specific requirements
+                    such as taking a background sample to support environmental
+                    characterization.
+
+             z Use the collection capability of detectors during low-risk situations and
+                    save considerable amounts of resources (such as consumables) that
+                    otherwise would have been used during a standard mode of operation.
+
+             z Use a periodic sampling mode based on an imminent threat (threat
+                    missile is inbound or a BW cloud is expected to arrive at a certain time).
+
+                                                                                                   E-9
+
+
+---
+
+7. Biological-Detection and/or -Collector Employment Tactics
+
+      The NBC staff recommends the employment of biological-surveillance assets. Many
+factors impact employment, and the plan may be adjusted based on changes in the
+weather, threat, and available assets. No employment tactic is 100-percent successful in
+detecting and identifying a BW agent. For example, a terrorist could employ a single-
+point source BW munition without the release being detected by a biological-detection
+array. Factors that are considered in the employment of biological-surveillance assets
+include:
+
+      z Estimating separation distances between detectors and/or collectors at
+            critical nodes.
+
+      z Estimating separation distances between detectors and/or collectors in
+            area arrays.
+
+      z Recommending employment tactics for the detectors and/or collectors of
+            the array.
+
+      a. Critical-Node Separation Distances Between Collectors and/or Detectors. The
+estimated separation distance between detectors or samplers will vary depending on
+terrain and weather considerations; however, the following are suggested separation
+distances.
+
+             (1) For on-target or near point source releases, the preferred distance
+between detector and/or samplers is 200 to 400 meters. A 200- to 400-meter separation
+distance is a general rule of thumb for the approximate cloud radius after cloud
+dissemination.
+
+             (2) For line source releases, the distances between detectors and samplers
+should not exceed 800 meters. The actual distance will be determined based on the
+number of detectors or samplers available and the area to be covered.
+
+      b. Area Array Separation Distances for Collectors and/or Detectors.
+
+             (1) Estimating line source separation distances for biological detectors in an
+area array. The estimate associated with the separation distances considers the size (in
+width) of the area to be protected, an estimate of the length of the line source, and the
+number of detectors that should be in the cloud path to support BW event-tracking. For
+example, if the width of the area to be protected equals approximately 60 kilometers, the
+estimated length of a BW-line source is 20 kilometers, and the commander determines
+that he wants two detectors intersecting with the cloud, a total of 7 detectors would be
+required.
+
+         width of sector being protected                                                ·
+      ⎛  --------------------------------------------------------------------------     number of detectors ⎞ + 1=
+                                                                                     ×                              number of
+      ⎝ estimated length of line source intersecting with the cloud⎠                                                detectors required
+
+         ⎛6----0----k---m-- × 2·⎞ + 1= 7 detectors
+         ⎝20 km ⎠
+
+             (2) Locating biological-detection arrays downwind of the point of release of a
+BW agent. As a general rule of thumb, a biological-detection array should be located
+within 20 to 25 kilometers of the estimated RP of a BW agent to enable the detection of
+this agent. Additionally, an aerially delivered BW agent aerosol may not reach near
+
+E-10
+
+
+---
+
+ground level for 1 to 5 kilometers. The distance depends on the height of release, type of
+aircraft, and wind speed. Also, a ground BW-point source will require 1 to 2 kilometers
+before the aerosol begins to coalesce into an organized cloud.
+
+      c. Biological-Detector Employment Tactics. The NBC staff will recommend a BW-
+detector and -collection employment plan. The employment tactic for detectors and
+collectors will be based on the capabilities and COE for the systems. For example,
+detectors and collectors like the Joint Portal Shield, JBPDS (trailer-mounted and
+man-portable), or dry filter unit are well suited for employment as point detectors or
+collectors or a critical-node array at a fixed site. The specific employment tactics that
+may be used will vary based on factors such as:
+
+             z The BW-risk assessment and IPB (for example, the delivery system and
+                    tactics for delivery).
+
+             z Terrain and weather conditions.
+
+             z The location and size of assigned NAIs.
+
+             z The number of detection and/or collection assets that are available.
+
+             z The commander’s guidance.
+
+             z The desired confidence level to be achieved from the biological-detection
+                    array.
+
+             (1) Dice Five. The dice five pattern of deployment refers to the deployment of
+detectors or samplers in the pattern of the pips for the number 5 on a die. The dice five
+array (Figure E-4 [page E-12]) is well suited for employing a detector or collector on an
+APOD or SPOD (with one detector for each cardinal direction–north, south, east, and
+west). Detectors or collectors could be shifted based on out-of-service detectors, weather
+pattern shifts, or other METT-TC factors. The dice five tactic provides the most
+flexibility and is particularly applicable for support of critical node (fixed site) or area
+array operations. The dice five tactic is also adaptable to a varying number of detectors
+or samplers (such as seven or nine detectors or samplers). This tactic provides depth to
+an array (if an aerosol cloud misses one detector, another detection deeper in the array
+should detect the cloud). A dice five tactic is a preferred tactic because in depth features
+should increase the probability of detection.
+
+             (2) Circle. Employment of detectors or samplers in a circle configuration
+provides 360° coverage. This tactic is effective when wind directions are constantly
+changing. Figure E-5 (page E-12), provides an example of a circle employment of
+samplers or detectors. The circle tactic is particularly applicable to critical-node
+operations. However, this tactic could be resource-intensive (based on the size of the
+base) and does not provide the depth of coverage provided by other tactics.
+
+             (3) Picket line. The picket line is designed to capture a BW-aerosol attack
+coming from a specific direction. Ideally, it is placed upwind of friendly positions to
+capture a line source attack. Figure E-6 (page E-12) is an example of a picket line
+employment of detectors and collectors. The picket line tactic would be particularly
+applicable for support of a maneuver land force; however, biological detectors may
+require relocation if the wind direction shifts. This employment tactic provides no depth
+to the array and has a limited application.
+
+                                                                                                                                  E-11
+
+
+---
+
+      Figure E-4. Dice Five Array
+
+      Figure E-5. Circle Employment
+
+      Figure E-6. Picket Line Employment
+
+E-12
+
+
+---
+
+             (4) Semicircle. The semicircle employment of detectors and samplers provides
+approximately 180-degree coverage. It is still directional in that it protects from an
+upwind line source release, yet gives more coverage than a picket line and provides for
+moderate wind direction changes. Figure E-7 provides an example of a semicircle
+employment of detectors and collectors. The semicircle tactic could be used to support
+fixed-site or maneuver forces; however, this tactic does not provide detectors in depth.
+
+                                       Figure E-7. Semicircle Employment
+             (5) Dense picket. The dense-picket employment of detectors and collectors
+provides higher density coverage against line and point source attacks than the other
+employment strategies. It is resource intensive and requires large amounts of detectors
+and sensors. Figure E-8 provides an example of a dense picket employment of detectors
+and collectors. The dense-picket tactic could be used for support of fixed site or maneuver
+forces.
+
+                                     Figure E-8. Dense Picket Employment
+
+8. Preparing a Biological-Surveillance Plan
+
+      This paragraph provides two brief descriptions of sample biological-surveillance
+plans. The NBC staff has only limited information for the two sample scenarios. The
+sample scenarios indicate what tradeoffs were among METT-TC factors to increase the
+probability of detection.
+
+      a. Figure E-9 (page E-14), provides a notional setting for a JTF HQ in Northeast
+Asia. Based on this setting, the NBC staff must prepare a biological-surveillance plan.
+The NBC staff uses available information to proceed through the planning process.
+
+                                                                                                                                  E-13
+
+
+---
+
+                    1 km                             400 m
+      400 m
+
+             400 m                                   400 m         JTF
+      200 m
+                    400 m                                   400 m
+
+                    400 m
+
+      400 m                                          400 m
+
+                                          400 m           400 m
+
+                 Detector site                           Biological-Surveillance Plan (Selected Elements)
+                                                     BW-Surveillance Risk Assessment: The risk assessment
+                 CLS main                            is rated as medium.
+                                                     Meteorological Assessment: The weather conditions are
+                 Field confirmatory lab              considered favorable for the threat BW use.
+                                                     Duration of Operation: Operate detectors 12 hours during
+                      The Setting                    the night and 8 hours during the day.
+                                                     Mode of Operation: Use the standard mode during night
+Mission: Provide biological-surveillance             operations. Use a collection mode during day operations.
+support for the JTF HQ. Provide biological-          Separation Distances: Use a separation distance of 400 m
+surveillance results with a high degree of           between detectors.
+confidence. High confidence results may              Number of Systems Required: Planning assessed a
+trigger decisions for postattack medical             requirement for 16 detectors. (Based on a 250-m
+prophylaxis.                                         separation; however, only 8 detectors were available.
+                                                     Based on a limited number of detectors being available, a
+Enemy: The threat has a BW-point source              tradeoff was made to increase the separation distance
+capability, air (air delivered missile capability).  between detectors to 400 m.)
+A medium risk is assessed: FP condition              Employment Tactic: A modified dice five employment
+Charlie.                                             tactic is used to provide in depth biological surveillance.
+                                                     Commander’s Guidance: The recommended plan should
+Terrain and Weather: Variable winds (6-12            provide biological-surveillance results with a high degree of
+kph); stable conditions; temperature 4°C;            confidence.
+level terrain.
+
+Area: The JTF HQ occupies an area
+approximately 1 km by 1 km.
+
+Troops Available: 8 JBPDS (trailer-mounted
+and man-portable)
+
+Time Available: Provide field confirmatory
+results prior to the onset of BW symptoms.
+
+Civilian: CLS is collocated at the JTF HQ.
+
+      Figure E-9. Critical-Node Array
+
+E-14
+
+
+---
+
+             z The risk assessment for this OCONUS location is rated as medium (see
+                    Figure E-3 [page E-8]).
+
+                     The threat is BW capable.
+
+                     The JTF HQ is within range of threat delivery systems.
+
+                     The weather and terrain are favorable for BW employment.
+
+             z Weather conditions are assessed as favorable for threat BW use (see
+                    Table E-1 [page E-9]).
+
+             z The schedule for biological-detection array operations establishes a
+                    duration of 12 hours of monitoring during the night and 8 hours of
+                    monitoring during the day (see Table E-2 [page E-9]).
+
+             z A standard mode of operation is used during night operations and a
+                    collection mode is used during the day.
+
+             z An estimated separation distance of 400 meters between detectors is used
+                    based on the threat point source capability (see paragraph 7a).
+
+             z The NBC staff initially estimates a requirement for 16 biological detectors
+                    (based on a separation distance of 250 meters); however, only 8 JBPDS
+                    are available (see paragraph 7a).
+
+             z A modified dice five employment tactic is recommended based on the
+                    variable winds and the requirement for depth within the array.
+
+                     Based on the 8 detectors being available, the separation distance
+                           between systems is increased to 400 meters. The array in depth will
+                           also be ready if there is a change in wind direction (see
+                           paragraph 7a).
+
+                     The modified dice five array provides an in depth detection
+                           capability. If a heterogeneous BW-aerosol cloud misses one detector,
+                           another detector should detect the cloud. If only one detector
+                           provides a presumptive identification, other operational intelligence
+                           and medical surveillance information would be assessed.
+                           Additionally, if an upwind detector detects a cloud then downwind
+                           detectors will be directed to conduct periodic monitoring (see
+                           Chapter V, paragraph 6).
+
+             z The NBC staff reviews the biological-surveillance plan to ensure that the
+                    commander’s guidance is met. The commander wants a high-level of
+                    confidence in the biological-surveillance plan. Based on the tradeoffs that
+                    are made among the METT-TC factors, the biological-surveillance plan is
+                    recommended for approval.
+
+      b. Figure E-10 (page E-17), provides a notional setting for a US land force
+conducting a combined arms exercise with a friendly nation. The combined forces operate
+in an exercise area (20 by 30 kilometers) with an east and west orientation. The
+international border is approximately 20 kilometers to the north. A belligerent nation
+with a BW-line source capability lies to the north. The friendly nation land forces are
+deployed near their northern border. One USA chemical company (biological detection), a
+company HQ, and two platoons (14 BIDS total), are assigned a mission of providing
+biological surveillance for the land forces operating within the exercise area. Based on
+
+                                                                                                                                  E-15
+
+
+---
+
+this setting, the NBC staff uses this limited information to prepare a biological-
+surveillance plan.
+
+             z The risk assessment for this OCONUS situation is assessed as medium
+                    (see Figure E-3 [page E-8]).
+
+                     The threat is BW capable.
+
+                     Exercise land forces are within the potential downwind path of a
+                           BW-aerosol cloud.
+
+                     The weather and terrain are favorable for threat BW employment.
+
+             z Weather conditions are assessed as favorable for threat BW use (see
+                    Table E-1 [page E-9]).
+
+             z The schedule for biological-detection array operations establishes a
+                    duration of 12 hours of monitoring during the night and 12 hours of
+                    monitoring during the day (see Table E-2 [page E-9]). Based on the risk
+                    assessment and weather conditions, the extended schedule (24 hours per
+                    day) of operation is recommended.
+
+             z A standard mode of operation is used during night operations and a
+                    collection mode is used during the day. Samples are collected twice (at
+                    6-hour intervals) during the day.
+
+             z Separation Distances.
+
+                     To estimate the separation distance that will be used between
+                           biological detectors, the NBC staff determines the width of the area
+                           to be protected (30 kilometers). Coordination between NBC and
+                           intelligence staff estimates that the possible length of a threat BW-
+                           line source could range from 5 to 10 kilometers. To establish a high
+                           degree of confidence in system-level results, the commander wants a
+                           minimum of two detectors intersecting with the cloud.
+
+         width of sector being protected                                                ·
+      ⎛  --------------------------------------------------------------------------     number of detectors ⎞ + 1=
+                                                                                     ×                              number of
+      ⎝ estimated length of line source intersecting with the cloud⎠                                                detectors required
+
+         ⎛3----0----k---m--- × 2·⎞ + 1= 13 detectors
+         ⎝ 5 km ⎠
+
+                   Based on a 5- or 10-kilometer BW-line source distance, 13 or
+                   7 detectors, respectively, would be required. A third calculation
+                   using a line source distance of 7 kilometers indicates that 10
+                   detectors would be required. To provide depth to the array, the NBC
+                   planning uses an approximate 3-kilometer separation between
+                   systems (see paragraph 7b).
+
+             The biological-detection array is placed within 20 to 25 kilometers of
+                   the estimated RP for a threat BW-agent line source release.
+
+      z Changes to the operational situation or the commander’s guidance could
+            increase or decrease the numbers of detectors required (for example, the
+            commander wants a minimum of three detectors intersecting with a BW
+
+E-16
+
+
+---
+
+Wind direction                                                Belligerent Nation
+                   10 km
+                                          IB                                                        IB
+                               3km 3km 3km10 km                                                          10 km
+
+                                                                   30 km
+                                                              Exercise area
+
+                                                  7 km  7 km  7 km  7 km          7 km  7 km  7 km
+                                                              7 km                7 km
+                                                  7 km                                        7 km
+                                                 X            FLOT                            X
+
+30 km                                                                                                                                   30 km
+        20 km                                    LSA
+
+                              X                                           FLOT
+                                                                                                    X
+Field confirmatory lab                                        Exercise area
+Sample transfer point
+Detector site                                                      30 km
+CLS main
+                                                                    Biological-Surveillance Plan (Selected Elements)
+              The Setting
+
+Mission: Provide biological-surveillance support for                BW-Surveillance Risk Assessment: The risk
+maneuver forces conducting combined arms                            assessment is rated medium.
+exercises. Based on the threat, the commander
+wants a high degree of confidence in the biological-                Meteorological Assessment: The weather
+detection array results.                                            conditions are assessed as favorable for threat BW
+                                                                    use.
+Enemy: The threat has a ground point and line
+source to employ spore-forming BW agents.                           Duration of Operation: The schedule indicates
+                                                                    detectors should be operated 12 hours during the day
+Terrain and Weather: Winds from the north (8-10                     and 12 hours during the night.
+kph); stable conditions; temperature 15°C; terrain is
+grassy with gently rolling hills. Meteorological                    Mode of Operation: A standard mode of operation is
+conditions are generally stable during the night and                used during night operations. A collection mode is
+unstable to marginal during the day. The exercise                   used during day operations.
+area is approximately 20 km by 30 km. It is
+approximately 20 km from the international border to                Separation Distances: A separation distance of 7 km
+the exercise area.                                                  between detectors is established.
+
+Troops and Support Available: 2 USA biological-                     Number of Systems Required: The NBC staff
+detection platoons (14 BIDS total) and the company                  recommends that all 14 detectors be employed within
+HQ (M31A2 equipped).                                                the array.
+
+Time Available: Provide field confirmatory results                  Employment Tactic: A modified dice five
+from the lab prior to the anticipated onset of agent                employment tactic is used to provide in depth
+symptoms.                                                           biological surveillance.
+
+Civilian: CLS assets have movement restrictions.                    Commander’s Guidance: The recommended plan
+Based on the FP situation, CLS must operate from                    should provide biological-surveillance results with a
+the logistics support area SA.                                      high degree of confidence.
+
+                                                 Figure E-10. Area Array Support
+
+                                                                                                                                               E-17
+
+
+---
+
+                    cloud to increase the level of confidence). However, based on the current
+                    situation, the NBC staff recommends using 14 detectors.
+
+             z A modified dice five employment tactic provides an in-depth biological-
+                    detection capability. If a heterogeneous BW-aerosol cloud misses one
+                    detector, another detector should detect the cloud. Coordination between
+                    the intelligence and NBC staff assessed that a threat BW-line source
+                    attack would likely be a minimum of 5 to 10 kilometers in length. Based
+                    on this assessment, two or more detectors should be in the path of a BW
+                    aerosol.
+
+             z The NBC staff reviews the biological-surveillance plan to ensure that the
+                    commander’s guidance is met. Based on an assessment of METT-TC
+                    factor tradeoffs, it is assessed that the plan meets the commander’s
+                    guidance. The area array characteristics are as follows:
+
+                     A modified dice five employment tactic is used for the two platoons
+                           (14 BIDS).
+
+                     East to west separation distances of 7 kilometers between systems
+                           and north to south separation distances of 3 kilometers.
+
+                     The two platoons are arrayed approximately 10 to 20 kilometers
+                           from the international border.
+
+                     The commander’s guidance for high confidence results should be
+                           attained by placing BIDS assets in depth.
+
+                     The biological-detection array uses a standard mode of operation
+                           during night operations (with stable meteorological conditions) and a
+                           collection mode of operation during day operations (with unstable to
+                           marginal meteorological conditions).
+
+9. Maritime Biological -Detection and -Collection Employment Tactics
+
+      The operational envelope for USN employment of JBPDS detectors and dry filter
+unit collectors includes their use on surface ships. USN ships spend approximately
+20 percent of their total deployment in port for liberty and/or uploading of supplies.
+These ships are vulnerable to covertly released BW-agent aerosols due to their static
+position and geographical location (for example, the Middle East or Mediterranean).
+
+      a. The detectors and collectors are used in conjunction with handheld assays.
+This provides a presumptive identification ability.
+
+      b. The CONOPS for collectors and detectors is to operate them in high-threat
+areas using scheduled intervals (for example, 12-hour sample collection time and
+24-hours per day sampling during a high-threat condition).
+
+             (1) The number of samplers or detectors used is dependent on the ship class.
+Staggered sample retrieval times will provide a periodic series of test results. For
+example, if a ship is in port by itself for 3 days and is operating 2 collectors with an
+8-hour collection time, the time of resolution is 4 hours. Therefore, if operations turn on
+both at 0000, check unit number 1 at 0400, check unit number 2 at 0800, check unit
+number one at 1200, and so forth. Timely detection information could be obtained in
+4-hour increments for the entire 3-day visit.
+
+E-18
+
+
+---
+
+             (2) Multiple ships and coordination between them will yield even lower time
+resolutions. Collectors may also be used to sample air in the event of intelligence threats
+or indications of an environmental release. Positive results using handheld assays will be
+positive presumptive identification and samples will be properly packaged and shipped
+to a medical lab that will be housed on large-deck surface ships. Samplers will probably
+be positioned on the deck and/or dirty side of ventilation systems for collective protection
+system ships.
+
+      c. During in-port operations or when underway (for example, at chokepoints,
+during amphibious operations or at sea release) dry filter units should be placed in
+locations where there may be a high concentration of agents in the event of an attack.
+
+      d. Internal sampling by dry filter units could be conducted in compartments
+receiving outside supplies or in mission critical spaces at 1- to 8-hour collection intervals.
+
+      e. The collection interval established by the commander will vary depending on
+the threat (for example, a 4- to 6-hour collection interval if a BW attack is probable or
+imminent).
+
+10. Common Detection Site Selection Criteria for Biological-Detection
+Systems
+
+      a. Reconnaissance. Reconnaissance is a fundamental step in site selection. Begin
+with a map reconnaissance. Use the map reconnaissance to determine initial
+surveillance areas that support the employment tactic, then select primary, alternate,
+and supplemental surveillance sites within each surveillance area. Some rules of thumb
+for the reconnaissance include the following:
+
+             z Reconnoiter detection areas and potential sites first-hand, if possible.
+
+             z Coordinate reconnaissance with the owner of the terrain before
+                    conducting the reconnaissance.
+
+      b. Site Selection. Factors that may affect site selection include the following:
+
+             z Trafficability.
+
+             z Security.
+
+             z Communications.
+
+             z The location of friendly activities.
+
+             z Down-valley or up-valley winds.
+
+      c. Exterior Deployment Area Selection.
+
+             (1) Deployment areas are planning tools that give biological-detection asset
+leaders a frame of reference for selecting detection sites that are mutually supporting
+and meet the requirement for FP. The rules of thumb for detection areas are as follows:
+
+                    z One-kilometer diameter for detection systems such as the BIDs.
+
+                    z One hundred and fifty-meter radius for collection and detection
+                           systems.
+
+                    z Upwind placement of a fixed site or supported unit. Do not select
+                           deployment areas immediately downwind of areas and/or facilities
+
+                                                                                                                                  E-19
+
+
+---
+
+                           that might generate interferants (for example, forward arming and
+                           refueling points [FARPs] or farms).
+
+             (2) When assigning deployment area numbers, use a five-digit alphanumeric
+code for deployment areas and six digits for detection sites as follows:
+
+                    z The first two characters designate either deployment or detection
+                           areas.
+
+                    z The third character is the unit designation (for example, a biological-
+                           detection platoon).
+
+                    z The fourth character is the team designation (for example, a BIDS
+                           team).
+
+                    z The fifth character is the primary (P), alternate (A), or supplemental
+                           (S) area.
+
+                    z The sixth character is the sequence number for the detection site.
+
+             (3) Figure E-11 provides an example of a deployment area for a BIDS unit. In
+this example, a BIDS platoon has deployment areas assigned to its seven detection
+teams.
+
+XX                              145 x
+                                                                                               XX
+         DA12P  DA13P               DA15P  DA16P
+DA11P                  DA14P
+
+                                                  DA17P
+
+                CP
+                             X
+
+                                      Figure E-11. BIDS Deployment Areas
+      d. Detection Site Selection. Detection sites are the actual biological-detection
+positions. Leaders at all levels must deconflict site selection to reduce vulnerability to
+fratricide and ensure that the coverage is within unit capabilities. Some rules of thumb
+in selecting detection sites are as follows:
+
+             z Has a 100-meter radius.
+             z Permits maximum airflow of possible hazards.
+
+E-20
+
+
+---
+
+             z Has minimal overhead cover. This will be very difficult for tactical
+                    commanders to accept. However, without minimal overhead cover,
+                    various detectors will not get maximum airflow over the collector-
+                    concentrators.
+
+             z Is upwind of the supported unit or critical node.
+
+             z Permits rapid ingress and egress.
+
+             z Is protected from threat direct fire. Depressions that do not exceed
+                    4 meters in depth are ideal for protection; yet do not canalize steering
+                    winds away from the site. The object is to not allow the biological-
+                    detection team to be exposed to direct fire hazards.
+
+             z Is concealed and camouflaged.
+
+             z Is out of threat mortar and artillery range, if possible.
+
+             z Permits effective communications.
+
+      e. Outdoor Site Selection Considerations. Several considerations must be taken
+into account when positioning individual biological-detection systems. Ensuring that the
+site allows for the greatest probability of detecting a biological cloud will be a major
+concern. To understand how the biological-cloud behavior impacts on your site selection
+process, consider the—
+
+             z Effects of environment, terrain, and weather on BW agents.
+
+             z Biological-agent cloud behavior.
+
+             z Methods of dissemination.
+
+      f. Biological-Detection and -Collection Operations in Unusual Conditions.
+
+             (1) Cold weather operations. BW in the arctic is a possibility. It has been
+found that the survival of microorganisms increased significantly at temperatures below
+freezing. Temperature inversions that exist over snowfields tend to prolong the integrity
+of an aerosolized biological cloud. It disperses more slowly and remains a threat for a
+longer period. If an attack with these agents occurs, it will most likely be delivered by
+covert means.
+
+             (2) Desert operations. During daylight, most aerosolized live biological agents
+are short-lived. Spore-forming biological agents are an exception. This is a result of low
+humidity and the ultraviolet (UV) radiation of direct sunlight and atmospheric
+disturbance. But at night, favorable conditions could occur. Effectiveness of the live
+biological agent, however, would quickly diminish during the daytime. Toxins are more
+resistant to this harsh environment and could still be effectively employed.
+
+             (3) Jungle operations. Jungles provide excellent conditions for the use of
+biological agents and toxins. Warm temperatures, high humidity, and protection from
+sunlight all aid the survivability of disease-causing microorganisms. Low wind speeds
+and jungle growth limit downwind hazards.
+
+             (4) Mountain operations. Detection of live biological agents in mountains
+creates the same problems as in lower areas—the effects of the terrain on the agent
+cloud.
+
+                                                                                                                                  E-21
+
+
+---
+
+             (5) Urban terrain operations. Operations in an urban environment present
+special problems for detecting biological agents. Just as with rough terrain, wind
+turbulence caused by structures influences the dispersion of BW agents by reducing
+agent effectiveness and area coverage. In addition, pollutant gases can interfere with
+detection of BW agents and have been found to decrease the survival of many pathogens.
+
+      g. Communications. Communications may affect site selection. While planning
+site selection, communications considerations include—
+
+             z The type of operation, the units involved, and the support requirements.
+
+             z The physical characteristics of the AO and probable weather conditions.
+
+             z The capabilities of the organic radio assets.
+
+             z Alternate means of relaying information.
+
+NOTE: Never rely on a single means of communication.
+
+11. Indoor Site Selection for Biological Detectors or Collectors
+
+      Conducting indoor biological-detection and sample collection operations presents
+some unique challenges and considerations in detector emplacement. The following
+considerations affect biological-detector or sampler emplacement:
+
+      a. The Coverage Required (Size of the Building Versus the Number of Detectors
+Required). The size of the building will impact the number of detectors required to
+properly provide coverage. Although size alone is not the determining factor, it is a
+contributing factor when determining the number of detectors and sample collectors
+required.
+
+      b. The Type of Release to be Protected Against (Exterior Versus Interior Release).
+The type of release to be protected against may determine the placement of detectors.
+
+             (1) Exterior release. If the building provides for adequate security controls
+and measures, the threat of an interior release is decreased. Thus, the threat will most
+likely come from an exterior release. In this instance, the placement of detectors and/or
+collectors in the interior of the building should emphasize capturing air coming into the
+building through air inlets, entrances, and exits. This method is likened to setting up a
+perimeter defense. In such instances, detectors placed on the exterior of the building will
+also provide a much-needed layer of protection outside of the perimeter.
+
+             (2) Interior release. Providing detector coverage against the threat of an
+interior release will greatly influence the placement of detectors. When providing
+coverage against an interior release, the method of providing a perimeter of detectors
+does not work effectively. Detector and/or collector locations to be covered throughout the
+building should include air exhausts, HVAC systems, high-value targets (HVTs) within
+the building, high population areas, areas of congregation, high-risk billets, and high-
+risk personnel.
+
+      c. The Interior Airflow. The flow of air throughout a building will affect the
+number and placement of detectors. Some buildings can be highly segregated in nature,
+especially newer larger buildings—while others can be very open in terms of airflow. The
+more segregated the building and its HVAC system, the less likely the chance of
+biological contamination spreading.
+
+E-22
+
+
+---
+
+      d. Building Air Exhausts (the Location and Number). Building air exhausts can
+provide the best payback in providing coverage of large buildings. In comparison to
+building air inlets, there tend to be fewer building air exhausts. The laws of physics and
+common sense say that in order to provide equilibrium, whatever air enters the system
+must exit through an air exhaust somewhere. These points of exhaust will contain air
+that has passed through the building and may contain samples of biological agents that
+have circulated within the building.
+
+      e. Air Handling Systems (Heating, Ventilation, and Air Conditioning Systems).
+Air handling systems provide fresh air from the exterior of a building and recirculate
+interior air. Detectors placed in air handling systems or other means of obtaining air
+from air handling systems also provide an indication of a biological agent release within
+a building. They can also further the spread of contamination by moving air around
+different parts of the building. Care should be taken when emplacing detectors to sample
+air from air handling systems. If there is adequate detector coverage outside the building
+and the detector is meant to protect against an interior release, then ensure that the
+detector is sampling the air that is circulating and/or recirculating within the building
+and not air entering from the outside.
+
+      f. Traffic Throughout the Building. High-volume traffic throughout a building or
+in certain areas of a building should also be considered. The movement of air in these
+areas, as compared to areas of less movement (small office spaces), may present a target
+of opportunity to capture an agent release within a building.
+
+      g. Critical Infrastructure. Some buildings may contain critical infrastructure that
+presents lucrative targets for a biological release. C2 nodes and areas critical to the
+health and safety of an operation (such as clinics and hospitals) may receive detector
+coverage.
+
+      h. High-Value Targets, High-Risk Billets, and High-Risk Personnel. HVTs, high-
+risk billets, and high-risk personnel may require biological-detection coverage depending
+on their “worth” to an operation. HVTs could be lucrative targets for a threat in
+disseminating an agent. Examples of targets may include cafeterias, conference and/or
+meeting rooms and centers, waiting areas, elevator areas and shafts, underground
+transportation building connections, and areas of congregation (for example, large office
+spaces, theaters, and entertainment areas).
+
+      i. Detector Limitations, Capabilities, and Requirements (Sensitivity, Size, and
+Power). Detector characteristics may determine placement. The ability to sample large
+volumes of air, the size, and capability to draw air from small spaces (such as inside air
+ducts), and the power it requires to operate for extended durations may affect placement.
+
+      j. Building Characteristics. Every building is different. Each is a mini-
+environment, with some being microcosms of mini-environments. Some are very porous,
+letting air in and out from numerous locations throughout. Some are very secure in
+terms of airflow, with the air circulating throughout easily monitored. Prior to
+developing a detector plan for a building, obtain as much information about it as
+possible, for example—
+
+             z HVAC plans.
+
+             z Areas not covered by HVAC systems.
+
+                                                                                                                                  E-23
+
+
+---
+
+             z Architectural and engineering plans (for example, sewage and water
+                    diagrams).
+
+             z Security plans.
+             z The organization and distribution of the population within.
+             z The local weather around the building.
+      k. Coordination. The placement of systems within the interior of a building
+requires coordination with building engineers and management. Placement within
+HVAC and air handling spaces, such as inlets and outlets, may need modification
+requests for both insertions of the equipment and power requirements. Systems that use
+additional tubing to bring air to a sampler should also be checked following placement
+using accurate equipment to ensure that the intent of the air movement was met and
+flow levels have not been compromised. This may require consultation with the
+manufacturer or testing to verify that the equipment has been installed in a manner that
+best contributes to the capture of the intended aerosol.
+
+E-24
+
+
+---
+
+                                      Appendix F
+
+               BIOLOGICAL-WARFARE ATTACK WARNING
+
+1. Background
+
+      a. The decision to disseminate a BW-attack warning, with its requirement to
+assume a protective posture, is an important one for the force commander. The
+commander must minimize the occurrence of false alarms while ensuring that the
+warning process is carried out as rapidly as possible to minimize exposure and maximize
+opportunities for medical treatments.
+
+      b. The results from a single component in a biological-detection suite, a single
+biological sensor, or the results from a single biological-detection suite, are not
+necessarily enough to decide to warn. This decision must be made considering all the
+evidence available: detection, intelligence, meteorological, and medical information. The
+analysis of this information will provide the basis for the decision to warn. The
+information required for the warning decision comes together best at the JTF and/or
+corps level.
+
+      c. Due to the dynamics of many BW agents, centralized analysis is generally
+preferred prior to issuing a BW warning to the threatened force. Decentralized warning
+may be ordered for specific phases of the operation or to units in the immediate
+suspected hazard area.
+
+      d. Intelligence, NBC, and medical officers analyze initial detection reports in
+light of the current situation. They evaluate each piece of data to determine if it is
+consistent with a BW attack. Based on the commander’s decision and his guidance on
+warning and protection criteria, the unit may execute its BW-warning and -reporting
+procedures in one of two ways. It may warn—
+
+             z Without a biological-detection and -identification capability.
+             z With a biological-detection and -identification capability.
+
+2. Warning Without a Biological-Detection and -Identification Capability
+
+      a. Determining that a BW attack has occurred will be difficult without a
+biological-detection capability in the TO. Units are generally unable to distinguish a
+biological attack from a chemical attack. The method of attack (for example, a spray, a
+bomb, or a projectile) could be the same for BW and chemical warfare (CW). If a unit
+observes a possible chemical-biological (CB) attack, but is unable to confirm it as a CW
+attack (for example, an automatic chemical-agent detector and alarm not sounding or
+negative results on M8 and/or M9 paper or M256A1 detectors), the unit should send an
+NBC-1 Report—Agent Unknown.
+
+      b. If the IPB is inconclusive for either CW or BW, a downwind hazard prediction
+with the largest suspected hazard area should be disseminated in order to warn affected
+units. The NBC control center generates and disseminates an NBC-3 (chemical or BIO)
+report to warn the force.
+
+                                                                                                                                    F-1
+
+
+---
+
+3. Warning With a Biological-Detection and -Identification Capability
+
+      A biological collector or detector can be deployed into an AO to provide a reliable
+asset (a presumptive identification capability) to assess the possibility of a BW attack.
+The results of the process are reported through the warning-and-reporting network. This
+reported information, along with other intelligence and medical data, provides the chain
+of command with the capability to assess whether a BW attack has occurred.
+
+4. Centralized Versus Decentralized Warning
+
+      An operational-level HQ is in a position to assess whether a BW attack has
+occurred. As a general rule, any HQ receiving information indicating that a BW attack
+occurred must produce and disseminate warnings. The protection afforded by assuming
+at least a mask only mission-oriented protective posture (MOPP) level can significantly
+reduce numbers of BW-attack casualties. The commander that has the biological-
+detection assets must decide on what method of warning to employ. His decision should
+take all the advantages and disadvantages of each method, centralized and
+decentralized, into account.
+
+      a. Centralized Warning and Reporting. The centralized warning-and-reporting
+network is used when the operational level HQ makes a determination on when, to
+whom, and where to issue the warning and appropriate protective measures (see
+Table F-1). A centralized warning system will likely be used to support an area array.
+The operational-level HQ will have access to multiple information resources (for
+example, battlespace intelligence and medical surveillance). The reports of the biological-
+detection unit contribute to the operational-HQ SA and assessments. For example, in a
+biological-detection unit, incident reports flow up to the controlling HQ where they are
+reviewed, consolidated, and analyzed by the NBC control center in coordination with the
+unit surgeon. While the biological-detection asset may be physically located in a major
+subordinate command (MSC) AO, the reports do not go through the subordinate units.
+Since the controlling HQ makes the warning determination in the centralized option,
+speed is of the essence and the reports need to be transmitted as rapidly as possible to
+the controlling HQ. The operational, level-of-war controlling HQ has access to additional
+potential BW-attack intelligence indicators that may not be available to lower HQ. The
+results from the biological-detection asset should not be considered 100-percent accurate;
+therefore, other attack indicators must be evaluated before arriving at the conclusion
+that a BW attack has actually occurred. With the controlling HQ making the warning
+determination, false alarms should be kept to a minimum. Upon the determination that
+an actual BW attack has occurred, the appropriate warning is issued to the affected
+commands with a directive to assume a higher protective posture. A simplified biological-
+hazard prediction is performed followed by an NBC-3 (BIO) report.
+
+      b. Decentralized Warning and Reporting. The decentralized warning-and-
+reporting network delegates the warning to MSCs (see Table F-2). A decentralized
+warning system will likely be used to support fixed-site operations. The fixed site (for
+example, an AB or port) may have strategic- or operational-level significance. The
+reports of the biological-detection unit contribute to the fixed-site HQ SA and
+assessments.
+
+F-2
+
+
+---
+
+                     Table F-1. Pros and Cons of the Centralized Warning System
+
+  Advantages
+      • Reduces false alarms to a minimum. False alarms have the potential to cause subordinate units to
+           continually raise and then lower the protective posture. That can significantly affect OPTEMPO.
+      • Ties together other indicators that may not be available to subordinate commanders.
+      • Provides the ability to rapidly assess the situation with other corps staff sections before making a
+           recommendation to the corps commander to warn.
+
+  Disadvantages
+      • Potentially slows down the warning time and could result in increased casualties throughout the corps
+           AO.
+      • MSCs do not receive any biological-detection information and are kept in the dark while the BW cloud is
+           moving over their units. Analysis of the data would not happen below corps level.
+
+                      Table F-2. Pros and Cons of Decentralized Warning System
+
+  Advantages
+      • Allows for faster warning of personnel for actual BW attacks since reports go directly to MSCs.
+      • Faster warning equals fewer casualties.
+      • Mask-only MOPP is available to MSCs. This could minimize heat stress degradation.
+
+  Disadvantages
+      • Requiring biological-detection units to send reports through normal command channels as well as
+           MSCs adds an additional report requirement to biological-detection unit operations.
+      • MSCs do not always have access to all the other attack (intelligence) indicators. Decisions to warn by
+           MSCs could be based on incomplete data.
+
+             (1) In the decentralized warning system, the biological-detection unit will
+send a summary of detection reports to the command delegated to receive the warnings.
+The summary information should include the following data as a minimum:
+
+                    z The location of each biological-detection asset showing positive
+                           results.
+
+                    z The micrometeorological conditions of each biological-detection asset
+                           showing positive results.
+
+                    z The agent identified.
+                    z The confidence level: very high, high, medium, or low (if applicable).
+             (2) The delegated command makes the warning determination on whether to
+warn and raise the protective posture based on the information reported. A simplified
+biological-hazard prediction is then performed and an NBC-3 (BIO) report is sent to
+lower, higher, and adjacent commands.
+
+                                                                                                                                    F-3
+
+
+---
+
+                                      Appendix G
+
+   BIOLOGICAL-WARFARE SAMPLE EVACUATION PLANNING,
+                   HANDLING, AND CHAIN-OF-CUSTODY
+
+1. Background
+
+      Samples are collected and initially packaged by the unit obtaining the sample. The
+sample is properly labeled, double-bagged, and prepared for evacuation. Ensuring that
+the chain-of-custody is maintained, the sample is evacuated to a sample transfer point
+for further evacuation, or possibly to a ship-based medical lab for field confirmatory
+identification. If a sample transfer point is used, a sample courier receives the sample for
+transport to an in-theater medical lab or ship-based lab for field confirmatory
+identification to support any appropriate treatment decisions. If there is an in-theater
+Army Medical Laboratory, the sample can be split for in-theater field confirmatory
+analysis and evacuation to CONUS for analysis and definitive identification. A portion of
+the initial sample will ultimately be evacuated to CONUS for definitive identification. If
+background samples are requested by an in-theater lab or ship-based lab, for whatever
+reason, evacuation will be conducted in the same manner ensuring that the chain-of-
+custody is maintained throughout the evacuation process.
+
+NOTE: Precautions should be taken to protect the sample collector from
+potential BW agents. At a minimum, respiratory protection, goggles, and
+protective gloves must be worn. Additional care must be taken to prevent cross
+contamination when collecting samples. Sample containers and packaging
+should be decontaminated with a 0.5 percent chlorine solution to protect those
+who handle the package.
+
+2. Sample Evacuation Planning and Execution
+
+      As indicated in Chapter IV, detailed planning and coordination by higher-level units
+(JTF or HQ); units possessing biological-detection assets (such as BIDS, Joint Portal
+Shield, or dry filter unit and handheld assay), hereafter referred to as biological-
+detection units; NBC unit HQ elements (such as a NBC control center); medical units;
+and supporting sample courier assets (such as a TEU) are required for supporting
+successful sample operations.
+
+      a. The supported unit prepares the required OPLANs and/or OPORDs to support
+the sample evacuation process. OPLANs and/or OPORDs have previously alerted and
+identified the assets needed to support the sample evacuation (for example,
+transportation and communication assets). biological-detection units, escorts, and
+medical activities form three of the basic elements of the evacuation process.
+
+      b. Biological-detection units begin the process by collecting a liquid sample and
+initiating the required chain-of-custody. The courier element provides safe handling and
+security, with appropriately trained personnel for the shipment of the sample. Courier
+personnel know key technical information (such as agent effects and characteristics) and
+how to respond to emergencies. The supporting Army Medical Laboratory has the
+capability to furnish in-theater sample analysis for field confirmatory identification. This
+
+                                                                                                                                   G-1
+
+
+---
+
+analysis can support joint force medical-treatment decisions. The supporting medical lab
+also provides feedback to the biological-detection unit and the supported unit (JTF) on
+sample analysis from background monitoring and suspected BW events. If an Army
+medical laboratory or ship-based lab is not present, custody samples may be forwarded to
+a CONUS reference lab by the courier element for definitive identification. Advanced
+arrangements must be made with the reference lab, if possible. Coordination must also
+be made with the HN when transporting samples through HN territories. This
+coordination may involve the State Department.
+
+      c. The following are examples of the types of planning and operations conducted
+by the supporting unit.
+
+             z The supported unit requests the deployment of a biological-detection unit,
+                    a sample courier, and medical lab assets. There is also follow-up and
+                    coordination to ensure the availability of biological-detection, courier, and
+                    medical assets to support the sample evacuation process.
+
+             z The commander and staff outline multiple options for the movement of
+                    sample evacuation packages to CONUS for definitive identification.
+                    Resources are requested to accomplish the requisite biological-detection,
+                    courier, transport, and medical procedures. The commander prioritizes
+                    the use of available assets to help ensure that the samples are moved
+                    within the required time frames.
+
+             z The command prepares and coordinates sample evacuation plans with the
+                    applicable JTF component (Army forces [ARFOR] or Navy forces
+                    [NAVFOR] medical lab activities) elements to support the option of in-
+                    theater lab analysis and to ensure asset visibility throughout the
+                    evacuation process. Planning must identify the use of all available
+                    designated laboratories such as Navy laboratories afloat or ashore, other
+                    service labs, or other agency labs within the region designated by the
+                    COCOM. For example, Navy confirmatory labs include Navy
+                    environmental and preventive medicine units, forward-deployed
+                    preventive medical units, selected aircraft carriers and amphibious ships,
+                    and selected medical facilities. These laboratories also have a reach-back
+                    capability with a definitive lab for consultation.
+
+             z The supported unit ensures that coordination for the designation of
+                    potential sample transfer points is conducted between sample courier and
+                    biological-detection units.
+
+             z The command requests and designates alternate sample courier assets if
+                    TEU assets are not available.
+
+             z The supported commander requests that the supporting biological-
+                    detection, escort, and medical-lab assets be provided with the requisite
+                    communications capability if they lack an organic capability.
+
+             z The supported commander plans for the receipt of biological-sample
+                    analyses (results) from the supporting Army medical laboratory.
+
+G-2
+
+
+---
+
+      d. The following provide examples of the type of planning and operations that
+should be conducted by the biological-detection unit:
+
+             z Deploy an advance element to coordinate sample evacuation activities
+                    with the supported unit and other key activities (such as sample courier
+                    elements and Army medical laboratory and/or ship-based lab elements).
+
+             z Establish sample transfer points, routes, and local security for moving
+                    escort elements to sample transfer points in coordination with the
+                    supported unit and courier assets.
+
+             z Ensure the proper handling and storage of liquid samples.
+
+             z Rehearse the sample evacuation and the chain-of-custody.
+
+             z Use the sample evacuation plan of the supported unit to prepare a unit
+                    OPLAN and/or OPORD (for example, sample transfer point locations,
+                    courier, security, and identification requirements).
+
+             z Plan for the receipt of results from supporting medical lab analyses.
+
+             z Train sample courier teams on topics such as the preparing, packaging,
+                    and safely handling samples; using IPE; executing emergency procedures;
+                    determining decontamination requirements; maintaining the security of
+                    the sample; completing sample documentation; and conducting sample
+                    transfer procedures.
+
+             z Prepare to handle multiple samples concurrently based on several
+                    detections within a short time frame (12 to 24 hours).
+
+      e. The commander’s NBC control center must be prepared to coordinate the
+evacuation of samples from the subordinate units to a sample transfer point or directly to
+a supporting lab. Samples to be evacuated will not only be suspected BW samples, but
+also routine background samples when directed by higher HQ.
+
+             (1) The sample evacuation order should include the following:
+
+                    z Transportation requirements and taskings.
+
+                    z The sample courier qualification and training requirements.
+
+                    z Travel clearances.
+
+                    z The identification of the sample destination (lab).
+
+                    z Communications.
+
+             (2) The commander’s NBC control center must ensure that they understand
+where samples are being taken. Communications with the lab are established so that the
+lab knows samples are being shipped. Communications from the supporting lab to the
+supported NBC control center are of key importance. A NBC control center must be
+proactive in establishing these communications to ensure a timely report of confirmatory
+or definitive identification and the status of the samples.
+
+             (3) Following presumptive identification, the NBC control center provides
+instructions for sample evacuation. These instructions direct when to evacuate the
+collected sample or samples, the sample transfer point location, specific identification of
+the receiving escort team, and the NLT time to link up with the escort team at the
+sample transfer point.
+
+                                                                                                                                   G-3
+
+
+---
+
+             (4) Coordination should be conducted with the receiving lab when the tactical
+situation or mission permits. Coordination facilities advance notification that a sample
+will be forwarded.
+
+             (5) All samples will be evacuated to a lab for analysis. Laboratories will
+prioritize sample analysis. The lab commander will determine the number and type of
+samples to be analyzed.
+
+3. Sample Evacuation Logistics Requirements
+
+      To properly prepare a sample and the accompanying documentation for transport,
+specific materials are required. The following are examples of some of the key items used
+to properly package the sample:
+
+      z A sample transfer case will be used to transfer samples. Sample transfer cases
+             can provide temporary storage for samples pending evacuation and should
+             have an internal visual temperature monitoring capability. Samples should be
+             kept at 1-4°C during storage and transportation.
+
+NOTE: The Navy uses a shipping container specifically designed to ship
+infectious substances.
+
+      z Sample containers such as vials and bottles are provided as part of each
+             system and the associated sampling kits. The specific size of a container will
+             vary depending on the system that is providing the sample.
+
+      z Clear plastic bags to double-bag collection items.
+
+      z Tamper-resistant tape.
+
+      z Lab film.
+
+NOTE: Specific step-by-step procedures for the packaging of samples collected
+for systems such as the BIDS or Joint Portal Shield network will vary but still
+follow the basic steps indicated in this appendix. System-level sample-
+packaging instructions are provided in system-level service guides, TMs, and
+other reference publications.
+
+4. Chain-of-Custody Document Preparation
+
+      a. The chain-of-custody form establishes the biological sample as official
+government evidence and is a critical document. This document identifies who collected
+the sample, who maintained custody of the sample, and what has been done with the
+sample. A chain-of-custody must be maintained for every sample collected. The chain-of-
+custody document must accompany the sample during transport from the point of
+collection to the final receiving lab.
+
+      b. Whenever samples are transferred from one person to another, a custody
+transfer occurs. For example, sample transfer occurs when the operator who packaged
+the sample transfers the sample package to a sample courier. A custody transfer also
+occurs whenever supervision of the sample changes, such as when an operator changes
+shifts. All sample transfers or custody changes will be documented on this form.
+Figure G-1 provides a sample of a completed chain-of-custody form.
+
+G-4
+
+
+---
+
+NOTE: This form is not reproducible. Unless no other option is available in the
+field, use only original or computer-generated chain-of-custody forms.
+
+    Step 1. Receiving activity. Enter your unit designation.
+
+    Step 2. Location. Enter the address, code, or coordinates of the collecting
+    organization according to the SOP.
+
+    Step 3. Name, grade, and title of person and unit from whom received. Enter the
+    name, grade, and title of the operator. The title could be either “Operator” or
+    “Maintainer.” Always mark the Other block with an X.
+
+    Step 4. Address. If applicable, enter the nearest large city and the country. Include
+    the mailing address—Army Post Office (APO), fleet post office (FPO), or the zip code.
+
+    Step 5. Location from where obtained. Enter the address, code, or coordinates
+    according to the SOP for the location where the sample was collected (for example,
+    16SEC127731500).
+
+    Step 6. Reason obtained. Enter “Operational Biodetection.”
+
+    Step 7. Time/date obtained. Enter the date-time group (DTG) of the sampling period
+    in Zulu (Z) time. Obtain this information from the biological-event log. For a sampler
+    such as the dry filter unit, include the time sampling began, the time sampling
+    stopped, and the time of presumptive identification (handheld-assay testing).
+
+NOTE: For a detection system such as the BIDS or Joint Portal Shield, the
+operator enters the DTG for the time that the system alerted.
+
+Receiving activity                                   Location
+
+                    HQ, CO, 3rd BN 8th USMC                          FN 12177 31500
+
+Name, grade and title of person from whom received  Address (include zip code)
+
+            Owner Rogers, C.C.                                      Camp Lejune, NC
+                                                                    28542, USA
+
+X     Other         CWO4, NBCDOIC
+
+Location from where obtained                        Reason obtained  Time/date obtained
+
+                             FN 12177 31500         Operational      0600/19 Aug 01
+                                                    biodetection
+
+Item No.            Quantity                                            Description of Articles
+     1                   1                   (Include model, serial number, condition, and unusual marks
+
+                                                                               or scratches)
+
+                                             50-ml conical tube, containing a cold-weather filter, placed in less
+                                             than 40 ml of collection fluid, wrapped with lab film, sealed with
+                                             tamper-resistant tape, in double clear plastic bags. Designated
+                                             container and clear plastic bags individually labeled
+                                             US010902001WAAZZ1A.
+
+   2                1                        Sealed disk mailer, containing 1 biological-event log and 1 incident
+                                             report individually labeled US010902001WAAZZZ1A.
+
+                    Figure G-1. Sample Chain-of-Custody Form
+
+                                                                                         G-5
+
+
+---
+
+             Nothing Follows  JC                        Nothing Follows       JC
+
+                                  Chain-of-Custody
+
+Item number  Date                 Released by           Received by           Purpose of change of
+                                                                              custody
+     ALL           010819         Signature             Signature
+                                                                              NBCCC
+     ALL           010819         Jeffrey Curry         Curt Rogers           Shift change
+
+                                  Name, grade or title  Name, grade or title  Released for
+                                                                              packaging and
+                                  Curry, Jeffrey        Rogers, Curt CWO4     evacuation
+                                  NBCDO                 NBCDO
+                                                                              Release for escort to
+                                  Signature             Signature             lab
+
+     ALL           010819         Curt Rogers           Ann Gossage
+
+                                  Name, grade, title    Name, grade, title
+
+                                  Rogers, Curt          Gossage, Ann
+                                  CWO4 NBCDO            MGySgt NBCD
+                                                        SNCOIC
+                                  Signature
+                                                        Signature
+                                  Ann Gossage
+                                                        Keith Bradfield
+                                  Name, grade or title
+                                                        Name, grade or title
+                                  Ann Gossage
+                                  MgySgt                Bradfield, Keith
+                                                        Technical Escort
+                                  Signature
+                                                        Signature
+
+                                  Name, grade or title Name, grade, or title
+
+                        Figure G-1. Sample Chain-of-Custody Form (Continued)
+
+    Step 8. Item number. Enter and itemize each package being evacuated.
+
+    Step 9. Quantity. The quantity will be always be “1” or greater.
+
+NOTE: Finish the entries with an initialed line and the words “Nothing
+Follows.”
+
+NOTE: If item descriptions will not fit in the description block, continue the
+descriptions on a plain sheet of paper, remembering to close out with initials
+and the words “Nothing Follows.”
+
+    Step 10. Description of articles. Example descriptive information for evacuation
+    items follows:
+
+             z Sample vial package. Sample vial, containing less than 10 milliliters of
+                    the sample, wrapped with lab film, sealed with tamper-resistant tape,
+                    placed into a 50-milliliter tube, with absorbent material, in double clear
+
+G-6
+
+
+---
+
+                    plastic bags. Sample vial and clear plastic bags individually labeled
+                    US010902001WAAZZZ1A.
+
+             z Sample bottle. Sample bottle less than 50 milliliter of the sample,
+                    wrapped with lab film, sealed with tamper-resistant tape, with absorbent
+                    material, in double clear plastic bags. Sample bottle and clear plastic bags
+                    individually labeled US010902001WAAZZZ1A.
+
+NOTE: A sample bottle may contain fluid from multiple BW events. The alert
+time recorded on the chain-of-custody form should be the first alert time
+associated with the fluid that is in the sample bottle. A dry filter unit record
+should indicate the estimated time period for the material (in the sample
+bottle) that was sampled from Time “A” to Time “B”.
+
+             z Cold-weather sample. 50-milliliter conical tube, containing a cold
+                    weather filter, placed in less than 40 milliliters of collection fluid,
+                    wrapped with lab film, sealed with tamper-resistant tape, in double clear
+                    plastic bags. Designated container and clear plastic bags individually
+                    labeled US010902001WAAZZ1A.
+
+             z Supporting documents. Sealed disk mailer containing paper copies of
+                    key information (for example, one each biological-event log and one each
+                    incident report) individually labeled according to Table G-1 (for example,
+                    US010902001WAAZZZ1A).
+
+                                  Table G-1. Sample Identification Numbers
+
+               Example Sample Identification Number: LA010115002WAAZZZ2D
+
+LA             010115                 002       WAAZZZ            2                     D
+
+Country code Date              Daily            UIC               Detachment      Team
+
+               (YYMMDD)        sequence
+                               number
+
+Identified in  The date the    The first        The company       This number     This number
+the unit       sample was      sample           UIC. This         identifies the  identifies the team
+OPORD.         collected.      collected each   identifies the    detachment      that collected the
+               Given as year,  day starts with  specific          that collected  sample. It is only
+               month, and      001, and         company that      the sample. It  unique when
+               day.            following        collected the     is only unique  combined with the
+                               samples are      sample. This      when            UIC.
+                               numbered in      number is         combined with
+                               sequence.        unique for a      the UIC.
+                                                unit.
+
+This sample    This sample     This was the     This is a         This sample     More precisely, this
+was collected  was collected   second           fictional UIC     was collected   sample was
+in Laos.       in 2001 on      sample           for company       by a member.    collected by an
+               January 15.     collected on     Z. If you do not                  individual assigned
+                               January 15.      know your                         to Team D.
+                                                UIC, ask your
+                                                team leader.
+
+NOTE: If this sample is a background sample, it should also include the word “Background” below the
+sample ID number.
+
+                                                                                           G-7
+
+
+---
+
+    Step 11. Chain-of-custody item number. Chain-of-custody applies to each item
+    number (see Step 8) entered on the form. If a separate action is done with only one of
+    the items on the list, then a separate entry for that action and item must be entered.
+
+             z Date. The date of the transaction entered as (yymmdd).
+
+             z Released by. Enter the name of the person currently responsible for the
+                    custody of the item number.
+
+             z Received by. Enter the name of the person assuming responsibility for
+                    the items described by the item number.
+
+             z Purpose of change of custody. Enter a brief, accurate explanation of
+                    why the custody of the sample was transferred. The following are some
+                    examples.
+
+                     Released for a shift change.
+
+                     Released for evacuation.
+
+                     Released for escort to a sample transfer point or lab.
+
+                     Released 5 milliliters (example amount) for in-theater field
+                           confirmatory analysis.
+
+                     Released for escort to final destination.
+
+5. Biological Sample Packaging
+
+      a. All samples must be packaged in three layers of containment to meet air
+transport regulations (the sample container, a primary container, and a secondary
+container). Do this by using specialist transport media that comply with the United
+Nations (UN) handling regulations, consisting of a primary container, held in absorbent
+material within a secondary container, which is carried within an outer container; or by
+double-wrapping or double-bagging the primary container for less hazardous samples.
+For double-bagging or double-wrapping, the plastic bags or plastic container containing
+the sample should be placed into a second bag. Excess air pockets should be removed.
+The sample bags should be carried within an outer container packed with absorbent
+material. Any breakable containers should be placed in more rigid containers to protect
+them from puncture or breakage. Commercially manufactured packs specifically
+designed for the transport of dangerous pathogens and approved by International Air
+Transport Association (IATA), are widely available.
+
+             (1) Volume not exceeding 50 milliliters. Material will be placed in a securely
+closed, watertight container (primary container—for example, a wet collector or vial),
+which will be enclosed in a second, durable, watertight container (secondary container).
+Several primary containers may be enclosed in a single secondary container, if the total
+volume of all the primary containers enclosed does not exceed 50 milliliters. The space at
+the top, bottom, and sides between the primary and secondary containers shall contain
+enough nonparticulate absorbent material (paper towels) to absorb the contents of the
+primary containers in case of breakage or leakage. Each set of primary and secondary
+containers will then be enclosed in an outer shipping container (sample transfer case)
+constructed of corrugated fiberboard, cardboard, wood, or other material of equivalent
+strength.
+
+G-8
+
+
+---
+
+             (2) Volume greater than 50 milliliters. Packaging of material in volumes of
+50 milliliters or more will comply with requirements specified in paragraph 5a of this
+appendix. In addition, a shock-absorbent material, in volume at least equal to that of the
+absorbent material between the primary and secondary containers, will be placed at the
+top, bottom, and sides between the secondary container and the outer shipping
+container. Single primary containers shall not contain more than 1,000 milliliters of
+material. However, two or more primary containers whose combined volumes do not
+exceed 1,000 milliliters may be placed in a single secondary container. The maximum
+amount of agent that may be enclosed within a single outer shipping container shall not
+exceed 4,000 milliliters.
+
+      b. When handling the sample, eye protection, respiratory protection, and gloves
+must be worn. See the applicable system-level TMs or TOs for specific instructions on
+packaging liquid samples, such as sample vials or sample bottles. See Table G-2 for
+specific instructions on preparing unique items, such as the dry filter unit filter pads, for
+evacuation.
+
+                        Table G-2. Preparing a Dry Filter Unit Filter for Shipment
+
+      Dry Filter Preparation Procedures
+
+Item  Instructions
+
+1 Obtain the tube that contains the dry filter unit filter.
+
+2 Place an adhesive label containing the sample identification number on the tube.
+
+3 Seal the tube first with lab film and then with tamper-resistant tape. Apply two strips of tape
+
+        across the cap in an “x” pattern ensuring that the tape reaches down both sides of the tube.
+
+        Ensure that the tape covers a portion of the label on the tube, but does not cover the sample
+        identification number.*
+
+4 Place the tube inside a plastic bag or IATA container containing absorbent material. If using a
+        plastic bag, remove excess air, twist the neck of the bag until it forms a tight coil with the bag
+        snug around the tube, and seal it with a strip bag tie.
+
+5 Place an adhesive label containing the sample identification number on the IATA container or
+        plastic bag.*
+
+6 Place the tube inside a second bag or an IATA container. If using a plastic bag, remove the
+        excess air, twist the neck of the second bag until it forms a tight coil, and seal it with a strip
+        bag tie.
+
+7 Place an adhesive label containing the sample ID number on the outer packaging.*
+
+8 Place the package inside the sample transfer case.
+
+9 Complete the chain-of-custody document. Ensure that the operator handling the sample signs
+        the initial signature immediately.
+
+*After steps 3, 5, and 7, spray and wipe the package with a 0.5 percent chlorine solution.
+
+6. Sample Identification Number Assignment
+
+      a. The minimum essential information that must be addressed in the sample
+identification number is as follows (see Table G-1 [page G-7]):
+
+             z The country code (2 digits).
+             z The year, month, and day the sample was collected (6 digits; yymmdd).
+             z The daily sequence number (3 digits).
+             z The unit identification code (6 digits).
+
+                                                                                            G-9
+
+
+---
+
+             z The identification of the unit collecting the sample, down to the team or
+                    detachment level (2 digits).
+
+      b. If a shift change occurs prior to the evacuation notice, the stored sample must
+be released to a new shift leader using the chain-of-custody form. The sample
+identification number must be applied to the chain-of-custody form when a shift change
+occurs.
+
+7. Supporting Documentation Packaging
+
+      The documents that support the evacuated sample are integral components of the
+evacuation package and must accompany the sample. Table G-3 provides representative
+instructions for packaging this material.
+
+                     Table G-3. Packaging Supporting Documents for Evacuation
+
+            Packaging Supporting Documents
+
+      Item                       Instructions
+
+      1* Provide two copies of the biological-event log and incident report. Label each log sheet and
+               report with the sample identification number.
+
+      2 Place one copy of the log inside the disk mailer. Maintain the second copy of the log and
+               incident report.
+
+      3 Place an adhesive label containing the sample identification number on the disk mailer.
+
+      4 Seal the disk mailer.
+
+      5 Place tamper-resistant tape over all sealed edges of the disk mail sealer. Do not cover the
+               sample identification number with the tape. Place the sealed disk mailer into a plastic bag
+               so that it does not get wet.
+
+      6 Place the supporting documents package in the sample transfer case.
+
+      7 Complete the chain-of-custody document. Ensure that the operator handling the sample
+               signs the initial signature immediately.
+
+*USN guidance lists supporting documentation as a handheld-assay report and a chain-of-custody
+form.
+
+NOTE: In the event that additional mailers are used, each one must have a
+separate item description on the corresponding chain-of-custody form.
+
+8. Completed Evacuation Package
+
+      Each completed sample evacuation package is composed of the following items:
+
+      z The sealed and packaged sample container.
+
+      z The sealed disk mailer.
+
+      z The chain-of-custody form. The completed chain-of-custody form will be hand-
+            carried by the sample courier. There will be one complete sample evacuation
+            package for each sample.
+
+G-10
+
+
+---
+
+9. Sample Evacuation Planning Considerations
+
+      Once samples are collected they must be evacuated in a timely manner. Specifically,
+samples should arrive at an in-theater lab within 6 hours of collection. The samples
+should be delivered to a CONUS lab within 24 to 48 hours.
+NOTE: The time planning factors serve as guidelines. Samples should still be
+evacuated even when mission constraints delay evacuation. Sample evacuation
+planning and operations require close coordination between the installation
+and the supporting lab. Samples should be kept at 1-4°C during shipment.
+NOTE: Biological samples should be delivered to the supporting lab in the AO
+for in-theater confirmatory analysis before they are transported out of the AO.
+The supporting lab is responsible for providing confirmatory identification in
+the AO.
+
+10. Background Sample Evacuation
+
+      Depending on ambient background conditions, samples are collected for an
+evaluation of background conditions. This could result in a sample being forwarded to
+the supporting medical lab for analysis. As required, the supporting lab may maintain
+negative samples on hand for historical record purposes.
+
+                                                                                                                                  G-11
+
+
+---
+
+                                      Appendix H
+
+  LONG-RANGE BIOLOGICAL STANDOFF DETECTION SYSTEM
+                                     OPERATIONS
+
+1. Background
+
+      a. This appendix addresses long-range biological-agent detection using the USA
+biological-detection company LRBSDS, which is a corps and/or echelons above corps
+(EAC) asset. The LRBSDS assists in providing early warning to maintain a COP and to
+enhance FP. It employs a laser system that is mounted in a helicopter to scan a
+designated area of interest (AOI) and find large, man-made aerosols suspected of
+containing BW agents.
+
+      b. LRBSDS teams obtain detection data and use the helicopter radios to submit
+incident reports to a biological-detection company. The biological-detection company uses
+the information to alert the ground-based biological-detection assets and to work with
+the corps NBC officer to analyze data and determine if a biological attack has occurred.
+When a potential BW attack is detected, the NBC center can predict the hazards. The
+corps NBC officer, along with other battle-staff members, integrates the operational
+indicators from the LRBSDS with biological-surveillance data from biological-detection
+assets (BIDS), other intelligence, and other staff input. The staff analyzes and evaluates
+all available indicators to ascertain if a biological attack has occurred and to determine
+the appropriate recommendations for the force commander.
+
+2. Mission
+
+      The LRBSDS provides long-range biological-detection information to the designated
+HQ (biological-detection company). The crew uses the LRBSDS that is mounted in a
+UH-60 helicopter to scan the designated AOIs to detect, range, and track large-area
+aerosols disseminated on the ground or in the air. Based on the LRBSDS outputs and
+operator assessment, the team interprets the data presented and forwards an LRBSDS
+incident report according to the instructions provided in the higher HQ OPORD.
+Although the LRBSDS is configured for aerial-based surveillance, the system cannot be
+configured for use on other small or medium rotary-winged aircraft. An LRBSDS mission
+can be divided into the following three phases: preoperations, biological surveillance, and
+postoperations. These three operations are discussed later in this appendix.
+
+3. Capabilities
+
+      a. The LRBSDS provides the operational-level commander with multiple
+capabilities. These capabilities include—
+
+             z Cueing BW point detectors about incoming, man-made aerosols.
+
+             z Providing early warning for forces on the move.
+             z Providing a limited capability to detect man-made aerosols in an
+
+                    economy-of-force role (for example, with a limited number of point
+                    detectors, the LRBSDS can supplement other detection systems).
+
+                                                                                                                                    H-1
+
+
+---
+
+             z Enhancing the biological-detection surveillance array probability of
+                    detection (specifically, the LRBSDS may detect man-made aerosols that
+                    miss point detectors because of gaps in the cloud or low aerosol
+                    concentration).
+
+      b. The capabilities of the LRBSDS enable it to detect aerosol clouds and classify
+them as man-made or naturally occurring. Therefore, depending on multiple METT-TC
+factors (such as the available flight time and the assigned mission), commanders may
+instruct the LRBSDS team to conduct the following tasks.
+
+             (1) Detecting and mapping a man-made aerosol. The team uses this
+technique to map the left and right limits of the cloud and estimate the downwind drift
+(direction and speed). This technique requires about 30 to 45 minutes and can support
+the warning of specific areas.
+
+             (2) Detecting and tracking an aerosol. The team uses this technique to
+estimate the downwind cloud drift and classify the aerosol as naturally occurring or
+man-made. This technique does not determine the left and right limits of the cloud. It
+requires about 15 minutes.
+
+             (3) Detecting and classifying an aerosol. The team uses this technique to
+classify an aerosol as naturally occurring or man-made. This technique requires about
+5 minutes. For example, the role of the LRBSDS could include detection and
+classification to enable the cueing of downwind point detectors, detecting and mapping,
+or detecting and tracking to support the tracking of an aerosol cloud. This information
+supports estimates on the size of the area that needs early warning.
+
+4. Organization
+
+      a. LRBSDS Teams. A six-man element is organic to the biological-detection
+company HQ section. The element consists of three, two-man LRBSDS teams (one E6
+and one E5). The LRBSDS noncommissioned officer in charge (NCOIC) is the senior
+operator. The teamwork of the LRBSDS team and flight crew is important for successful
+mission accomplishment.
+
+      b. Command and Support Relationships. Since the LRBSDS is organic to the
+biological-detection company, the biological-detection company commands the element,
+receives and analyzes LRBSDS reports, and provides administrative and logistics
+support. One or more LRBSDS teams are normally placed within operational control
+(OPCON) of an Army aviation brigade. The aviation brigade receives long-range
+detection missions from corps OPORDs and/or FRAGORDs, assists in planning, and
+controls mission execution. The aviation brigade provides mission helicopters from an
+aviation company, trains the helicopter crews on LRBSDS missions, and provides
+logistical support as directed. The aviation brigade NBC officer and/or NCO plans and
+coordinates LRBSDS missions assigned to the brigade. If LRBSDS teams cannot
+communicate directly to the biological-detection company, they radio their mission
+reports to the aviation brigade tactical operations center (TOC) or other station for relay
+to the biological-detection company CP where they are analyzed, acted on, and/or passed
+to the corps NBC control center. If a biological-detection capability is needed for an early-
+entry operation, the force package should include (as a minimum) a biological-detection
+company consisting of a LRBSDS and biological-detection team, elements of the
+
+H-2
+
+
+---
+
+biological-detection company HQ, and CLS teams. The biological-detection company
+expertise is required to analyze the information generated by the LRBSDS and BIDS.
+
+      c. Organizational Functions. The key functions of each member of the LRBSDS
+teams are shown below.
+
+      (1) LRBSDS NCOIC (senior operator). The LRBSDS NCOIC is responsible
+
+for—
+
+      z Supervising and leading the LRBSDS teams.
+
+      z Providing input to the biological-detection planning process,
+            coordinating and preparing for LRBSDS missions, receiving
+            LRBSDS missions from the aviation brigade (when OPCON or
+            attached), monitoring the execution of missions, assisting in
+            postmission debriefings, and supervising custodial procedures for
+            data tapes.
+
+      z Coordinating missions with the aviation brigade chemical officer and
+            flight operations center. With the tasked aviation company, he
+            directs and coordinates movement and linkup with the aviation
+            brigade and ensures that mission aircrews are briefed on laser
+            hazards.
+
+      z Obtaining meteorological data.
+
+      z Training teams, maintaining equipment, and ensuring that logistics,
+            morale, and discipline are maintained.
+
+      (2) Operator. The LRBSDS operator is responsible for—
+
+      z Coordinating and preparing for missions.
+
+      z Receiving missions from the LRBSDS NCOIC.
+
+      z Transporting equipment to the staging area.
+
+      z Coordinating with pilots.
+
+      z Loading and/or unloading the LRBSDS and preparing it for
+            operations.
+
+      z Operating the LRBSDS during missions, interpreting LRBSDS data,
+            and downloading data and maintaining the data tapes.
+
+      z Performing postsurveillance operations for the LRBSDS and support
+            equipment.
+
+      z Conforming to safety procedures for the LRBSDS, the helicopter, the
+            generator, and the forklift.
+
+      z Performing operator maintenance on LRBSDS and support
+            equipment.
+
+      (3) Assistant operator. The assistant operator is responsible for—
+
+      z Assisting the operator with the functions shown above.
+
+                                                                               H-3
+
+
+---
+
+                    z Recording detection information on the mission data sheet (during
+                           missions), obtaining flight information from the pilot, ensuring the
+                           completeness of reports, and transmitting the reports.
+
+      d. Quality Management. Biological-detection company and LRBSDS unit leaders
+assure team proficiency. Team proficiency is maintained through measures such as
+periodic hands-on training that involves the controlled and approved use of simulants to
+support system detection.
+
+NOTE: The operator’s and assistant operator’s roles may alternate depending
+on factors such as mission length.
+
+5. Employment Planning
+
+      a. LRBSDS planning will include information such as the time and desired
+surveillance tracks to be flown and will identify the laser eye safety risk to personnel and
+recommend measures to minimize that risk.
+
+      b. To support LRBSDS, the corps aviation brigade will normally provide aircraft
+support for the surveillance mission. Figure H-1 provides a flow diagram of the LRBSDS
+employment concept.
+
+     Threat warning                            BIDS
+      • Intelligence                           input
+      • Meteorological forecast
+      • Threat flight activity                 Biological-        Chemical officer
+                                               detection          recommends alerts/
+               Corps G2                        company            all clear (if required)
+               requests standoff               evaluates reports  and provides
+               detection mission                                  recommendations
+                                                  Other           to G3/commander
+                        Corps aviation            SITREPs
+                        BDE conducts
+                        mission
+
+                                 LRBSDS team
+                                 reports
+                                 observations
+
+                                  Figure H-1. LRBSDS Employment Concept
+
+      c. LRBSDS operations will be planned to maximize the warning time for a large-
+scale line source biological-agent attack against US forces. The primary value of
+LRBSDS is to provide early indication of a possible line source attack by determining the
+
+H-4
+
+
+---
+
+location and size of the suspect cloud. This allows time for the cueing of ground-based
+biological detectors and casualty avoidance measures.
+
+      d. The corps aviation brigade will conduct the LRBSDS surveillance mission
+according to the approved plan. The aviation officer will allocate the necessary aircraft
+and coordinate airspace utilization with the USAF tactical air control system or other
+airspace management authorities as appropriate. The aviation officer may adjust the
+planned aircraft flight route to minimize risk, and mission planning could include
+measures for suppression of enemy air defenses (SEAD).
+
+      e. Conducting routine environmental checks to acquire background aerosol data
+is a key to successful employment. Access to accurate meteorological forecasts,
+intelligence information on threat BW capabilities, and timely information on potential
+line spray activities (surface or air) help support a quick response by the airborne
+LRBSDS team. For the LRBSDS to conduct the detection of a biological attack, the
+aircraft should fly on a track parallel to the cloud with the appropriate standoff distance.
+Normally, the planned flight track will be perpendicular to the surface wind direction.
+
+      f. Effective use of the LRBSDS increases the overall probability of BW detection
+(detecting a man-made aerosol). Planners coordinate with intelligence and aviation
+personnel to analyze the air defense threat to minimize risks to the crew and aircraft.
+Additionally, planners provide maximum flexibility in flight coordination measures
+because of the many variables that can impact the downwind drift (wind shift) of man-
+made aerosols.
+
+      g. The basic information provided from LRBSDS operations can help to answer
+the following questions:
+
+             z Is there a suspect aerosol?
+
+             z Where is the suspect aerosol, and where is it traveling?
+
+             z How large is the suspect aerosol?
+
+      h. The force commander’s R&S plan organizes the collection of information. The
+R&S plan will include specific biological-surveillance requirements and the biological-
+detection company and/or the aviation brigade OPLAN and/or OPORD will integrate
+requirements for long-range biological-detection missions. The LRBSDS element
+implements the OPORD and responds to FRAGORDs.
+
+      i. Planners consider multiple factors when employing the LRBSDS, including the
+following:
+
+             z What is the LRBSDS mission?
+
+             z What are the required actions (detecting and mapping, detecting and
+                    tracking, or detecting and classifying) to support the mission?
+
+             z What friendly-force biological-detection assets are available? Are
+                    planners using the LRBSDS and BIDS in an integrated manner or in an
+                    economy-of-force role (for example, is the LRBSDS operating without
+                    BIDS)?
+
+             z What is the size of the NAI? The NAI size and location may cause
+                    modification of flight tactics.
+
+                                                                                                                                    H-5
+
+
+---
+
+             z What threat information is available? For example, the threat is using an
+                    air release, the estimated length of the long line source release is
+                    50 kilometers, and the air defense threat dictates the use of the detection
+                    and classification technique.
+
+             z What is the threat BW capability?
+
+             z What are the airspace flight coordination restrictions? Specifically, flight
+                    corridors and/or egress routes will vary depending on the operational
+                    situation.
+
+6. Long-Range Biological Standoff Detection System Employment
+
+      a. When employed, the LRBSDS is used to enhance the force commander’s BW
+detection capability. The LRBSDS can be used to provide large-area surveillance during
+any type of operation when there is a possibility of a BW aerosol threat. It is especially
+important to provide early warning during large-force movement. The information from
+the LRBSDS supports the IPB process and directly supports ongoing and future
+operations.
+
+      b. The normal basis of issue for a corps will be three LRBSDS systems. The
+systems should be retained as a corps asset. The area of concern for a mission, will be
+determined by the commander and the duration of the surveillance mission or the
+number of systems used will be based on factors such as—
+
+             z Beneficial meteorological conditions for BW employment.
+
+             z Force vulnerability (for example, during movements).
+
+             z Indicators from intelligence sources.
+
+             z The size of the AO.
+
+      c. The options available for employing an LRBSDS team are shown in Table H-1.
+The LRBSDS is most efficient when three systems are used together; however, LRBSDS
+teams could be split. For example, two LRBSDS teams could be staged at one airfield and
+the third LRBSDS team elsewhere.
+
+NOTE: To split base the teams, the supporting aviation brigade will be
+required to furnish additional logistics assets such as a forklift. In selecting the
+employment option, planners consider NAI size (the area to be scanned),
+meteorological conditions, force vulnerability, the degree of the threat, the
+terrain within the LRBSDS scan area, the flight time required to detect or
+track an aerosol cloud, the availability of helicopters and LRBSDS, and
+logistics support.
+
+      d. Split basing the LRBSDS offers advantages and disadvantages. One advantage
+is the ability to conduct additional aerial BW surveillance in a distant portion of the AO.
+Disadvantages include part-time rather than full-time coverage at two locations (which
+may result in decreased scanning time and periods of time with no LRBSDS coverage),
+decreased biological-detection company flexibility during mission execution, and the
+need for additional operational planning and logistics support at the additional LRBSDS
+staging site.
+
+      e. LRBSDS employment techniques could include the following alternatives.
+
+H-6
+
+
+---
+
+                        Table H-1. LRBSDS Employment Options
+
+  Coverage Required       Number Of                                Considerations
+Full time               LRBSDS Used
+(continuous coverage)                 Breaks in coverage due to refueling the aircraft and
+                                 1    changing aircrews may occur if assets are unavailable to put
+Part time                             more LRBSDSs in the air.
+(interrupted coverage)        2 or 3  Can use two systems on station.
+                                 1
+                                      Requires aircrew change for lengthy missions.
+                                 2    Least resource-intensive.
+                                 3
+                                      Least coverage per unit of time.
+
+                                      Appropriate for low-threat conditions.
+
+                                      Can use for background missions.
+                                      Each system can cover one-half of the area or can alternate
+                                      systems on station.
+                                      Each system can cover one-third of the area or can rotate
+                                      systems on station.
+
+                                      Best option for long-duration missions.
+
+             (1) Operate Three Systems Simultaneously.
+
+                    (a) Each system conducts surveillance on a portion of the corps AO. This
+option allows for maximum coverage and early warning potential. However, it is resource
+intensive and allows no reserve detectors. Additionally, coverage is limited or
+nonexistent during refueling and/or rearming operations. Operational work-arounds,
+such as nonsimultaneous refueling operations, could reduce this limitation.
+
+                    (b) Each system can scan one-third of the AO for part-time coverage.
+Careful planning is required for aircrew changes and refueling operations. Using all
+three may be appropriate when the threat is high and meteorological conditions are
+favorable for BW employment. This option provides the fastest, most complete, and most
+in-depth coverage of the NAI. It is also the most resource-intensive option.
+
+             (2) Operate Two Systems Simultaneously. Each system is responsible for
+one-half of the surveillance area. The third system is used to provide surveillance during
+refueling and/or rearming operations.
+
+             (3) Operate One System.
+
+                    (a) The system conducts surveillance of the entire AO. It is the least
+resource intensive and provides a maximum reserve capability; however, it provides the
+least amount of coverage and limits early-warning potential.
+
+                    (b) It is possible to scan the AO with one LRBSDS; however, the
+helicopter must go off station to refuel and to change aircrews during long missions. This
+option is the least resource intensive, provides the least amount of coverage per unit of
+time, and limits early-warning potential. The use of a single system could be appropriate
+for use when the threat is low or for background missions. This option could also be used
+in case LRBSDS teams are split-based—two at one location and a third at another
+staging site.
+
+      f. Planners may use any of the options during a given surveillance period. The
+LRBSDS is employed to detect and report suspected BW aerosols at distances of 5 to
+
+                                                              H-7
+
+
+---
+
+30 kilometers under various atmospheric conditions. The LRBSDS requires a clear line
+of sight (LOS) between the system and the aerosol. It cannot reliably detect point source
+aerosols but can detect broken, long line source releases. The system is operated above
+friendly territory and out of the range of effective threat fire. A typical mission is
+illustrated in Figure H-2.
+
+Course leg
+
+                        Altitude AGL
+
+            Scan range
+
+            (30 km)     10 km
+
+                                                                                 Aerosol cloud
+
+                                      Figure H-2. Sample LRBSDS Mission
+
+NOTE: Figure H-2 shows a mission being flown on a course leg at a given
+altitude, 10 kilometers behind the FLOT, and scanning at a range of
+30 kilometers (20 kilometers beyond the FLOT). However, the distance from
+the FLOT could range from 5 to 20 kilometers, depending on the threat.
+
+7. Long-Range Biological Standoff Detection System Mission Profiles
+
+      The LRBSDS has two mission profiles—scheduled and preplanned. These missions
+are designed as follows.
+
+      a. Scheduled. This mission is normally conducted to obtain aerosol background
+information on the AO or to conduct other administrative missions. Scheduled missions
+are routinely conducted to acquire atmospheric environmental data in the AOs. The
+missions are planned and conducted as preplanned missions. The mission will appear in
+the air tasking order as biological-surveillance missions.
+
+      b. Preplanned.
+             (1) This mission is normally conducted when the threat of a BW attack is
+
+high, based upon threat information and meteorological conditions. During this type of
+mission, the LRBSDS team transports the system using assets organic to the aerial
+platform. Upon arrival, the system is installed. The aviation brigade conducts all
+airspace coordination and route planning. Preflight checks are completed. The mission is
+executed at the prescribed time. Preplanned requests require at least 24 hours advance
+notice for aircraft scheduling.
+
+             (2) Preplanned missions are designed to search for and detect biological
+attacks. These missions are normally performed during periods of high risk based on
+intelligence or meteorological forecasts. This mission category requires advance planning
+to coordinate aircraft availability, routes, and duration.
+
+H-8
+
+
+---
+
+8. Mission Planning
+
+      A staff planning checklist is outlined in Table H-2. The checklist provides guidance
+for staff planners when planning LBRDSDS missions.
+
+                      Table H-2. Example of an LRBSDS Staff Planning Checklist
+
+                                                           Requirements
+  Obtain the commander’s guidance.
+  Know the friendly situation.
+  Know the threat situation.
+  Assist in the preparation of IPB.
+  Develop the concept for LRBSDS employment.
+  Provide input for the R&S plan.
+  Consider command and support relationships.
+  Obtain approved NAIs for LRBSDS coverage.
+  Develop/update the time line for LRBSDS mission execution.
+  Coordinate with the aviation officer, biological-detection company, and aviation brigade to obtain,
+  recommend, provide, conduct, and coordinate the following:
+
+      • Weather data for the AOI.
+      • Obscurant situation for the AOI.
+      • Map reconnaissance.
+      • Flight corridors (primary/alternate).
+      • Ingress/egress routes.
+      • Flight tactics during LRBSDS scanning.
+      • Airspace control measures.
+      • Communications frequencies.
+      • Required reports/formats.
+      • NAI priorities.
+      • Alternate NAIs.
+      • Contingency plans.
+      • Input for air-tasking order.
+      • Downwind drift war-gaming of biological agents.
+      • LRBSDS capabilities/laser safety considerations.
+      • The required time on station.
+      • Provisions for SEAD.
+      • Risk management.
+      • Lost communications procedures.
+      • The status of LRBSDS teams/equipment.
+      • Threat updates.
+  Obtain updates on the LRBSDS CLS status.
+  Review the AAR from previous LRBSDS mission.
+  Obtain update on evacuation procedures for LRBSDS topics/reports.
+  Anticipate and plan future missions.
+
+      a. The JTF and/or corps NBC officer, assisted by the biological-detection company
+operations officer, has the primary responsibility for LRBSDS mission planning. The
+corps OPORD will provide guidance to the aviation brigade and the biological-detection
+company. Subsequent FRAGORDs will include—
+
+             z The LRBSDS mission to be performed (the area to be scanned and mission
+                    times).
+
+                                                                                                                                    H-9
+
+
+---
+
+             z biological-detection sectors to provide sufficient coverage of the target
+                    area to be scanned.
+
+      b. The aviation brigade NBC officer analyzes the LRBSDS mission. He
+coordinates with the CP or the corps NBC control center of the biological-detection
+company to determine the following:
+
+             z The BW threat assessment, type of agent, threat targets, and threat
+                    intent.
+
+             z The ground and air defense area threat situation.
+
+             z Current BW indicators and any estimates on potential windows (times)
+                    when biological weapons may be employed.
+
+             z Meteorological conditions for the duration of the mission (see
+                    paragraph 5).
+
+             z JTF and/or corps commander’s mission, intent, and CONOPS.
+
+             z NAIs.
+
+             z Aircraft decontamination.
+
+      c. The aviation brigade operations staff officer (S-3) performs the following
+functions:
+
+             z Determines aircraft support requirements.
+
+             z Determines and plots the designated biological-detection sectors and
+                    course legs.
+
+             z Selects the routes to and from the search area.
+
+             z Recommends the flight profile to be employed during biological-detection
+                    operations.
+
+             z Determines refuel points and emergency landing zones (LZs).
+
+             z Plans handoff procedures (times and locations) for primary and backup
+                    aircraft.
+
+             z Plans for SEAD.
+
+             z Conducts airspace coordination.
+
+      d. Flight planning by the aviation brigade includes the selection of the flight
+profile to be employed. The profile includes designating the routes to and from the
+biological-surveillance target area, identifying the use of the designated course legs in
+the biological-surveillance sectors, and prescribing the helicopter altitude and speed. The
+altitude above ground level (AGL) and standoff distance from the FLOT will vary in the
+flight profile. For example, the altitude can range from 200 to 5,000 feet AGL, and the
+standoff distances from the FLOT can be 5 to 20 kilometers. Two general flight profile
+options are shown in Figure H-3.
+
+      e. Flight Profile. There are two basic flight profiles. These basic profiles may be
+adjusted to fit the needs of the mission.
+
+             (1) A straight-and-parallel (racetrack) flight profile involves the helicopter
+flying at a predetermined altitude and speed on a flight track downwind and parallel
+
+H-10
+
+
+---
+
+Straight and parallel  Variable altitude and airspeed
+                       (pop-up technique)
+
+                       Terrain
+
+                       Figure H-3. Flight Profile Examples for LRBSDS Missions
+
+with the anticipated release line. For example, a general rule of thumb is that the
+LRBSDS should maintain a LOS with an aerosol cloud every 15 to 20 kilometers during
+the flight leg. This equals about 1 minute of scan time for every 5 minutes of flight time
+at altitudes of 4,000 to 5,000 feet AGL. This flight profile could be used when hostilities
+have not commenced or the air defense artillery (ADA) threat is low. This technique
+provides the best probability of detection because more time is spent tracking.
+
+             (2) A variation of this straight-and-parallel technique involves an effort to
+retrace the cloud. For example, after first contacting the cloud, contact with the cloud is
+lost. Subsequently, the aircraft turns around until it can reacquire the cloud. The goal is
+to map the ends of the cloud. The use of this technique depends on different factors, but
+especially on having the airspace authorization to spend additional time within a specific
+flight corridor.
+
+             (3) A variable altitude and airspeed flight profile is used in moderate to high
+ADA threat environments. It allows the helicopter to fly alternately between masked and
+LOS altitudes (pop-up technique). For example, the flight and LRBSDS crew picks
+various points along a course leg. At those points, the helicopter flies at an altitude
+where operators could scan the NAI. The helicopter flies at that altitude for a given time
+period, then moves to a lower masked altitude until the next LOS requirement. This
+profile has a lower probability of detection because less time is spent scanning for aerosol
+clouds. The variable altitude and airspeed flight profile may be used when—
+
+                    z The detection and classification technique is employed. (The limited
+                           time spent scanning the cloud will not provide enough information to
+                           track or map the cloud.)
+
+                    z The mission is to detect long line source (100 kilometers or more),
+                           point source, or short line source releases (less than 30 kilometers
+                           long) where the variable flight profile will be of limited or no value.
+
+                                                                                                                                  H-11
+
+
+---
+
+                    z The ADA threat is moderate to high, SEAD fires are unavailable,
+                           and nap-of-the-earth (NOE) flying will not allow the LRBSDS to
+                           detect man-made aerosols.
+
+      f. LRBSDS planning will limit the time that the threat ADA can target the
+helicopter; however, the LRBSDS operator must see five consecutive scans of an aerosol
+cloud to make a classification. Planners use this information as a basis for calculating
+the time required for LRBSDS scanning. Because the time required for five scans is
+different for various altitudes, the time is calculated for three different altitude ranges.
+When using a “sawtooth” flight profile, the following represents the minimum time the
+helicopter must remain at an altitude to give the operator a sufficient LOS to the NAI
+and allow scanning time to obtain sufficient returns:
+
+             z 1 minute for altitudes of 4,000 to 5,000 feet AGL.
+
+             z 45 seconds for altitudes between 2,000 to 4,000 feet AGL.
+
+             z 30 seconds for altitudes of 2,000 feet AGL or less.
+
+      g. The LRBSDS can maintain a specific amount of time on station—generally
+about 2 hours for most environments. Due to the limited time available for an LRBSDS
+to conduct scanning, additional systems may be required during detection and mapping
+missions. Conversely, limited on-station time and system availability may cause the use
+of the detection and classification missions. For example, if detection and mapping are
+required and the aerosol is greater than 25 kilometers in length, the majority of the
+LRBSDS on-station time would be spent mapping one cloud.
+
+      h. Planners must be aware of factors that can impact the LRBSDS probability of
+detection. For example, atmospheric visibility, the cloud particle backscatter, and the
+range to the target cloud will influence LRBSDS detection ability.
+
+             (1) Atmospheric visibility has the strongest effect on LRBSDS ability to
+detect aerosol clouds. Visibility is essentially a measure of how dirty or clean the air is.
+The more particles there are in the air, the more they affect how well the energy of the
+laser transmits through the air and how well the signals, reflecting from downrange
+targets (aerosol clouds), reach the LRBSDS. Good visibility means that there is less
+pollen, dust, and water (in the form of fog or haze) floating in the air. These particles
+greatly affect the minimal density of an aerosol cloud that the LRBSDS can detect and
+the range at which the LRBSDS can detect it.
+
+             (2) Particle backscatter is a measure (in terms of a percentage) of how much
+of the energy of the laser a specific particle reflects back to the receiving telescope. A
+higher particle backscatter means that a specific particle reflects more of the energy of
+the laser back to the receiving telescope than a particle with lower particle backscatter.
+If the LRBSDS is used to look at two clouds with the same density (particles per liter)
+and different particle backscatter, the cloud with higher particle backscatter will be more
+visible. In essence, the cloud with higher particle backscatter will be brighter to the
+LRBSDS and will be detectable at greater distances.
+
+             (3) The distance to the cloud determines how much of the energy of the laser
+intersects the particles of the cloud. As the distance between the laser and the cloud
+increases, the amount of the energy of the laser that reaches the cloud decreases.
+Applying more energy to the cloud by decreasing the distance means that it will appear
+
+H-12
+
+
+---
+
+brighter to the LRBSDS. Simply put, the closer the LRBSDS is to the target NAI, the
+better chance it has of detecting man-made aerosol clouds.
+
+      i. Tables H-3 and H-4 support LRBSDS planning. They provide estimates on how
+far away an LRBSDS can conduct detecting and mapping, detecting and tracking, or
+detecting and classifying operations.
+
+                      Table H-3. Helicopter NOE Altitude (150 to 1,000 Feet AGL)
+
+LRBSDS                                    Visibility (km)
+
+Range (km)            5              10                                  23              80
+
+5           Detecting and  Detecting and  Detecting and                      Detecting and
+                                                                             mapping
+            mapping        mapping        mapping
+                                                                             Detecting and
+10          Detecting and  Detecting and  Detecting and                      mapping
+
+            tracking       mapping        mapping                            Detecting and
+                                                                             mapping
+15          Detecting and  Detecting and  Detecting and
+                                                                             Detecting and
+            classifying    mapping        mapping                            mapping
+
+20          Detecting and  Detecting and  Detecting and                      Detecting and
+                                                                             mapping
+            classifying    tracking       mapping
+                                                                             Detecting and
+25                                        Detecting and                      mapping
+
+                                          tracking                           Detecting and
+                                                                             mapping
+30                                        Detecting and
+                                                                             Detecting and
+                                          tracking                           mapping
+
+35                                        Detecting and
+
+                                          classifying
+
+40                                        Detecting and
+
+                                          classifying
+
+Detecting and mapping—detect and map for 30 to 45 minutes after release
+Detecting and tracking—detect and track for 15 minutes after release
+Detecting and Classifying—detect up to 5 minutes after release
+
+             (1) Tables H-3 and H-4 contain data that is based on the LRBSDS scanning a
+1-kilogram-per-kilometer initial release of a dry form of Bacillus globigii. The tables
+represent a worst-case threat using dry spores. Spores have a particle backscatter that is
+lower than other agents (such as vegetative bacteria, toxins, and viruses).
+
+                     Table H-4. Helicopter NOE Altitude (1,001 to 5,000 Feet AGL )
+
+  LRBSDS                                  Visibility (km)
+Range (km)
+                        5            15                                  23              80
+       5    Detecting and                                                    Detecting and
+            mapping        Detecting and  Detecting and                      mapping
+      10    Detecting and  mapping        mapping                            Detecting and
+            mapping                                                          mapping
+      15                   Detecting and  Detecting and
+            Detecting and  mapping        mapping                            Detecting and
+      20    classifying                                                      mapping
+            Detecting and  Detecting and  Detecting and                      Detecting and
+            classifying    mapping        mapping                            mapping
+
+                           Detecting and  Detecting and
+                           tracking       mapping
+
+                                                                                             H-13
+
+
+---
+
+          Table H-4. Helicopter NOE Altitude (1,001 to 5,000 Feet AGL (Continued))
+
+LRBSDS                        Visibility (km)
+
+Range (km)  5            15                                              23              80
+
+      25       Detecting and  Detecting and                                  Detecting and
+                                                                             mapping
+               tracking       tracking
+                                                                             Detecting and
+      30       Detecting and  Detecting and                                  mapping
+
+               classifying    tracking                                       Detecting and
+                                                                             mapping
+      35       Detecting and  Detecting and
+                                                                             Detecting and
+               classifying    tracking                                       mapping
+
+      40       Detecting and  Detecting and
+
+               classifying    tracking
+
+Detecting and mapping—detect and map for 30 to 45 minutes after release
+Detecting and tracking—detect and track for 15 minutes after release
+Detecting and classifying—detect up to 5 minutes after release
+
+             (2) The particle backscatter is higher for other types of agents—meaning that
+another threat cloud with the same number of particles as the spore cloud will appear
+brighter to the LRBSDS. While this implies that the helicopter can fly the LRBSDS
+farther from the NAI and still detect a threat cloud, the situation is not so simple
+because of the difficulty in anticipating the selected agents and dissemination methods of
+the threat.
+
+             (3) Tables H-3 (on page H-13) and H-4 also provide guidance on LRBSDS
+scanning ranges. The other factors in the tables address the altitude and visibility of the
+helicopter. Use Table H-3 (on page H-13) if the flight altitude of the helicopter is 1,000
+feet AGL or less, and use Table H-4 if the flight altitude is 1,001 to 5,000 feet AGL. For
+example, if a helicopter is flying at an altitude of 500 feet and visibility is at 80
+kilometers, planners estimate that detection and mapping can be conducted at a 5- to
+40-kilometers scanning range with the LRBSDS.
+
+      j. BW threats can be disseminated in either wet or dry forms. The LRBSDS will
+see a wet dissemination (with the same concentration, at the same distance, and in the
+same visibility) twice as bright as a dry dissemination. Wet dissemination, however, is
+considerably less efficient than dry dissemination. Wet agents do not travel as far as a
+dry dissemination and do not have as many agent containing particles that can infect
+personnel on the ground.
+
+      k. To optimize LRBSDS performance when selecting a flight profile, planners
+consider the altitude, search angle, and airspeed. LRBSDS biodetection operations
+should be conducted at an altitude of 150 to 5,000 feet AGL at 75 to 100 knots. The type
+of flight profile selected will affect the settings of the system. The pilot must provide
+flight profile information to the LRBSDS operators before commencing altitude changes.
+
+             (1) The distance from the helicopter to the NAI is also determined during
+preflight planning. Specifically, the LRBSDS is limited to a 12-kilometers scan depth
+when flying at altitudes of 2,000 feet and below. At lower altitudes, the LRBSDS can only
+fully cover a 12-kilometer portion of the NAI. Planners must consider this when
+assigning the air corridor that the helicopter will fly. If the depth of the NAI cannot be
+reduced, flying at an altitude above 2,000 feet AGL could be considered. At an altitude
+over 2,000 feet AGL, the LRBSDS operator can easily set the system to scan the full
+depth of the NAI (from 10 to 30 kilometers).
+
+H-14
+
+
+---
+
+             (2) The selection of the flight profile is METT-TC dependent. For example, if
+the atmospheric visibility is below 5 kilometers, the LRBSDS is not effective; it becomes
+more effective as the visibility increases. Flight profiles that take advantage of available
+terrain, especially when using a variable-altitude profile, are used. METT-TC
+considerations that can impact flight profile selection include the following.
+
+                    z Mission. The number of NAIs requiring LRBSDS support, the
+                           command and support relationships, reporting requirements, and
+                           the NAI size.
+
+                    z Enemy. Threat ADA capability, BW threat agent, and the BW
+                           intent and capability of the threat.
+
+                    z Terrain. Terrain characteristics, the available LOS, the
+                           atmospheric visibility, and planning for fallback flight corridors to
+                           help preclude flying through a threat cloud.
+
+                    z Troops. Number of LRBSDS available, CLS capability, BIDS array
+                           availability and location, and the location of friendly forces.
+
+                    z Time available. Estimated time required for the LRBSDS to be on
+                           station, the lead time required to obtain airspace clearance, the time
+                           to analyze LRBSDS detection reports, and the mission time frames.
+
+                    z Civilian considerations. Civilian and HN assets within NAIs.
+
+             (3) To support the planning process, the LRBSDS NCOIC may use a mission
+planning checklist (see Table H-5).
+
+                              Table H-5. LRBSDS Mission Planning Checklist
+
+     Requirement                                                   Actions Required
+Plan for future        Perform maintenance and PMCS on equipment.
+missions               Conduct operator training.
+                       Report any equipment/personnel problems.
+Obtain the mission     Obtain the necessary supplies.
+Analyze the mission    Maintain the current intelligence/operations status.
+Issue a WARNORD        Receive a WARNORD, OPORD, or FRAGORD.
+Perform coordination   Analyze the mission using METT-TC factors.
+                       Determine which LRBSDS team is to perform the mission.
+Make a tentative plan  Issue a WARNORD to the team and clarify questions.
+                       Coordinate with the aviation brigade chemical officer, the LRBSDS team, and the
+Conduct map            supporting helicopter unit.
+reconnaissance         Determine METT-TC information, logistics support, ground movement (if required),
+Complete the plan      rehearsals, and communications.
+                       Obtain maintenance support (as required).
+                       Plan ground movement (if required).
+                       Analyze biological-surveillance requirements (sectors or legs).
+                       Plan the necessary support.
+                       Select the route to and from the airfield (if necessary to travel).
+
+                       Refer to FM 101-5, Appendix H.
+
+                       H-15
+
+
+---
+
+9. Long-Range Biological Standoff Detection System Mission Phases
+
+      An LRBSDS mission is divided into three phases: preoperations, biological-
+surveillance operations, and postoperations. Each phase is discussed below.
+
+      a. Preoperations Phase.
+
+             (1) Mission factors. To ensure success, LRBSDS capabilities are matched to
+mission factors, including operational coverage needs, meteorological conditions, threat,
+and aircraft availability. The biological-detection company operations officer and
+detachment NCOIC have the primary responsibility for mission planning and
+reconnaissance. Initial planning will normally occur at the corps NBC center or at the
+biological-detection company. The biological-detection company operations officer and/or
+detachment NCOIC will coordinate with the corps or controlling HQ staff to obtain—
+
+                    z The commander’s intent and CONOPS.
+
+                    z The aerial platform, number, usage windows, and location.
+
+                    z Meteorological conditions (for example, wind information at various
+                           heights for the duration of the operation, stability categories, sunrise
+                           and sunset information, and other pertinent factors; such as rain and
+                           snow).
+
+                    z The type of threat expected.
+
+                    z The duration of the mission.
+
+                    z CONOPS for other BW detectors.
+
+             (2) Reconnaissance. Reconnaissance of the AO is required. If possible, the
+leader coordinates for an aerial reconnaissance; however, if this is not possible, the
+leader conducts a map reconnaissance to determine—
+
+                    z Surveillance sectors (it is best to select a primary and secondary to
+                           compensate for major changes in wind directions).
+
+                    z Primary and alternate traveling routes and times.
+
+                    z Surveillance leg distance and duration.
+
+             (3) Flight profiles. Detailed planning determines what flight profile will be
+employed during surveillance operations. The flight profile is METT-TC dependent.
+When selecting a flight profile, the decision maker will consider three major factors: the
+level of threat to the aircraft, location and size of the surveillance area, and LOS.
+Generally, there are the following two general flight profile options.
+
+                    (a) Straight and parallel. The platform flies at a predetermined altitude
+and speed, scanning perpendicular to the wind. The key is to ensure LOS to the target.
+This flight profile could be used when hostilities have not commenced or the antiair
+threat is very low.
+
+                    (b) Variable altitude and airspeed. The platform flies alternately
+between a masked and LOS altitude. For example, the platform would rise to an LOS
+altitude, conduct surveillance for a certain amount of time, and then descend to a
+masked altitude and fly until the next LOS rise.
+
+H-16
+
+
+---
+
+             (4) Other planning factors. Additional detailed planning requirements for the
+LRBSDS detachment include coordinating the passage of lines, communication
+requirements, logistical support from the biological detector and supporting unit,
+locations of the supporting airfields and FARPs, and decontamination support enroute to
+the supporting unit.
+
+                    (a) Following the initial planning, the LRBSDS will normally be located
+with the HQ element of the biological-detection company, host unit, or the supporting
+aviation brigade. Upon notification of a mission, the detachment or biological-detection
+company operations officer conducts initial coordination with the biological-detection
+company commander, JTF, corps NBC officer, and/or the corps NBC control center.
+Initial information requirements include determining—
+
+                           z The BW threat window and the overall BW threat, type,
+                                  direction, and intent.
+
+                           z The ground, antiair, and threat situation.
+
+                           z Current BW indicators.
+
+                           z Meteorological conditions for the duration of the mission.
+
+                           z The corps or JTF commander’s mission, intent, and CONOPS.
+
+                           z Current information.
+
+                           z Key areas of concern.
+
+                    (b) The detachment NCOIC provides the warning order (WARNORD) to
+the teams and directs initiation of preoperational checks. The team leaders begin
+preoperational actions, and conduct PMCS of associated support items of equipment and
+detectors.
+
+                    (c) The detachment conducts movement to effect a linkup with the
+supporting operational platform, if required. On arrival, systems are installed onto the
+aerial platforms. The detachment teams conduct preoperational checks on the system
+and PMCS of associated support items of equipment as appropriate. The LRBSDS team
+and the aerial platform crew conduct coordination with each other. The LRBSDS team
+briefs the aerial platform crew on the following:
+
+                           z An LRBSDS orientation presentation—specifically LRBSDS
+                                  safety features and eye safety parameters.
+
+                           z Reporting procedures and formats are provided to the pilot and
+                                  crew.
+
+                           z Instructions on operating the laser are reviewed with the pilot.
+
+                           z The flight path and type are given to the team by the pilot (for
+                                  example, NOE, height above ground, speed, and flight
+                                  duration).
+
+             (5) Final mission preparation.
+
+                    (a) During the final mission preparation, the LRBSDS detachment
+follows the checklist information found in Table H-6 (page H-18). The LRBSDS NCOIC
+(or the aviation brigade chemical officer and/or NCO) provides the WARNORD or
+movement order to the team and directs the initiation of preoperational checks.
+
+                                                                                                                                  H-17
+
+
+---
+
+Following the preparation of the WARNORD, many key factors are verified or
+researched. These factors could include planning estimates for the potential length and
+location of course legs that must be flown. War-gaming provides estimated downwind
+distances for BW aerosols. This premission planning is conducted in coordination with
+the intelligence section (intelligence staff officer [S-2 and/or G-2]) and is used to help
+determine the locations and lengths of the course legs for biological-surveillance
+missions. Other input for this type of planning includes the threat BW capabilities,
+weather data, NAI locations, and the length and location of the line source. During the
+final preplanning, aviation personnel and LRBSDS teams consider and confirm what
+tactics will be used for the missions. Map reconnaissance identifies any obstacles that
+could block the scanning of the laser along a course leg.
+
+                            Table H-6. LRBSDS Mission Preparation Checklist
+
+        Preparation Required                                      LRBSDS Team Actions
+Issue WARNORD/movement order        Prepared by the LRBSDS NCOIC or aviation brigade chemical officer.
+Move to link up with helicopter     Load equipment.
+(if required)                       Conduct road march.
+Conduct preflight equipment checks  Report movement per SOP.
+                                    Conduct PMCS of equipment.
+Conduct rehearsals                  Perform initial adjustments, checks, and self-test of LRBSDS.
+Issue team OPORD/FRAGO              Conduct inspections.
+Install/check equipment             Conduct rehearsals.
+                                    Prepared by detachment NCOIC or aviation brigade chemical officer.
+Coordinate with aircrew             Install LRBSDS on helicopter.
+                                    Conform to safety procedures.
+Report status                       Perform preflight operational checks on LRBSDS.
+                                    Perform troubleshooting on LRBSDS.
+                                    Perform PMCS on generator.
+                                    Use generator to warm laser.
+                                    Conduct air mission briefing.
+                                    Coordinate flight information.
+                                    Conduct laser safety briefing.
+                                    Report per SOP.
+
+                    (b) The LRBSDS NCOIC or aviation brigade NBC officer and/or NCO
+briefs the OPORD and/or FRAGORD of the LRBSDS team. The team OPORD and/or
+FRAGORD is oral or written. It outlines important elements that include routes to and
+from the biological-detection mission (normally two entry and exit routes will be
+planned), flight corridors and/or course legs for LRBSDS scanning that include alternate
+course legs, the distance of the NAI from the FLOT, and the depth of the NAI.
+Coordinating instructions will also indicate that course legs crossing key boundaries
+(corps or ARFOR and/or Marine Corps forces [MARFOR] boundaries) have been
+coordinated by the appropriate aviation airspace activities (the joint airspace control
+center [JACC]).
+
+H-18
+
+
+---
+
+                    (c) If the LRBSDS team is not collocated at the supporting airfield, the
+team or the supporting helicopter moves to the designated staging area. Movement is
+reported according to the OPORD or SOP. On arrival, the team installs the LRBSDS
+equipment on the helicopter, conducts preflight operational checks on the system, and
+conducts PMCS on the equipment according to TM 3-6665-351-10.
+
+                    (d) The LRBSDS team and helicopter crew conduct air mission briefings
+(see Figure H-4) and coordination. The team briefs the helicopter crew on the LRBSDS
+system (specifically LRBSDS safety features and eye safety), reporting requirements
+and/or procedures, pilot clearance to operate the laser, and details of the biological-
+surveillance mission. Preflight instructions will indicate that during full- or part-time
+coverage, replacement LRBSDS units will receive an update on the mission situation
+from the supporting OPCEN (biological-detection company CP or aviation brigade
+OPCEN). Finally, the team receives a briefing from the pilot on safety, emergency
+operations, and flight information (such as the flight path, the height above the ground,
+the airspeed, and the flight duration).
+
+   Time.
+   Introduce team members.
+   General information.
+   Ground situation (S2/intelligence).
+   Weather.
+   Call signs.
+   Frequencies and communications net (all participants must monitor a common frequency).
+   Appropriate take-off times.
+   Flight route, altitude, time en route, airspace control measures, and egress routes.
+   Flight corridors (primary and backup).
+   Authentication procedures.
+   Abort codes.
+   Map datum.
+   Mission commander to LRBSDS team (airborne briefing sequence).
+   NAI description.
+   NAI location and elevation.
+   Terrain obstacles.
+   Required reports/SITREPs.
+   Communication nets and agencies.
+   Airspace coordination measures.
+   Restrictions.
+   Friendly troop locations.
+   Threat ADA.
+
+                               Figure H-4. Sample Air Mission Briefing Guide
+
+                                                                                                                                  H-19
+
+
+---
+
+      b. Biological-Surveillance Operations Phase.
+
+             (1) LRBSDS detection process. The steps of the LRBSDS process are
+detection, reporting, and postoperations analysis. The LRBSDS detection process is
+summarized in Table H-7.
+
+                             Table H-7. LRBSDS Biological-Detection Process
+
+           Tasks                  Products                       Required Components
+Detect                   Nonspecific alert  LRBSDS
+Report                   Detection report   Helicopter radio
+Postoperations analysis  AAR                Detection report, mission logs, and LRBSDS 8-mm
+
+                    (a) Detection. LRBSDS detection is nonspecific. The system relies on
+operator experience and judgment to discriminate between natural and man-made
+aerosols. An experienced operator can reasonably determine if the suspected aerosol is
+man-made, but he cannot determine if it is a BW agent. When a biological agent is
+released, the LRBSDS will detect the aerosol as long as its concentration is sufficiently
+above the background for the current meteorological conditions. This detection window
+lasts minutes to hours, depending on meteorology, the specific agent used, and the initial
+amount and method of agent dissemination.
+
+                    (b) Reporting. The LRBSDS team uses the helicopter radio to report the
+detection of a possible biological aerosol by submitting a detection report. Planning
+identified the following critical elements (as a minimum) to support reporting
+requirements: call signs, frequencies, report formats, and content to ensure that the
+ground station and flight crew understand required reports between the LRBSDS and
+flight crews or any in-flight coordination requirements between members of the LRBSDS
+crew.
+
+NOTE: The helicopter can transmit reports via the following communication
+capabilities: frequency modulation (FM) secure with KY-58, very high
+frequency (VHF)-FM (nonsecure), or ultrahigh frequency (UHF) (nonsecure)
+with frequency hopping.
+
+                    (c) Postoperations analysis. Following an LRBSDS mission, the crew
+consolidates key information gathered during the mission. Specifically, the crew records
+will include detection reports (if any), mission logs, and 8-millimeter data tapes from the
+LRBSDS. This information is safeguarded and, upon request, is forwarded to the
+biological-detection company CP. Chain-of-custody documentation will accompany the
+LRBSDS data tapes and documents if the information is required by the biological-
+detection company CP.
+
+             (2) Biological-surveillance execution.
+
+                    (a) The LRBSDS team uses the information in Table H-8 as a sample
+checklist for executing a biological-surveillance mission. At the beginning of a course leg
+and on the pilot’s order, the operator puts the laser into operation and scans the target
+area. The laser is turned off at the end of a course leg before the helicopter executes its
+turn. The laser is turned back on when the pilot notifies the operator that the helicopter
+is at the beginning of the next leg. The operator begins tracking techniques on detection
+of a suspicious aerosol. The assistant operator records information on the mission data
+sheet and transmits incident reports. The laser operator ensures that the LRBSDS scan
+
+H-20
+
+
+---
+
+remains on the NAI and that ongoing communications with the flight crew are
+maintained to ensure that the scan is adjusted (as required) to remain within the NAI.
+
+      Table H-8. LRBSDS Biological-Surveillance Mission Execution Checklist (Sample)
+
+             Actions Required                                 LRBSDS Team Actions
+Prepare to conduct a biological-
+surveillance mission                  Check equipment.
+
+Conduct the biological-surveillance   Set flight parameters.
+mission
+                                      Conduct equipment function tests.
+Provide reports                       Operate the LRBSDS.
+Complete the biological-surveillance
+mission                               Scan along the course legs in the designated area.
+
+                                      Analyze the display of any aerosol cloud detected.
+
+                                      Record aerosol cloud information and flight data.
+                                      Prepare detection report.
+                                      Download data onto data tapes, if required.
+
+                    (b) The operator determines the length of the aerosol cloud. If multiple
+LRBSDS are used, each detector scans its own AO for the left and right limits of the
+aerosol. If an aerosol is discovered on a course leg and then lost, the team requests
+permission to backtrack along the same leg to reacquire the aerosol. If an aerosol is being
+tracked on a leg and it continues beyond the course leg or across the corps boundary, the
+team reports this and requests instructions. The helicopter does not deviate from the
+approved flight plan without authorization or coordination.
+
+                    (c) If directed by the biological-detection company, the operators will
+attempt to determine the length of the aerosol cloud. This is accomplished in two ways.
+
+                           z The pilot hovers the helicopter perpendicular to the cloud and
+                                  the operator manipulates the detector to scan for the ends of the
+                                  cloud.
+
+                           z The helicopter is flown parallel to the cloud until the end of the
+                                  cloud is reached. If multiple detectors are in the air, then each
+                                  detector will scan its own AO for the left and right limits of the
+                                  cloud.
+
+                    (d) During LRBSDS operations, the operator determines the following
+information:
+
+                           z The presence of a suspected biological aerosol using a monitor
+                                  display of changes from the background.
+
+                           z Whether the cloud is natural or man-made, based on aerosol
+                                  characteristics.
+
+                           z The distance (range) of the cloud from the helicopter.
+
+                           z The height, length, and width of the cloud.
+
+                           z The height of the cloud above the ground.
+
+                                                                                          H-21
+
+
+---
+
+                           z The relative aerosol concentration (high, medium, or low),
+                                  which may be estimated from the intensity of the color and
+                                  returned energy signal.
+
+                    (e) During biological-surveillance operations, the assistant operator
+uses a map to plot and track any aerosol clouds that were detected during the mission.
+By plotting both ends of the cloud and estimating the forward edge, cloud movement can
+be estimated. Communications with the flight crew on cloud movement can also decrease
+the chances that the helicopter would inadvertently fly into a BW cloud.
+
+             (3) LRBSDS flight operations. LRBSDS biological-surveillance operations
+require synchronization of flight operations between LRBSDS operators, flight-crew
+personnel, and operations and planning sections. Operational factors that influence
+flight operations include flight profile selection, aerial releases, ground releases,
+elevation differences, altitude and flight profile considerations, optimal data collection
+altitude, detections, laser scanning, in-flight protocols, communications protocols, and
+reporting.
+
+                    (a) Flight profile selection. The profile considers the altitude, the search
+angle, and the airspeed that optimize LRBSDS performance. The LRBSDS can be flown
+from 150 to 5,000 feet AGL. The optimal airspeed is between 100 and 120 knots. If the
+atmospheric visibility is less than 5 kilometers, the system is marginally effective.
+Higher altitude AGLs increase the LRBSDS scanning range and the probability of
+detecting aerially disseminated man-made clouds within designated NAIs. Using
+straight and level profiles rather than variable-flight also increases the probability of
+detecting an aerosol cloud because of increased scanning time.
+
+                    (b) Aerial releases. It is better to fly higher (see Figure H-5) to detect
+aerial releases. The air at lower altitudes has more aerosol particles (dust, pollen, and
+smoke) that reduce the power of the laser before it strikes the suspect cloud. Flying
+higher means that more laser energy hits the suspect cloud, thus giving the operator a
+stronger return signal. Flying at 4,000 to 5,000 feet AGL to scan the NAI provides an
+optimal vantage point for detecting an aerial release.
+
+      Air release    5,000 ft
+              Cloud
+
+      Figure H-5. Optimal Altitude for Air Release
+
+H-22
+
+
+---
+
+                    (c) Ground releases. Ground releases are more difficult to detect
+because the operator has to differentiate the suspect cloud from the ground. Although
+less laser energy hits the cloud, it is better to fly lower to reduce the angle at which the
+laser strikes the cloud (see Figure H-6). This shallower angle improves the operator’s
+chances of differentiating between the cloud and the ground. The optimal altitude for
+detecting a ground release is 1,000 to 2,000 feet AGL.
+
+                 2,000 ft
+
+          Cloud
+
+                              Figure H-6. Optimal Altitude for Ground Release
+
+                    (d) Elevation differences. The LRBSDS operators should note that the
+helicopter flight altitude AGL might be different from the elevation of the NAI. For
+example, the helicopter could fly just above a mountain ridge and be at 300 feet AGL;
+however, the NAI being scanned could be 3,000 to 4,000 feet below the level of the
+helicopter (see Figure H-7). Before a mission, LRBSDS operators conduct a map
+reconnaissance of the NAI and the flight corridor to determine if an altitude and/or
+elevation difference exists. The operators note any changes in the elevation of the NAI
+that would require changes to LRBSDS settings.
+
+                 300 ft AGL
+
+3,300 ft
+
+                                    NAI
+
+                   Figure H-7. Difference in Helicopter Altitude and NAI Elevation
+                    (e) Altitude and flight profile considerations. At altitudes less than
+
+2,000 feet AGL, the LRBSDS is limited to scanning only 12 kilometers deep into the NAI
+(see Figure H-8 [page H-24]). If the NAI is deeper than 12 kilometers, planners may
+consider using two LRBSDS to scan the entire NAI (see Figure H-9 [page H-24]). Other
+
+                                                                                                                                  H-23
+
+
+---
+
+alternatives include scanning the front edge of the NAI using a checkerboard pattern
+(see Figure H-10) or alternately scanning the near and far edges of the NAI. Figure H-11
+shows another technique for a LRBSDS scanning an NAI that is more than 12 kilometers
+deep at an AGL below 2,000 feet. During the flight leg, the LRBSDS initially scans the
+front edge of the NAI and then scans the rear portion of the NAI. To ensure adequate
+coverage, this alternative should only be used when the width of the NAI is less than 60
+kilometers.
+
+                12 km          2,000 ft
+                scanning
+                depth
+
+NAI 15 km deep
+
+Figure H-8. Low-Altitude Flight Profile Considerations
+
+Top view of NAI                       AC #2
+
+                   AC #2 scan
+                   footprint
+
+AC #1 scan                     AC #1  Direction of flight
+footprint
+
+Scan overlap
+
+                            Figure H-9. Two LRBSDSs Scanning an Entire NAI
+                    (f) Optimal data collection altitude. The LRBSDS aircraft operates at
+an altitude that should be an optimal data collection altitude for scanning the entire NAI
+
+H-24
+
+
+---
+
+    Top view of NAI
+12-km-deep scan into NAI
+
+                                                                 Flight path
+                                                                 <2,000 ft AGL
+
+                                                 10-km standoff
+                                                 from NAI
+
+20 km deep NAI
+
+Figure H-10. An LRBSDS Scanning a Checkerboard Pattern Into an NAI
+
+                Next pass
+                scan footprint
+
+Direction of flight
+                            Direction of flight
+                                      First pass scan
+                                         footprint
+
+             Figure H-11. An LRBSDS Scanning the Front and Rear Edges of an NAI
+in one pass. However, the aircraft may be within the threat ADA LOS, creating a need
+for the aircraft to fly a major portion of the surveillance mission at the optimal collection
+altitude, then go to a safer—but less advantageous—altitude for that portion of the
+course leg where the ADA threat exists.
+NOTE: See Figure H-12 (page H-26) for an example that indicates aircraft A
+could be at risk from threat ADA capabilities.
+
+                                                                                                                                  H-25
+
+
+---
+
+                       Altitude
+                                A
+
+                       Enemy
+                       ADA
+                       threat Terrain
+
+      NAI  Max system  x FLOT
+
+           range
+
+                                Figure H-12. Optimal Data Collection Altitude
+
+                           z In Figure H-13 aircraft B is at an altitude allowing single pass
+                                  NAI coverage; however, due to the reduced altitude, the
+                                  LRBSDS operator may experience less data resolution and less
+                                  aerosol discrimination. This qualitative degradation does not
+                                  necessarily prevent the operator from identifying the cloud, but
+                                  it may make the task more difficult depending on system
+                                  alignment, range, moisture and background particulates in the
+                                  air, and BW-agent concentration. Any one of these factors can
+                                  prevent detection or discrimination. The more likely situation,
+                                  however, is the cumulative impact of several factors. The NBC
+                                  staff planner must appreciate these potential impacts and
+                                  recommend altitudes that will permit detection and
+                                  discrimination.
+
+                           z The examples in Figures H-12 and H-13 focus on single pass
+                                  options on a NAI. The third flight profile option (shown in
+                                  Figure H-14) depicts multiple passes on the NAI to obtain full
+                                  target coverage. In this example, aircraft C flies a low-level pass
+                                  at maximum range to scan the back half of the NAI, followed by
+                                  a second pass by aircraft D (flown farther from the FLOT) to
+                                  scan the closer half of the NAI. The staff may recommend this
+                                  option when flying multiple, low-altitude aircraft passes rather
+                                  than higher altitude passes would increase survivability.
+
+                    (g) Detection. The LRBSDS detection capability depends on the
+operator’s skill and ability. As the system receives the returning laser signature, it
+displays the information to the operator as a waveform display (similar to an
+oscilloscope) and a graphical depiction of the scans that approximate the appearance of
+the cloud. The operator interprets the display and determines whether the signal is a
+man-made or naturally occurring aerosol. During the mission, the operator’s attention is
+on the waveform display. The operator looks for five consecutive scans that are at least
+twice as high as the background noise level. After observing five consecutive scans using
+this criterion, the operator will direct the assistant operator to fill out a detection report.
+After using the detection criteria, the operator also monitors the range to the cloud, cloud
+
+H-26
+
+
+---
+
+                    Altitude
+
+     Enemy                                 B
+
+     ADA threat
+
+                    Terrain
+
+                 x        10km
+
+NAI                 FLOT
+
+     Max system
+     range
+
+Figure H-13. Minimum Single-Pass Altitude
+
+     Enemy          Altitude
+     ADA
+     threat           CD
+                     Terrain
+
+                                                                                         x
+                                      NAI Max system FLOT
+
+                                                                  range
+
+                                   Figure H-14. Minimum Multipass Altitude
+
+size and shape, height above the ground, relative intensity in the scan display, and cloud
+travel consistent with the speed and direction of the wind.
+
+                           z If the LRBSDS crew scans the aerosol within 15 to 30 minutes
+                                  of the release, the LRBSDS operators should be capable of
+                                  further classifying a man-made cloud. Smoke clouds, vehicle
+                                  dust, and fog oil have very distinctive shapes and intensities.
+
+                                              H-27
+
+
+---
+
+                           z Other discriminators that the LRBSDS operator evaluates
+                                  include whether there is a rapidly moving cloud edge, a poorly
+                                  defined plume pointing toward the ground, or no distinct cloud
+                                  edges that may be indicative of vehicle dust. A cloud close to the
+                                  ground that gradually builds to a high concentration and then
+                                  gradually dissipates is generally indicative of a large-area
+                                  smoke cloud. Large, stable clouds at ground level with no
+                                  significant buildup are indicative of haze and fog. However, BW
+                                  agents may be embedded within any of these aerosols. Such
+                                  conditions make BW detection more difficult, but an
+                                  experienced operator may be capable of picking out a BW cloud
+                                  if agent concentrations are above sensor thresholds.
+
+                    (h) Laser scanning. During scanning, the following operational feedback
+indicates guidance that should help increase the probability of detection when scanning.
+
+                           z Remain aware of the correct LRBSDS settings (for example,
+                                  scan extents and roll correction). Check for proper settings
+                                  before events (for example, starting a mission leg) instead of
+                                  randomly trying different settings.
+
+                           z Ensure that scanning occurs in the designated NAIs and that
+                                  friendly troop positions are not scanned.
+
+                           z Check that the LRBSDS roll setting value allows the best view
+                                  into the NAI when scanning up slope.
+
+                           z Check for the presence of a terrain obstacle (near-terrain
+                                  blocking) during scanning, if there is no ground return.
+
+                           z Remember that the LRBSDS waveform window may provide
+                                  the first indication of an aerosol cloud.
+
+                           z Use the color compression setting to help detect the extreme
+                                  ends of the aerosol when using the retrace flight technique (for
+                                  example, the aircraft turning around in mid-flight of the leg to
+                                  reacquire a lost cloud).
+
+                           z Ensure that the LRBSDS upper (waveform) and lower (scan)
+                                  windows are monitored continuously. When a cloud signal is
+                                  received, the assistant operator will get a mark (position
+                                  location) immediately from the flight crew or from their GPS.
+
+                           z Ensure that a solid ground return is present in the waveform
+                                  window before estimating cloud height.
+
+                    (i) In-flight protocols. The LRBSDS crew operates as a team with the
+UH-60 flight crew. Examples of the crew interaction and teamwork may involve the
+following situations.
+
+                           z Lost cloud. The LRBSDS operator will request a mark (such as
+                                  a position location) from the flight crew or their GPS
+                                  immediately upon losing contact with the biological cloud. The
+                                  operator will declare cloud contact lost if 2 minutes have
+                                  elapsed since the last positive scan.
+
+H-28
+
+
+---
+
+                           z Enemy ADA avoidance. The LRBSDS operator will turn off
+                                  the laser during evasive aircraft action. He will request a mark
+                                  from the flight crew or from their GPS upon initiation of aircraft
+                                  evasive-action maneuvers. He will also request the time he may
+                                  resume scanning along a course leg and a mark before
+                                  resumption of scanning.
+
+                           z The end of the previous leg and/or start of the next leg.
+                                  Before starting a course leg for LRBSDS scanning, the operator
+                                  requests a 10-second lead time (advance notice) from the flight
+                                  crew before scanning. At the end of the 10-second countdown,
+                                  the pilot provides the operator permission to scan. When
+                                  turning around at the end of a flight leg, the aircraft turns away
+                                  from the FLOT. The LRBSDS operator and flight crew ensure
+                                  that the LRBSDS is prepared to scan in the proper direction. A
+                                  situation report (SITREP) will be provided to the TOC if a
+                                  biological cloud is tracked beyond the end of a course leg.
+
+                           z In-flight communications. The flight crew and LRBSDS
+                                  operators communicate when the UH-60 changes altitude,
+                                  when the LRBSDS is not receiving ground return, when the
+                                  laser is turned on or off, when starting a course leg, on
+                                  completion of a course leg, before activating the laser (about
+                                  10 seconds before), when an upcoming terrain feature may
+                                  cause terrain blocking, when a cloud detection occurs, when
+                                  obtaining marks (position location) as part of the critical
+                                  information exchange (such as cloud location), or when evasive
+                                  action is required.
+
+                    (j) Communications protocols. Communications between the flight
+crew, the LRBSDS team, and the TOC require timely and effective SITREPs and
+detection reports. This section provides suggested message content and formats for
+communications between the various members of the biological-surveillance team.
+
+NOTE: The call signs used for this section are: LRBSDS team = Bloodhound 2;
+ground controller = Eagle 24; biological-detection company officer = E5K.
+
+                           z Departure report. A departure report is used to notify the
+                                  TOC that the aircraft has cleared airfield traffic control.
+                                  Figure H-15 is an example of a departure report transmission.
+
+  Copilot to Assistant Operator: “As soon as we have cleared the airfield traffic control, please send your
+  departure report.”
+
+  Operator: “The system is operational.”
+
+  Assistant Operator: “Eagle 24, this is Bloodhound 2. Departure report, over.”
+
+  Operations Center NCO: “Bloodhound 2, this is Eagle 24. Send, over.”
+
+  Assistant Operator: “Bloodhound 2 has departed airfield Eagle at 2130 local. System green. Relay to E5K.
+  Over.”
+
+  Operations Center NCO: “WILCO. Out.”
+
+                                           Figure H-15. Departure Report
+
+                                                                                                                                  H-29
+
+
+---
+
+                           z Course leg commencement request. A course leg
+                                  commencement request is used to notify the TOC that the
+                                  aircraft is close to reaching a specific course leg. Figure H-16 is
+                                  an example of a course leg commencement request.
+
+  Copilot to Assistant Operator: “We are 5 minutes from ACP 108, the starting point for course leg Zulu. The
+  pilot recommends commencing the LRBSDS mission. Call operations and request permission to execute.”
+  Assistant Operator: “Eagle 24, this is Bloodhound 2. Over.”
+  Operations Center: “Bloodhound 2, this is Eagle 24. Over.”
+  Assistant Operator: “We are preparing to execute LRBSDS mission along course leg Zulu. Over.”
+  Operations Center: “Roger. Out.”
+  Operator to Copilot: “Request permission to initialize the laser from ACLEFT.”
+  Copilot to Operator: “You are cleared to initialize the laser ACLEFT.”
+  Operator: “Initializing ACLEFT.”
+  Assistant Operator: “Laser ACLEFT.”
+  Copilot to Operator: “Commencing east-west run on course leg Zulu. You are clear to begin lasing ACLEFT.”
+ Operator: “Lasing ACLEFT.”
+
+                            Figure H-16. Course Leg Commencement Request
+
+                           z Course leg commencement SITREP. The course leg
+                                  commencement SITREP format provides a notional situation
+                                  that informs the TOC that a new course leg is just beginning.
+                                  Figure H-17 is an example of a course leg commencement
+                                  SITREP transmission.
+
+  Copilot: “Coming up to start of second course leg, course leg Whiskey. Location ACP 55. You are clear to lase
+  ACLEFT!”
+  Operator: “Initializing ACLEFT.”
+  Assistant Operator: “Laser is ACLEFT.”
+  Operator: “Lasing ACLEFT.”
+  Assistant Operator: “Eagle 24, this is Bloodhound 2. SITREP, over.”
+  Operations Center: “Bloodhound 2, this is Eagle 24. Send it, over.”
+  Assistant Operator: “Time 2220 local. Beginning course leg Whiskey at FS 470490. System green. Relay to
+  E5K. Over.”
+  Operations Center: “WILCO. Out.”
+
+                            Figure H-17. Course Leg Commencement SITREP
+
+                           z Initial LRBSDS detection report. The initial LRBSDS
+                                  detection report notifies the TOC of a possible detection.
+                                  Figure H-18 is an example of an initial LRBSDS detection
+                                  report.
+
+                           z Follow-up detection report. The follow-up detection report
+                                  transmission notifies the TOC when a cloud is reacquired.
+                                  Figure H-19 (page H-32) is an example of a follow-up detection
+                                  report transmission.
+
+H-30
+
+
+---
+
+  Operator: “We have a possible detection. Mark.”
+  Assistant Operator: “Time is 2303 local.”
+  Copilot: “Our present position is FS 315 558. Ground heading 200 degrees magnetic. Crab angle 1° right;
+  speed 85 knots, altitude 3,000 feet but are going to drop to 1,000 feet and attempt to detect the cloud from
+  further down the course leg.”
+  Operator: “The cloud appears man-made in a course line configuration. Width is 4 kilometers. Height is 80
+  meters. Range is 35 kilometers. Intensity is high. Seven scans. Continuing to track.”
+  Copilot to Operator: “We are descending to 1,000 feet. You need to shut down the laser until we climb back
+  up.”
+  Operator: “Laser off.”
+  Assistant Operator: “Eagle 24, this is Bloodhound 2. LAZER report, over.”
+  Operations Center: “Bloodhound 2, this is Eagle 24. Send it, over.”
+  Assistant Operator:
+
+    “Line: L1 FS 315 588
+            A1 35 kilometers
+            A2 4 kilometers
+            A3 N/A
+            A4 80 meters
+
+  BREAK.
+     Line: Z 2305 local
+            E1 3,000 feet
+            E2 200 degrees magnetic
+            E3 One degree right
+
+  BREAK.
+     Line: R1 Initial
+            R2 60 minutes
+            R3 N/A
+            R4 Confidence - High
+            R5 High-intensity, seven scans. Continuing to track, over.”
+
+  Operations Center: “Roger. Out.”
+
+                                 Figure H-18. Initial LAZER Detection Report
+
+                           z Cloud loss detection report. The cloud loss detection report
+                                  transmission notifies the TOC that LRBSDS scanning has lost
+                                  contact with the cloud. Figure H-20 (page H-32) is an example of
+                                  a cloud loss detection report transmission.
+
+                    (k) Reporting. The LRBSDS team provides SITREPs according to the
+biological-detection company SOP (such as the location and personnel and supply
+statuses). During mission operations, the LRBSDS crew submits detection reports using
+the information from Table H-9 (page H-33).
+
+                           z Detection and incident reports. The LRBSDS team reports
+                                  the detection of man-made clouds using the helicopter radio on
+
+                                                                                                                                  H-31
+
+
+---
+
+  Copilot: “We have now leveled back off at 3,000 feet. You can turn your laser back on.”
+  Operator: “Laser is on ACLEFT. It appears that I have reacquired the cloud. Range 36 kilometers. Cloud width
+  is 5 kilometers. Cloud is 30 meters above the ground. Detected with three scans.”
+  Copilot: “Our position is FS 330560. All previously reported information is the same.”
+  Assistant Operator: “Eagle 24, this is Bloodhound 2. Follow-up detection report, over.”
+  Operations Center: “Bloodhound 2, this is Eagle 24. Send, over.”
+  Assistant Operator:
+  “Report follows:
+
+        L1 FS 330560
+        A1 36 kilometers
+        A2 5 kilometers
+        A4 30 meters
+
+          Z 2315 local
+        R1 Follow-up
+        R5 3 scans/relay to E5K. Over.”
+  Operations Center: “Roger, WILCO, out.”
+
+                                   Figure H-19. Follow-Up Detection Report
+
+  Operator: “No longer tracking cloud. Mark.”
+  Copilot to Operator: “Our present location is FS 390550 and our ground heading is 300 degrees magnetic.
+  Additionally, we are at ACP 36 at the end of course leg Zulu. You need to turn off the laser.”
+  Operator: “Laser off.”
+  Assistant Operator: “Eagle 24, this is Bloodhound 2. Cloud loss detection report, over.”
+  Operations Center: “Bloodhound 2, this is Eagle 24. Send, over.”
+  Assistant Operator:
+  “Line:
+
+        L1 FS 390500
+         Z 2345 local
+        E2 300 degrees magnetic
+  BREAK.
+  Line:
+        R1 Loss report
+        R5 Relay to E5K. Also, we have completed the second pass on course leg Zulu. Over.”
+  Operations Center: “Roger, WILCO, out.”
+
+                                  Figure H-20. Cloud Loss Detection Report
+
+                                  the appropriate communications net. The detection report may
+                                  be sent to the aviation brigade TOC (or other relay station) for
+                                  relay to the biological-detection company CP; however, the
+                                  preferred approach is to submit detection reports directly to the
+
+H-32
+
+
+---
+
+             Table H-9. Data Items for LRBSDS Detection Report
+
+    Line                    Data Item                               Leg Identification
+L L1         Position of the observer     Start track position, latitude/longitude, or coordinates
+A A1         Helicopter to aerosol range  Distance from helicopter to aerosol, in km
+             Aerosol width                Width of aerosol, in m (cross section)
+         A2  Aerosol height (optional)    Height from ground to underside of aerosol, in m
+         A3  Aerosol height above ground  Altitude (AGL), in ft
+         A4  Detection time
+ZZ           Helicopter altitude          Direction of flight, ground track, and azimuth, in degrees
+E E1         Helicopter heading           Degrees from heading (left or right)
+         E2  Helicopter crab angle        Degrees from heading (left or right)
+         E3  Type of report               Initial, follow-on, or loss of cloud
+R R1         Flight time remaining        Estimated time the helicopter can remain on station
+         R2  Ground track (optional)      Direction on the map that the helicopter is tracking
+         R3  Confidence                   High, medium, or low
+         R4  Remarks                      Other information
+         R5
+
+                   biological-detection company CP. Incident reports are not
+                   required for LRBSDS background missions.
+
+             z Detection report data items. The data items on the detection
+                   report may vary during a mission, depending on the specific
+                   objective assigned to the LRBSDS team. The team will use one
+                   of the following techniques to accomplish the assigned objective:
+
+                    Detection and mapping. Each data item on the
+                          detection report is reported.
+
+                    Detection and tracking. The following critical data
+                          items from Table H-9 are associated with detection and
+                          tracking: L1, A1, Z, E1, E2, E3, R1, R4, and R5.
+
+                    Detection and classification. The following critical data
+                          items from Table H-9 are associated with only detection
+                          and classification: L1, A1, Z, E1, E2, E3, R4, and R5.
+
+             z Detection report remarks item. The remarks column holds
+                   information such as the current ground speed and operator’s
+                   assessment as to the type of man-made cloud (smoke or vehicle
+                   dust). Operators may also generate a follow-on report once they
+                   reacquire the cloud. This report consists of the same type of
+                   information as the initial report. Follow-on reports provide the
+                   ability to further track the cloud and determine the cloud drift.
+                   Operators should also generate a loss-of-cloud report after there
+                   has been no contact with the cloud for more than 2 minutes. The
+                   loss-of-cloud report contains the time of cloud loss and the last
+                   known location.
+
+                                                                H-33
+
+
+---
+
+      c. Postoperations Phase.
+             (1) The LRBSDS team completes the checklist information shown in
+
+Table H-10 after a mission. Since the LRBSDS internal hard drives have limited storage
+capacity, the data from biological-surveillance missions must be downloaded from the
+hard drives to tapes. Team members download the mission information and archive the
+data tapes immediately after concluding the aerial mission. Archiving includes labeling
+each tape with the times and locations of the biological-surveillance missions, matching
+each tape with its corresponding mission documentation, and storing the tapes and
+documents in the LRBSDS area. The team uses the tapes to conduct mission debriefs
+and training. The biological-detection company may determine that some tapes are
+needed for further review or interpretation. In such a situation, the team packages the
+tapes and mission documentation for evacuation using a chain-of-custody form.
+
+             (2) Following the mission, the operator contacts the LRBSDS NCOIC, briefs
+his current status, and receives follow-on orders. The operator receives an update from
+the detachment NCOIC or the aviation brigade chemical officer on the current friendly
+and threat situations. The team shuts down the LRBSDS if it is not immediately going
+on another mission.
+
+             (3) The LRBSDS operator also completes a postmission debriefing with the
+aircrew. Key data points of the mission are verified between the team and the aircrew.
+The mission checklist is archived along with all other mission documentation.
+
+             (4) Upon completion of a mission, the aviation brigade chemical officer will
+determine if the LRBSDS is to be removed (for example, if no other mission is scheduled).
+If removal is required, operators remove the system, conduct PMCS, and return the
+system to the storage site. The NCOIC finalizes return movement plans (if required),
+such as passage of lines and support, and the team conducts movement. The team
+NCOIC conducts planning, crew debriefing and training, equipment maintenance, and
+resupply to prepare for future missions.
+
+             (5) The senior team member receives a brief from the detachment NCOIC on
+the current friendly and threat situation.
+
+             (6) The senior team member finalizes return movement plans, such as
+passage of lines and support.
+
+             (7) The unit conducts movement.
+
+H-34
+
+
+---
+
+Table H-10. LRBSDS Postoperations Checklist
+
+          Actions Required                                      LRBSDS Team Actions
+Perform the download of data    Download data onto data tapes.
+                                Remove and package data tapes (if required).
+Determine the future mission    Initiate DA Form 4137 procedures.
+requirement from LRBSDS         Obtain orders/updates.
+NCOIC                           Determine the requirement for future missions.
+                                Obtain permission to remove the LRBSDS.
+Shut down the LRBSDS            Determine the disposition of data tapes.
+                                Power down all components.
+Conduct the postmission         Lower the laser platform.
+debriefing with the aircrew     Lock the azimuth brakes.
+Remove the LRBSDS from the      Verify mission data points with the aircrew.
+helicopter                      Annotate/verify the mission work sheet entries.
+                                Disconnect the power.
+Perform troubleshooting         Remove attachment fixtures from the helicopter floor.
+Conduct movement (if required)  Use the forklift to remove the LRBSDS from the helicopter.
+                                Conduct PMCS of the equipment.
+Prepare for the next mission    Conduct inspections.
+                                Perform troubleshooting as required.
+                                Load the equipment.
+                                Conduct the road march.
+                                Report the movement per the SOP.
+                                Perform planning, training, maintenance, and resupply.
+
+                                                                                            H-35
+
+
+---
+
+                                         Appendix I
+
+          BIOLOGICAL INTEGRATED DETECTION SYSTEM UNIT
+                        OPERATIONS (M3IA1 AND M31A2)
+
+1. Background
+
+      This appendix provides information on the M31A1 and M31A2 BIDS. This appendix
+also addresses BIDS unit information management and communications architecture.
+
+2. Preplanned Product Improved Biological Integrated Detection System
+
+      a. Preplanned Product Improvement Biological Integrated Detection System
+(M31A1) Functions. The preplanned product improvement (P3I) BIDS is an enhanced
+biological-agent detection system. It performs the basic functions (see Table I-1) of
+monitoring, sampling, detecting, identifying, and reporting to presumptively identify
+that a large-scale biological attack has occurred. Improvements in the P3I BIDS
+individual components, as well as overall system design, provide an operator friendly,
+automated detection suite that has a significantly increased capability.
+
+                               Table I-1. P3I BIDS (M31A1) System Functions
+
+Mission-Essential Tasks                   Products                       Required Components
+Monitor
+                         Nonspecific alert                    UVAPS
+Sample                   Nonspecific alert                    CBMS
+                         Physical samples for analysis        Liquid sampler and/or biological sampler
+
+Detect                   Generic biological indicators        Mini-FCM
+Identify                 Specific presumptive identification  CBMS
+Report                   PIRs/IRs                             Biological detector
+                                                              Handheld assay
+                                                              HF radio, FBCB2, and SINCGARS radio
+                                                              (Platoon HQ—HF/FBCB2 [M31A2 only]/
+                                                              SINCGARS/MSRT)
+
+             (1) Monitor. The P3I BIDS continuously monitors the air for an increase in
+the number of aerosol particles within a certain size range. The product-improved
+system uses two monitoring devices—the ultraviolet aerodynamic particle sizer (UVAPS)
+and the chemical-biological mass spectrometer (CBMS)—to provide an added
+discriminatory capability. The UVAPS can determine whether a biological mass is
+present within the aerosol particles being monitored; the CBMS also supports this
+function and can generically classify the biological material.
+
+             (2) Sample. The liquid sampler and the biological sampler are automatically
+activated immediately following an alert within the P3I BIDS. The P3I BIDS liquid
+
+                                                              I-1
+
+
+---
+
+sampler dispenses preset amounts for further tests that minimize the requirement for
+any pipetting or transferring of liquid from one tube to another.
+
+             (3) Detect. The P3I BIDS detection capability (through the use of the
+miniature flow cytometer [mini-FCM] and the CBMS) determines whether biological
+material (cells, spores, or toxins) is present with greater sensitivity than previous BIDS
+versions. A positive result from either the CBMS or the mini-FCM can lead to further
+testing for identification results.
+
+             (4) Identify. The P3I BIDS uses the biological-detector device to
+presumptively identify biological agents. The biological detector can identify up to eight
+preselected BW agents. The biological detector is a more sensitive instrument and is
+nearly completely automated compared to the nondevelopmental item counterpart
+(which is much more labor intensive to operate).
+
+             (5) Report. The biological-detection teams report to the platoon HQ using the
+AN/GRC-193A high frequency (HF), single-channel ground and airborne radio system
+(SINCGARS) radio, and/or FBCB2 system. The following list provides general reporting
+requirements. These requirements may vary based on the JFC PIR and/or IR and other
+protection and warning criteria. During biological-detection operations, the biological-
+detection team operates on a shift basis. The incoming shift receives a thorough brief (for
+example, materiel and supply status, BW event status, and sample evacuation status)
+from the outgoing shift.
+
+                    (a) biological-detection teams report to the platoon leader when—
+
+                           z A new biological-detection site becomes occupied.
+
+                           z A new biological-detection site becomes operational.
+
+                           z Processing event data during operations at the biological-
+                                  detection site.
+
+                           z Mission-essential components fail.
+
+                           z A biological-detection team change of shift occurs.
+
+                    (b) Biological-detection teams submit personnel status, logistics status,
+and SITREPs as required. These reports help provide the command with the overall
+readiness level of a biological detection team.
+
+                    (c) Platoon leaders report to company operations when—
+
+                           z Any biological-detection team reports a positive detection.
+
+                           z Any biological-detection team reports a positive identification.
+
+                    (d) Platoon leaders submit SITREPs as required. These include weather
+and background data, key friendly information, and sample evacuation requests.
+
+                    (e) It is critical for the biological-detection team to maintain
+communications during biological-detection operations. BIDS incident report
+information is time sensitive. For example, the leading edge of a BW aerosol cloud is
+moving at about 1½ times the average wind speed. As each minute elapses from the time
+of the alert, the suspected BW cloud is moving further downwind. Effective biological-
+detection team reporting keeps unit leaders informed as to the current status of their
+systems. Effective, timely event reporting also facilitates the event tracking process by
+platoon leaders.
+
+I-2
+
+
+---
+
+                    (f) BIDS unit leaders conduct contingency planning to identify alternate
+communications capabilities should the HF or the VHF fail. For example, the platoon HQ
+can use their authorized mobile subscriber equipment (MSE) for forwarding reports.
+
+             (6) Communication. The following communication equipment and
+capabilities allow the P3I BIDS to communicate with the biological-detection platoon,
+company, and supported command; maintain SA; and report findings.
+
+                    (a) High-frequency radio. The AN/GRC-193A HF radio allows long-
+range secure communications between widely dispersed units of the biological-detection
+company. The HF radio is an amplitude modulation (AM) radio that, depending on
+atmospheric conditions, can communicate over extended distances. It is the primary
+means for voice communications between the BIDS company HQ, platoons, and
+individual detection teams. Each BIDS vehicle is equipped with a HF radio.
+
+                    (b) Force XXI Battle Command/Brigade and Below. The FBCB2 system
+provides SA and C2 capabilities to all elements of the BIDS company and facilitates C2
+between the biological-detection company and FBCB2 equipped supported and
+supporting units. For the M31A2 equipped biological-detection company, FBCB2 is the
+primary means for digital communications between the BIDS company HQ, platoons,
+and individual detection teams. Each BIDS is equipped with FBCB2. The FBCB2 system
+is comprised of the following: AN/UyK-128 digital computer set; FBCB2 software;
+position navigation and reporting capability (GPS); interface to a terrestrial
+communication system (such as SINCGARS and/or Enhanced Position Location
+Reporting System [EPLRS] radio); and combat identification capability. Only the
+biological-detection platoon and company HQ for M31A2 units will have FBCB2 with an
+EPLRS capability.
+
+                    (c) Mobile subscriber receiver/transmitter. The mobile subscriber
+receiver/transmitter (MSRT) is at the company and platoon level; the biological-detection
+team does not have a MSRT. A MSRT has a secure digital and facsimile communications
+capability and serves as the primary means of communication at the CP level. It is
+normally used as the alternate operations and intelligence net. A MSRT may also be
+used as the primary means to pass operations and intelligence information directly from
+the biological-detection company CP to the FBCB2-equipped supported HQ chemical
+officer.
+
+      b. P3I (M31A1) Sample Handling and Chain-of-Custody.
+
+             (1) P3I (M3A1) Sample Requirements. The supporting data provided by the
+P3I BIDS will include alert, detection, and identification results. This data is provided on
+data collection forms and as numerical, graphical information (communications interface
+processor [CIP] mission files) stored on computer files. The P3I BIDS team provides—
+
+                    z A liquid biological-agent sample for confirmatory lab analysis.
+
+                    z Supporting information that provides descriptive data for the
+                           sample.
+
+                    z Environmental background samples with their supporting
+                           information.
+
+                                                                                                                                     I-3
+
+
+---
+
+             (2) Logistics requirements. The following items specifically apply to sample
+handling and the chain-of-custody for the P3I BIDS:
+
+                    z Sample transfer case. A direct current (DC) powered sample transfer
+                           case is located in the biological-detection team support vehicle and
+                           enables the support crew to conduct a sample evacuation. The
+                           support vehicle sample transfer case provides a sturdy, rigid
+                           container that maintains the sample temperature at 1-4°C and eases
+                           carry and transport. A temperature monitor provides the biological-
+                           detection team with the assurance that the sample transfer case
+                           temperature remains between 1-4°C.
+
+                    z Onboard cooler. The BIDS vehicles have onboard coolers that are
+                           identical to the sample transfer cases located in the support vehicles.
+                           These items provide temporary storage for samples pending
+                           evacuation. The P3I BIDS has one cooler.
+
+                    z Clear plastic bags. Clear plastic bags are the approved secondary
+                           container for biological wet collectors. Due to the requirement to
+                           double-bag these items, the recommended basic load for each BIDS
+                           should be increased from 25 to 50 bags.
+
+                    z Tamper-resistant tape.
+
+                    z Lab film.
+
+             (3) Air-sample collection from the biological sampler. The primary purpose of
+the P3I BIDS biological sampler is to collect and contain suspect material in a collection
+medium for transport. In the P3I system, the sampler is normally activated by the CIP in
+response to a UVAPS or CBMS alert. Upon completion of the sampling cycle, the sampler
+provides the operator with about 40 milliliters of liquid in the wet collector.
+
+             (4) Chain-of-custody instructions. Instructions for filling out the chain-of-
+custody form can be found in Appendix G.
+
+             (5) Biological sample packaging. Table I-2 gives specific instructions for
+preparing the P3I BIDS wet collector for evacuation.
+
+                          Table I-2. Preparing the Wet Collector for Evacuation
+
+Completed  Item                                                 Instructions
+             1
+             2   Close the wet collector with the prepacked rubber grommet.
+
+             3   Ensure that the lower lid is tight. Ensure that the upper lid is secured to the lower lid
+             4   of the wet collector. Apply lab film around the upper lid in case of leakage from the
+                 wet collector.
+             5
+                 Label the wet collector with the sample identification number.
+
+                 Seal the lid of the wet collector with tamper-resistant tape. Apply the tape in an x
+                 pattern, ensuring that the tape is long enough to reach the wet collector. Ensure that
+                 the tamper-resistant tape covers a portion of the label on the wet collector.
+
+                 Place the wet collector, with absorbant material, inside a clear plastic bag with.
+                 Remove the excess air and twist the neck of the bag until it forms a tight coil with the
+                 bag snug around the wet collector. Label and secure the bag with a quick-lock
+                 fastener. Ensure that the sample identification number can still be read.
+
+I-4
+
+
+---
+
+           Table I-2. Preparing the Wet Collector for Evacuation (Continued)
+
+Completed  Item                                                 Instructions
+             6
+                 Place the bagged wet collector inside another clear plastic bag. Remove the excess
+             7   air and twist the neck of the bag until it forms a tight coil with the bag snug around the
+             8   wet collector. Place an adhesive label containing the sample ID number on the bag.
+                 Secure the bag with a quick-lock fastener.
+
+                 Place the packaged wet collector in the sample transfer case.
+
+                 Complete the chain-of-custody form.
+
+             (6) Alternate sample containers. If the biological sampler is not mission
+capable, the liquid sampler will provide the liquid sample for evacuation (see Table I-3).
+This procedure is restricted to situations when the biological sampler is either not
+mission capable or the current operating protocol does not require the use of the
+biological sampler. The conical tube should be selected according to guidance in
+TM 3-6665-350-12&P.
+
+NOTE: When using this procedure, ensure that the appropriate entries are
+made on the corresponding chain-of-custody form.
+
+           Table I-3. Preparing an Alternate Sample Container for Shipment
+
+Completed  Item                                                 Instructions
+             1
+             2   Ensure that the wet collector is properly secured with a cap. Wrap lab film around the
+             3   cap.
+
+             4   Affix an adhesive label containing the sample ID number on the wet collector in a
+                 lengthwise manner.
+             5
+                 Seal the wet collector by applying a strip of tamper-resistant tape in a lengthwise
+             6   manner; starting at the side, run the strip up, over the cap, and down the other side.
+
+                 Ensure that the tamper-resistant tape covers a portion of the label on the wet
+                 collector. Add a temperature monitor strip.
+
+                 Place the wet collector, with absorbent material, inside a clear plastic bag. Remove
+                 the excess air and twist the neck of the bag until it forms a tight coil. With the bag
+                 snug around the wet collector, place an adhesive label containing the sample
+                 identification number on it. Secure the bag with a quick-lock fastener.
+
+                 Place the bagged wet collector inside another clear plastic bag. Remove the excess
+                 air and twist the neck of the bag until it forms a tight coil. With the bag snug around
+                 the wet collector, place an adhesive label containing the sample ID number on it.
+
+                 Secure the bag with a quick-lock fastener.
+
+                 Place the package in the sample transfer case.
+
+             (7) Supporting Documents. The documents that support the evacuated
+sample are integral components of the evacuation package. These items must accompany
+the sample. Routinely, they will be comprised of a printed copy of the CIP display;
+however, under some circumstances (such as the CIP or printer not being mission
+capable), a copy of the BIDS incident report will be provided in lieu of page 2 from the
+CIP display. Table I-4 (page I-6) provides instructions for packaging this material.
+
+                                                                              I-5
+
+
+---
+
+           Table I-4. Packing Supporting Documents for Evacuation
+
+Completed  Item                                                 Instructions
+             1
+             2   Ensure that the chain-of-custody form is accurate.
+             3
+             4   Ensure that the printed copy of page 2 of the CIP display has the sample
+             5   identification number annotated.
+                 Check the CIP printout for consistency with the chain-of-custody form.
+             6
+                 Ensure that the sample ID number is present and consistent with the chain-of-
+                 custody form and that the BIDS incident report is also submitted.
+                 Place the printout and biological-incident report in a floppy disk mailer and seal it. If
+                 additional mailers are used, each one must have a separate item description on the
+                 corresponding chain-of-custody form.
+                 Place an adhesive label containing the sample ID number on the outside of the
+                 mailer, and place the mailer in the sample transfer case.
+
+             (8) The completed evacuation package. The completed sample evacuation
+package is comprised of the following items, packed in either the P3I BIDS onboard
+cooler or the support vehicle sample transfer case:
+
+                    z A sealed and packaged wet collector.
+
+                    z A sealed floppy disk mailer with the CIP printout or the BIDS
+                           incident report.
+
+NOTE: The completed chain-of-custody form will be hand carried by the escort.
+
+             (9) Evacuation methods. The methods used for executing a sample transfer
+will vary. For example, the following options could be used:
+
+                    z The BIDS biological-detection team support crew could transport the
+                           sample to the designated sample transfer point for pickup by escort
+                           personnel.
+
+                    z Escort personnel could pick up the sample at the BIDS site.
+
+                    z Other BIDS unit personnel could receive custody from the biological-
+                           detection team and transport the sample to a designated sample
+                           transfer point.
+
+      c. P3I BIDS (M31A1) Unit Employment. See Chapter III.
+
+      d. P3I BIDS (M31A1) Operational Modes and Data Analysis. This paragraph
+outlines the basic operational modes and data collection and analysis information for the
+P3I BIDS.
+
+             (1) Data collection methods. There are four basic methods for data collection.
+
+                    (a) Standard protocol. The standard protocol is executed in response to a
+UVAPS or CBMS alert condition. When a UVAPS and/or CBMS alert condition occurs,
+the CIP activates both the liquid sampler and the biological sampler. The CIP uses input
+from the generic detection components (UVAPS, CBMS, and mini-FCM) to determine if
+detection has occurred. If positive detection results are obtained, a representative sample
+is analyzed with a specific identification component (such as the biological detector or the
+handheld assay). A detailed discussion of the standard protocol can be found in
+TM 3-6665-350-12&P.
+
+I-6
+
+
+---
+
+                    (b) Continuous-sampling protocol. The continuous-sampling protocol
+involves activating the liquid sampler and turning off both monitoring devices (the
+UVAPS and CBMS) to prevent damage to these components. The sampler collects one
+liquid sample every 15 minutes for testing. This protocol could be used when directed by
+the biological-detection company or platoon CPs. It can also be used during a weather
+event (such as a severe dust storm) to prevent clogging of the UVAPS and/or CBMS air
+intake and ensure that a BW cloud is not missed. See TM 3-6665-350-12&P for a detailed
+discussion of continuous sampling.
+
+                    (c) Reduced-capability operations. The P3I BIDS can operate at reduced
+capability when one or more components of the biological-detection suite become
+inoperable. Specific procedures for reduced-capability operations are summarized in
+TM 3-6665-350-12&P.
+
+                    (d) Threat-based protocol. The standard P3I BIDS operating protocol
+can be adapted as a potential countermeasure against a threat BW capability (for
+example, linking the biological-detection array to the command air defense early-
+warning system [cued monitoring]). On receipt of a warning, the BIDS array initiates
+continuous sampling (both triggers continue to operate). Therefore, if an alert occurs, the
+BIDS is ready to test liquid samples almost immediately.
+
+             (2) Overall P3I BIDS system-level process. The system-level process begins
+with a triggering event by either the UVAPS or the CBMS that indicates an alert
+condition. This marks the beginning of a BIDS event. The second phase (detection)
+occurs when the CIP receives all of the generic results from the UVAPS, CBMS, and
+mini-FCM. If the system detection results are negative, the BIDS event ends; however, if
+the detection results are positive, the BIDS team conducts presumptive-identification
+procedures.
+
+                    (a) P3I BIDS event cycle. The P3I BIDS event cycle, inclusive of the
+alert, detection, and identification phases, could range from 18 to 25 minutes. Following
+the alert, the detection process will last 3 to 11 minutes. During this phase, the CIP
+receives UVAPS, mini-FCM, and CBMS data for a detection decision. During detection,
+operator-1 tests two liquid samples on the mini-FCM, and the CBMS completes two
+pyrolysis cycles (about 3 minutes each). Next, based on a positive detection, the
+identification process (on the biological detector or the handheld assay) will take about
+15 minutes.
+
+                    (b) P3I BIDS detection classification. Each of the three components that
+contribute to the P3I BIDS detection decision performs functions that complement each
+other. See Table I-5 for a brief comparison of UVAPS, mini-FCM, and CBMS functions.
+Table I-6 (page I-8) provides a brief description of each generic detectors capability.
+
+                      Table I-5. Comparison of the UVAPS, CBMS, and Mini-FCM
+
+Component                 Results                     Function                       Speed
+UVAPS                                                               Updates results every 60
+CBMS       Detects a biological mass in      Continuously monitors  seconds
+           an agent containing particles     (triggering device)    Updates results every 3 minutes
+Mini-FCM   Detects ion activity, biological  Continuously monitors
+           versus nonbiological; cell,       (triggering device)    Results available in +/-100
+           spores, or toxins                                        seconds
+           Detects cells or spores           Operates on demand
+                                             (detection role only)
+
+                                                                    I-7
+
+
+---
+
+                 Table I-6. UVAPS, CBMS, and Mini-FCM Capabilities
+
+      Component                                                   Capability
+UVAPS
+CBMS             Fluoresces biological material within aerosol particles with an ultraviolet laser.
+                 Analyzes ionized molecules for characteristic patterns of cells, spores, and toxins.
+Mini-FCM         The CBMS results are likely to be more accurate for spores and toxins than for cells.
+                 Detects the presence of DNA/RNA within insoluble components (0.5 to 2.0 m) of
+                 aerosol particles. Statistically, mini-FCM results are more accurate for cells than for
+                 spores.
+
+             (3) Background effects. It is important to be aware of background data
+results. In general, background can be broadly categorized into three types—low, high
+(biological), and high (nonbiological).
+
+                    (a) Background characteristics. The general characteristics of these
+background types and their possible effects on the P3I BIDS are included in Table I-7.
+For example, areas with a high biological background may yield positive mini-FCM
+results and/or nonspecific binding results from the biological detector.
+
+                           z High (nonbiological) background conditions are often attributed
+                                  to high winds, which can cause more reaerosolization of soil or
+                                  surface particles. This type of background activity may cause
+                                  short-duration UVAPS alerts (most will be 1 minute) or low UV
+                                  fluorescence results.
+
+                           z Low wind speeds (less than 1 or 2 meters per second) may cause
+                                  high background results. If large numbers of aerosol particles
+                                  are present in the ambient air, low wind speeds may help keep
+                                  the background conditions high. Furthermore, biological-
+                                  detector results may also indicate nonspecific binding in very
+                                  high dust concentrations. Nonspecific binding may also occur
+                                  based on the BIDS being downwind of some artillery or weapons
+                                  fire by-products.
+
+                           z Background materials that may cause responses on the mini-
+                                  FCM or biological detector may not trigger the UVAPS or the
+                                  CBMS. Therefore, it is important for the BIDS team to be aware
+                                  of local background conditions. For example, detection results
+                                  could be affected by high-protein backgrounds and extremely
+                                  short aerosol dwell times.
+
+                    (b) Background data recording. Certain data must be recorded during
+the monitoring phase of a BIDS operation to ensure that all the pertinent information is
+available for system-level analysis. This information (referred to as background) is listed
+in Table I-8. Background data collection consists of position location, weather data, local
+activity and conditions, mini-FCM and biological-detector results, and the sample from
+the biological sampler. The wind speed and direction will be included in the report of
+background data to the biological-detection platoon. A modified BIDS incident report
+form can be used for recording background data at team level. The unit SOP or the
+OPLAN and/or OPORD will specify the reporting frequency.
+
+I-8
+
+
+---
+
+Table I-7. Possible Impact of the Environment on BIDS Component Results
+
+  Background Type                   Environmental Factors                    Possible Impact On BIDS
+Low                                                                              Component Results
+High (biological)     Cold climates, snow-covered terrain,
+                      temperate climates with dormant vegetation,      All components typically negative
+High (nonbiological)  coastal areas, and regions of sparse
+                      vegetation with low levels of fine sand or dust  Biological detector—possible
+                                                                       nonspecific binding
+                      Temperate/tropical climates with high levels of  Mini-FCM—possible cell results
+                      vegetation, primarily early in the growing
+                      season; agricultural areas during the growing    UVAPS—short-duration alerts
+                      season; and areas near industrial facilities     CBMS—possible cell results
+                      with biological processes/sewage treatment       Mini-FCM—possible spore results
+                                                                       Biological detector—may cause
+                      Dry/desert regions with high levels of fine      nonspecific binding
+                      sand or dust; dry grassland/scrub, primarily
+                      late in the growing season; urban or industrial
+                      areas; and artillery/weapons fire by-products
+
+                      z Background data should be recorded at the beginning of a
+                            mission and periodically updated during the mission (every 4 to
+                            8 hours and especially after sunset or sunrise). The recording
+                            frequency depends on background conditions and operator
+                            workload (see Table I-8).
+
+                                 Table I-8. P3I BIDS Background Data
+
+              Component                              Data                             CIP screen
+GPS                              Position location                     CIP screen
+Meteorological sensor            Wind direction (degrees)              CIP screen
+
+BIDS team                        Wind speed (kph)                      Support crew
+Mini-FCM                                                               CIP screen and mini-FCM LCD
+                                 Temperature (°C)
+Biological detector or handheld  Relative humidity (percent)           CIP screen or biological detector
+assay                            Local activity/conditions             or handheld-assay strip
+Biological sampler               Cell result                           Biological sampler
+
+                                 Spore result
+                                 Biological detector or handheld-
+                                 assay result
+                                 Wet-collector contents
+
+                      z If background conditions produce positive results on either the
+                            biological detection or the mini-FCM, more frequent
+                            background sampling should be conducted (but not more often
+                            than every 2 hours). For example, the initial positive results on
+                            the mini-FCM and biological detector may be a short-term
+                            anomaly, and one or two follow-on assays could result in
+                            negative results. Positive background results on the mini-FCM
+                            and biological detector may be due to local activity (such as
+                            vehicle dust).
+
+                                                                                                          I-9
+
+
+---
+
+                           z It may become necessary to move the BIDS to an alternate
+                                  detection area away from the source of background data that
+                                  causes the positive mini-FCM and biological-detector results. It
+                                  is important to know if the background information has
+                                  changed before an alert condition to provide an accurate
+                                  system-level result.
+
+             (4) Data analysis (system-level analysis). A BIDS event begins with a
+UVAPS and/or CBMS alert condition and ends when all steps in the data collection
+process have been completed. See Table I-9 for BW event data. These results are used for
+the P3I BIDS incident report. Critical event data includes local meteorological readings;
+observations of local activity or weather conditions; alert, detection, and identification
+results; and the location.
+
+                                           Table I-9. P3I BIDS Event Data
+
+                             Source                             Data
+Alert result
+Meteorological sensor                Alert time
+
+Detection result                     Wind direction (degrees)
+Identification result
+BIDS team                            Wind speed (kph)
+BIDS team
+                                     Temperature (°C)
+                                     Cell, spore, toxin
+
+                                     Agent result
+
+                                     Local activity/conditions
+                                     Location
+
+                    (a) System-Level Analysis Process. The system-level analysis process is
+summarized in Table I-10. The first phase of the process (alert) occurs when the UVAPS
+or the CBMS indicates an alert condition. The second phase (detection) occurs when all
+BIDS generic results have been obtained from the UVAPS, mini-FCM, and CBMS
+following an alert. If all of these results are negative, the detection result is also
+negative. If one or more of these results is positive, the detection result is positive. If the
+detection event is negative, the incident is considered a nonevent, and the process is
+terminated. The third phase (presumptive identification) occurs when specific results are
+available from either the biological detector or handheld assay following a positive
+detection. If all of these results are negative, the identification result is also negative. If
+one or more of these results is positive, the identification result is positive. The fourth
+phase (reporting) marks the end of a BIDS event.
+
+                    (b) System-level analysis. The BIDS system-level analysis consists of
+obtaining alert, detection, and identification results and adding information (as
+required) about background results. In turn, the system-level results are reported to the
+platoon HQ for use in unit-level analysis. This process consists of the following steps:
+
+                           z Alert. Consider alert results from the UVAPS and CBMS and
+                                  the most recent background results from the monitoring
+                                  devices. Report in the remarks section of the BIDS incident
+                                  report whether earlier background UVAPS monitoring caused
+                                  recurring ultrviolet fluorescence low or high results or whether
+                                  CBMS monitoring caused recurring positive results.
+
+I-10
+
+
+---
+
+                Table I-10. P3I BIDS System-Level Process
+
+       Phase                         Criteria                                    Result
+Alert                                                  Alert (event begins)
+Detection       UVAPS or CBMS alert condition          Negative detection (nonevent or no report)
+                                                       (analysis terminated)
+Presumptive     Negative results from CBMS, mini-      Positive detection (conduct biological
+identification  FCM, or UVAPS following an alert       detection/handheld assay)
+
+Reporting       Positive results from CBMS (toxin/     Negative identification
+                spores), mini-FCM (cells/spores), or
+                both CBMS/UVAPS alert                  Positive identification
+
+                Negative results from biological       P3I BIDS event data and BIDS location (event
+                detection/handheld assay following a   ends)
+                positive detection
+
+                Positive results from biological
+                detector/handheld assay following a
+                positive detection
+
+                Positive detection and identification
+                result
+
+                           z Detection. If the detection decision is positive, go to
+                                  “identification.” If generic detection devices (such as the mini-
+                                  FCM and the CBMS) have provided positive results during
+                                  previous background testing, record that information in the
+                                  remarks section of the biological-detection team BIDS incident
+                                  report.
+
+                           z Identification. Consider current identification results and the
+                                  most recent background results from the biological detector.
+                                  Report in the remarks section of the BIDS incident report
+                                  whether previous background assays indicated positive
+                                  biological-detector results for a specific agent.
+
+                           z Report. Review and report the final system results.
+
+                    (c) The BIDS incident report (plus any unusual local activity or weather
+conditions) and associated background information is forwarded to the platoon HQ for
+use in unit-level analysis. Follow-up reports of BW event results should include or
+reference the alert time for the specific event being analyzed.
+
+             (5) System-level response profiles. Each decision regarding a possible BW
+attack must consider all of the results produced by the P3I BIDS biological-detection
+suite. The full set of results from the alert, detection, and identification components is
+referred to as an event response profile. The biological-detection platoon and company
+CPs use the results from their biological-detection team BIDS incident reports to
+determine and assess system-level response profiles.
+
+                    (a) Determining system-level response profiles. Response profiles are
+determined by using alert, detection, and identification results from the P3I BIDS
+incident report. The confidence level of the resulting profile is obtained from Table I-11
+(page I-12). The final system-level result correlates agent classification results from the
+detection and identification process and assigns an associated confidence level.
+Consistency between the detection and identification results provides a high confidence
+level.
+
+                                                           I-11
+
+
+---
+
+               z Detection response profiles can be expressed in differing
+                      confidence levels, depending on the concentration (high,
+                      medium, or low) associated with the detection result. For
+                      example, detection with an associated high concentration
+                      (identification—none) results in a medium confidence level. A
+                      confidence level of medium to high is typically considered a
+                      possible BW attack indicator, and a low confidence level has
+                      poor reliability. The assigned confidence level from Table I-11
+                      indicates the relative probability that a particular response is
+                      indicative of an actual BW attack.
+
+               z Other factors can also influence the overall confidence
+                      associated with a possible BW event. Factors such as the
+                      current intelligence situation, LRBSDS results, and weather
+                      will influence platoon- and company-level analyses.
+
+              Table I-11. P3I BIDS System-Level Response Profile
+
+      Alert          Detection                              Identification       Confidence
+
+UVAPS and/or  Toxin (H/M/L)                           Toxin (such as Ricin)      Very high
+CBMS          Cell, spore, or biological (H/M/L)      Toxin (such as Ricin)      High
+
+              Spore                                   Spore (such as Anthrax)    Very high
+
+              Cell, toxin, or bio (H/M/L)             Spore (such as Anthrax)    High
+
+              Cell                                    Cell (such as Plague)      Very high
+
+              Spore, toxin, or bio (H/M/L)            Cell (such as Plague)      High
+
+              Toxin, spore, or bio (H/M/L)            Virus (such as Venezuelan  High
+                                                      Equine Encephalitis)
+
+              Spore (H), cell (H), toxin (H), or bio  None                       Medium
+              (H)
+
+              Spore (M/L), cell (M/L), Toxin          None                       Low
+
+              (M/L), or bio (M/L)
+
+NOTE: H indicates a high concentration, M indicates a medium concentration, and L indicates a low
+concentration.
+
+                    (b) Factors that can impact system-level response profiles. The BIDS
+teams maintain SA through the knowledge of key factors such as environmental
+conditions, local activity, and METT-TC. This awareness leads to an understanding of
+the impact that factors such as high wind speed may have on BW aerosols. See Table I-12
+for information on environmental or threat factors that could result in medium or low
+system-level response profiles.
+
+             (6) P3I Biological Integrated Detection System information management.
+The P3I BIDS system-level results displayed on the CIP or the information management
+system (IMS) are recorded by the operator on the BIDS incident report. Alternatively, if
+the CIP becomes not mission capable, the BIDS operator will then observe and analyze
+component-level responses and manually record the system-level results on the BIDS
+incident report.
+
+             (7) P3I BIDS Records. The CIP mission files are downloaded onto compact
+discs (CDs) following each mission (about a 12-hour duration). Data from each BW event
+resulting in a positive detection or identification are also transferred to separate CDs.
+
+I-12
+
+
+---
+
+Table I-12. Factors That Could Influence Medium or Low Confidence Levels
+
+                Selected Factors                     Potential Impact on Bids System-Level Response
+High wind speed                               Short BW cloud duration (1 to 2 minutes)
+
+Threat point source BW attack                     • Detection—positive
+                                                  • Identification—negative
+Significant aerosolization of dust in a dry,      • Confidence—medium or low
+grassland area late in the growing season     Short BW cloud duration (1 to 2 minutes)
+
+Terrain/vegetation causes large area BW           • Detection—positive
+aerosol clouds to separate                        • Identification—negative
+                                                  • Confidence—medium or low
+                                              UVAPS—short ultraviolet alert; mini-FCM—spores
+
+                                                  • Detection—positive
+                                                  • Identification—negative
+                                                  • Confidence—medium or low
+                                              Multiple short-duration BW clouds (1 to 2 minutes)
+
+                                                  • Detection—positive
+                                                  • Identification—negative
+                                                  • Confidence—medium or low
+
+These records are complemented by the BIDS team written message logs. The BIDS
+team maintains accurate records for each mission and forwards mission records to
+higher HQ for retention upon the completion of an operation.
+
+3. Joint Biological Point Detection System (M31A2-Biological Integrated
+Detection System) Operations
+
+      a. Functions. The JBPDS provides the commander with an automated BW agent
+detecting, collecting, identifying, reporting, and sample-evacuating capability. The
+JBPDS is a biological-agent detection system that performs the same basic functions—
+detecting, collecting and identifying—as its counterpart, the M31A1-BIDS (P3I).
+However, the JBPDS provides more automated capabilities than the M31A1-BIDS. See
+Table I-13 to see how system functions are accomplished by the M31A2-BIDS system.
+
+                           Table I-13. JBPDS (M31A2-BIDS) System Functions
+
+JBPDS                   Alerting                Collecting          Identifying                Reporting
+(M31A2-BIDS)
+              Determines if an                The activation  Determines the           The time range for the
+              increase in the number          of the sample   presumptive              reporting of
+              of particles within a           collector is    identification of up to  presumptive
+              certain size range              automatic.      10 preselected BW        identification is 18-20
+              occurs and if aerosol                           agents.                  minutes. Data
+              particles contain                                                        recording and display
+              biological material.                                                     is automated.
+              Detection is based on a
+              single component,
+              rather than multiple
+              components as in the
+              M31/M31A1-BIDS.
+
+             (1) Alerting. The JBPDS biological-aerosol warning sensor continuously
+monitors the air for an increase in particles that may contain biological material. The
+
+                                                                                                     I-13
+
+
+---
+
+biological-aerosol warning sensor contains a particle counter that constantly compares
+the airborne particle count of a given size range against an established background. The
+biological-aerosol warning sensor laser detector fluoresces particles and measures their
+emission wavelengths to determine if the airborne particles contain biological mass.
+Based on an increased number of particles of the correct size and emission signature, the
+biological-aerosol warning sensor triggers an alert and the follow-on collection and
+identification process.
+
+             (2) Collecting. Following an alert, the collector begins a collection cycle to
+gather a representative sample for analysis. The collector draws in air and captures
+particulate matter using a cyclone principle that concentrates the sample in collector
+fluid. The concentrated sample is then sent by the fluid transfer system to the identifier
+for analysis. If the presumptive identification is positive for a BW agent, the fluid
+transfer system routes a volume of the collected sample to either a sample vial or sample
+bottle for evacuation.
+
+             (3) Identifying. The identifier uses immunoassay technology to
+presumptively identify any of 10 preselected BW agents. Presumptive identification
+processing is completed in approximately 15 minutes.
+
+             (4) Reporting. The time from the detection to presumptive identification is
+approximately 20 minutes. Data is automatically displayed to the operator and recorded
+in a JBPDS (M31A2-BIDS) biological-event log.
+
+      b. Sample Handling and Chain-of-Custody. The JBPDS (M31A2-BIDS) provides
+a liquid biological-agent sample for lab analysis and supporting information that
+provides descriptive data for the sample. The JBPDS (M31A2-BIDS) sample evacuation
+guidance is consistent with BIDS (P3I) sample evacuation guidance. The supporting data
+includes the biological-event log that provides information about positive identifications
+and detection events associated with a selected JBPDS (M31A2-BIDS) as each event
+occurs. This information includes the date and time, agent identified, location of the
+biological event, elevation, wind direction, and wind speed. The biological-event data is
+stored on a CD and printed out on a paper copy. The printed copy will be packaged as
+part of the sample evacuation process.
+
+             (1) Logistics requirements.
+
+                    (a) Sample transfer case. The sample transfer case used for the JBPDS
+(M31A2-BIDS) is identical to the one used in the BIDS (P3I). The JBPDS (M31A2-BIDS)
+has one on-board cooler identical to the sample transfer cases located in support vehicles.
+The cooler provides temporary storage for samples pending evacuation.
+
+                    (b) Sample vial and sample bottle. These collection items used in the
+JBPDS (M31A2-BIDS) are packaged separately. The sample vials are bulk packaged at
+100 vials per box, and sample bottles are packaged two per box (two boxes are provided
+as part of the system basic load). The sample extraction bottle is used in the dry
+collection mode for the M31E2 for sample evacuation.
+
+                    (c) Packaging container. The requirement for packaging the
+M31A2-BIDS sample is described in the JBPDS TM or TO.
+
+                    (d) Tamper-resistant tape. The requirement for tamper-resistant tape is
+the same for the JBPDS (M31A2-BIDS) as for the BIDS (P3I). Tamper-resistant tape is a
+
+I-14
+
+
+---
+
+special tape that tears easily after application. Tears in the tape indicate that the sealed
+container has been opened.
+
+                    (e) Lab film. The requirement for lab film is the same for the JBPDS
+(M31A2-BIDS) as for the M31/M31A1.
+
+             (2) Sample collection. The primary purpose of the JBPDS (M31A2-BIDS) is to
+collect and contain suspect materiel for evacuation and evaluation. If a presumptive
+identification is made, a sample will be stored for evacuation and further analysis in one
+of four sample vials. After the fourth sample vial has been used, any additional samples
+will be stored in the sample bottle, if the sample vials are not replaced.
+
+             (3) Packaging the biological sample. When handling the sample from the
+JBPDS (M31A2-BIDS), eye protection, respiratory protection, and gloves must be worn.
+See instructions in the JBPDS TM or TO for specific instructions of preparing the JBPDS
+(M31A2-BIDS) sample for evacuation. When directed to prepare the sample and
+supporting materials for evacuation, operator 1 or 2 will package the sample and release
+it to operator 3 or 4 using the chain-of-custody form. Operator 3 or 4 will then evacuate
+the sample to the sample transfer point.
+
+NOTE: The use of tamper resistant tape and the labeling of each packaging
+container with the sample identification number for the M31A2 sample is
+consistent with M31A1 sample processing procedures.
+
+NOTE: If a shift change occurs prior to the evacuation notice, the stored
+sample vial or common sample bottle must be released to the new shift leader
+using the chain-of-custody form.
+
+             (4) Packaging the supporting documentation. The documents that support
+the evacuated sample are integral components of the evacuation package and must
+accompany the sample. While either operator 1 or 2 prepares the sample vial, sample
+bottle, or sample extraction bottle for evacuation, the other should collect and package
+the supporting documents for evacuation with the sample. Table I-14 provides
+instructions for packaging this material.
+
+    Table I-14. Packaging Supporting Documents for Evacuation (JBPDS [M31A2-BIDS])
+
+                                                   Packaging Supporting Documents
+                Item Instructions
+
+                   1 Print two copies of the biological-event log with the sample identification number. Label the
+                            handwritten biological-incident report with the sample identification number.
+
+                   2 Place one copy of the biological-event log and one copy of the biological-incident report
+                            inside the disk mailer. Maintain the second copy of the biological-event log and the
+                            biological-incident report with the JBPDS (M31A2-BIDS) vehicle log.
+
+                   3 Place an adhesive label containing the sample identification number on the disk mailer.
+                   4 Seal the disk mailer.
+                   5 Place tamper-resistant tape over all sealed edges of the disk mail sealer. Do not cover the
+
+                            sample identification number with the tape.
+                   6 Place the supporting documents package in the sample transfer case.
+                   7 Complete the chain-of-custody form. Ensure that the operator handling the sample signs
+
+                            the initial signature immediately.
+
+                                                                                                                                   I-15
+
+
+---
+
+             (5) The completed evacuation package. Each completed sample evacuation
+package is comprised of the following items packed in the temperature-monitored JBPDS
+(M31A2-BIDS) on board cooler or the support vehicle sample transfer case:
+
+                    z Sealed and packaged sample vial, sample bottle, or sample
+                           evacuation bottle.
+
+                    z Sealed disk mailer with the printout of the biological-event log and
+                           handwritten biological-incident report.
+
+The completed chain-of-custody form will be hand carried by the escort. There will be one
+complete sample evacuation package for each sample.
+
+      c. JBPDS (M3IA2-BIDS) Unit Employment. See Chapter III.
+
+      d. JBPDS (M31A2-BIDS) Operational Modes and Data Analysis.
+
+             (1) The JBPDS (M31A2-BIDS) uses five operational modes to collect data.
+They are discussed below.
+
+                    (a) Standard mode. The biological-detection team initiates the standard
+mode during normal JBPDS (M31A2-BIDS) operations when the system is fully
+functioning. In standard mode, the M31A2 monitors ambient air particles, and, if
+required, the biological-aerosol warning sensor will initiate the collection sequence,
+perform the identification process, and store a portion of the sample.
+
+                    (b) Single sample mode. The biological-detection team may initiate the
+single sample mode to take a background reading or check conditions after an event such
+as a sandstorm or a weather front moving through the area. In this mode, conducted
+according to the SOP or on order, the detection process is not used (the biological-aerosol
+warning sensor is not utilized; only collection and identification functions are performed
+by the JBPDS). The JBPDS changes to the previous operational mode at the end of the
+sequence.
+
+                    (c) Periodic mode. The biological-detection team may use the M31A2
+periodic mode when the biological-aerosol warning sensor is not functioning, or during
+an operational situation such as an air defense alert (such as an imminent air or missile
+attack or one in progress where the use of BW agents is suspected). In this mode, the
+biological-detection team initiates established time intervals for the collection and
+identification sequence that can range from 5 to 60 minutes in 5-minute intervals. The
+operator ensures that consumables in the fluid transfer system are replenished.
+
+                    (d) Degraded mode. The JPBDS enters the degraded mode
+automatically when the identifier fails during either standard mode or single sample
+mode operation. While in the degraded mode, the JPBDS performs detection and
+collection operations only and stores the collected sample in the common sample bottle.
+In turn, the biological-detection team used the identification assay strips to conduct the
+identification process manually.
+
+                    (e) Extreme cold mode. Operating the JBPDS (M31A2-BIDS) in extreme
+cold conditions may cause the liquid in the JBPDS to freeze. When these conditions are
+present (-10°C to -28°C), an audible and visual alarm will be sounded. The biological-
+detection team places the system in the extreme cold mode.
+
+I-16
+
+
+---
+
+             (2) Background characteristics. It is important to be aware of background
+data results. In general, background can be broadly categorized into three types that are
+characterized as low, high (biological), and high (nonbiological).
+
+                    (a) The general characteristics of these background types and their
+possible effect on the JBPDS (M31A2-BIDS) are included in Table I-15.
+
+                                    Table I-15. Background Characteristics
+
+        Background Type            Environmental Factors              Possible Impact on M31A2
+Low                                                                        Component Results
+High (biological)        Cold climates; snow-covered terrain;
+                         temperate climates with dormant            All components are typically
+High (non-biological)    vegetation; coastal areas; regions of      negative
+                         sparse vegetation with low levels of fine
+                         sand or dust                               Possible positive on biological-
+                                                                    aerosol warning sensor
+                         Temperate/tropical climates with high      Identifier and manual
+                         levels of vegetation, primarily early in   identification—possible
+                         the growing season; agricultural areas     nonspecific binding
+                         during growing season; areas near
+                         industrial facilities with biological      Identifier and manual
+                         processes/sewage treatment                 identification—possible
+                                                                    nonspecific binding
+                         Dry/desert regions with high levels of
+                         fine sand or dust; dry grassland/scrub,
+                         primarily late in the growing season;
+                         urban/industrial areas; artillery/
+                         weapons fire by-products
+
+                    (b) JBPDS (M31A2-BIDS) background data should be recorded in the
+log of the biological-detection team at the beginning of a mission and periodically
+updated during the mission, especially after sunset or sunrise. It is important to know if
+the background has changed prior to a “DETECTION” condition to provide an accurate
+system level result. Further, a “POSITIVE” response on the identifier may necessitate
+the evacuation of a biological sample to a supporting medical lab to determine the reason
+for the positive results.
+
+             (3) System and platoon level reporting will include background data and the
+BIDS incident report. Data analysis is conducted at two levels within the biological-
+detection platoon. The first consists of system-level assessment using a single JBPDS
+(M31A2-BIDS). The second level of analysis is unit-level analysis using input from
+multiple JBPDS (M31A2-BIDS). This analysis is accomplished at the platoon level and
+includes event tracking that is used to merge individual BIDS level results within the
+platoon AOs.
+
+             (4) Table I-16 (page I-18) lists the information required for a background
+report. Complete background data is obtained by operating the JBPDS in an iteration of
+a single-sample mode operation.
+
+             (5) An M31A2-BIDS BW event begins with an alert condition and ends when
+all steps in the data collection process have been completed. See Table I-17 (page I-18) for
+BW event data that are needed for reporting purposes. These results are used for the
+M31A2-BIDS incident report.
+
+                                                                    I-17
+
+
+---
+
+                       Table I-16. JBPDS (M31A2-BIDS) Background Data
+
+      Component                                          Data                               Source
+                                      Position location                   Time/location/weather screen
+GPS                                                                       (basic biological suite unit)
+                                      Wind direction (degrees)            Time/location/weather screen
+Meteorological sensor                 Wind speed (mph)                    (basic biological suite unit)
+                                      Local activity/conditions           Support crew
+JBPDS (M31A2-BIDS) team               Positive or negative result         Alarm/screen or activity summary
+Identifier or manual identification                                       screen (basic biological suite unit)
+                                      Sample vial, bottle, or extraction  Biological sample
+Collector/fluid transfer system       bottle
+
+                       Table I-17. JBPDS (M31A2-BIDS) Event Data
+
+                              Source                                  Data
+Alert results                         Alert time
+Meteorological sensor                 Wind direction (degrees)
+                                      Wind speed (kph)
+Identification result                 Agent identification result (positive or negative) and
+                                      identification time.
+JBPDS (M31A2-BIDS) team               Local activity/conditions
+
+             (6) The system level analysis is summarized in the four steps below. This
+process consists of obtaining detection and identification results. System-level results are
+reported to the platoon HQ for use in unit-level analysis. The system-level analysis steps
+include:
+
+    Step 1. Alert. Record alert results from the biological-aerosol warning sensor.
+
+    Step 2. Report. Review and report alert results.
+
+    Step 3. Identification. Record current identification results.
+
+    Step 4. Report. Review and report identification results (positive or negative).
+
+NOTE: It is critical that the biological-detection team reports alert results, and
+then follows up with reporting either positive or negative identification
+results.
+
+4. Biological Integrated Detection System Unit Information Management and
+Reports
+
+      a. BIDS Unit Reports. The following paragraphs contain generic sample
+information and report formats for BIDS units. This section specifically outlines reports
+that are used by biological-detection teams or biological-detection platoons, a suggested
+incident data report format, and suggested techniques and procedures for biological-
+event tracking. Specific reports required by different units or TM guidance may require
+changes in these formats. Additional information management report formats may be
+required to meet specific mission or unit requirements. The use of brevity codes (as
+directed by the unit SOP or OPLAN) should also shorten the required message
+transmissions.
+
+I-18
+
+
+---
+
+             (1) BIDS team reporting requirements require them to report to the platoon
+leader at the following times:
+
+                    z Upon occupation of a new biological-detection site.
+
+                    z When operational at a new biological-detection site.
+
+                    z During operations at the biological-detection site. Submit BW event
+                           data in the BIDS incident report format. BIDS incident reports
+                           should include the following:
+
+                            The time of the alert.
+
+                            The identification result and time.
+
+                            Weather data (for example, wind speed and direction).
+
+                            The confidence level assigned to the BW agent detection or
+                                  identification.
+
+                            The location.
+
+                    z When mission-essential components fail.
+
+                    z When operations at the biological-detection site are complete.
+
+                    z When the mission, SOP, threat, background, or location
+                           characteristics change.
+
+                    z When the SOP or OPLAN requires a personnel or logistics situation
+                           report.
+
+             (2) The platoon leader submits reports to company operations based on:
+
+                    z The analysis of detection and/or identification data from BIDS teams
+                           require a report.
+
+                    z The mission, SOP, threat, background, or location characteristics
+                           require a report.
+
+      b. Biological Integrated Detection System Situation Report. The sample BIDS
+SITREP shown in Figure I-1 (page I-20) can be used to provide a complete status report
+at pre-established times according to the unit SOP. It can also be used to report partial
+information (such as an “operational at new site” report). For example, an “operational at
+new site” report would simply state: “P61 this is T51, SITREP over.” “T51 this is P61,
+send over.” “This is T51, line five ALPHA GOLF ONE, over.” “T51 this is P61, Roger,
+out.” The team leader (TL) just communicated to his platoon leader that his team is in
+position, fully mission capable, and operational.
+
+      c. Biological Integrated Detection System Incident Reports. The BIDS incident
+report is used by BIDS team members to record and subsequently report pertinent
+information obtained during biological-detection operations. There are three
+fundamental fields of data that are routinely compiled and reported by BIDS teams
+during operations—alert, detection, and identification. As the data is completed for each
+of these areas, it is transmitted to the platoon HQ element.
+
+      d. Biological-Event Tracking. The analysis of BIDS incident reports is a dynamic
+process. The platoon HQ is the first organizational element to compile and assess report
+data from multiple systems. Event tracking enables the platoon HQ to systematically
+
+                                                                                                                                   I-19
+
+
+---
+
+      Line     Item                      Content                                 Remarks
+                                                                   NA
+1              Platoon location          Grid coordinates or
+                                                                   NA
+                                         no change                 (Anything less than GOLF
+                                                                   requires explanation)
+1 (alternate)  Team location             Grid coordinates
+
+2a             COMM status: SINCGARS     G, A, R, or B
+
+2b             COMM status: HF           G, A, R, or B
+
+3              Personnel status          G, A, R, or B
+
+4a             Supply status: Class I    G, A, R, or B
+
+4b             Supply status: Class III  G, A, R, or B
+
+4c             Supply status: Class V    G, A, R, or B
+
+4d             Supply status: Class IX   G, A, R, or B
+
+5a             System status: Team A     G, G1, A, R, or B
+
+5b             System status: Team B     G, G1, A, R, or B
+
+5c             System status: Team C     G, G1, A, R, or B
+
+5d             System status: Team D     G, G1, A, R, or B
+
+5e             System status: Team E     G, G1, A, R, or B
+
+5f             System status: Team F     G, G1, A, R, or B
+
+5g             System status: Team G     G, G1, A, R, or B
+
+6              Leader assessment         G, A, R, or B
+
+GOLF (G)—fully mission capable (green).
+GOLF ONE (G1)—fully operational (green one).
+ALPHA (A)—requires resupply or maintenance after mission (amber).
+ROMEO (R)—requires resupply or maintenance before mission (red).
+BRAVO (B)—NMC.
+
+                                         Figure I-1. Sample BIDS SITREP
+
+evaluate the BIDS-report information. The characteristics associated with the downwind
+travel of a BW aerosol cloud, as well as the effects of weather and terrain, provide the
+basis for tracking the BW event. Based on a large-area BW attack, the data from
+multiple BIDS are used by the platoon CP to make estimates on BW-aerosol cloud
+direction. For example, BIDS teams deployed in depth could alert sequentially, based on
+a BW aerosol cloud moving downwind. Two or more BIDSs located in a general crosswind
+direction could detect the same BW aerosol cloud almost simultaneously. The BIDS alert
+times also depend on factors such as wind speed and the downwind separation distance
+between the BIDS.
+
+NOTE: The leading edge of a BW aerosol cloud moves downwind at about 1.5
+times the average wind speed, whereas the trailing edge of an aerosol cloud
+moves at about 0.5 times the average wind speed.
+
+I-20
+
+
+---
+
+             (1) Event Tracking.
+
+                    (a) The event-tracking process is normally initiated as a result of one or
+more positive alert, detection, or identification results from an individual BIDS. The
+following process is repeated each time a BIDS report is received.
+
+                           z Characterization. Characterization assigns a label to each
+                                  BIDS event. The label consists of the BIDS number; location;
+                                  time; weather data; and alert, detection, and identification
+                                  results to include the confidence level taken from the BIDS
+                                  incident report. All results should be considered during unit-
+                                  level analysis.
+
+                           z Grouping. The second step is to group events by assigning
+                                  each BIDS event to a specific group based on spatial and
+                                  temporal relationships. Relative time and space relationships
+                                  exist among the various BIDSs events because of the large area
+                                  over which the teams are placed and the nature of a BW attack.
+                                  These relationships are due to local meteorological conditions
+                                  and the physical distance between detectors. Detection and/or
+                                  identification conditions caused by a BW attack should occur
+                                  sequentially in a downwind direction with detection and/or
+                                  identification times between BIDSs related to wind speed and
+                                  downwind separation distance. Since the distance between
+                                  BIDSs will often be large (10-30 kilometers), the time interval
+                                  between adjacent downwind BIDS events is expected to be on
+                                  the order of 10 minutes to 3 hours. Two or more BIDSs located
+                                  in a general crosswind direction could detect the same BW
+                                  aerosol cloud nearly simultaneously. Events are assigned to the
+                                  same group if they could reasonably have resulted from the
+                                  same BW release, based on the relationship of their locations
+                                  and detection times with the prevailing wind speed and
+                                  direction. Any new event that does not appear to satisfy the
+                                  time and space relationships for a group is assigned to a new
+                                  group. Each group consists of one or more events, and the
+                                  membership of any particular group can change as more
+                                  information becomes available.
+
+                           z Attribution. Review all available information on local
+                                  conditions, friendly and threat information, and weather data to
+                                  determine if any non-BW causes exist for each group of BW
+                                  events. If a specific cause is identified, it is added to the event
+                                  tracking information. If no probable cause is identified, it is
+                                  labeled as unknown. If non-BW causes are identified, the
+                                  BIDS-team data is not deleted from the group array.
+                                  Information of each group array is augmented with applicable
+                                  narrative information on local activity or terrain data specific to
+                                  the AO.
+
+                    (b) Event tracking is a systematic process that is continually revised as
+additional information becomes available. To support platoon-level BW event tracking,
+
+                                                                                                                                   I-21
+
+
+---
+
+Figure I-2 provides a sample BIDS incident report event-tracking format for recording
+data from multiple systems. As information is received, it is recorded sequentially in
+chronological order (left to right) on an event-tracking form.
+
+BIDS Teams           SAMPLE
+Alert Time
+Type (UVAPS, CBMS,
+APS)
+Meteorological—Wind
+Speed (kph)
+Meteorological—Wind
+Direction (deg)
+Detection Time
+(If applicable)
+Type of Detection
+Identification Time
+Agent(s)
+Notes
+
+                                    Figure I-2. Sample Event-Tracking Form
+
+             (2) Other Planning Factors. Other factors that platoon leaders should
+consider include—
+
+                    z Whether multiple BIDSs are providing similar information.
+
+                    z The influence of wind or terrain on aerosols as the BW event reaches
+                           various BIDSs.
+
+                    z Whether the specific agent or type of agent detected is suspected to
+                           be in the arsenal of the threat.
+
+                    z The degree to which a BIDS event cannot be attributed to other (non-
+                           BW) causes such as friendly activity or known background ambient-
+                           air characteristics.
+
+                    z The current intelligence assessment of threat plans and operational
+                           factors (such as air defense warning status, threat tactics, doctrine,
+                           patterns of prior use, medical and operational impacts, potential
+                           target value, and downwind hazards). This assessment should be
+                           used to supplement the checklist, as required.
+
+      e. Sample Biological-Warfare Event-Tracking. Figure I-3 illustrates a sample
+scenario for a series of sample P3I BIDS incident reports submitted by individual
+M31A1s. The scenario indicates a potential sequence of events when a BW aerosol cloud
+
+I-22
+
+
+---
+
+passes over a platoon array. Figure I-4 (page I-24) provides a sample sector sketch for a
+biological-detection platoon.
+
+BIDS Teams           D        A     C        B     E       F                 G
+
+Alert Time           2300     2315  2318     2320  0300    0305              0308
+
+Meteorological Wind  008      010   009      011   008     008               009
+
+Speed (mph)
+
+Meteorological Wind  270      260   260      260   270     270               260
+
+Direction (deg)
+
+Detection Time       2306     2320  2321     2323  0306    0310              0313
+
+Type Detection       S        S     S        C     C       C                 C
+
+(Spores=S, Cells=C,
+
+Toxin=T,
+
+Biological=B,
+
+None=N)
+
+Identification Time  2322     2336  2337     2339  0326    0328              0330
+
+Agent Code           65       Neg   65       Neg   64      64                Neg
+(Example Only)
+
+Agent(s) Name        Anthrax        Anthrax        Plague  Plague
+
+NOTE: For example, “65” and “64” are the two-digit codes displayed by the biological detector for
+anthrax and plague, respectively. The actual codes are classified.
+
+                 Figure I-3. Sample BIDS Incident Report for Event Tracking
+
+             (1) A biological cloud was first detected at 2200 hours northwest of the
+Division Support Command (DISCOM) sector by the LRBSDS. Traveling at a speed of
+about 8 to 10 kilometers per hour, the aerosol cloud reached the first BIDS (Team D) in
+the 501-support area about 1 hour later at 2300.
+
+             (2) With the wind direction at 260 degrees and the wind speed at
+8 kilometers per hour, the next BIDS (Team A) alerted at about 2315, followed by Teams
+C and B at 2318 and 2320, respectively. Based on the event-tracking process, the platoon
+HQ element assigns Teams A, B, C, and D and BW event data to Group 1.
+
+             (3) Subsequently, Teams E and F provided BIDS report information to the
+platoon CP about 4 hours later (within a 5-minute time frame of each other). The platoon
+CP conducted BW event tracking and assigns Teams E and F to the same group (for
+example, Group 2).
+
+             (4) Finally, Team G forwarded a BIDS incident report to the platoon CP. The
+information cannot be readily correlated with any other team information. In turn, Team
+G results are assigned to a separate group (for example, Group 3).
+
+             (5) The sample sketch (Figure I-4) is not drawn to a specific scale, but report
+information (along with the sector sketch) provides a way to characterize and group
+platoon BW information. The platoon CP could circle the team or group of teams that
+come up with the same identification results. Event information indicates that Teams A,
+B, C, and D can be grouped together as Group 1 and Teams E and F as Group 2. Team G
+stands alone as Group 3. In examining this information, a platoon leader can
+
+                                                                                                   I-23
+
+
+---
+
+                              260                                            260
+                          WD                                            WD
+
+                       o           1/7 CML          260                     o       1/7 CML
+               BB                               WD                 DB
+
+                                             o            123 FSB  2D FSB
+                                   CB            1/7 CML
+
+      DISCOM              HILL MASS                                      260
+           X                                                        WD
+                                                                   o
+                            123 FSB                AB
+                                                                             1/7 CML
+                       o   302 FSB                                                      2D FSB
+               EB         1/7 CML
+
+                                                                                  501 FSB
+
+                WD 270               RIVER         RIVER                       260
+                                     302 FSB    501 FSB                    WD
+               PAVED
+               ROAD                                                        o
+
+               o                            WOODED AREA            GB               1/7 CML
+      FB                                                 1B
+                          1/7 CML
+                                                                   7 CML
+
+               WD 270                DIRT                                         DISCOM
+                                     ROAD                                              X
+
+      GROUP 1: D/A/C/B               GROUP 2: E/F                          GROUP 3: G
+
+      Legend:  B - Biological
+               o - Biological-detection team
+
+                         - Higher-level HQ
+               WD - Wind direction
+               CML - Chemical
+               FSB - Forward support battalion
+
+                   Figure I-4. Sample Biological-Detection Platoon Sector Sketch
+
+characterize, group, and attribute all information for his platoon by using the sample
+format in Figure I-2 (page I-22) and their sector sketch or operation map.
+
+5. Biological Integrated Detection System Unit Communication
+
+      a. Communications and Organization.
+             (1) The biological-detection company or platoon is an operational level-of-war
+
+asset. In general, the biological-detection unit HQ will establish a CP as close as possible
+to the corps and/or JTF NBC control center. Generally, the biological-detection unit CP
+and the corps chemical brigade main CP will be located where they can best support the
+
+I-24
+
+
+---
+
+corps and/or JTF HQ. Normally, this will be within the same base cluster as the corps
+and/or JTF main CP.
+
+             (2) A biological-detection company has a HQ element, three LRBSDS teams,
+and five biological-detection platoons; each platoon has seven biological-detection teams.
+The platoon leaders are generally located where they can best support their biological-
+detection teams. Because of the size of the area covered, the platoon leader may be
+located near a division main CP or logistics base. Biological-detection teams will
+normally be positioned as far forward as possible, but out of threat direct fire or observed
+indirect fire weapons range. Systems are widely separated, so biological-detection teams
+operate an independent communications net. LRBSDS teams will likely be collocated
+with an aviation unit that is tasked to fly LRBSDS missions. The communications link
+for LRBSDS reports should be directly to the biological-detection company operations
+section. However, factors such as distance or communications system compatibility may
+require LRBSDS reports to be forwarded through the aviation unit back to the biological-
+detection company operations section.
+
+             (3) Since the biological-detection company CP is generally located within the
+same base cluster as the corps main CP and chemical brigade main CP, the corps and
+chemical brigade staffs must establish requirements for running subscriber access cables
+to the biological-detection unit CP. This hardwire system architecture should permit the
+biological-detection unit CP to pass critical operational information directly to the
+supported unit battle staff.
+
+      b. Communications Equipment.
+
+             (1) Company, platoon, and team equipment. The biological-detection
+company CP, each biological-detection platoon CP, and each biological-detection team
+should have the following communications equipment:
+
+                    z One AN/GRC-193A HF radio.
+
+                    z One AN/VRC-90 VHF radio (SINCGARS).
+
+                    z For M31A2 units, one FBCB2 system. The biological-detection
+                           company and platoon will have EPLRS capability.
+
+                    z One AN/VRC-97 MSRT (biological-detection platoon and company
+                           only).
+
+NOTE: The biological-detection team does not have an MSRT.
+
+             (2) Use of the communications capability. The biological-detection company
+and platoon coordinate to determine communications interoperability requirements with
+their supporting and supported units. Key items for coordination include frequencies,
+interoperability of communications capabilities (for example, identifying whether the
+biological-detection company and platoon is supporting a digitized or nondigitized unit),
+and periodic reporting requirements.
+
+                    (a) For M31A2 equipped units, FBCB2 is the biological-detection team
+primary means of forwarding reports (for example, BIDS incident reports and other
+reports as required by the SOP) to the biological-detection platoon. The FBCB2 system
+(which includes SINCGARS) provides SA information, and burst digital data
+transmission. The system is capable of secure communications and has a range of
+approximately 20 kilometers; however, the EPLRS nets at the biological-detection
+
+                                                                                                                                   I-25
+
+
+---
+
+platoon or company can support retransmission of data across the digital theater. The
+biological-detection platoon uses FBCB2 as a primary means of communication with the
+biological-detection company to forward required reports. FBCB2 communication from
+the biological-detection teams to the biological-detection platoon is limited by the
+capabilities of the AN/VRC-90 VHF radio (approximately 20 kilometer LOS).
+
+                    (b) The HF radio (AN/GRC-193A HF radio) becomes an alternate means
+of communication if distance or other operational factors prevent communication
+through use of the FBCB2 system. The HF radio provides a long-range (300+ miles)
+communications capability to send and receive reports. The HF radio provides a
+command net capability for use by the biological-detection company.
+
+                    (c) The SINCGARS (AN/VRC-90 VHF radio) provides a LOS (range
+approximately 20 kilometers) communications capability. Distance permitting, the
+SINCGARS provides a command net capability for use by the biological-detection
+company. Additionally, SINCGARS is the primary means of communication internal to
+the biological-detection platoon (for example, communication between the support crew
+and BIDS crew). Coordination with the supported or supporting unit may identify
+retransmission stations for transmittal of SINCGARS communications to tactical
+satellite (TACSAT) interfaces. This allows biological-detection companies access to the
+corps or theater “warfighter net” in the event other means of communication are not
+available.
+
+                    (d) Each biological-detection company and platoon CP has a MSRT,
+which is similar to a modern cellular telephone. It provides continuous access to the area
+communications system during movement and CP displacement. The MSRT has a secure
+digital and facsimile communications capability. This is a particularly useful capability
+for sending status reports and issuing FRAGORDs. The MSRT will serve as the primary
+means of communication at the CP level. The LRBSDS will communicate with the
+biological-detection company CP. LRBSDS reports may be communicated through
+aviation unit communications assets (the MSRT or VHF) to the biological-detection
+company CP.
+
+      c. Communications Planning and Nets.
+
+             (1) Units must plan for the rapid transmission of a high volume of data to
+and from the biological-detection company. Therefore, units plan for and use brevity
+codes to communicate recurring items of information. Other key communications
+planning considerations include the following:
+
+                    z Plan for interface between the supported unit and higher HQ
+                           communications circuits and automated data processing (ADP)
+                           systems.
+
+                    z Plan to use complementary communications to reduce the impact of
+                           radio-electronic combat operations.
+
+                    z Ensure the interoperability of communications capability
+                           (connectivity between nondigitized and digitized units). For example,
+                           FBCB2 M31A2 units provide a digital communications capability.
+                           M31A1 and M31 equipped units do not have a digital
+                           communications capability.
+
+I-26
+
+
+---
+
+      z Use data architecture planning to ensure that the systems are
+             interoperable and that the biological-detection company is included
+             in technical operational data (TECHOPDAT) instructions. Ensure
+             that the biological-detection company is provided a copy of exchange
+             message protocols.
+
+      z Ensure that aviation assets for the LRBSDS are included in the
+             communications plan.
+
+      z Plan for and monitor message precedence allocation.
+
+      z Establish a combined coordination, communication, and integration
+             center for exchange of operational information. This is imperative
+             during joint or combined operations
+
+      z Plan for communications with the supporting medical lab, theater
+             TEU, and theater CLS element for BIDS and/or LRBSDS.
+
+      z Provide contingency plans for alternate communications (such as
+             losing the HF capability).
+
+      z Plan for signal security (SIGSEC).
+
+      z Plan for obtaining a set of SOI for frequencies and internal nets for
+             the biological-detection unit.
+
+      z Guard against self-induced electromagnetic frequency interference
+             and keep a 10 to 15 megahertz separation between adjacent
+             transmitters for HF RF management.
+
+(2) There are four primary nets to consider:
+
+      z FBCB2 net (for M31A2 unit only). This is the primary net for passing
+             the required reports as specified by the unit SOP (such as biological-
+             detection reports, SITREPs, logistics status reports, and sensitive
+             item reports) Use the FBCB2 net to maintain and transmit SA data
+             to communicate with the supporting unit and as a complementary
+             means of communication.
+
+      z HF net. This is the primary operations and intelligence net and is an
+             alternate net for passing biological-detection reports for M31A2
+             units. It remains the primary means of passing biological-detection
+             reports for M31A1 and M31 equipped units.
+
+      z VHF net. This is the primary administrative and logistics net. Use
+             the VHF net to maintain and transmit SA data to communicate with
+             the supporting unit and as a complementary means of
+             communication (for example, forwarding biological-detection reports)
+             with the biological-detection company and platoon CPs. This net is
+             also used to gain access to TACSAT and Joint Surveillance Target
+             Attack Radar System (voice and digital communications systems).
+
+      z MSE network and MSRT. This is the alternate operations and
+             intelligence net. MSRT may also be the primary means to pass
+             operations and intelligence information directly from the biological-
+             detection company CP to the corps chemical officer. For example, the
+
+                                                                                                                    I-27
+
+
+---
+
+                           corps chemical battle staff may have a subscriber access node that
+                           allows them to speak directly to the biological-detection company.
+
+             (3) Figures I-5 through I-7 provide graphical representations of the
+communications architecture for biological-detection units.
+
+                                     B
+                                                    X7
+
+B                          HF (O&I)
+
+                           HF (O&I)
+
+XXX
+             MAIN B
+
+            HARDWIRED
+            OR MSRT (O/I)
+
+                                                Figure I-5. HF Network
+
+      d. Force XXI Battle Command Brigade and Below (for M31A2 Units Only).
+             (1) FBCB2 integration. FBCB2 is an additional communications capability
+
+for M31A2 units. The FBCB2 system exchanges position locations, spot reports,
+biological-incident reports, and SITREPs. FBCB2 software is presently found in
+hardware in other platforms including combat vehicles, HMMWVs, and C2 operations
+centers. FBCB2 software is also embedded in new combat vehicle upgrades and C2
+components of the Army Tactical Command and Control System.
+
+             (2) FBCB2 Message Protocols. FBCB2 uses the joint variable message format
+message set and the new military standard (MIL-STD) 188-220(A) message protocol.
+Although designed primarily for use at the battalion, company, and below, there is
+overlap through use of the embedded command interface between the Maneuver Control
+System (MCS) and FBCB2, thereby closing the communications seam.
+
+             (3) Functional description. FBCB2 hardware is a militarized computer
+communications capability. FBCB2 is connected to a positioning and navigation device,
+for example, GPS and other embedded platform interfaces such as the Battlefield
+Combat Identification System. These interfaces enhance the capability of FBCB2 to
+provide relevant information to commanders, staffs, units, and soldier and/or weapon
+platforms.
+
+I-28
+
+
+---
+
+                   MSE (MSRT)
+
+XX                 B
+
+                                     X5
+
+     MAIN             MSRT (ADMIN LOG)
+     HARDWIRED
+     OR MSRT
+
+XXX
+
+     MAIN          B
+
+     HARDWIRED                                 X
+     OR MSRT
+                                         LRBSDS
+                                         SUPPORT
+
+     Figure I-6. MSE Network
+
+                                         B
+                                                        X7
+
+XX              B
+
+                      X5
+
+     MAIN
+
+XXX  MAIN
+
+                B
+
+VHF (SINCGARS) IS PRIMARY ADMIN/LOG            X
+NETWORK
+                                         LRBSDS
+                                         SUPPORT
+
+       Figure I-7. VHF Network for M31, M31A1, and M31A2 and FBCB2 for M31A2 Only
+
+             (4) Employment.
+                    (a) FBCB2 provides interoperability for the exchange of information
+
+with other Army Battle Command Systems over a tactical network. For example,
+
+                                                                                         I-29
+
+
+---
+
+biological-detection teams digitally submit biological-incident reports to the biological-
+detection platoon using preformatted free message text reports (Figure I-8). The
+biological-detection platoon receives, consolidates, and evaluates the incoming reports
+and prepares and forwards an NBC-1 (BIO) report. The digitized message saves the time
+required for voice communication.
+
+  BIDS Number: ___________________________
+  Sample Identification Number (19 Digits) : ______________________
+  1. Detection time
+
+            a. DTG
+            b. Background sample
+            c. Command directed sample
+  2. Meteorological data
+            a. Elevation
+            b. Direction
+            c. Wind speed
+            d. Temperature
+            e. Relative humidity
+  3. Identification
+            a. DTG
+            b. Agent code
+            c. Negative
+  4. Mode of operation
+            a. Standard
+            b. Single sample
+            c. Periodic
+            d. Degraded
+            e. Extreme cold
+
+         Figure I-8. Sample FBCB2 Free Message Text for Biological-Incident Reports
+
+                    (b) FBCB2 supports the biological-detection company and platoon with
+seamless C2 capabilities through interfaces with other Army and joint C2 HQ.
+Communications planning identifies whether the M31A2 digitized reporting capability is
+compatible with the supporting and supported unit. These capabilities allow the user to
+send and receive C2 information horizontally and vertically across the AO irrespective of
+task organization. FBCB2 facilitates a flow of communications that effectively supports
+the synchronization of close combat operations.
+
+                    (c) FBCB2 provides support for the following functional areas:
+situational understanding, battle command, communications management, and
+connectivity with other units.
+
+             (5) FBCB2 capabilities.
+
+I-30
+
+
+---
+
+                    (a) FBCB2 capabilities provide the biological-detection team, platoon,
+and company with the ability to create a common tactical picture that includes mapping,
+maneuver, weather, CSS, intelligence, air defense, and fire support features. There is
+applicability in each of these domains (for example, weather and mapping) for biological-
+detection unit operations. For example, FBCB2 provides—
+
+                           z A visual image of the AO showing unit locations and the
+                                  location of the surrounding FBCB2 equipped systems. The
+                                  FBCB2 system provides each echelon with SA of the
+                                  battlespace, two echelons up and down, and units on the right
+                                  and left.
+
+                           z The automatic display of SA data, maps, grids, and overlays (for
+                                  example, the identification of friendly units, own unit, threat
+                                  units, fire plans, routes, unknown units, and obstacles).
+
+                           z Micrometeorological weather data for other locations within the
+                                  AO.
+
+                           z Visual imagery of digital maps to support biological-detection
+                                  site selection for primary, alternate, and supplemental sites.
+
+                           z Information on friendly force NAIs.
+
+                           z Available information on threat locations and the threat status.
+
+                           z Information on friendly force intent and locations to support
+                                  current and future operations.
+
+                           z Information on the air defense umbrella.
+
+                           z A capability to identify routes of march and movement times
+                                  between points.
+
+                           z Precise lightweight GPS receiver (PLGR) location (the PLGR is
+                                  connected to the FBCB2 through a serial interface).
+
+                    (b) Battle command provides—
+
+                           z The capability for the biological-detection company or platoon to
+                                  send and receive orders and the attached graphical overlays (for
+                                  example, sending the biological-employment plan overlay to
+                                  higher HQ or subordinate biological-detection teams).
+
+                           z The capability to forward biological-detection reports digitally
+                                  from the biological-detection team to the biological-detection
+                                  platoon or company; thereby saving the time required to
+                                  transmit the reports via voice.
+
+                                  NOTE: The capability to transmit reports will be
+                                  dependent on the range of the communications system
+                                  used (for example, HF or FBCB2).
+
+                           z An enhanced capability to track multiple biological events
+                                  graphically at different levels of command.
+
+                           z A capability to respond to emergency situations (such as a
+                                  request for medical evacuation [MEDEVAC] or calls for fire).
+
+                                                                                                                                   I-31
+
+
+---
+
+                           z An immediate method of notifying a unit if they are within the
+                                  danger area of a warning event (for example, an air defense
+                                  warning). The platform distance away from the warning event
+                                  can be displayed in meters.
+
+                    (c) Communications management provides a means to—
+
+                           z Preformat and provide standard digitized preaddressed
+                                  message formats.
+
+                           z Establish electronic message folders and address groups to
+                                  more efficiently monitor and track incoming and outgoing
+                                  message traffic.
+
+                           z Provide periodic reminders of required activities or reports (for
+                                  example, periodic submission of SITREPs).
+
+NOTE: The SINCGARS radio transmits and receives SA and C2 between
+platforms on the same data net frequencies if SINCGARS is attached.
+SINCGARS is the primary communications system for the FBCB2 below
+platoon level. It is used to transmit and receive SA and C2 between platforms
+using data network frequencies.
+
+                    (d) Interface with other Army Battle Command Systems (for example,
+support to nondigitized and digitized forces). Communications planning considers the
+interoperability between the biological-detection unit and the unit being supported (for
+example, a JTF, other service, HN, and/or Army major command). For example, if an
+Army nondigitized force unit is supported, the appropriate nondigitized (voice
+communications) means will be used. Internal to the biological-detection unit, FBCB2
+capabilities can be used (distance and other factors being considered); however, there
+must be interoperability for submission of reports to the required C2 node.
+
+NOTE: At the biological-detection company and platoon HQ level, data transfer
+occurs through use of the EPLRS. The EPLRS is both a data radio and a
+location device and the primary data transfer system for those C2 nodes
+equipped with EPLRS. EPLRS acts as a hub, relaying information to platforms
+outside the local net. Information is relayed to the local net SA server, which
+relays it over EPLRS to the receiving end. The EPLRS transmits and receives
+SA and C2 from the FBDB2 system.
+
+             (6) Limitations.
+
+                    z When a user must change platforms due to battle damage or mission
+                           requirements, data that was stored on the previous FBCB2 is lost.
+
+                    z The computer and keyboard are susceptible to damage from dust and
+                           dirt. Users should take all practical steps to prevent this from
+                           happening.
+
+                    z Interoperability must be assured to ensure communications between
+                           biological-detection units and nondigitized and digitized units.
+
+I-32
+
+
+---
+
+                                   REFERENCES
+
+                                      Department of Defense
+
+DODD 2000.12, DoD Antiterrorism (AT) Program, 18 April 2003.
+DODD 3025.1M, Manual for Civil Emergencies, June 1994 (unclassified [U]).
+DODD 3025.12, Military Assistance for Civil Disturbances (MACDIS),
+4 February 1994 (U).
+DODD 3025.15, Military Assistance to Civil Authorities, 18 February 1997.
+DODD 5100.77, DoD Law of War Program, 9 December 1998.
+DODD 5240.1, DoD Intelligence Activities, 25 April 1988 (U).
+DODD 6490.2, Joint Medical Surveillance, 30 August 1997.
+DODI 6490.3, Implementation and Application of Joint Medical Surveillance for
+Deployments, 7 August 1997.
+DODD 5525.5, DoD Cooperation with Civilian Law Enforcement Officials,
+15 January 1986.
+
+                                                   Joint
+
+Chairman of the Joint Chiefs of Staff Instruction (CJCSI) 3125.01, Military Assistance to
+Domestic Consequence Management Operations in Response to a Chemical, Biological,
+Nuclear, or High-Yield Explosive Situation, 3 August 2001.
+CJCSM 3150.03B, Joint Reporting Structure Event and Incident Reports, 28 July 2003.
+Chairman of the Joint Chiefs of Staff Manual (CJCSM) 3500.04B, Universal Joint Task
+List (UJTL), 1 July 2002.
+JP 1, Joint Warfare of the Armed Forces of the United States, 14 November 2000.
+JP 1-01, Joint Doctrine Development System, Change 1, 5 July 2000.
+JP 1-02, Department of Defense Dictionary of Military and Associated Terms,
+12 April 2001.
+JP 2.01.3, Joint Tactics, Techniques, and Procedures for Joint Intelligence Preparation of
+the Battlespace, 24 May 2000.
+JP 3-0, Doctrine for Joint Operations, 10 September 2001.
+JP 3-01, Joint Doctrine for Countering Air and Missile Threats, 19 October 1999.
+JP 3-01.5, Doctrine for Joint Theater Missile Defense, 22 February 1996
+JP 3-04.6, Joint Tactics, Techniques, and Procedures for Foreign Humanitarian
+Assistance, 15 August 2001.
+JP 3-07, Joint Doctrine for Military Operations Other Than War, 16 June 1995.
+
+                                                                                                                   References-1
+
+
+---
+
+ JP 3-07.1, Joint Tactics, Techniques and Procedures for Foreign Internal Defense (FID),
+ 26 June 1996.
+ JP 3-07.2, Joint Tactics, Techniques, and Procedures for Antiterrorism, 17 March 1998.
+ JP 3-07.7, Joint TTP for Domestic Support Operations, June 1996.
+ JP 3-10, Joint Doctrine for Rear Area Operations, 28 May 1996.
+ JP 3-10.1, Joint Tactics, Techniques and Procedures for Base Defense, 23 July 1996.
+ JP 3-11, Joint Doctrine for Operations in Nuclear, Biological, and Chemical (NBC)
+ Environments, 11 July 2000.
+ JP 3-33, Joint Force Capabilities, 13 October 1999.
+ JP 4-0, Doctrine for Logistics Support of Joint Operations, 6 April 2000.
+ JP 4-02, Doctrine for Health Service Support in Joint Operations, 30 July 2001.
+ JP 5-0, Doctrine for Planning Joint Operations, 13 April 1995.
+ JP 5-00.2, Joint Task Force Planning Guidance and Procedures, 13 January 1999.
+ JP 5-03.1, Joint Operation Planning and Execution System Vol I: (Planning Policies and
+ Procedures, 9 August 1993.
+ JP 5.03.2, Joint Operation Planning and Execution System (JOPES), Volume II,
+ 10 March 1992 (U).
+ JP 6-0, Doctrine for Command, Control, Communications, and Computer (C4) Systems
+ Support to Joint Operations, 30 May 1995.
+ Joint Service Chemical and Biological Defense Program FY 00-02 Overview.
+ Joint Service Chemical and Biological Defense Fact Sheet, August 1998.
+ Joint Service Nuclear, Biological, and Chemical Defense Concept, September 1997.
+ MCM-0006-02, Updated Procedures for Deployment Health Surveillance and Readiness,
+ 1 February 2002.
+
+                                                Multiservice
+
+ FM 3-3/Fleet Marine Force Manual (FMFM) 11-17, Chemical and Biological
+ Contamination Avoidance, 16 November 1992, C1, 29 September 1994.
+ FM 3-3-1/FMFM 11-18, Nuclear Contamination Avoidance, 9 September 1994.
+ FM 3-11.4/Marine Corps Warfighting Publication (MCWP) 3-37.2/Navy Tactics,
+ Techniques, and Procedures (NTTP) 3-11.27/Air Force Tactics, Techniques, and
+ Procedures (AFTTP)(Instruction [I]) 3-2.46, Multiservice Tactics, Techniques, and
+ Procedures for Nuclear, Biological, and Chemical (NBC) Protection, 2 June 2003.
+ FM 3-5/MCWP 3-37.3, NBC Decontamination, 8 July 2000, Change 1, 31 January 2002.
+ FM 3-6/AFM 105-7/FMFM 7-11H, Field Behavior of NBC Agents (Including Smoke and
+ Incendiaries), 3 November 1986.
+
+References-2
+
+
+---
+
+FM 3-9/Navy Facilities (NAVFAC) P-467/Air Force Regulation (AFR) 355-7, Potential
+Military Chemical/Biological Agents and Compounds, 12 December 1990.
+FM 3-11/MCWP 3-31.1/Naval Warfare Publication (NWP) 3-11/AFTTP(I) 3-2.41,
+Multiservice Tactics, Techniques, and Procedures for Nuclear, Biological, and Chemical
+Defense Operations, June 2002.
+FM 3-11.34/MCWP 3-37.5/NTTP 3-11.23/AFTTP (1) 3-2.33, Multiservice Tactics,
+Techniques, and Procedures for Nuclear, Biological, and Chemical (NBC) Defense of
+Theater Fixed Sites, Ports, and Airfields, 29 September 2000.
+FM 3-11.19/MCWP 3-37.4/AFTTP (I) 3-2.44, NBC Reconnaissance, 19 November 1993. To
+be published in the next 6 months.
+FM 3-11/MCWP 3-37.1/NWP 3-11/AFTTP(I) 3-2.42, Multiservice Tactics, Techniques, and
+Procedures For Nuclear, Biological, and Chemical Defense Operations, 10 March 2003.
+FM 8-9/Navy Medical Publication (NAVMED P)-5059/Air Force Joint Manual (AFJMAN)
+44-151V1V2V3, NATO Handbook on the Medical Aspects of NBC Defensive Operations
+AMed P-6(B), 1 February 1996.
+FM 4-02.33, Control of Communicable Diseases Manual, 31 December 1999.
+FM 8-284/NAVMED P-5042/AFMAN (I) 44-156/Marine Corps Reference Publication
+(MCRP) 4-11.1C, Treatment of Biological Warfare Agent Casualties, 17 July 2000.
+FM 21-10/MCRP 4-11.1D, Field Hygiene and Sanitation, 21 June 2000.
+FM 6-02.85/MCRP 3-40.2A/NTTP 3-13.1.16/AFTTP(I) 3-2.22, Multi-Service Tactics,
+Techniques, and Procedures For Joint Task Force Information Management,
+10 September 2003.
+
+                                                   Army
+
+USAMRICD, Medical Management of Biological Casualties Handbook, 4th Ed,
+February 2001.
+FM 3-0, Operations, 14 June 2001.
+FM 3-7, NBC Field Handbook, 29 September 1994.
+FM 3-14/MCRP 3-37.1A, Nuclear, Biological, and Chemical (NBC) Vulnerability Analysis,
+12 November 1997, Change 1, 24 September 1998.
+FM 3-19 (FMFM 11-20), NBC Reconnaissance, 19 November 1993.
+FM 3-90, Tactics, 4 July 2001
+FM 3-101, Chemical Staffs and Units, 19 November 1993.
+FM 4-02, Force Health Protection in a Global Environment, 13 February 2003.
+FM 4-02.7, Health Service Support in a Nuclear, Biological, and Chemical Environment
+Tactics, Techniques, and Procedures, 1 October 2002.
+
+                                                                                                                   References-3
+
+
+---
+
+ FM 8-42, Combat Health Support in Stability Operations and Support Operations,
+ 27 October 1997.
+ FM 8-500, Hazardous Materials Injuries, a Handbook for Prehospital Care (4th Edition),
+ January 1997.
+ FM 4-25.11/Naval Training Reference Publication (NTRP) 4-02.1/AFMAN 44-163(I), First
+ Aid, 23 December 2002.
+ FM 100-6, Information Operations, 27 August 1996.
+ FM 100-7, Decisive Force: The Army in Theater Operations, 31 May 1995.
+ FM 100-23, Peace Operations, 30 December 1994.
+ FM 101-5, Staff Organization and Operations, 31 May 1997.
+ TRADOC Pamphlet 525-63, Operations Concept for Biological Defense, 1 December 1994.
+ USACMLS, Concept for Biological Detection Future, 18 September 1996.
+ USACMLS, Chemical Vision 2010, 3 February 1999.
+ USACMLS, Theater Missile Defense, Joint Project Optic Cobra 1996, After Action Report,
+ 1996.
+ USACMLS, TOE Summary Book, 1 June 2000.
+ Army Chemical Review, NBC Operations in Bosnia, July 1996.
+ Army Chemical Review, January 1997.
+ US Army Maneuver Support Center, Force Development BR DCD, 15 October 2001.
+ USAMRIID, Medical Management of Biological Casualties Handbook, Fourth Edition,
+ February 2001.
+ Training Circular (TC) 3-4, Chemical Battle Staff Handbook, 3 October 1995.
+
+                                                  Air Force
+
+ Air Force Doctrine Document (AFDD)-1, Air Force Basic Doctrine, September 1997.
+ Air Force Handbook (AFH) 32-4014 V1, Operations in a Chemical and Biological (CB)
+ Warfare Environment, CB Planning and Analysis, 1 March 1998.
+ AFH 32-4014 V2, USAF Operations in a Chemical and Biological (CB) Warfare
+ Environment, 1 December 1997.
+ AFH 32-4014 V3, USAF Operations in a Chemical and Biological (CB) Warfare
+ Environment, 1 February 1998.
+ AFH 32-4014 V4, USAF Ability to Survive and Operate Procedures in a Nuclear,
+ Biological, and Chemical (NBC) Environment, 1 March 1998.
+ Air Force Instruction (AFI) 32-4002, Hazardous Material Emergency Planning and
+ Response Program, 22 March 1999.
+
+References-4
+
+
+---
+
+AFMAN 10-2602, Nuclear, Biological, Chemical, and Conventional (NBCC) Defense
+Operations and Standards, 29 May 2003.
+
+AFMAN 32-4004, Emergency Response Operations, 1 December 1995.
+
+AFMAN 32-4005, Personnel Protection and Attack Actions, 30 October 2001.
+
+AFMAN 32-4017, Civil Engineer Readiness Technician’s Manual for Nuclear, Biological,
+and Chemical Defense, 29 May 2003.
+
+Air Force Pamphlet (AFPAM) 32-4019, Chemical-Biological Warfare Commander’s Guide,
+1 April 1998.
+
+Air Force Policy Directive (AFPD) 32-40, Disaster Preparedness, 1 May 1997.
+
+US Air Force Engineering Support Activity, Chemical and Biological Defense Concept of
+Operations, January 1998.
+
+US Air Force Institute for National Security Studies, Countering the Proliferation and Use
+of Weapons of Mass Destruction, 1998.
+
+                                             Marine Corps
+
+MCWP 3-37, Marine Air-Ground Task Force (MAGTF) Nuclear, Biological, and Chemical
+Defensive Operations, September 1998.
+
+                                                   Navy
+
+ATP 45 (B), Reporting Nuclear Detonation, Biological And Chemical Attacks, and
+Predicting and Warning of Associated Hazards and Hazard Areas (Operators Manual),
+1 July 2001.
+
+Commander, Fleet Forces Command Naval Message: 142055Z, BW Agent Detection and
+Response Guidance, March 2003.
+
+Naval Doctrine Command, US Navy, Executive Summary, Multinational Maritime
+Operations, September 1996.
+
+Naval Doctrine Publication 1, Naval Warfare, 28 March 1994.
+
+Naval Doctrine Publication 2, Naval Intelligence, 30 September 1994.
+
+Naval Doctrine Publication 4, Naval Logistics, 20 February 2000.
+
+NWP, 3-20.31 (Revision A), Ship Survivability, January 2000.
+
+Trainee Guide, Disaster Preparedness Operations Specialist, US Navy Detachment, Fort
+Leonard Wood, MO, June 1998.
+
+NATO Standardization Agreements (STANAG) and Publications
+
+Standardization Agreement (STANAG) 2002, Warning Signs for the Marking of
+Contaminated or Dangerous Land Areas, Complete Equipment, Supplies, and Stores,
+29 January 1999.
+
+STANAG 2103, Reporting Nuclear Detonations, Biological and Chemical Attacks, and
+Predicting the Warning of Associated Hazards and Hazard Areas ATP 45 (B),
+31 August 2001.
+
+                                                                                                                   References-5
+
+
+---
+
+ STANAG 2112, NBC Reconnaissance, 6 March 1998.
+ STANAG 2353, Evaluation of NBC Defense Capability, 6 March 2000.
+
+                                              Other Sources
+
+ DA Form 12-99-R. Initial Distribution (ID) Requirements for Publications, April 1996.
+ Allied Engineering Publication (AEP) (10), Sampling and Identification of CB Agents.
+ DA Form 4137. Evidence/Property Custody Document, July 1976.
+ DA Form 2028, Recommended Changes to Publications and Blank Forms, February 1974.
+ DD Form 1911, Material Courier Receipt, May 1982.
+ DD Form 2795. Pre-Deployment Health Assessment, May 1999.
+ DD Form 2796. Post-Deployment Health Assessment, April 2003.
+ Defense Intelligence Agency Manual 58-13, Defense Human Resources Intelligence
+ Collection Procedures (SECRET/NOFOR).
+ Department of Transportation, 2000 Emergency Response Guidebook, A Guide for First
+ Responders During the Initial Phase of a Dangerous Goods/ Hazardous Materials
+ Incident.
+ 49 Code of Federal Regulation (CFR) Part 173.196, Hydrogen cyanide, anhydrous,
+ stabilized (hydrocyanic acid, aqueous solution), 1 October 2003.
+ Federal Emergency Management Agency (FEMA), Federal Radiological Emergency
+ Response Plan (FRERP), 1 May 1996 (U).
+ FEMA 9230.1-PL, Federal Response Plan: Interim, January 2003.
+ IATA Packaging Instruction 602, 2001.
+ IATA Packaging Instruction 650, 2001.
+ IATA Dangerous Goods Regulation (DGR), 1 January 2004–31 December 2004.
+ Technical Instructions on the Safe Transport of Dangerous Goods by Air, 2003–2004
+ Edition.
+ Memorandum, Under Secretary of Defense, Military and Veterans Health Coordinating
+ Board and Presidential Review Directive (PRD-S), 7 December 1999.
+ Deterrence and Defense in a Nuclear, Biological, and Chemical Environment,
+ Robert B. Joseph and John F. Reichart, 1999.
+ Office of Special Assistant for Gulf War Illness, Lessons Learned Implementation,
+ 18 November 1999.
+ Presidential Decision Directive (PDD)/National Security Council (NSC) 39, U.S.
+ Government Policy on Counterterrorism, 21 June 1995.
+ Soldier Training Publication (STP) 8-91B-15-SM-TG, MOS 91W, Health Care Specialist,
+ 10 October 2001.
+
+References-6
+
+
+---
+
+TM 3-6665-350-12&P, Operator’s and Unit Maintenance Manual (Including Repair Parts
+and Special Tools List) for Alarm Biological Agent, Automatic: Integrated Detection
+System, M31A1, 31 December 2001.
+
+                                                                                                                   References-7
+
+
+---
+
+A                        GLOSSARY
+
+AAR     PART I—ABBREVIATIONS AND ACRONYMS
+AB
+ABCS      after-action report
+AC        airbase
+ACLEFT    Army Battle Command System
+ACP       alternating current
+ADA       aircraft left
+admin     aerial checkpoint
+ADP       air defense artillery
+ADTDL     administrative
+AFB       automated data processing
+AFDD      Army Doctrine and Training Digital Library
+AFH       Air Force base
+AFI       Air Force doctrine document
+AFJMAN    Air Force handbook
+AFM       Air Force instruction
+AFMAN     Air Force joint manual
+AFPAM     Air Force manual
+AFPD      Air Force manual
+AFR       Air Force pamphlet
+AFTTP     Air Force policy directive
+AGL       Air Force regulation
+AL        Air Force tactics, techniques, and procedures
+AM        above ground level
+AMC       Alabama
+AMed      amplitude modulation
+AO        Air Mobility Command
+AOI       allied medical
+AOR       area of operations
+APO       area of interest
+APOD      area of responsibility
+APOE      Army post office
+APS       aerial port of debarkation
+          aerial port of embarkation
+          aerodynamic particle sizer
+
+                                                         Glossary-1
+
+
+---
+
+ ARFOR      Army forces
+ AT         antiterrorism
+ ATIA-M     Army Training Information Architecture-Migrated
+ ATP        allied tactical publication
+ attn       attention
+ AUG        August
+
+ B          brigade
+            Biological Integrated Detection System
+ bde        biological
+ BIDS       battalion
+ bio        branch
+ bn         brigade support area
+ br         biological warfare
+ BSA
+ BW         Celsius
+            command and control
+ C          command, control, communications, and computers
+            command, control, communications, computers, and intelligence
+ C          civil affairs
+ C2         chemical-biological; chemical and biological
+ C4         chemical-biological mass spectrometer
+ C4I        chemical, biological, and radiological
+ CA         chemical, biological, radiological, or nuclear
+ CB         commander’s critical information requirements
+ CBMS       compact disc
+ CBR        Centers for Disease Control and Prevention
+ CBRN       Code of Federal Regulations
+ CCIR       commanding general
+ CD         combat health support
+ CDC        communications interface processor
+ CFR        Chairman of the Joint Chiefs of Staff
+ CG         Chairman of the Joint Chiefs of Staff instruction
+ CHS        Chairman of the Joint Chiefs of Staff manual
+ CIP        contracted logistics support
+ CJCS       chemical
+ CJCSI      chemical officer
+ CJCSM      chief military observer
+ CLS
+ CM
+ CMLO
+ CMO
+
+Glossary-2
+
+
+---
+
+co       company
+COA      course of action
+COCOM    combatant command (command authority)
+COE      concept of employment
+COMM     communications; commercial
+CONOPS   concept of operations
+CONPLAN  concept plan
+CONUS    continental United States
+COP      common operational picture
+COS      chief of staff
+COTS     commercial off-the-shelf
+CP       command post
+CPU      central processing unit
+CRC      CONUS replacement center
+CS       combat support
+CSH      combat support hospital
+CSS      combat service support
+CV       aircraft carrier
+CVN      aircraft carrier, nuclear
+CW       chemical warfare
+CWO      chief warrant officer
+
+D        Department of the Army
+         direct current
+DA       damage control center
+DC       Directorate of Combat Development
+DCC      Department of Defense
+DCD      degree
+DD       detachment
+deg      dangerous goods regulation
+det      division support command
+DGR      deoxyribonucleic acid
+DISCOM   disease and nonbattle injury
+DNA      Department of Defense
+DNBI     Department of Defense directive
+DOD      Department of Defense instruction
+DODD     Department of Transportation
+DODI     Defense Switch Network
+DOT      date-time group
+DSN
+DTG
+
+                                                Glossary-3
+
+
+---
+
+E           echelons above corps
+            environmental control unit
+EAC         explosive ordnance disposal
+ECU         Enhanced Position Location Reporting System
+EOD
+EPLRS       Fahrenheit
+            forward arming and refueling point
+F           Force XXI battle command/brigade and below
+            Food and Drug Administration
+F           Federal Emergency Management Agency
+FARP        force health protection
+FBCB2       foreign internal defense
+FDA         forward line of own troops
+FEMA        field manual; frequency modulation
+FHP         Fleet Marine Force Manual
+FID         foreign nation support
+FLOT        force protection
+FM          fleet post office
+FMFM        fragmentary order
+FNS         Federal Radiological Emergency Response Plan
+FP          fire support
+FPO         fire support coordinator
+FRAGORD     fire support element
+FRERP       forward support medical company
+FS          fiscal year
+FSCOORD
+FSE         Army or Marine Corps component intelligence staff officer (Army
+FSMC        division or higher staff, Marine Corps brigade or higher staff)
+FY          Georgia
+            Global Command and Control System
+G           government-furnished equipment
+            global positioning system
+G-2
+            high frequency
+GA          high mobility multipurpose wheeled vehicle
+GCCS        host nation
+GFE
+GPS
+
+H
+
+HF
+HMMWV
+HN
+
+Glossary-4
+
+
+---
+
+HNS       host-nation support
+HQ        headquarters
+HSS       health service support
+HUMINT    human intelligence
+HVAC      heating, ventilation, and air conditioning
+HVT       high-value target
+
+I         instruction
+          International Air Transport Association
+I         international border
+IATA      Interim Biological Agent Detector System
+IB        identification
+IBADS     Information Management System
+ID        intelligence preparation of the battlespace
+IMS       individual protective equipment
+IPB       information requirement
+IPE       intelligence, surveillance, and reconnaissance
+IR
+ISR       joint airspace control center
+          Joint Biological Agent Identification and Diagnostic System
+J         joint biological point detection system
+          joint-force commander
+JACC      Joint Operation Planning and Execution System
+JBAIDS    joint publication
+JBPDS     junior
+JFC       Joint Service Light Nuclear, Biological, and Chemical
+JOPES     Reconnaissance System
+JP        Joint Surveillance Target Attack Radar System
+Jr.       joint task force
+JSLNBCRS
+          kilogram
+JSTARS    kilometer(s)
+JTF       kilometers per hour
+
+K         landing craft air cushion
+          amphibious assault ship (general purpose)
+kg        law of armed conflict
+km
+kph
+
+L
+
+LCAC
+LHA
+LOAC
+
+          Glossary-5
+
+
+---
+
+ LOS        line of sight
+ LRBSDS     Long-Range Biological Standoff Detection System
+ LSE        logistics support element
+ LZ         landing zone
+
+ M          month; meter
+            military assistance for civil disturbances
+ m          Marine Air-Ground Task Force
+ MACDIS     Maneuver Support Center
+ MAGTF      Marine Corps forces
+ MANSCEN    Marine Corps Combat Development Command
+ MARFOR     military classification manual
+ MCCDC      Marine Corps reference publication
+ MCM        maneuver control system
+ MCRP       Marine Corps Warfighting Publication
+ MCS        Maryland
+ MCWP       medical center
+ MD         medical evacuation
+ MEDCEN     meteorological
+ MEDEVAC    (Marine Corps) mission, enemy, terrain and weather, troops
+ met        available, and time
+ METT-T     mission, enemy, terrain and weather, time, troops available, and
+            civilian
+ METT-TC    master gunnery sergeant
+            military
+ MGySgt     military standard
+ mil        military standard requisitioning and issue procedures
+ MIL-STD    miniature flow cytometer
+ MILSTRIP   milliliter
+ mini-FCM   millimeter
+ ml         Missouri
+ mm         main operations base
+ MO         military occupational specialty
+ MOB        mission-oriented protective posture
+ MOS        miles per hour
+ MOPP       Military Sealift Command; major subordinate command
+ mph        mobile subscriber equipment
+ MSC        main supply route
+ MSE        mobile subscriber radio terminal
+ MSR        medical treatment facility
+ MSRT
+ MTF
+
+Glossary-6
+
+
+---
+
+MTMC    Military Traffic Management Command
+MTTP    multiservice tactics, techniques, and procedures
+
+N       not applicable
+        numbered air force
+N/A     named area of interest
+NAF     North Atlantic Treaty Organization
+NAI     Navy medical
+NATO    Navy facilities
+NAVMED  Navy forces
+NAVFAC  nuclear, biological, and chemical
+NAVFOR  nuclear, biological, and chemical control center
+NBC     nuclear, biological, and chemical defense
+NBCCC   nuclear, biological, and chemical defense officer
+NBCD    nonbattle injury
+NBCDO   North Carolina
+NBI     noncommissioned officer
+NC      noncommissioned officer in charge
+NCO     negative
+NCOIC   nongovernmental organization
+neg     not later than
+NGO     number
+NLT     nap-of-the-earth
+no      National Security Council
+NOE     Naval training reference publication
+NSC     Navy tactics, techniques, and procedures
+NTRP    Navy Warfare Development Command
+NTTP    naval warfare publication
+NWDC
+NWP     operations and intelligence
+        outside the continental United States
+O       other government agency
+        operations center
+O&I     operational control
+OCONUS  operation plan
+OGA     chief of Naval operations
+OPCEN   operation order
+OPCON   office of primary responsibility
+OPLAN
+OPNAV
+OPORD
+OPR
+
+                                                           Glossary-7
+
+
+---
+
+OPSEC       operations security
+OPTASK      operation task
+OPTEMPO     operating tempo
+
+P           promotable
+            preplanned product improvement
+P           personal computer
+P3I         presidential decision directive
+PC          public health lab
+PDD         priority intelligence requirement
+PHL         precise lightweight GPS receiver
+PIR         preventive maintenance checks and services
+PLGR        point of contact
+PMCS        port of debarkation
+POC         port of embarkation
+POD         presidential review directive
+POE         preventive medicine
+PRD
+PVNTMED     quality assurance
+            quality control
+Q
+            reconnaissance and surveillance
+QA          reconnaissance
+QC          radio frequency
+            Rhode Island
+R           ribonucleic acid
+            release point
+R&S         reception, staging, onward movement, and integration
+recon
+RF          battalion or brigade intelligence staff officer (Army, Marine Corps
+RI          battalion or regiment)
+RNA         battalion or brigade operations staff officer (Army; Marine Corps
+RP          battalion or regiment)
+RSOI        situational awareness
+            suppression of enemy air defenses
+S           signals intelligence
+            signal security
+S-2
+
+S-3
+
+SA
+SEAD
+SIGINT
+SIGSEC
+
+Glossary-8
+
+
+---
+
+SINCGARS   single-channel ground and airborne radio system
+SITREP     situation report
+SJA        Staff Judge Advocate
+SM         soldier’s manual
+SNCIOC     senior noncommissioned officer in charge
+SOF        special operations forces
+SOI        signal operating instructions
+SOP        standard operating procedure
+SPOD       seaport of debarkation
+SPOE       seaport of embarkation
+STANAG     standardization agreement
+STP        soldier training publication
+
+T          tactical control
+           tactical satellite
+TACON      hospital ship
+TACSAT     theater Army medical laboratory
+T-AH       theater ballistic missile
+TAML       technical
+TBM        technical operational data
+tech       technical escort unit
+TECHOPDAT  trainer’s guide
+TEU        team leader
+TG         technical manual
+TL         theater of operations, technical order
+TM         tactical operations center
+TO         time-phased force and deployment data
+TOC        time-phased force and deployment list
+TPFDD      United States Army Training and Doctrine Command
+TPFDL      tactics, techniques, and procedures
+TRADOC
+TTP        unclassified
+           ultrahigh frequency
+U          unit identification code
+           universal joint tack list
+U          unit movement data
+UHF        United Nations
+UIC        United States
+UJTL
+UMD
+UN
+US
+
+                                                             Glossary-9
+
+
+---
+
+USA          United States Army; United States of America
+USACMLS      United States Army Chemical School
+USAF         United States Air Force
+USAMRIID     United States Medical Research Institute of Infectious Diseases
+USMC         United States Marine Corps
+USN          United States Navy
+USTRANSCOM   United States Transportation Command
+UV           ultraviolet
+UVAPS        ultraviolet aerodynamic particle sizer
+
+V            Virginia, vulnerability assessment
+             very high frequency
+VA
+VHF          warning order
+             will comply
+W            weapons of mass destruction
+             world wide web
+WARNORD
+WILCO        experimental model
+WMD          executive officer
+www
+             year
+X
+             zulu
+XM
+XO
+
+Y
+
+y
+
+Z
+
+Z
+
+Glossary-10
+
+
+---
+
+                              PART II–TERMS AND DEFINITIONS
+
+Aerosol. A liquid or solid composed of finely divided particles suspended in a gaseous
+medium. Examples of common aerosols are mist, fog, and smoke. (JP 1-02)
+
+Air defense area. 1. overseas—A specifically defined airspace for which air defense
+must be planned and provided. 2. United States—Airspace of defined dimensions
+designated by the appropriate agency within which the ready control of airborne
+vehicles is required in the interest of national security during an air defense
+emergency. (JP 1-02)
+
+Air defense artillery. Weapons and equipment for actively combating air targets
+from the ground. Also called ADA. (JP 1-02)
+
+Air Mobility Command. The Air Force component command of the US
+Transportation Command. Also called AMC. (JP 1-02)
+
+Area of interest. That area of concern to the commander, including the area of
+influence, areas adjacent thereto, and extending into enemy territory to the objectives
+of current or planned operations. This area also includes areas occupied by enemy
+forces who could jeopardize the accomplishment of the mission. Also called AOI.
+(JP 1-02)
+
+Area of operations. An operational area defined by the joint force commander for
+land and naval forces. Areas of operation do not typically encompass the entire
+operational area of the joint force commander, but should be large enough for
+component commanders to accomplish their missions and protect their forces. Also
+called AO. (JP 1-02)
+
+Area of responsibility. The geographical area associated with a combatant
+command within which a combatant commander has authority to plan and conduct
+operations. Also called AOR. (JP 1-02)
+
+Assembly Area. 1. An area in which a command is assembled preparatory to further
+action. 2. In a supply installation, the gross area used for collecting and combining
+components into complete units, kits, or assemblies. (JP 1-02)
+
+Avoidance. Individual and/or unit measures taken to avoid or minimize nuclear,
+biological, and chemical (NBC) attacks and reduce the effects of NBC hazards.
+(JP 1-02)
+
+Battlespace. The environment, factors, and conditions that must be understood to
+successfully apply combat power, protect the force, or complete the mission. This
+includes the air, land, sea, space, and the included enemy and friendly forces;
+facilities; weather; terrain; the electromagnetic spectrum, and the information
+environment within the operational areas and areas of interest. See also
+electromagnetic spectrum; information environment; joint intelligence preparation of
+the battlespace. (JP 1-02)
+
+Biological agent. A microorganism that causes disease in personnel, plants, or
+animals or causes the deterioration of materiel. See also biological operation; biological
+weapon; chemical agent. (JP 1-02)
+
+                                                                                                                     Glossary-11
+
+
+---
+
+ Biological defense. The methods, plans, and procedures involved in establishing and
+ executing defensive measures against attacks using biological agents. (JP 1-02)
+
+ Biological operation. Employment of biological agents to produce casualties in
+ personnel or animals or damage to plants. See also biological agent; biological threat.
+ (JP 1-02)
+
+ Biological threat. A threat that consists of biological material planned to be deployed
+ to produce casualties in personnel or animals or damage plants. See also biological
+ agent; biological ammunition; biological defense; biological environment; chemical,
+ biological, and radiological operation; contamination; contamination control. (JP 1-02)
+
+ Biological weapon. An item of materiel which projects, disperses, or disseminates a
+ biological agent including arthropod vectors. (JP 1-02)
+
+ Blister agent. A chemical agent which injures the eyes and lungs, and burns or
+ blisters the skin. Also called vesicant agent. (JP 1-02)
+
+ Boundary. A line that delineates surface areas for the purpose of facilitating
+ coordination and deconfliction of operations between adjacent units, formations, or
+ areas. See also airspace control boundary. (JP 1-02)
+
+ Casualty. Any person who is lost to the organization by having been declared dead,
+ duty status – whereabouts unknown, missing, ill, or injured. See also casualty
+ category; casualty status; casualty type; duty status - whereabouts unknown; hostile
+ casualty; nonhostile casualty. (JP 1-02)
+
+ Chemical agent. Any toxic chemical intended for use in military operations. See also
+ chemical ammunition; chemical defense; chemical dose; chemical environment;
+ chemical warfare; riot control agent. (JP 1-02)
+
+ Chemical defense. The methods, plans, and procedures involved in establishing and
+ executing defensive measures against attack utilizing chemical agents. See also
+ nuclear, biological, and chemical defense. (JP 1-02)
+
+ Chemical environment. Conditions found in an area resulting from direct or
+ persisting effects of chemical weapons. (JP 1-02)
+
+ Chemical operation. Employment of chemical agents to kill, injure, or incapacitate
+ for a significant period time, man or animals, and deny or hinder the use of areas,
+ facilities, or materiel; or defense against such employment. (JP 1-02)
+
+ Chemical warfare. All aspects of military operations involving the employment of
+ lethal and incapacitating munitions/agents and the warning and protective measures
+ associated with such offensive operations. Since riot control agents and herbicides are
+ not considered to be chemical warfare agents, those two items will be referred to
+ separately or under the broader term “chemical,” which will be used to include all
+ types of chemical munitions/agents collectively. Also called CW. See also chemical
+ agent; chemical defense; chemical dose; chemical environment; chemical weapon; riot
+ control agent. (JP 1-02)
+
+Glossary-12
+
+
+---
+
+Chief of staff. The senior or principal member or head of a staff, or the principal
+assistant in a staff capacity to a person in a command capacity; the head or controlling
+member of a staff, for purposes of the coordination of its work; a position that in itself
+is without inherent power of command by reason of assignment, except that which is
+invested in such a position by delegation to exercise command in another’s name.
+(JP 1-02)
+
+Civil affairs. Designated Active and Reserve component forces and units organized,
+trained, and equipped specifically to conduct civil affairs activities and to support civil-
+military operations. Also called CA. See also civil affairs activities; civil-military
+operations. (JP 1-02)
+
+Combatant command (command authority). Nontransferrable command
+authority established by title 10 (“Armed Forces”), United States Code, section 164,
+exercised only by commanders of unified or specified combatant commands unless
+otherwise directed by the President or the Secretary of Defense. Combatant command
+(command authority) cannot be delegated and is the authority of a combatant
+commander to perform those functions of command over assigned forces involving
+organizing and employing commands and forces, assigning tasks, designating
+objectives, and giving authoritative direction over all aspects of military operations,
+joint training, and logistics necessary to accomplish the missions assigned to the
+command. Combatant command (command authority) should be exercised through the
+commanders of subordinate organizations. Normally this authority is exercised
+through subordinate joint force commanders and Service and/or functional component
+commanders. Combatant command (command authority) provides full authority to
+organize and employ commands and forces as the combatant commander considers
+necessary to accomplish assigned missions. Operational control is inherent in
+combatant command (command authority). Also called COCOM. See also combatant
+command; combatant commander; operational control; tactical control. (JP 1-02)
+
+Combat service support. The essential capabilities, functions, activities, and tasks
+necessary to sustain all elements of operating forces in theater at all levels of war.
+Within the national and theater logistic systems, it includes but is not limited to that
+support rendered by service forces in ensuring the aspects of supply, maintenance,
+transportation, health services, and other services required by aviation and ground
+combat troops to permit those units to accomplish their missions in combat. Combat
+service support encompasses those activities at all levels of war that produce
+sustainment to all operating forces on the battlefield. Also called CSS. See also combat
+support. (JP 1-02)
+
+Combat support. Fire support and operational assistance provided to combat
+elements. Also called CS. See also combat service support. (JP 1-02)
+
+Command and control. The exercise of authority and direction by a properly
+designated commander over assigned and attached forces in the accomplishment of
+the mission. Command and control functions are performed through an arrangement
+of personnel, equipment, communications, facilities, and procedures employed by a
+commander in planning, directing, coordinating, and controlling forces and operations
+in the accomplishment of a mission. Also called C2. (JP 1-02)
+
+                                                                                                                     Glossary-13
+
+
+---
+
+ Commander’s critical information requirements. A comprehensive list of
+ information requirements identified by the commander as being critical in facilitating
+ timely information management and the decisionmaking process that affect successful
+ mission accomplishment. Two key subcomponents are critical friendly force
+ information and priority intelligence requirements. Also called CCIR. See also critical
+ information; information; information requirements; intelligence; priority intelligence
+ requirements. (JP 1-02)
+
+ Command post. A unit’s or subunit’s headquarters where the commander and the
+ staff perform their activities. In combat, a unit’s or subunit’s headquarters is often
+ divided into echelons; the echelon in which the unit or subunit commander is located
+ or from which such commander operates is called a command post. Also called CP.
+ (JP 1-02)
+
+ Common operational picture. A single identical display of relevant information
+ shared by more than one command. A common operational picture facilitates
+ collaborative planning and assists all echelons to achieve situational awareness. Also
+ called COP. (JP 1-02)
+
+ Concept of operations. A verbal or graphic statement, in broad outline, of a
+ commander’s assumptions or intent in regard to an operation or series of operations.
+ The concept of operations frequently is embodied in campaign plans and operation
+ plans; in the latter case, particularly when the plans cover a series of connected
+ operations to be carried out simultaneously or in succession. The concept is designed to
+ give an overall picture of the operation. It is included primarily for additional clarity of
+ purpose. Also called commander’s concept or CONOPS. (JP 1-02)
+
+ Contamination. 1. The deposit, absorption, or adsorption of radioactive material, or
+ of biological or chemical agents on or by structures, areas, personnel, or objects. See
+ also fallout; induced radiation; residual radiation.2. Food and/or water made unfit for
+ consumption by humans or animals because of the presence of environmental
+ chemicals, radioactive elements, bacteria, or organisms, the byproduct of the growth of
+ bacteria or organisms, the decomposing material (to include the food substance itself),
+ or waste in the food or water. (JP 1-02)
+
+ Contamination control. Procedures to avoid, reduce, remove, or render harmless
+ (temporarily or permanently) nuclear, biological, and chemical contamination for the
+ purpose of maintaining or enhancing the efficient conduct of military operations. See
+ also biological agent; biological ammunition; biological defense; biological
+ environment; biological threat; chemical agent; chemical ammunition; chemical,
+ biological, and radiological operation; chemical defense; chemical environment;
+ contamination. (JP 1-02)
+
+ Continental United States. United States territory, including the adjacent
+ territorial waters, located within North America between Canada and Mexico. Also
+ called CONUS. (JP 1-02)
+
+ Contingency Plan. A plan for major contingencies that can reasonably be
+ anticipated in the principal geographic subareas of the command. See also joint
+ operation planning. (JP 1-02)
+
+Glossary-14
+
+
+---
+
+Contracted logistic support. Support in which maintenance operations for a
+particular military system are performed exclusively by contract support personnel.
+Also called CLS. See also logistic support; support. (JP 1-02)
+
+Contracting officer. A US military officer or civilian employee who has a valid
+appointment as a contracting officer under the provisions of the Federal Acquisition
+Regulation. The individual has the authority to enter into and administer contracts
+and determinations as well as findings about such contracts. (JP 1-02)
+
+Control Point. 1. A position along a route of march at which men are stationed to
+give information and instructions for the regulation of supply or traffic. 2. A position
+marked by a buoy, boat, aircraft, electronic device, conspicuous terrain feature, or
+other identifiable object which is given a name or number and used as an aid to
+navigation or control of ships, boats, or aircraft. 3. In marking mosaics, a point locate
+by ground survey with which a corresponding point on a photograph is matched as a
+check. (JP 1-02)
+
+Course of action. 1. Any sequence of activities that an individual or unit may follow.
+2. A possible plan open to an individual or commander that would accomplish, or is
+related to the accomplishment of the mission. 3. The scheme adopted to accomplish a
+job or mission. 4. A line of conduct in an engagement. 5. A product of the Joint
+Operation Planning and Execution System concept development phase. Also called
+COA. (JP 1-02)
+
+Decontamination. The process of making any person, object, or area safe by
+absorbing, destroying, neutralizing, making harmless, or removing chemical or
+biological agents, or by removing radioactive material clinging to or around it.
+(JP 1-02)
+
+Deliberate Attack. A type of offensive action characterized by preplanned
+coordinated employment of firepower and maneuver to close with and destroy or
+capture the enemy. (JP 1-02)
+
+Detection. 1. In tactical operations, the perception of an object of possible military
+interest but unconfirmed by recognition. 2. In surveillance, the determination and
+transmission by a surveillance system that an event has occurred. 3. In arms control,
+the first step in the process of ascertaining the occurrence of a violation of an arms
+control agreement. 4. In nuclear, biological, and chemical (NBC) environments, the act
+of locating NBC hazards by use of NBC detectors or monitoring and/or survey teams.
+See also hazard; monitoring; nuclear, biological, and chemical environment. (JP 1-02)
+
+Direct action. Short-duration strikes and other small-scale offensive actions
+conducted as a special operation in hostile, denied, or politically sensitive
+environments and which employ specialized military capabilities to seize, destroy,
+capture, exploit, recover, or damage designated targets. Direct action differs from
+conventional offensive actions in the level of physical and political risk, operational
+techniques, and the degree of discriminate and precise use of force to achieve specific
+objectives. Also called DA. See also special operations; special operations forces.
+(JP 1-02)
+
+                                                                                                                     Glossary-15
+
+
+---
+
+ Doctrine. Fundamental principles by which the military forces or elements thereof
+ guide their actions in support of national objectives. It is authoritative but requires
+ judgment in application. (JP 1-02)
+
+ Explosive ordnance disposal. The detection, identification, on-site evaluation,
+ rendering safe, recovery, and final disposal of unexploded explosive ordnance. It may
+ also include explosive ordnance which has become hazardous by damage or
+ deterioration. Also called EOD. (JP 1-02)
+
+ Fire support. Fires that directly support land, maritime, amphibious, and special
+ operation forces to engage enemy forces, combat formations, and facilities in pursuit of
+ tactical and operational objectives. Also called FS. (JP 1-02)
+
+ Force health protection. All services performed, provided, or arranged by the
+ Services to promote, improve, conserve, or restore the mental or physical well-being of
+ personnel. These services include, but are not limited to, the management of health
+ services resources, such as manpower, monies, and facilities; preventive and curative
+ health measures; evacuation of the wounded, injured, or sick; selection of the
+ medically fit and disposition of the medically unfit; blood management; medical
+ supply, equipment, and maintenance thereof; combat stress control; and medical,
+ dental, veterinary, laboratory, optometry, medical food, and medical intelligence
+ services. See also force; protection. (JP 1-02)
+
+ Force protection. Actions taken to prevent or mitigate hostile actions against
+ Department of Defense personnel (to include family members), resources, facilities,
+ and critical information. These actions conserve the force’s fighting potential so it can
+ be applied at the decisive time and place and incorporate the coordinated and
+ synchronized offensive and defensive measures to enable the effective employment of
+ the joint force while degrading opportunities for the enemy. Force protection does not
+ include actions to defeat the enemy or protect against accidents, weather, or disease.
+ Also called FP. See also force; force protection condition; protection. (JP 1-02)
+
+ Forward line of own troops. A line that indicates the most forward positions of
+ friendly forces in any kind of military operation at a specific time. The forward line of
+ own troops (FLOT) normally identifies the forward location of covering and screening
+ forces. The FLOT may be at, beyond, or short of the forward edge of the battle area. An
+ enemy FLOT indicates the forward-most position of hostile forces. Also called FLOT.
+ (JP 1-02)
+
+ Health service support. All services performed, provided, or arranged by the
+ Services to promote, improve, conserve, or restore the mental or physical well-being of
+ personnel. These services include but are not limited to the management of health
+ services resources, such as manpower, monies, and facilities; preventive and curative
+ health measures; evacuation of the wounded, injured, or sick; selection of the
+ medically fit and disposition of the medically unfit; blood management; medical
+ supply, equipment, and maintenance thereof; combat stress control; and medical,
+ dental, veterinary, laboratory, optometric, medical food, and medical intelligence
+ services. Also called HSS. (JP 1-02)
+
+Glossary-16
+
+
+---
+
+High-value target. A target the enemy commander requires for the successful
+completion of the mission. The loss of high-value targets would be expected to
+seriously degrade important enemy functions throughout the friendly commander’s
+area of interest. Also called HVT. See also high-payoff target; target. (JP 1-02)
+Host nation. A nation that receives the forces and/or supplies of allied nations,
+coalition partners, and/or NATO organizations to be located on, to operate in, or to
+transit through its territory. Also called HN. (JP 1-02)
+Host-nation support. Civil and/or military assistance rendered by a nation to foreign
+forces within its territory during peacetime, crisis or emergencies, or war based on
+agreements mutually concluded between nations. Also called HNS. (JP 1-02)
+Human intelligence. A category of intelligence derived from information collected
+and provided by human resources. Also called HUMINT. See also human resources
+intelligence. (JP 1-02)
+Identification. 1. The process of determining the friendly or hostile character of an
+unknown detected contact. 2. In arms control, the process of determining which nation
+is responsible for the detected violations of any arms control measure. 3. In ground
+combat operations, discrimination between recognizable objects as being friendly or
+enemy, or the name that belongs to the object as a member of a class. Also called ID.
+(JP 1-02)
+Individual protection. Actions taken by individuals to survive and continue the
+mission under nuclear, biological, and chemical conditions. See also protection.
+(JP 1-02)
+Individual protective equipment. In nuclear, biological, and chemical warfare, the
+personal clothing and equipment required to protect an individual from biological and
+chemical hazards and some nuclear effects. (JP 1-02)
+Industrial chemicals. Chemicals developed or manufactured for use in industrial
+operations or research by industry, government, or academia. These chemicals are not
+primarily manufactured for the specific purpose of producing human casualties or
+rendering equipment, facilities, or areas dangerous for human use. Hydrogen cyanide,
+cyanogen chloride, phosgene, and chloropicrin are industrial chemicals that also can
+be military chemical agents. See also chemical warfare (JP 1-02)
+Information requirements. Those items of information regarding the enemy and
+his environment which need to be collected and processed in order to meet the
+intelligence requirements of a commander. See also priority intelligence requirements.
+(JP 1-02)
+
+                                                                                                                     Glossary-17
+
+
+---
+
+ Intelligence. 1. The product resulting from the collection, processing, integration,
+ analysis, evaluation, and interpretation of available information concerning foreign
+ countries or areas. 2. Information and knowledge about an adversary obtained
+ through observation, investigation, analysis, or understanding. See also acoustic
+ intelligence; all-source intelligence; basic intelligence; civil defense intelligence;
+ combat intelligence; communications intelligence; critical intelligence; current
+ intelligence; departmental intelligence; domestic intelligence; electronic intelligence;
+ electro-optical intelligence; foreign intelligence; foreign instrumentation signals
+ intelligence; general military intelligence; human resources intelligence; imagery
+ intelligence; joint intelligence; laser intelligence; measurement and signature
+ intelligence; medical intelligence; merchant intelligence; military intelligence;
+ national intelligence; nuclear intelligence; open-source intelligence; operational
+ intelligence; photographic intelligence; political intelligence; radar intelligence;
+ radiation intelligence; scientific and technical intelligence; security intelligence;
+ strategic intelligence; tactical intelligence; target intelligence; technical intelligence;
+ technical operational intelligence; terrain intelligence; unintentional radiation
+ intelligence. (JP 1-02)
+
+ Intelligence preparation of the battlespace. An analytical methodology employed
+ to reduce uncertainties concerning the enemy, environment, and terrain for all types
+ of operations. Intelligence preparation of the battlespace builds an extensive database
+ for each potential area in which a unit may be required to operate. The database is
+ then analyzed in detail to determine the impact of the enemy, environment, and
+ terrain on operations and presents it in graphic form. Intelligence preparation of the
+ battlespace is a continuing process. Also called IPB. (JP 1-02)
+
+ Interoperability. 1. The ability of systems, units, or forces to provide services to and
+ accept services from other systems, units, or forces and to use the services so
+ exchanged to enable them to operate effectively together. 2. The condition achieved
+ among communications-electronics systems or items of communications-electronics
+ equipment when information or services can be exchanged directly and satisfactorily
+ between them and/or their users. The degree of interoperability should be defined
+ when referring to specific cases. (JP 1-02)
+
+ Joint force commander. A general term applied to a combatant commander,
+ subunified commander, or joint task force commander authorized to exercise
+ combatant command (command authority) or operational control over a joint force.
+ Also called JFC. See also joint force (JP 1-02)
+
+ Joint publication. A publication containing joint doctrine and/or joint tactics,
+ techniques, and procedures that involves the employment of forces prepared under the
+ cognizance of Joint Staff directorates and applicable to the Military Departments,
+ combatant commands, and other authorized agencies. It is approved by the Chairman
+ of the Joint Chiefs of Staff, in coordination with the combatant commands and
+ Services. Also called JP. See also Chairman of the Joint Chiefs of Staff Instruction;
+ Chairman of the Joint Chiefs of Staff Manual; joint doctrine; joint tactics, techniques,
+ and procedures; joint test publication. (JP 1-02)
+
+ Joint task force. A joint force that is constituted and so designated by the Secretary
+ of Defense, a combatant commander, a subunified commander, or an existing joint
+ task force commander. Also called JTF. (JP 1-02)
+
+Glossary-18
+
+
+---
+
+Logistics. The science of planning and carrying out the movement and maintenance
+of forces. In its most comprehensive sense, those aspects of military operations that
+deal with: a. design and development, acquisition, storage, movement, distribution,
+maintenance, evacuation, and disposition of material; b. movement, evacuation, and
+hospitalization of personnel; c. acquisition or construction, maintenance, operation,
+and disposition of facilities; and d. acquisition or furnishing of services. (JP 1-02)
+
+Logistic support. Logistic support encompasses the logistic services, materiel, and
+transportation required to support the continental United States-based and worldwide
+deployed forces. (JP 1-02)
+
+Main operations base. In special operations, a base established by a joint force
+special operations component commander or a subordinate special operations
+component commander in friendly territory to provide sustained command and
+control, administration, and logistical support to special operations activities in
+designated areas. Also called MOB. See also advanced operations base; forward
+operations base. (JP 1-02)
+
+Main supply route. The route or routes designated within an operational area upon
+which the bulk of traffic flows in support of military operations. Also called MSR.
+(JP 1-02)
+
+Maritime environment. The oceans, seas, bays estuaries, islands, coastal areas, and
+the airspace above these, including the littorals. (JP 1-02)
+
+Mission-oriented protective posture. A flexible system of protection against
+nuclear, biological, and chemical contamination. This posture requires personnel to
+wear only that protective clothing and equipment (mission-oriented protective posture
+gear) appropriate to the threat level, work rate imposed by the mission, temperature,
+and humidity. Also called MOPP. See also mission-oriented protective posture gear.
+(JP 1-02)
+
+Mission-oriented protective posture gear. Military term for individual protective
+equipment including suit, boots, gloves, mask with hood, first aid treatments, and
+decontamination kits issued to soldiers. Also called MOPP gear. See also
+decontamination; mission-oriented protective posture. (JP 1-02)
+
+Monitoring. 1. The act of listening, carrying out surveillance on, and/or recording the
+emissions of one’s own or allied forces for the purposes of maintaining and improving
+procedural standards and security, or for reference, as applicable. 2. The act of
+listening, carrying out surveillance on, and/or recording of enemy emissions for
+intelligence purposes. 3. The act of detecting the presence of radiation and the
+measurement thereof with radiation measuring instruments. Also called radiological
+monitoring. (JP 1-02)
+
+Movement to contact. A form of the offense designed to develop the situation and to
+establish or regain contact. See also meeting engagement; reconnaissance in force.
+(JP 1-02)
+
+                                                                                                                     Glossary-19
+
+
+---
+
+ Named area of interest. The geographical area where information that will satisfy a
+ specific information requirement can be collected. Named areas of interest are usually
+ selected to capture indications of adversary courses of action, but also may be related
+ to conditions of the battlespace. Also called NAI. See also area of interest. (JP 1-02)
+ Nonbattle injury. A person who becomes a casualty due to circumstances not directly
+ attributable to hostile action or terrorist activity. Also called NBI. (JP 1-02)
+ Nongovernmental organizations. Transnational organizations of private citizens
+ that maintain a consultative status with the Economic and Social Council of the
+ United Nations. Nongovernmental organizations may be professional associations,
+ foundations, multinational businesses, or simply groups with a common interest in
+ humanitarian assistance activities (development and relief). “Nongovernmental
+ organizations” is a term normally used by non-United States organizations. Also called
+ NGOs. (JP 1-02)
+ Nuclear, biological, and chemical defense. Defensive measures that enable
+ friendly forces to survive, fight, and win against enemy use of nuclear, biological, or
+ chemical (NBC) weapons and agents. United States forces apply NBC defensive
+ measures before and during integrated warfare. In integrated warfare, opposing forces
+ employ nonconventional weapons along with conventional weapons (NBC weapons are
+ nonconventional). See also integrated warfare. (JP 1-02)
+ Nuclear, biological, and chemical environment. Environments in which there is
+ deliberate or accidental employment, or threat of employment, of nuclear, biological, or
+ chemical weapons; deliberate or accidental attacks or contamination with toxic
+ industrial materials, including toxic industrial chemicals; or deliberate or accidental
+ attacks or contamination with radiological (radioactive) materials. See also
+ contamination. (JP 1-02)
+ Objective. 1. The clearly defined, decisive, and attainable goals towards which every
+ military operation should be directed. 2. The specific target of the action taken (for
+ example, a definite terrain feature, the seizure or holding of which is essential to the
+ commander’s plan, or, an enemy force or capability without regard to terrain features).
+ See also target. (JP 1-02)
+ Obstacle. Any obstruction designed or employed to disrupt, fix, turn, or block the
+ movement of an opposing force, and to impose additional losses in personnel, time, and
+ equipment on the opposing force. Obstacles can be natural, manmade, or a
+ combination of both. (JP 1-02)
+
+Glossary-20
+
+
+---
+
+Operational control. Command authority that may be exercised by commanders at
+any echelon at or below the level of combatant command. Operational control is
+inherent in combatant command (command authority) and may be delegated within
+the command. When forces are transferred between combatant commands, the
+command relationship the gaining commander will exercise (and the losing
+commander will relinquish) over these forces must be specified by the Secretary of
+Defense. Operational control is the authority to perform those functions of command
+over subordinate forces involving organizing and employing commands and forces,
+assigning tasks, designating objectives, and giving authoritative direction necessary to
+accomplish the mission. Operational control includes authoritative direction over all
+aspects of military operations and joint training necessary to accomplish missions
+assigned to the command. Operational control should be exercised through the
+commanders of subordinate organizations. Normally this authority is exercised
+through subordinate joint force commanders and Service and/or functional component
+commanders. Operational control normally provides full authority to organize
+commands and forces and to employ those forces as the commander in operational
+control considers necessary to accomplish assigned missions; it does not, in and of
+itself, include authoritative direction for logistics or matters of administration,
+discipline, internal organization, or unit training. Also called OPCON. See also
+combatant command; combatant command (command authority); tactical control.
+(JP 1-02)
+
+Operation plan. Any plan, except for the Single Integrated Operational Plan, for the
+conduct of military operations. Plans are prepared by combatant commanders in
+response to requirements established by the Chairman of the Joint Chiefs of Staff and
+by commanders of subordinate commands in response to requirements tasked by the
+establishing unified commander. Operation plans are prepared in either a complete
+format (OPLAN) or as a concept plan (CONPLAN). The CONPLAN can be published
+with or without a time-phased force and deployment data (TPFDD) file. a. OPLAN--An
+operation plan for the conduct of joint operations that can be used as a basis for
+development of an operation order (OPORD). An OPLAN identifies the forces and
+supplies required to execute the combatant commander''s strategic concept and a
+movement schedule of these resources to the theater of operations. The forces and
+supplies are identified in TPFDD files. OPLANs will include all phases of the tasked
+operation. The plan is prepared with the appropriate annexes, appendixes, and
+TPFDD files as described in the Joint Operation Planning and Execution System
+manuals containing planning policies, procedures, and formats. Also called OPLAN. b.
+CONPLAN--An operation plan in an abbreviated format that would require
+considerable expansion or alteration to convert it into an OPLAN or OPORD. A
+CONPLAN contains the combatant commander''s strategic concept and those annexes
+and appendixes deemed necessary by the combatant commander to complete planning.
+Generally, detailed support requirements are not calculated and TPFDD files are not
+prepared. c. CONPLAN with TPFDD--A CONPLAN with TPFDD is the same as a
+CONPLAN except that it requires more detailed planning for phased deployment of
+forces. Also called CONPLAN. See also operation order; time-phased force and
+deployment data. (JP 1-02)
+
+Operations center. The facility or location on an installation, base, or facility used by
+the commander to command, control, and coordinate all crisis activities. See also base
+defense operations center; command center. (JP 1-02)
+
+                                                                                                                     Glossary-21
+
+
+---
+
+ Operations security. A process of identifying critical information and subsequently
+ analyzing friendly actions attendant to military operations and other activities to: a.
+ identify those actions that can be observed by adversary intelligence systems; b.
+ determine indicators that hostile intelligence systems might obtain that could be
+ interpreted or pieced together to derive critical information in time to be useful to
+ adversaries; and c. select and execute measures that eliminate or reduce to an
+ acceptable level the vulnerabilities of friendly actions to adversary exploitation. Also
+ called OPSEC. See also command and control warfare; operations security indicators;
+ operations security measures; operations security planning guidance; operations
+ security vulnerabilbity. (JP 1-02)
+
+ Ordnance. Explosives, chemicals, pyrotechnics, and similar stores, e.g., bombs, guns
+ and ammunition, flares, smoke, or napalm. (JP 1-02)
+
+ Persistency. In biological or chemical warfare, the characteristic of an agent which
+ pertains to the duration of its effectiveness under determined conditions after its
+ dispersal. (JP 1-02)
+
+ Port of debarkation. The geographic point at which cargo or personnel are
+ discharged. This may be a seaport or aerial port of debarkation; for unit requirements;
+ it may or may not coincide with the destination. Also called POD. See also port of
+ embarkation. (JP 1-02)
+
+ Port of embarkation. The geographic point in a routing scheme from which cargo or
+ personnel depart. This may be a seaport or aerial port from which personnel and
+ equipment flow to a port of debarkation; for unit and nonunit requirements, it may or
+ may not coincide with the origin. Also called POE. See also port of debarkation.
+ (JP 1-02)
+
+ Preventive medicine. The anticipation, communication, prediction, identification,
+ prevention, education, risk assessment, and control of communicable diseases,
+ illnesses and exposure to endemic, occupational, and environmental threats. These
+ threats include nonbattle injuries, combat stress responses, weapons of mass
+ destruction, and other threats to the health and readiness of military personnel.
+ Communicable diseases include anthropod-, vector-, food-, waste-, and waterborne
+ diseases. Preventive medicine measures include field sanitation, medical surveillance,
+ pest and vector control, disease risk assessment, environmental and occupational
+ health surveillance, waste (human, hazardous, and medical) disposal, food safety
+ inspection, and potable water surveillance. Also called PVNTMED. (JP 1-02)
+
+ Priority intelligence requirements. Those intelligence requirements for which a
+ commander has an anticipated and stated priority in the task of planning and decision
+ making. Also called PIRs. See also information requirements; intelligence;
+ intelligence cycle; intelligence requirement. (JP 1-02)
+
+Glossary-22
+
+
+---
+
+Protection. 1. Measures that are taken to keep nuclear, biological, and chemical
+hazards from having an adverse effect on personnel, equipment, or critical assets and
+facilities. Protection consists of five groups of activities: hardening of positions,
+protecting personnel, assuming mission-oriented protective posture, using physical
+defense measures, and reacting to attack. 2. In space usage, active and passive
+defensive measures to ensure that United States and friendly space systems perform
+as designed by seeking to overcome an adversary’s attempts to negate them and to
+minimize damage if negation is attempted. See also mission-oriented protective
+posture; space control. (JP 1-02)
+
+Protective clothing. Clothing especially designed, fabricated, or treated to protect
+personnel against hazards caused by extreme changes in physical environment,
+dangerous working conditions, or enemy action. (JP 1-02)
+
+Protective mask. A protective ensemble designed to protect the wearer’s face and
+eyes and prevent the breathing of air contaminated with chemical and/or biological
+agents. See also mission-oriented protective posture. (JP 1-02)
+
+Reconnaissance. A mission undertaken to obtain, by visual observation or other
+detection methods, information about the activities and resources of an enemy or
+potential enemy, or to secure data concerning the meteorological, hydrographic, or
+geographic characteristics of a particular area. Also called RECON. (JP 1-02)
+
+Risk assessment. The identification and assessment of hazards (first two steps of
+risk management process. (JP 1-02)
+
+Search. 1. An operation to locate an enemy force known or believed to be at sea. 2. A
+systematic reconnaissance of a defined area, so that all parts of the area have passed
+within visibility. 3. To distribute gunfire over an area in depth by successive changes
+in gun elevation. (JP 1-02)
+
+Security. 1. Measures taken by a military unit, activity, or installation to protect
+itself against all acts designed to, or which may, impair its effectiveness. 2. A condition
+that results from the establishment and maintenance of protective measures that
+ensure a state of inviolability from hostile acts or influences. 3. With respect to
+classified matter, the condition that prevents unauthorized persons from having
+access to official information that is safeguarded in the interests of national security.
+(JP 1-02)
+
+Signal security. A generic term that includes both communications security and
+electronics security. See also security. (JP 1-02)
+
+Signals intelligence. 1. A category of intelligence comprising either individually or
+in combination all communications intelligence, electronic intelligence, and foreign
+instrumentation signals intelligence, however transmitted. 2. Intelligence derived
+from communications, electronic, and foreign instrumentation signals. Also called
+SIGINT. See also communications intelligence; electronic intelligence; intelligence;
+foreign instrumentation signals intelligence. (JP 1-02)
+
+Situation report. A report giving the situation in the area of a reporting unit or
+formation. Also called SITREP. (JP 1-02)
+
+                                                                                                                     Glossary-23
+
+
+---
+
+ Special operations forces. Those Active and Reserve Component forces of the
+ Military Services designated by the Secretary of Defense and specifically organized,
+ trained, and equipped to conduct and support special operations. Also called SOF. See
+ also Air Force special operations forces; Army special operations forces; naval special
+ warfare forces. (JP 1-02)
+
+ Subordinate command. A command consisting of the commander and all those
+ individuals, units, detachments, organizations, or installations that have been placed
+ under the command by the authority establishing the subordinate command. (JP 1-02)
+
+ Suppression of enemy air defenses. That activity that neutralizes, destroys, or
+ temporarily degrades surface-based enemy air defenses by destructive and/or
+ disruptive means. Also called SEAD. See also electromagnetic spectrum; electronic
+ warfare. (JP 1-02)
+
+ Surveillance. The systematic observation of aerospace, surface, or subsurface areas,
+ places, persons, or things by visual, aural, electronic, photographic, or other means.
+ See also air surveillance; satellite and missile surveillance; sea surveillance. (JP 1-02)
+
+ Survey. The directed effort to determine the location and the nature of a chemical,
+ biological, and radiological hazard in an area. (JP 1-02)
+
+ Tactical control. Command authority over assigned or attached forces or commands,
+ or military capability or forces made available for tasking, that is limited to the
+ detailed direction and control of movements or maneuvers within the operational area
+ necessary to accomplish missions or tasks assigned. Tactical control is inherent in
+ operational control. Tactical control may be delegated to, and exercised at any level at
+ or below the level of combatant command. Also called TACON. When forces are
+ transferred between combatant commands, the command relationship the gaining
+ commander will exercise (and the losing commander will relinquish) over these forces
+ must be specified by the Secretary of Defense. Tactical control provides sufficient
+ authority for controlling and directing the application of force or tactical use of combat
+ support assets within the assigned mission or task. Also called TACON. See also
+ combatant command; combatant command (command authority); operational control.
+ (JP 1-02)
+
+ Tactical operations center. A physical groupment of those elements of a general
+ and special staff concerned with the current tactical operations and the tactical
+ support thereof. Also called TOC. (JP 1-02)
+
+ Tactics. 1. The employment of units in combat. 2. The ordered arrangement and
+ maneuver of units in relation to each other and/or to the enemy in order to use their
+ full potentialities. (JP 1-02)
+
+ Terrorism. The calculated use of unlawful violence or threat of unlawful violence to
+ inculcate fear; intended to coerce; or to intimidate governments or societies in the
+ pursuit of goals that are generally political, religious or ideological. See also
+ antiterrorism; combatting terrorism; counterterrorism; force protection condition;
+ terrorist; terrorist groups. (JP 1-02)
+
+Glossary-24
+
+
+---
+
+Theater of operations. A subarea within a theater of war defined by the geographic
+combatant commander required to conduct or support specific combat operations.
+Different theaters of operations within the same theater of war will normally be
+geographically separate and focused on different enemy forces. Theaters of operations
+are usually of significant size, allowing for operations over extended periods of time.
+Also called TO. See also theater of war. (JP 1-02)
+
+Time-phased force and deployment data. The Joint Operation Planning and
+Execution System database portion of an operation plan; it contains time-phased force
+data, non-unit-related cargo and personnel data, and movement data for the operation
+plan, including the following: a. In-place units; b. Units to be deployed to support the
+operation plan with a priority indicating the desired sequence for their arrival at the
+port of debarkation; c. Routing of forces to be deployed; d. Movement data associated
+with deploying forces; e. Estimates of non-unit-related cargo and personnel
+movements to be conducted concurrently with the deployment of forces; and
+f. Estimate of transportation requirements that must be fulfilled by common-user lift
+resources as well as those requirements that can be fulfilled by assigned or attached
+transportation resources. Also called TPFDD. See also time-phased force and
+deployment data maintenance; time-phased force and deployment data refinement;
+time-phased force and deployment list. (JP 1-02)
+
+Time-phased force and deployment list. Appendix 1 to Annex A of the operation
+plan. It identifies types and/or actual units required to support the operation plan and
+indicates origin and ports of debarkation or ocean area. It may also be generated as a
+computer listing from the time-phased force and deployment data. Also called TPFDL.
+See also Joint Operation Planning and Execution System; time-phased force and
+deployment data; time-phased force and deployment data maintenance; time-phased
+force and deployment data refinement. (JP 1-02)
+
+Unit movement data. A unit equipment and/or supply listing containing
+corresponding transportability data. Tailored unit movement data has been modified
+to reflect a specific movement requirement. Also called UMD. (JP 1-02)
+
+Unit type code. A Joint Chiefs of Staff developed and assigned code, consisting of five
+characters that uniquely identify a “type unit.” (JP 1-02)
+
+Weapons of mass destruction. Weapons that are capable of a high order of
+destruction and/or of being used in such a manner as to destroy large numbers of
+people. Weapons of mass destruction can be high explosives or nuclear, biological,
+chemical, and radiological weapons, but exclude the means of transporting or
+propelling the weapon where such means is a separable and divisible part of the
+weapon. Also called WMD. See also destruction; special operations. (JP 1-02)
+
+                                                                                                                     Glossary-25
+
+
+---
+
+INDEX
+
+A                                            biomarker B-2
+                                             building characteristic E-23
+air exhaust E-22                             BW attack warning F-1
+Air Force B-1
+air handling system E-23                     BW hazard
+air-sample collection I-4
+amphibious operation E-19                        assessing I-5
+area array III-16, E-10                          detecting I-4
+Army B-1                                         identifying I-4
+Army medical laboratory I-13                 BW-threat analysis E-7
+array III-1, E-6, E-9
+assets IV-2                                  C
+assistant operator H-3
+atmospheric visibility H-12                  Centers for Disease Control and
+attack E-3
+                                             Prevention (CDC) I-13
+B                                            centralized D-10
+                                             centralized warning and reporting F-2
+background characteristic I-8                chain-of-custody IV-4, I-3, I-14
+background data I-17                         chain-of-custody form G-4
+background data recording I-8
+background sample E-9, G-3                   chemical-biological mass spectrometer
+BIDS II-10, C-2, E-5
+BIDS incident report I-2, I-12, I-17         (CMBS) I-1
+BIDS unit report I-18                        chokepoint E-19
+biological reporting V-2                     cloud loss detection report H-31
+biological sampler I-1                       CLS D-1
+biological surveillance I-1                  cold-weather sample G-7
+                                             Combatant Command Responsibilities D-5
+biological surveillance capabilities         commander’s responsibilities D-3
+                                             communication requirement D-2
+    alerting II-1                            communications II-10
+    detecting II-1                           communications architecture V-14
+    identifying II-1                         communications planning and net I-26
+    monitoring II-1                          completed evacuation package I-6, I-16
+    sampling II-1                            concept of operations E-1
+biological surveillance plan E-6             confidence level V-10
+    command and signal III-6                 confirmatory B-3
+    execution III-6                          confirmatory lab B-4
+    mission III-6                            confirmatory laboratory support I-11
+    service support III-6                    contingency plan A-3
+                                             continuous-sampling protocol I-7
+biological-detection and -collection assets
+                                             contracted logistics support
+II-7
+                                             responsibilities D-6
+biological-detection asset responsibilities  contracting officer’s representative D-6
+
+D-6                                              limits D-7
+biological-detection unit G-3                CONUS Replacement Center (CRC) D-4
+biological-surveillance execution H-20       coordination IV-2
+                                             courier team G-3
+biological-surveillance plan                 critical data requirement V-2
+                                             critical infrastructure E-23
+    situation III-3                          critical node III-16, E-10
+biological-surveillance planning III-1
+
+                                             Index-1
+
+
+---
+
+D                                             flight profile H-10, H-16
+                                                  straight-and-parallel H-10
+data analysis I-10                                variable altitude and airspeed H-11
+data collection method I-6
+decentralized D-10                            follow-up detection report H-30
+decentralized warning F-1                     force structure augmentation D-1
+decentralized warning and reporting F-2
+definitive identification I-13                Force XXI Battle Command Brigade and
+definitive testing B-3
+deployment area number E-20                   Below (FBCB2) V-2
+
+deployment of contracted logistics support    forward-deployed preventive medicine unit
+
+personnel D-9                                 I-13
+detection I-2
+detection and incident report H-31            H
+detection report data item H-33
+detection site E-20                           habitual relationship D-2
+detector trigger I-10                         handheld assay C-7
+disk mailer G-7                               high-risk billet E-23
+distance E-10, H-12                           high-risk personnel E-23
+DOD biological sampling kit C-6               HVT E-23
+downwind hazard prediction F-1
+dry dissemination H-14                        I
+dry filter unit I-11, II-10, C-5, E-18, E-19
+duration E-7                                  immunization A-1                   H-30
+                                              incident report V-8, V-11, I-19
+E                                             incubation period I-1
+                                              indoor biological detection E-22
+employment E-10
+employment tactic E-11                        initial LRBSDS detection report
+
+    circle E-11                               installation responsibilities D-4
+    dense picket E-13                         intelligence trigger I-10
+    dice five E-11                            interior release E-22
+    picket line E-11                          internal sampling E-19
+    semicircle E-13                           international border D-3
+epidemiological analysis A-1
+evacuating a sample II-2                      J
+evacuation route IV-3
+event tracking I-20                           JBPDS II-10, E-5, E-18
+exterior deployment area E-19                 JBPDS (M31A2-BIDS) function I-13
+exterior release E-22
+                                              JBPDS (M31A2-BIDS) operational mode
+F
+                                              I-16
+facility requirement D-3                          background characteristic I-17
+false negative B-3                                degraded mode I-16
+FBCB2 I-3, I-28                                   extreme cold mode I-16
+field confirmatory identification I-12, IV-4      periodic mode I-16
+field confirmatory testing B-4                    single sample mode I-16
+field lab support B-1                             standard mode I-16
+fixed sites, ports, or airfield FP I-8
+fixed-site III-1                              Joint Biological Point Detection System
+
+                                              (JBPDS) C-4
+                                              Joint Portal Shield II-10
+                                              Joint Portal Shield network I-11, C-1, E-5
+
+                                              Joint Service Light Nuclear, Biological,
+                                              and Chemical Reconnaissance System
+
+                                              (JSLNBCRS) II-10
+                                              Joint Warning and Reporting Network V-2
+
+Index-2
+
+
+---
+
+L                                         N
+
+lab support II-11                         Navy B-2
+laboratories B-1                          Navy Medical Research Center I-13
+Laboratory Response Network I-12, I-13,   NBC control center V-3
+B-4                                       NBC reports and overlay V-4
+laser scanning H-28                       NBC-1 biological BIO report V-3
+legal obligation D-2                      NBC-1 Report F-1
+line source E-10
+liquid sampler I-1                        O
+logistics planning D-1
+logistics requirement I-14                onboard cooler I-4
+long line source H-11
+                                          operational concept for biological
+Long-Range Biological Standoff Detection
+                                          surveillance I-3
+System (LRBSDS) III-2, C-4, H-1           operational planning III-2
+    capabilities H-1                      operations in unusual conditions E-21
+         classifying H-2
+         mapping H-2                          cold weather operation E-21
+                                              desert operation E-21
+lost cloud H-28                               jungle operation E-21
+                                              mountain operation E-21
+LRBSDS                                        urban terrain operation E-21
+                                          other planning factor H-17
+    detection H-26
+    detection process H-20                P
+    employment concept H-4
+    flight operation H-22                 P3I BIDS detection classification I-7
+    NCOIC H-3                             P3I BIDS event cycle I-7
+    operator H-3
+    planning H-4                          P3I Biological Integrated Detection
+    scanning range H-14
+                                          System information management I-12
+M                                         particle backscatter H-12, H-14
+                                          point source E-10, H-11
+maintaining the chain of custody II-2     postattack E-3
+maintenance support D-9                   postoperation H-34
+maneuver or maritime FP I-8               preattack E-1
+man-portable JBPDS II-10                  predictive value B-4
+mass casualties and quarantine A-2        preplanned product improvement I-1
+medical surveillance I-1                  presumptive identification IV-3
+meteorological condition E-7              priorities IV-2
+method of dissemination E-5               priorities of effort I-10
+METT-TC conditions I-3                    prophylaxis and treatment A-2
+microbiology augmentation set B-2         protect V-5
+mission factor H-16                       PVNTMED A-1
+mission profile H-8
+                                          Q
+    preplanned H-8
+    scheduled H-8                         quality management H-4
+                                          quality-management program I-12
+mode                                      quarantine A-3
+
+    collection only E-9                   R
+    periodic sampling E-9
+    single sample E-9                     reconnaissance E-19, H-16
+    standard E-9                          reduced-capability operation I-7
+    standby E-9                           reference laboratory I-13
+
+                                          Index-3
+
+
+---
+
+report information V-11                technical escort unit (TEU) II-11
+reporting II-1, IV-2                   threat I-2
+reporting requirement IV-3, I-19       threat analysis E-1
+responsiveness of support D-2          threat-based protocol I-7
+restriction of movement A-4
+resupply D-10                          U
+risk assessment D-1
+risk reduction measures I-3            ultraviolet aerodynamic particle sizer
+
+S                                      (UVAPS) I-1
+                                       unit requisition D-10
+safety zone D-3
+sample bottle G-7                      United States Army Medical Research
+sample container G-4                   Institute of Infectious Diseases
+sample courier II-11
+sample evacuation IV-2, G-1            (USAMRIID) I-13
+
+    handling G-9                       V
+    packaged G-8
+sample evacuation execution IV-4       vaccines A-2
+sample evacuation plan II-12, IV-2     vulnerability analysis E-1
+sample handling I-3, I-14              vulnerability assessment (VA) E-3
+sample identification number G-9
+sample transfer case G-4, I-4          W
+sample transfer point IV-2, G-3
+sample vial G-6                        warn V-5
+scheduled interval E-18                weapons event trigger I-10
+selecting a flight profile H-14        weather V-12
+senior theater logistics command D-5   wet dissemination H-14
+separation distance E-17
+service component commander (SCC) D-5
+shipboard JBPDS C-4
+short line source H-11
+single-point source E-10
+site selection E-19
+situation report I-19
+
+source
+
+    line E-5
+    point E-5
+specificity B-3
+split basing the LRBSDS H-6
+standard protocol I-6
+strategic planning III-2
+supporting data I-3
+supporting document G-7, I-5
+supporting lab G-3
+surveillance plan III-1
+system operator D-10
+
+T
+
+tactical planning III-2
+task monitor D-6
+
+Index-4
+
+
+---
+
+                                                  FM 3-11.86
+                                            MCWP 3-37.1C
+
+                                              NTTP 3-11.31
+                                           AFTTP(I) 3-2.52
+
+                                        4 OCTOBER 2004
+
+By Order of the Secretary of the Army:
+
+                                         PETER J. SCHOOMAKER
+                                        General, United States Army
+
+                                                   Chief of Staff
+
+Official:
+
+      JOEL B. HUDSON
+Administrative Assistant to the
+
+     Secretary of the Army
+                    0424605
+
+DISTRIBUTION:
+
+Active Army, Army National Guard, and U.S. Army Reserve: To be distributed
+in accordance with the initial distribution number 115441, requirements for
+FM 3-11.86.
+
+By Order of the Secretary of the Air Force
+
+DAVID F. MACGHEE, JR.
+Major General, USAF
+Commander
+Headquarters Air Force Doctrine Center
+
+Air Force Distribution: F
+Marine Corps PCN: 144 000145 00
+
+
+---
+
+PIN: 081853-000
+
+
+--- 
